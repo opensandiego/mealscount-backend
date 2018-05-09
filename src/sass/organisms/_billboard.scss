@@ -1,0 +1,74 @@
+.billboard {
+  overflow: hidden;
+  text-align: center;
+  @include media($tablet-up) {
+    text-align: inherit;
+    > .grid-box {
+      display: flex;
+      align-items: center;
+    }
+  }
+}
+
+.billboard p {
+  font-size: map-get($h4-styles, font-size);
+  line-height: map-get($h4-styles, line-height);
+}
+
+.billboard-image {
+  margin-bottom: -2.5rem;
+  @include media($tablet-up) {
+    margin-top: -4.5rem;
+    margin-bottom: -4.5rem;
+  }
+}
+
+.billboard-bleed {
+	padding: 0;
+	
+	.grid-box {
+    position: relative;
+    max-width: none;
+    
+    p {
+      @include media($tablet-up) {  
+        font-size: map-get($h4-styles, font-size);
+        line-height: map-get($h4-styles, line-height);
+      }      
+    }
+    
+		.left-bleed {
+			width: 70%;
+			margin: 0 auto;
+			text-align: center;
+			padding: 15px 0;
+			@include media($tablet-up) {
+  			float: left;
+				width: 33%;	
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);						
+			}
+			.cta {
+  			margin: 0 auto;
+  			text-align: center;
+  			@include media($tablet-up) {
+  			  width: 70%;  			
+    		}
+			}			
+		}
+
+    .right-bleed {
+      img {
+      	display: block;
+      }
+      @include media($tablet-up) {
+      	float: right;
+      	width: 66%;	
+      }				
+    }
+    
+    @include clearfix;
+	}
+
+}

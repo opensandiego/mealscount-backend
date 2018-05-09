@@ -1,0 +1,24 @@
+figure {
+  margin: {
+    top: $large-spacing;
+    bottom: $large-spacing;
+    left: 0;
+    right: 0;
+  }
+  width: 100%;
+
+  img {
+    border: 1px solid $color-light-gray;
+  }
+
+  figcaption {
+    margin-top: $small-spacing;
+    font-size: $small-font-size;
+    color: $color-dark-gray;
+    > p {
+      @include detail-text;
+      font-family: $font-sans;
+      margin: 0;
+    }
+  }
+}

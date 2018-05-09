@@ -1,0 +1,75 @@
+.template-home {
+  .home-hero {
+    @include clearfix;
+    background-color: $color-grey-200;
+
+    background-size: cover;
+    background-position: bottom;
+    overflow: hidden;
+  }
+
+  .home-hero-header {
+    @include media($tablet-up) {
+      padding-bottom: 0;
+    }
+  }
+
+  .home-hero-content {
+    padding: 1rem $site-margins;
+    position: relative;
+  }
+  .home-hero-content .grid-box {
+    @include media($tablet-up) {
+      min-height: 20rem;
+      display: flex;
+      align-items: center;
+    }
+  }
+  .home-hero-title {
+    text-align: center;
+      @include h3;
+      color: black;
+      font-weight: 400;
+    @include media($tablet-up) {
+      @include h2;
+      font-weight: 400;
+    }
+    @include media($widescreen-up) {
+      @include title;
+      font-weight: 400;
+    }
+  }
+  .home-hero-lead-in {
+    text-align: center;
+    font-weight: 400;
+    @include media($tablet-up) {
+      @include h4;
+      font-weight: 400;
+    }
+  }
+
+  .home-hero-image {
+    margin-bottom: -2rem;
+    @include media($tablet-up) {
+      position: absolute;
+      bottom: -1rem;
+      margin-bottom: 0;
+    }
+    @include media($midscreen-up) {
+      position: relative;
+      bottom: 0;
+      margin-bottom: -2rem;
+    }
+  }
+
+  .slab > h3 {
+    color: $color-black;
+  }
+  .alert a {
+    border-bottom: 0;
+    text-align: center;
+    @include media($tablet-up) {
+      text-align: inherit;
+    }
+  }
+}

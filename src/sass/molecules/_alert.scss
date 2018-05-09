@@ -1,0 +1,50 @@
+.alert {
+  color: white;
+
+  a {
+    display: block;
+    width: 100%;
+    padding: .5rem $site-margins;
+    background-color: $color-shade-gray;
+    border-bottom: 1px solid $color-light-gray;
+    color: $color-red;
+    font-weight: 600;
+    text-decoration: none;
+    // text-align: center;
+  }
+
+  .alert-text {
+    display: block;
+    max-width: $site-max-width;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: .8rem;
+
+    @include media($tablet-up) {
+      font-size: inherit;
+    }
+  }
+
+  .alert-link {
+    text-decoration: underline;
+    display: block;
+    clear: left;
+    margin-top: -.3rem;
+
+    @include media($tablet-up) {
+      display: inline;
+      clear: none;
+      margin-top: 0;
+    }
+  }
+}
+
+.info-alert {
+  @extend .alert;
+
+  a {
+    border-bottom: 0;
+  }
+}

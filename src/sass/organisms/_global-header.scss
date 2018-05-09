@@ -1,0 +1,128 @@
+.global-header {
+  @include clearfix();
+
+  padding: 1em $site-margins;
+  @include media($tablet-up) {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+  }
+  // .menu-item:not(.js-menu-button) {
+  //   display: none;
+  //   @include media($tablet-up) {
+  //     display: block;
+  //   }
+  // }
+  // .js-menu-button {
+  //   @include media($tablet-up) {
+  //     display: none;
+  //   }
+  // }
+}
+
+.logo img {
+
+}
+
+.global-header-logo {
+  // display: inline-block;
+  // margin-right: .5em;
+  // height: 1.2em;
+  // width: auto;
+  // position: relative;
+  // top: .2em;
+
+  img {
+    max-width: 100px;
+    @include media($tablet-up) {
+      max-width: 150px;
+    }
+  }
+}
+
+.global-header-title {
+  margin: {
+    top: 0;
+    right: 0;
+    left: 2rem;
+    bottom: 0;
+
+  }
+  font-size: $small-font-size;
+  line-height: $small-font-size * 1.5;
+  display: block;
+  .subtitle {
+    display: block;
+    clear: left;
+    color: $color-gray;
+  }
+  @include media($tablet-up) {
+    font-size: $base-font-size;
+    margin-top: .5rem;
+    .subtitle { font-size: $small-font-size }
+  }
+}
+
+.global-header-buttons {
+  position: relative;
+  top: -.3rem;
+  @include media($tablet-up) {
+    top: .3rem;
+    .js-menu-button {
+      display: none;
+    }
+  }
+}
+.global-header-buttons a.button {
+  margin-right: 0;
+  margin-left: .5rem;
+}
+
+.global-header-navigation {
+  display: none;
+  @include media($tablet-up) {
+    display: block;
+    padding-top: $large-spacing;
+  }
+}
+
+.global-header-menu {
+  position: relative;
+  top: .3em;
+}
+
+// .global-header-search {
+//   padding: 1em $site-margins;
+//   background-color: $color-grey-50;
+//   border-bottom: 1px solid $color-grey-300;
+//   display: none;
+
+//   .searchbar {
+//     border: 0;
+//     max-width: $site-max-width;
+//     margin: 0 auto;
+//   }
+//   .searchbar-input, .searchbar-button {
+//     font-size: map-get($h2-styles, font-size);
+//     background-color: transparent;
+//     padding: 0;
+//   }
+
+// }
+
+.global-header-buttons .global-header-search {
+  margin-top: 0.45em;
+  // Hide header-search on narrow screens
+  display: none;
+  @include media($tablet-up) { display: block; }
+}
+
+// For use on reverse backgrounds
+.reverse-global-header {
+  .global-header-menu .menu-item {
+    color: white;
+  }
+  .global-header-menu .active-menu-item {
+    color: white;
+    font-weight: 600;
+  }
+}

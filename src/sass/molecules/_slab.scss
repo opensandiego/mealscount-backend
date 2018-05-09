@@ -1,0 +1,83 @@
+.slab {
+  @include clearfix;
+  display: block;
+  margin: {
+    left: -$site-margins;
+    right: -$site-margins;
+  }
+  h1, h2, h3, h4, h5, h6, .grid-box {
+    max-width: $site-max-width;
+    margin: {
+      left: auto;
+      right: auto;
+    }
+  }
+  padding: 2rem $site-margins;
+  @include media($tablet-up) {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+  }
+}
+
+// If a slab is the last item in main, pull the footer up to meet it
+main > .slab:last-child {
+  margin-bottom: -2rem;
+  @include media($tablet-up) {
+    margin-bottom: -4rem;
+  }
+}
+
+.slab-title {
+  @include h3;
+  color: $color-black;
+  font-weight: 600;
+}
+
+// Styled slabs
+.center-align-slab {
+  text-align: center;
+}
+
+.border-top-slab {
+  position: relative;
+  &:before {
+    content: "";
+    display: block;
+    position: absolute;
+    height: 1px;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    max-width: $site-max-width;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: $color-light-gray;
+  }
+  // border-top: 1px solid $color-light-gray;
+}
+
+.tight-slab {
+  padding: 2rem $site-margins;
+  @include media($tablet-up) {
+    padding: 2rem $site-margins;
+  }
+}
+
+// Slabs with background colors
+%reverse-slab {
+  h1,h2,h3,h4,h5,h6,p {
+    color: white;
+  }
+}
+.blue-bg-slab {
+  @extend %reverse-slab;
+  background-color: $color-dark-blue;
+}
+.green-bg-slab {
+  @extend %reverse-slab;
+  background-color: $color-green;
+}
+.gray-bg-slab {
+  background-color: $color-shade-gray;
+}
