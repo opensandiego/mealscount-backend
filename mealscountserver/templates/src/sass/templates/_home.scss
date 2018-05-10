@@ -1,11 +1,26 @@
 .template-home {
   .home-hero {
     @include clearfix;
+    position: relative;
     background-color: $color-grey-200;
-
     background-size: cover;
     background-position: bottom;
     overflow: hidden;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.15) 0%, rgba(0, 0, 0, 0.4) 99%);
+
+    &:before {
+      content: '';
+      display: block;
+      z-index: -1;
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background-image: url(../images/home-hero.jpg);
+      background-size: cover;
+      background-position: top center;
+    }
   }
 
   .home-hero-header {
@@ -15,7 +30,7 @@
   }
 
   .home-hero-content {
-    padding: 1rem $site-margins;
+    padding: 1rem $site-margins 4rem;
     position: relative;
   }
   .home-hero-content .grid-box {
@@ -28,23 +43,27 @@
   .home-hero-title {
     text-align: center;
       @include h3;
-      color: black;
+      color: white;
       font-weight: 400;
     @include media($tablet-up) {
       @include h2;
       font-weight: 400;
+      color: white;
     }
     @include media($widescreen-up) {
       @include title;
       font-weight: 400;
+      color: white;
     }
   }
   .home-hero-lead-in {
     text-align: center;
     font-weight: 400;
+    color: white;
     @include media($tablet-up) {
       @include h4;
       font-weight: 400;
+      color: white;
     }
   }
 

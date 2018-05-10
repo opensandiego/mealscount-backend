@@ -1376,6 +1376,9 @@ button.button-download:after, .button.button-download:after {
 .menu-item:hover, a.menu-item:hover {
   text-decoration: underline;
 }
+.template-home .menu-item, .template-home a.menu-item {
+  color: white;
+}
 
 .bar-menu .menu-item {
   float: left;
@@ -1871,6 +1874,16 @@ a.card:hover .card-link, .card.card-link:hover .card-link {
   margin-top: 0.625rem;
 }
 
+.global-header-logo a, .global-header-logo .card-link {
+  font-size: 24px;
+  text-decoration: none;
+  color: #000;
+  font-weight: 600;
+}
+.template-home .global-header-logo a, .template-home .global-header-logo .card-link {
+  color: white;
+}
+
 .global-header {
   padding: 1em 20px;
 }
@@ -1885,6 +1898,11 @@ a.card:hover .card-link, .card.card-link:hover .card-link {
   .global-header {
     padding-top: 3rem;
     padding-bottom: 3rem;
+  }
+  .global-header .width-one-half:last-child {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
   }
 }
 
@@ -1937,6 +1955,8 @@ a.card:hover .card-link, .card.card-link:hover .card-link {
 .global-header-buttons a.button, .global-header-buttons .button.card-link {
   margin-right: 0;
   margin-left: 0.5rem;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 .global-header-navigation {
@@ -2209,10 +2229,12 @@ body.mobile-navigation-is-active {
 }
 
 .template-home .home-hero {
+  position: relative;
   background-color: #eeeeee;
   background-size: cover;
   background-position: bottom;
   overflow: hidden;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.15) 0%, rgba(0, 0, 0, 0.4) 99%);
 }
 .template-home .home-hero:after {
   content: ".";
@@ -2221,13 +2243,26 @@ body.mobile-navigation-is-active {
   clear: both;
   visibility: hidden;
 }
+.template-home .home-hero:before {
+  content: "";
+  display: block;
+  z-index: -1;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: url(../images/home-hero.jpg);
+  background-size: cover;
+  background-position: top center;
+}
 @media screen and (min-width: 768px) {
   .template-home .home-hero-header {
     padding-bottom: 0;
   }
 }
 .template-home .home-hero-content {
-  padding: 1rem 20px;
+  padding: 1rem 20px 4rem;
   position: relative;
 }
 @media screen and (min-width: 768px) {
@@ -2243,7 +2278,7 @@ body.mobile-navigation-is-active {
   line-height: 2rem;
   font-weight: 400;
   color: #000;
-  color: black;
+  color: white;
   font-weight: 400;
 }
 @media screen and (min-width: 768px) {
@@ -2253,6 +2288,7 @@ body.mobile-navigation-is-active {
     font-weight: 400;
     color: #000;
     font-weight: 400;
+    color: white;
   }
 }
 @media screen and (min-width: 1201px) {
@@ -2261,11 +2297,13 @@ body.mobile-navigation-is-active {
     line-height: 3.75rem;
     font-weight: 600;
     font-weight: 400;
+    color: white;
   }
 }
 .template-home .home-hero-lead-in {
   text-align: center;
   font-weight: 400;
+  color: white;
 }
 @media screen and (min-width: 768px) {
   .template-home .home-hero-lead-in {
@@ -2274,6 +2312,7 @@ body.mobile-navigation-is-active {
     font-weight: 600;
     color: #000;
     font-weight: 400;
+    color: white;
   }
 }
 .template-home .home-hero-image {
@@ -2524,4 +2563,4 @@ body.mobile-navigation-is-active {
   border-bottom: 0;
 }
 
-/*# sourceMappingURL=file:///Users/MMT/websites/mealscount/assets/css/main.css.map */
+/*# sourceMappingURL=file:///Users/MMT/websites/mealscount-backend/mealscountserver/templates/assets/css/main.css.map */
