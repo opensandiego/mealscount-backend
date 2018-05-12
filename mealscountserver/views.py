@@ -8,7 +8,8 @@ class HomePageView(TemplateView):
         return render(request, 'index.html', context=None)
 
 class AboutPageView(TemplateView):
-    template_name = "about.html"
+	def get(self, request, **kwargs):
+        return render(request, 'about.html', context=None)
 
 class CalculatePageView(TemplateView):
     template_name = "calculate.html"
