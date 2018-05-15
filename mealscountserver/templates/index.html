@@ -8,10 +8,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <!-- Desriptive Metadata -->
   <meta name="description" content="A starter kit for government sites built with the Chime CMS">
-  <link rel="canonical" href="//articles/public-safety/emergency-services/example-article/">
+  <link rel="canonical" href="/">
   <link rel="alternate" type="application/rss+xml" title="Chime Starter" href="//feed.xml" />
   <!-- Pattern Library Stylesheets -->
-  <link rel="stylesheet" type="text/css" href="assets/css/main.css">
+  <link rel="stylesheet" type="text/css" href="{% static "mealscount/css/main.css" %}">
   <!-- Font Vendor Stylesheets -->
   <script src="https://use.typekit.net/lkd6vsz.js"></script>
   <script>try{Typekit.load({ async: true });}catch(e){}</script>
@@ -24,6 +24,7 @@
     <![endif]-->
 </head>
 <body class="template-home">
+  {% load static %}
   <!-- <div class="alert blue-bg-alert">
     <a href="#">
       <p class="alert-text">20,000 people ♥︎ our newsletter. We think you will too. <span class="alert-link">Sign up today.</span></p>
@@ -35,7 +36,6 @@
         <div class="width-one-half">
           <div class="align-left">
             <div class="global-header-logo">
-              <!-- <a href="/"><img class="header-icon" src="assets/images/cfa-logo-color.png" alt="Code for America Logo" /></a> -->
               <a href="index.html" title="MealsCount Home">MealsCount</a>
             </div>
           </div>
@@ -121,7 +121,6 @@
           </div>
           <div class="span-five shift-one-twelfth grid-item">
             <div class="billboard-image">
-              <!-- <img src="assets/images/products/getcalfresh.png" alt="GetCalFresh Product Screenshot"> -->
             </div>
           </div>
         </div><!-- end .grid-box -->
@@ -134,27 +133,8 @@
             <p>MealsCount was built to help schools and advocates make more informed decisions about how to maximize the <a href="about.html" title="Community Eligibility Provision">Community Eligibility Provision (CEP)</a> and, as a result, optimize the number of students served by universally free school meals and increase the amount of reimbursement being brought into the District. CEP is a sure way to secure and stabilize financial resources for school meals, but schools need help in making the program work at its best. MealsCount takes an innovative and proactive approach to optimizing CEP, by determining the best model of school grouping and calculating your district’s likely reimbursement.</p>
             <a href="calculate.html" class="button button-large button-outline">Calculate Your Disctrict</a>
           </div>
-          <!-- <div class="width-one-third shift-one-twelfth grid-item">
-            <div class="billboard-image">
-              <img src="assets/images/products/clearmyrecord.png" alt="Clear My Record Product Screenshot">
-            </div>
-          </div> -->
         </div><!-- end .grid-box -->
       </div><!-- end .slab -->
-      <!-- <div class="green-bg-slab slab billboard">
-        <div class="grid-box">
-          <div class="width-one-third shift-one-twelfth grid-item">
-            <h3 class="slab-title">ClientComm</h3>
-            <p>Keeping people out of jail by connecting them with case managers over text message.</p>
-            <a href="#" class="button button-small button-reverse">Learn more</a>
-          </div>
-          <div class="span-five shift-one-twelfth grid-item">
-            <div class="billboard-image">
-              <img src="assets/images/products/clientcomm.png" alt="Clear My Record Product Screenshot">
-            </div>
-          </div>
-        </div><!-- end .grid-box
-      </div> --><!-- end .slab -->
     </main>
   </div><!-- end .page-content -->
   <footer class="global-footer" role="contentinfo">
