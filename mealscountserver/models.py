@@ -15,7 +15,7 @@ class MC_RESULT(models.Model):
 class MC_REQUEST(models.Model):
 	request_time = models.DateTimeField()
 	pending = models.BooleanField()
-	result = models.ForeignKey(MC_RESULT, on_delete=models.PROTECT, null=true)
+	result = models.ForeignKey(MC_RESULT, on_delete=models.PROTECT, null=True)
 
 
 # Model for a MealsCount School
