@@ -15,6 +15,7 @@ class MC_RESULT(models.Model):
 class MC_REQUEST(models.Model):
 	request_time = models.DateTimeField()
 	pending = models.BooleanField()
+        email = models.CharField(max_length=100)
 	result = models.ForeignKey(MC_RESULT, on_delete=models.PROTECT, null=True)
 
 
