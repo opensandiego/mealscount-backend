@@ -27,5 +27,7 @@ class SubmitSpreadsheetView(View):
         response_text = "Hello World Response Method: " + str(request.method)
         request_body = request.body
         lines = request_body.splitlines()
-        response_text = response_text + " CSV Lines: " + str(lines)  
+        email = request.GET.get('email')
+        response_text = response_text + " CSV Lines: " + str(lines) + " Request: " + email  
+        response_text = response_text + "\n"
         return HttpResponse(response_text)
