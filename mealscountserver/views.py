@@ -4,6 +4,8 @@ from django.views.generic import TemplateView
 from django.http import HttpResponse
 from django.views.generic.base import View
 import csv
+import algorithm
+import csvparser
 
 # Create your views here.
 class HomePageView(TemplateView):
@@ -24,10 +26,5 @@ class ContactPageView(TemplateView):
 
 class SubmitSpreadsheetView(View):
     def dispatch(self, request, *args, **kwargs):
-        response_text = "Hello World Response Method: " + str(request.method)
-        request_body = request.body
-        lines = request_body.splitlines()
         email = request.GET.get('email')
-        response_text = response_text + " CSV Lines: " + str(lines) + " Request: " + email  
-        response_text = response_text + "\n"
-        return HttpResponse(response_text)
+        return HttpResponse(processSchools(parseCsv(request.body)))
