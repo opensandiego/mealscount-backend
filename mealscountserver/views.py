@@ -6,6 +6,7 @@ from django.views.generic.base import View
 import csv
 from algorithm import processSchools
 from csvparser import parseCsv
+from dao import uploadInformation
 
 # Create your views here.
 class HomePageView(TemplateView):
@@ -27,4 +28,6 @@ class ContactPageView(TemplateView):
 class SubmitSpreadsheetView(View):
     def dispatch(self, request, *args, **kwargs):
         email = request.GET.get('email')
-        return HttpResponse(processSchools(parseCsv(request.body)))
+        schoolData = parseCsv(request.body)
+        uploadInformation(schoolData)
+        return HttpResponse(processSchools(schoolData))
