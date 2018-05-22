@@ -8,6 +8,8 @@ def parseSchoolInfo(csvLine):
 def parseCsv(csvString):
 	csvLines = csvString.splitlines()
 	mealCountsSchools = []
+	# Ignore first line
+	csvLines = csvLines[1:]
 	for csvLine in csvLines:
 		mealCountsSchools = [parseSchoolInfo(csvLine)] + mealCountsSchools
 	return mealCountsSchools
