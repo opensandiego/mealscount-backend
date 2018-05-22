@@ -2,4 +2,4 @@
 def processSchools(mealCountsSchoolsArray):
 
 	# Eventually return a processed JSON string here
-	return "{" + len(mealCountsSchoolsArray) + "}"
+	return "{" + str(len(mealCountsSchoolsArray)) + "}"
