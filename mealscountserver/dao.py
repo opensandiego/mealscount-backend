@@ -1,4 +1,5 @@
 import datetime
+from models import MC_REQUEST, MC_SCHOOL
 
 def upload(mealCountsSchool, inputEmail):
 	requestDbObject= MC_REQUEST(request_time =datetime.datetime.now(), pending = False, email = inputEmail)
