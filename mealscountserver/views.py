@@ -27,8 +27,8 @@ class ContactPageView(TemplateView):
     template_name = "contact.html"
 
 class SubmitSpreadsheetView(View):
-	@transaction.commit_manually
-    def dispatch(self, request, *args, **kwargs):
+    @transaction.commit_manually
+	def dispatch(self, request, *args, **kwargs):
         email = request.GET.get('email')
         schoolData = parseCsv(request.body)
         try:
