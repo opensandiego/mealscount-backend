@@ -4,8 +4,8 @@ from django.views.generic import TemplateView
 from django.http import HttpResponse
 from django.views.generic.base import View
 import csv
-import algorithm
-import csvparser
+from algorithm import processSchools
+from csvparser import parseCsv
 
 # Create your views here.
 class HomePageView(TemplateView):
