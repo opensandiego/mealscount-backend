@@ -29,5 +29,5 @@ class SubmitSpreadsheetView(View):
     def dispatch(self, request, *args, **kwargs):
         email = request.GET.get('email')
         schoolData = parseCsv(request.body)
-        uploadInformation(schoolData)
+        uploadInformation(schoolData, email)
         return HttpResponse(processSchools(schoolData))
