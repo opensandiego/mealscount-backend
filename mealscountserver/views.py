@@ -7,6 +7,7 @@ import csv
 from algorithm import processSchools
 from csvparser import parseCsv
 from dao import uploadInformation
+from django.db import transaction
 
 # Create your views here.
 class HomePageView(TemplateView):
@@ -26,8 +27,14 @@ class ContactPageView(TemplateView):
     template_name = "contact.html"
 
 class SubmitSpreadsheetView(View):
+	@transaction.commit_manually
     def dispatch(self, request, *args, **kwargs):
         email = request.GET.get('email')
         schoolData = parseCsv(request.body)
-        uploadInformation(schoolData, email)
+        try:
+        	uploadInformation(schoolData, email)
+        except:
+        	transaction.rollback()
+        else:
+        	transaction.commit()
         return HttpResponse(processSchools(schoolData))
