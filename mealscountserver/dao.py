@@ -9,4 +9,4 @@ def upload(mealCountsSchool, inputEmail):
 # See mealcountsschool.py for a definition of objects in the mealCountsSchoolsArray
 def uploadInformation(mealCountsSchoolsArray, inputEmail):
 	for mealCountsSchool in mealCountsSchoolsArray:
-		upload(mealCountsSchool)
+		upload(mealCountsSchool, inputEmail)
