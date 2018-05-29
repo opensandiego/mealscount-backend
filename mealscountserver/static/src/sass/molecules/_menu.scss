@@ -1,0 +1,68 @@
+.menu {
+  @include clearfix();
+}
+
+.menu-item, a.menu-item {
+  @include transition(background-color .2s ease-out);
+  display: block;
+  font-size: $base-font-size;
+  text-decoration: none;
+  color: $color-black;
+
+  h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    text-decoration: underline;
+    margin-bottom: .3em;
+  }
+  p {
+    margin: 0;
+    line-height: $tight-line-height;
+  }
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.bar-menu  {
+  @extend .menu;
+  .menu-item {
+    float: left;
+    margin-right: 1em;
+    display: inline-block;
+    &:last-child {
+      margin-right: 0;
+    }
+  }
+  .active-menu-item {
+    color: $color-red;
+    font-weight: 600;
+  }
+}
+
+.medium-menu {
+  @extend .menu;
+  .menu-item {
+    padding: .5em 1em;
+    margin-left: -1em;
+    margin-bottom: 1em;
+  }
+}
+
+.large-menu {
+  @extend .menu;
+  .menu-item {
+    padding: 1em;
+    margin-left: -1em;
+    margin-bottom: 1em;
+  }
+}
+
+.button-menu {
+  @extend .menu;
+  display: block;
+  .menu-item {
+    float: left;
+    margin-left: 1em;
+    display: inline-block;
+  }
+}

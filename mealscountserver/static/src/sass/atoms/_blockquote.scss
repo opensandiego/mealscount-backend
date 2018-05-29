@@ -1,0 +1,14 @@
+blockquote {
+  font-size: map-get($h4-styles, font-size);
+  color: $color-red;
+  margin: ($large-spacing * 1.5) 0;
+}
+
+blockquote cite {
+  font-size: $em-base;
+  font-style: normal;
+  color: $color-black;
+  &:before {
+    content: "— ";
+  }
+}

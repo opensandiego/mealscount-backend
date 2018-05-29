@@ -1,0 +1,67 @@
+.global-footer {
+  background-color: $color-grey-100;
+  border-top: 1px solid $color-grey-300;
+  margin-top: 4em;
+  padding: 2em $site-margins;
+  font-size: $small-font-size;
+  color: $color-grey-600;
+
+  .global-footer-title {
+    margin-bottom: 2em;
+  }
+
+  p {
+    font-size: $small-font-size;
+  }
+
+  .global-footer-social {
+    margin-bottom: .5em;
+    a {
+      font-size: map-get($h2-styles, font-size);
+      text-decoration: none;
+      color: $color-grey-700;
+      margin-right: .5em;
+    }
+  }
+
+  .global-footer-nav {
+    margin-bottom: 1em;
+  }
+  .global-footer-nav .menu {
+    @media screen and (max-width: $tablet-up) {
+      @include span-columns(6);
+      margin-right: 0;
+      margin-left: 0;
+      margin-bottom: 1rem;
+      padding: 0 1rem;
+    }
+    @include media($tablet-up) {
+      margin-top: .5rem;
+      margin-bottom: .5rem;
+    }
+  }
+  .global-footer-nav .menu-item {
+    font-size: $small-font-size;
+  }
+  .global-footer-nav .menu-item + .menu-item {
+    margin-top: .5rem;
+  }
+
+  .global-footer-form {
+    margin-bottom: 1rem;
+    label {
+      color: $color-black;
+    }
+    input[type="text"] {
+      margin-bottom: .5rem;
+    }
+    input[type="submit"] {
+      margin-top: 0;
+    }
+  }
+
+  .global-footer-mayor-image {
+    width: 6em;
+    margin-bottom: 1.5em;
+  }
+}

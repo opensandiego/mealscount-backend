@@ -1,0 +1,130 @@
+// Buttons
+.button,
+input[type="button"],
+input[type="submit"],
+input[type="reset"],
+input[type="image"],
+button[type="button"],
+button[type="submit"],
+button[type="reset"] {
+  display: inline-block;
+  -webkit-appearance: none;
+  font-weight: 600;
+  background-color: $color-grey-300;
+  border: 1px solid $color-grey-300;
+  border-radius: 2px;
+  font-size: $base-font-size;
+  line-height: 1.5rem;
+  text-align: center;
+  margin: {
+    top: .5em;
+    bottom: .5em;
+    right: .5em;
+  }
+  outline: none;
+  padding: .625rem .875rem;
+  text-decoration: none;
+  &:hover {
+    background-color: $color-grey-500;
+    border: 1px solid $color-grey-500;
+    text-decoration: none;
+  }
+  &:active {
+    background-color: $color-grey-600;
+    border: 1px solid $color-grey-600;
+    text-decoration: none;
+  }
+  &:focus {
+    border: 1px solid $color-primary;
+    box-shadow: 0 0 0 1px $color-primary;
+    text-decoration: none;
+  }
+}
+
+input[type="submit"]:disabled, button[type="submit"]:disabled {
+  background-color: $color-grey-300;
+  color: $color-grey-500;
+  cursor: not-allowed;
+  &:hover {
+    background-color: $color-grey-300;
+    border: 1px solid $color-grey-300;
+  }
+}
+
+button.button-small, .button.button-small, input[type="submit"].button-small {
+  font-size: 0.875rem;
+  line-height: 1rem;
+  padding: 0.5rem 0.75rem;
+}
+
+button.button-primary, .button.button-primary, input[type="submit"].button-primary {
+  color: #fff;
+  background-color: $color-red;
+  border-color: $color-red;
+  &:hover {
+    background-color: $color-dark-red;
+    border-color: $color-dark-red;
+  }
+}
+
+button.button-secondary, .button.button-secondary, input[type="submit"].button-secondary {
+  color: #fff;
+  background-color: $color-blue;
+  border-color: $color-blue;
+  &:hover {
+    background-color: $color-dark-blue;
+    border-color: $color-dark-blue;
+  }
+}
+
+button.button-danger, .button.button-danger {
+  color: $color-danger;
+  background-color: transparent;
+  border-color: $color-grey-400;
+  &:hover {
+    background-color: transparent;
+    border-color: $color-grey-600;
+  }
+}
+
+button.button-reverse, .button.button-reverse, input[type="submit"].button-reverse {
+  color: #fff;
+  background-color: transparent;
+  border-color: #fff;
+  &:hover {
+    background-color: transparent;
+    border-color: #fff;
+    box-shadow: 0 0 8px 2px rgba(255,255,255,0.5);
+  }
+}
+
+button.button-outline, .button.button-outline, input[type="submit"].button-reverse {
+  color: $color-black;
+  background-color: transparent;
+  border-color: $color-grey-500;
+  &:hover {
+    background-color: transparent;
+    border-color: $color-black;
+    box-shadow: 0 0 8px 2px rgba(0,0,0,0.1);
+  }
+}
+
+button.button-large, .button.button-large {
+  padding: .5em 1em;
+}
+
+button.button-linkout, .button.button-linkout {
+  &:after {
+    @include icon();
+    margin-left: 1em;
+    content: '\f054';
+  }
+}
+
+button.button-download, .button.button-download {
+  &:after {
+    @include icon();
+    margin-left: 1em;
+    content: '\f019';
+  }
+}

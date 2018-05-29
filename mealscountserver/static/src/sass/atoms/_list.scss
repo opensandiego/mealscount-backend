@@ -1,0 +1,52 @@
+@mixin bulleted-list() {
+  list-style-type: disc;
+  padding-left: 1.5rem;
+  margin: {
+    top: $small-spacing;
+    bottom: $small-spacing;
+    left: 0;
+    right: 0;
+  }
+  li {
+    line-height: $base-line-height;
+    padding-left: 0;
+    margin: {
+      top: $small-spacing;
+      bottom: $small-spacing;
+    }
+  }
+}
+
+@mixin decimal-list() {
+  list-style-type: decimal;
+  padding-left: 1.25rem;
+  margin: {
+    top: $small-spacing;
+    bottom: $small-spacing;
+    left: 0;
+    right: 0;
+  }
+  li {
+    line-height: $base-line-height;
+    padding-left: .5rem;
+    margin: {
+      top: $small-spacing;
+      bottom: $small-spacing;
+    }
+  }
+}
+
+ul {
+  @include bulleted-list();
+}
+
+ol {
+  @include decimal-list();
+}
+
+// Unstyled list
+ul.unstyled-list, ol.unstyled-list {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}

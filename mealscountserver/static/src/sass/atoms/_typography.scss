@@ -1,0 +1,176 @@
+html {
+  font-family: $font-sans;
+  font-size: $em-base;
+}
+
+body {
+  font-size: $base-font-size;
+  -webkit-font-smoothing: antialiased;
+  font-weight: 400;
+  color: $color-black;
+}
+
+p {
+  font-size: $base-font-size;
+  line-height: $base-line-height;
+  margin: {
+    top: $small-spacing;
+    bottom: $small-spacing;
+  }
+}
+
+a {
+  color: $color-blue;
+  &:hover, &:active, &:visited {
+    color: $color-dark-blue;
+  }
+}
+
+strong {
+  font-weight: 600;
+}
+
+h1, h2 {
+  clear: both;
+  margin: {
+    top: $large-spacing;
+    bottom: $base-spacing;
+  }
+  &:first-child {
+    margin-top: 0;
+  }
+}
+
+h3, h4, h5, h6 {
+  margin: {
+    top: $base-spacing;
+    bottom: $small-spacing;
+  }
+  &:first-child {
+    margin-top: 0;
+  }
+}
+
+// Create heading mixins
+
+@mixin title {
+  font-size: map-get($title-styles, font-size);
+  line-height: map-get($title-styles, line-height);
+  font-weight: map-get($title-styles, font-weight);
+}
+
+@mixin h1 {
+  font-size: map-get($h1-styles, font-size);
+  line-height: map-get($h1-styles, line-height);
+  font-weight: map-get($h1-styles, font-weight);
+  color: map-get($h1-styles, color);
+}
+
+@mixin h2 {
+  font-size: map-get($h2-styles, font-size);
+  line-height: map-get($h2-styles, line-height);
+  font-weight: map-get($h2-styles, font-weight);
+  color: map-get($h2-styles, color);
+}
+
+@mixin h3 {
+  font-size: map-get($h3-styles, font-size);
+  line-height: map-get($h3-styles, line-height);
+  font-weight: map-get($h3-styles, font-weight);
+  color: map-get($h3-styles, color);
+}
+
+@mixin h4 {
+  font-size: map-get($h4-styles, font-size);
+  line-height: map-get($h4-styles, line-height);
+  font-weight: map-get($h4-styles, font-weight);
+  color: map-get($h4-styles, color);
+}
+
+@mixin h5 {
+  font-size: map-get($h5-styles, font-size);
+  line-height: map-get($h5-styles, line-height);
+  font-weight: map-get($h5-styles, font-weight);
+  color: map-get($h5-styles, color);
+}
+
+@mixin h6 {
+  font-size: map-get($h6-styles, font-size);
+  line-height: map-get($h6-styles, line-height);
+  font-weight: map-get($h6-styles, font-weight);
+  color: map-get($h6-styles, color);
+  text-transform: uppercase;
+}
+
+@mixin large-text {
+  font-family: $font-sans;
+  font-size: map-get($h3-styles, font-size);
+  line-height: map-get($h3-styles, line-height);
+}
+
+@mixin medium-text {
+  font-family: $font-sans;
+  font-size: map-get($h4-styles, font-size);
+  line-height: map-get($h4-styles, line-height);
+}
+
+@mixin detail-text {
+  font-family: $font-sans;
+  font-size: $small-font-size;
+  line-height: $tight-line-height;
+}
+
+h1, .h1 {
+  @include h1();
+}
+
+h2, .h2 {
+  @include h2();
+}
+
+h3, .h3 {
+  @include h3();
+}
+
+h4, .h4 {
+  @include h4();
+}
+
+h5, .h5 {
+  @include h5();
+}
+
+h6, .h6 {
+  @include h6();
+}
+
+.lead-in-text {
+  font-size: map-get($h4-styles, font-size);
+  line-height: map-get($h4-styles, line-height);
+  color: $color-gray;
+  margin-bottom: $large-spacing;
+}
+
+.detail-text {
+  @include detail-text();
+}
+
+.large-text {
+  @include large-text();
+}
+
+.align-center-text {
+  text-align: center;
+}
+
+.address {
+  margin-bottom: 1em;
+  p {
+    margin: 0;
+    line-height: $tight-line-height;
+  }
+}
+
+.left-align-text {
+  text-align: left;
+}

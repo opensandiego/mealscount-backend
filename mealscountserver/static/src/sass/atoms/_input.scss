@@ -1,0 +1,62 @@
+// Block form elements
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="url"],
+input[type="tel"],
+input[type="number"],
+input[type="search"],
+input[type="file"],
+input[type="date"],
+input[type="datetime-local"],
+input[type="month"],
+input[type="time"],
+input[type="week"],
+textarea  {
+  color: #000; // standardize on firefox
+  box-sizing: border-box;
+  -webkit-appearance: none;
+  border: 1px solid $color-grey-700;
+  display: block;
+  width: 100%;
+  outline: none;
+  font-size: $base-font-size;
+  padding: 0 .4em;
+  margin: .5em 0 1.5em 0;
+  height: 2em;
+}
+
+// Inline form elements
+input[type="checkbox"],
+input[type="radio"],
+input[type="checkbox"] {
+  margin: {
+    top: .5em;
+    bottom: .5em;
+    right: .5em;
+  }
+}
+
+input:focus {
+  border: 1px solid $color-primary;
+  box-shadow: 0 0 0 1px $color-primary;
+}
+
+input.input-success, input.input-success:focus {
+  border: 1px solid $color-success;
+  box-shadow: 0 0 0 1px $color-success;
+}
+
+input.input-error, input.input-error:focus {
+  border: 1px solid $color-danger;
+  box-shadow: 0 0 0 1px $color-danger;
+}
+
+label {
+  display: block;
+  font-weight: 600;
+  margin: {
+    top: .5em;
+    bottom: .5em;
+  }
+}

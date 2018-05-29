@@ -1,0 +1,32 @@
+.breadcrumbs {
+  @include h6();
+  margin: {
+    top: $small-spacing;
+    bottom: $small-spacing;
+  }
+}
+
+.breadcrumbs-item {
+  display: inline-block;
+  margin-right: .375rem; //6px
+  margin-bottom: .375rem; //6px
+  color: $color-gray;
+  a {
+    text-decoration: underline;
+    color: $color-gray;
+    &:hover {
+      text-decoration: underline;
+      color: $color-black;
+    }
+  }
+  &:not(:last-of-type) {
+    &:after {
+      @include icon();
+      color: $color-light-gray;
+      margin-left: .5rem;
+      content: '\f178';
+      position: relative;
+      top: 1px;
+    }
+  }
+}

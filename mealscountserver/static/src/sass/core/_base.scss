@@ -1,0 +1,22 @@
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #ffffff;
+}
+
+.page-content {
+  padding: 0 $site-margins;
+}
+
+.lt-ie9 {
+  // Hack for clearfixes
+  * {
+    filter: none !important;
+  }
+}
+
+img {
+  max-width: 100%;
+}
