@@ -42,7 +42,7 @@
           </div>
           <div class="bar-menu global-header-menu align-right" role="navigation">
             <a href="/about" title="About MealsCount" class="menu-item">About the Project</a>
-            
+
             <a href="/contact" title="Contact" class="menu-item">Contact</a>
           </div>
         </div>
@@ -66,7 +66,7 @@
             <!-- Molecule: Breadcrumbs -->
             <nav class="breadcrumbs" role="navigation">
               <span class="breadcrumbs-item"><a href="/">MealsCount</a></span>
-              <span class="breadcrumbs-item"><a href="calculate.html">Upload District Data</a></span>
+              <span class="breadcrumbs-item"><a href="/calculate/">Upload District Data</a></span>
               <span class="breadcrumbs-item">Results</span>
             </nav>
             <h1 class="title-text">District Results</h1>
@@ -76,13 +76,13 @@
           </div>
         </div>
       </div>
-      
+
         <div class="grid-box">
           <article class="content-body-text width-one-whole grid-item">
             <h4>Scatter Plot</h4>
             <p>The results will display here as a scatter plot. Users can hover over individual points, representing a group of schools, which will display a tooltip with condensed information. On click of this tooltip, extended information will populate beneath the graph.</p>
-            {{div_data}}
-            {{script}}
+            {{ div_data|safe}}
+            {{ script|safe }}
           </article>
         </div><!-- end .grid-box -->
 
@@ -118,6 +118,5 @@
     <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.1.0/respond.min.js"></script>
     <![endif]-->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-    <script src="/js/site.js"></script>
 </body>
 </html>

@@ -89,12 +89,12 @@
 
           <div class="content-metadata width-five-twelfths grid-item end-row">
             <div class="gray-bg-slab slab">
-              <a href="/static/csv/district.csv"> Download this csv file with your district data.</a>
+              <a href="/static/csv/district.csv"> Download this csv file.</a>
               <br>
               Fill this out with your district data.
-              <form action="{% url 'calculate' %}" method=POST class="global-footer-form">
-                <label for="spreadsheet-upload">Upload your spreadsheet</label>
-                <input type="file" name="spreadsheet-upload" placeholder="Upload your spreadsheet" />
+              <form action="{% url 'calculate' %}" method=POST class="global-footer-form" enctype="multipart/form-data">
+                {% csrf_token %}
+                {{ form.as_p }}
                 <input type="submit" class="button-small button-secondary" value="Submit" />
               </form>
               <p class="detail-text">Spreadsheet should be formatted as .csv.</p>
@@ -124,6 +124,5 @@
     <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.1.0/respond.min.js"></script>
     <![endif]-->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-    <script src="/js/site.js"></script>
 </body>
 </html>
