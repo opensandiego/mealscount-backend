@@ -28,10 +28,10 @@ class CalculatePageView(FormView):
 
     def post(self, request):
         try:
-            # we are going to forget incoming data for this first try
-            # form = UploadCSVForm(request.POST, request.FILES)
-            # if form.is_valid():
-            #     data = pd.read_csv(form.FILES['file'])
+
+            form = UploadCSVForm(request.POST, request.FILES)
+            if form.is_valid():
+                data = pd.read_csv(form.FILES['file'])
             script, div = processSchools()
 
         except ValueError:
@@ -42,11 +42,11 @@ class CalculatePageView(FormView):
                       {'script': script, 'div_data': div})
 
 
-class ResultsPageView(TemplateView):
-    template_name = "results.html"
-
-    # def post(self, **kwargs):
-    #     return render(self.template_name, **kwargs)
+# class ResultsPageView(TemplateView):
+#     template_name = "results.html"
+#
+#     # def post(self, **kwargs):
+#     #     return render(self.template_name, **kwargs)
 
 
 class ContactPageView(TemplateView):
