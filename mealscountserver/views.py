@@ -11,7 +11,7 @@ from .csvparser import parseCsv
 from .dao import uploadInformation
 from .forms import UploadCSVForm
 
-
+import pandas as pd
 # Create your views here.
 class HomePageView(TemplateView):
     template_name = "index.html"
@@ -29,9 +29,9 @@ class CalculatePageView(FormView):
     def post(self, request):
         try:
 
-            form = UploadCSVForm(request.POST, request.FILES)
-            if form.is_valid():
-                data = pd.read_csv(form.FILES['file'])
+            # form = UploadCSVForm(request.POST, request.FILES)
+            # if form.is_valid():
+            #     data = pd.read_csv(form['file'])
             script, div = processSchools()
 
         except ValueError:

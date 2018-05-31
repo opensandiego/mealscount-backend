@@ -9,18 +9,18 @@ from django.dispatch import receiver
 
 # Model for a MealsCount Response
 
-# class MC_RESULT(models.Model):
-#     json_string = models.CharField(max_length=10000)
+class MC_RESULT(models.Model):
+    json_string = models.CharField(max_length=10000)
 
 
 # Model for a MealsCount Request
 
-# class MC_REQUEST(models.Model):
-#     request_time = models.DateTimeField()
-#     pending = models.BooleanField()
-#     email = models.CharField(max_length=100)
-#     result = models.ForeignKey(MC_RESULT, on_delete=models.PROTECT, null=True)
-#
+class MC_REQUEST(models.Model):
+    request_time = models.DateTimeField()
+    pending = models.BooleanField()
+    email = models.CharField(max_length=100)
+    result = models.ForeignKey(MC_RESULT, on_delete=models.PROTECT, null=True)
+
 
 
 class District(models.Model):
@@ -108,7 +108,7 @@ class School(models.Model):
     total_number_of_students = models.IntegerField()
     identified_student_population = models.IntegerField()
     # request = models.ForeignKey(MC_REQUEST, on_delete=models.PROTECT)
-    district = models.ForeignKey(District)
+    district = models.ForeignKey(District, on_delete=models.PROTECT)
 
     class META:
         verbose_name = "School"
