@@ -1,9 +1,11 @@
-from .mealcountschool import mealcountschool
+from .models import School
+import pandas as pd
+
 
 
 def parseSchoolInfo(csvLine):
     components = csvLine.split(',')
-    return mealcountschool(components[0], components[1], components[2])
+    return School(components[0], components[1], components[2])
 
 
 def parseCsv(csvString):

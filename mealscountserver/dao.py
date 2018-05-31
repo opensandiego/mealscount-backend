@@ -1,14 +1,14 @@
 import datetime
-from .models import MC_REQUEST, MC_SCHOOL
+from .models import MC_REQUEST, School
 
 
 def upload(mealCountsSchool, inputEmail):
     requestDbObject = MC_REQUEST(request_time=datetime.datetime.now(), pending=False, email=inputEmail)
     requestDbObject.save()
-    schoolDbObject = MC_SCHOOL(school_name=mealCountsSchool.schoolName,
-                               total_number_of_students=mealCountsSchool.numTotalStudents,
-                               identified_student_population=mealCountsSchool.numIdentifiedStudents,
-                               request=requestDbObject)
+    schoolDbObject = School(school_name=mealCountsSchool.schoolName,
+                            total_number_of_students=mealCountsSchool.numTotalStudents,
+                            identified_student_population=mealCountsSchool.numIdentifiedStudents,
+                            request=requestDbObject)
     schoolDbObject.save()
 
 
