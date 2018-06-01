@@ -1,7 +1,6 @@
 import numpy as np
 import pandas as pd
 from bokeh.embed import components
-from django.core.exceptions import ValidationError
 from bokeh.models import (
     ColumnDataSource,
     HoverTool
@@ -35,26 +34,16 @@ state_rates = pd.DataFrame(
 
 
 # See mealcountsschool.py for a definition of objects in the mealCountsSchoolsArray
-def processSchools(data, **kwargs): #state='CA', district="My District_Name"
+def processSchools(data, **kwargs):  # state='CA', district="My District_Name"
     """outputs 2 sections:
     a data section in javascript
     and a html section to render the data in."""
 
     rates = state_rates[state_rates.state_or_territory == kwargs['state']]
-    #
-    # people_count = np.random.randint(1, 4000, size=(100, 1))
-    # data = pd.DataFrame(people_count, columns=['people_count'])
-    # data['random_values'] = [np.random.standard_normal() for x in range(data.shape[0])]
-    # data.random_values = (data.random_values + 55) * 13 % 100  # centered around 55%
-    # data['identified_students'] = (data.people_count * data.random_values / 100).astype(int)
-    # data.drop('random_values', 1, inplace=True)
-    # data['lunches_served'] = data['people_count'] * 20
-    # data['monthly_breakfast_served'] = data['people_count'] * 20
 
     data['isp_percent'] = data.isp_students / data.total_enrollment
     data.sort_values(['isp_percent'], ascending=False, inplace=True)
     # data['above_indexes'] = data[data.isp_percent >= data.isp_percent].index.tolist()
-
 
     data['ind'] = data.index.astype(str) + ','
     data['index_cumsum'] = data['ind'].cumsum().str[:-1].str.split(',')
@@ -68,9 +57,7 @@ def processSchools(data, **kwargs): #state='CA', district="My District_Name"
     one_hundred_percent_funding = data2[data2.isp_percent > maximum_percentage_value].tail(1)
     one_hundred_percent_funding[
         'isp_percent'] = one_hundred_percent_funding.isp_students / one_hundred_percent_funding.total_enrollment
-    #edited
-
-
+    # edited
 
     data['govt_funding_level'] = np.where(data.isp_percent * 1.6 > 1, 1, data.isp_percent * 1.6)
     data.sort_values(['isp_percent', 'isp_students'],

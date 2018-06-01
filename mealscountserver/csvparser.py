@@ -1,6 +1,4 @@
 from .models import School
-import pandas as pd
-
 
 
 def parseSchoolInfo(csvLine):

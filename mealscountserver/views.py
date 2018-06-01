@@ -53,12 +53,6 @@ class CalculatePageView(FormView):
                       {'script': script, 'div_data': div})
 
 
-# class ResultsPageView(TemplateView):
-#     template_name = "results.html"
-#
-#     # def post(self, **kwargs):
-#     #     return render(self.template_name, **kwargs)
-
 
 class ContactPageView(TemplateView):
     template_name = "contact.html"
