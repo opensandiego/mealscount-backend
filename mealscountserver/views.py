@@ -1,5 +1,5 @@
 # mealscountserver/views.py
-from django.template import Template
+import pandas as pd
 from django.db import transaction
 from django.http import HttpResponse
 from django.shortcuts import render
@@ -10,8 +10,8 @@ from .algorithm import processSchools
 from .csvparser import parseCsv
 from .dao import uploadInformation
 from .forms import UploadCSVForm
+from django.core.exceptions import ValidationError
 
-import pandas as pd
 # Create your views here.
 class HomePageView(TemplateView):
     template_name = "index.html"
@@ -29,13 +29,21 @@ class CalculatePageView(FormView):
     def post(self, request):
         try:
 
-            # form = UploadCSVForm(request.POST, request.FILES)
-            # if form.is_valid():
-            #     data = pd.read_csv(form['file'])
-            script, div = processSchools()
+            form = UploadCSVForm(request.POST, request.FILES)
 
-        except ValueError:
-            raise
+            if form.is_valid():
+                try:
+                    data = pd.read_csv(request.FILES['file'])
+                except (ValueError, KeyError):
+                    raise ValidationError("Data File couldn't be parsed, make sure to keep the headers and don't leave blank lines.")
+                try:
+                    script, div = processSchools(data, state=form.cleaned_data['state'], district=form.cleaned_data['district'])
+                except (ValueError, KeyError):
+                    raise ValidationError("State or District was invalid")
+            else:
+                raise ValueError
+        except (ValueError, KeyError):
+            raise ValidationError("Are you sure you filled out the fields?")
 
             # return "not formatted correctly with a nice error number"
         return render(request, "results.html",
