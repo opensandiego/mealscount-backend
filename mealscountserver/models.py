@@ -75,15 +75,21 @@ class MC_REQUEST(models.Model):
     result = models.ForeignKey(MC_RESULT, on_delete=models.PROTECT, null=True)
 
 
+def define_path(instance, filename):
+    return 'district_data/{}/{}'.format(instance.district_name, filename)
+
 
 class District(models.Model):
     district_name = models.CharField(max_length=200)
-
+    district_data_file = models.FileField(upload_to=define_path)
     state_or_province = models.CharField(
         max_length=2,
         choices=state_or_province_choices,
         default="CA",
     )
+    uploaded_at = models.DateTimeField(auto_now_add=True)
+    # TODO: Add users to District
+    # who_uploaded = models.OneToOneField(User, on_delete=models.PROTECT)
 
     class META:
         verbose_name = "District"

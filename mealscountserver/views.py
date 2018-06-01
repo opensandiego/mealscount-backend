@@ -1,5 +1,6 @@
 # mealscountserver/views.py
 import pandas as pd
+from django.core.exceptions import ValidationError
 from django.db import transaction
 from django.http import HttpResponse
 from django.shortcuts import render
@@ -9,8 +10,8 @@ from django.views.generic.base import View
 from .algorithm import processSchools
 from .csvparser import parseCsv
 from .dao import uploadInformation
-from .forms import UploadCSVForm
-from django.core.exceptions import ValidationError
+from .forms import DistrictForm
+
 
 # Create your views here.
 class HomePageView(TemplateView):
@@ -23,21 +24,22 @@ class AboutPageView(TemplateView):
 
 class CalculatePageView(FormView):
     template_name = "calculate.html"
-    form_class = UploadCSVForm
-    success_url = '/results/'
+    form_class = DistrictForm
 
     def post(self, request):
         try:
-
-            form = UploadCSVForm(request.POST, request.FILES)
-
+            form = DistrictForm(request.POST, request.FILES)
             if form.is_valid():
                 try:
-                    data = pd.read_csv(request.FILES['file'])
+                    data = pd.read_csv(form.cleaned_data['district_data_file'])
                 except (ValueError, KeyError):
-                    raise ValidationError("Data File couldn't be parsed, make sure to keep the headers and don't leave blank lines.")
+                    raise ValidationError("Data File couldn't be parsed, " +
+                                          "make sure to keep the headers and don't leave blank lines.")
                 try:
-                    script, div = processSchools(data, state=form.cleaned_data['state'], district=form.cleaned_data['district'])
+                    # TODO do something with form.cleaned_data['email']
+                    script, div = processSchools(data,
+                                                 state=form.cleaned_data['state_or_province'],
+                                                 district=form.cleaned_data['district_name'])
                 except (ValueError, KeyError):
                     raise ValidationError("State or District was invalid")
             else:
@@ -46,6 +48,7 @@ class CalculatePageView(FormView):
             raise ValidationError("Are you sure you filled out the fields?")
 
             # return "not formatted correctly with a nice error number"
+        form.save()
         return render(request, "results.html",
                       {'script': script, 'div_data': div})
 
