@@ -8,5 +8,4 @@ urlpatterns = [
     url(r'^calculate/$', views.CalculatePageView.as_view()), # Initial calculate step
     url(r'^results/$', views.ResultsPageView.as_view()), # Results page
     url(r'^contact/$', views.ContactPageView.as_view()), # Add this /contact/ route
-    url(r'^submit', views.SubmitSpreadsheetView.as_view()), # Submit CSV Spreadsheet
 ]
