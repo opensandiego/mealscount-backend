@@ -3,6 +3,7 @@ from django.contrib.auth.models import User
 from django.db import models
 from django.db.models.signals import post_save
 from django.dispatch import receiver
+from django.contrib import admin
 
 state_or_province_choices = (
     ("AL", "Alabama"),
@@ -80,7 +81,7 @@ def define_path(instance, filename):
 
 
 class District(models.Model):
-    district_name = models.CharField(max_length=200)
+    district_name = models.CharField(max_length=200, unique=True)
     district_data_file = models.FileField(upload_to=define_path)
     state_or_province = models.CharField(
         max_length=2,
@@ -91,22 +92,30 @@ class District(models.Model):
     # TODO: Add users to District
     # who_uploaded = models.OneToOneField(User, on_delete=models.PROTECT)
 
+    def __repr__(self):
+        return self.district_name, self.state_or_province
+
+    def __str__(self):
+        return ', '.join([self.district_name, self.state_or_province, str(self.uploaded_at.date())])
+
     class META:
         verbose_name = "District"
         verbose_name_plural = "Districts"
 
+admin.site.register(District)
 
 
 class DistrictAdmin(models.Model):
     user = models.OneToOneField(User, on_delete=models.CASCADE)
-    full_name = models.CharField(max_length=200)
+    # full_name = models.CharField(max_length=200)
     email = models.EmailField()
-    district = models.ForeignKey(District, on_delete=models.PROTECT)
+    district = models.ForeignKey(District, on_delete=models.PROTECT, null=True) #at first a district
 
     class META:
-        verbose_name = "Admin"
-        verbose_name_plural = "Admins"
+        verbose_name = "District Admin"
+        verbose_name_plural = "District Admins"
 
+admin.site.register(DistrictAdmin)
 
 
 class School(models.Model):
@@ -116,18 +125,23 @@ class School(models.Model):
     # request = models.ForeignKey(MC_REQUEST, on_delete=models.PROTECT)
     district = models.ForeignKey(District, on_delete=models.PROTECT)
 
+    def __repr__(self):
+        return ' '.join([self.school_name, "enrollment", self.total_number_of_students, self.district.district_name])
+
     class META:
         verbose_name = "School"
         verbose_name_plural = "Schools"
 
 
-# Jlangley: not sure about these 2 methods create_user_profile and save_user_profile
-@receiver(post_save, sender=User)
-def create_user_profile(sender, instance, created, **kwargs):
-    if created:
-        DistrictAdmin.objects.create(user=instance)
+admin.site.register(School)
 
-
-@receiver(post_save, sender=User)
-def save_user_profile(sender, instance, **kwargs):
-    instance.districtadmin.save()
+# # Jlangley: not sure about these 2 methods create_user_profile and save_user_profile
+# @receiver(post_save, sender=User)
+# def create_user_profile(sender, instance, created, **kwargs):
+#     if created:
+#         DistrictAdmin.objects.create(user=instance)
+#
+#
+# @receiver(post_save, sender=User)
+# def save_user_profile(sender, instance, **kwargs):
+#     instance.districtadmin.save()

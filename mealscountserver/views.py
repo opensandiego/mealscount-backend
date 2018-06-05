@@ -48,7 +48,10 @@ class CalculatePageView(FormView):
             raise ValidationError("Are you sure you filled out the fields?")
 
             # return "not formatted correctly with a nice error number"
-        form.save()
+        try:
+            form.save()
+        except:
+            raise
         return render(request, "results.html",
                       {'script': script, 'div_data': div})
 
