@@ -81,7 +81,7 @@ def define_path(instance, filename):
 
 
 class District(models.Model):
-    district_name = models.CharField(max_length=200, unique=True)
+    district_name = models.CharField(max_length=200)
     district_data_file = models.FileField(upload_to=define_path)
     state_or_province = models.CharField(
         max_length=2,
@@ -89,6 +89,7 @@ class District(models.Model):
         default="CA",
     )
     uploaded_at = models.DateTimeField(auto_now_add=True)
+    # by = DistrictAdmin
     # TODO: Add users to District
     # who_uploaded = models.OneToOneField(User, on_delete=models.PROTECT)
 

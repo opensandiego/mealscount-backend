@@ -43,7 +43,7 @@ class CalculatePageView(FormView):
                 except (ValueError, KeyError):
                     raise ValidationError("State or District was invalid")
             else:
-                raise ValueError
+                raise ValueError('form was invalid')
         except (ValueError, KeyError):
             raise ValidationError("Are you sure you filled out the fields?")
 
