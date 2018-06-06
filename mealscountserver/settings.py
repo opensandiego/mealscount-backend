@@ -25,7 +25,7 @@ SECRET_KEY = '*l1uxu-eh7@1q@nt_@*p@+%510c8nf$$5&+d4o+4^k(6#b)_^t'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['206.189.173.123', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['206.189.173.123', 'localhost', '127.0.0.1', 'mealscount.com']
 
 
 # Application definition
