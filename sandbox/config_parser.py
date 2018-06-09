@@ -21,10 +21,10 @@ import numpy as np
 def parseJSON(self,cfgfile):
 
     try:
-        with open(CONFIG_FILE) as f:
+        with open(cfgfile) as f:
             jsondata = json.load(f)
     except ValueError as ve:
-        print("Failed to parse {}".format(CONFIG_FILE))
+        print("Failed to parse {}".format(cfgfile))
         raise ve
     except Exception as e:
         raise e
