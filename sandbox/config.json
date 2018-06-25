@@ -8,7 +8,7 @@
 		"RI", "SC", "SD", "TN", "TX", "UT", "VT", "VA", "WA", "WV", 
 		"WI", "WY"],
 	"model_params":{
-		"min_cep_thold_pct":0.30,
+		"min_cep_thold_pct":0.40,
 		"max_cep_thold_pct":0.625,
 		"cep_rates":[{
 			"region":"default",
