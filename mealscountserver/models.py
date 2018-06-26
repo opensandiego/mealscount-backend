@@ -88,6 +88,7 @@ class District(models.Model):
         choices=state_or_province_choices,
         default="CA",
     )
+    district_qualifies_for_performance_based_cash_assistance = models.BooleanField(null=False, default=False)
     uploaded_at = models.DateTimeField(auto_now_add=True)
     # by = DistrictAdmin
     # TODO: Add users to District

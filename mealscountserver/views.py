@@ -7,7 +7,7 @@ from django.shortcuts import render
 from django.views.generic import TemplateView, FormView
 from django.views.generic.base import View
 
-from .algorithm import processSchools
+from .national_program_algorithm import processSchools
 from .csvparser import parseCsv
 from .dao import uploadInformation
 from .forms import DistrictForm
@@ -37,9 +37,12 @@ class CalculatePageView(FormView):
                                           "make sure to keep the headers and don't leave blank lines.")
                 try:
                     # TODO do something with form.cleaned_data['email']
-                    script, div = processSchools(data,
-                                                 state=form.cleaned_data['state_or_province'],
-                                                 district=form.cleaned_data['district_name'])
+                    html_data = processSchools(
+                        data,
+                        state=form.cleaned_data['state_or_province'],
+                        district=form.cleaned_data['district_name'],
+                        assistance=form.cleaned_data['district_qualifies_for_performance_based_cash_assistance']
+                        )
                 except (ValueError, KeyError):
                     raise ValidationError("State or District was invalid")
             else:
@@ -53,7 +56,7 @@ class CalculatePageView(FormView):
         except:
             raise
         return render(request, "results.html",
-                      {'script': script, 'div_data': div})
+                      {'html_data': html_data})
 
 
 

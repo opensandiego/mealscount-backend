@@ -1,0 +1,39 @@
+{
+    "version": "1.0",
+    "us_regions": [
+        "AL", "AK", "AZ", "AR", "CA", "CO", "CT", "DC", "DE", "FL",
+        "GA", "HI", "ID", "IL", "IN", "IA", "KS", "KY", "LA", "ME",
+        "MD", "MA", "MI", "MN", "MS", "MO", "MT", "NE", "NV", "NH",
+        "NJ", "NM", "NY", "NC", "ND", "OH", "OK", "OR", "PA", "PR",
+        "RI", "SC", "SD", "TN", "TX", "UT", "VT", "VA", "WA", "WV",
+        "WI", "WY"],
+    "model_params": {
+        "min_cep_thold_pct": 0.40,
+        "max_cep_thold_pct": 0.625,
+        "performance_based_cash_assistance_per_lunch": 0.06,
+        "monthly_lunches":21.64,
+        "monthly_breakfasts":21.64,
+        "cep_rates": [{
+            "region": "default",
+            "nslp_lunch_free_rate": 3.23,
+            "nslp_lunch_paid_rate": 0.31,
+            "sbp_bkfst_free_rate": 1.75,
+            "sbp_bkfst_paid_rate": 0.30}, {
+            "region": "AK",
+            "nslp_lunch_free_rate": 5.24,
+            "nslp_lunch_paid_rate": 0.50,
+            "sbp_bkfst_free_rate": 2.79,
+            "sbp_bkfst_paid_rate": 0.45}, {
+            "region": "HI",
+            "nslp_lunch_free_rate": 3.78,
+            "nslp_lunch_paid_rate": 0.36,
+            "sbp_bkfst_free_rate": 2.03,
+            "sbp_bkfst_paid_rate": 0.34}, {
+            "region": "PR",
+            "nslp_lunch_free_rate": 3.78,
+            "nslp_lunch_paid_rate": 0.36,
+            "sbp_bkfst_free_rate": 2.03,
+            "sbp_bkfst_paid_rate": 0.34}
+        ]
+    }
+}
