@@ -1,0 +1,57 @@
+
+{
+   "lea_name": "somecity union high",
+   "academic_year": "2017-2018",
+   "timestamp": "2018-06-18 00:00:00",
+   "school_groups":{
+      "num_groups": 5,
+      "group_summaries": [{
+         "group": 0,
+         "eligible_for_cep": "yes",
+         "total_enrolled": 61,
+         "directly_certified": 18,
+         "other_eligible": 28,
+         "total_eligible": 46,
+         "group_isp": 75.41,
+         "group_size": 2,
+         "schools":[ 1000001, 1000027 ]},{ 
+         "group": 1,
+	 "eligible_for_cep": "yes",
+	 "total_enrolled": 2439,
+	 "directly_certified": 1124,
+	 "other_eligible": 98,
+	 "total_eligible": 1222,
+	 "group_isp": 50.1,
+	 "group_size": 5,
+         "schools":[ 1000022, 1000017, 1000029, 1000020, 1000025 ]},{
+         "group": 2,
+	 "eligible_for_cep": "yes",
+	 "total_enrolled": 8977,
+	 "directly_certified": 3804,
+	 "other_eligible": 196,
+	 "total_eligible": 4000,
+	 "group_isp": 44.56,
+	 "group_size": 7,
+	 "schools":[ 1000028, 2000002, 1000011, 1000014, 1000006, 1000004, 1000024 ]},{
+	 "group": 3,
+	 "eligible_for_cep": "yes",
+	 "total_enrolled": 8969,
+	 "directly_certified": 3444,
+	 "other_eligible": 193,
+	 "total_eligible": 3637,
+	 "group_isp": 40.55,
+	 "group_size": 7,
+	 "schools":[ 1000007, 2000026, 1000005, 1000015, 2000001, 2000003, 1000016 ]},{  
+	 "group": 4,
+	 "eligible_for_cep": "no",
+	 "total_enrolled": 19873,
+	 "directly_certified": 3889,
+	 "other_eligible": 143,
+	 "total_eligible": 4032,
+	 "group_isp": 20.29,
+	 "group_size": 12,
+	 "schools":[ 1000016, 2000012, 1000013, 1000008, 1000002, 1000003, 1000021, 1000019, 
+	 	     1000010, 1000018, 1000023, 1000009  ]}
+	]},
+   "mealscount_config_version": "1.0"
+}
