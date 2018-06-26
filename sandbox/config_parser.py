@@ -71,6 +71,8 @@ def displayModelConfig(self,cfgdata):
     print("MealsCount Model Configuration")
     print("------------------------------")
     print("Version: {}".format(cfgdata["version"]))
+    print("Model Variant: {}".format(cfgdata["model_params"]["model_variant"]))
+    print("Default ISP Width (%): {}".format(cfgdata["model_params"]["isp_width_default"]))
     print("Min CEP Threshold (%): {}".format(cfgdata["model_params"]["min_cep_thold_pct"]))
     print("Max CEP Threshold (%): {}".format(cfgdata["model_params"]["max_cep_thold_pct"]))
     print("CEP Rates Table:")
@@ -107,6 +109,14 @@ class mcModelConfig(mcConfig):
                 self.__regions = mcConfig.params(self)["us_regions"]
 
         return self.__regions
+    
+    def model_variant(self):
+        if self.status():
+            return mcConfig.params(self)["model_params"]["model_variant"]
+    
+    def isp_width(self):
+        if self.status():
+            return mcConfig.params(self)["model_params"]["isp_width_default"]        
 
     def max_cep_thold_pct(self):
         if self.status():
