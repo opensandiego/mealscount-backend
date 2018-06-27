@@ -120,7 +120,21 @@ def processSchools(data, **kwargs):  # state='CA', district="My District_Name"
     the other is a group that is above the minimum.
     outputs 2 sections:
     a data section in javascript
-    and a html section to render the data in."""
+    and a html section to render the data in.
+
+    e.g. data looks like this
+    data = pd.DataFrame(
+        {
+        "schoolnames":[str(x) for x in range(1000)],
+        "isp_students":[round(x*2.5) for x in range(1000)],
+        "total_enrollment": 3000,
+    })
+
+    config = pd.Series()
+    config.max_cep_thold_pct = .625
+    config.min_cep_thold_pct = .4
+
+    """
 
     rates = config.cep_rates(region=kwargs['state'])
     data['group'] = np.NaN
@@ -133,13 +147,14 @@ def processSchools(data, **kwargs):  # state='CA', district="My District_Name"
     data.at[one_hundred_percent_funding_indexes, 'group'] = "Group 1"
 
 
-    # get the rest and find which of those isp_percent is > .4 and define that as "Group 2"
+    # mask that to get the rest and find which of those isp_percent is > .4 and define that as "Group 2"
 
     less_than_maximum = data[top_group.isp_percent < config.max_cep_thold_pct()]
     #less_than_maximum_indexes = data[top_group.isp_percent < config.max_cep_thold_pct()].index
     assert set(less_than_maximum.index).intersection(
         set(one_hundred_percent_funding_indexes)) == set(), "still a problem: {}".format(
         set(less_than_maximum.index).intersection(set(one_hundred_percent_funding_indexes)))
+
     less_than_maximum = data.mask(top_group.isp_percent > config.max_cep_thold_pct())
     mask_cumsum = less_than_maximum[["total_enrollment", "isp_students"]].cumsum()
     mask_cumsum['isp_percent'] = mask_cumsum.isp_students / mask_cumsum.total_enrollment
