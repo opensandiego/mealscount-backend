@@ -1,8 +1,7 @@
 
 # coding: utf-8
 
-# ## MealsCount Algorithm (v2)
-#   
+# MealsCount Algorithm (v2)
 
 import os
 import sys
@@ -15,6 +14,7 @@ import abc
 
 import backend_utils as bu
 import config_parser as cp
+
 
 class mcAlgorithm(metaclass=abc.ABCMeta):
     """
@@ -29,12 +29,13 @@ class mcAlgorithm(metaclass=abc.ABCMeta):
         pass
     
     @abc.abstractmethod
-    def run(self,data,cfg):
+    def run(self,data,cfg,bundle_groups=False):
         pass
     
     @abc.abstractmethod
     def get_school_groups(self,data):
         pass
+
 
 class CEPSchoolGroupGenerator:
     """
@@ -64,7 +65,26 @@ class CEPSchoolGroupGenerator:
                 print(s)
             return json_data
         except Exception as e:            
-            raise e            
+            raise e
+            
+    def get_group_bundles(self,school_data):       
+        
+        json_data = {}
+        
+        if not (self.__strategy):
+            raise ValueError("ERROR: Invalid strategy")
+        
+        try:
+            algo = self.__strategy
+            
+            if algo.run(school_data,self.__config,bundle_groups=True):
+                json_data = algo.get_school_groups(school_data)                  
+            else:
+                s = "ERROR: Failed to generate school groups"
+                print(s)
+            return json_data
+        except Exception as e:            
+            raise e
 
 #
 # Function wrangle the school district input data to the necessary form to 
@@ -151,10 +171,12 @@ def select_by_isp_impact(df,dst_group_summary,target_isp):
 #
 # Function to take in school data and group them based on the ISP_WIDTH
 #
-def groupby_isp_width(df,cfg):
+def groupby_isp_width(df,cfg,target_isp_width=None):
     
-    min_cep_thold = (cfg.min_cep_thold_pct()*100)
-    isp_width = cfg.isp_width()
+    min_cep_thold = (cfg.min_cep_thold_pct()*100)    
+    
+    # use default ISP width if not specified as  input
+    isp_width = cfg.isp_width() if target_isp_width is None else target_isp_width
     
     # recalculate cumulative-isp
     cum_isp=np.around((df['total_eligible'].cumsum()/df['total_enrolled'].cumsum()).astype(np.double)*100,2)
@@ -181,7 +203,7 @@ def groupby_isp_width(df,cfg):
 # Function that implements a strategy to group schools with ISPs lower than that needed for 
 # 100% CEP funding.
 #
-def group_schools_lo_isp(df,cfg):
+def group_schools_lo_isp(df,cfg,isp_width=None):
           
     school_groups = []
     school_group_summaries = []    
@@ -194,7 +216,7 @@ def group_schools_lo_isp(df,cfg):
     while top_isp >= (cfg.min_cep_thold_pct()*100):
     
         # get the next isp_width group that still qualifies for CEP
-        groups = groupby_isp_width(df,cfg)    
+        groups = groupby_isp_width(df,cfg,isp_width)    
     
         if (groups != None):
             
@@ -283,9 +305,13 @@ def show_results(groups,summaries):
 #
 # Function to prepare school group and summary data in JSON format
 #
-def prepare_results(groups,summaries,cfg,metadata):
+def prepare_results(groups,summaries,cfg,metadata,target_isp_width=None):
     
     json_result = {}
+        
+    # use default ISP width if not specified as  input
+    isp_width = cfg.isp_width() if target_isp_width is None else target_isp_width
+    
     n = len(groups)
     
     json_result['lea'] = metadata['lea']
@@ -316,7 +342,7 @@ def prepare_results(groups,summaries,cfg,metadata):
         
     json_result['school_groups'] = {"num_groups": n, "group_summaries": groups_dl }
     json_result['mealscount_config_version'] = cfg.version()
-    json_result['model_params'] = {'model_variant': cfg.model_variant(), 'isp_width': cfg.isp_width()}
+    json_result['model_params'] = {'model_variant': cfg.model_variant(), 'isp_width': isp_width}
     
     #print(json_result)
     
@@ -325,7 +351,7 @@ def prepare_results(groups,summaries,cfg,metadata):
 #
 # Function to implement variant V2 of the algorithm
 #
-def runAlgorithmV2(self,data,cfg):
+def runAlgorithmV2(self,data,cfg,bundle_groups=False):
     
     status = True   
     
@@ -334,11 +360,21 @@ def runAlgorithmV2(self,data,cfg):
     
     df = prepare_data(df)
     
-    g1,s1 = group_schools_hi_isp(df,cfg)          
-    g2,s2 = group_schools_lo_isp(df,cfg)
-        
-    self.school_groups = prepare_results(g1+g2,s1+s2,cfg,md)      
+    g1,s1 = group_schools_hi_isp(df,cfg)    
     
+    if not bundle_groups: 
+        g2,s2 = group_schools_lo_isp(df,cfg)        
+        self.school_groups = prepare_results(g1+g2,s1+s2,cfg,md)      
+    else:
+        isp_width_bundle = cfg.isp_width_bundle()
+        
+        result = []
+        for isp_width in isp_width_bundle:
+            g,s = group_schools_lo_isp(df.copy(),cfg,isp_width)
+            result.append(prepare_results(g1+g,s1+s,cfg,md,isp_width))      
+        
+        self.school_groups = {"bundles": result}
+        
     # uncomment below for debugging
     # show_results(g1+g2,s1+s2)
     
@@ -355,8 +391,8 @@ class mcAlgorithmV2(mcAlgorithm):
     def version(self):
         return "v2"        
     
-    def run(self,data,cfg):
-        status = self.__run(data,cfg)    
+    def run(self,data,cfg,bundle_groups=False):
+        status = self.__run(data,cfg,bundle_groups)    
         return status
     
     def get_school_groups(self,data):        
@@ -369,27 +405,29 @@ class mcAlgorithmV2(mcAlgorithm):
 #
 def main():
 
-	CWD = os.getcwd()
+    CWD = os.getcwd()
 
-	DATADIR = "data"
-	DATAFILE = "calpads_sample_data.xlsx"
+    DATADIR = "data"
+    DATAFILE = "calpads_sample_data.xlsx"
 
-	CONFIG_FILE = "config.json"
+    CONFIG_FILE = "config.json"
 
-	data = bu.mcXLSchoolDistInput(os.path.join(DATADIR,DATAFILE))
-	cfg = cp.mcModelConfig(CONFIG_FILE)
+    data = bu.mcXLSchoolDistInput(os.path.join(DATADIR,DATAFILE))
+    cfg = cp.mcModelConfig(CONFIG_FILE)
 
-	strategy = mcAlgorithmV2() if cfg.model_variant() == "v2" else None
-	
-	grouper = CEPSchoolGroupGenerator(cfg,strategy)
-	groups = grouper.get_groups(data)
+    strategy = mcAlgorithmV2() if cfg.model_variant() == "v2" else None
+    
+    grouper = CEPSchoolGroupGenerator(cfg,strategy)
+    groups = grouper.get_groups(data)
+    bundles = grouper.get_group_bundles(data)
 
-	print(json.dumps(groups, indent=2))
+    #print(json.dumps(groups, indent=2))
+    print(json.dumps(bundles, indent=2))
 
 #end: main
 
 if __name__ == "__main__":
-	main()
+    main()
 else:
-	# do nothing
-	pass
+    # do nothing
+    pass

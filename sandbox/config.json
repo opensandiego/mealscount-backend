@@ -9,7 +9,8 @@
 		"WI", "WY"],
 	"model_params":{
 		"model_variant": "v2",
-		"isp_width_default": 2.0,	        
+		"isp_width_default": 2.0,
+		"isp_width_bundle": [0.01,2.0,6.25,12.5,22.5],
 		"min_cep_thold_pct":0.40,
 		"max_cep_thold_pct":0.625,		
 		"cep_rates":[{

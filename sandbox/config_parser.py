@@ -73,6 +73,7 @@ def displayModelConfig(self,cfgdata):
     print("Version: {}".format(cfgdata["version"]))
     print("Model Variant: {}".format(cfgdata["model_params"]["model_variant"]))
     print("Default ISP Width (%): {}".format(cfgdata["model_params"]["isp_width_default"]))
+    print("ISP Width Bundle  (%): {}".format(cfgdata["model_params"]["isp_width_bundle"]))
     print("Min CEP Threshold (%): {}".format(cfgdata["model_params"]["min_cep_thold_pct"]))
     print("Max CEP Threshold (%): {}".format(cfgdata["model_params"]["max_cep_thold_pct"]))
     print("CEP Rates Table:")
@@ -116,7 +117,11 @@ class mcModelConfig(mcConfig):
     
     def isp_width(self):
         if self.status():
-            return mcConfig.params(self)["model_params"]["isp_width_default"]        
+            return mcConfig.params(self)["model_params"]["isp_width_default"]
+            
+    def isp_width_bundle(self):
+    	if self.status():
+    		return mcConfig.params(self)["model_params"]["isp_width_bundle"]
 
     def max_cep_thold_pct(self):
         if self.status():
