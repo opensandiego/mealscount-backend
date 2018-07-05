@@ -33,7 +33,7 @@ class mcAlgorithm(metaclass=abc.ABCMeta):
         pass
     
     @abc.abstractmethod
-    def get_school_groups(self,data):
+    def get_school_groups(self,data,format="json"):
         pass
 
 
@@ -49,9 +49,9 @@ class CEPSchoolGroupGenerator:
         self.__strategy = strategy
         self.__config = cfg
             
-    def get_groups(self,school_data):       
+    def get_groups(self,school_data,format="json"):       
         
-        json_data = {}
+        results = None
         
         if not (self.__strategy):
             raise ValueError("ERROR: Invalid strategy")
@@ -59,17 +59,17 @@ class CEPSchoolGroupGenerator:
         try:
             algo = self.__strategy
             if algo.run(school_data,self.__config):
-                json_data = algo.get_school_groups(school_data)                  
+                results = algo.get_school_groups(school_data,format)                  
             else:
                 s = "ERROR: Failed to generate school groups"
                 print(s)
-            return json_data
+            return results
         except Exception as e:            
             raise e
             
-    def get_group_bundles(self,school_data):       
+    def get_group_bundles(self,school_data,format="json"):       
         
-        json_data = {}
+        results = None
         
         if not (self.__strategy):
             raise ValueError("ERROR: Invalid strategy")
@@ -78,11 +78,11 @@ class CEPSchoolGroupGenerator:
             algo = self.__strategy
             
             if algo.run(school_data,self.__config,bundle_groups=True):
-                json_data = algo.get_school_groups(school_data)                  
+                results = algo.get_school_groups(school_data,format)                  
             else:
                 s = "ERROR: Failed to generate school groups"
                 print(s)
-            return json_data
+            return results
         except Exception as e:            
             raise e
 
@@ -305,7 +305,7 @@ def show_results(groups,summaries):
 #
 # Function to prepare school group and summary data in JSON format
 #
-def prepare_results(groups,summaries,cfg,metadata,target_isp_width=None):
+def prepare_results_json(groups,summaries,cfg,metadata,ts, target_isp_width=None):
     
     json_result = {}
         
@@ -316,7 +316,7 @@ def prepare_results(groups,summaries,cfg,metadata,target_isp_width=None):
     
     json_result['lea'] = metadata['lea']
     json_result['academic_year'] = metadata['academic_year']
-    json_result['timestamp'] = datetime.fromtimestamp(time.time()).strftime('%Y-%m-%d %H:%M:%S')    
+    json_result['timestamp'] = ts    
     
     groups_dl = []
     for i in range(n):        
@@ -349,6 +349,67 @@ def prepare_results(groups,summaries,cfg,metadata,target_isp_width=None):
     return json_result
 
 #
+# Function to return school group and summary data as html string 
+#
+def prepare_results_html(groups,summaries,cfg,metadata,ts, target_isp_width=None):
+    
+    html_result = ""
+        
+    # use default ISP width if not specified as  input
+    isp_width = cfg.isp_width() if target_isp_width is None else target_isp_width
+    
+    n = len(groups)    
+    
+    html_result += """<table border="1">"""
+    html_result += "<tr><td><b>LEA</b>: {}</td>".format(metadata['lea'])
+    html_result += "<td><b>Academic Year</b>: {}</td>".format(metadata['academic_year'])    
+        
+    html_result += "<td><b>Timestamp</b>: {}</td></tr>".format(ts)
+    html_result += "</table>"
+    
+    #html_result += "<br>"
+    #html_result += """<table border="1">"""
+    #html_result += "<tr><td><b>Num Groups</b>: {}</td><tr>".format(n)
+    #html_result += "</table>"
+    #html_result += "<br>"
+    
+    html_result += """<table border="1">"""
+    html_result += "<tr><th>Group</th><th>CEP Eligibility</th><th>Total Enrolled</th><th>Direct Certified</th>"
+    html_result += "<th>Non-Direct Certified</th><th>Total Eligible</th><th>Group ISP</th><th>Group Size</th>"
+    html_result += "<th>Schools</th>"
+        
+    groups_dl = []
+    for i in range(n):        
+        
+        g = summaries[i]
+        
+        eligibility = 'yes' if g.loc['sum','grp_isp'] >= (cfg.min_cep_thold_pct()*100) else 'no'                
+        schools = groups[i].loc[:,'school_code'].values.tolist()
+        
+        html_result += "<tr><td>{}</td><td>{}</td><td>{}</td>".format(i, eligibility,
+                                                                      int(g.loc['sum','total_enrolled']))        
+        html_result += "<td>{}</td><td>{}</td><td>{}</td>".format(int(g.loc['sum','direct_cert']), 
+                                                                      int(g.loc['sum','non_direct_cert']),
+                                                                      int(g.loc['sum','total_eligible']))
+        html_result += "<td>{}</td><td>{}</td><td>{}</td>".format(round(float(g.loc['sum','grp_isp']),2), 
+                                                                      int(g.loc['sum','size']),
+                                                                      ", ".join([str(s) for s in schools]))        
+        html_result += "</tr>"
+    
+    html_result += "</table>"
+    #html_result += "<br>"
+    
+    html_result += """<table border="1">"""
+    html_result += "<tr><td><b>MealsCount Config Version</b>: {}</td>".format(cfg.version())
+    html_result += "<td><b>Model Variant</b>: {}</td><td><b>ISP Width</b>: {}</td></tr>".format(cfg.model_variant(),
+                                                                                                isp_width)
+    html_result += "</table>"
+           
+    #print(html_result)
+    
+    return html_result
+
+#
 # Function to implement variant V2 of the algorithm
 #
 def runAlgorithmV2(self,data,cfg,bundle_groups=False):
@@ -362,19 +423,25 @@ def runAlgorithmV2(self,data,cfg,bundle_groups=False):
     
     g1,s1 = group_schools_hi_isp(df,cfg)    
     
+    results_ts = datetime.fromtimestamp(time.time()).strftime('%Y-%m-%d %H:%M:%S')
+    
     if not bundle_groups: 
         g2,s2 = group_schools_lo_isp(df,cfg)        
-        self.school_groups = prepare_results(g1+g2,s1+s2,cfg,md)      
+        self.json_results = prepare_results_json(g1+g2,s1+s2,cfg,md,results_ts)      
+        self.html_results = prepare_results_html(g1+g2,s1+s2,cfg,md,results_ts)      
     else:
         isp_width_bundle = cfg.isp_width_bundle()
         
-        result = []
+        json_list = []
+        html_list = []
         for isp_width in isp_width_bundle:
             g,s = group_schools_lo_isp(df.copy(),cfg,isp_width)
-            result.append(prepare_results(g1+g,s1+s,cfg,md,isp_width))      
+            json_list.append(prepare_results_json(g1+g,s1+s,cfg,md,results_ts,isp_width))      
+            html_list.append(prepare_results_html(g1+g,s1+s,cfg,md,results_ts,isp_width))      
         
-        self.school_groups = {"bundles": result}
-        
+        self.json_results = {"bundles": json_list}
+        self.html_results = "<br><br>".join(html_list)        
+            
     # uncomment below for debugging
     # show_results(g1+g2,s1+s2)
     
@@ -386,7 +453,8 @@ class mcAlgorithmV2(mcAlgorithm):
     """
             
     def __init__(self):                
-        self.school_groups = {}
+        self.json_results = {}
+        self.html_results = ""
     
     def version(self):
         return "v2"        
@@ -395,10 +463,14 @@ class mcAlgorithmV2(mcAlgorithm):
         status = self.__run(data,cfg,bundle_groups)    
         return status
     
-    def get_school_groups(self,data):        
-        return self.school_groups
+    def get_school_groups(self,data,format="json"):
+        if format == "json":
+            return self.json_results
+        else:
+            return self.html_results
     
     __run = runAlgorithmV2
+
 
 #
 # MAIN
@@ -418,11 +490,18 @@ def main():
     strategy = mcAlgorithmV2() if cfg.model_variant() == "v2" else None
     
     grouper = CEPSchoolGroupGenerator(cfg,strategy)
-    groups = grouper.get_groups(data)
-    bundles = grouper.get_group_bundles(data)
 
-    #print(json.dumps(groups, indent=2))
-    print(json.dumps(bundles, indent=2))
+    json_groups = grouper.get_groups(data,"json")
+    json_bundles = grouper.get_group_bundles(data,"json")
+
+    html_groups = grouper.get_groups(data,"html")
+    html_bundles = grouper.get_group_bundles(data,"html")
+
+    #print(json.dumps(json_groups, indent=2))
+    #print(json.dumps(json_bundles, indent=2))
+
+    #print("<html><body>{}</body></html>".format(html_groups))
+    print("<html><body>{}</body></html>".format(html_bundles))
 
 #end: main
 
