@@ -1,5 +1,5 @@
 {
-    "version": "1.0",
+	"version":"2.0",
     "us_regions": [
         "AL", "AK", "AZ", "AR", "CA", "CO", "CT", "DC", "DE", "FL",
         "GA", "HI", "ID", "IL", "IN", "IA", "KS", "KY", "LA", "ME",
@@ -8,6 +8,9 @@
         "RI", "SC", "SD", "TN", "TX", "UT", "VT", "VA", "WA", "WV",
         "WI", "WY"],
     "model_params": {
+		"model_variant": "v2",
+		"isp_width_default": 2.0,
+		"isp_width_bundle": [0.01,2.0,6.25,12.5,22.5],
         "min_cep_thold_pct": 0.40,
         "max_cep_thold_pct": 0.625,
         "performance_based_cash_assistance_per_lunch": 0.06,

@@ -92,15 +92,15 @@
 
           <div class="content-metadata width-five-twelfths grid-item end-row">
             <div class="gray-bg-slab slab">
-              <a href="/static/csv/district.csv"> Download this csv file.</a>
+              <a href="/static/csv/calpads_sample_data.xlsx"> Download this excel file.</a>
               <br>
-              Fill this out with your district data.
+              Replace sample data with your district data.
               <form action="{% url 'calculate' %}" method=POST class="global-footer-form" enctype="multipart/form-data">
                 {% csrf_token %}
                 {{ form.as_p }}
                 <input type="submit" class="button-small button-secondary" value="Submit" />
               </form>
-              <p class="detail-text">Spreadsheet should be formatted as .csv.</p>
+              <p class="detail-text">Spreadsheet should be formatted as excel.</p>
             </div>
           </div>
         </div><!-- end .grid-box -->
