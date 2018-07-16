@@ -7,5 +7,4 @@ urlpatterns = [
     url(r'^about/$', views.AboutPageView.as_view()),  # Add this /about/ route
     url(r'^calculate/$', views.CalculatePageView.as_view(), name='calculate'),  # Initial calculate step
     url(r'^contact/$', views.ContactPageView.as_view()),  # Add this /contact/ route
-    url(r'^submit', views.SubmitSpreadsheetView.as_view()),  # Submit CSV Spreadsheet
 ]
