@@ -92,6 +92,10 @@ class CEPSchoolGroupGenerator:
 #
 def prepare_data(df):
     
+    # convert fields to numeric as appropriate
+    NUMERIC_COLS = ['total_enrolled','frpm','foster','homeless','migrant','direct_cert']
+    df[NUMERIC_COLS] = df[NUMERIC_COLS].apply(pd.to_numeric)
+    
     # remove aggregated records
     df = df[df['school_name']!='total']
     
@@ -152,11 +156,11 @@ def select_by_isp_impact(df,dst_group_summary,target_isp):
     
     schools_to_add = pd.DataFrame()
     
-    dst_grp_total_enrolled = dst_group_summary['total_enrolled']
-    dst_grp_total_eligible = dst_group_summary['total_eligible']
+    dst_grp_total_enrolled = dst_group_summary.loc['sum','total_enrolled']
+    dst_grp_total_eligible = dst_group_summary.loc['sum','total_eligible']
 
-    new_total_enrolled = df['total_enrolled'] + dst_grp_total_enrolled
-    new_isp = np.around((((df['total_eligible'] + dst_grp_total_eligible)/new_total_enrolled)*100).astype(np.double),2)        
+    new_total_enrolled = df.loc[:,'total_enrolled'] + dst_grp_total_enrolled        
+    new_isp = np.around((((df.loc[:,'total_eligible'] + dst_grp_total_eligible)/new_total_enrolled)*100).astype(np.double),2)        
     
     tmp_df = pd.DataFrame({'new_isp':new_isp})
     
@@ -482,9 +486,16 @@ def main():
     DATADIR = "data"
     DATAFILE = "calpads_sample_data.xlsx"
 
+    if (len(sys.argv[1])>1):
+        data_file = sys.argv[1]
+    else:
+        data_file=DATAFILE
+    
+    print("Parsing file: {}".format(data_file))
+
     CONFIG_FILE = "config.json"
 
-    data = bu.mcXLSchoolDistInput(os.path.join(DATADIR,DATAFILE))
+    data = bu.mcXLSchoolDistInput(os.path.join(DATADIR,data_file))
     cfg = cp.mcModelConfig(CONFIG_FILE)
 
     strategy = mcAlgorithmV2() if cfg.model_variant() == "v2" else None
