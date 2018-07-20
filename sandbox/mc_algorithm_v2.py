@@ -485,34 +485,54 @@ def main():
 
     DATADIR = "data"
     DATAFILE = "calpads_sample_data.xlsx"
+    DATAFILE_LARGE = "calpads_sample_data_large.xlsx"
 
+    processing_times = []
+    
     if (len(sys.argv[1])>1):
         data_file = sys.argv[1]
     else:
         data_file=DATAFILE
     
-    print("Parsing file: {}".format(data_file))
+    print("Processing file: {}".format(data_file))
+    print(" ")
+    print(" ")
 
     CONFIG_FILE = "config.json"
 
-    data = bu.mcXLSchoolDistInput(os.path.join(DATADIR,data_file))
     cfg = cp.mcModelConfig(CONFIG_FILE)
-
-    strategy = mcAlgorithmV2() if cfg.model_variant() == "v2" else None
-    
+    strategy = mcAlgorithmV2() if cfg.model_variant() == "v2" else None    
     grouper = CEPSchoolGroupGenerator(cfg,strategy)
 
-    json_groups = grouper.get_groups(data,"json")
-    json_bundles = grouper.get_group_bundles(data,"json")
+    start_t = time.time() 
+    data = bu.mcXLSchoolDistInput(os.path.join(DATADIR,data_file))
+    processing_times.append(round((time.time()-start_t),2))
 
+    start_t = time.time()
+    json_groups = grouper.get_groups(data,"json")
+    processing_times.append(round((time.time()-start_t),2))
+
+    start_t = time.time()
+    json_bundles = grouper.get_group_bundles(data,"json")
+    processing_times.append(round((time.time()-start_t),2))
+
+    start_t = time.time()
     html_groups = grouper.get_groups(data,"html")
+    processing_times.append(round((time.time()-start_t),2))
+
+    start_t = time.time()
     html_bundles = grouper.get_group_bundles(data,"html")
+    processing_times.append(round((time.time()-start_t),2))
 
     #print(json.dumps(json_groups, indent=2))
     #print(json.dumps(json_bundles, indent=2))
 
     #print("<html><body>{}</body></html>".format(html_groups))
-    print("<html><body>{}</body></html>".format(html_bundles))
+    print("<html><body><br><br>{}<br></body></html>".format(html_bundles))
+
+    print("Processing times (secs): ")
+    print("parse: {} json: groups ({}) bundles ({}) html: groups ({}) bundles ({})".format(processing_times[0],
+           processing_times[1],processing_times[2],processing_times[3],processing_times[4]))
 
 #end: main
 
