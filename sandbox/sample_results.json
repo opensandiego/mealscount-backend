@@ -1,7 +1,7 @@
 {
   "lea": "somecity union high",
   "academic_year": "2017-2018",
-  "timestamp": "2018-06-26 16:50:48",
+  "timestamp": "2018-07-31 19:38:21",
   "school_groups": {
     "num_groups": 5,
     "group_summaries": [
@@ -12,7 +12,7 @@
         "direct_cert": 18,
         "non_direct_cert": 28,
         "total_eligible": 46,
-        "group_isp": 75.41,
+        "group_isp": 75.4,
         "group_size": 2,
         "schools": [
           1000001,
@@ -43,7 +43,7 @@
         "direct_cert": 3804,
         "non_direct_cert": 196,
         "total_eligible": 4000,
-        "group_isp": 44.56,
+        "group_isp": 44.55,
         "group_size": 7,
         "schools": [
           1000028,
@@ -81,7 +81,7 @@
         "direct_cert": 3889,
         "non_direct_cert": 143,
         "total_eligible": 4032,
-        "group_isp": 20.29,
+        "group_isp": 20.28,
         "group_size": 12,
         "schools": [
           1000016,

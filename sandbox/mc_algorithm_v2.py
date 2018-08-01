@@ -9,6 +9,7 @@ import pandas as pd
 import numpy as np
 import json
 import time
+import math
 from datetime import datetime
 import abc
 
@@ -87,6 +88,13 @@ class CEPSchoolGroupGenerator:
             raise e
 
 #
+# Utility function to truncate a float (f) to the specified number (n) of
+# decimals without rounding
+#
+def truncate(f, n):
+    return math.floor(f * 10 ** n) / 10 ** n
+
+#
 # Function wrangle the school district input data to the necessary form to 
 # generate groupings of schools based on ISP
 #
@@ -106,22 +114,25 @@ def prepare_data(df):
     total_eligible = (df['foster'] + df['homeless'] + df['migrant'] + df['direct_cert'])
     isp = (total_eligible/df['total_enrolled']) * 100
     df = df.assign(total_eligible=total_eligible)
-    df = df.assign(isp=isp)
-    df.loc[:,'isp'] = np.around(df['isp'].astype(np.double),2)    
+    df = df.assign(isp=isp)     
+    df.loc[:,'isp'] = df['isp'].astype(np.double);    
         
     KEEP_COLS = ['school_code','total_enrolled','direct_cert','non_direct_cert','total_eligible','isp']
 
     # remove cols not needed for further analysis
     drop_cols = [s for s in df.columns.tolist() if s not in set(KEEP_COLS)]
     df.drop(drop_cols,axis=1,inplace=True)
+
+    # remove invalid samples
+    df = df.loc[df['total_eligible'] <= df['total_enrolled']]
     
     # sort by isp
     df.sort_values('isp',ascending=False,inplace=True)
     df.reset_index(inplace=True)
     df.drop('index',axis=1,inplace=True)
     
-    # compute cumulative isp
-    cum_isp = np.around((df['total_eligible'].cumsum()/df['total_enrolled'].cumsum()).astype(np.double)*100,2)
+    # compute cumulative isp    
+    cum_isp = (df['total_eligible'].cumsum()/df['total_enrolled'].cumsum()).astype(np.double)*100
     df = df.assign(cum_isp=cum_isp)
     
     return df
@@ -133,13 +144,13 @@ def summarize_group(group_df,cfg):
     
         # compute total eligible and total enrolled students across all schools in the group
         summary = group_df[['total_enrolled','direct_cert','non_direct_cert','total_eligible']].aggregate(['sum'])        
-        # compute the group's ISP
-        summary = summary.assign(grp_isp=round((summary['total_eligible']/summary['total_enrolled'])*100,2))            
+        # compute the group's ISP        
+        summary = summary.assign(grp_isp=(summary['total_eligible']/summary['total_enrolled'])*100)
         # count the number of schools in the group
         summary = summary.assign(size=group_df.shape[0])
         # compute the % of meals covered at the free and paid rate for the group's ISP
-        grp_isp = summary.loc['sum','grp_isp']
-        free_rate = round(grp_isp * 1.6,2) if grp_isp >= (cfg.min_cep_thold_pct()*100) else 0.0
+        grp_isp = summary.loc['sum','grp_isp']        
+        free_rate = (grp_isp * 1.6) if grp_isp >= (cfg.min_cep_thold_pct()*100) else 0.0
         free_rate = 100. if free_rate > 100. else free_rate
         summary = summary.assign(free_rate=free_rate)
         paid_rate = (100.0 - free_rate)
@@ -152,23 +163,48 @@ def summarize_group(group_df,cfg):
 # to the destination group (whose summary is provided as input) based on the impact each school has on the 
 # destination group's ISP. Target ISP specifies the desired ISP at which to maintain the destination group
 #
-def select_by_isp_impact(df,dst_group_summary,target_isp):
+def select_by_isp_impact(df,group_df,target_isp):
     
-    schools_to_add = pd.DataFrame()
+    schools_to_add = pd.DataFrame();
     
-    dst_grp_total_enrolled = dst_group_summary.loc['sum','total_enrolled']
-    dst_grp_total_eligible = dst_group_summary.loc['sum','total_eligible']
+    dst_grp_total_enrolled = group_df.loc[:,'total_enrolled'].sum()
+    dst_grp_total_eligible = group_df.loc[:,'total_eligible'].sum()
 
-    new_total_enrolled = df.loc[:,'total_enrolled'] + dst_grp_total_enrolled        
-    new_isp = np.around((((df.loc[:,'total_eligible'] + dst_grp_total_eligible)/new_total_enrolled)*100).astype(np.double),2)        
+    new_total_enrolled = df.loc[:,'total_enrolled'] + dst_grp_total_enrolled            
+    new_isp = (((df.loc[:,'total_eligible'] + dst_grp_total_eligible)/new_total_enrolled)*100).astype(np.double)    
     
-    tmp_df = pd.DataFrame({'new_isp':new_isp})
+    isp_impact = pd.DataFrame({'new_isp':new_isp})    
+    isp_impact.sort_values('new_isp',ascending=False,inplace=True)
     
     # select all schools whose ISP impact is small enough to not bring down the new ISP 
     # to under the target ISP
-    idx = tmp_df[tmp_df['new_isp'] >= target_isp].index
+    idx = isp_impact[isp_impact['new_isp'] >= target_isp].index
     if len(idx) > 0:
-        schools_to_add = df.loc[idx,:]
+        
+        # add them to the existing group temporarily
+        tmp_group_df = pd.concat([group_df,df.loc[idx,:]],axis=0)
+        
+        # recompute cumulative isp
+        cum_isp = (tmp_group_df['total_eligible'].cumsum()/tmp_group_df['total_enrolled'].cumsum()).astype(np.double)*100
+        tmp_group_df.loc[:,'cum_isp'] = cum_isp
+        
+        # retain only those that make the cut
+        bins = [0.,target_isp,100.]
+        tmp_groups = tmp_group_df.groupby(pd.cut(tmp_group_df['cum_isp'], bins))
+        ivals = tmp_groups.size().index.tolist()
+        tmp_df = tmp_groups.get_group(ivals[-1]).apply(list).apply(pd.Series)
+        
+        # determine which subset of schools to actully add        
+        potential_additions = idx
+        group_selections = tmp_df.index.tolist()
+        actual_additions = []
+        for x in potential_additions:
+            if x in group_selections:
+                actual_additions.append(x)
+        
+        #generate schools to add
+        if(len(actual_additions)):
+            schools_to_add = df.loc[actual_additions,:]
         
     return schools_to_add
 
@@ -182,8 +218,8 @@ def groupby_isp_width(df,cfg,target_isp_width=None):
     # use default ISP width if not specified as  input
     isp_width = cfg.isp_width() if target_isp_width is None else target_isp_width
     
-    # recalculate cumulative-isp
-    cum_isp=np.around((df['total_eligible'].cumsum()/df['total_enrolled'].cumsum()).astype(np.double)*100,2)
+    # recalculate cumulative-isp    
+    cum_isp=(df['total_eligible'].cumsum()/df['total_enrolled'].cumsum()).astype(np.double)*100
     df = df.assign(cum_isp=cum_isp)
 
     top_isp = df.iloc[0]['isp']
@@ -233,7 +269,7 @@ def group_schools_lo_isp(df,cfg,isp_width=None):
             # trim the school data to remove this group
             df.drop(group_df.index.tolist(),axis=0,inplace=True)                
             # from among remaining schools see if any qualify based on isp impact
-            schools_to_add = select_by_isp_impact(df,summary_df,(cfg.max_cep_thold_pct()*100))
+            schools_to_add = select_by_isp_impact(df,group_df,(cfg.max_cep_thold_pct()*100))
     
             if schools_to_add.shape[0] > 0:
                 group_df = pd.concat([group_df, schools_to_add],axis=0)            
@@ -248,8 +284,8 @@ def group_schools_lo_isp(df,cfg,isp_width=None):
             top_isp = df.iloc[0]['isp']            
 
     # at this point all remaining schools are ineligible for CEP 
-    # pass them along as a group of their own
-    cum_isp = np.around((df['total_eligible'].cumsum()/df['total_enrolled'].cumsum()).astype(np.double)*100,2)
+    # pass them along as a group of their own    
+    cum_isp = (df['total_eligible'].cumsum()/df['total_enrolled'].cumsum()).astype(np.double)*100
     df = df.assign(cum_isp=cum_isp)        
     school_groups.append(df)
     
@@ -281,7 +317,7 @@ def group_schools_hi_isp(df,cfg):
     
     df.drop(group_df.index.tolist(),axis=0,inplace=True)        
     # from among remaining schools see if any qualify based on isp impact
-    schools_to_add = select_by_isp_impact(df,summary_df,(cfg.max_cep_thold_pct()*100))
+    schools_to_add = select_by_isp_impact(df,group_df,(cfg.max_cep_thold_pct()*100))
     
     if schools_to_add.shape[0] > 0:
         group_df = pd.concat([group_df, schools_to_add],axis=0)
@@ -338,7 +374,7 @@ def prepare_results_json(groups,summaries,cfg,metadata,ts, target_isp_width=None
                   "direct_cert": int(g.loc['sum','direct_cert']),
                   "non_direct_cert": int(g.loc['sum','non_direct_cert']),
                   "total_eligible": int(g.loc['sum','total_eligible']),
-                  "group_isp": round(float(g.loc['sum','grp_isp']),2),
+                  "group_isp": truncate(float(g.loc['sum','grp_isp']),2),
                   "group_size": int(g.loc['sum','size']),
                   "schools": schools}
         
@@ -395,7 +431,7 @@ def prepare_results_html(groups,summaries,cfg,metadata,ts, target_isp_width=None
         html_result += "<td>{}</td><td>{}</td><td>{}</td>".format(int(g.loc['sum','direct_cert']), 
                                                                       int(g.loc['sum','non_direct_cert']),
                                                                       int(g.loc['sum','total_eligible']))
-        html_result += "<td>{}</td><td>{}</td><td>{}</td>".format(round(float(g.loc['sum','grp_isp']),2), 
+        html_result += "<td>{}</td><td>{}</td><td>{}</td>".format(truncate(float(g.loc['sum','grp_isp']),2), 
                                                                       int(g.loc['sum','size']),
                                                                       ", ".join([str(s) for s in schools]))        
         html_result += "</tr>"
@@ -489,10 +525,12 @@ def main():
 
     processing_times = []
     
-    if (len(sys.argv[1])>1):
+    # assumes only filename is specified and that the file is present under
+    # DATADIR in the current workspace
+    if (len(sys.argv)>1):
         data_file = sys.argv[1]
     else:
-        data_file=DATAFILE
+        data_file=DATAFILE_LARGE
     
     print("Processing file: {}".format(data_file))
     print(" ")
@@ -530,6 +568,7 @@ def main():
     #print("<html><body>{}</body></html>".format(html_groups))
     print("<html><body><br><br>{}<br></body></html>".format(html_bundles))
 
+    print(" ")
     print("Processing times (secs): ")
     print("parse: {} json: groups ({}) bundles ({}) html: groups ({}) bundles ({})".format(processing_times[0],
            processing_times[1],processing_times[2],processing_times[3],processing_times[4]))

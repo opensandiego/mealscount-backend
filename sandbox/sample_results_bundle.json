@@ -3,9 +3,9 @@
     {
       "lea": "somecity union high",
       "academic_year": "2017-2018",
-      "timestamp": "2018-06-26 19:04:52",
+      "timestamp": "2018-07-31 19:39:27",
       "school_groups": {
-        "num_groups": 17,
+        "num_groups": 16,
         "group_summaries": [
           {
             "group": 0,
@@ -14,7 +14,7 @@
             "direct_cert": 18,
             "non_direct_cert": 28,
             "total_eligible": 46,
-            "group_isp": 75.41,
+            "group_isp": 75.4,
             "group_size": 2,
             "schools": [
               1000001,
@@ -41,7 +41,7 @@
             "direct_cert": 374,
             "non_direct_cert": 33,
             "total_eligible": 407,
-            "group_isp": 51.39,
+            "group_isp": 51.38,
             "group_size": 1,
             "schools": [
               1000017
@@ -54,7 +54,7 @@
             "direct_cert": 240,
             "non_direct_cert": 18,
             "total_eligible": 258,
-            "group_isp": 50.89,
+            "group_isp": 50.88,
             "group_size": 1,
             "schools": [
               1000029
@@ -119,7 +119,7 @@
             "direct_cert": 435,
             "non_direct_cert": 7,
             "total_eligible": 442,
-            "group_isp": 45.71,
+            "group_isp": 45.7,
             "group_size": 1,
             "schools": [
               1000011
@@ -128,31 +128,19 @@
           {
             "group": 9,
             "eligible_for_cep": "yes",
-            "total_enrolled": 789,
-            "direct_cert": 336,
-            "non_direct_cert": 18,
-            "total_eligible": 354,
-            "group_isp": 44.87,
-            "group_size": 1,
-            "schools": [
-              1000014
-            ]
-          },
-          {
-            "group": 10,
-            "eligible_for_cep": "yes",
-            "total_enrolled": 856,
-            "direct_cert": 359,
-            "non_direct_cert": 25,
-            "total_eligible": 384,
+            "total_enrolled": 1645,
+            "direct_cert": 695,
+            "non_direct_cert": 43,
+            "total_eligible": 738,
             "group_isp": 44.86,
-            "group_size": 1,
+            "group_size": 2,
             "schools": [
+              1000014,
               1000006
             ]
           },
           {
-            "group": 11,
+            "group": 10,
             "eligible_for_cep": "yes",
             "total_enrolled": 854,
             "direct_cert": 361,
@@ -165,59 +153,59 @@
             ]
           },
           {
-            "group": 12,
+            "group": 11,
             "eligible_for_cep": "yes",
             "total_enrolled": 2442,
             "direct_cert": 956,
             "non_direct_cert": 72,
             "total_eligible": 1028,
-            "group_isp": 42.1,
+            "group_isp": 42.09,
             "group_size": 1,
             "schools": [
               1000024
             ]
           },
           {
-            "group": 13,
+            "group": 12,
             "eligible_for_cep": "yes",
             "total_enrolled": 2377,
             "direct_cert": 939,
             "non_direct_cert": 51,
             "total_eligible": 990,
-            "group_isp": 41.65,
+            "group_isp": 41.64,
             "group_size": 1,
             "schools": [
               1000007
             ]
           },
           {
-            "group": 14,
+            "group": 13,
             "eligible_for_cep": "yes",
             "total_enrolled": 1812,
             "direct_cert": 685,
             "non_direct_cert": 57,
             "total_eligible": 742,
-            "group_isp": 40.95,
+            "group_isp": 40.94,
             "group_size": 1,
             "schools": [
               1000026
             ]
           },
           {
-            "group": 15,
+            "group": 14,
             "eligible_for_cep": "yes",
             "total_enrolled": 1628,
             "direct_cert": 640,
             "non_direct_cert": 24,
             "total_eligible": 664,
-            "group_isp": 40.79,
+            "group_isp": 40.78,
             "group_size": 1,
             "schools": [
               1000005
             ]
           },
           {
-            "group": 16,
+            "group": 15,
             "eligible_for_cep": "no",
             "total_enrolled": 23025,
             "direct_cert": 5069,
@@ -255,7 +243,7 @@
     {
       "lea": "somecity union high",
       "academic_year": "2017-2018",
-      "timestamp": "2018-06-26 19:04:52",
+      "timestamp": "2018-07-31 19:39:27",
       "school_groups": {
         "num_groups": 5,
         "group_summaries": [
@@ -266,7 +254,7 @@
             "direct_cert": 18,
             "non_direct_cert": 28,
             "total_eligible": 46,
-            "group_isp": 75.41,
+            "group_isp": 75.4,
             "group_size": 2,
             "schools": [
               1000001,
@@ -297,7 +285,7 @@
             "direct_cert": 3804,
             "non_direct_cert": 196,
             "total_eligible": 4000,
-            "group_isp": 44.56,
+            "group_isp": 44.55,
             "group_size": 7,
             "schools": [
               1000028,
@@ -335,7 +323,7 @@
             "direct_cert": 3889,
             "non_direct_cert": 143,
             "total_eligible": 4032,
-            "group_isp": 20.29,
+            "group_isp": 20.28,
             "group_size": 12,
             "schools": [
               1000016,
@@ -363,7 +351,7 @@
     {
       "lea": "somecity union high",
       "academic_year": "2017-2018",
-      "timestamp": "2018-06-26 19:04:52",
+      "timestamp": "2018-07-31 19:39:27",
       "school_groups": {
         "num_groups": 4,
         "group_summaries": [
@@ -374,7 +362,7 @@
             "direct_cert": 18,
             "non_direct_cert": 28,
             "total_eligible": 46,
-            "group_isp": 75.41,
+            "group_isp": 75.4,
             "group_size": 2,
             "schools": [
               1000001,
@@ -431,7 +419,7 @@
             "direct_cert": 3889,
             "non_direct_cert": 143,
             "total_eligible": 4032,
-            "group_isp": 20.29,
+            "group_isp": 20.28,
             "group_size": 12,
             "schools": [
               1000016,
@@ -459,7 +447,7 @@
     {
       "lea": "somecity union high",
       "academic_year": "2017-2018",
-      "timestamp": "2018-06-26 19:04:52",
+      "timestamp": "2018-07-31 19:39:27",
       "school_groups": {
         "num_groups": 3,
         "group_summaries": [
@@ -470,7 +458,7 @@
             "direct_cert": 18,
             "non_direct_cert": 28,
             "total_eligible": 46,
-            "group_isp": 75.41,
+            "group_isp": 75.4,
             "group_size": 2,
             "schools": [
               1000001,
@@ -484,7 +472,7 @@
             "direct_cert": 10240,
             "non_direct_cert": 555,
             "total_eligible": 10795,
-            "group_isp": 40.78,
+            "group_isp": 40.77,
             "group_size": 24,
             "schools": [
               1000022,
@@ -543,7 +531,7 @@
     {
       "lea": "somecity union high",
       "academic_year": "2017-2018",
-      "timestamp": "2018-06-26 19:04:52",
+      "timestamp": "2018-07-31 19:39:27",
       "school_groups": {
         "num_groups": 3,
         "group_summaries": [
@@ -554,7 +542,7 @@
             "direct_cert": 18,
             "non_direct_cert": 28,
             "total_eligible": 46,
-            "group_isp": 75.41,
+            "group_isp": 75.4,
             "group_size": 2,
             "schools": [
               1000001,
@@ -568,7 +556,7 @@
             "direct_cert": 10240,
             "non_direct_cert": 555,
             "total_eligible": 10795,
-            "group_isp": 40.78,
+            "group_isp": 40.77,
             "group_size": 24,
             "schools": [
               1000022,
