@@ -7,6 +7,9 @@ from . import backend_utils as bu
 from . import config_parser as cp
 from .national_program_algorithm import mcAlgorithmV2, CEPSchoolGroupGenerator
 from pathlib import Path
+import json
+
+config = json.load(Path(__file__).parent.parent.joinpath('config', 'national_config.json').open())
 
 # Create your views here.
 class HomePageView(TemplateView):

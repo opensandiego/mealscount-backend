@@ -11,17 +11,14 @@ import time
 import math
 from datetime import datetime
 import abc
-from pathlib import Path
 
-from . import backend_utils as bu
-from . import config_parser as cp
-
-config = json.load(Path(__file__).parent.parent.joinpath('config', 'national_config.json').open())
+import backend_utils as bu
+import config_parser as cp
 
 
 class mcAlgorithm(metaclass=abc.ABCMeta):
     """
-    Base class for the MealsCount Algorithm.
+    Base class for the MealsCount Algorithm. 
     """
 
     def __init__(self):
@@ -99,7 +96,7 @@ def truncate(f, n):
 
 
 #
-# Function wrangle the school district input data to the necessary form to
+# Function wrangle the school district input data to the necessary form to 
 # generate groupings of schools based on ISP
 #
 def prepare_data(df):
@@ -134,7 +131,7 @@ def prepare_data(df):
     df.reset_index(inplace=True)
     df.drop('index', axis=1, inplace=True)
 
-    # compute cumulative isp
+    # compute cumulative isp    
     cum_isp = (df['total_eligible'].cumsum() / df['total_enrolled'].cumsum()).astype(np.double) * 100
     df = df.assign(cum_isp=cum_isp)
 
@@ -163,8 +160,8 @@ def summarize_group(group_df, cfg):
 
 
 #
-# Function to select schools to add, from among all schools not already in the destination group (df),
-# to the destination group (whose summary is provided as input) based on the impact each school has on the
+# Function to select schools to add, from among all schools not already in the destination group (df), 
+# to the destination group (whose summary is provided as input) based on the impact each school has on the 
 # destination group's ISP. Target ISP specifies the desired ISP at which to maintain the destination group
 #
 def select_by_isp_impact(df, group_df, target_isp):
@@ -179,7 +176,7 @@ def select_by_isp_impact(df, group_df, target_isp):
     isp_impact = pd.DataFrame({'new_isp': new_isp})
     isp_impact.sort_values('new_isp', ascending=False, inplace=True)
 
-    # select all schools whose ISP impact is small enough to not bring down the new ISP
+    # select all schools whose ISP impact is small enough to not bring down the new ISP 
     # to under the target ISP
     idx = isp_impact[isp_impact['new_isp'] >= target_isp].index
     if len(idx) > 0:
@@ -198,7 +195,7 @@ def select_by_isp_impact(df, group_df, target_isp):
         ivals = tmp_groups.size().index.tolist()
         tmp_df = tmp_groups.get_group(ivals[-1]).apply(list).apply(pd.Series)
 
-        # determine which subset of schools to actully add
+        # determine which subset of schools to actully add        
         potential_additions = idx
         group_selections = tmp_df.index.tolist()
         actual_additions = []
@@ -222,13 +219,13 @@ def groupby_isp_width(df, cfg, target_isp_width=None):
     # use default ISP width if not specified as  input
     isp_width = cfg.isp_width() if target_isp_width is None else target_isp_width
 
-    # recalculate cumulative-isp
+    # recalculate cumulative-isp    
     cum_isp = (df['total_eligible'].cumsum() / df['total_enrolled'].cumsum()).astype(np.double) * 100
     df = df.assign(cum_isp=cum_isp)
 
     top_isp = df.iloc[0]['isp']
 
-    # if the top ISP is less than that needed for CEP eligibility
+    # if the top ISP is less than that needed for CEP eligibility 
     # we have nothing more to do
     if top_isp < min_cep_thold:
         return None
@@ -237,15 +234,15 @@ def groupby_isp_width(df, cfg, target_isp_width=None):
     isp_thold = (top_isp - isp_width) if (top_isp - isp_width) >= min_cep_thold else min_cep_thold
 
     # group schools at the cut-off point
-    # note that this will generate exactly 2 groups: one of length ISP_WIDTH and the other containing
-    # the rest of the schools
+    # note that this will generate exactly 2 groups: one of length ISP_WIDTH and the other containing 
+    # the rest of the schools     
     groups = df.groupby(pd.cut(df['cum_isp'], [0., isp_thold, top_isp]))
 
     return groups
 
 
 #
-# Function that implements a strategy to group schools with ISPs lower than that needed for
+# Function that implements a strategy to group schools with ISPs lower than that needed for 
 # 100% CEP funding.
 #
 def group_schools_lo_isp(df, cfg, isp_width=None):
@@ -288,7 +285,7 @@ def group_schools_lo_isp(df, cfg, isp_width=None):
             top_isp = df.iloc[0]['isp']
 
             # at this point all remaining schools are ineligible for CEP
-    # pass them along as a group of their own
+    # pass them along as a group of their own    
     cum_isp = (df['total_eligible'].cumsum() / df['total_enrolled'].cumsum()).astype(np.double) * 100
     df = df.assign(cum_isp=cum_isp)
     school_groups.append(df)
@@ -300,15 +297,15 @@ def group_schools_lo_isp(df, cfg, isp_width=None):
 
 
 #
-# Function that implements a strategy to group schools with ISPs higher than (or equal to)
+# Function that implements a strategy to group schools with ISPs higher than (or equal to) 
 # that needed for 100% CEP funding.
 #
 def group_schools_hi_isp(df, cfg):
     school_groups = []
     school_group_summaries = []
 
-    # group the data by cumulative ISP such that all schools with
-    # max CEP threshold and higher are part of a single group; the
+    # group the data by cumulative ISP such that all schools with 
+    # max CEP threshold and higher are part of a single group; the 
     # rest of the schools are in a second group
 
     bins = [0., cfg.max_cep_thold_pct() * 100, 100.]
@@ -392,7 +389,7 @@ def prepare_results_json(groups, summaries, cfg, metadata, ts, target_isp_width=
 
 
 #
-# Function to return school group and summary data as html string
+# Function to return school group and summary data as html string 
 #
 def prepare_results_html(groups, summaries, cfg, metadata, ts, target_isp_width=None):
     html_result = ""
@@ -419,7 +416,6 @@ def prepare_results_html(groups, summaries, cfg, metadata, ts, target_isp_width=
     html_result += "<tr><th>Group</th><th>CEP Eligibility</th><th>Total Enrolled</th><th>Direct Certified</th>"
     html_result += "<th>Non-Direct Certified</th><th>Total Eligible</th><th>Group ISP</th><th>Group Size</th>"
     html_result += "<th>Schools</th>"
-    # html_result += "<th>Money</th>"
 
     groups_dl = []
     for i in range(n):
@@ -436,8 +432,6 @@ def prepare_results_html(groups, summaries, cfg, metadata, ts, target_isp_width=
         html_result += "<td>{}</td><td>{}</td><td>{}</td>".format(truncate(float(g.loc['sum', 'grp_isp']), 2),
                                                                   int(g.loc['sum', 'size']),
                                                                   ", ".join([str(s) for s in schools]))
-        # html_result += "<td>{}</td>".format(
-        #     truncate(float(g.loc['sum', 'grp_isp'] * g.loc['sum', 'total_enrolled']), 2))
         html_result += "</tr>"
 
     html_result += "</table>"
@@ -540,7 +534,7 @@ def main():
     print(" ")
     print(" ")
 
-    CONFIG_FILE = "config.json"
+    CONFIG_FILE = "national_config.json"
 
     cfg = cp.mcModelConfig(CONFIG_FILE)
     strategy = mcAlgorithmV2() if cfg.model_variant() == "v2" else None

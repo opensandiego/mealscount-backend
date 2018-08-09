@@ -1,3 +1,4 @@
+
 # coding: utf-8
 
 # MealsCount Config Parser
@@ -11,14 +12,14 @@ import json
 import pandas as pd
 import numpy as np
 
-
 # TODO: Add documentation
 
 #
 # Function: parseJSON
 #
 
-def parseJSON(self, cfgfile):
+def parseJSON(self,cfgfile):
+
     try:
         with open(cfgfile) as f:
             jsondata = json.load(f)
@@ -29,7 +30,6 @@ def parseJSON(self, cfgfile):
         raise e
 
     return jsondata
-
 
 #
 # Class: mcConfig
@@ -62,11 +62,11 @@ class mcConfig:
 
     __parse = parseJSON
 
-
 #
 # Function: displayModelConfig
 #
-def displayModelConfig(self, cfgdata):
+def displayModelConfig(self,cfgdata):
+
     print("\n")
     print("MealsCount Model Configuration")
     print("------------------------------")
@@ -79,11 +79,10 @@ def displayModelConfig(self, cfgdata):
     print("CEP Rates Table:")
 
     df = pd.DataFrame(cfgdata["model_params"]["cep_rates"])
-    df.set_index("region", inplace=True)
-    df.index.name = None
+    df.set_index("region",inplace=True)
+    df.index.name=None
 
     print(df)
-
 
 #
 # class mcModelConfig
@@ -98,7 +97,7 @@ class mcModelConfig(mcConfig):
         self.__regions = None
         self.__cfgfile = cfgfile
         try:
-            mcConfig.__init__(self, cfgfile)
+            mcConfig.__init__(self,cfgfile)
         except Exception as e:
             raise e
 
@@ -111,37 +110,36 @@ class mcModelConfig(mcConfig):
                 self.__regions = mcConfig.params(self)["us_regions"]
 
         return self.__regions
-
+    
     def model_variant(self):
         if self.status():
             return mcConfig.params(self)["model_params"]["model_variant"]
-
+    
     def isp_width(self):
         if self.status():
             return mcConfig.params(self)["model_params"]["isp_width_default"]
-
+            
     def isp_width_bundle(self):
-        if self.status():
-            return mcConfig.params(self)["model_params"]["isp_width_bundle"]
+    	if self.status():
+    		return mcConfig.params(self)["model_params"]["isp_width_bundle"]
 
     def max_cep_thold_pct(self):
         if self.status():
             return mcConfig.params(self)["model_params"]["max_cep_thold_pct"]
         else:
             return -1
-
     def min_cep_thold_pct(self):
         if self.status():
             return mcConfig.params(self)["model_params"]["min_cep_thold_pct"]
         else:
             return -1
 
-    def cep_rates(self, region='default'):
+    def cep_rates(self,region='default'):
         if self.__rates_df is None:
             if self.status():
                 self.__rates_df = pd.DataFrame(mcConfig.params(self)["model_params"]["cep_rates"])
-                self.__rates_df.set_index("region", inplace=True)
-                self.__rates_df.index.name = None
+                self.__rates_df.set_index("region",inplace=True)
+                self.__rates_df.index.name=None
 
         try:
             cep_rates = self.__rates_df.loc[region]
@@ -158,7 +156,7 @@ class mcModelConfig(mcConfig):
         else:
             print("Error: No configuration to display")
 
-    def params(self, scope='model'):
+    def params(self,scope='model'):
         if self.status():
             if scope is "model":
                 return mcConfig.params(self)["model_params"]

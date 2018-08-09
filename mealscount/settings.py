@@ -84,7 +84,7 @@ DATABASES = {
         'USER': 'meals_count_user',
         'PASSWORD': 'mealscount123',
         'HOST': 'localhost',
-        'PORT': '',
+        'PORT': '5431',
     }
 }
 

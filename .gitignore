@@ -230,3 +230,4 @@ venv.bak/
 
 
 # End of https://www.gitignore.io/api/osx,django,python,pycharm,intellij
+mealscount/settings.py
