@@ -419,7 +419,7 @@ def prepare_results_html(groups, summaries, cfg, metadata, ts, target_isp_width=
     html_result += "<tr><th>Group</th><th>CEP Eligibility</th><th>Total Enrolled</th><th>Direct Certified</th>"
     html_result += "<th>Non-Direct Certified</th><th>Total Eligible</th><th>Group ISP</th><th>Group Size</th>"
     html_result += "<th>Schools</th>"
-    # html_result += "<th>Money</th>"
+    html_result += "<th>Money</th>"
 
     groups_dl = []
     for i in range(n):
@@ -436,8 +436,8 @@ def prepare_results_html(groups, summaries, cfg, metadata, ts, target_isp_width=
         html_result += "<td>{}</td><td>{}</td><td>{}</td>".format(truncate(float(g.loc['sum', 'grp_isp']), 2),
                                                                   int(g.loc['sum', 'size']),
                                                                   ", ".join([str(s) for s in schools]))
-        # html_result += "<td>{}</td>".format(
-        #     truncate(float(g.loc['sum', 'grp_isp'] * g.loc['sum', 'total_enrolled']), 2))
+        html_result += "<td>{}</td>".format(
+            truncate(float(g.loc['sum', 'grp_isp'] * g.loc['sum', 'total_enrolled']), 2))
         html_result += "</tr>"
 
     html_result += "</table>"
