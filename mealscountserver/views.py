@@ -4,7 +4,7 @@ from django.shortcuts import render
 from django.views.generic import TemplateView, FormView
 from .forms import DistrictForm
 from . import backend_utils as bu
-from . import config_parser as cp
+from . import national_rates_config_parser as cp
 from .national_program_algorithm import mcAlgorithmV2, CEPSchoolGroupGenerator
 from pathlib import Path
 import json
@@ -39,8 +39,8 @@ class CalculatePageView(FormView):
                     CONFIG_FILE = "national_config.json"
 
 
-                    cfg = cp.mcModelConfig(Path(__file__).parent.parent.joinpath('config',CONFIG_FILE))
-
+                    cfg = cp.MCModelConfig(Path(__file__).parent.parent.joinpath('config',CONFIG_FILE))
+                    cfg.assistance = form.cleaned_data['district_qualifies_for_performance_based_cash_assistance']
                     strategy = mcAlgorithmV2() if cfg.model_variant() == "v2" else None
 
                     grouper = CEPSchoolGroupGenerator(cfg, strategy)

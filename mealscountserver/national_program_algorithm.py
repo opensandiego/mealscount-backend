@@ -14,7 +14,7 @@ import abc
 from pathlib import Path
 
 from . import backend_utils as bu
-from . import config_parser as cp
+from . import national_rates_config_parser as cp
 
 config = json.load(Path(__file__).parent.parent.joinpath('config', 'national_config.json').open())
 
@@ -394,7 +394,35 @@ def prepare_results_json(groups, summaries, cfg, metadata, ts, target_isp_width=
 #
 # Function to return school group and summary data as html string
 #
-def prepare_results_html(groups, summaries, cfg, metadata, ts, target_isp_width=None):
+def monthly_federal_funds(data, cfg):
+    """calculates the monthly federal funds a school receives."""
+
+    rates = pd.Series([x for x in config['model_params']['cep_rates'] if x['region'] == "default"][0])
+    # data['group'] = np.NaN
+
+    data['eligible'] = np.where((data.grp_isp/100) < cfg.min_cep_thold_pct(), 0, 1)
+    data['govt_funding_level'] = np.where(data.grp_isp * 1.6 > 100, 1, data.grp_isp * 1.6/100)
+
+    # data.sort_values(['grp_isp', 'isp_students'],
+    #                  ascending=[False, False],
+    #                  inplace=True)
+    # assert set(less_than_maximum.index).intersection(set(one_hundred_percent_funding_indexes)) == set(), \
+    #     "the 2 groups intersect: {}".format(data.iloc[set(less_than_maximum.index).intersection(set(one_hundred_percent_funding_indexes))].to_html())
+
+    # assistance = 0.06 * (True|False)
+    assistance = cfg.performance_based_cash_assistance_per_lunch() * cfg.assistance #jlangley
+
+    data['federal_money_per_student_per_day'] = \
+        data.govt_funding_level * (rates.nslp_lunch_free_rate + assistance) * data.eligible + \
+        (1 - data.govt_funding_level) * (rates.nslp_lunch_paid_rate + assistance) * data.eligible + \
+        data.govt_funding_level * rates.sbp_bkfst_free_rate * data.eligible + \
+        (1 - data.govt_funding_level) * rates.sbp_bkfst_paid_rate * data.eligible
+    data['federal_money_per_month'] = data['federal_money_per_student_per_day'] * data.total_enrolled * \
+                                      cfg.monthly_lunches() * data.govt_funding_level
+    return data
+
+
+def prepare_results_html(groups, summaries, cfg, metadata, ts, target_isp_width=None, form=None):
     html_result = ""
 
     # use default ISP width if not specified as  input
@@ -419,7 +447,10 @@ def prepare_results_html(groups, summaries, cfg, metadata, ts, target_isp_width=
     html_result += "<tr><th>Group</th><th>CEP Eligibility</th><th>Total Enrolled</th><th>Direct Certified</th>"
     html_result += "<th>Non-Direct Certified</th><th>Total Eligible</th><th>Group ISP</th><th>Group Size</th>"
     html_result += "<th>Schools</th>"
-    html_result += "<th>Money</th>"
+    html_result += "<th>Federal Monthly Funds</th>"
+    html_result += "<th>federal_money_per_student_per_day</th>"
+    html_result += "<th>eligible</th>"
+
 
     groups_dl = []
     for i in range(n):
@@ -436,8 +467,10 @@ def prepare_results_html(groups, summaries, cfg, metadata, ts, target_isp_width=
         html_result += "<td>{}</td><td>{}</td><td>{}</td>".format(truncate(float(g.loc['sum', 'grp_isp']), 2),
                                                                   int(g.loc['sum', 'size']),
                                                                   ", ".join([str(s) for s in schools]))
-        html_result += "<td>{}</td>".format(
-            truncate(float(g.loc['sum', 'grp_isp'] * g.loc['sum', 'total_enrolled']), 2))
+        data = monthly_federal_funds(g.loc['sum'], cfg)
+        html_result += "<td>{}</td>".format(data.federal_money_per_month)
+        html_result += "<td>{}</td>".format(data.federal_money_per_student_per_day)
+        html_result += "<td>{}</td>".format(data.eligible)
         html_result += "</tr>"
 
     html_result += "</table>"
@@ -447,6 +480,7 @@ def prepare_results_html(groups, summaries, cfg, metadata, ts, target_isp_width=
     html_result += "<tr><td><b>MealsCount Config Version</b>: {}</td>".format(cfg.version())
     html_result += "<td><b>Model Variant</b>: {}</td><td><b>ISP Width</b>: {}</td></tr>".format(cfg.model_variant(),
                                                                                                 isp_width)
+
     html_result += "</table>"
 
     # print(html_result)
@@ -540,7 +574,7 @@ def main():
     print(" ")
     print(" ")
 
-    CONFIG_FILE = "config.json"
+    CONFIG_FILE = "national_config.json"
 
     cfg = cp.mcModelConfig(CONFIG_FILE)
     strategy = mcAlgorithmV2() if cfg.model_variant() == "v2" else None
