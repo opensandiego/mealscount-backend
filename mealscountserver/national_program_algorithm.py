@@ -410,7 +410,7 @@ def monthly_federal_funds(data, cfg):
     #     "the 2 groups intersect: {}".format(data.iloc[set(less_than_maximum.index).intersection(set(one_hundred_percent_funding_indexes))].to_html())
 
     # assistance = 0.06 * (True|False)
-    assistance = cfg.performance_based_cash_assistance_per_lunch() * cfg.assistance #jlangley
+    assistance = cfg.performance_based_cash_assistance_per_lunch() * cfg.assistance
 
     data['federal_money_per_student_per_day'] = \
         data.govt_funding_level * (rates.nslp_lunch_free_rate + assistance) * data.eligible + \
@@ -447,9 +447,9 @@ def prepare_results_html(groups, summaries, cfg, metadata, ts, target_isp_width=
     html_result += "<tr><th>Group</th><th>CEP Eligibility</th><th>Total Enrolled</th><th>Direct Certified</th>"
     html_result += "<th>Non-Direct Certified</th><th>Total Eligible</th><th>Group ISP</th><th>Group Size</th>"
     html_result += "<th>Schools</th>"
-    html_result += "<th>Federal Monthly Funds</th>"
+    html_result += "<th>Federal Monthly Funds (with 100% participation)</th>"
     html_result += "<th>federal_money_per_student_per_day</th>"
-    html_result += "<th>eligible</th>"
+
 
 
     groups_dl = []
@@ -468,9 +468,8 @@ def prepare_results_html(groups, summaries, cfg, metadata, ts, target_isp_width=
                                                                   int(g.loc['sum', 'size']),
                                                                   ", ".join([str(s) for s in schools]))
         data = monthly_federal_funds(g.loc['sum'], cfg)
-        html_result += "<td>{}</td>".format(data.federal_money_per_month)
-        html_result += "<td>{}</td>".format(data.federal_money_per_student_per_day)
-        html_result += "<td>{}</td>".format(data.eligible)
+        html_result += "<td>{0:.2f}</td>".format(data.federal_money_per_month)
+        html_result += "<td>{0:.2f}</td>".format(data.federal_money_per_student_per_day)
         html_result += "</tr>"
 
     html_result += "</table>"
