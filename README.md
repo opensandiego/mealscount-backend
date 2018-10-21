@@ -18,3 +18,10 @@ http://mealscount.com/
 
 ## tech involved
 required: Python 3, django, pandas, bokeh
+
+
+## Deploying a new version on DigitalOcean
+1. ssh into the DigitalOcean server (mealscount-backed-droplet)
+2. In the mealscount directory, pull the latest code from upstream using git.
+3. Restart gunicorn: sudo service gunicorn stop; sudo service gunicorn start
+4. Restart nginx: sudo service nginx restart
