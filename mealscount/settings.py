@@ -11,7 +11,7 @@ https://docs.djangoproject.com/en/1.11/ref/settings/
 """
 
 import os
-
+from config import *
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 STATIC_URL = '/static/'
@@ -22,7 +22,7 @@ STATIC_ROOT = os.path.join(BASE_DIR, "static/")
 # See https://docs.djangoproject.com/en/1.11/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = '*6yr5()80+7$3t(*b3-t+8xta@9uys^j20)^mxf&%7!)w*8)^@'
+SECRET_KEY = django_config['secret_key']
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -84,7 +84,7 @@ DATABASES = {
         'USER': 'meals_count_user',
         'PASSWORD': 'mealscount123',
         'HOST': 'localhost',
-        'PORT': '',
+        'PORT': '5431',
     }
 }
 

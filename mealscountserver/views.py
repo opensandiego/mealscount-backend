@@ -7,9 +7,9 @@ from . import backend_utils as bu
 from . import national_rates_config_parser as cp
 from .national_program_algorithm import mcAlgorithmV2, CEPSchoolGroupGenerator
 from pathlib import Path
-import json
+from config import *
+from pandas_django import PandasSimpleView
 
-config = json.load(Path(__file__).parent.parent.joinpath('config', 'national_config.json').open())
 
 # Create your views here.
 class HomePageView(TemplateView):
@@ -20,35 +20,18 @@ class AboutPageView(TemplateView):
     template_name = "about.html"
 
 
+
 class CalculatePageView(FormView):
     template_name = "calculate.html"
     form_class = DistrictForm
+
 
     def post(self, request):
         try:
             form = DistrictForm(request.POST, request.FILES)
             if form.is_valid():
-                try:
-                    data = bu.mcXLSchoolDistInput(form.cleaned_data['district_data_file'])
-                except (ValueError, KeyError):
-                    raise ValidationError("Data File couldn't be parsed, " +
-                                          "make sure to keep the headers and don't leave blank lines.")
-                try:
-                    # TODO do something with form.cleaned_data['email']
+                data = self.etl(form)
 
-                    CONFIG_FILE = "national_config.json"
-
-
-                    cfg = cp.MCModelConfig(Path(__file__).parent.parent.joinpath('config',CONFIG_FILE))
-                    cfg.assistance = form.cleaned_data['district_qualifies_for_performance_based_cash_assistance']
-                    strategy = mcAlgorithmV2() if cfg.model_variant() == "v2" else None
-
-                    grouper = CEPSchoolGroupGenerator(cfg, strategy)
-
-                    html_data = grouper.get_group_bundles(data, "html")
-
-                except (ValueError, KeyError):
-                    raise ValidationError("State or District was invalid")
             else:
                 raise ValueError('form was invalid')
         except (ValueError, KeyError):
@@ -58,9 +41,44 @@ class CalculatePageView(FormView):
             form.save()
         except:
             raise
-        return render(request, "results.html",
-                      {'html_data': html_data})
 
+        return render(request, "results.html",
+                      {'html_data': data})
+
+    def etl(self, form):
+        data = self.dataframe_and_metadata(form)
+        try:
+            self.assistance = form.cleaned_data['district_qualifies_for_performance_based_cash_assistance']
+        except:
+            raise ValidationError("the checkbox for performance based cash assistance was invalid")
+
+        try:
+            # TODO do something with form.cleaned_data['email']
+
+            strategy = mcAlgorithmV2() if model_version_info['model_variant'] == "v2" else None
+
+            # grouper is just an object that has not groupbed anything yet.
+            grouped_data = CEPSchoolGroupGenerator(funding_rules, strategy).get_groups(data)
+
+            summary_df = summarize_group(grouped_data, cfg)
+            data = grouper.get_group_bundles(data)
+
+        except (ValueError, KeyError):
+            raise ValidationError("State or District was invalid")
+        return data
+
+    def dataframe_and_metadata(self, form):
+        try:
+            data = bu.dataFrameAndMetadataFromXL(form.cleaned_data['district_data_file'])
+        except (ValueError, KeyError):
+            raise ValidationError("Data File couldn't be parsed, " +
+                                  "make sure to keep the headers and don't leave blank lines.")
+        return data
+
+class SchoolGroup(PandasSimpleView):
+
+    def get_data(self, df, *args, **kwargs):
+        return df
 
 
 class ContactPageView(TemplateView):

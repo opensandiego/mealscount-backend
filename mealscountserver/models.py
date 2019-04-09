@@ -90,6 +90,7 @@ class District(models.Model):
     )
     district_qualifies_for_performance_based_cash_assistance = models.BooleanField(null=False, default=False)
     uploaded_at = models.DateTimeField(auto_now_add=True)
+
     # by = DistrictAdmin
     # TODO: Add users to District
     # who_uploaded = models.OneToOneField(User, on_delete=models.PROTECT)
@@ -121,6 +122,7 @@ admin.site.register(DistrictAdmin)
 
 
 class School(models.Model):
+    add_a_field_here = models.BooleanField()
     school_name = models.CharField(max_length=200)
     total_number_of_students = models.IntegerField()
     identified_student_population = models.IntegerField()

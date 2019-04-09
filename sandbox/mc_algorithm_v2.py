@@ -6,12 +6,11 @@ import os
 import sys
 import pandas as pd
 import numpy as np
-import json
 import time
 import math
 from datetime import datetime
 import abc
-
+from config import *
 import backend_utils as bu
 import config_parser as cp
 
@@ -32,9 +31,9 @@ class mcAlgorithm(metaclass=abc.ABCMeta):
     def run(self, data, cfg, bundle_groups=False):
         pass
 
-    @abc.abstractmethod
-    def get_school_groups(self, data, format="json"):
-        pass
+    # @abc.abstractmethod
+    # def get_school_groupings(self, data):
+    #     pass
 
 
 class CEPSchoolGroupGenerator:
@@ -141,7 +140,7 @@ def prepare_data(df):
 #
 # Function to generate summary data for the specified group of schools
 #
-def summarize_group(group_df, cfg):
+def summarize_group(group_df):
     # compute total eligible and total enrolled students across all schools in the group
     summary = group_df[['total_enrolled', 'direct_cert', 'non_direct_cert', 'total_eligible']].aggregate(['sum'])
     # compute the group's ISP
@@ -150,7 +149,7 @@ def summarize_group(group_df, cfg):
     summary = summary.assign(size=group_df.shape[0])
     # compute the % of meals covered at the free and paid rate for the group's ISP
     grp_isp = summary.loc['sum', 'grp_isp']
-    free_rate = (grp_isp * 1.6) if grp_isp >= (cfg.min_cep_thold_pct() * 100) else 0.0
+    free_rate = (grp_isp * 1.6) if grp_isp >= (funding_rules['min_cep_thold_pct'] * 100) else 0.0
     free_rate = 100. if free_rate > 100. else free_rate
     summary = summary.assign(free_rate=free_rate)
     paid_rate = (100.0 - free_rate)
@@ -300,36 +299,29 @@ def group_schools_lo_isp(df, cfg, isp_width=None):
 # Function that implements a strategy to group schools with ISPs higher than (or equal to) 
 # that needed for 100% CEP funding.
 #
-def group_schools_hi_isp(df, cfg):
-    school_groups = []
-    school_group_summaries = []
-
+def group_schools_hi_isp(df):
     # group the data by cumulative ISP such that all schools with 
     # max CEP threshold and higher are part of a single group; the 
     # rest of the schools are in a second group
 
-    bins = [0., cfg.max_cep_thold_pct() * 100, 100.]
+    bins = [0., funding_rules['max_cep_thold_pct'] * 100, 100.]
 
     groups = df.groupby(pd.cut(df['cum_isp'], bins))
     ivals = groups.size().index.tolist()
 
     group_df = groups.get_group(ivals[-1]).apply(list).apply(pd.Series)
-    summary_df = summarize_group(group_df, cfg)
 
     df.drop(group_df.index.tolist(), axis=0, inplace=True)
     # from among remaining schools see if any qualify based on isp impact
-    schools_to_add = select_by_isp_impact(df, group_df, (cfg.max_cep_thold_pct() * 100))
+    schools_to_add = select_by_isp_impact(df, group_df, (funding_rules['max_cep_thold_pct'] * 100))
 
     if schools_to_add.shape[0] > 0:
         group_df = pd.concat([group_df, schools_to_add], axis=0)
         df.drop(schools_to_add.index.tolist(), axis=0, inplace=True)
 
-    school_groups.append(group_df)
+    group_df
 
-    summary_df = summarize_group(group_df, cfg)
-    school_group_summaries.append(summary_df)
-
-    return school_groups, school_group_summaries
+    return group_df
 
 
 def show_results(groups, summaries):
@@ -502,11 +494,11 @@ class mcAlgorithmV2(mcAlgorithm):
         status = self.__run(data, cfg, bundle_groups)
         return status
 
-    def get_school_groups(self, data, format="json"):
-        if format == "json":
-            return self.json_results
-        else:
-            return self.html_results
+    # def get_school_groups(self, data, format="json"):
+    #     if format == "json":
+    #         return self.json_results
+    #     else:
+    #         return self.html_results
 
     __run = runAlgorithmV2
 

@@ -98,7 +98,7 @@ def extract_df(df,row_idx,col_idx,school_type):
 #
 # Function to parse MealsCount school district input data in Excel file format
 # A successful execution will result in the d_df and md_dict variables of the
-# mcXLSchoolDistInput instance to be populated with data from the Excel file.
+# dataFrameAndMetadataFromXL instance to be populated with data from the Excel file.
 #
 # Any errors during parsing wlll result in an exception
 #
@@ -231,7 +231,7 @@ def parseXL(self,xlfile):
         raise e
 
 #
-# CLASS: mcXLSchoolDistInput
+# CLASS: dataFrameAndMetadataFromXL
 #
 # Abstract base class to specify API for MealsCount school district input
 # data instances
