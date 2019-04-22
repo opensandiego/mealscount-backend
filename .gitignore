@@ -1,8 +1,7 @@
 # user created stuff
 mealscount/settings.py
 
-# Created by https://www.gitignore.io/api/osx,django,python,pycharm,intellij
-
+# Created by https://www.gitignore.io/api/osx,django,python,pycharm,intellij 
 ### Django ###
 *.log
 *.pot
@@ -234,3 +233,10 @@ district_data/
 
 # End of https://www.gitignore.io/api/osx,django,python,pycharm,intellij
 mealscount/settings.py
+
+# Virtualenv pieces
+bin/
+etc/
+include/
+share/
+
