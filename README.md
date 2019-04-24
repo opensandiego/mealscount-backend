@@ -1,6 +1,9 @@
 # mealscount-backend
 Optimizing a free-meal reimbursement program for K-12 schools
 
+## Validation Branch
+This is the Validation Branch, intended to provide a simpler environment for confirming and evaluating the optimization as compared to baselines, to measure the improvement. Please see the *master* branch for application code.
+
 ## How
 Community Eligibility Provision (CEP)
 CEP is a program of the USDA that allows schools to serve meals free to all students, without having to collect paper or online applications. Students are identified as eligible based on their participation in other means tested programs, like CalFresh and Medicaid. Schools are able to maximize their reimbursement because when meals are served universally free, it is easier to adopt service models that increase student participation, like “breakfast after the bell.” Plus schools are guaranteed a reimbursement structure that is stable for four years at a time.
@@ -20,8 +23,3 @@ http://mealscount.com/
 required: Python 3, django, pandas, bokeh
 
 
-## Deploying a new version on DigitalOcean
-1. ssh into the DigitalOcean server (mealscount-backed-droplet)
-2. In the mealscount directory, pull the latest code from upstream using git.
-3. Restart gunicorn: sudo service gunicorn stop; sudo service gunicorn start
-4. Restart nginx: sudo service nginx restart
