@@ -1,4 +1,5 @@
-        
+       
+# Shortcut to deal with commas in integers from csv
 i = lambda x: int(x.replace(',',''))
 
 class CEPSchool(object):
@@ -83,7 +84,7 @@ class OneToOneCEPDistrict(BaseCEPDistrict):
             for school in self.schools
         ] 
 
-# Appears to follow this strategy
+# MC Algo V2 - Appears to follow this strategy
 # https://stackoverflow.com/questions/33334961/algorithm-group-sort-list-to-maximize-minimum-average-group-value/33336017#33336017
 # HOWEVER, we are optimizing to a threshold, not the overall minimum, so this does not necessarily apply (TBD)
 class BinCEPDistrict(BaseCEPDistrict):
@@ -109,7 +110,17 @@ class BinCEPDistrict(BaseCEPDistrict):
         #TODO test against original algo
 
 if __name__=="__main__":
+    # Import csv
     import csv,sys
+
+    if len(sys.argv) < 2:
+        print('''Please specify the CUPC csv (modified with required columns)
+    Required columns:
+    District Name,School Name,total_enrolled,foster,migrant,homeless,direct_cert
+    **Note** total_enrolled,foster,migrant,homeless,direct_cert renamed from CUPC export
+    ''')
+        sys.exit(1)
+
     schools = [r for r in csv.DictReader(open(sys.argv[1])) if i(r['total_enrolled']) > 0]
 
     # Naive Groupings

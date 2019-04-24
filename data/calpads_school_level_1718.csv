@@ -1,22 +1,4 @@
-Academic Year,County Code,District Code,School Code,County Name,District Name,School Name,District Type,School Type,"Educational 
-Option Type","NSLP 
-Provision 
-Status","Charter 
-School 
-(Y/N)",Charter Number,Charter Funding Type,IRC,Low Grade,High Grade,"Total 
-Enrollment","Free &
-Reduced
-Meal
-Program",Foster,Homeless,"Migrant
-Program",Direct Certification,"Unduplicated
-FRPM Eligible 
-Count","English 
-Learner 
-(EL)","CALPADS Unduplicated 
-Pupil Count
-(UPC)","CALPADS Fall 1 
-Certification Status 
-(Y/N)",
+Academic Year,County Code,District Code,School Code,County Name,District Name,School Name,District Type,School Type,Educational Option Type,"NSLP Provision Status","Charter School",Charter Number,Charter Funding Type,IRC,Low Grade,High Grade,total_enrolled,frpm,foster,homeless,migrant,direct_cert,unduplicated_frpm,english_learner,"CALPADS Unduplicated Pupil Count (UPC)","CALPADS Fall 1 Certification Status (Y/N)",
 2017-2018,01,61119,0132142,Alameda,Alameda Unified,Encinal Junior/Senior High,Unified School District,K-12 Schools (Public),Traditional,,No ,,,N,6,12,"1,329",575,4,19,0,385,587,190,644,Y,
 2017-2018,01,61119,6090021,Alameda,Alameda Unified,Frank Otis Elementary,Unified School District,Elementary Schools (Public),Traditional,,No ,,,N,K,5,644,111,0,3,0,79,111,103,173,Y,
 2017-2018,01,61143,6090211,Alameda,Berkeley Unified,Emerson Elementary,Unified School District,Elementary Schools (Public),Traditional,,No ,,,N,K,5,320,118,1,11,0,65,119,34,131,Y,

@@ -240,3 +240,5 @@ etc/
 include/
 share/
 
+# temp data folder
+data/
