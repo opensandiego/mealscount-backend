@@ -39,7 +39,7 @@ class CEPGroup(object):
         self.free_rate = self.isp * 1.6
         if self.isp * 1.6 > 1:
             self.free_rate = 1
-        elif self.isp < 0.3:
+        elif self.isp < 0.4:
             self.free_rate = 0 
 
         self.paid_rate = 1.0 - self.free_rate
