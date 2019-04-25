@@ -12,8 +12,8 @@ import math
 from datetime import datetime
 import abc
 
-import backend_utils as bu
-import config_parser as cp
+from . import backend_utils as bu
+from . import config_parser as cp
 
 
 class mcAlgorithm(metaclass=abc.ABCMeta):
@@ -313,8 +313,13 @@ def group_schools_hi_isp(df, cfg):
     groups = df.groupby(pd.cut(df['cum_isp'], bins))
     ivals = groups.size().index.tolist()
 
-    group_df = groups.get_group(ivals[-1]).apply(list).apply(pd.Series)
-    summary_df = summarize_group(group_df, cfg)
+    #import pdb; pdb.set_trace()
+    try:
+        group_df = groups.get_group(ivals[-1]).apply(list).apply(pd.Series)
+    except KeyError:
+        # This means there are no hi isp groups
+        group_df = pd.DataFrame().reindex_like(df) #  Empty data frame?
+    summary_df = summarize_group(group_df, cfg) 
 
     df.drop(group_df.index.tolist(), axis=0, inplace=True)
     # from among remaining schools see if any qualify based on isp impact

@@ -5,13 +5,36 @@ i = lambda x: int(x.replace(',',''))
 class CEPSchool(object):
     def __init__(self,data):
         self.district = data['District Name']
+        self.district_code = data['District Code']
         self.name = data['School Name']
-        self.total_eligible = (i(data['foster']) + i(data['homeless']) + i(data['migrant']) + i(data['direct_cert']))
+        self.code = data['School Code']
+        self.foster = i(data['foster'])
+        self.homeless = i(data['homeless'])
+        self.migrant = i(data['migrant'])
+        self.direct_cert = i(data['direct_cert'])
+        self.frpm = i(data['frpm'])
+        self.total_eligible = (self.foster + self.homeless + self.migrant + self.direct_cert)
         self.total_enrolled = i(data['total_enrolled'])
+
+        self.breakfast_served = self.total_enrolled  # TODO provide as input
+        self.lunch_served = self.total_enrolled #TODO provide as input
+
         if self.total_enrolled == 0:
             sel.isp  = self.free_rate = self.paid_rate = 0
         else:
             self.isp = round(self.total_eligible / float(self.total_enrolled), 4)
+
+    def as_dict(self):
+        return {
+            'school_code': self.code,
+            'school_name': self.name,
+            'total_enrolled': self.total_enrolled,
+            'frpm': self.frpm ,
+            'foster': self.foster,
+            'homeless': self.homeless,
+            'migrant': self.migrant,
+            'direct_cert': self.direct_cert,
+        }
 
 class CEPGroup(object):
     def __init__(self,district,group_name,schools):
@@ -57,10 +80,13 @@ class CEPGroup(object):
             (self.district,self.name,self.isp*100, self.total_enrolled, self.free_rate*100)
 
 class BaseCEPDistrict(object):
-    def __init__(self,name):
+    def __init__(self,name,code,sfa_certified=False,anticipated_rate_change=0.02):
         self.name = name
+        self.code = code
         self.schools = [] 
-        self.groups = None 
+        self.groups = []
+        self.sfa_certified = sfa_certified # TODO provide as input
+        self.anticipated_rate_change = 0.02
 
     def create_groups(self):
         raise NotImplemented("Override this with the grouping strategy")
@@ -76,6 +102,11 @@ class BaseCEPDistrict(object):
     @property
     def percent_covered(self):
         return float(self.students_covered)/self.total_enrolled
+
+    def reimbursement(self):
+        # TODO calculate reimbursement amount
+        raise NotImplemented("Need to calculate based on CEP Estimator")
+
 
 class OneToOneCEPDistrict(BaseCEPDistrict):
     def create_groups(self):
@@ -105,35 +136,70 @@ class BinCEPDistrict(BaseCEPDistrict):
         # then bin out the_rest
         isp_width = 0.05
         t = threshold # start with bin at 62.5 - isp_width
-        t,bins = t-isp_width,[] 
+        t,bins = t-isp_width,[]
 
         #TODO test against original algo
 
+# Uses the original algo 
+class AlgoV2CEPDistrict(BaseCEPDistrict):
+    def create_groups(self):
+        from sandbox.mc_algorithm_v2 import mcAlgorithmV2,CEPSchoolGroupGenerator
+        from sandbox import config_parser
+        from sandbox import backend_utils
+        import pandas
+        df = pandas.DataFrame([s.as_dict() for s in self.schools])
+        class tmpSchoolDistInput(backend_utils.mcSchoolDistInput):
+            def to_frame(self): return self.d_df  
+            def metadata(self): return {"lea":"tmp","academic_year":"tmp"}
+        data = tmpSchoolDistInput()
+        data.d_df = df
+        cfg = config_parser.mcModelConfig("sandbox/config.json")
+        strategy = mcAlgorithmV2()
+        grouper = CEPSchoolGroupGenerator(cfg, strategy)
+        results = grouper.get_groups(data, "json")
+        groups = [g for g in results["school_groups"]["group_summaries"]]
+        isp_width = results["model_params"]["isp_width"]
+
+        for g in groups:
+            schools = [s for s in self.schools if s.code in g["schools"]]
+            self.groups.append(CEPGroup(self.name,"group-%s"%g["group"],schools))
+
+
+#### MAIN ####
 if __name__=="__main__":
     # Import csv
-    import csv,sys
+    import csv
+    import argparse 
 
-    if len(sys.argv) < 2:
-        print('''Please specify the CUPC csv (modified with required columns)
+    parser = argparse.ArgumentParser()
+    parser.add_argument('cupc_csv_file',type=str,
+                        help='''Path of cupc file as csv with modified columns: 
     Required columns:
     District Name,School Name,total_enrolled,foster,migrant,homeless,direct_cert
     **Note** total_enrolled,foster,migrant,homeless,direct_cert renamed from CUPC export
     ''')
-        sys.exit(1)
+    parser.add_argument('--district',type=str,default=None,
+                        help='Specific district code to run (if none, all in csv are run)')
+    
+    args = parser.parse_args()
 
-    schools = [r for r in csv.DictReader(open(sys.argv[1])) if i(r['total_enrolled']) > 0]
+    schools = [r for r in csv.DictReader(open(args.cupc_csv_file)) if i(r['total_enrolled']) > 0]
 
     # Naive Groupings
-    DistrictClass = OneToOneCEPDistrict
-    
+    #DistrictClass = OneToOneCEPDistrict
+    DistrictClass = AlgoV2CEPDistrict
+
     districts = {}
     for row in schools:
+        if args.district and row["District Code"] != args.district: continue
         school = CEPSchool(row)
-        districts.setdefault(school.district,DistrictClass(school.district))
+        districts.setdefault(school.district,DistrictClass(school.district,school.district_code))
         districts[school.district].schools.append(school)
 
     for d in districts:
         district = districts[d]
+        if args.district and district.code != args.district: continue
+        print("Processing District ",district.name)
         district.create_groups()
         if district.total_enrolled == 0:
             print("%s -- no students enrolled --" % district.name)
