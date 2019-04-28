@@ -103,11 +103,11 @@ def cli(cupc_csv_file,baseline=None,target_district=None,strategy="OneToOne"):
     click.secho(    "{:,} Schools Processed for {:,} districts".format(len(schools),len(districts)) ,
                     fg="blue", bold=True )
 
-    overall_eligible = sum([d.students_covered for d in districts]) - sum([d.students_covered for d in baseline_districts]) 
-    c = "red"
-    if overall_eligible > 0: c = "green"
-    click.secho("{:+,} Students are eligible with {:} vs {:}".format(overall_eligible,strategy,baseline),fg=c)
-
+        overall_eligible = sum([d.students_covered for d in districts]) - sum([d.students_covered for d in baseline_districts]) 
+        c = "red"
+        if overall_eligible > 0: c = "green"
+        click.secho("{:+,} Students are eligible with {:} vs {:}".format(overall_eligible,strategy,baseline),fg=c)
+    
 
 if __name__ == '__main__':
     cli()    
