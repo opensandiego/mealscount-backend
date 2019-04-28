@@ -34,11 +34,11 @@ def cli(cupc_csv_file,baseline=None,target_district=None,strategy="OneToOne"):
     
     DistrictClass = STRATEGIES[strategy]
     districts = parse_districts(schools,DistrictClass)
-
+    total_overall = sum([i(s["total_enrolled"]) for s in schools])
     click.secho("\nParsed {:,} schools in {:,} districts representing {:,} students\n".format( 
             len(schools),
             len(districts), 
-            sum([i(s["total_enrolled"]) for s in schools]),
+            total_overall,
          ),
         fg="blue"
     )
@@ -94,9 +94,19 @@ def cli(cupc_csv_file,baseline=None,target_district=None,strategy="OneToOne"):
             floatfmt=("","",",.0f",",.0f",".0f"),
         ))
 
+    click.secho("\n"+"="*100,bold=True)
+
+    if baseline:
+        click.secho("Baseline Strategy: %s" % strategy)
+    click.secho("Optimization Strategy: %s" % baseline)
+
     click.secho(    "{:,} Schools Processed for {:,} districts".format(len(schools),len(districts)) ,
                     fg="blue", bold=True )
-    click.secho(DistrictClass.__doc__)
+
+    overall_eligible = sum([d.students_covered for d in districts]) - sum([d.students_covered for d in baseline_districts]) 
+    c = "red"
+    if overall_eligible > 0: c = "green"
+    click.secho("{:+,} Students are eligible with {:} vs {:}".format(overall_eligible,strategy,baseline),fg=c)
 
 
 if __name__ == '__main__':
