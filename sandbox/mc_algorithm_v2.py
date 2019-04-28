@@ -92,7 +92,10 @@ class CEPSchoolGroupGenerator:
 # decimals without rounding
 #
 def truncate(f, n):
-    return math.floor(f * 10 ** n) / 10 ** n
+    try:
+        return math.floor(f * 10 ** n) / 10 ** n
+    except ValueError:
+        return "-" 
 
 
 #
@@ -249,7 +252,10 @@ def group_schools_lo_isp(df, cfg, isp_width=None):
     school_groups = []
     school_group_summaries = []
 
-    top_isp = df.iloc[0]['isp']
+    try:
+        top_isp = df.iloc[0]['isp']
+    except IndexError:
+        top_isp = 0.0
 
     # exit the loop if the highest ISP from among the remaining schools (which are sorted by ISP)
     # is lower than that needed for CEP eligibility; we have nothing more to do
@@ -282,7 +288,10 @@ def group_schools_lo_isp(df, cfg, isp_width=None):
             school_group_summaries.append(summary_df)
 
             # get the top isp for the remaining schools
-            top_isp = df.iloc[0]['isp']
+            try:
+                top_isp = df.iloc[0]['isp']
+            except IndexError:
+                top_isp = 0.0
 
             # at this point all remaining schools are ineligible for CEP
     # pass them along as a group of their own    

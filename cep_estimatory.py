@@ -1,4 +1,7 @@
-       
+import csv
+import click 
+import tabulate
+
 # Shortcut to deal with commas in integers from csv
 i = lambda x: int(x.replace(',',''))
 
@@ -44,6 +47,7 @@ class CEPGroup(object):
         self.district = district
         self.name = group_name
         self.total_eligible,self.total_enrolled = 0,0
+        self.school_codes = set([s.code for s in schools])
 
         # Step 1 - calculate eligible students
         for school in schools:
@@ -88,6 +92,33 @@ class BaseCEPDistrict(object):
         self.sfa_certified = sfa_certified # TODO provide as input
         self.anticipated_rate_change = 0.02
 
+    def __lt__(self,other_district):
+        return self.total_enrolled < other_district.total_enrolled
+
+
+    def __eq__(self,other_district):
+        return self.code == other_district.code
+
+    def matches_grouping_of(self,other_district):
+        ''' Compare districts by looking to see if their grouped school codes are identical'''
+        if len(self.groups) == 0 or len(other_district.groups) == 0:
+            raise ValueError("Please run create_groups before comparing districts: %s (%i) = %s (%i)" %
+                   (self.name,len(self.groups), other_district.name, len(other_district.groups) ) )
+
+        # Must be the same district code
+        if self.code != other_district.code: return False 
+
+        # Then walk through our groups, and look for an identical group in the other district
+        for g in self.groups:
+            found = False
+            for og in other_district.groups:
+                if g.school_codes == og.school_codes: 
+                    found = True  
+                    break
+            # If we do not find a matching group, these districts do not have the same grouping
+            if not found: return False
+        return True
+
     def create_groups(self):
         raise NotImplemented("Override this with the grouping strategy")
 
@@ -109,16 +140,28 @@ class BaseCEPDistrict(object):
 
 
 class OneToOneCEPDistrict(BaseCEPDistrict):
+    ''' Grouping Strategy is each school has its own group '''
     def create_groups(self):
         self.groups = [
             CEPGroup(school.district,school.name,[school])
             for school in self.schools
         ] 
 
-# MC Algo V2 - Appears to follow this strategy
-# https://stackoverflow.com/questions/33334961/algorithm-group-sort-list-to-maximize-minimum-average-group-value/33336017#33336017
-# HOWEVER, we are optimizing to a threshold, not the overall minimum, so this does not necessarily apply (TBD)
+class OneGroupCEPDistrict(BaseCEPDistrict):
+    ''' Grouping Stretegy is creates a single group of all schools in the district ''' 
+    def create_groups(self):
+        self.groups = [
+            CEPGroup(self.name,"%s - Consolidated" % self.name,self.schools)
+        ]
+
 class BinCEPDistrict(BaseCEPDistrict):
+    ''' Grouping strategy is to bin high ISP schools, grouping to maximize average.
+
+    See this SO answer for example:
+    https://stackoverflow.com/questions/33334961/algorithm-group-sort-list-to-maximize-minimum-average-group-value/33336017#33336017
+
+    *Note possibly not optimal as we are maximizing for a threshold, not the overall average.
+      '''
     def create_groups(self):
         # group all schools with ISP over 62.5%
         threshold = 0.625
@@ -142,6 +185,8 @@ class BinCEPDistrict(BaseCEPDistrict):
 
 # Uses the original algo 
 class AlgoV2CEPDistrict(BaseCEPDistrict):
+    ''' Wraps MealsCount "Algo v2", which follows the binning strategy, for comparison '''
+
     def create_groups(self):
         from sandbox.mc_algorithm_v2 import mcAlgorithmV2,CEPSchoolGroupGenerator
         from sandbox import config_parser
@@ -164,50 +209,107 @@ class AlgoV2CEPDistrict(BaseCEPDistrict):
             schools = [s for s in self.schools if s.code in g["schools"]]
             self.groups.append(CEPGroup(self.name,"group-%s"%g["group"],schools))
 
+STRATEGIES = {
+    "OneToOne":OneToOneCEPDistrict,
+    "OneGroup":OneGroupCEPDistrict,
+    "Bin":BinCEPDistrict,
+    "AlgoV2":AlgoV2CEPDistrict,
+}
 
-#### MAIN ####
-if __name__=="__main__":
-    # Import csv
-    import csv
-    import argparse 
+#### CLI ####
 
-    parser = argparse.ArgumentParser()
-    parser.add_argument('cupc_csv_file',type=str,
-                        help='''Path of cupc file as csv with modified columns: 
-    Required columns:
-    District Name,School Name,total_enrolled,foster,migrant,homeless,direct_cert
-    **Note** total_enrolled,foster,migrant,homeless,direct_cert renamed from CUPC export
-    ''')
-    parser.add_argument('--district',type=str,default=None,
-                        help='Specific district code to run (if none, all in csv are run)')
-    
-    args = parser.parse_args()
-
-    schools = [r for r in csv.DictReader(open(args.cupc_csv_file)) if i(r['total_enrolled']) > 0]
-
-    # Naive Groupings
-    #DistrictClass = OneToOneCEPDistrict
-    DistrictClass = AlgoV2CEPDistrict
-
+def parse_districts(school_data,DistrictClass=OneToOneCEPDistrict):
     districts = {}
-    for row in schools:
-        if args.district and row["District Code"] != args.district: continue
+    for row in school_data:
         school = CEPSchool(row)
         districts.setdefault(school.district,DistrictClass(school.district,school.district_code))
         districts[school.district].schools.append(school)
+    districts = list(districts.values())
+    districts.sort()
+    return districts
 
-    for d in districts:
-        district = districts[d]
-        if args.district and district.code != args.district: continue
-        print("Processing District ",district.name)
-        district.create_groups()
-        if district.total_enrolled == 0:
-            print("%s -- no students enrolled --" % district.name)
-            continue
-        print( "%s: covered students: %i/%i %0.0f%%" % \
-            (district.name,district.students_covered,district.total_enrolled,(district.percent_covered*100) )
-        )
-    print("%i Schools Processed for %i districts" % (len(schools),len(districts)) )
+@click.command()
+@click.option("--target_district",default=None,help="Specific district code to run")
+@click.option("--strategy",default="OneToOne",help="Grouping strategy")
+@click.option("--baseline",default=None,help="Baseline Grouping strategy to compare")
+@click.argument("cupc_csv_file",nargs=1)
+def cli(cupc_csv_file,baseline=None,target_district=None,strategy="OneToOne"):
+    schools = [r for r in csv.DictReader(open(cupc_csv_file)) if i(r['total_enrolled']) > 0]
+
+    # Reduce to target district if specified
+    if target_district != None:
+        schools = [s for s in schools if s["District Code"] == target_district]
+
+    # Naive Groupings
+    #DistrictClass = OneToOneCEPDistrict
+    
+    DistrictClass = STRATEGIES[strategy]
+    districts = parse_districts(schools,DistrictClass)
+
+    click.secho("\nParsed {:,} schools in {:,} districts representing {:,} students\n".format( 
+            len(schools),
+            len(districts), 
+            sum([i(s["total_enrolled"]) for s in schools]),
+         ),
+        fg="blue"
+    )
+    
+    # Process target strategy
+    with click.progressbar(districts,label='Grouping Districts with %s' % DistrictClass) as bar:
+        for district in bar:
+            district.create_groups() 
+    
+    if baseline:
+        BaselineDistrictClass = STRATEGIES[baseline]
+        baseline_districts = parse_districts(schools,BaselineDistrictClass)
+        with click.progressbar(baseline_districts,label='Grouping District Baseline with %s' % BaselineDistrictClass) as bar:
+            for district in bar:
+                district.create_groups() 
+        
+        results = [] 
+        for d1 in districts:
+            d0 = [d for d in baseline_districts if d == d1][0]
+            results.append([
+                d1.code,
+                d1.name[:64],
+                d1.matches_grouping_of(d0) and "*" or "",
+                float(d0.total_enrolled),
+                float(d1.students_covered) - float(d0.students_covered),
+                (d0.percent_covered*100),
+                (d1.percent_covered*100),
+            ])
+
+        print( tabulate.tabulate(
+            results,
+            [   'code',
+                'district',
+                'same groups',
+                'total enrolled',
+                'change in students covered',
+                'base % covered',
+                'opt % covered',
+            ],
+            tablefmt="pipe",
+            floatfmt=("","","",",.0f","+,.0f",",.0f",".0f",".0f"),
+        ))
+    else:       
+        print( tabulate.tabulate(
+            [ (
+                district.code,
+                district.name[:64],
+                float(district.students_covered),
+                float(district.total_enrolled),
+                (district.percent_covered*100) ) for district in districts ],
+            ['code','district','students covered','total enrolled','% covered'],
+            tablefmt="pipe",
+            floatfmt=("","",",.0f",",.0f",".0f"),
+        ))
+
+    click.secho(    "{:,} Schools Processed for {:,} districts".format(len(schools),len(districts)) ,
+                    fg="blue", bold=True )
+    click.secho(DistrictClass.__doc__)
 
 
+if __name__ == '__main__':
+    cli()    
 
