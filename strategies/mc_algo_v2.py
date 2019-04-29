@@ -18,6 +18,8 @@ class AlgoV2CEPDistrict(BaseCEPDistrict):
         data = tmpSchoolDistInput()
         data.d_df = df
         cfg = config_parser.mcModelConfig(os.path.join(os.path.dirname(sandbox.__file__),"config.json"))
+        for k in self.params:
+            setattr(cfg,k,float(self.params[k]))
         strategy = mcAlgorithmV2()
         grouper = CEPSchoolGroupGenerator(cfg, strategy)
         results = grouper.get_groups(data, "json")

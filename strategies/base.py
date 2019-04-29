@@ -82,13 +82,14 @@ class CEPGroup(object):
             (self.district,self.name,self.isp*100, self.total_enrolled, self.free_rate*100)
 
 class BaseCEPDistrict(object):
-    def __init__(self,name,code,sfa_certified=False,anticipated_rate_change=0.02):
+    def __init__(self,name,code,sfa_certified=False,anticipated_rate_change=0.02,params={}):
         self.name = name
         self.code = code
         self.schools = [] 
         self.groups = []
         self.sfa_certified = sfa_certified # TODO provide as input
         self.anticipated_rate_change = 0.02
+        self.params = params
 
     def __lt__(self,other_district):
         return self.total_enrolled < other_district.total_enrolled

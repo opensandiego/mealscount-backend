@@ -3,14 +3,15 @@ import click
 import tabulate
 from strategies.base import CEPSchool
 from strategies import STRATEGIES
+from urllib import parse
 
 #### CLI ####
 
-def parse_districts(school_data,DistrictClass=STRATEGIES["OneToOne"]):
+def parse_districts(school_data,DistrictClass=STRATEGIES["OneToOne"],params={}):
     districts = {}
     for row in school_data:
         school = CEPSchool(row)
-        districts.setdefault(school.district,DistrictClass(school.district,school.district_code))
+        districts.setdefault(school.district,DistrictClass(school.district,school.district_code,params=params))
         districts[school.district].schools.append(school)
     districts = list(districts.values())
     districts.sort()
@@ -18,8 +19,8 @@ def parse_districts(school_data,DistrictClass=STRATEGIES["OneToOne"]):
 
 @click.command()
 @click.option("--target-district",default=None,help="Specific district code to run")
-@click.option("--strategy",default="OneToOne",help="Grouping strategy")
-@click.option("--baseline",default=None,help="Baseline Grouping strategy to compare")
+@click.option("--strategy",default="OneToOne",help="Grouping strategy, with url param, e.g. just 'Binning', or 'Binning&isp_width=0.05'. See strategy class for details")
+@click.option("--baseline",default=None,help="Baseline Grouping strategy to compare (with params as well)")
 @click.option("--show-groups",default=False,is_flag=True,help="Display grouping per district by school-code (must have target district specified)")
 @click.option("--show-schools",default=False,is_flag=True,help="Display individual school data (must have target district specified)")
 @click.option("--min-schools",default=None,help="If specified, only districts with at least N schools will be evaluated",type=int)
@@ -34,9 +35,11 @@ def cli(cupc_csv_file,baseline=None,target_district=None,strategy="OneToOne",sho
 
     # Naive Groupings
     #DistrictClass = OneToOneCEPDistrict
-    
-    DistrictClass = STRATEGIES[strategy]
-    districts = parse_districts(schools,DistrictClass)
+  
+    strategy_param = parse.urlparse(strategy)
+    DistrictClass = STRATEGIES[strategy_param.path]
+    params = dict(parse.parse_qsl(strategy_param.query))
+    districts = parse_districts(schools,DistrictClass,params=params)
 
     if min_schools != None:
         x = len(districts)
@@ -62,8 +65,10 @@ def cli(cupc_csv_file,baseline=None,target_district=None,strategy="OneToOne",sho
             district.create_groups() 
     
     if baseline:
-        BaselineDistrictClass = STRATEGIES[baseline]
-        baseline_districts = parse_districts(schools,BaselineDistrictClass)
+        baseline_param = parse.urlparse(baseline)
+        params = dict(parse.parse_qsl(baseline_param.query))
+        BaselineDistrictClass = STRATEGIES[baseline_param.path]
+        baseline_districts = parse_districts(schools,BaselineDistrictClass,params=params)
         with click.progressbar(baseline_districts,label='Grouping District Baseline with %s' % baseline) as bar:
             for district in bar:
                 district.create_groups() 

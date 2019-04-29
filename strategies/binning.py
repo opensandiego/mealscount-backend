@@ -38,8 +38,8 @@ class BinCEPDistrict(BaseCEPDistrict):
         ))
 
         # the width of our bins going down
-        isp_width = 0.02 
-
+        isp_width = float(self.params.get("isp_width",0.02))
+        #print("Binning with isp width of ",isp_width) 
         # TODO to match ,need to split by cumulative ISP, not individual isp..
 
         # Then gradually reduce the threshold in steps (of size isp_width), filling up each group
