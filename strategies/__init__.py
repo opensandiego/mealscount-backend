@@ -5,7 +5,7 @@ from .binning import BinCEPDistrict
 STRATEGIES = {
     "OneToOne":OneToOneCEPDistrict,
     "OneGroup":OneGroupCEPDistrict,
-    "Bin":BinCEPDistrict,
+    "Binning":BinCEPDistrict,
     "AlgoV2":AlgoV2CEPDistrict,
 }
 

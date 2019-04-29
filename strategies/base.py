@@ -14,6 +14,8 @@ class CEPSchool(object):
         self.frpm = i(data['frpm'])
         self.total_eligible = (self.foster + self.homeless + self.migrant + self.direct_cert)
         self.total_enrolled = i(data['total_enrolled'])
+        if self.total_eligible > self.total_enrolled:
+            self.total_eligible = self.total_enrolled
 
         self.breakfast_served = self.total_enrolled  # TODO provide as input
         self.lunch_served = self.total_enrolled #TODO provide as input

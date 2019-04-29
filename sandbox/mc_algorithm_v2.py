@@ -168,6 +168,7 @@ def summarize_group(group_df, cfg):
 # destination group's ISP. Target ISP specifies the desired ISP at which to maintain the destination group
 #
 def select_by_isp_impact(df, group_df, target_isp):
+    #print("Selecting by ",target_isp)
     schools_to_add = pd.DataFrame();
 
     dst_grp_total_enrolled = group_df.loc[:, 'total_enrolled'].sum()
@@ -236,6 +237,7 @@ def groupby_isp_width(df, cfg, target_isp_width=None):
     # determine the next cut-off point
     isp_thold = (top_isp - isp_width) if (top_isp - isp_width) >= min_cep_thold else min_cep_thold
 
+    #print("grouping by",isp_thold,top_isp)
     # group schools at the cut-off point
     # note that this will generate exactly 2 groups: one of length ISP_WIDTH and the other containing 
     # the rest of the schools     
@@ -261,7 +263,7 @@ def group_schools_lo_isp(df, cfg, isp_width=None):
     # is lower than that needed for CEP eligibility; we have nothing more to do
 
     while top_isp >= (cfg.min_cep_thold_pct() * 100):
-
+        #print("using",top_isp)
         # get the next isp_width group that still qualifies for CEP
         groups = groupby_isp_width(df, cfg, isp_width)
 
@@ -473,6 +475,9 @@ def runAlgorithmV2(self, data, cfg, bundle_groups=False):
 
     df = prepare_data(df)
 
+    #print(df)
+
+    # group hi isp
     g1, s1 = group_schools_hi_isp(df, cfg)
 
     results_ts = datetime.fromtimestamp(time.time()).strftime('%Y-%m-%d %H:%M:%S')
