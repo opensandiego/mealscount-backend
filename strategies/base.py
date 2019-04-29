@@ -21,7 +21,7 @@ class CEPSchool(object):
         self.lunch_served = self.total_enrolled #TODO provide as input
 
         if self.total_enrolled == 0:
-            sel.isp  = self.free_rate = self.paid_rate = 0
+            self.isp  = self.free_rate = self.paid_rate = 0
         else:
             self.isp = round(self.total_eligible / float(self.total_enrolled), 4)
 
