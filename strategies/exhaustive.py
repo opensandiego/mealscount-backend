@@ -43,7 +43,7 @@ class ExaustiveCEPDistrict(BaseCEPDistrict):
                 students_covered = 0
                 for i, group in enumerate(x):
                     grouping.append(CEPGroup(self, i, group))
-                    students_covered += grouping[i].covered_students()
+                    students_covered += grouping[i].covered_students
                 if students_covered > best_covered:
                     best_grouping = grouping
                     best_covered = students_covered
