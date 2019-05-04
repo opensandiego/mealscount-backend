@@ -26,9 +26,26 @@ def parse_districts(school_data,strategies):
 @click.option("--show-groups",default=False,is_flag=True,help="Display grouping per district by school-code (must have target district specified)")
 @click.option("--show-schools",default=False,is_flag=True,help="Display individual school data (must have target district specified)")
 @click.option("--min-schools",default=None,help="If specified, only districts with at least N schools will be evaluated",type=int)
+@click.option("--list-strategies",default=False,is_flag=True,help="Display all available strategies and exit")
 @click.argument("cupc_csv_file",nargs=1)
 @click.argument("strategies",nargs=-1)
-def cli(cupc_csv_file,strategies=["OneToOne"],target_district=None,show_groups=False,show_schools=False,min_schools=None):
+def cli(cupc_csv_file,strategies=["OneToOne"],target_district=None,show_groups=False,show_schools=False,min_schools=None,list_strategies=False):
+    """CEP Estimator - runs strategies for grouping School Districts into optimial CEP coverage
+
+To run, specify the schools/districts CSV file, as well as any number of strategies (use --list-strategies to see those available)
+
+Expected CSV File columns 
+(see data folder for example, extra columns are ignore, column order is not important):
+
+"District Code","School Code","District Name","School Name","total_enrolled","frpm","foster","homeless","migrant","direct_cert"
+
+"""
+    if list_strategies:
+        for s in STRATEGIES:
+            click.secho("\n%s"%s,fg="blue",bold=True)
+            click.secho(STRATEGIES[s].__doc__)
+        return
+
     i = lambda x: int(x.replace(',',''))
     schools = [r for r in csv.DictReader(open(cupc_csv_file)) if i(r['total_enrolled']) > 0]
 

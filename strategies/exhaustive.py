@@ -4,8 +4,7 @@ class ExaustiveCEPStrategy(BaseCEPStrategy):
     ''' Grouping strategy is to compute every possible partition
 
     * This follows with https://en.wikipedia.org/wiki/Partition_of_a_set
-    * We first calculate the Bell Number, as we don't want to break your computer
-    https://en.wikipedia.org/wiki/Bell_number  
+    * We limit this to districts with 10 Schools or less
 
       '''
     name="Exhaustive"

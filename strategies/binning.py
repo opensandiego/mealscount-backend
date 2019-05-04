@@ -6,6 +6,8 @@ class BinCEPStrategy(BaseCEPStrategy):
     See this SO answer for example:
     https://stackoverflow.com/questions/33334961/algorithm-group-sort-list-to-maximize-minimum-average-group-value/33336017#33336017
 
+    Parameters: ?isp_width=0.02 (where 0.02 is 2%)
+
     *Note possibly not optimal as we are maximizing for a threshold, not the overall average.
       '''
     name="Binning"

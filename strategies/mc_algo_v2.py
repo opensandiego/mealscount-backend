@@ -8,7 +8,10 @@ import pandas
 
 # Uses the original algo 
 class AlgoV2CEPStrategy(BaseCEPStrategy):
-    ''' Wraps MealsCount "Algo v2", which follows the binning strategy, for comparison '''
+    ''' Wraps MealsCount "Algo v2", which follows the binning strategy, for comparison 
+     
+    params: ?isp_width_default=2.0 (where 2.0 is 2%)
+    '''
     name="AlgoV2"
     def create_groups(self,district):
         self.groups = []
