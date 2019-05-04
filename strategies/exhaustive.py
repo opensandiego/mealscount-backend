@@ -1,6 +1,6 @@
-from .base import BaseCEPDistrict,CEPGroup
+from .base import BaseCEPStrategy,CEPGroup
 
-class ExaustiveCEPDistrict(BaseCEPDistrict):
+class ExaustiveCEPStrategy(BaseCEPStrategy):
     ''' Grouping strategy is to compute every possible partition
 
     * This follows with https://en.wikipedia.org/wiki/Partition_of_a_set
@@ -8,16 +8,17 @@ class ExaustiveCEPDistrict(BaseCEPDistrict):
     https://en.wikipedia.org/wiki/Bell_number  
 
       '''
-    def create_groups(self):
+    name="Exhaustive"
+    def create_groups(self,district):
         # some debugging/optimization required
 
         # check district size, if over 10 don't calculates partitions
         # bell number of 10 = 115,975 (15 ~ 1.4 bil;  20 = 51.7 tril)
         # if over assign groups like OneToOne (this way it can run on all districts without taking a year)
-        if len(self.schools) > 10:
+        if len(district.schools) > 10:
             self.groups = [
                 CEPGroup(school.district,school.name,[school])
-                for school in self.schools
+                for school in district.schools
             ]
         else:
             def partition(collection):
@@ -37,12 +38,12 @@ class ExaustiveCEPDistrict(BaseCEPDistrict):
             best_grouping = []
             best_covered = 0
             # generate all partions
-            for x in partition(self.schools):
+            for x in partition(district.schools):
                 # save grouping with highest num of covered students
                 grouping = []
                 students_covered = 0
                 for i, group in enumerate(x):
-                    grouping.append(CEPGroup(self, i, group))
+                    grouping.append(CEPGroup(district, i, group))
                     students_covered += grouping[i].covered_students
                 if students_covered > best_covered:
                     best_grouping = grouping

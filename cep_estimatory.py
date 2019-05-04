@@ -1,17 +1,21 @@
 import csv
 import click 
 import tabulate
-from strategies.base import CEPSchool
+from strategies.base import CEPSchool,CEPDistrict
 from strategies import STRATEGIES
 from urllib import parse
 
 #### CLI ####
 
-def parse_districts(school_data,DistrictClass=STRATEGIES["OneToOne"],params={}):
+def parse_districts(school_data,strategies):
     districts = {}
     for row in school_data:
         school = CEPSchool(row)
-        districts.setdefault(school.district,DistrictClass(school.district,school.district_code,params=params))
+        district = CEPDistrict(school.district,school.district_code)
+        for s in strategies:
+            StrategyClass,params,strategy_name = s
+            district.strategies.append( StrategyClass(params,name=strategy_name) )
+        districts.setdefault(school.district,district)
         districts[school.district].schools.append(school)
     districts = list(districts.values())
     districts.sort()
@@ -19,13 +23,12 @@ def parse_districts(school_data,DistrictClass=STRATEGIES["OneToOne"],params={}):
 
 @click.command()
 @click.option("--target-district",default=None,help="Specific district code to run")
-@click.option("--strategy",default="OneToOne",help="Grouping strategy, with url param, e.g. just 'Binning', or 'Binning&isp_width=0.05'. See strategy class for details")
-@click.option("--baseline",default=None,help="Baseline Grouping strategy to compare (with params as well)")
 @click.option("--show-groups",default=False,is_flag=True,help="Display grouping per district by school-code (must have target district specified)")
 @click.option("--show-schools",default=False,is_flag=True,help="Display individual school data (must have target district specified)")
 @click.option("--min-schools",default=None,help="If specified, only districts with at least N schools will be evaluated",type=int)
 @click.argument("cupc_csv_file",nargs=1)
-def cli(cupc_csv_file,baseline=None,target_district=None,strategy="OneToOne",show_groups=False,show_schools=False,min_schools=None):
+@click.argument("strategies",nargs=-1)
+def cli(cupc_csv_file,strategies=["OneToOne"],target_district=None,show_groups=False,show_schools=False,min_schools=None):
     i = lambda x: int(x.replace(',',''))
     schools = [r for r in csv.DictReader(open(cupc_csv_file)) if i(r['total_enrolled']) > 0]
 
@@ -36,17 +39,23 @@ def cli(cupc_csv_file,baseline=None,target_district=None,strategy="OneToOne",sho
     # Naive Groupings
     #DistrictClass = OneToOneCEPDistrict
   
-    strategy_param = parse.urlparse(strategy)
-    DistrictClass = STRATEGIES[strategy_param.path]
-    params = dict(parse.parse_qsl(strategy_param.query))
-    districts = parse_districts(schools,DistrictClass,params=params)
+
+    def parse_strategy(strategy):
+        strategy_param = parse.urlparse(strategy)   
+        params = dict(parse.parse_qsl(strategy_param.query))
+        klass = STRATEGIES[strategy_param.path]
+        return (klass,params,strategy)
+    strategies = [parse_strategy(s) for s in strategies]
+
+    districts = parse_districts(schools,strategies = strategies)
+
+    print("Districts with 10 or less schools: %0.0f%%" % (len([d for d in districts if len(d.schools) <= 10])/float(len(districts)) * 100))
 
     if min_schools != None:
         x = len(districts)
         districts = [ d for d in districts if len(d.schools) >= min_schools ]
         x = x - len(districts)
         click.secho("Ignoring %i districts with less than %i schools" % (x,min_schools) )
-
 
     n_schools = sum([len(d.schools) for d in districts])
     total_overall = sum([d.total_enrolled for d in districts])
@@ -60,83 +69,56 @@ def cli(cupc_csv_file,baseline=None,target_district=None,strategy="OneToOne",sho
     )
     
     # Process target strategy
-    with click.progressbar(districts,label='Grouping Districts with %s' % strategy) as bar:
+    with click.progressbar(districts,label='Running Strategies on Districts') as bar:
         for district in bar:
-            district.create_groups() 
-    
-    if baseline:
-        baseline_param = parse.urlparse(baseline)
-        params = dict(parse.parse_qsl(baseline_param.query))
-        BaselineDistrictClass = STRATEGIES[baseline_param.path]
-        baseline_districts = parse_districts(schools,BaselineDistrictClass,params=params)
-        with click.progressbar(baseline_districts,label='Grouping District Baseline with %s' % baseline) as bar:
-            for district in bar:
-                district.create_groups() 
-        
-        results = [] 
-        for d1 in districts:
-            d0 = [d for d in baseline_districts if d == d1][0]
-            results.append([
-                d1.code,
-                d1.name[:64],
-                float(len(d1.schools)),
-                d1.matches_grouping_of(d0) and "*" or "",
-                "%s/%s" % (len(d0.groups),len(d1.groups)),
-                float(d0.total_enrolled),
-                float(d1.students_covered) - float(d0.students_covered),
-                (d0.percent_covered*100),
-                (d1.percent_covered*100),
-            ])
+            district.run_strategies() 
+            district.evaluate_strategies()
 
-        print( tabulate.tabulate(
-            results,
-            [   'code',
-                'district',
-                '# schools',
-                'same groups',
-                '# groups',
-                'total enrolled',
-                'change in students covered',
-                'base % covered',
-                'opt % covered',
-            ],
-            tablefmt="pipe",
-            floatfmt=("","",",.0f","","",",.0f","+,.0f",",.0f",".0f",".0f"),
-        ))
-    else:       
-        data = [ [
-                district.code,
-                district.name[:64],
-                float(len(district.schools)),
-                float(len(district.groups)),
-                float(district.students_covered),
-                float(district.total_enrolled),
-                (district.percent_covered*100) ] for district in districts ]
-        headers = ['code','district','# schools','# groups','students covered','total enrolled','% covered']
-
-        print( tabulate.tabulate(data,headers,tablefmt="pipe",floatfmt=("","",",.0f",",.0f",",.0f",",.0f",".0f")))
+    data = []   
+    for district in districts: 
+        p0 = (float(district.strategies[0].students_covered) / district.total_enrolled)
+        p1 = (float(district.best_strategy.students_covered) / district.total_enrolled)
+        row = [
+            district.code,
+            district.name[:64],
+            float(len(district.schools)),
+            float(district.total_enrolled),
+            district.strategies[0].name,
+            district.best_strategy.name,
+            p0 * 100.0,
+            p1 * 100.0,
+            (p1-p0) * 100.0,
+        ]
+        for s in district.strategies:
+            row.append(s.students_covered) 
+        data.append(row)
+    headers = ['code','district','# schools','total enrolled','baseline','best_strategy','ISP Baseline','ISP Best','ISP %change']
+    float_fmt = ["","",",.0f",",.0f","","",'.0f','.0f','+.0f']
+    for s in districts[0].strategies:
+        headers.append( "eligible: %s" % s.name )
+        float_fmt.append(",.0f")
+    print( tabulate.tabulate(data,headers,tablefmt="pipe",floatfmt=float_fmt) )
 
     click.secho("\n"+"="*100,bold=True)
 
-    if baseline:
-        click.secho("Baseline Strategy: %s" % baseline)
-    click.secho("Optimization Strategy: %s" % strategy)
+    click.secho("Baseline Strategy: %s" % strategies[0][0].name)
+    if len(strategies) > 1:
+        for s in strategies[1:]:
+            click.secho("Optimization Strategy: %s" % s[0].name)
 
     click.secho(    "{:,} Schools Processed for {:,} districts".format(n_schools,len(districts)) ,
                     fg="blue", bold=True )
 
-    if baseline:
-        overall_eligible = sum([d.students_covered for d in districts]) - sum([d.students_covered for d in baseline_districts]) 
-        c = "red"
-        if overall_eligible > 0: c = "green"
-        click.secho("{:+,} Students are eligible with {:} vs {:}".format(overall_eligible,strategy,baseline),fg=c)
-    else:
-        eligible_overall = sum([d.students_covered for d in districts])
-        click.secho("{:,.0f} Students are eligible out of {:,.0f} ({:.0f}%) total enrolled".format(
-            eligible_overall,
-            total_overall,
-            (eligible_overall/total_overall * 100),
-        ))
+    baseline_eligible_overall = sum([d.strategies[0].students_covered for d in districts])
+    best_eligible_overall = sum([d.best_strategy.students_covered for d in districts])
+    improvement = best_eligible_overall - baseline_eligible_overall
+    click.secho("{:+,.0f} students eligible over baseline ({:,.0f} => {:,.0f}), {:+.0f}% change to ISP {:.0f}%".format( 
+        improvement,
+        baseline_eligible_overall,
+        best_eligible_overall,
+        (improvement/total_overall) * 100.0,
+        (best_eligible_overall/total_overall) * 100.0,
+    ),fg=(improvement > 0 and "green" or "red"))
 
     if target_district:
         td = districts[0]

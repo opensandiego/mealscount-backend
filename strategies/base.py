@@ -1,3 +1,5 @@
+from abc import ABC,abstractmethod
+
 # Shortcut to deal with commas in integers from csv
 i = lambda x: int(x.replace(',',''))
 
@@ -81,45 +83,35 @@ class CEPGroup(object):
         return "%s / %s ISP=%0.0f%% ENROLLED=%i FREE_RATE=%0.2f%%" % \
             (self.district,self.name,self.isp*100, self.total_enrolled, self.free_rate*100)
 
-class BaseCEPDistrict(object):
-    def __init__(self,name,code,sfa_certified=False,anticipated_rate_change=0.02,params={}):
+class CEPDistrict(object):
+    def __init__(self,name,code,sfa_certified=False,anticipated_rate_change=0.02):
         self.name = name
         self.code = code
         self.schools = [] 
         self.groups = []
         self.sfa_certified = sfa_certified # TODO provide as input
         self.anticipated_rate_change = 0.02
-        self.params = params
+        self.strategies = []
+        self.best_strategy = None
 
     def __lt__(self,other_district):
         return self.total_enrolled < other_district.total_enrolled
 
+    def run_strategies(self):
+        for s in self.strategies:
+            s.create_groups(self)
+
+    def evaluate_strategies(self):
+        best = None
+        for s in self.strategies:
+            assert(s.groups != None)
+            if best == None or s.students_covered > best.students_covered:
+                best = s
+        self.best_strategy = best
 
     def __eq__(self,other_district):
         return self.code == other_district.code
 
-    def matches_grouping_of(self,other_district):
-        ''' Compare districts by looking to see if their grouped school codes are identical'''
-        if len(self.groups) == 0 or len(other_district.groups) == 0:
-            raise ValueError("Please run create_groups before comparing districts: %s (%i) = %s (%i)" %
-                   (self.name,len(self.groups), other_district.name, len(other_district.groups) ) )
-
-        # Must be the same district code
-        if self.code != other_district.code: return False 
-
-        # Then walk through our groups, and look for an identical group in the other district
-        for g in self.groups:
-            found = False
-            for og in other_district.groups:
-                if g.school_codes == og.school_codes: 
-                    found = True  
-                    break
-            # If we do not find a matching group, these districts do not have the same grouping
-            if not found: return False
-        return True
-
-    def create_groups(self):
-        raise NotImplemented("Override this with the grouping strategy")
 
     @property
     def total_enrolled(self): 
@@ -127,30 +119,49 @@ class BaseCEPDistrict(object):
 
     @property
     def students_covered(self):
-        return sum([g.covered_students for g in self.groups])
+        return self.best_strategy.students_covered
 
     @property
     def percent_covered(self):
-        return float(self.students_covered)/self.total_enrolled
+        return float(self.best_strategy.students_covered)/self.total_enrolled
 
     def reimbursement(self):
         # TODO calculate reimbursement amount
         raise NotImplemented("Need to calculate based on CEP Estimator")
 
+class BaseCEPStrategy(ABC):
+    total_eligible = None
+    groups = None
+    name = "Abstract Strategy"
+    params = {}
 
-class OneToOneCEPDistrict(BaseCEPDistrict):
-    ''' Grouping Strategy is each school has its own group '''
-    def create_groups(self):
-        self.groups = [
-            CEPGroup(school.district,school.name,[school])
-            for school in self.schools
-        ] 
+    def __init__(self,params={},name=None):
+        self.params = params
+        self.groups = None
+        if name: self.name = name
 
-class OneGroupCEPDistrict(BaseCEPDistrict):
-    ''' Grouping Stretegy is creates a single group of all schools in the district ''' 
-    def create_groups(self):
-        self.groups = [
-            CEPGroup(self.name,"%s - Consolidated" % self.name,self.schools)
-        ]
+    @property
+    def students_covered(self):
+        return sum([g.covered_students for g in self.groups])
+    
+    @abstractmethod
+    def create_groups(self,district):
+        raise NotImplemented("Override this with the grouping strategy")
 
+    def matches_grouping_of(self,other_strategy):
+        ''' Compare districts by looking to see if their grouped school codes are identical'''
+        if len(self.groups) == 0 or len(other_strategy.groups) == 0:
+            raise ValueError("Please run create_groups before comparing districts: %s (%i) = %s (%i)" %
+                   (self.name,len(self.groups), other_strategy.name, len(other_strategy.groups) ) )
+
+        # Then walk through our groups, and look for an identical group in the other district
+        for g in self.groups:
+            found = False
+            for og in other_strategy.groups:
+                if g.school_codes == og.school_codes: 
+                    found = True  
+                    break
+            # If we do not find a matching group, these districts do not have the same grouping
+            if not found: return False
+        return True
 

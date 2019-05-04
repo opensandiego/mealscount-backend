@@ -1,6 +1,6 @@
-from .base import BaseCEPDistrict,CEPGroup
+from .base import BaseCEPStrategy,CEPGroup
 
-class BinCEPDistrict(BaseCEPDistrict):
+class BinCEPStrategy(BaseCEPStrategy):
     ''' Grouping strategy is to bin high ISP schools, grouping to maximize average.
 
     See this SO answer for example:
@@ -8,13 +8,15 @@ class BinCEPDistrict(BaseCEPDistrict):
 
     *Note possibly not optimal as we are maximizing for a threshold, not the overall average.
       '''
-    def create_groups(self):
-        if len(self.schools) == 0: return
+    name="Binning"
+    def create_groups(self,district):
+        self.groups = []
+        if len(district.schools) == 0: return
 
         # group all schools with ISP over 62.5%
         THRESHOLD = 0.625
-        high_isp = [ s for s in self.schools if s.isp > THRESHOLD ]
-        the_rest = [ s for s in self.schools if s.isp <= THRESHOLD ]
+        high_isp = [ s for s in district.schools if s.isp > THRESHOLD ]
+        the_rest = [ s for s in district.schools if s.isp <= THRESHOLD ]
         the_rest.sort(key = lambda school: school.isp) # lowest isp first, we will be popping the tail
 
         # CONSIDER should we even be looking at isp vs re-calculating aggregate isp?
@@ -32,7 +34,7 @@ class BinCEPDistrict(BaseCEPDistrict):
 
         fill_up(high_isp,threshold)
         self.groups.append( CEPGroup(
-            self.name,
+            district,
             "High-ISP",
             high_isp
         ))
@@ -53,7 +55,7 @@ class BinCEPDistrict(BaseCEPDistrict):
             fill_up(g,threshold)
             self.groups.append(
                 CEPGroup(   
-                    self.name,
+                    district,
                     "ISP-%0.2f_to_%0.2f" % (threshold,isp_width+threshold),
                     g
                 )
@@ -62,7 +64,7 @@ class BinCEPDistrict(BaseCEPDistrict):
         if len(the_rest):
             self.groups.append(
                 CEPGroup(
-                    self.name,
+                    district,
                     "The-Rest-Low-ISP",
                     the_rest,
                 )

@@ -1,4 +1,4 @@
-from .base import BaseCEPDistrict,CEPGroup
+from .base import BaseCEPStrategy,CEPGroup
 import sandbox
 from sandbox.mc_algorithm_v2 import mcAlgorithmV2,CEPSchoolGroupGenerator
 from sandbox import config_parser
@@ -7,11 +7,12 @@ import os.path
 import pandas
 
 # Uses the original algo 
-class AlgoV2CEPDistrict(BaseCEPDistrict):
+class AlgoV2CEPStrategy(BaseCEPStrategy):
     ''' Wraps MealsCount "Algo v2", which follows the binning strategy, for comparison '''
-
-    def create_groups(self):
-        df = pandas.DataFrame([s.as_dict() for s in self.schools])
+    name="AlgoV2"
+    def create_groups(self,district):
+        self.groups = []
+        df = pandas.DataFrame([s.as_dict() for s in district.schools])
         class tmpSchoolDistInput(backend_utils.mcSchoolDistInput):
             def to_frame(self): return self.d_df  
             def metadata(self): return {"lea":"tmp","academic_year":"tmp"}
@@ -27,7 +28,7 @@ class AlgoV2CEPDistrict(BaseCEPDistrict):
         isp_width = results["model_params"]["isp_width"]
 
         for g in groups:
-            schools = [s for s in self.schools if s.code in g["schools"]]
-            self.groups.append(CEPGroup(self.name,"group-%s"%g["group"],schools))
+            schools = [s for s in district.schools if s.code in g["schools"]]
+            self.groups.append(CEPGroup(district,"group-%s"%g["group"],schools))
 
 
