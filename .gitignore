@@ -242,3 +242,5 @@ share/
 
 # temp data folder
 data/
+viz/node_modules
+viz/dist/

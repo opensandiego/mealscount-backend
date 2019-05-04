@@ -4,6 +4,7 @@ import tabulate
 from strategies.base import CEPSchool,CEPDistrict
 from strategies import STRATEGIES
 from urllib import parse
+import json
 
 #### CLI ####
 
@@ -27,9 +28,17 @@ def parse_districts(school_data,strategies):
 @click.option("--show-schools",default=False,is_flag=True,help="Display individual school data (must have target district specified)")
 @click.option("--min-schools",default=None,help="If specified, only districts with at least N schools will be evaluated",type=int)
 @click.option("--list-strategies",default=False,is_flag=True,help="Display all available strategies and exit")
+@click.option("--output-json",default=None,help="If Specified, output will stored in filename specified in JSON format")
 @click.argument("cupc_csv_file",nargs=1)
 @click.argument("strategies",nargs=-1)
-def cli(cupc_csv_file,strategies=["OneToOne"],target_district=None,show_groups=False,show_schools=False,min_schools=None,list_strategies=False):
+def cli(    cupc_csv_file,
+            strategies=["OneToOne"],
+            target_district=None,
+            show_groups=False,
+            show_schools=False,
+            min_schools=None,
+            list_strategies=False,
+            output_json=None ):
     """CEP Estimator - runs strategies for grouping School Districts into optimial CEP coverage
 
 To run, specify the schools/districts CSV file, as well as any number of strategies (use --list-strategies to see those available)
@@ -153,6 +162,12 @@ Expected CSV File columns
                     tablefmt="pipe",
                     #floatfmt = ("","",",.0f",",.0f",".3f" ),
             ))
+
+    if output_json:
+        with open(output_json,"w") as out_file:
+            # TODO make this more interesting
+            o = [dict(zip(headers,r)) for r in data]
+            out_file.write(json.dumps(o,indent=1))
 
 if __name__ == '__main__':
     cli()    
