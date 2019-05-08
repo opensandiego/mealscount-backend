@@ -39,26 +39,46 @@ function appendFullDataTable() {
     });
 }
 
+function generateDistrictSelector() {
+  d3.select(".district-list")
+    .selectAll("li")
+    .data(data)
+    .enter()
+    .append("li")
+    .text(function(d) {
+      return d.district;
+    });
+
+  // Show default first data item to start
+  // TODO: make this dynamic hooking it up to the dropdown
+  var dataRow = data[0];
+  var baselineISP = Math.round(dataRow["ISP Baseline"] * 100) / 100;
+  var bestISP = Math.round(dataRow["ISP Best"] * 100) / 100;
+
+  var card1text = "Baseline ISP: " + baselineISP + "% using strategy " + dataRow["baseline"];
+  d3.select(".district-info1")
+    .append("div")
+    .classed("mui--text-display1", true)
+    .text(card1text);
+
+  var card1text = "Best ISP: " + bestISP + "% using strategy " + dataRow["best_strategy"];
+  d3.select(".district-info2")
+    .append("div")
+    .classed("mui--text-display1", true)
+    .text(card1text);
+}
+
 function main() {
   // TODO create Map of CA School Districts
 
   // TODO create Chart/Synopsis of current directory
 
-  // TODO Create Results Table
+  generateDistrictSelector();
+
+  // TODO Create Nicer Results Table
 
   // Table Example:
   // http://bl.ocks.org/llimllib/841dd138e429bb0545df
-
-  // TODO: move this to template
-  document.write('<link href="//cdn.muicss.com/mui-0.9.41/css/mui.min.css" rel="stylesheet" type="text/css" />');
-  document.write('<script src="//cdn.muicss.com/mui-0.9.41/js/mui.min.js"></script>');
-
-  var button = d3
-    .select("body")
-    .append("button")
-    .text("hello")
-    .classed("mui-btn mui-btn--primary mui-btn--raised", true);
-
   appendFullDataTable();
 
   // TODO connect each row to load detail in Synopsis

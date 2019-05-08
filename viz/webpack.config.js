@@ -12,7 +12,7 @@ module.exports = {
   },
   plugins: [
     new HtmlWebpackPlugin({
-      title: "MealsCount Results"
+      template: "./src/index.html"
     })
   ],
   module: {
@@ -20,6 +20,10 @@ module.exports = {
       {
         test: /\.css$/,
         use: ["style-loader", "css-loader"]
+      },
+      {
+        test: /\.hbs$/,
+        loader: "handlebars-loader"
       }
     ]
   }
