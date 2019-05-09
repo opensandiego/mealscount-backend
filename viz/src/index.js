@@ -1,6 +1,6 @@
 import _ from "lodash";
 import * as d3 from "d3";
-import data from "./data/data.json";
+import schoolMealData from "./data/data.json";
 
 function appendFullDataTable() {
   d3.select("body")
@@ -23,7 +23,7 @@ function appendFullDataTable() {
 
   var tr = tbody
     .selectAll("tr")
-    .data(data)
+    .data(schoolMealData)
     .enter()
     .append("tr");
 
@@ -39,33 +39,35 @@ function appendFullDataTable() {
     });
 }
 
+function showSchoolMealDataForCode(schoolMealItem) {
+  var baselineISP = Math.round(schoolMealItem["ISP Baseline"] * 100) / 100;
+  var bestISP = Math.round(schoolMealItem["ISP Best"] * 100) / 100;
+
+  var card1text = "Baseline ISP: " + baselineISP + "% using strategy " + schoolMealItem["baseline"];
+  d3.select(".district-info1").text(card1text);
+
+  var card1text = "Best ISP: " + bestISP + "% using strategy " + schoolMealItem["best_strategy"];
+  d3.select(".district-info2").text(card1text);
+}
+
 function generateDistrictSelector() {
-  d3.select(".district-list")
+  const listItems = d3
+    .select(".district-list")
     .selectAll("li")
-    .data(data)
+    .data(schoolMealData)
     .enter()
-    .append("li")
-    .text(function(d) {
-      return d.district;
-    });
+    .append("li");
+
+  listItems.append("a").text(function(d, index) {
+    return Object.assign(d.district, { index: index });
+  });
+
+  listItems.on("click", function(schoolMealItem) {
+    showSchoolMealDataForCode(schoolMealItem);
+  });
 
   // Show default first data item to start
-  // TODO: make this dynamic hooking it up to the dropdown
-  var dataRow = data[0];
-  var baselineISP = Math.round(dataRow["ISP Baseline"] * 100) / 100;
-  var bestISP = Math.round(dataRow["ISP Best"] * 100) / 100;
-
-  var card1text = "Baseline ISP: " + baselineISP + "% using strategy " + dataRow["baseline"];
-  d3.select(".district-info1")
-    .append("div")
-    .classed("mui--text-display1", true)
-    .text(card1text);
-
-  var card1text = "Best ISP: " + bestISP + "% using strategy " + dataRow["best_strategy"];
-  d3.select(".district-info2")
-    .append("div")
-    .classed("mui--text-display1", true)
-    .text(card1text);
+  showSchoolMealDataForCode(schoolMealData[0]);
 }
 
 function main() {
