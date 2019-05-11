@@ -1,4 +1,5 @@
 from .base import BaseCEPStrategy,CEPGroup
+from itertools import combinations, chain
 
 class ExaustiveCEPStrategy(BaseCEPStrategy):
     ''' Grouping strategy is to compute every possible partition
@@ -12,7 +13,7 @@ class ExaustiveCEPStrategy(BaseCEPStrategy):
         # some debugging/optimization required
 
         # check district size, if over 10 don't calculates partitions
-        # bell number of 10 = 115,975 (15 ~ 1.4 bil;  20 = 51.7 tril)
+        # bell number of 10 = 115,975 (15 ~ 1.4 bil;  20 ~ 51.7 tril)
         # if over assign groups like OneToOne (this way it can run on all districts without taking a year)
         if len(district.schools) > 10:
             self.groups = [
@@ -21,6 +22,7 @@ class ExaustiveCEPStrategy(BaseCEPStrategy):
             ]
         else:
             def partition(collection):
+                '''gives the all possible partitions as nested lists'''
                 # function straight from stock overflow- seems to work well (search Set partitions in python)
                 if len(collection) == 1:
                     yield [collection]
@@ -34,6 +36,17 @@ class ExaustiveCEPStrategy(BaseCEPStrategy):
                     # put `first` in its own subset
                     yield [[first]] + smaller
 
+
+            def powerset(iterable):
+                ''' gives all possible combinations for group sizes 1 to all groups'''
+                s = list(iterable)
+                return chain.from_iterable(combinations(s, r) for r in range(1, len(s) + 1))
+
+            # generate all CEPgroup objects for all possible groups
+            possible_groups = {}
+            for i, g in enumerate(powerset(district.schools)):
+                possible_groups[g] = CEPGroup(district, i, list(g))
+
             best_grouping = []
             best_covered = 0
             # generate all partions
@@ -41,11 +54,11 @@ class ExaustiveCEPStrategy(BaseCEPStrategy):
                 # save grouping with highest num of covered students
                 grouping = []
                 students_covered = 0
-                for i, group in enumerate(x):
-                    grouping.append(CEPGroup(district, i, group))
-                    students_covered += grouping[i].covered_students
-                if students_covered > best_covered:
-                    best_grouping = grouping
-                    best_covered = students_covered
+                for group in x:
+                    grouping.append(possible_groups[tuple(group)])
+                    students_covered += possible_groups[tuple(group)].covered_students
+                    if students_covered > best_covered:
+                        best_grouping = grouping
+                        best_covered = students_covered
             self.groups = best_grouping
 
