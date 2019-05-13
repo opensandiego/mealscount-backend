@@ -40,7 +40,7 @@ def cli(    cupc_csv_file,
             min_schools=None,
             list_strategies=False,
             output_json=None,
-            meals_csv_file=None ):
+            meals_csv_file=None):
     """CEP Estimator - runs strategies for grouping School Districts into optimial CEP coverage
 
 To run, specify the schools/districts CSV file, as well as any number of strategies (use --list-strategies to see those available)
