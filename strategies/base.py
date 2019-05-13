@@ -62,7 +62,7 @@ class CEPGroup(object):
             self.isp = round(self.total_eligible / float(self.total_enrolled), 4)
 
         # Then calculate free vs paid rate
-        # IF(E11*1.6>=1,1,IF(E11<0.3,0,E11*1.6))
+        # IF(E11*1.6>=1,1,IF(E11<0.4,0,E11*1.6))
         self.free_rate = self.isp * 1.6
         if self.isp * 1.6 > 1:
             self.free_rate = 1

@@ -29,6 +29,7 @@ def parse_districts(school_data,strategies):
 @click.option("--min-schools",default=None,help="If specified, only districts with at least N schools will be evaluated",type=int)
 @click.option("--list-strategies",default=False,is_flag=True,help="Display all available strategies and exit")
 @click.option("--output-json",default=None,help="If Specified, output will stored in filename specified in JSON format")
+@click.option("--meals-csv-file",default=None,help="Path to meals data, necessary to use stategies that optimize based on reimbursement")
 @click.argument("cupc_csv_file",nargs=1)
 @click.argument("strategies",nargs=-1)
 def cli(    cupc_csv_file,
@@ -38,7 +39,8 @@ def cli(    cupc_csv_file,
             show_schools=False,
             min_schools=None,
             list_strategies=False,
-            output_json=None ):
+            output_json=None,
+            meals_csv_file=None ):
     """CEP Estimator - runs strategies for grouping School Districts into optimial CEP coverage
 
 To run, specify the schools/districts CSV file, as well as any number of strategies (use --list-strategies to see those available)
@@ -61,6 +63,12 @@ Expected CSV File columns
     # Reduce to target district if specified
     if target_district != None:
         schools = [s for s in schools if s["District Code"] == target_district]
+
+    # add meals data to schools list
+    if meals_csv_file != None:
+        for r in csv.DictReader(open(meals_csv_file)):
+            if r['School Code'] in schools:
+                schools[r['School Code']].update(r)
 
     # Naive Groupings
     #DistrictClass = OneToOneCEPDistrict
