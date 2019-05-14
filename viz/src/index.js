@@ -1,6 +1,6 @@
 import _ from "lodash";
 import * as d3 from "d3";
-import schoolMealData from "./data/data.json";
+import schoolMealData from "./vizdata/data.json";
 
 function appendFullDataTable() {
   d3.select("body")

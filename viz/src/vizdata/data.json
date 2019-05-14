@@ -1,0 +1,54 @@
+[
+ {
+  "code": "68379",
+  "district": "San Ysidro Elementary",
+  "# schools": 7.0,
+  "total enrolled": 4728.0,
+  "baseline": "OneToOne",
+  "best_strategy": "Binning",
+  "ISP Baseline": 75.50761421319797,
+  "ISP Best": 100.0,
+  "ISP %change": 24.49238578680203,
+  "eligible: OneToOne": 3570.0,
+  "eligible: Binning": 4728
+ },
+ {
+  "code": "68106",
+  "district": "Escondido Union High",
+  "# schools": 5.0,
+  "total enrolled": 7459.0,
+  "baseline": "OneToOne",
+  "best_strategy": "OneToOne",
+  "ISP Baseline": 18.849711757608258,
+  "ISP Best": 18.849711757608258,
+  "ISP %change": 0.0,
+  "eligible: OneToOne": 1406.0,
+  "eligible: Binning": 219.0
+ },
+ {
+  "code": "68098",
+  "district": "Escondido Union",
+  "# schools": 23.0,
+  "total enrolled": 15767.0,
+  "baseline": "OneToOne",
+  "best_strategy": "Binning",
+  "ISP Baseline": 55.026320796600494,
+  "ISP Best": 56.681676920149684,
+  "ISP %change": 1.6553561235491898,
+  "eligible: OneToOne": 8676.0,
+  "eligible: Binning": 8937.0
+ },
+ {
+  "code": "68411",
+  "district": "Sweetwater Union High",
+  "# schools": 25.0,
+  "total enrolled": 37022.0,
+  "baseline": "OneToOne",
+  "best_strategy": "Binning",
+  "ISP Baseline": 24.317973097077413,
+  "ISP Best": 27.200043217546323,
+  "ISP %change": 2.8820701204689074,
+  "eligible: OneToOne": 9003.0,
+  "eligible: Binning": 10070.0
+ }
+]
