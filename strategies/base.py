@@ -3,6 +3,16 @@ from abc import ABC,abstractmethod
 # Shortcut to deal with commas in integers from csv
 i = lambda x: int(x.replace(',',''))
 
+# Free Rate from CEP Estimator
+# IF(E11*1.6>=1,1,IF(E11<0.3,0,E11*1.6))
+def isp_to_free_rate(isp):
+    free_rate = isp * 1.6
+    if isp * 1.6 > 1:
+        free_rate = 1
+    elif isp < 0.3:
+        free_rate = 0 
+    return free_rate
+
 class CEPSchool(object):
     def __init__(self,data):
         self.district = data['District Name']
@@ -37,6 +47,7 @@ class CEPSchool(object):
             'homeless': self.homeless,
             'migrant': self.migrant,
             'direct_cert': self.direct_cert,
+            'isp': self.isp,
         }
 
 class CEPGroup(object):
@@ -62,12 +73,7 @@ class CEPGroup(object):
             self.isp = round(self.total_eligible / float(self.total_enrolled), 4)
 
         # Then calculate free vs paid rate
-        # IF(E11*1.6>=1,1,IF(E11<0.4,0,E11*1.6))
-        self.free_rate = self.isp * 1.6
-        if self.isp * 1.6 > 1:
-            self.free_rate = 1
-        elif self.isp < 0.4:
-            self.free_rate = 0 
+        self.free_rate = isp_to_free_rate(self.isp)
 
         self.paid_rate = 1.0 - self.free_rate
         if self.free_rate == 0:
@@ -82,6 +88,18 @@ class CEPGroup(object):
             return "%s / %s -- no students enrolled --" % (self.district, self.name)
         return "%s / %s ISP=%0.0f%% ENROLLED=%i FREE_RATE=%0.2f%%" % \
             (self.district,self.name,self.isp*100, self.total_enrolled, self.free_rate*100)
+    
+    def as_dict(self):
+        return {
+            "name": self.name,
+            "school_codes": list(self.school_codes),
+            "isp": self.isp,
+            "free_rate": self.free_rate,
+            "paid_rate": self.paid_rate,
+            "total_eligible": self.total_eligible,
+            "total_enrolled": self.total_enrolled,
+            "covered_students": self.covered_students,
+        } 
 
 class CEPDistrict(object):
     def __init__(self,name,code,sfa_certified=False,anticipated_rate_change=0.02):
@@ -129,6 +147,16 @@ class CEPDistrict(object):
         # TODO calculate reimbursement amount
         raise NotImplemented("Need to calculate based on CEP Estimator")
 
+    def as_dict(self):
+        return {
+            "name": self.name,
+            "code": self.code, 
+            "total_enrolled": self.total_enrolled,
+            "schools": [ s.as_dict() for s in self.schools],
+            "strategies": [ s.as_dict() for s in self.strategies ],
+            "best_index": self.strategies.index(self.best_strategy),
+        }
+
 class BaseCEPStrategy(ABC):
     total_eligible = None
     groups = None
@@ -143,6 +171,18 @@ class BaseCEPStrategy(ABC):
     @property
     def students_covered(self):
         return sum([g.covered_students for g in self.groups])
+
+    @property
+    def total_enrolled(self):
+        return sum([g.total_enrolled for g in self.groups])
+
+    @property
+    def isp(self):
+        return self.students_covered/self.total_enrolled
+
+    @property
+    def free_rate(self):
+        return self.isp * FREE_RATE_MULTIPLIER
     
     @abstractmethod
     def create_groups(self,district):
@@ -164,4 +204,15 @@ class BaseCEPStrategy(ABC):
             # If we do not find a matching group, these districts do not have the same grouping
             if not found: return False
         return True
+
+    def as_dict(self):
+        return {
+            "name": self.name,
+            "groups": [g.as_dict() for g in self.groups],
+            "isp":  self.isp,
+            "total_enrolled": self.total_enrolled,
+            "free_rate": isp_to_free_rate(self.isp),
+            "total_eligible": self.students_covered,
+            "reimbursement": None,
+        }
 

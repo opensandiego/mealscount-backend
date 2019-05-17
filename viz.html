@@ -1,0 +1,214 @@
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+    <meta name="generator" content="Jekyll v3.8.5">
+    <title>MealsCount - Validation</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+        .district-row{ cursor: pointer; }
+        .district-row:hover { background-color: #eee; }
+    </style>
+  </head>
+  <body >
+        <nav class="navbar navbar-expand-lg navbar-light bg-light mb-3">
+            <a class="navbar-brand" href="#">MealsCount</a>
+  
+            <button class="navbar-toggler" 
+                    type="button" 
+                    data-toggle="collapse" 
+                    data-target="#navbarSupportedContent" 
+                    aria-controls="navbarSupportedContent" 
+                    aria-expanded="false" 
+                    aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="https://opensandiego.org">Open San Diego </a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link" href="https://cfpa.net">CFPA</a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link" href="https://www.sandiegohungercoalition.org/">SD Hunger</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://github.com/opensandiego/mealscount-backend/tree/validate">Source Code</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+
+    <div class="container" id="app">
+
+        <!-- Display Selected School TOOD maybe in modal? -->
+        <div v-if="selected" class="container">
+            <div class="col-sm">
+                <h3>District {{ selected.code }}: {{ selected.name }}</h3>
+            </div> 
+            <div class="col-sm-6">
+                <ul class="list-group list-group-flush">
+                    <li class="list-group-item">
+                        {{ selected.schools.length | commas}} Schools 
+                        <button 
+                            class="btn btn-secondary btn-sm" 
+                            type="button"
+                            data-toggle="collapse" 
+                            href="#selectedSchools"
+                            data-target="#selectedSchools"
+                            aria-expanded="false"
+                            aria-controls="selectedSchools" >
+                            show
+                        </button>
+                    </li>
+                    <li class="list-group-item">
+                        Total Enrolled: {{ selected.total_enrolled | commas}}
+                    </li>
+                </ul>
+            </div>
+            <div class="col-sm">
+                <table class="table">
+                    <tbody>
+                        <tr v-for="s in selected.strategies">
+                            <td>{{ s.name }}</td>
+                            <td>{{ s.isp | ispFormat }}</td>
+                            <td>{{ increaseOverBaseline(s,selected.strategies[0]) | deltaCommas }}</td>
+                        </tr> 
+                    </tbody>
+                </table>
+            </div>
+            <div class="row collapse" id="selectedSchools">
+                <div class="col-sm mt-2">
+                    <table class="table table-bordered">
+                        <thead class="thead-dark">
+                            <tr>
+                                <th scope="col">Code</th>
+                                <th scope="col">Name</th>
+                                <th scope="col">Enrolled</th>
+                                <th scope="col">Isp</th>
+                            </tr>
+                        <thead>
+                        <tbody>
+                            <tr v-for="s in selected.schools">
+                                <td>{{ s.school_code }}</td>
+                                <td>{{ s.school_name }}</td>
+                                <td>{{ s.total_enrolled | commas }}</td>
+                                <td>{{ s.isp | ispFormat }}</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+  
+        <h2 class="mt-4">Districts</h2>
+        <div class="row mb-3">
+            <table class="table">
+                <thead class="thead-dark">
+                    <tr>
+                        <th scope="col">Code</th>
+                        <th scope="col">Name</th>
+                        <th scope="col">Schools</th>
+                        <th scope="col">Total Enrolled</th>
+                        <th scope="col">Baseline ISP</th>
+                        <th scope="col">Best ISP</th>
+                        <th scope="col">Best Strategy</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td colspan="7">
+                            <input  v-model="filter" 
+                                    class="form-control" 
+                                    type="text" 
+                                    placeholder="Filter by name or code" 
+                            />
+                        </td>
+                    </tr>
+                    <tr class="district-row" v-for="d in districts"> 
+                        <td>{{ d.code }}</td>
+                        <td v-on:click="selectDistrict(d)">{{ d.name }}</td>
+                        <td>{{ d.schools.length }}</td>
+                        <td>{{ d.total_enrolled | commas }}</td>
+                        <td>{{ d.strategies[0].isp | ispFormat }}</td> 
+                        <td>{{ d.strategies[d.best_index].isp | ispFormat}}</td> 
+                        <td>{{ d.strategies[d.best_index].name}}</td> 
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+    </div> <!-- /container -->
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.11/lodash.core.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <script>
+
+        // Define Filters
+        Vue.filter("ispFormat", function(v){ return "" + (v*100).toFixed(1) + "%"; });
+        // Commas regex from https://stackoverflow.com/questions/2901102/
+        Vue.filter("commas", function(v){ return v.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ","); });
+        Vue.filter("deltaCommas", function(v){ 
+            var x = v.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ","); 
+            if(v > 0){ return "+"+x; }
+            return x;
+            
+        });
+
+   
+        // Our base data object 
+        var data = {district_data:[], filter:"",selected:null};
+        // Our Vue App
+        var app = new Vue({
+            el: '#app',
+            data: data,
+            computed: {
+                // Compute filtered districts to display
+                districts: function(){
+                    return data.district_data.filter(function(o){ 
+                        if( data.filter == "" ){ return true; }  
+                        if( o.name.toLowerCase().search(data.filter.trim().toLowerCase()) >= 0 ||
+                            o.code.toLowerCase().indexOf(data.filter.trim().toLowerCase()) == 0){
+                            return true;
+                        }
+                        return false;
+                    });
+                }
+            },
+            methods: {
+                // select district when clicked
+                selectDistrict: function(d) {
+                    data.selected = d;
+                    console.log(d);
+                },
+                increaseOverBaseline: function(s,base){
+                    return s.total_eligible - base.total_eligible;
+                }
+            } 
+        })
+
+        // Retrieve our district data, and sort by largest first
+        var request = new XMLHttpRequest();
+        request.open('GET', 'output.json', true);
+        request.onload = function() { 
+            data.district_data = JSON.parse(request.responseText); 
+            data.district_data.sort(function(a,b){ return b.total_enrolled - a.total_enrolled} );
+        }
+        request.send();
+
+    </script>
+</body>
+</html>
+
