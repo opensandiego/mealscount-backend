@@ -78,6 +78,11 @@
             </div>
             <div class="col-sm">
                 <table class="table">
+                    <thead class="thead-light">
+                            <th scope="col">Strategy</th>
+                            <th scope="col">ISP</th>
+                            <th scope="col">Increase In Student Coverage</th>
+                    </thead>
                     <tbody>
                         <tr v-for="s in selected.strategies">
                             <td>{{ s.name }}</td>
@@ -110,6 +115,11 @@
                 </div>
             </div>
         </div>
+        <div v-else class="container">
+            <p>Select a school to see details</p>
+            <svg id="map">
+            </svg>
+        </div>
   
         <h2 class="mt-4">Districts</h2>
         <div class="row mb-3">
@@ -123,6 +133,7 @@
                         <th scope="col">Baseline ISP</th>
                         <th scope="col">Best ISP</th>
                         <th scope="col">Best Strategy</th>
+                        <th scope="col">Potential Improvement</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -143,12 +154,14 @@
                         <td>{{ d.strategies[0].isp | ispFormat }}</td> 
                         <td>{{ d.strategies[d.best_index].isp | ispFormat}}</td> 
                         <td>{{ d.strategies[d.best_index].name}}</td> 
+                        <td>{{ increaseOverBaseline(d.strategies[d.best_index],d.strategies[0]) | deltaCommas }}</td> 
                     </tr>
                 </tbody>
             </table>
         </div>
 
     </div> <!-- /container -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.9.1/d3.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.11/lodash.core.min.js"></script>
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
@@ -208,6 +221,37 @@
         }
         request.send();
 
+        function create_map(selector,width,height){
+            var projection = d3.geoMercator()
+                                    .scale(1400)
+                                    .center([-119,37])
+                                    .translate([width / 2, height / 2]);
+            var path = d3.geoPath()
+                            .projection(projection);
+
+            var svg = d3.select(selector)
+                        .attr('width', width)
+                        .attr('height', height); 
+            
+            var g = svg.append('g');
+
+            var mapLayer = g.append('g')
+                .classed('map-layer', true);
+
+            var tracts = d3.json('data/districts.geojson');
+            tracts.then(function(mapData) {
+                console.log(mapData);
+                 mapLayer.selectAll('path')
+                    .data(mapData.features)
+                    .enter().append('path')
+                        .attr('d', path)
+                        .attr('vector-effect', 'non-scaling-stroke')
+                        .style('fill', "#eeeeee")
+                        .style('stroke',"#000000")
+            });
+        }
+        create_map('#map',300,350);
+        
     </script>
 </body>
 </html>
