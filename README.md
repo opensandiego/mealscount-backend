@@ -6,9 +6,16 @@ This is the Validation Branch, intended to provide a simpler environment for con
 
 ## Visualization
 
-Map Data:
+Run the cep_estimator.py file with arguments to generate an "output.json":
 
-https://catalog.data.gov/dataset/tiger-line-shapefile-2018-state-california-current-unified-school-districts-shapefile-state-bas
+`python cep_estimatory.py data/calpads_school_level_1718.csv OneToOne OneGroup Binning`
+
+Then, run a web server in the local folder:
+
+`python -m http.server`
+
+Open http://localhost:8000/viz.html and you will see a navigable result.
+
 
 ## How
 Community Eligibility Provision (CEP)
