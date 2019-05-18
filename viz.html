@@ -17,6 +17,7 @@
         .district-row:hover { background-color: #eee; }
         .districts table { font-size: 10pt; }
         svg path { cursor: pointer; }
+        .green { font-weight: bold; color: #0e0; } 
     </style>
   </head>
   <body >
@@ -59,7 +60,10 @@
                 <svg id="map"></svg>
             </div>
             <div v-if="selected"  class="col-sm">
-                <h4>District {{ selected.code }}: {{ selected.name }}</h4>
+                <h4>
+                    District {{ selected.code }}: {{ selected.name }} 
+                    <a v-on:click="deselectDistrict" class="btn btn-secondary btn-small">close</a>
+                </h4>
                 <ul class="list-group list-group-flush">
                     <li class="list-group-item">
                         {{ selected.schools.length | commas}} Schools 
@@ -85,16 +89,28 @@
                             <th scope="col">Increase In Student Coverage</th>
                     </thead>
                     <tbody>
-                        <tr v-for="s in selected.strategies">
+                        <tr v-for="(s,i) in selected.strategies">
                             <td>{{ s.name }}</td>
                             <td>{{ s.isp | ispFormat }}</td>
-                            <td>{{ increaseOverBaseline(s,selected.strategies[0]) | deltaCommas }}</td>
+                            <td v-if="i == 0">- baseline -</td> 
+                            <td v-else-if="i == selected.best_index" class="green">{{ increaseOverBaseline(s,selected.strategies[0]) | deltaCommas }}</td>
+                            <td v-else>{{ increaseOverBaseline(s,selected.strategies[0]) | deltaCommas }}</td>
+
                         </tr> 
                     </tbody>
                 </table>
             </div>
-            <div v-else class="container">
+            <div v-else class="col-sm">
                 <p>Select a school to see details</p>
+                <h4>Districts in California</h4>
+                <svg id="summary"></svg>
+                <div>
+                    <p><strong>Total Enrolled:</strong> {{ summary.total_enrolled | commas }}</p>
+                    <p>
+                        <strong>Potential Improvement: </strong>
+                        <span class="green">+{{ summary.potential_improvement | commas }}</span> Students
+                    </p>
+                </div>
             </div>
 
             <!-- 
@@ -199,6 +215,14 @@
                         }
                         return false;
                     });
+                },
+                summary: function(){
+                    var result = {total_enrolled:0,potential_improvement:0}; 
+                    data.district_data.forEach(function(d){
+                        result.total_enrolled += d.total_enrolled;
+                        result.potential_improvement += d.strategies[d.best_index].total_eligible - d.strategies[0].total_eligible;
+                    });
+                    return result;
                 }
             },
             methods: {
@@ -212,6 +236,12 @@
                     var d3_district = map.mapLayer.select('#map_district_'+d.code)
                     d3_district.style('fill','#0000ff');
                 },
+                deselectDistrict: function(){
+                    console.log("deselecting");
+                    data.selected = null;
+                    // summary does not come back
+                    create_summary('#summary',300,100);
+                },
                 increaseOverBaseline: function(s,base){
                     return s.total_eligible - base.total_eligible;
                 }
@@ -224,6 +254,9 @@
         request.onload = function() { 
             data.district_data = JSON.parse(request.responseText); 
             data.district_data.sort(function(a,b){ return b.total_enrolled - a.total_enrolled} );
+
+            create_map('#map',300,350);
+            create_summary('#summary',300,100);
         }
         request.send();
 
@@ -260,18 +293,60 @@
                         .attr('lng', function(d){ return d.properties.INTPTLON; })
                         .attr('d', path)
                         .attr('vector-effect', 'non-scaling-stroke')
-                        .style('fill', "#eeeeee")
-                        .style('stroke',"#333333")
-                        .style('stroke-width','0.5')
                         .on('click',function(d){
                             var district = data.district_data.filter(function(o){
                                 return o.code == d.properties.code;
                             })[0];
                             app.selectDistrict(district);
-                        });
+                        })
+                        .style('fill', "#eeeeee")
+                        .style('stroke',"#aaaaaa")
+                        .style('stroke-width','0.25')
+
             });
         }
-        create_map('#map',300,350);
+
+        function create_summary(selector,overall_width,overall_height){
+
+            var margin = 10;
+            var width = overall_width - (margin*2);
+            var height = overall_height - (margin*2);
+ 
+            // calculate some stats
+            var max_enrolled = data.district_data[0].total_enrolled;
+            var min_enrolled = data.district_data[data.district_data.length-1].total_enrolled;
+
+            var isps = data.district_data.map(function(o){ return o.overall_isp; }).sort();
+            var max_isp = isps[isps.length -1 ];
+            var min_isp = isps[0] 
+
+            var svg = d3.select(selector)
+                            .attr('width',width)
+                            .attr('height',height)
+                            .attr("transform",
+                            "translate(" + margin + "," + margin + ")");
+          
+            var x = d3.scaleLinear()
+                .domain([min_enrolled,max_enrolled])
+                .range([0,width]);
+            svg.append("g")
+                .attr("transform", "translate(0,"+height+")")
+                .call(d3.axisBottom(x));
+            var y = d3.scaleLinear()
+                .domain([min_isp*100,max_isp*100])
+                .range([ height, 0]);
+            svg.append("g")
+                .call(d3.axisLeft(y));
+            svg.append('g')
+                .selectAll("dot")
+                .data(data.district_data)
+                .enter()
+                    .append("circle")
+                    .attr("cx", function (d) { return x(d.total_enrolled); } )
+                    .attr("cy", function (d) { return y(d.overall_isp*100); } )
+                    .attr("r", 2)
+                    .style("fill", "#0000ff33" )
+        }
         
     </script>
 </body>

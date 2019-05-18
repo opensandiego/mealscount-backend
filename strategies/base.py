@@ -136,6 +136,10 @@ class CEPDistrict(object):
         return sum([s.total_enrolled for s in self.schools])
 
     @property
+    def overall_isp(self): 
+        return sum([s.total_eligible for s in self.schools])/self.total_enrolled
+
+    @property
     def students_covered(self):
         return self.best_strategy.students_covered
 
@@ -155,6 +159,7 @@ class CEPDistrict(object):
             "schools": [ s.as_dict() for s in self.schools],
             "strategies": [ s.as_dict() for s in self.strategies ],
             "best_index": self.strategies.index(self.best_strategy),
+            "overall_isp": self.overall_isp,
         }
 
 class BaseCEPStrategy(ABC):
