@@ -83,6 +83,20 @@ class CEPGroup(object):
     def covered_students(self):
         return round(self.free_rate * self.total_enrolled,0)
 
+    def estimated_reimbursement(self, est_bfast=0.5771, est_lunch=0.7641):
+        '''basic estimate for daily reimbursement based on the given meal participation estimates
+        '''
+        # reimbursment rates for california...we should propably make these a paramater somewhere. They might change from year-to-year
+        free_bfast, paid_bfast, free_lunch, paid_lunch = 2.14, .31, 3.33, 0.33  # **Note** there might be a nuance with free_bfast. Ask Heidi
+
+        bfast_re = (self.free_rate * free_bfast + (1 - self.free_rate) * paid_bfast)
+        lunch_re = (self.free_rate * free_lunch + (1 - self.free_rate) * paid_lunch)
+
+        if self.district.sfa_certified:
+            return self.total_enrolled*0.06 * (est_bfast * bfast_re + est_lunch * lunch_re)
+        else:
+            return self.total_enrolled * (est_bfast * bfast_re + est_lunch * lunch_re)
+
     def __repr__(self):
         if self.isp == None:
             return "%s / %s -- no students enrolled --" % (self.district, self.name)
@@ -143,9 +157,13 @@ class CEPDistrict(object):
     def percent_covered(self):
         return float(self.best_strategy.students_covered)/self.total_enrolled
 
-    def reimbursement(self):
-        # TODO calculate reimbursement amount
-        raise NotImplemented("Need to calculate based on CEP Estimator")
+    def reimbursement(self, bfast=(0.8690, 0.2852), lunch=(0.9285, 0.5998)):
+        '''returns: daily reimbursement estimate, parameters: meals participation (avg+sigma, avg-sigma)'''
+        return {
+            "high": sum([g.reimbursement(est_bfast=bfast[0], est_lunch=lunch[0]) for g in self.best_strategy.groups]),
+            "low": sum([g.reimbursement(est_bfast=bfast[1], est_lunch=lunch[1]) for g in self.best_strategy.groups])
+        }
+
 
     def as_dict(self):
         return {
