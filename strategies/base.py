@@ -93,7 +93,7 @@ class CEPGroup(object):
         lunch_re = (self.free_rate * free_lunch + (1 - self.free_rate) * paid_lunch)
 
         if self.district.sfa_certified:
-            return self.total_enrolled*0.06 * (est_bfast * bfast_re + est_lunch * lunch_re)
+            return self.total_enrolled * (est_bfast * (bfast_re+.06) + est_lunch * (lunch_re+.06))
         else:
             return self.total_enrolled * (est_bfast * bfast_re + est_lunch * lunch_re)
 
