@@ -83,7 +83,7 @@ class CEPGroup(object):
     def covered_students(self):
         return round(self.free_rate * self.total_enrolled,0)
 
-    def estimated_reimbursement(self, est_bfast=0.5771, est_lunch=0.7641):
+    def est_reimbursement(self, est_bfast=0.5771, est_lunch=0.7641):
         '''basic estimate for daily reimbursement based on the given meal participation estimates
         '''
         # reimbursment rates for california...we should propably make these a paramater somewhere. They might change from year-to-year
@@ -163,10 +163,10 @@ class CEPDistrict(object):
 
     def reimbursement(self, bfast=(0.8690, 0.2852), lunch=(0.9285, 0.5998)):
         '''returns: daily reimbursement estimate, parameters: meals participation (avg+sigma, avg-sigma)'''
-        return {
-            "high": sum([g.reimbursement(est_bfast=bfast[0], est_lunch=lunch[0]) for g in self.best_strategy.groups]),
-            "low": sum([g.reimbursement(est_bfast=bfast[1], est_lunch=lunch[1]) for g in self.best_strategy.groups])
-        }
+        if self.best_strategy==None:
+            return None
+        return [sum([g.est_reimbursement(est_bfast=bfast[0], est_lunch=lunch[0]) for g in self.best_strategy.groups]),
+                sum([g.est_reimbursement(est_bfast=bfast[1], est_lunch=lunch[1]) for g in self.best_strategy.groups])]
 
 
     def as_dict(self):
