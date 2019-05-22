@@ -6,7 +6,7 @@ class OneToOneCEPStrategy(BaseCEPStrategy):
 
     def create_groups(self,district):
         self.groups = [
-            CEPGroup(school.district,school.name,[school])
+            CEPGroup(district,school.name,[school])
             for school in district.schools
         ] 
 
