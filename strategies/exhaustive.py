@@ -17,7 +17,7 @@ class ExaustiveCEPStrategy(BaseCEPStrategy):
         # if over assign groups like OneToOne (this way it can run on all districts without taking a year)
         if len(district.schools) > 10:
             self.groups = [
-                CEPGroup(school.district,school.name,[school])
+                CEPGroup(district, school.name, [school])
                 for school in district.schools
             ]
         else:

@@ -4,12 +4,12 @@ from abc import ABC,abstractmethod
 i = lambda x: int(x.replace(',',''))
 
 # Free Rate from CEP Estimator
-# IF(E11*1.6>=1,1,IF(E11<0.3,0,E11*1.6))
+# IF(E11*1.6>=1,1,IF(E11<0.4,0,E11*1.6))
 def isp_to_free_rate(isp):
     free_rate = isp * 1.6
     if isp * 1.6 > 1:
         free_rate = 1
-    elif isp < 0.3:
+    elif isp < 0.4:
         free_rate = 0 
     return free_rate
 
@@ -29,8 +29,8 @@ class CEPSchool(object):
         if self.total_eligible > self.total_enrolled:
             self.total_eligible = self.total_enrolled
 
-        self.breakfast_served = self.total_enrolled  # TODO provide as input
-        self.lunch_served = self.total_enrolled #TODO provide as input
+        self.bfast_served = None  # TODO provide as input
+        self.lunch_served = None #TODO provide as input
 
         if self.total_enrolled == 0:
             self.isp  = self.free_rate = self.paid_rate = 0
@@ -79,23 +79,36 @@ class CEPGroup(object):
         if self.free_rate == 0:
             self.paid_rate = 0
 
+        # aggregate meals data if available
+        if None in [s.bfast_served for s in schools] or None in [s.lunch_served for s in schools]:
+            self.meals_served_data = False
+        else:
+            self.meals_served_data = True
+            self.bfast_served, self.lunch_served = 0, 0
+            for s in schools:
+                self.bfast_served += s.bfast_served
+                self.lunch_served += s.lunch_served
+
+
     @property
     def covered_students(self):
         return round(self.free_rate * self.total_enrolled,0)
 
-    def est_reimbursement(self, est_bfast=0.5771, est_lunch=0.7641):
+    def est_reimbursement(self, data=False, bfast_participation=0.5771, lunch_participation=0.7641):
         '''basic estimate for daily reimbursement based on the given meal participation estimates
         '''
-        # reimbursment rates for california...we should propably make these a paramater somewhere. They might change from year-to-year
-        free_bfast, paid_bfast, free_lunch, paid_lunch = 2.14, .31, 3.33, 0.33  # **Note** there might be a nuance with free_bfast. Ask Heidi
-
-        bfast_re = (self.free_rate * free_bfast + (1 - self.free_rate) * paid_bfast)
-        lunch_re = (self.free_rate * free_lunch + (1 - self.free_rate) * paid_lunch)
+        if self.meals_served_data and data:
+            bfast_participation = self.bfast_served/self.total_enrolled
+            lunch_participation = self.lunch_served/self.total_enrolled
+        bfast_re = (self.free_rate * self.district.fed_reimbursement_rates['free_bfast'] +
+                    (1 - self.free_rate) * self.district.fed_reimbursement_rates['paid_bfast'])
+        lunch_re = (self.free_rate * self.district.fed_reimbursement_rates['free_lunch'] +
+                    (1 - self.free_rate) * self.district.fed_reimbursement_rates['paid_lunch'])
 
         if self.district.sfa_certified:
-            return self.total_enrolled * (est_bfast * (bfast_re+.06) + est_lunch * (lunch_re+.06))
+            return self.total_enrolled * (bfast_participation * (bfast_re+.06) + lunch_participation * (lunch_re+.06))
         else:
-            return self.total_enrolled * (est_bfast * bfast_re + est_lunch * lunch_re)
+            return self.total_enrolled * (bfast_participation * bfast_re + lunch_participation * lunch_re)
 
     def __repr__(self):
         if self.isp == None:
@@ -116,7 +129,7 @@ class CEPGroup(object):
         } 
 
 class CEPDistrict(object):
-    def __init__(self,name,code,sfa_certified=False,anticipated_rate_change=0.02):
+    def __init__(self,name,code,sfa_certified=False):
         self.name = name
         self.code = code
         self.schools = [] 
@@ -125,6 +138,10 @@ class CEPDistrict(object):
         self.anticipated_rate_change = 0.02
         self.strategies = []
         self.best_strategy = None
+
+        # **Note** there might be a nuance with free_bfast. Ask Heidi
+        # make this an input or parameter; will change per district and year-over-year
+        self.fed_reimbursement_rates = {'free_lunch': 3.31, 'paid_lunch': 0.31, 'free_bfast': 2.14, 'paid_bfast': 0.31}
 
     def __lt__(self,other_district):
         return self.total_enrolled < other_district.total_enrolled
@@ -157,13 +174,12 @@ class CEPDistrict(object):
     def percent_covered(self):
         return float(self.best_strategy.students_covered)/self.total_enrolled
 
-    def reimbursement(self, bfast=(0.8690, 0.2852), lunch=(0.9285, 0.5998)):
-        '''returns: daily reimbursement estimate, parameters: meals participation (avg+sigma, avg-sigma)'''
-        if self.best_strategy==None:
-            return None
-        return [sum([g.est_reimbursement(est_bfast=bfast[0], est_lunch=lunch[0]) for g in self.best_strategy.groups]),
-                sum([g.est_reimbursement(est_bfast=bfast[1], est_lunch=lunch[1]) for g in self.best_strategy.groups])]
-
+    # def best_reimbursement(self, bfast=(0.8690, 0.2852), lunch=(0.9285, 0.5998)):
+    #     '''returns: daily reimbursement estimate, parameters: meals participation (avg+sigma, avg-sigma)'''
+    #     if self.best_strategy==None:
+    #         return None
+    #     return [sum([g.est_reimbursement(est_bfast=bfast[0], est_lunch=lunch[0]) for g in self.best_strategy.groups]),
+    #             sum([g.est_reimbursement(est_bfast=bfast[1], est_lunch=lunch[1]) for g in self.best_strategy.groups])]
 
     def as_dict(self):
         return {
@@ -196,6 +212,8 @@ class BaseCEPStrategy(ABC):
 
     @property
     def isp(self):
+        if self.total_enrolled == 0:
+            return 0
         return self.students_covered/self.total_enrolled
 
     @property
@@ -223,6 +241,12 @@ class BaseCEPStrategy(ABC):
             if not found: return False
         return True
 
+    def reimbursment(self):
+        return {
+            'low end estimate': sum([g.est_reimbursement(data=False, bfast_participation=0.2852, lunch_participation=0.5998) for g in self.groups]),
+            'high end estimate': sum([g.est_reimbursement(data=False, bfast_participation= 0.8690, lunch_participation=0.9285) for g in self.groups])
+        }
+
     def as_dict(self):
         return {
             "name": self.name,
@@ -231,6 +255,10 @@ class BaseCEPStrategy(ABC):
             "total_enrolled": self.total_enrolled,
             "free_rate": isp_to_free_rate(self.isp),
             "total_eligible": self.students_covered,
-            "reimbursement": None,
-        }
+            "reimbursement": self.reimbursment(),
+            'basis': "This estimate of reimbursement revenue is based off school meal participation rates from a sample"
+                     "of schools current enrolled in CEP.  Your district's revenue will likely be between the high and"
+                     "low estimates but might be out side of this range.  This is especially likely if your district has"
+                     "few schools  We can provide a more accurate estimate with your district's specific meals data."
+        }  # low , high, basis
 
