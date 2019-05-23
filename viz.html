@@ -88,16 +88,16 @@
                         <p><strong>Total Enrolled:</strong> {{ selected.total_enrolled | commas}}</p>
                         <p><strong>Potential Reimbursement:</strong>
                             <span class="money">
-                            {{ (selected.strategies[selected.best_index].reimbursement.low_end_estimate*365) | money }}
+                            {{ (selected.strategies[selected.best_index].reimbursement.low_end_estimate*SCHOOL_YEAR) | money }}
                             to
-                            {{ (selected.strategies[selected.best_index].reimbursement.high_end_estimate*365) | money }}
+                            {{ (selected.strategies[selected.best_index].reimbursement.high_end_estimate*SCHOOL_YEAR) | money }}
                             <a href="#assumptions">*</a>
                             </span>
                         </p>
                         <p><strong>Potential Benefit of Optimization:</strong> <br>
                             <span class="green">
                             {{ increaseOverBaseline(selected.strategies[selected.best_index],selected.strategies[0]) | deltaCommas }} more eligible<br>
-                            {{ (increaseReimbursementOverBaseline(selected.strategies[selected.best_index],selected.strategies[0])[1]*365) | money }}
+                            {{ (increaseReimbursementOverBaseline(selected.strategies[selected.best_index],selected.strategies[0])[1]*SCHOOL_YEAR) | money }}
                             </span>
 
                         </p>
@@ -129,9 +129,9 @@
                                 <td v-else-if="i == selected.best_index" class="green">{{ increaseOverBaseline(s,selected.strategies[0]) | deltaCommas }}</td>
                                 <td v-else>{{ increaseOverBaseline(s,selected.strategies[0]) | deltaCommas }}</td>
                                 <td>
-                                    {{ s.reimbursement.low_end_estimate*365 | money }} 
+                                    {{ s.reimbursement.low_end_estimate*SCHOOL_YEAR | money }} 
                                     to 
-                                    {{ s.reimbursement.high_end_estimate*365 | money }}
+                                    {{ s.reimbursement.high_end_estimate*SCHOOL_YEAR | money }}
                                 </td>
                             </tr> 
                         </tbody>
@@ -144,7 +144,8 @@
                 <!-- <svg id="summary"></svg> -->
                 <div>
                     <p><strong>Total Enrolled:</strong> {{ summary.total_enrolled | commas }}</p>
-                    <p><strong>Total Potential Annual Reimbursements</strong><br>
+                    <p><strong>Total Potential Reimbursements Per School Year<a href="#assumptions">*</a>
+</strong><br>
                         <span class="green">
                         {{ summary.potential_reimbursement.low | money }}
                         to 
@@ -229,7 +230,7 @@
         <div class="row mt-2">
             <h4 id="assumptons">* Assumptions made</h4>
             <ul>
-                <li>TODO list </li>
+                <li>School Year estimated to be 180 days</li>
             </ul>
         </div>
     </div> <!-- /container -->
@@ -240,6 +241,8 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
     <script>
+
+        var SCHOOL_YEAR = 180; // Days in school year
 
         // Define Filters
         Vue.filter("ispFormat", function(v){ return "" + (v*100).toFixed(1) + "%"; });
@@ -267,7 +270,7 @@
         });
 
         // Our base data object 
-        var data = {district_data:[], filter:"",selected:null};
+        var data = {district_data:[], filter:"",selected:null,SCHOOL_YEAR:SCHOOL_YEAR};
         // Our Vue App
         var app = new Vue({
             el: '#app',
@@ -289,10 +292,10 @@
                     data.district_data.forEach(function(d){
                         result.total_enrolled += d.total_enrolled;
                         result.potential_improvement += d.strategies[d.best_index].total_eligible - d.strategies[0].total_eligible;
-                        result.potential_reimbursement.low += d.strategies[d.best_index].reimbursement.low_end_estimate * 365;
-                        result.potential_reimbursement.high += d.strategies[d.best_index].reimbursement.high_end_estimate * 365;
+                        result.potential_reimbursement.low += d.strategies[d.best_index].reimbursement.low_end_estimate * SCHOOL_YEAR;
+                        result.potential_reimbursement.high += d.strategies[d.best_index].reimbursement.high_end_estimate * SCHOOL_YEAR;
                         result.potential_reimbursement.delta += 
-                            ( d.strategies[d.best_index].reimbursement.high_end_estimate - d.strategies[0].reimbursement.high_end_estimate ) * 365;
+                            ( d.strategies[d.best_index].reimbursement.high_end_estimate - d.strategies[0].reimbursement.high_end_estimate ) * SCHOOL_YEAR;
                     });
                     return result;
                 }
