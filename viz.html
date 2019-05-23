@@ -1,12 +1,8 @@
-
 <!doctype html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
-    <meta name="generator" content="Jekyll v3.8.5">
     <title>MealsCount - Validation</title>
 
     <!-- Bootstrap core CSS -->
@@ -18,9 +14,19 @@
         .districts table { font-size: 10pt; }
         svg path { cursor: pointer; }
         .green { font-weight: bold; color: #0e0; } 
+        .money { font-size: 14pt; font-weight: bold; color: #0e0; }
     </style>
   </head>
   <body >
+        <!--
+
+        TODO
+        - make est reimbursement front & center
+        - highlight optimization _ improvement _
+        - Details button -> strategy, slideout schoolgroupings within strategies
+        - Call To Action - [ Let Us Help You ]
+
+        -->
         <nav class="navbar navbar-expand-lg navbar-light bg-light mb-3">
             <a class="navbar-brand" href="#">MealsCount</a>
   
@@ -79,36 +85,78 @@
                         </button>
                     </li>
                     <li class="list-group-item">
-                        Total Enrolled: {{ selected.total_enrolled | commas}}
+                        <p><strong>Total Enrolled:</strong> {{ selected.total_enrolled | commas}}</p>
+                        <p><strong>Potential Reimbursement:</strong>
+                            <span class="money">
+                            {{ (selected.strategies[selected.best_index].reimbursement.low_end_estimate*365) | money }}
+                            to
+                            {{ (selected.strategies[selected.best_index].reimbursement.high_end_estimate*365) | money }}
+                            <a href="#assumptions">*</a>
+                            </span>
+                        </p>
+                        <p><strong>Potential Benefit of Optimization:</strong> <br>
+                            <span class="green">
+                            {{ increaseOverBaseline(selected.strategies[selected.best_index],selected.strategies[0]) | deltaCommas }} more eligible<br>
+                            {{ (increaseReimbursementOverBaseline(selected.strategies[selected.best_index],selected.strategies[0])[1]*365) | money }}
+                            </span>
+
+                        </p>
                     </li>
                 </ul>
-                <table class="table">
-                    <thead class="thead-light">
-                            <th scope="col">Strategy</th>
-                            <th scope="col">ISP</th>
-                            <th scope="col">Increase In Student Coverage</th>
-                    </thead>
-                    <tbody>
-                        <tr v-for="(s,i) in selected.strategies">
-                            <td>{{ s.name }}</td>
-                            <td>{{ s.isp | ispFormat }}</td>
-                            <td v-if="i == 0">- baseline -</td> 
-                            <td v-else-if="i == selected.best_index" class="green">{{ increaseOverBaseline(s,selected.strategies[0]) | deltaCommas }}</td>
-                            <td v-else>{{ increaseOverBaseline(s,selected.strategies[0]) | deltaCommas }}</td>
-
-                        </tr> 
-                    </tbody>
-                </table>
+                <div>
+                    <div class="mb-1">
+                        <button class="btn btn-secondary" 
+                                type="button" 
+                                data-toggle="collapse" 
+                                data-target="#collapseExample" 
+                                aria-expanded="false" 
+                                aria-controls="collapseExample">
+                            Details
+                        </button>
+                    </div>
+                    <table class="table collapse" id="collapseExample">
+                        <thead class="thead-light">
+                                <th scope="col">Strategy</th>
+                                <th scope="col">ISP</th>
+                                <th scope="col">Increase In Student Coverage</th>
+                                <th scope="col">Total Reimbursement*</th>
+                        </thead>
+                        <tbody>
+                            <tr v-for="(s,i) in selected.strategies">
+                                <td>{{ s.name }}</td>
+                                <td>{{ s.isp | ispFormat }}</td>
+                                <td v-if="i == 0">- baseline -</td> 
+                                <td v-else-if="i == selected.best_index" class="green">{{ increaseOverBaseline(s,selected.strategies[0]) | deltaCommas }}</td>
+                                <td v-else>{{ increaseOverBaseline(s,selected.strategies[0]) | deltaCommas }}</td>
+                                <td>
+                                    {{ s.reimbursement.low_end_estimate*365 | money }} 
+                                    to 
+                                    {{ s.reimbursement.high_end_estimate*365 | money }}
+                                </td>
+                            </tr> 
+                        </tbody>
+                    </table>
+                </div>
             </div>
             <div v-else class="col-sm">
                 <p>Select a school to see details</p>
                 <h4>Districts in California</h4>
-                <svg id="summary"></svg>
+                <!-- <svg id="summary"></svg> -->
                 <div>
                     <p><strong>Total Enrolled:</strong> {{ summary.total_enrolled | commas }}</p>
+                    <p><strong>Total Potential Annual Reimbursements</strong><br>
+                        <span class="green">
+                        {{ summary.potential_reimbursement.low | money }}
+                        to 
+                        {{ summary.potential_reimbursement.high | money }}
+                        </span>
+                    </p>
                     <p>
-                        <strong>Potential Improvement: </strong>
-                        <span class="green">+{{ summary.potential_improvement | commas }}</span> Students
+                        <strong>Potential Improvement with Optimization: </strong><br>
+                        <span class="green">+{{ summary.potential_improvement | commas }} more students covered</span><br>
+                        <span class="green">
+                            {{ summary.potential_reimbursement.delta | money }} additional reimbursements
+                        </span>
                     </p>
                 </div>
             </div>
@@ -178,6 +226,12 @@
             </table>
         </div>
 
+        <div class="row mt-2">
+            <h4 id="assumptons">* Assumptions made</h4>
+            <ul>
+                <li>TODO list </li>
+            </ul>
+        </div>
     </div> <!-- /container -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.9.1/d3.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
@@ -195,6 +249,20 @@
             var x = v.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ","); 
             if(v > 0){ return "+"+x; }
             return x;
+            
+        });
+        Vue.filter("money", function(v){ 
+            var prefix = "$";
+            if(v > 0){ prefix = "+$"; }
+            else if(v < 0){ prefix = "-$"; }
+            var x = Math.abs(v).toFixed(2);
+            if( x >=  1000000000){
+                return prefix + (x/1000000000).toFixed(2) + "b";
+            }else if( x >= 1000000){
+                return prefix + (x/1000000).toFixed(1) + "m";
+            }else{
+                return prefix + (x/1000).toFixed(1) + "k";
+            }
             
         });
 
@@ -217,10 +285,14 @@
                     });
                 },
                 summary: function(){
-                    var result = {total_enrolled:0,potential_improvement:0}; 
+                    var result = {total_enrolled:0,potential_improvement:0,potential_reimbursement:{low:0,high:0,delta:0}}; 
                     data.district_data.forEach(function(d){
                         result.total_enrolled += d.total_enrolled;
                         result.potential_improvement += d.strategies[d.best_index].total_eligible - d.strategies[0].total_eligible;
+                        result.potential_reimbursement.low += d.strategies[d.best_index].reimbursement.low_end_estimate * 365;
+                        result.potential_reimbursement.high += d.strategies[d.best_index].reimbursement.high_end_estimate * 365;
+                        result.potential_reimbursement.delta += 
+                            ( d.strategies[d.best_index].reimbursement.high_end_estimate - d.strategies[0].reimbursement.high_end_estimate ) * 365;
                     });
                     return result;
                 }
@@ -244,6 +316,11 @@
                 },
                 increaseOverBaseline: function(s,base){
                     return s.total_eligible - base.total_eligible;
+                },
+                increaseReimbursementOverBaseline: function(s,base){
+                    // CONSIDER ok to show maximal range here?
+                    return [ s.reimbursement.low_end_estimate - base.reimbursement.low_end_estimate,
+                             s.reimbursement.high_end_estimate - base.reimbursement.high_end_estimate ];
                 }
             } 
         })
@@ -256,7 +333,7 @@
             data.district_data.sort(function(a,b){ return b.total_enrolled - a.total_enrolled} );
 
             create_map('#map',300,350);
-            create_summary('#summary',300,100);
+            //create_summary('#summary',300,100);
         }
         request.send();
 

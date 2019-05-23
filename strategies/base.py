@@ -248,8 +248,8 @@ class BaseCEPStrategy(ABC):
 
     def reimbursment(self):
         return {
-            'low end estimate': sum([g.est_reimbursement(data=False, bfast_participation=0.2852, lunch_participation=0.5998) for g in self.groups]),
-            'high end estimate': sum([g.est_reimbursement(data=False, bfast_participation= 0.8690, lunch_participation=0.9285) for g in self.groups])
+            'low_end_estimate': sum([g.est_reimbursement(data=False, bfast_participation=0.2852, lunch_participation=0.5998) for g in self.groups]),
+            'high_end_estimate': sum([g.est_reimbursement(data=False, bfast_participation= 0.8690, lunch_participation=0.9285) for g in self.groups])
         }
 
     def as_dict(self):
