@@ -48,17 +48,18 @@ class ExaustiveCEPStrategy(BaseCEPStrategy):
                 possible_groups[g] = CEPGroup(district, i, list(g))
 
             best_grouping = []
-            best_covered = 0
+            best_reimbursement = 0
             # generate all partions
             for x in partition(district.schools):
-                # save grouping with highest num of covered students
-                grouping = []
-                students_covered = 0
+                # save grouping with highest reimbursement level
+                est_reimbursement = 0
+                # we reference the powerset possible_groups so we don't have to instantiate a bajillion CEPGroup objects
                 for group in x:
-                    grouping.append(possible_groups[tuple(group)])
-                    students_covered += possible_groups[tuple(group)].covered_students
-                    if students_covered > best_covered:
-                        best_grouping = grouping
-                        best_covered = students_covered
+                    est_reimbursement += possible_groups[tuple(group)].est_reimbursement()["low"]
+
+                # Choose the highest reimbursement
+                if est_reimbursement > best_reimbursement:
+                    best_grouping = [ possible_groups[tuple(group)] for group in x ]
+
             self.groups = best_grouping
 
