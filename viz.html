@@ -113,7 +113,7 @@
                     </table>
                 </div>
             </div>
-
+    
             <!-- right col -->
             <div class="col-sm-8">
                 <div class="row">
@@ -121,9 +121,8 @@
                         <svg id="map"></svg>
                     </div>
                 </div>
-
-                <div v-if="selected" class="row">
-                    <div class="col-sm">
+                <div class="row">
+                    <div v-if="selected"  class="col-sm">
                         <h4>
                             District {{ selected.code }}: {{ selected.name }} 
                             <a v-on:click="deselectDistrict" class="btn btn-secondary btn-small">close</a>
@@ -151,7 +150,7 @@
                                 </p>
                             </li>
                         </ul>
-                    </div>
+                    <div>
                     <div class="m-1">
                         <button class="btn btn-secondary" 
                                 type="button" 
@@ -185,30 +184,29 @@
                         </tbody>
                     </table>
                 </div>
+            </div>
 
-            <div v-else class="row">
-                <div class="col-sm">
-                    <p>Select a school to see details</p>
-                    <h4>Districts in California</h4>
-                    <!-- <svg id="summary"></svg> -->
-                    <div>
-                        <p><strong>Total Enrolled:</strong> {{ summary.total_enrolled | commas }}</p>
-                        <p><strong>Total Potential Reimbursements Per School Year<a href="#assumptions">*</a>
-    </strong><br>
-                            <span class="green">
-                            {{ summary.potential_reimbursement.low | money }}
-                            to 
-                            {{ summary.potential_reimbursement.high | money }}
-                            </span>
-                        </p>
-                        <p>
-                            <strong>Potential Improvement with Optimization: </strong><br>
-                            <span class="green">+{{ summary.potential_improvement | commas }} more students covered</span><br>
-                            <span class="green">
-                                {{ summary.potential_reimbursement.delta | money }} additional reimbursements
-                            </span>
-                        </p>
-                    </div>
+            <div v-else class="col-sm">
+                <p>Select a school to see details</p>
+                <h4>Districts in California</h4>
+                <!-- <svg id="summary"></svg> -->
+                <div>
+                    <p><strong>Total Enrolled:</strong> {{ summary.total_enrolled | commas }}</p>
+                    <p><strong>Total Potential Reimbursements Per School Year<a href="#assumptions">*</a>
+</strong><br>
+                        <span class="green">
+                        {{ summary.potential_reimbursement.low | money }}
+                        to 
+                        {{ summary.potential_reimbursement.high | money }}
+                        </span>
+                    </p>
+                    <p>
+                        <strong>Potential Improvement with Optimization: </strong><br>
+                        <span class="green">+{{ summary.potential_improvement | commas }} more students covered</span><br>
+                        <span class="green">
+                            {{ summary.potential_reimbursement.delta | money }} additional reimbursements
+                        </span>
+                    </p>
                 </div>
             </div>
 
