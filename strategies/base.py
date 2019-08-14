@@ -1,7 +1,9 @@
 from abc import ABC,abstractmethod
 
 # Shortcut to deal with commas in integers from csv
-i = lambda x: int(x.replace(',',''))
+def i(x):
+    if type(x) != str: return int(x)
+    return int(x.replace(',',''))
 
 # Free Rate from CEP Estimator
 # IF(E11*1.6>=1,1,IF(E11<0.4,0,E11*1.6))
@@ -26,11 +28,11 @@ class CEPSchool(object):
         self.district_code = data['District Code']
         self.name = data['School Name']
         self.code = data['School Code']
-        self.foster = i(data['foster'])
-        self.homeless = i(data['homeless'])
-        self.migrant = i(data['migrant'])
-        self.direct_cert = i(data['direct_cert'])
-        self.frpm = i(data['frpm'])
+        self.foster = i(data.get('foster',0))
+        self.homeless = i(data.get('homeless',0))
+        self.migrant = i(data.get('migrant',0))
+        self.direct_cert = i(data.get('direct_cert',0))
+        self.frpm = i(data.get('frpm',0))
         self.total_eligible = (self.foster + self.homeless + self.migrant + self.direct_cert)
         self.total_enrolled = i(data['total_enrolled'])
         if self.total_eligible > self.total_enrolled:

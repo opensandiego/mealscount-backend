@@ -8,7 +8,7 @@ STRATEGIES = {
     "OneToOne":OneToOneCEPStrategy,
     "OneGroup":OneGroupCEPStrategy,
     "Binning":BinCEPStrategy,
-    "AlgoV2":AlgoV2CEPStrategy,
+    #"AlgoV2":AlgoV2CEPStrategy,
     "Exhaustive":ExaustiveCEPStrategy,
     "Spread":SpreadCEPStrategy
 }
