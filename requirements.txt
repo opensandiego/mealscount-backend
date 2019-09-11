@@ -1,4 +1,0 @@
-pandas
-click==7.0
-tabulate
-pytest

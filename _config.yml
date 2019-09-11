@@ -1,0 +1,15 @@
+# Site settings
+title: Meals Count - Open San Diego Project
+email: info@opensandiego.org
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://www.mealscount.org" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+
+exclude:
+    - venv/
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
