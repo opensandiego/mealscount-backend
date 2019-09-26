@@ -39,5 +39,9 @@ Open http://localhost:8000/viz.html and you will see a navigable result.
 
 Please see the Issues for how to help, and contact the [Open San Diego Team on Slack](https://opensandiego.org) on the *#mealscount* channel if you are interested in helping or exploring facilitating school districts in your state in optimizing their CEP reimbursements!
 
+# Additional Resources
 
+* https://cfpa.net/ChildNutrition/ChildNutrition_CFPAPublications/CFPA-CEPLCFFWebinar-2018.pdf
+* https://cfpa.net/ChildNutrition/ChildNutrition_Legislation/LCFF-CEP-Factsheet-2014.pdf
+* https://www.fns.usda.gov/nslp/community-eligibility-provision-resource-center
 
