@@ -23,6 +23,12 @@ def parse_districts(school_data,strategies):
     districts.sort()
     return districts
 
+def parse_strategy(strategy):
+    strategy_param = parse.urlparse(strategy)   
+    params = dict(parse.parse_qsl(strategy_param.query))
+    klass = STRATEGIES[strategy_param.path]
+    return (klass,params,strategy)
+
 @click.command()
 @click.option("--target-district",default=None,help="Specific district code to run")
 @click.option("--show-groups",default=False,is_flag=True,help="Display grouping per district by school-code (must have target district specified)")
@@ -67,11 +73,7 @@ Expected CSV File columns
     #DistrictClass = OneToOneCEPDistrict
   
 
-    def parse_strategy(strategy):
-        strategy_param = parse.urlparse(strategy)   
-        params = dict(parse.parse_qsl(strategy_param.query))
-        klass = STRATEGIES[strategy_param.path]
-        return (klass,params,strategy)
+    
     strategies = [parse_strategy(s) for s in strategies]
 
     districts = parse_districts(schools,strategies = strategies)
@@ -153,7 +155,7 @@ Expected CSV File columns
             print( "Groupings for %s" % td )
             for g in td.groups:
                 click.secho( "%s (%i schools)" % (g.name,len(g.school_codes)), bold=True )
-                print( ",".join(g.school_codes) )
+                print( ",".joiN(g.school_codes) )
         if show_schools:
             data = [ (s.code,s.name,float(s.total_eligible),float(s.total_enrolled),s.isp) for s in td.schools ]
             data.sort(key=lambda o: o[4])

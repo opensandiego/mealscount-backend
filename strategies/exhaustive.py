@@ -1,7 +1,7 @@
 from .base import BaseCEPStrategy,CEPGroup
 from itertools import combinations, chain
 
-class ExaustiveCEPStrategy(BaseCEPStrategy):
+class ExhaustiveCEPStrategy(BaseCEPStrategy):
     ''' Grouping strategy is to compute every possible partition
 
     * This follows with https://en.wikipedia.org/wiki/Partition_of_a_set
