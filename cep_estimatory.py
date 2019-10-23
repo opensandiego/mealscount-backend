@@ -4,6 +4,7 @@ import tabulate
 from strategies.base import CEPSchool,CEPDistrict
 from strategies import STRATEGIES
 from urllib import parse
+import codecs
 import json
 
 #### CLI ####
@@ -56,7 +57,7 @@ Expected CSV File columns
         return
 
     i = lambda x: int(x.replace(',',''))
-    schools = [r for r in csv.DictReader(open(cupc_csv_file)) if i(r['total_enrolled']) > 0]
+    schools = [r for r in csv.DictReader(codecs.open(cupc_csv_file)) if i(r['total_enrolled']) > 0]
 
     # Reduce to target district if specified
     if target_district != None:
