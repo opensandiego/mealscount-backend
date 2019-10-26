@@ -4,7 +4,8 @@
   "description": "MealsCount Frontend",
   "scripts": {
     "watch": "webpack --watch",
-    "build": "webpack"
+    "build": "webpack",
+    "postinstall":"webpack"
   },
   "author": "Nikolaj Baer",
   "license": "MIT",
