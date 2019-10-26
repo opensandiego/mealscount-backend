@@ -241,7 +241,7 @@ include/
 share/
 
 # temp data folder
-viz/node_modules
-viz/dist/
 output.json
 .vscode/
+node_modules/
+dist/
