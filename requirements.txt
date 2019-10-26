@@ -4,3 +4,4 @@ tabulate
 pytest
 flask
 flask-cors
+python-dotenv
