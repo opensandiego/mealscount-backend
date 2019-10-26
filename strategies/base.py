@@ -202,7 +202,7 @@ class CEPDistrict(object):
             "total_enrolled": self.total_enrolled,
             "schools": [ s.as_dict() for s in self.schools],
             "strategies": [ s.as_dict() for s in self.strategies ],
-            "best_index": self.strategies.index(self.best_strategy),
+            "best_index": self.strategies and self.strategies.index(self.best_strategy) or None,
             "overall_isp": self.overall_isp,
         }
 

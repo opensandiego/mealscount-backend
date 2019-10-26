@@ -6,3 +6,5 @@ flask
 flask-cors
 python-dotenv
 gunicorn
+pylibmc
+Flask-Caching
