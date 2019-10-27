@@ -45,7 +45,7 @@ else:
 @cache.cached(timeout=3600)
 def district():
     state = "ca" # TODO make this for other states
-    cupc_csv_file = "data/calpads_school_level_1819.csv"  
+    cupc_csv_file = "data/%s/latest.csv" % state
     schools = [r for r in csv.DictReader(codecs.open(cupc_csv_file)) if i(r['total_enrolled']) > 0]
     district_objects =  parse_districts(schools,[])
     districts = [
