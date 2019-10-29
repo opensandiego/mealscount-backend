@@ -76,6 +76,8 @@
 
 <script>
 export default {
-    
+  mounted(){
+    this.$store.dispatch("load_districts","ca");
+  } 
 }
 </script>
