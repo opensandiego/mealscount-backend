@@ -22,7 +22,7 @@
                   </td>
                   <td>
                     <router-link :to="{name:'district-detail', params: {state_code:'ca',district_code: district.code} }" >{{ district.name }}</router-link>
-                  <td>{{ district.schools.length }}</td>
+                  <td>{{ district.schools_count }}</td>
                   <td>{{ district.total_enrolled.toLocaleString() }}</td>
                   <td>{{ (district.overall_isp * 100).toFixed(1) }}%</td>
                 </tr>

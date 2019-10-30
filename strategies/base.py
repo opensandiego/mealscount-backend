@@ -195,16 +195,20 @@ class CEPDistrict(object):
     def percent_covered(self):
         return float(self.best_strategy.students_covered)/self.total_enrolled
 
-    def as_dict(self):
-        return {
+    def as_dict(self,include_schools=True,include_strategies=True):
+        result = {
             "name": self.name,
             "code": self.code, 
             "total_enrolled": self.total_enrolled,
-            "schools": [ s.as_dict() for s in self.schools],
-            "strategies": [ s.as_dict() for s in self.strategies ],
-            "best_index": self.strategies and self.strategies.index(self.best_strategy) or None,
             "overall_isp": self.overall_isp,
+            "school_count": len(self.schools),
         }
+        if include_schools:
+            result["schools"] = [ s.as_dict() for s in self.schools]
+        if include_strategies and self.strategies:
+            result["strategies"] = [ s.as_dict() for s in self.strategies ]
+            result["best_index"] = self.strategies.index(self.best_strategy)
+        return result
 
 class BaseCEPStrategy(ABC):
     total_eligible = None

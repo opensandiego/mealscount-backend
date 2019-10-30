@@ -4,6 +4,7 @@ import tabulate
 from strategies.base import CEPSchool,CEPDistrict
 from strategies import STRATEGIES
 from urllib import parse
+import os,os.path
 import codecs
 import json
 
@@ -36,7 +37,8 @@ def parse_strategy(strategy):
 @click.option("--show-schools",default=False,is_flag=True,help="Display individual school data (must have target district specified)")
 @click.option("--min-schools",default=None,help="If specified, only districts with at least N schools will be evaluated",type=int)
 @click.option("--list-strategies",default=False,is_flag=True,help="Display all available strategies and exit")
-@click.option("--output-json",default="output.json",help="If Specified, output will stored in filename specified in JSON format (defaults to output.json)")
+@click.option("--output-json",default=None,help="If Specified, output will stored in filename specified in JSON format (defaults to output.json)")
+@click.option("--output-folder",default=None,help="Folder to output per-district json and district overview json for website")
 @click.argument("cupc_csv_file",nargs=1)
 @click.argument("strategies",nargs=-1)
 def cli(    cupc_csv_file,
@@ -46,7 +48,8 @@ def cli(    cupc_csv_file,
             show_schools=False,
             min_schools=None,
             list_strategies=False,
-            output_json=None ):
+            output_json=None,
+            output_folder=None ):
     """CEP Estimator - runs strategies for grouping School Districts into optimial CEP coverage
 
 To run, specify the schools/districts CSV file, as well as any number of strategies (use --list-strategies to see those available)
@@ -172,6 +175,20 @@ Expected CSV File columns
             # TODO make this more interesting
             o = [d.as_dict() for d in districts]
             out_file.write(json.dumps(o))
+
+    if output_folder:
+        if not os.path.exists(output_folder):
+            os.makedirs(output_folder)
+        for d in districts:
+            fname = os.path.join(output_folder,"%s_district.json" % d.code)
+            with open(fname,"w") as out_file:
+                out_file.write(json.dumps(d.as_dict()))
+        fname = os.path.join(output_folder,"districts.json")
+        with open(fname,"w")  as out_file:
+            # output lighter version of district for district overview json
+            district_list = [ d.as_dict(include_strategies=False,include_schools=False) for d in districts]
+            out_file.write(json.dumps(district_list))
+
 
 if __name__ == '__main__':
     cli()

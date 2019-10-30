@@ -20,7 +20,7 @@
             </dl>
         </div>
 
-        <div class="row">
+        <div class="row" v-if="district.data != null">
             <table class="table col-sm">
               <thead class="thead-dark">
                 <tr>
@@ -31,7 +31,7 @@
                 </tr>
               </thead>
               <tbody>
-                <tr v-for="school in district.schools" v-bind:key="school.code">
+                <tr v-for="school in district.data.schools" v-bind:key="school.code">
                   <td>{{ school.school_code }}</td>
                   <td>{{ school.school_name }}</td>
                   <td>{{ school.total_enrolled.toLocaleString() }}</td>
@@ -54,6 +54,23 @@ export default {
             var districts = _.filter(this.$store.getters.districts,d => d.code == this.district_code);
             if(districts.length){ return districts[0] }
             return null
+        }
+    },
+    watch: {
+        district(newVal,oldVal){
+            if(this.district != null && this.district.data == null ){
+                this.loadDistrictData();
+            }
+        }
+    },
+    mounted() {
+        if(this.district != null && this.district.data == null){
+            this.loadDistrictData();
+        }
+    },
+    methods: {
+        loadDistrictData(){
+            this.$store.dispatch("load_district", {code:this.district_code,state:this.state_code})
         }
     }
 }
