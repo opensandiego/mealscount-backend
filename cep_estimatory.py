@@ -171,8 +171,8 @@ Expected CSV File columns
         with open(output_json,"w") as out_file:
             # TODO make this more interesting
             o = [d.as_dict() for d in districts]
-            out_file.write(json.dumps(o,indent=1))
+            out_file.write(json.dumps(o))
 
 if __name__ == '__main__':
-    cli()    
+    cli()
 

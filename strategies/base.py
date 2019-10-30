@@ -273,9 +273,10 @@ class BaseCEPStrategy(ABC):
             "free_rate": isp_to_free_rate(self.isp),
             "total_eligible": self.students_covered,
             "reimbursement": self.reimbursment(),
-            'basis': "This estimate of reimbursement revenue is based off school meal participation rates from a sample"
-                     "of schools current enrolled in CEP.  Your district's revenue will likely be between the high and"
-                     "low estimates but might be out side of this range.  This is especially likely if your district has"
-                     "few schools  We can provide a more accurate estimate with your district's specific meals data."
+            'basis':  'estimated',
+            #"This estimate of reimbursement revenue is based off school meal participation rates from a sample"
+            #         "of schools current enrolled in CEP.  Your district's revenue will likely be between the high and"
+            #         "low estimates but might be out side of this range.  This is especially likely if your district has"
+            #         "few schools  We can provide a more accurate estimate with your district's specific meals data."
         }  # low , high, basis
 

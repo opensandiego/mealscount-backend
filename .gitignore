@@ -245,3 +245,4 @@ output.json
 .vscode/
 node_modules/
 dist/
+data/*/districts.json

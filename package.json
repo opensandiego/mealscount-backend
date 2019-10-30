@@ -5,7 +5,7 @@
   "scripts": {
     "watch": "webpack --watch",
     "build": "webpack",
-    "postinstall":"webpack"
+    "postinstall":"webpack && python cep_estimatory.py data/ca/latest.csv OneToOne OneGroup Binning Exhaustive --output-json dist/static/ca_districts.json"
   },
   "author": "Nikolaj Baer",
   "license": "MIT",
