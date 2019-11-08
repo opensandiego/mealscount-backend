@@ -15,8 +15,12 @@
                     <dd>{{ district.total_enrolled }}</dd>
                 <dt>Overall ISP</dt>
                     <dd>{{ (district.overall_isp*100).toFixed(1) }}%</dd>
-                <dt>Estimated Reimbursement Range</dt>
-                    <dd>TODO</dd>
+                <dt>Estimated Annual Reimbursement Range</dt>
+                    <dd v-if="best_strategy != null">
+                        <strong>Winning Strategy:</strong> {{ best_strategy.name }}<br>
+                        <strong>High:</strong> ${{ (best_strategy.reimbursement.high_end_estimate * 160).toLocaleString({ style: 'currency', currency: 'USD' }) }}<br>
+                        <strong>Low:</strong> ${{ (best_strategy.reimbursement.low_end_estimate * 160).toLocaleString({ style: 'currency', currency: 'USD' }) }}
+                   </dd>
             </dl>
         </div>
 
@@ -54,6 +58,11 @@ export default {
             var districts = _.filter(this.$store.getters.districts,d => d.code == this.district_code);
             if(districts.length){ return districts[0] }
             return null
+        },
+        best_strategy(){
+            if(this.district == null || this.district.data == null){ return null; }
+            if(!this.district.data.strategies){ return null; }
+            return this.district.data.strategies[this.district.data.best_index]
         }
     },
     watch: {
