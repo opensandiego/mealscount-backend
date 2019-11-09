@@ -18,8 +18,8 @@ def isp_to_free_rate(isp):
 # TODO make this configurable parameter
 BREAKFAST_EST_PARTICIPATION = (0.2852,0.8690) # 
 LUNCH_EST_PARTICIPATION = (0.5998,0.9285)
-EST_BFAST_INCREASE = 0.02 # TODO verify
-EST_LUNCH_INCREASE = 0.02 # TODO verify
+EST_BFAST_INCREASE = 1.02 # TODO verify
+EST_LUNCH_INCREASE = 1.02 # TODO verify
 
 
 class CEPSchool(object):
@@ -28,26 +28,30 @@ class CEPSchool(object):
         self.district_code = data['District Code']
         self.name = data['School Name']
         self.code = data['School Code']
+        self.school_type = data['School Type']
+        self.active = data.get("include_in_mealscount","true").lower() == "true"
         self.foster = i(data.get('foster',0))
         self.homeless = i(data.get('homeless',0))
         self.migrant = i(data.get('migrant',0))
         self.direct_cert = i(data.get('direct_cert',0))
-        self.frpm = i(data.get('frpm',0))
-        self.total_eligible = (self.foster + self.homeless + self.migrant + self.direct_cert)
+        self.frpm = i(data.get('unduplicated_frpm',0))
+        self.total_eligible = self.direct_cert 
+        # NOTE based upon California data, total eligible is "direct_cert", but still in progress!
+        #i(data.get('unduplicated_frpm',0)) # (self.foster + self.homeless + self.migrant + self.direct_cert)
         self.total_enrolled = i(data['total_enrolled'])
         if self.total_eligible > self.total_enrolled:
             self.total_eligible = self.total_enrolled
 
-        if data.get("NLSP_BREAKFAST_SERVERD","").strip():
-            self.bfast_served_low = data.get("NLSP_BREAKFAST_SEVERENEED")
-            self.lunch_served_low = data.get("NLSP_LUNCH")
-            self.bfast_served_high = self.bfast_served_low * EST_BFAST_INCREASE
-            self.lunch_served_high = self.bfast_served_low * EST_LUNCH_INCREASE
+        if data.get("daily_breakfast_served","").strip():
+            self.bfast_served_low = int(data.get("daily_breakfast_served"))
+            self.lunch_served_low = int(data.get("daily_lunch_served"))
+            self.bfast_served_high = int(self.bfast_served_low * EST_BFAST_INCREASE)
+            self.lunch_served_high = int(self.bfast_served_low * EST_LUNCH_INCREASE)
         else:
-            self.bfast_served_low = self.total_enrolled * BREAKFAST_EST_PARTICIPATION[0]
-            self.lunch_served_low = self.total_enrolled * LUNCH_EST_PARTICIPATION[0]
-            self.bfast_served_high = self.total_enrolled * BREAKFAST_EST_PARTICIPATION[1]
-            self.lunch_served_high = self.total_enrolled * LUNCH_EST_PARTICIPATION[1]
+            self.bfast_served_low = int(self.total_enrolled * BREAKFAST_EST_PARTICIPATION[0])
+            self.lunch_served_low = int(self.total_enrolled * LUNCH_EST_PARTICIPATION[0])
+            self.bfast_served_high = int(self.total_enrolled * BREAKFAST_EST_PARTICIPATION[1])
+            self.lunch_served_high = int(self.total_enrolled * LUNCH_EST_PARTICIPATION[1])
 
         if self.total_enrolled == 0:
             self.isp  = self.free_rate = self.paid_rate = 0
@@ -58,13 +62,13 @@ class CEPSchool(object):
         return {
             'school_code': self.code,
             'school_name': self.name,
+            'school_type': self.school_type,
             'total_enrolled': self.total_enrolled,
-            'frpm': self.frpm ,
-            'foster': self.foster,
-            'homeless': self.homeless,
-            'migrant': self.migrant,
-            'direct_cert': self.direct_cert,
+            "total_eligible": self.total_eligible,
+            "daily_breakfast_served": self.bfast_served_low,
+            "daily_lunch_served": self.bfast_served_low,
             'isp': self.isp,
+            'active': self.active,
         }
 
 class CEPGroup(object):
@@ -149,7 +153,7 @@ class CEPDistrict(object):
     def __init__(self,name,code,sfa_certified=False):
         self.name = name
         self.code = code
-        self.schools = [] 
+        self._schools = [] 
         self.groups = []
         self.sfa_certified = sfa_certified # TODO provide as input
         self.anticipated_rate_change = 0.02
@@ -162,6 +166,13 @@ class CEPDistrict(object):
 
     def __lt__(self,other_district):
         return self.total_enrolled < other_district.total_enrolled
+
+    def add_school(self,school):
+        self._schools.append(school)
+
+    @property
+    def schools(self):
+        return [ s for s in self._schools if s.active ]
 
     def run_strategies(self):
         for s in self.strategies:
@@ -204,7 +215,7 @@ class CEPDistrict(object):
             "school_count": len(self.schools),
         }
         if include_schools:
-            result["schools"] = [ s.as_dict() for s in self.schools]
+            result["schools"] = [ s.as_dict() for s in self._schools]
         if include_strategies and self.strategies:
             result["strategies"] = [ s.as_dict() for s in self.strategies ]
             result["best_index"] = self.strategies.index(self.best_strategy)

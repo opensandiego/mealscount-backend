@@ -20,8 +20,8 @@ def parse_districts(school_data,strategies):
                 StrategyClass,params,strategy_name = s
                 district.strategies.append( StrategyClass(params,name=strategy_name) )
             districts.setdefault(school.district,district)
-        districts[school.district].schools.append(school)
-    districts = list(districts.values())
+        districts[school.district].add_school(school)
+    districts = list([d for d in districts.values() if len(d.schools)> 0])
     districts.sort()
     return districts
 

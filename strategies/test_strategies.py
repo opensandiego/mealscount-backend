@@ -49,7 +49,7 @@ class CEPTestCase(unittest.TestCase,CEPTestMixin):
             "homeless": 100,
             "migrant": 100,
         }) 
-        self.assertEqual(s.total_eligible,400)
+        self.assertEqual(s.total_eligible,100) # We actually are now using direct_cert for baseline eligible
         self.assertEqual(s.isp,0.4)
 
     def test_group(self):
