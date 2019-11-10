@@ -66,7 +66,7 @@ class CEPSchool(object):
             'total_enrolled': self.total_enrolled,
             "total_eligible": self.total_eligible,
             "daily_breakfast_served": self.bfast_served_low,
-            "daily_lunch_served": self.bfast_served_low,
+            "daily_lunch_served": self.lunch_served_low,
             'isp': self.isp,
             'active': self.active,
         }
