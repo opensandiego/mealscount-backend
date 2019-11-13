@@ -20,6 +20,8 @@ class ExhaustiveCEPStrategy(BaseCEPStrategy):
                 CEPGroup(district, school.name, [school])
                 for school in district.schools
             ]
+        elif len(district.schools) == 0:
+            self.groups = []
         else:
             def partition(collection):
                 '''gives the all possible partitions as nested lists'''

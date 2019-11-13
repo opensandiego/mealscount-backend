@@ -2,5 +2,9 @@ pandas
 click==7.0
 tabulate
 pytest
-nbstripout
-matplotlib
+flask
+flask-cors
+python-dotenv
+gunicorn
+pylibmc
+Flask-Caching
