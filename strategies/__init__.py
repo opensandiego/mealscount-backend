@@ -3,6 +3,7 @@ from .mc_algo_v2 import AlgoV2CEPStrategy
 from .binning import BinCEPStrategy
 from .exhaustive import ExhaustiveCEPStrategy
 from .spread import SpreadCEPStrategy
+from .pairs import PairsCEPStrategy
 
 STRATEGIES = {
     "OneToOne":OneToOneCEPStrategy,
@@ -10,7 +11,8 @@ STRATEGIES = {
     "Binning":BinCEPStrategy,
     #"AlgoV2":AlgoV2CEPStrategy,
     "Exhaustive":ExhaustiveCEPStrategy,
-    "Spread":SpreadCEPStrategy
+    "Spread":SpreadCEPStrategy,
+    "Pairs": PairsCEPStrategy,
 }
 
 

@@ -187,7 +187,9 @@ class CEPDistrict(object):
         self.best_strategy = best
 
     def __eq__(self,other_district):
-        return self.code == other_district.code
+        if isinstance(other_district,CEPDistrict):
+            return self.code == other_district.code
+        return False
 
 
     @property
