@@ -106,9 +106,17 @@ class CEPGroup(object):
     def covered_students(self):
         return round(self.free_rate * self.total_enrolled,0)
 
+    @property
+    def cep_eligible(self):
+        return self.free_rate > 0
+
     def est_reimbursement(self):
         '''basic estimate for daily reimbursement based on the given meal participation estimates
         '''
+
+        if not self.cep_eligible:
+            return {"low":0,"high":0}
+
         # Identify federal reimbursement rates per this District (see CEP Estimator XLS file)
         bfast_re = (self.free_rate * self.district.fed_reimbursement_rates['free_bfast'] +
                     (1 - self.free_rate) * self.district.fed_reimbursement_rates['paid_bfast'])
@@ -147,6 +155,7 @@ class CEPGroup(object):
             "total_eligible": self.total_eligible,
             "total_enrolled": self.total_enrolled,
             "covered_students": self.covered_students,
+            "cep_eligible": self.cep_eligible,
         } 
 
 class CEPDistrict(object):
@@ -178,12 +187,17 @@ class CEPDistrict(object):
         for s in self.strategies:
             s.create_groups(self)
 
-    def evaluate_strategies(self):
+    def evaluate_strategies(self,evaluate_by="reimbursement"):
         best = None
         for s in self.strategies:
             assert(s.groups != None)
-            if best == None or s.students_covered > best.students_covered: # TODO evaluate on total reimbursement, not students_covered
-                best = s
+            # TODO evaluate on total reimbursement, not students_covered
+            if evaluate_by == "reimbursement":
+                if best == None or s.reimbursement["low_end_estimate"] > best.reimbursement["low_end_estimate"]: 
+                    best = s
+            else:
+                if best == None or s.students_covered > best.students_covered: 
+                    best = s
         self.best_strategy = best
 
     def __eq__(self,other_district):
@@ -273,7 +287,8 @@ class BaseCEPStrategy(ABC):
             if not found: return False
         return True
 
-    def reimbursment(self):
+    @property
+    def reimbursement(self):
         # TODO differentiate hi/low
         group_reimbursements  = [g.est_reimbursement() for g in self.groups]
         return {
@@ -289,7 +304,7 @@ class BaseCEPStrategy(ABC):
             "total_enrolled": self.total_enrolled,
             "free_rate": isp_to_free_rate(self.isp),
             "total_eligible": self.students_covered,
-            "reimbursement": self.reimbursment(),
+            "reimbursement": self.reimbursement,
             'basis':  'estimated',
             #"This estimate of reimbursement revenue is based off school meal participation rates from a sample"
             #         "of schools current enrolled in CEP.  Your district's revenue will likely be between the high and"
