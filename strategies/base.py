@@ -156,6 +156,7 @@ class CEPGroup(object):
             "total_enrolled": self.total_enrolled,
             "covered_students": self.covered_students,
             "cep_eligible": self.cep_eligible,
+            "est_reimbursement": self.est_reimbursement(),
         } 
 
 class CEPDistrict(object):
@@ -229,6 +230,7 @@ class CEPDistrict(object):
             "total_enrolled": self.total_enrolled,
             "overall_isp": self.overall_isp,
             "school_count": len(self.schools),
+            "best_strategy": self.best_strategy and self.best_strategy.name or None
         }
         if include_schools:
             result["schools"] = [ s.as_dict() for s in self._schools]

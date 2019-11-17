@@ -1,6 +1,12 @@
 <template>
   <section class="state-detail container my-3" v-if="district != null">
     <div class="row">
+      <div class="container">
+        <router-link :to="{name:'state-detail', params: {state:state_code} }">&laquo; Back to state</router-link>
+      </div>
+    </div>
+
+    <div class="row">
       <h1 class="col-sm">{{ district.name }} ({{ district_code }} - {{ state_code }})</h1>
     </div>
 
@@ -10,9 +16,9 @@
         <dd>{{ state_code }}</dd>
         <dt>District Code</dt>
         <dd>{{ district_code}}</dd>
-        <dt>Total Enrolled</dt>
-        <dd>{{ district.total_enrolled.toLocaleString() }}</dd>
-        <dt>Overall ISP</dt>
+        <dt>District Total Enrolled</dt>
+        <dd>{{ district.total_enrolled | toCount }}</dd>
+        <dt>District-Wide ISP</dt>
         <dd>{{ (district.overall_isp*100).toFixed(1) }}%</dd>
         <dt>
           Estimated Annual Reimbursement Range
@@ -23,17 +29,108 @@
           {{ best_strategy.name }}
           <br />
           <strong>High:</strong>
-          ${{ Math.round(best_strategy.reimbursement.high_end_estimate * 180).toLocaleString({ style: 'currency', currency: 'USD' }) }}
+          {{ (best_strategy.reimbursement.high_end_estimate * schoolDays) | toUSD }}
           <br />
           <strong>Low:</strong>
-          ${{ Math.round(best_strategy.reimbursement.low_end_estimate * 180).toLocaleString({ style: 'currency', currency: 'USD' }) }}
+          {{ (best_strategy.reimbursement.low_end_estimate * schoolDays) | toUSD }}
           <br />
-          <sup>1</sup>Based on 180 days in school year
         </dd>
       </dl>
     </div>
 
-    <div class="row" v-if="district.data != null">
+    <div class="row">
+        <div class="col-sm mb-3">
+            View By 
+            <select v-model="viewMode">
+                <option value="group">Group</option>
+                <option value="table">All Schools</option>
+            </select>
+        </div>
+    </div>
+
+    <div class="row" v-if="district.data != null && viewMode == 'group'">
+      <div class="col-sm accordion" id="groupedDisplay">
+        <div v-for="group in grouped_schools" class="card" v-bind:key="group.id">
+          <div class="card-header" v-bind:id="`card-${group.id}`">
+            <h2 class="mb-0">
+              <button
+                class="btn btn-link collapsed"
+                type="button"
+                data-toggle="collapse"
+                v-bind:data-target="`#collapsegroup-${group.id}`"
+                aria-expanded="false"
+                v-bind:aria-controls="`collapsegroup-${group.id}`">
+                Group {{ group.id }}: {{ group.data.name }}</button>
+            </h2>
+            <ul>
+                <li>Schools: {{ group.schools.length }}</li>
+                <li>Group ISP: {{ (group.data.isp*100).toFixed(1) }}%</li>
+                <li>Group Total Enrolled: {{ group.data.total_enrolled | toCount }}</li>
+                <li>Covered Students: {{ group.data.covered_students | toCount }}</li>
+                <li>Group Total Eligible: {{ group.data.total_eligible | toCount }}</li>
+                <li>Group Reimbursement Estimate: {{ (group.data.est_reimbursement.low * schoolDays) | toUSD }} - {{ (group.data.est_reimbursement.high * schoolDays ) | toUSD }}</li>
+                <li style="color:green" v-if="group.data.cep_eligible">CEP Eligible</li>
+                <li style="color:red" v-else>Not CEP Eligible</li>
+            </ul>
+          </div>
+
+          <div
+            v-bind:id="`collapsegroup-${group.id}`"
+            class="collapse"
+            v-bind:aria-labelledby="`card-${group.id}`"
+            data-parent="#groupedDisplay"
+          >
+            <div class="card-body">
+              <table class="table col-sm">
+                <thead class="thead-dark">
+                  <tr>
+                    <th scope="col" @click="set_sort('school_code')">School Code</th>
+                    <th scope="col" @click="set_sort('school_name')">School Name</th>
+                    <th scope="col">School Type</th>
+                    <th scope="col" @click="set_sort('total_enrolled')">Total Enrolled</th>
+                    <th scope="col">
+                      Total Eligible
+                      <sup>2</sup>
+                    </th>
+                    <th scope="col">
+                      Daily Breakfast Served
+                      <sup>3</sup>
+                    </th>
+                    <th scope="col">
+                      Daily Lunch Served
+                      <sup>3</sup>
+                    </th>
+                    <th scope="col" @click="set_sort('active')">Included in Optimization</th>
+                    <th scope="col" @click="set_sort('isp')">School ISP</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr
+                    v-for="school in group.schools"
+                    v-bind:class="{ inactive: !school.active }"
+                    v-bind:key="school.code"
+                  >
+                    <td>{{ school.school_code }}</td>
+                    <td>{{ school.school_name }}</td>
+                    <td>{{ school.school_type }}</td>
+                    <td>{{ school.total_enrolled | toCount }}</td>
+                    <td>{{ school.total_eligible | toCount }}</td>
+                    <td>{{ school.daily_breakfast_served | toCount }}</td>
+                    <td>{{ school.daily_lunch_served | toCount }}</td>
+                    <td>
+                      <span v-if="school.active">✔️</span>
+                    </td>
+                    <td>{{ (school.isp * 100).toFixed(1) }}%</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="row" v-if="district.data != null && viewMode == 'table'">
       <table class="table col-sm">
         <thead class="thead-dark">
           <tr>
@@ -42,17 +139,25 @@
             <th scope="col" @click="set_sort('school_name')">School Name</th>
             <th scope="col">School Type</th>
             <th scope="col" @click="set_sort('total_enrolled')">Total Enrolled</th>
-            <th scope="col">Total Eligible</th>
-            <th scope="col">Daily Breakfast Served</th>
-            <th scope="col">Daily Lunch Served</th>
+            <th scope="col">
+              Total Eligible
+              <sup>2</sup>
+            </th>
+            <th scope="col">
+              Daily Breakfast Served
+              <sup>3</sup>
+            </th>
+            <th scope="col">
+              Daily Lunch Served
+              <sup>3</sup>
+            </th>
             <th scope="col" @click="set_sort('active')">Included in Optimization</th>
-            <th scope="col" @click="set_sort('isp')">Overall ISP</th>
+            <th scope="col" @click="set_sort('isp')">School ISP</th>
           </tr>
         </thead>
-        <tbody>
+        <tbody v-if="school_form != null">
           <tr
             v-bind:class="{ inactive: !school.active }"
-            v-if="school_form != null"
             v-for="school in ordered_schools"
             v-bind:key="school.code"
           >
@@ -63,28 +168,31 @@
             <td v-if="editMode">
               <input type="number" v-model="school_form[school.school_code].total_enrolled" />
             </td>
-            <td v-else>{{ school.total_enrolled.toLocaleString() }}</td>
+            <td v-else>{{ school.total_enrolled | toCount }}</td>
             <td v-if="editMode">
               <input type="number" v-model="school_form[school.school_code].total_eligible" />
             </td>
-            <td v-else>{{ school.total_eligible.toLocaleString() }}</td>
+            <td v-else>{{ school.total_eligible | toCount }}</td>
             <td v-if="editMode">
               <input type="number" v-model="school_form[school.school_code].daily_breakfast_served" />
             </td>
-            <td v-else>{{ school.daily_breakfast_served.toLocaleString() }}</td>
+            <td v-else>{{ school.daily_breakfast_served | toCount }}</td>
             <td v-if="editMode">
               <input type="number" v-model="school_form[school.school_code].daily_lunch_served" />
             </td>
-            <td v-else>{{ school.daily_lunch_served.toLocaleString() }}</td>
+            <td v-else>{{ school.daily_lunch_served | toCount }}</td>
             <td v-if="editMode">
               <input type="checkbox" v-model="school_form[school.school_code].active" />
             </td>
-            <td v-else><span v-if="school.active">✔️</span></td>
+            <td v-else>
+              <span v-if="school.active">✔️</span>
+            </td>
             <td>{{ (school.isp * 100).toFixed(1) }}%</td>
           </tr>
         </tbody>
       </table>
     </div>
+
     <div>
       <button
         v-if="editMode == false"
@@ -105,6 +213,14 @@
         v-on:click="toggleEdit"
       >cancel</button>
     </div>
+    <div>
+      <sup>1</sup>Based on {{ schoolDays }} days in school year
+      <br />
+      <sup>2</sup>Derived from Direct Certified only
+      <br />
+      <sup>3</sup>From average meals per day April 2019, based upon CFPA SNP Report
+      <br />
+    </div>
   </section>
 </template>
 
@@ -120,6 +236,8 @@ export default {
       sort_desc: false,
       school_form: null,
       editMode: false,
+      viewMode: "group", // or "table"
+      schoolDays: 180,
     };
   },
   computed: {
@@ -132,6 +250,27 @@ export default {
         return districts[0];
       }
       return null;
+    },
+    grouped_schools() {
+      if (this.district == null || this.district.data == undefined) {
+        return [];
+      }
+      const s = this.district.data.strategies[this.district.data.best_index];
+      const grouped = [];
+      const schools = this.ordered_schools;
+      var i = 1;
+      s.groups.forEach(g => {
+        const group = {
+          id: i,
+          data: g,
+          schools: _.filter(schools, s => {
+            return g.school_codes.indexOf(s.school_code) >= 0;
+          })
+        };
+        i++;
+        grouped.push(group);
+      });
+      return grouped;
     },
     ordered_schools() {
       if (this.district == null || this.district.data == undefined) {
@@ -214,7 +353,7 @@ export default {
       }
     },
     toggleEdit() {
-        this.editMode = !this.editMode;
+      this.editMode = !this.editMode;
     }
   }
 };
