@@ -42,7 +42,7 @@ class CEPSchool(object):
         if self.total_eligible > self.total_enrolled:
             self.total_eligible = self.total_enrolled
 
-        if data.get("daily_breakfast_served","").strip():
+        if data.get("daily_breakfast_served",""):
             self.bfast_served_low = int(data.get("daily_breakfast_served"))
             self.lunch_served_low = int(data.get("daily_lunch_served"))
             self.bfast_served_high = int(self.bfast_served_low * EST_BFAST_INCREASE)
@@ -116,6 +116,8 @@ class CEPGroup(object):
 
         if not self.cep_eligible:
             return {"low":0,"high":0}
+
+        # TODO break this out into individual methods
 
         # Identify federal reimbursement rates per this District (see CEP Estimator XLS file)
         bfast_re = (self.free_rate * self.district.fed_reimbursement_rates['free_bfast'] +
@@ -213,6 +215,7 @@ class CEPDistrict(object):
 
     @property
     def overall_isp(self): 
+        if not self.total_enrolled: return 0
         return sum([s.total_eligible for s in self.schools])/self.total_enrolled
 
     @property
