@@ -57,7 +57,7 @@ class ExhaustiveCEPStrategy(BaseCEPStrategy):
                 est_reimbursement = 0
                 # we reference the powerset possible_groups so we don't have to instantiate a bajillion CEPGroup objects
                 for group in x:
-                    est_reimbursement += possible_groups[tuple(group)].est_reimbursement()["low"]
+                    est_reimbursement += possible_groups[tuple(group)].est_reimbursement()
 
                 # Choose the highest reimbursement
                 if est_reimbursement > best_reimbursement:

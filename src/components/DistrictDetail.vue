@@ -1,54 +1,50 @@
 <template>
-  <section class="state-detail container my-3" v-if="district != null">
-    <div class="row">
-      <div class="container">
-        <router-link :to="{name:'state-detail', params: {state:state_code} }">&laquo; Back to state</router-link>
-      </div>
-    </div>
-
-    <div class="row">
-      <h1 class="col-sm">{{ district.name }} ({{ district_code }} - {{ state_code }})</h1>
-    </div>
-
-    <div class="row">
-      <dl class="col-sm">
-        <dt>State</dt>
-        <dd>{{ state_code }}</dd>
-        <dt>District Code</dt>
-        <dd>{{ district_code}}</dd>
-        <dt>District Total Enrolled</dt>
-        <dd>{{ district.total_enrolled | toCount }}</dd>
-        <dt>District-Wide ISP</dt>
-        <dd>{{ (district.overall_isp*100).toFixed(1) }}%</dd>
-        <dt>
-          Estimated Annual Reimbursement Range
-          <sup>1</sup>
-        </dt>
-        <dd v-if="best_strategy != null">
-          <strong>Winning Strategy:</strong>
-          {{ best_strategy.name }}
-          <br />
-          <strong>High:</strong>
-          {{ (best_strategy.reimbursement.high_end_estimate * schoolDays) | toUSD }}
-          <br />
-          <strong>Low:</strong>
-          {{ (best_strategy.reimbursement.low_end_estimate * schoolDays) | toUSD }}
-          <br />
-        </dd>
-      </dl>
-    </div>
-
-    <div class="row">
-        <div class="col-sm mb-3">
-            View By 
-            <select v-model="viewMode">
-                <option value="group">Group</option>
-                <option value="table">All Schools</option>
-            </select>
+  <section class="state-detail my-3" v-if="district != null">
+    <div class="container">
+      <div class="row">
+        <div class="container">
+          <router-link :to="{name:'state-detail', params: {state:state_code} }">&laquo; Back to state</router-link>
         </div>
-    </div>
+      </div>
 
-    <div class="row" v-if="district.data != null && viewMode == 'group'">
+      <div class="row">
+        <h1 class="col-sm">{{ district.name }} ({{ district_code }} - {{ state_code }})</h1>
+      </div>
+
+      <div class="row">
+        <dl class="col-sm">
+          <dt>State</dt>
+          <dd>{{ state_code }}</dd>
+          <dt>District Code</dt>
+          <dd>{{ district_code}}</dd>
+          <dt>District Total Enrolled</dt>
+          <dd>{{ district.total_enrolled | toCount }}</dd>
+          <dt>District-Wide ISP</dt>
+          <dd>{{ (district.overall_isp*100).toFixed(1) }}%</dd>
+          <dt>
+            Estimated Annual Reimbursement Range
+            <sup>1</sup>
+          </dt>
+          <dd v-if="best_strategy != null">
+            {{ (best_strategy.reimbursement * schoolDays) | toUSD }}
+            <br>( optimized with {{ best_strategy.name }} strategy )
+            <br />
+          </dd>
+        </dl>
+      </div>
+
+      <div class="row">
+          <div class="col-sm mb-3">
+              View By 
+              <select v-model="viewMode">
+                  <option value="group">Group</option>
+                  <option value="table">All Schools</option>
+              </select>
+          </div>
+      </div>
+
+    </div> 
+    <div class="row container mx-auto" v-if="district.data != null && viewMode == 'group'">
       <div class="col-sm accordion" id="groupedDisplay">
         <div v-for="group in grouped_schools" class="card" v-bind:key="group.id">
           <div class="card-header" v-bind:id="`card-${group.id}`">
@@ -130,9 +126,31 @@
       </div>
     </div>
 
-    <div class="row" v-if="district.data != null && viewMode == 'table'">
+    <div class="row px-3" v-if="district.data != null && viewMode == 'table'">
       <table class="table col-sm">
         <thead class="thead-dark">
+          <tr>
+            <td colspan="11">
+              <button
+                v-if="editMode == false"
+                class="btn btn-primary"
+                type="button"
+                data-toggle="button"
+                aria-pressed="false"
+                autocomplete="off"
+                v-on:click="toggleEdit"
+              >edit</button>
+              <button
+                v-if="editMode == true"
+                class="btn btn-primary"
+                type="button"
+                data-toggle="button"
+                aria-pressed="true"
+                autocomplete="off"
+                v-on:click="toggleEdit"
+              >cancel</button>
+            </td>
+          </tr>
           <tr>
             <th scope="col" @click="set_sort('grouping')">Recommended Grouping</th>
             <th scope="col" @click="set_sort('school_code')">School Code</th>
@@ -153,6 +171,7 @@
             </th>
             <th scope="col" @click="set_sort('active')">Included in Optimization</th>
             <th scope="col" @click="set_sort('isp')">School ISP</th>
+            <th scope="col">CEP Eligible</th>
           </tr>
         </thead>
         <tbody v-if="school_form != null">
@@ -188,31 +207,12 @@
               <span v-if="school.active">✔️</span>
             </td>
             <td>{{ (school.isp * 100).toFixed(1) }}%</td>
+            <td>{{ (school.isp >= 0.40)?"✔️":"" }}</td>
           </tr>
         </tbody>
       </table>
     </div>
 
-    <div>
-      <button
-        v-if="editMode == false"
-        class="btn btn-primary"
-        type="button"
-        data-toggle="button"
-        aria-pressed="false"
-        autocomplete="off"
-        v-on:click="toggleEdit"
-      >edit</button>
-      <button
-        v-if="editMode == true"
-        class="btn btn-primary"
-        type="button"
-        data-toggle="button"
-        aria-pressed="true"
-        autocomplete="off"
-        v-on:click="toggleEdit"
-      >cancel</button>
-    </div>
     <div>
       <sup>1</sup>Based on {{ schoolDays }} days in school year
       <br />

@@ -16,4 +16,4 @@ RUN npm run build
 FROM base AS release
 COPY --from=npm_build /code/dist/ /code/dist
 
-CMD python /code/server.py
+CMD python /code/server.py --host=0.0.0.0
