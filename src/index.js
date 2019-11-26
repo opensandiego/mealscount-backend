@@ -6,11 +6,12 @@ import Vue from 'vue';
 import App from './components/App.vue'
 import store from './store.js';
 import router from './router.js';
-import { toUSD, toCount } from './filters.js';
+import { toUSD, toCount, toUSDx } from './filters.js';
 
 
 // Register global filters
 Vue.filter('toUSD', toUSD);
+Vue.filter('toUSDx', toUSDx);
 Vue.filter('toCount', toCount );
 
 // App

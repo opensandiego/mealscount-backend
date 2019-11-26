@@ -15,12 +15,15 @@ class ExhaustiveCEPStrategy(BaseCEPStrategy):
         # check district size, if over 10 don't calculates partitions
         # bell number of 10 = 115,975 (15 ~ 1.4 bil;  20 ~ 51.7 tril)
         # if over assign groups like OneToOne (this way it can run on all districts without taking a year)
-        if len(district.schools) > 10:
+        schools = district.schools
+        # Beware, raising this much above 11 makes your RAM go fast 
+        max_count = int(self.params.get("max_count",11))
+        if len(schools) > max_count:
             self.groups = [
                 CEPGroup(district, school.name, [school])
-                for school in district.schools
+                for school in schools
             ]
-        elif len(district.schools) == 0:
+        elif len(schools) == 0:
             self.groups = []
         else:
             def partition(collection):
@@ -46,22 +49,25 @@ class ExhaustiveCEPStrategy(BaseCEPStrategy):
 
             # generate all CEPgroup objects for all possible groups
             possible_groups = {}
-            for i, g in enumerate(powerset(district.schools)):
+            for i, g in enumerate(powerset(schools)):
                 possible_groups[g] = CEPGroup(district, i, list(g))
 
             best_grouping = []
             best_reimbursement = 0
             # generate all partions
-            for x in partition(district.schools):
+            for x in partition(schools):
                 # save grouping with highest reimbursement level
                 est_reimbursement = 0
                 # we reference the powerset possible_groups so we don't have to instantiate a bajillion CEPGroup objects
                 for group in x:
                     est_reimbursement += possible_groups[tuple(group)].est_reimbursement()
+                
+                #print([ [s.code for s in i] for i in x], est_reimbursement, best_reimbursement)
 
                 # Choose the highest reimbursement
                 if est_reimbursement > best_reimbursement:
                     best_grouping = [ possible_groups[tuple(group)] for group in x ]
+                    best_reimbursement = est_reimbursement
 
             self.groups = best_grouping
 

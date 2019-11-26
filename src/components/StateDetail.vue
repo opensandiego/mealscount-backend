@@ -10,9 +10,10 @@
                 <tr>
                   <th scope="col" @click="set_sort('code')">District Code</th>
                   <th scope="col" @click="set_sort('name')">District Name</th>
-                  <th scope="col" @click="set_sort('schools.length')">Schools</th>
+                  <th scope="col" @click="set_sort('school_count')">Schools</th>
                   <th scope="col" @click="set_sort('total_enrolled')">Total Enrolled</th>
                   <th scope="col" @click="set_sort('overall_isp')">Overall ISP</th>
+                  <th>Est. Reimbursement <sup>1</sup></th>
                   <th>Best Strategy</th>
                 </tr>
               </thead>
@@ -26,6 +27,7 @@
                   <td>{{ district.school_count }}</td>
                   <td>{{ district.total_enrolled.toLocaleString() }}</td>
                   <td>{{ (district.overall_isp * 100).toFixed(1) }}%</td>
+                  <td>{{ (district.est_reimbursement * 180) | toUSD }}</td>
                   <td>{{ district.best_strategy }}</td>
                 </tr>
               </tbody>

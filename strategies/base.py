@@ -188,9 +188,11 @@ class CEPGroup(object):
             "total_eligible": self.total_eligible,
             "total_enrolled": self.total_enrolled,
             "free_rate_students": self.covered_students,
-            "paid_rate_students": self.paid_rate * self.total_enrolled,
+            "paid_rate_students": int(self.paid_rate * self.total_enrolled),
             "cep_eligible": self.cep_eligible,
             "est_reimbursement": self.est_reimbursement(),
+            "daily_breakfast_served": self.daily_breakfast_served,
+            "daily_lunch_served": self.daily_lunch_served,
         } 
 
 class CEPDistrict(object):
@@ -230,9 +232,11 @@ class CEPDistrict(object):
             if evaluate_by == "reimbursement":
                 if best == None or s.reimbursement > best.reimbursement: 
                     best = s
-            else:
+            elif evaluate_by == "coverage":
                 if best == None or s.students_covered > best.students_covered: 
                     best = s
+            else:
+                raise Exception("Unknown evaluation: %s" % evaluate_by)
         self.best_strategy = best
 
     def __eq__(self,other_district):
@@ -265,7 +269,9 @@ class CEPDistrict(object):
             "total_enrolled": self.total_enrolled,
             "overall_isp": self.overall_isp,
             "school_count": len(self.schools),
-            "best_strategy": self.best_strategy and self.best_strategy.name or None
+            "best_strategy": self.best_strategy and self.best_strategy.name or None,
+            "est_reimbursement": self.best_strategy and self.best_strategy.reimbursement or 0.0,
+            'rates': self.fed_reimbursement_rates,
         }
         if include_schools:
             result["schools"] = [ s.as_dict() for s in self._schools]
@@ -326,8 +332,8 @@ class BaseCEPStrategy(ABC):
 
     @property
     def reimbursement(self):
-        group_reimbursements  = [g.est_reimbursement() for g in self.groups]
-        return sum([g for g in group_reimbursements])
+        r = sum([g.est_reimbursement() for g in self.groups])
+        return r
 
     def as_dict(self):
         return {

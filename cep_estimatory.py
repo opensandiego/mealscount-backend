@@ -39,6 +39,7 @@ def parse_strategy(strategy):
 @click.option("--list-strategies",default=False,is_flag=True,help="Display all available strategies and exit")
 @click.option("--output-json",default=None,help="If Specified, output will stored in filename specified in JSON format (defaults to output.json)")
 @click.option("--output-folder",default=None,help="Folder to output per-district json and district overview json for website")
+@click.option("--evaluate-by",default="reimbursement",help="Optimize by reimbursement or coverage")
 @click.argument("cupc_csv_file",nargs=1)
 @click.argument("strategies",nargs=-1)
 def cli(    cupc_csv_file,
@@ -49,7 +50,8 @@ def cli(    cupc_csv_file,
             min_schools=None,
             list_strategies=False,
             output_json=None,
-            output_folder=None ):
+            output_folder=None,
+            evaluate_by="reimbursement" ):
     """CEP Estimator - runs strategies for grouping School Districts into optimial CEP coverage
 
 To run, specify the schools/districts CSV file, as well as any number of strategies (use --list-strategies to see those available)
@@ -105,7 +107,7 @@ Expected CSV File columns
     with click.progressbar(districts,label='Running Strategies on Districts') as bar:
         for district in bar:
             district.run_strategies() 
-            district.evaluate_strategies()
+            district.evaluate_strategies(evaluate_by=evaluate_by)
 
     data = []   
     for district in districts: 
