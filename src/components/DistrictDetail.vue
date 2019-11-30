@@ -152,6 +152,15 @@
                 data-toggle="button"
                 aria-pressed="true"
                 autocomplete="off"
+                v-on:click="submit"
+              >submit</button>
+              <button
+                v-if="editMode == true"
+                class="btn btn-primary"
+                type="button"
+                data-toggle="button"
+                aria-pressed="true"
+                autocomplete="off"
                 v-on:click="toggleEdit"
               >cancel</button>
             </td>
@@ -359,6 +368,10 @@ export default {
     },
     toggleEdit() {
       this.editMode = !this.editMode;
+    },
+    submit(){
+      console.log("Submitting for optimization",this.school_form) 
+      this.$store.dispatch("run_district",this.school_form);
     }
   }
 };

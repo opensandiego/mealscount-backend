@@ -24,18 +24,19 @@ EST_LUNCH_INCREASE = 1.02 # TODO verify
 
 class CEPSchool(object):
     def __init__(self,data):
-        self.district = data['District Name']
-        self.district_code = data['District Code']
+        # TODO move these explicit column names to 
+        # separate method, and let us initialize a bit more simply
         self.name = data['School Name']
         self.code = data['School Code']
-        self.school_type = data['School Type']
+        self.school_type = data.get('School Type','n/a')
         self.active = data.get("include_in_mealscount","true").lower() == "true"
         self.foster = i(data.get('foster',0))
         self.homeless = i(data.get('homeless',0))
         self.migrant = i(data.get('migrant',0))
         self.direct_cert = i(data.get('direct_cert',0))
         self.frpm = i(data.get('unduplicated_frpm',0))
-        self.total_eligible = self.direct_cert 
+        self.total_eligible = data.get('total_eligible',self.direct_cert )
+
         # NOTE based upon California data, total eligible is "direct_cert", but still in progress!
         #i(data.get('unduplicated_frpm',0)) # (self.foster + self.homeless + self.migrant + self.direct_cert)
         self.total_enrolled = i(data['total_enrolled'])

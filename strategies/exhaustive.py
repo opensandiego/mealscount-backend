@@ -17,7 +17,7 @@ class ExhaustiveCEPStrategy(BaseCEPStrategy):
         # if over assign groups like OneToOne (this way it can run on all districts without taking a year)
         schools = district.schools
         # Beware, raising this much above 11 makes your RAM go fast 
-        max_count = int(self.params.get("max_count",11))
+        max_count = int(self.params.get("max_count",10))
         if len(schools) > max_count:
             self.groups = [
                 CEPGroup(district, school.name, [school])

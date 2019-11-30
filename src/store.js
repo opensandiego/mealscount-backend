@@ -45,9 +45,9 @@ export default new Vuex.Store({
                 commit("set_district",d);
             })
         },
-        rerun_district( {commit,dispatch}, district_param ){
-            const url = `/api/districts/${district_param.state}/${district_param.code}/`;
-            axios.post(url,district_param).then( resp => {
+        run_district( {commit,dispatch}, schools ){
+            const url = `/api/districts/optimize/`;
+            axios.post(url,schools).then( resp => {
                 const d = resp.data;
                 console.log("Updated optimization",d);
             });

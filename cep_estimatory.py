@@ -14,13 +14,14 @@ def parse_districts(school_data,strategies):
     districts = {}
     for row in school_data:
         school = CEPSchool(row)
-        if school.district not in districts:
-            district = CEPDistrict(school.district,school.district_code)
+        district_name,district_code = row['District Name'],row['District Code']
+        if district_name not in districts:
+            district = CEPDistrict(district_name,district_code)
             for s in strategies:
                 StrategyClass,params,strategy_name = s
                 district.strategies.append( StrategyClass(params,name=strategy_name) )
-            districts.setdefault(school.district,district)
-        districts[school.district].add_school(school)
+            districts.setdefault(district_name,district)
+        districts[district_name].add_school(school)
     districts = list([d for d in districts.values() if len(d.schools)> 0])
     districts.sort()
     return districts

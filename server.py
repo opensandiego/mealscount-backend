@@ -1,5 +1,4 @@
-from flask import Flask, jsonify, render_template
-from flask_caching import Cache
+from flask import Flask, jsonify, render_template, request
 from flask_cors import CORS
 from werkzeug.routing import BaseConverter
 
@@ -13,8 +12,6 @@ class RegexConverter(BaseConverter):
         super(RegexConverter, self).__init__(url_map)
         self.regex = items[0]
 
-cache = Cache()
-
 # API Stuff - TODO move to its own module
 import csv,codecs
 from cep_estimatory import parse_districts   
@@ -25,29 +22,6 @@ app = Flask(__name__,
             template_folder = "./dist")
 app.config.from_object(__name__)
 app.url_map.converters['regex'] = RegexConverter
-
-cache_servers = os.environ.get('MEMCACHIER_SERVERS')
-if cache_servers == None:
-    cache.init_app(app, config={'CACHE_TYPE': 'simple'})
-else:
-    cache_user = os.environ.get('MEMCACHIER_USERNAME') or ''
-    cache_pass = os.environ.get('MEMCACHIER_PASSWORD') or ''
-    cache.init_app(app,
-        config={'CACHE_TYPE': 'saslmemcached',
-                'CACHE_MEMCACHED_SERVERS': cache_servers.split(','),
-                'CACHE_MEMCACHED_USERNAME': cache_user,
-                'CACHE_MEMCACHED_PASSWORD': cache_pass,
-                'CACHE_OPTIONS': { 'behaviors': {
-                    'tcp_nodelay': True,
-                    'tcp_keepalive': True,
-                    'connect_timeout': 2000, # ms
-                    'send_timeout': 750 * 1000, # us
-                    'receive_timeout': 750 * 1000, # us
-                    '_poll_timeout': 2000, # ms
-                    'ketama': True,
-                    'remove_failed': 1,
-                    'retry_timeout': 2,
-                    'dead_timeout': 30}}})
 
 # Do i want this?
 #CORS(app, resources={r'/api/*': {'origins': '*'}})
@@ -82,6 +56,32 @@ def add_strategies(district,*strategies):
         Klass,params,name = parse_strategy(s) 
         district.strategies.append( Klass(params,name) )
 
+@app.route("/api/districts/optimize/", methods=['POST'])
+def optimize():
+    schools = request.json
+    district = CEPDistrict("adhoc","adhoc")
+    i = 1 
+    for k in schools:
+        # Expecting { school_code: {active, daily_breakfast_served,daily_lunch_served,total_eligible,total_enrolled }}
+        row = schools[k]
+        # TODO rework how we initialize CEPSchool
+        row["School Name"] = k
+        row["School Code"] = i
+        row['include_in_mealscount'] = row['active'] and 'true' or 'false'
+        i += 1
+        district.add_school(CEPSchool(schools[k]))
+
+    # TODO allow this as a param
+    add_strategies(
+        district,
+        *["Pairs","OneToOne","Exhaustive","OneGroup","Spread","Binning"]
+    )
+
+    district.run_strategies()
+    district.evaluate_strategies()
+
+    return district.as_dict()
+
 @app.route('/api/districts/<regex("[a-z]{2}"):state>/<regex("[a-zA-Z0-9]+"):code>/', methods=['POST'])
 def district(state,code):
     district_params = request.json 
@@ -95,7 +95,7 @@ def district(state,code):
 
 # sanity check route
 @app.route('/', defaults={'path':''})
-@app.route('/<path:path>')
+#@app.route('/<path:path>')
 def catch_all(path):
     return render_template('index.html')
 
