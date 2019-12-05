@@ -58,8 +58,10 @@ def add_strategies(district,*strategies):
 
 @app.route("/api/districts/optimize/", methods=['POST'])
 def optimize():
-    schools = request.json
-    district = CEPDistrict("adhoc","adhoc")
+    schools = request.json["schools"]
+    district = CEPDistrict(request.json["name"],request.json["code"])
+    state = request.json["state_code"]
+
     i = 1 
     for k in schools:
         # Expecting { school_code: {active, daily_breakfast_served,daily_lunch_served,total_eligible,total_enrolled }}
@@ -80,7 +82,9 @@ def optimize():
     district.run_strategies()
     district.evaluate_strategies()
 
-    return district.as_dict()
+    result = district.as_dict()
+    result["state_code"] = state
+    return result
 
 @app.route('/api/districts/<regex("[a-z]{2}"):state>/<regex("[a-zA-Z0-9]+"):code>/', methods=['POST'])
 def district(state,code):

@@ -35,7 +35,7 @@ class CEPSchool(object):
         self.migrant = i(data.get('migrant',0))
         self.direct_cert = i(data.get('direct_cert',0))
         self.frpm = i(data.get('unduplicated_frpm',0))
-        self.total_eligible = data.get('total_eligible',self.direct_cert )
+        self.total_eligible = i(data.get('total_eligible',self.direct_cert ))
 
         # NOTE based upon California data, total eligible is "direct_cert", but still in progress!
         #i(data.get('unduplicated_frpm',0)) # (self.foster + self.homeless + self.migrant + self.direct_cert)

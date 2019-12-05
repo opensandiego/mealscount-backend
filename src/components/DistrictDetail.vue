@@ -3,7 +3,9 @@
     <div class="container">
       <div class="row">
         <div class="container">
-          <router-link :to="{name:'state-detail', params: {state:state_code} }">&laquo; Back to state</router-link>
+          <router-link
+            :to="{name:'state-detail', params: {state:state_code} }"
+          >&laquo; Back to state</router-link>
         </div>
       </div>
 
@@ -18,33 +20,33 @@
           <dt>District Code</dt>
           <dd>{{ district_code}}</dd>
           <dt>District Total Enrolled</dt>
-          <dd>{{ district.total_enrolled | toCount }}</dd>
+          <dd v-if="district_data != null">{{ district_data.total_enrolled | toCount }}</dd>
           <dt>District-Wide ISP</dt>
-          <dd>{{ (district.overall_isp*100).toFixed(1) }}%</dd>
+          <dd v-if="district_data != null">{{ (district_data.overall_isp*100).toFixed(1) }}%</dd>
           <dt>
             Estimated Annual Reimbursement Range
             <sup>1</sup>
           </dt>
           <dd v-if="best_strategy != null">
             {{ (best_strategy.reimbursement * schoolDays) | toUSD }}
-            <br>( optimized with {{ best_strategy.name }} strategy )
+            <br />
+            ( optimized with {{ best_strategy.name }} strategy )
             <br />
           </dd>
         </dl>
       </div>
 
       <div class="row">
-          <div class="col-sm mb-3">
-              View By 
-              <select v-model="viewMode">
-                  <option value="group">Group</option>
-                  <option value="table">All Schools</option>
-              </select>
-          </div>
+        <div class="col-sm mb-3">
+          View By
+          <select v-model="viewMode">
+            <option value="group">Group</option>
+            <option value="table">All Schools</option>
+          </select>
+        </div>
       </div>
-
-    </div> 
-    <div class="row container mx-auto" v-if="district.data != null && viewMode == 'group'">
+    </div>
+    <div class="row container mx-auto" v-if="district_data != null && viewMode == 'group'">
       <div class="col-sm accordion" id="groupedDisplay">
         <div v-for="group in grouped_schools" class="card" v-bind:key="group.id">
           <div class="card-header" v-bind:id="`card-${group.id}`">
@@ -55,21 +57,27 @@
                 data-toggle="collapse"
                 v-bind:data-target="`#collapsegroup-${group.id}`"
                 aria-expanded="false"
-                v-bind:aria-controls="`collapsegroup-${group.id}`">
-                Group {{ group.id }}: {{ group.data.name }}</button>
+                v-bind:aria-controls="`collapsegroup-${group.id}`"
+              >Group {{ group.id }}: {{ group.data.name }}</button>
             </h2>
             <ul>
-                <li>Schools: {{ group.schools.length }}</li>
-                <li>Group ISP: {{ (group.data.isp*100).toFixed(1) }}%</li>
-                <li>Students: {{ group.data.total_eligible | toCount }} Identified Students of {{ group.data.total_enrolled | toCount }} Enrolled</li>
-                <li>Daily Meals Served: {{ group.data.daily_breakfast_served }} breakfasts, {{ group.data.daily_lunch_served }} lunches</li>
-                <li>Breakfast Reimbursement Rates: {{ district.rates.free_bfast | toUSDx }} / {{ district.rates.paid_bfast | toUSDx }}</li>
-                <li>Lunch Reimbursement Rates: {{ district.rates.free_lunch | toUSDx }} / {{ district.rates.paid_lunch | toUSDx }}
-                <li>Group Annual Reimbursement Estimate: {{ (group.data.est_reimbursement * schoolDays) | toUSD }} ( {{ group.data.est_reimbursement | toUSD }} per day)</li>
-                <li style="color:green" v-if="group.data.cep_eligible">Group CEP Eligible</li>
-                <li style="color:red" v-else>Not CEP Eligible</li>
-                <li style="color:green" v-if="group.data.isp >= 0.625">All meals reimbursed at the free rate</li>
-                <li style="color:green" v-if="group.data.isp < 0.625 && group.data.isp >= 0.4">Partial Coverage</li>
+              <li>Schools: {{ group.schools.length }}</li>
+              <li>Group ISP: {{ (group.data.isp*100).toFixed(1) }}%</li>
+              <li>Students: {{ group.data.total_eligible | toCount }} Identified Students of {{ group.data.total_enrolled | toCount }} Enrolled</li>
+              <li>Daily Meals Served: {{ group.data.daily_breakfast_served }} breakfasts, {{ group.data.daily_lunch_served }} lunches</li>
+              <li>Breakfast Reimbursement Rates: {{ district.rates.free_bfast | toUSDx }} / {{ district.rates.paid_bfast | toUSDx }}</li>
+              <li>Lunch Reimbursement Rates: {{ district.rates.free_lunch | toUSDx }} / {{ district.rates.paid_lunch | toUSDx }}</li>
+              <li>Group Annual Reimbursement Estimate: {{ (group.data.est_reimbursement * schoolDays) | toUSD }} ( {{ group.data.est_reimbursement | toUSD }} per day)</li>
+              <li style="color:green" v-if="group.data.cep_eligible">Group CEP Eligible</li>
+              <li style="color:red" v-else>Not CEP Eligible</li>
+              <li
+                style="color:green"
+                v-if="group.data.isp >= 0.625"
+              >All meals reimbursed at the free rate</li>
+              <li
+                style="color:green"
+                v-if="group.data.isp < 0.625 && group.data.isp >= 0.4"
+              >Partial Coverage</li>
             </ul>
           </div>
 
@@ -129,7 +137,7 @@
       </div>
     </div>
 
-    <div class="row px-3" v-if="district.data != null && viewMode == 'table'">
+    <div class="row px-3" v-if="district_data != null && viewMode == 'table'">
       <table class="table col-sm">
         <thead class="thead-dark">
           <tr>
@@ -226,7 +234,8 @@
     </div>
 
     <div>
-      <sup>1</sup>Based on {{ schoolDays }} days in school year
+      <sup>1</sup>
+      Based on {{ schoolDays }} days in school year
       <br />
       <sup>2</sup>Derived from Direct Certified only
       <br />
@@ -248,7 +257,7 @@ export default {
       sort_desc: false,
       school_form: null,
       editMode: false,
-      viewMode: "group", // or "table"
+      viewMode: "table", // or "group"
       schoolDays: 180,
     };
   },
@@ -263,11 +272,23 @@ export default {
       }
       return null;
     },
-    grouped_schools() {
+    edited(){
+      return this.district != null && this.district.edited != undefined;
+    },
+    district_data() {
       if (this.district == null || this.district.data == undefined) {
+        return null;
+      }
+      if(this.district.edited == undefined){
+        return this.district.data;
+      }
+      return this.district.edited;
+    },
+    grouped_schools() {
+      if (this.district == null || this.district_data == null) {
         return [];
       }
-      const s = this.district.data.strategies[this.district.data.best_index];
+      const s = this.district_data.strategies[this.district_data.best_index];
       const grouped = [];
       const schools = this.ordered_schools;
       var i = 1;
@@ -285,10 +306,10 @@ export default {
       return _.orderBy( grouped, ['data.isp'], 'desc');
     },
     ordered_schools() {
-      if (this.district == null || this.district.data == undefined) {
+      if (this.district == null || this.district_data == null) {
         return [];
       }
-      const schools = this.district.data.schools;
+      const schools = this.district_data.schools;
       schools.forEach(s => {
         s.grouping = this.best_group_index[s.school_code];
       });
@@ -299,13 +320,13 @@ export default {
       );
     },
     best_strategy() {
-      if (this.district == null || this.district.data == null) {
+      if (this.district == null || this.district_data == null) {
         return null;
       }
-      if (!this.district.data.strategies) {
+      if (!this.district_data.strategies) {
         return null;
       }
-      return this.district.data.strategies[this.district.data.best_index];
+      return this.district_data.strategies[this.district_data.best_index];
     },
     best_group_index() {
       if (this.best_strategy == null) {
@@ -323,29 +344,20 @@ export default {
     }
   },
   watch: {
-    ordered_schools(newVal, oldVal) {
-      if (this.school_form == null && newVal != null && newVal.length > 0) {
-        console.log("adding schools");
-        this.school_form = {};
-        newVal.forEach(school => {
-          this.school_form[school.school_code] = {
-            total_enrolled: school.total_enrolled,
-            total_eligible: school.total_eligible,
-            daily_breakfast_served: school.daily_breakfast_served,
-            daily_lunch_served: school.daily_lunch_served,
-            active: school.active
-          };
-        });
-      }
-    },
     district(newVal, oldVal) {
-      if (this.district != null && this.district.data == null) {
+      if (this.district != null && this.district_data == null) {
         this.loadDistrictData();
       }
+    },
+    district_data( newVal, oldVal) {
+      if(newVal != null){
+        this.init_school_form();
+      }
+
     }
   },
   mounted() {
-    if (this.district != null && this.district.data == null) {
+    if (this.district != null && this.district_data == null) {
       this.loadDistrictData();
     }
   },
@@ -354,6 +366,19 @@ export default {
       this.$store.dispatch("load_district", {
         code: this.district_code,
         state: this.state_code
+      });
+    },
+    init_school_form(){
+      console.log("adding schools");
+      this.school_form = {};
+      this.ordered_schools.forEach(school => {
+          this.school_form[school.school_code] = {
+            total_enrolled: school.total_enrolled,
+            total_eligible: school.total_eligible,
+            daily_breakfast_served: school.daily_breakfast_served,
+            daily_lunch_served: school.daily_lunch_served,
+            active: school.active
+          };
       });
     },
     set_sort(col) {
@@ -369,7 +394,13 @@ export default {
     },
     submit(){
       console.log("Submitting for optimization",this.school_form) 
-      this.$store.dispatch("run_district",this.school_form);
+      const district_info = {
+        schools: this.school_form,
+        code: this.district_code,
+        name: this.district.name,
+        state_code: this.state_code,
+      }
+      this.$store.dispatch("run_district",district_info);
     }
   }
 };

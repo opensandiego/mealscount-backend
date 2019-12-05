@@ -5,6 +5,7 @@ import CEP from "./components/CEP.vue";
 import Contact from "./components/Contact.vue";
 import StateDetail from "./components/StateDetail.vue";
 import DistrictDetail from "./components/DistrictDetail.vue";
+import EditDistrict from "./components/EditDistrict.vue";
 import Vue from 'vue';
 import Router from 'vue-router';
 Vue.use(Router)
