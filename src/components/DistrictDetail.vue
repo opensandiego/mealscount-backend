@@ -61,16 +61,14 @@
             <ul>
                 <li>Schools: {{ group.schools.length }}</li>
                 <li>Group ISP: {{ (group.data.isp*100).toFixed(1) }}%</li>
-                <li>Students: {{ group.data.total_eligible | toCount }} Eligible of {{ group.data.total_enrolled | toCount }} Enrolled</li>
+                <li>Students: {{ group.data.total_eligible | toCount }} Identified Students of {{ group.data.total_enrolled | toCount }} Enrolled</li>
                 <li>Daily Meals Served: {{ group.data.daily_breakfast_served }} breakfasts, {{ group.data.daily_lunch_served }} lunches</li>
-                <li>Students with Free Rate: {{ group.data.free_rate_students | toCount }}</li>
-                <li>Students with Paid Rate: {{ group.data.paid_rate_students | toCount }}</li>
                 <li>Breakfast Reimbursement Rates: {{ district.rates.free_bfast | toUSDx }} / {{ district.rates.paid_bfast | toUSDx }}</li>
                 <li>Lunch Reimbursement Rates: {{ district.rates.free_lunch | toUSDx }} / {{ district.rates.paid_lunch | toUSDx }}
                 <li>Group Annual Reimbursement Estimate: {{ (group.data.est_reimbursement * schoolDays) | toUSD }} ( {{ group.data.est_reimbursement | toUSD }} per day)</li>
-                <li style="color:green" v-if="group.data.cep_eligible">CEP Eligible</li>
+                <li style="color:green" v-if="group.data.cep_eligible">Group CEP Eligible</li>
                 <li style="color:red" v-else>Not CEP Eligible</li>
-                <li style="color:green" v-if="group.data.isp >= 0.625">Full Coverage</li>
+                <li style="color:green" v-if="group.data.isp >= 0.625">All meals reimbursed at the free rate</li>
                 <li style="color:green" v-if="group.data.isp < 0.625 && group.data.isp >= 0.4">Partial Coverage</li>
             </ul>
           </div>
@@ -185,7 +183,7 @@
             </th>
             <th scope="col" @click="set_sort('active')">Included in Optimization</th>
             <th scope="col" @click="set_sort('isp')">School ISP</th>
-            <th scope="col">CEP Eligible</th>
+            <th scope="col">School CEP Eligible</th>
           </tr>
         </thead>
         <tbody v-if="school_form != null">

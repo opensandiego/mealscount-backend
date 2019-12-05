@@ -6,7 +6,7 @@
     "watch": "webpack --watch",
     "build": "webpack",
     "postinstall": "webpack && python cep_estimatory.py data/ca/latest.csv OneToOne OneGroup Binning Exhaustive Spread Pairs --output-folder dist/static/ca/",
-    "local_dev":"concurrently \"npm run watch\" \"FLASK_ENV=development python server.py\"",
+    "local_dev":"concurrently \"npm run watch\" \"FLASK_ENV=development venv/bin/python server.py\"",
     "docker_dev":"concurrently \"npm run watch\" \"gunicorn server:app\""
   },
   "author": "Nikolaj Baer",

@@ -246,3 +246,4 @@ output.json
 node_modules/
 dist/
 data/*/districts.json
+working/
