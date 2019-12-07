@@ -67,8 +67,9 @@ def optimize():
         # Expecting { school_code: {active, daily_breakfast_served,daily_lunch_served,total_eligible,total_enrolled }}
         row = schools[k]
         # TODO rework how we initialize CEPSchool
-        row["School Name"] = k
-        row["School Code"] = i
+        row["School Name"] = row["name"]
+        row["School Code"] = row["code"]
+        row["School Type"] = row["type"]
         row['include_in_mealscount'] = row['active'] and 'true' or 'false'
         i += 1
         district.add_school(CEPSchool(schools[k]))

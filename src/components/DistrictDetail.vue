@@ -169,6 +169,8 @@
                 autocomplete="off"
                 v-on:click="toggleEdit"
               >cancel</button>
+
+              <span class="badge badge-secondary" v-if="edited">Edited, refresh to clear</span>
             </td>
           </tr>
           <tr>
@@ -373,6 +375,9 @@ export default {
       this.school_form = {};
       this.ordered_schools.forEach(school => {
           this.school_form[school.school_code] = {
+            name: school.school_name,
+            code: school.school_code,
+            type: school.school_type,
             total_enrolled: school.total_enrolled,
             total_eligible: school.total_eligible,
             daily_breakfast_served: school.daily_breakfast_served,
@@ -400,6 +405,7 @@ export default {
         name: this.district.name,
         state_code: this.state_code,
       }
+      // TODO add reimbursement rates, % increase, SFA Cert
       this.$store.dispatch("run_district",district_info);
     }
   }
