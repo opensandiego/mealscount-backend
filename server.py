@@ -2,6 +2,7 @@ from flask import Flask, jsonify, render_template, request
 from flask_cors import CORS
 from flask_talisman import Talisman
 from werkzeug.routing import BaseConverter
+from urllib.parse import urlparse
 import os
 
 import csv,codecs,os,os.path
