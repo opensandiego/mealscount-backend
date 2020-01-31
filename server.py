@@ -1,6 +1,8 @@
 from flask import Flask, jsonify, render_template, request
 from flask_cors import CORS
+from flask_talisman import Talisman
 from werkzeug.routing import BaseConverter
+import os
 
 import csv,codecs,os,os.path
 from strategies.base import CEPDistrict,CEPSchool
@@ -103,6 +105,21 @@ def district(state,code):
 #@app.route('/<path:path>')
 def catch_all(path):
     return render_template('index.html')
+
+
+if "DYNO" in os.environ:
+    # If we are in the heroku environment
+    # Let's do some productiony things
+    # Force SSL
+    Talisman(app) 
+
+    # And force www.mealscount.com
+    @app.before_request
+    def redirect_nonwww():
+        """Redirect non-www requests to www."""
+        urlparts = urlparse(request.url)
+        if urlparts.netloc != 'www.mealscount.com':
+            return redirect('https://www.mealscount.com/', code=301)
 
 if __name__ == '__main__':
     app.run()
