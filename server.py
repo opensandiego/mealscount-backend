@@ -116,7 +116,8 @@ if "DYNO" in os.environ:
     # If we are in the heroku environment
     # Let's do some productiony things
     # Force SSL
-    Talisman(app) 
+    Talisman(app,content_security_policy=None) 
+    # TODO get webpack and vue sorted for CSP
 
     # And force www.mealscount.com
     @app.before_request
