@@ -256,14 +256,13 @@
             <td>{{ (school.isp * 100).toFixed(1) }}%</td>
             <td>{{ (school.isp >= 0.40)?"✔️":"" }}</td>
           </tr>
-          <!--
           <tr v-if="editMode == true" class="add_row">
             <td>Add School:</td>
-            <td><input type="text" name="school_code" placeholder="School Code" /></td>
-            <td><input type="text" name="school_name" placeholder="School Name" /></td>
-            <td><input type="text" name="school_type" value="Public" /></td>
-            <td colspan="7"><button class="btn btn-primary">Add</button></td>
-          </tr> -->
+            <td><input type="text" v-model="new_school_to_add.code" name="school_code" placeholder="School Code" /></td>
+            <td><input type="text" v-model="new_school_to_add.name" name="school_name" placeholder="School Name" /></td>
+            <td><input type="text" v-model="new_school_to_add.type" name="school_type" value="Public" /></td>
+            <td colspan="7"><button v-on:click="add_school" class="btn btn-primary">Add</button></td>
+          </tr>
         </tbody>
       </table>
     </div>
@@ -297,6 +296,9 @@ export default {
       scenario_name: '',
       saved_scenarios: [],
       scenario_to_load: null,
+      new_school_to_add: {
+        code:'',name:'',type:''
+      },
     };
   },
   computed: {
@@ -432,19 +434,24 @@ export default {
           };
       });
     },
-    save_school_form(name){
-      const data = JSON.stringify(this.school_form);
+    save_school_data(name){
+      const data = JSON.stringify(this.district_data.schools);
       localStorage.setItem(name,data);
       if( !_.includes(this.scenarios,name) ){
         this.saved_scenarios.push(name);
         this.save_scenario_list();
       }
     },
-    load_school_form(name){
+    load_school_data(name){
       if(localStorage.getItem(name)){
         try{
-          this.school_form = JSON.parse(localStorage.getItem(name));
+          // preserve initial loaded data
+          if(! this.district_data.original_schools){
+            this.district_data.original_schools = this.district_data.schools;
+          }
+          this.district_data.schools = JSON.parse(localStorage.getItem(name));
           this.scenario_name = name;
+          this.init_school_form();
           if(!this.editMode){
             this.toggleEdit()
           }
@@ -470,14 +477,14 @@ export default {
         alert("Please enter a scenario name");
         return;
       }
-      this.save_school_form(this.scenario_name);
+      this.save_school_data(this.scenario_name);
     },
     handle_load_scenario(){
       if(!this.scenario_to_load){
         alert("Please select a scenario to load");
         return;
       }
-      this.load_school_form(this.scenario_to_load);
+      this.load_school_data(this.scenario_to_load);
     },
     set_sort(col) {
       if (col == this.sort_col) {
@@ -500,6 +507,41 @@ export default {
       }
       // TODO add reimbursement rates, % increase, SFA Cert
       this.$store.dispatch("run_district",district_info);
+    },
+    add_school(){
+      const new_school = {
+        name: this.new_school_to_add.name,
+        code: this.new_school_to_add.code,
+        type: this.new_school_to_add.type,
+        total_enrolled: 1,
+        total_eligible: 1,
+        daily_breakfast_served: 1,
+        daily_lunch_served: 1,
+        active: true
+      }
+      if(this.school_form[new_school.code]){
+        alert("School with this code already exists, please edit that row");
+        return;
+      }
+      this.school_form[new_school.code] = new_school;
+      // TODO unify school_form and district_data?
+      const school_data = {
+        school_name: this.new_school_to_add.name,
+        school_code: this.new_school_to_add.code,
+        school_type: this.new_school_to_add.type,
+        active: true,
+        total_enrolled: 1,
+        total_eligible: 1,
+        grouping: null,
+        isp: 1,
+        daily_breakfast_served: 1,
+        daily_lunch_served: 1,
+      }
+      this.district_data.schools.push( school_data );
+      // console.log("Adding to school_form",new_school);
+      this.new_school_to_add.code='';
+      this.new_school_to_add.name='';
+      this.new_school_to_add.type='';
     }
   }
 };
