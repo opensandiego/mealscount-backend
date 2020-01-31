@@ -109,6 +109,10 @@ def catch_all(path):
 
 
 if "DYNO" in os.environ:
+    # INiti Sentry
+    import sentry_sdk
+    sentry_sdk.init(os.environ["SENTRY_DSN"])
+
     # If we are in the heroku environment
     # Let's do some productiony things
     # Force SSL
