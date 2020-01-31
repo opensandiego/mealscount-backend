@@ -46,6 +46,20 @@
         </div>
       </div>
     </div>
+
+    <div class="row">
+      <div class="col-sm">
+        <div class="alert alert-primary" role="alert">
+          <strong>PLEASE NOTE</strong>
+          The data shown for this district is from the 2018-2019 CALPADS aggregate data, as well as April 2019 meals average meals data.
+          ISP numbers are for <strong>Direct Certification Only</strong>. Your district's numbers may be significantly higher. 
+          Some charter schools may be included, and some preschool schools may be missing, based upon the school data we receive from CALPADS.
+          To get the best recommended grouping, the school listing and ISP numbers should be modified to match the reality of your school.
+          For more information or questions, please <a href="https://cfpa.net/">Contact Us</a>!
+        </div>
+      </div>
+    </div>
+
     <div class="row container mx-auto" v-if="district_data != null && viewMode == 'group'">
       <div class="col-sm accordion" id="groupedDisplay">
         <div v-for="group in grouped_schools" class="card" v-bind:key="group.id">
@@ -231,6 +245,14 @@
             <td>{{ (school.isp * 100).toFixed(1) }}%</td>
             <td>{{ (school.isp >= 0.40)?"✔️":"" }}</td>
           </tr>
+          <!--
+          <tr v-if="editMode == true" class="add_row">
+            <td>Add School:</td>
+            <td><input type="text" name="school_code" placeholder="School Code" /></td>
+            <td><input type="text" name="school_name" placeholder="School Name" /></td>
+            <td><input type="text" name="school_type" value="Public" /></td>
+            <td colspan="7"><button class="btn btn-primary">Add</button></td>
+          </tr> -->
         </tbody>
       </table>
     </div>
@@ -419,5 +441,12 @@ tr.inactive {
 }
 input {
   width: 4em;
+}
+
+tr.add_row {
+  background-color: #eee;
+}
+tr.add_row td input {
+  width: 100%;
 }
 </style>
