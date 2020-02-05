@@ -542,7 +542,23 @@ export default {
       this.new_school_to_add.code='';
       this.new_school_to_add.name='';
       this.new_school_to_add.type='';
+    },
+    handleScroll (event) {
+      /* TODO attach to table header 
+      const sticky
+      if (window.pageYOffset > sticky) {
+        header.classList.add("sticky");
+      } else {
+        header.classList.remove("sticky");
+      }
+      */
     }
+  },
+  created () {
+    window.addEventListener('scroll', this.handleScroll);
+  },
+  destroyed () {
+    window.removeEventListener('scroll', this.handleScroll);
   }
 };
 </script>
