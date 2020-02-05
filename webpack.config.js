@@ -58,4 +58,13 @@ module.exports = {
       inject: true,
     }),
   ],
+  devServer: {
+    contentBase: path.join(__dirname, 'dist'),
+    historyApiFallback: true,
+    hot: true,
+    proxy: {
+      '/api': { target:'https://www.mealscount.com/', changeOrigin: true  },
+      '/static': { target:'https://www.mealscount.com/', changeOrigin: true }
+    }
+  }
 }
