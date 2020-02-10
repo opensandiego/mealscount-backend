@@ -15,25 +15,47 @@ We are still in the process of understanding how to best to deliver and facilita
 
 # MealsCount Anatomy
 
-The current iteration of MealsCount is centered on the "validate" branch (where you are now), and centered on the "cep_estimatory.py" file, which is a command line utility.
+The current iteration of MealsCount is centered on the "validate" branch (where you are now), and centered on the python classes in the module "strategies", as well as a web frontend for browsing.
+
+The python toolset can either be run from the example Jupyter notebook, the command line tool "cep_estimatory.py" script, or via a REST API from the server.py flask app.
+
+There is a Vue.js frontend app built to display / interact with the server.py app. 
+
+This web app is currently deployed to https://www.mealscount.com/ (hosted by Heroku).
 
 The cep_estimatory.py script will take in as an argument a specially formatted CSV file, and paramteres defining different optimization strategies, and output a JSON file as well as a data table that describes the results of the optimization per district. 
 
-A recent example spreadsheet for the state of California is bundled in the "data" folder as "calpads....csv", so you can use this as a starting point to evaluate California, or to mimic for your state.
+# Example Usage - Algorithm Dev
 
-Also included is an html file that shows a more user friendly representation of the output created. This html file is fully consolidated with CSS/Javascript at this point, but you will need an Internet connection, as it relies on external "CDN JS" files to drive the interactivity (Vue.js, Bootstrap, and D3 are used). To see this, open viz.html in your browser, but due to security limitations you will need to run this file via a local webserver (see below).
+If you are interested in exploring / experimenting / building on the algorithms, your first step would be to install a local python environment and run the Jupyter Notebook "CEP Estimator.ipnyb"
 
-# Example Usage
+This environment can be created with a virtual environment using the jupyter_requirements.txt (using Python 3.7)
 
-Run the cep_estimator.py file with arguments to generate an "output.json":
+    $> pip install -r jupyter_requirements.txt
+    $> jupyter notebook
 
-`python cep_estimatory.py data/calpads_school_level_1718.csv OneToOne OneGroup Binning`
+# Example Usage - Frontend Dev
 
-Then, run a web server in the local folder:
+If you are just looking to work on the Vue.js front-end, and don't want / know how to setup a python environment, you can just utilize the node toolset and run "npm run start". This will automatically proxy all data feeds to https://www.mealscount.com/, and let you adjust your local Vue.js environment.
 
-`python -m http.server`
+    $> npm install . 
+    $> npm run start
 
-Open http://localhost:8000/viz.html and you will see a navigable result.
+# Example Usage - Full Stack Dev
+
+If you are interested in developing on the app in entirety, you can do this by creating both the python and node environments, and then running the consolidated "npm run local_dev" command that will launch both the node "watch" process and the python flask server.
+
+    $> npm install .
+    $> pip install -r requirements.txt
+    $> npm run local_dev
+
+# Important Note on Build Process
+
+There is a postinstall script in the root package.json that will run the optimizations for all of California. This can take a while, but is there specifically so we can do our initial set of optimizations at build time in Heroku, and then just do district-by-district optimizations later.
+
+# Adding other state data
+
+If you have access to data for other states (aside from California), you can add them to the "data" folder under your state code. There is a README.md referenced in that folder that indicates what your data csv (named latest.csv) should contain.
 
 # Contributing
 
