@@ -6,7 +6,7 @@
         </div>
 
         <div class="row">
-            <table class="table col-sm">
+            <table class="table col-sm district-table">
               <thead class="thead-dark">
                 <tr>
                   <th scope="col" @click="set_sort('code')">District Code</th>
@@ -79,5 +79,12 @@ export default {
   }
   .state-detail .district-filter { 
     margin-top: 20px;
+  }
+  .state-detail .district-table {
+    position: relative;
+  }
+  .state-detail .district-table th {
+    position: sticky;
+    top: 45px;
   }
 </style>

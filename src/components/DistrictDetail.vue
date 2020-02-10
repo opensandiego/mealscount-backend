@@ -163,7 +163,7 @@
     </div>
 
     <div class="row px-3" v-if="district_data != null && viewMode == 'table'">
-      <table class="table col-sm">
+      <table class="table col-sm school-table">
         <thead class="thead-dark">
           <tr>
             <td colspan="11">
@@ -198,7 +198,7 @@
               <span class="badge badge-secondary" v-if="edited">Edited, refresh to clear</span>
             </td>
           </tr>
-          <tr>
+          <tr id="district-table-header">
             <th scope="col" @click="set_sort('grouping')">Recommended Grouping</th>
             <th scope="col" @click="set_sort('school_code')">School Code</th>
             <th scope="col" @click="set_sort('school_name')">School Name</th>
@@ -253,7 +253,13 @@
             <td v-else>
               <span v-if="school.active">✔️</span>
             </td>
-            <td>{{ (school.isp * 100).toFixed(1) }}%</td>
+            <td v-if="editMode">
+              {{ ( (school_form[school.school_code].total_eligible / school_form[school.school_code].total_enrolled) * 100).toFixed(1) }}%
+            </td>
+            <td v-else>{{ (school.isp * 100).toFixed(1) }}%</td>
+            <td v-if="editMode">
+              {{  ((school_form[school.school_code].total_eligible / school_form[school.school_code].total_enrolled)>=0.4)?"✔️":""  }}%
+            </td>
             <td>{{ (school.isp >= 0.40)?"✔️":"" }}</td>
           </tr>
           <tr v-if="editMode == true" class="add_row">
@@ -283,6 +289,7 @@
 import * as _ from "lodash";
 
 // TODO "404" if no district?
+// TODO break this down into little components...
 export default {
   props: ["state_code", "district_code"],
   data() {
@@ -544,14 +551,14 @@ export default {
       this.new_school_to_add.type='';
     },
     handleScroll (event) {
-      /* TODO attach to table header 
-      const sticky
+      const header = document.getElementById("district-table-header")
+      const sticky = header.offsetTop;
+
       if (window.pageYOffset > sticky) {
         header.classList.add("sticky");
       } else {
         header.classList.remove("sticky");
       }
-      */
     }
   },
   created () {
@@ -577,5 +584,12 @@ tr.add_row {
 }
 tr.add_row td input {
   width: 100%;
+}
+table.school-table {
+  position: relative;
+}
+.school-table th {
+  position: sticky;
+  top: 45px;
 }
 </style>
