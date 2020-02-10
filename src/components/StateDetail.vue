@@ -1,7 +1,8 @@
 <template>
     <section class="state-detail container my-3">
         <div class="row">
-            <h1 class="col-sm">{{ state.name }}</h1>
+            <h1 class="col-sm-6">{{ state.name }}</h1>
+            <div class="district-filter col-sm-2 offset-sm-4 "><input type="text" placeholder="Filter Districts" v-model="district_filter" /></div>
         </div>
 
         <div class="row">
@@ -43,6 +44,7 @@ export default {
       return {
         sort_col: "total_enrolled",
         sort_desc: true,
+        district_filter: '',
       }
     },
     computed: {
@@ -51,7 +53,11 @@ export default {
             return {name:"California",code:this.state_code};
         },
         districts(){
-            return _.orderBy(this.$store.getters.districts, [this.sort_col], [this.sort_desc?"desc":"asc"]);
+          const districts =_.orderBy(this.$store.getters.districts, [this.sort_col], [this.sort_desc?"desc":"asc"]);
+          if( this.district_filter.length > 2){
+            return _.filter(districts, d => d.name.toLowerCase().includes(this.district_filter.toLowerCase()))
+          }
+          return districts;
         }
     },
     methods: {
@@ -70,5 +76,8 @@ export default {
 <style scoped>
   .state-detail .table th {
     cursor: pointer;
+  }
+  .state-detail .district-filter { 
+    margin-top: 20px;
   }
 </style>
