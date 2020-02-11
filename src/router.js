@@ -45,5 +45,11 @@ export default new Router({
             component: DistrictDetail,
             props: true,
         },
+        {
+            path: '/edit-district/', 
+            name: 'edit-district',
+            component: EditDistrict,
+            props: true,
+        },
     ]
 });

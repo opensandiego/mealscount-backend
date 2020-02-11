@@ -197,7 +197,7 @@ class CEPGroup(object):
         } 
 
 class CEPDistrict(object):
-    def __init__(self,name,code,sfa_certified=False):
+    def __init__(self,name,code,reimbursement_rates=None,sfa_certified=False):
         self.name = name
         self.code = code
         self._schools = [] 
@@ -209,7 +209,10 @@ class CEPDistrict(object):
 
         # **Note** there might be a nuance with free_bfast. Ask Heidi
         # make this an input or parameter; will change per district and year-over-year
-        self.fed_reimbursement_rates = {'free_lunch': 3.31, 'paid_lunch': 0.31, 'free_bfast': 2.14, 'paid_bfast': 0.31}
+        if reimbursement_rates:
+            self.fed_reimbursement_rates = reimbursement_rates
+        else:
+            self.fed_reimbursement_rates = {'free_lunch': 3.31, 'paid_lunch': 0.31, 'free_bfast': 2.14, 'paid_bfast': 0.31}
 
     def __lt__(self,other_district):
         return self.total_enrolled < other_district.total_enrolled

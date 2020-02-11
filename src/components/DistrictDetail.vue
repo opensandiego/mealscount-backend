@@ -33,6 +33,15 @@
             ( optimized with {{ best_strategy.name }} strategy )
             <br />
           </dd>
+          <dt>Federal Reimbursement Rates</dt>
+          <dd>
+            <ul v-if="district_form.reimbursement_rates">
+              <li>Lunch (free) <span v-if="editMode"><input v-model.number="district_form.reimbursement_rates.free_lunch" ></span><span v-else>{{ district_form.reimbursement_rates.free_lunch | toUSDx }}</span>  </li>
+              <li>Lunch (paid) <span v-if="editMode"><input v-model.number="district_form.reimbursement_rates.paid_lunch" ></span><span v-else>{{ district_form.reimbursement_rates.paid_lunch | toUSDx }}</span>  </li>
+              <li>Breakfast (free)  <span v-if="editMode"><input v-model.number="district_form.reimbursement_rates.free_bfast" ></span><span v-else>{{ district_form.reimbursement_rates.free_bfast | toUSDx }}</span>  </li>
+              <li>Breakfast (paid)  <span v-if="editMode"><input v-model.number="district_form.reimbursement_rates.paid_bfast" ></span><span v-else>{{ district_form.reimbursement_rates.paid_bfast | toUSDx }}</span>  </li>
+            </ul>
+          </dd>
         </dl>
       </div>
 
@@ -297,6 +306,7 @@ export default {
       sort_col: "School Name",
       sort_desc: false,
       school_form: null,
+      district_form: {},
       editMode: false,
       viewMode: "table", // or "group"
       schoolDays: 180,
@@ -323,6 +333,7 @@ export default {
       return this.district != null && this.district.edited != undefined;
     },
     district_data() {
+      // When a district has been edited, we return the "edited" parameter of the district
       if (this.district == null || this.district.data == undefined) {
         return null;
       }
@@ -399,8 +410,12 @@ export default {
     district_data( newVal, oldVal) {
       if(newVal != null){
         this.init_school_form();
+        // Set district meta data
+        _.defaultsDeep(this.district_form,{'reimbursement_rates':this.district_data.rates});
+        this.district_form.code = this.district_code;
+        this.district_form.name = this.district_data.name;
+        this.district_form.state_code = this.state_code;
       }
-
     }
   },
   mounted() {
@@ -505,12 +520,13 @@ export default {
       this.editMode = !this.editMode;
     },
     submit(){
-      console.log("Submitting for optimization",this.school_form) 
+      console.log("Submitting for optimization",this.school_form,this.district_form) 
       const district_info = {
         schools: this.school_form,
-        code: this.district_code,
-        name: this.district.name,
-        state_code: this.state_code,
+        code: this.district_form.code,
+        name: this.district_form.name,
+        state_code: this.district_form.state_code,
+        reimbursement_rates: this.district_form.reimbursement_rates,
       }
       // TODO add reimbursement rates, % increase, SFA Cert
       this.$store.dispatch("run_district",district_info);

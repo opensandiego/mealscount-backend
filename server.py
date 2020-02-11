@@ -62,7 +62,8 @@ def add_strategies(district,*strategies):
 @app.route("/api/districts/optimize/", methods=['POST'])
 def optimize():
     schools = request.json["schools"]
-    district = CEPDistrict(request.json["name"],request.json["code"])
+    district = CEPDistrict(request.json["name"],request.json["code"],reimbursement_rates=request.json["reimbursement_rates"])
+
     state = request.json["state_code"]
 
     i = 1 
