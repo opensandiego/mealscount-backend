@@ -11,9 +11,7 @@
                   <th scope="col" @click="set_sort('code')">District Code</th>
                   <th scope="col" @click="set_sort('name')">District Name</th>
                   <th scope="col" @click="set_sort('school_count')">Schools</th>
-
-                  <th v-tooltip title="Placeholder!" scope="col" @click="set_sort('total_enrolled')">Total Enrolled</th>
-
+                  <th  v-tooltip title="Placeholder!" scope="col" @click="set_sort('total_enrolled')">Total Enrolled</th>
                   <th v-tooltip title="Placeholder!" scope="col" @click="set_sort('overall_isp')">Overall ISP</th>
                   <th v-tooltip title="Based on 180 days in school year">Est. Reimbursement <sup>1</sup></th>
                   <th v-tooltip title="Placeholder!" >Best Strategy</th>
@@ -43,15 +41,16 @@
 
 <script >
 import VTooltip from 'v-tooltip';
+
 export default {
     props: ['state_code'] ,
     data() {
       return {
         sort_col: "total_enrolled",
-        hover: false,
         msg: "Hello",
         sort_desc: true,
         district_filter: '',
+        use: VTooltip,
       }
     },
     
@@ -97,6 +96,7 @@ export default {
 
 .tooltip-arrow {
   color: red;
+   z-index: 1;
 }
 
   .state-detail .table th {

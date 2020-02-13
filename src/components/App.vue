@@ -77,6 +77,8 @@
 <script >
 import VTooltip from 'v-tooltip';
 export default {
+
+  
   
   mounted(){
     this.$store.dispatch("load_districts","ca");

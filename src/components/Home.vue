@@ -22,7 +22,12 @@
             <h2 class="display-5">Meals Count is developed and supported by</h2>
             <br>
             <!-- <p class="lead">Open San Diego</p> -->
-            <a href="https://opensandiego.org"><img class="logo" src="https://secure.meetupstatic.com/photos/event/2/f/9/b/global_479232187.jpeg"> </a>
+            <!-- <a href="https://opensandiego.org"><img class="logo" src="https://secure.meetupstatic.com/photos/event/2/f/9/b/global_479232187.jpeg"> </a> -->
+            <a href='https://www.cfpa.org'> <img class='logo' v-bind:src="logos.cfpa_logo" /> </a>
+            
+
+
+
             <!-- <p class="lead">CFPA</p> -->
             <a href="https://www.cfpa.org"> <img class="logo" src="https://cfpa.org/wp-content/uploads/2016/08/logo_main.png">  </a>
             <!-- <p class="lead">SD Hunger Coalition</p> -->
@@ -42,3 +47,15 @@
       </div>
     </section>
 </template>
+
+
+<script>
+import CFPALogo from '../assets/CFPA Logo.jpg';
+export default {
+  data() {
+    return {
+     logos: { cfpa_logo: CFPALogo }
+    }
+  }
+}
+</script
