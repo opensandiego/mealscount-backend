@@ -4,20 +4,24 @@
             <h1 class="col-sm-6">{{ state.name }}</h1>
             <div class="district-filter col-sm-2 offset-sm-4 "><input type="text" placeholder="Filter Districts" v-model="district_filter" /></div>
         </div>
-
         <div class="row">
-            <table class="table col-sm district-table">
+            <table  @mouseover="hover = true" @mouseleave="hover = false" class="table col-sm district-table">
               <thead class="thead-dark">
                 <tr>
                   <th scope="col" @click="set_sort('code')">District Code</th>
                   <th scope="col" @click="set_sort('name')">District Name</th>
                   <th scope="col" @click="set_sort('school_count')">Schools</th>
-                  <th scope="col" @click="set_sort('total_enrolled')">Total Enrolled</th>
-                  <th scope="col" @click="set_sort('overall_isp')">Overall ISP</th>
-                  <th>Est. Reimbursement <sup>1</sup></th>
-                  <th>Best Strategy</th>
+
+                  <th v-tooltip title="Placeholder!" scope="col" @click="set_sort('total_enrolled')">Total Enrolled</th>
+
+                  <th v-tooltip title="Placeholder!" scope="col" @click="set_sort('overall_isp')">Overall ISP</th>
+                  <th v-tooltip title="Based on 180 days in school year">Est. Reimbursement <sup>1</sup></th>
+                  <th v-tooltip title="Placeholder!" >Best Strategy</th>
                 </tr>
               </thead>
+
+
+
               <tbody>
                 <tr v-for="district in districts" v-bind:key="district.code">
                   <td>
@@ -37,16 +41,20 @@
     </section>
 </template>
 
-<script>
+<script >
+import VTooltip from 'v-tooltip';
 export default {
     props: ['state_code'] ,
     data() {
       return {
         sort_col: "total_enrolled",
+        hover: false,
+        msg: "Hello",
         sort_desc: true,
         district_filter: '',
       }
     },
+    
     computed: {
         state() {
             // Todo buld from state_cod
@@ -69,11 +77,28 @@ export default {
           this.sort_desc = false;
         }
       }
+
+      
     }
 }
+
 </script>
 
+
+
+
+
 <style scoped>
+
+.tooltip {
+  color: red;
+  background: white;
+}
+
+.tooltip-arrow {
+  color: red;
+}
+
   .state-detail .table th {
     cursor: pointer;
   }
@@ -87,4 +112,6 @@ export default {
     position: sticky;
     top: 45px;
   }
+
+  
 </style>

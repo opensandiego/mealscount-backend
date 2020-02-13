@@ -20,9 +20,13 @@
         <div class="bg-light mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
           <div class="my-3 p-3">
             <h2 class="display-5">Meals Count is developed and supported by</h2>
-            <p class="lead">Open San Diego</p>
-            <p class="lead">CFPA</p>
-            <p class="lead">SD Hunger Coalition</p>
+            <br>
+            <!-- <p class="lead">Open San Diego</p> -->
+            <a href="https://opensandiego.org"><img class="logo" src="https://secure.meetupstatic.com/photos/event/2/f/9/b/global_479232187.jpeg"> </a>
+            <!-- <p class="lead">CFPA</p> -->
+            <a href="https://www.cfpa.org"> <img class="logo" src="https://cfpa.org/wp-content/uploads/2016/08/logo_main.png">  </a>
+            <!-- <p class="lead">SD Hunger Coalition</p> -->
+             <a class="text-muted" href="https://www.sdhunger.org"><img class="logo" src="https://static1.squarespace.com/static/55130907e4b018f9300f3e63/t/5536889ae4b02181f8565b51/1581465416766/?format=1500w"></a>
           </div>
         </div>
       </div>

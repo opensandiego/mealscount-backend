@@ -129,7 +129,7 @@
                     <th scope="col" @click="set_sort('school_name')">School Name</th>
                     <th scope="col">School Type</th>
                     <th scope="col" @click="set_sort('total_enrolled')">Total Enrolled</th>
-                    <th scope="col">
+                    <th v-tooltip title="Placeholder!" scope="col">
                       Total Eligible
                       <sup>2</sup>
                     </th>
@@ -212,22 +212,22 @@
             <th scope="col" @click="set_sort('school_code')">School Code</th>
             <th scope="col" @click="set_sort('school_name')">School Name</th>
             <th scope="col">School Type</th>
-            <th scope="col" @click="set_sort('total_enrolled')">Total Enrolled</th>
-            <th scope="col">
+            <th v-tooltip title="Placeholder!"scope="col" @click="set_sort('total_enrolled')">Total Enrolled</th>
+            <th v-tooltip title="Derived from Direct Certified only" scope="col">
               Total Eligible
               <sup>2</sup>
             </th>
-            <th scope="col">
+            <th v-tooltip title="From average meals per day April 2019, based upon CFPA SNP Report" scope="col">
               Daily Breakfast Served
               <sup>3</sup>
             </th>
-            <th scope="col">
+            <th  v-tooltip title="From average meals per day April 2019, based upon CFPA SNP Report" scope="col">
               Daily Lunch Served
               <sup>3</sup>
             </th>
-            <th scope="col" @click="set_sort('active')">Included in Optimization</th>
-            <th scope="col" @click="set_sort('isp')">School ISP</th>
-            <th scope="col">School CEP Eligible</th>
+            <th v-tooltip title="Placeholder!" scope="col" @click="set_sort('active')">Included in Optimization</th>
+            <th v-tooltip title="Placeholder!" scope="col" @click="set_sort('isp')">School ISP</th>
+            <th v-tooltip title="Placeholder!" scope="col">School CEP Eligible</th>
           </tr>
         </thead>
         <tbody v-if="school_form != null">
