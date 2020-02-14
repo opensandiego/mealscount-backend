@@ -21,9 +21,9 @@
           <div class="my-3 p-3">
             <h2 class="display-5">Meals Count is developed and supported by</h2>
             <br>
-            <a href="https://www.sdhunger.org"><img class="logo" v-bind:src="logos.openSD_logo"></a>
-            <a href='https://www.cfpa.org'> <img class='logo' v-bind:src="logos.cfpa_logo" /> </a>     
-            <a href="https://www.cfpa.org"> <img class="logo" v-bind:src="logos.hunger_logo">  </a>
+            <a target="_blank" href="https://opensandiego.org"><img class="logo" v-bind:src="logos.openSD_logo"></a>
+            <a target="_blank"  href='https://www.cfpa.net'> <img class='logo' v-bind:src="logos.cfpa_logo" /> </a>     
+            <a target="_blank"  href="https://www.sandiegohungercoalition.org/"> <img class="logo" v-bind:src="logos.hunger_logo">  </a>
             
           </div>
         </div>
@@ -43,7 +43,7 @@
 
 
 <script>
-import CFPALogo from '../assets/cfpa.jpg';
+import CFPALogo from '../assets/cfpalogo.png';
 import OPENSD from '../assets/openSD.jpeg';
 import HUNGER from '../assets/hunger.jpg'
 

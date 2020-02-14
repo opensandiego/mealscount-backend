@@ -20,9 +20,12 @@ module.exports = {
         },
         {
             test: /\.(png|svg|jpg|jpeg|gif)$/,
-            use: [
-                'file-loader'
-            ]
+            use: [{
+                loader: 'file-loader',
+                options: {
+                  outputPath: 'static'
+                }
+            }]
         },
         {
           test: /\.(scss)$/,
