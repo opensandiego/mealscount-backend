@@ -21,17 +21,10 @@
           <div class="my-3 p-3">
             <h2 class="display-5">Meals Count is developed and supported by</h2>
             <br>
-            <!-- <p class="lead">Open San Diego</p> -->
-            <!-- <a href="https://opensandiego.org"><img class="logo" src="https://secure.meetupstatic.com/photos/event/2/f/9/b/global_479232187.jpeg"> </a> -->
-            <a href='https://www.cfpa.org'> <img class='logo' v-bind:src="logos.cfpa_logo" /> </a>
+            <a href="https://www.sdhunger.org"><img class="logo" v-bind:src="logos.openSD_logo"></a>
+            <a href='https://www.cfpa.org'> <img class='logo' v-bind:src="logos.cfpa_logo" /> </a>     
+            <a href="https://www.cfpa.org"> <img class="logo" v-bind:src="logos.hunger_logo">  </a>
             
-
-
-
-            <!-- <p class="lead">CFPA</p> -->
-            <a href="https://www.cfpa.org"> <img class="logo" src="https://cfpa.org/wp-content/uploads/2016/08/logo_main.png">  </a>
-            <!-- <p class="lead">SD Hunger Coalition</p> -->
-             <a class="text-muted" href="https://www.sdhunger.org"><img class="logo" src="https://static1.squarespace.com/static/55130907e4b018f9300f3e63/t/5536889ae4b02181f8565b51/1581465416766/?format=1500w"></a>
           </div>
         </div>
       </div>
@@ -50,12 +43,18 @@
 
 
 <script>
-import CFPALogo from '../assets/CFPA Logo.jpg';
+import CFPALogo from '../assets/cfpa.jpg';
+import OPENSD from '../assets/openSD.jpeg';
+import HUNGER from '../assets/hunger.jpg'
+
 export default {
   data() {
     return {
-     logos: { cfpa_logo: CFPALogo }
+     logos: { cfpa_logo: CFPALogo, 
+              openSD_logo: OPENSD,
+              hunger_logo: HUNGER
+                }
     }
   }
 }
-</script
+</script>
