@@ -7,8 +7,9 @@ import StateDetail from "./components/StateDetail.vue";
 import DistrictDetail from "./components/DistrictDetail.vue";
 import EditDistrict from "./components/EditDistrict.vue";
 import Vue from 'vue';
+import VTooltip from 'v-tooltip'
 import Router from 'vue-router';
-Vue.use(Router)
+Vue.use(Router, VTooltip)
 
 // Router
 export default new Router({

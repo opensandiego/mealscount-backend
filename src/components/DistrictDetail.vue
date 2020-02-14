@@ -129,7 +129,7 @@
                     <th scope="col" @click="set_sort('school_name')">School Name</th>
                     <th scope="col">School Type</th>
                     <th scope="col" @click="set_sort('total_enrolled')">Total Enrolled</th>
-                    <th scope="col">
+                    <th v-tooltip title="Placeholder!" scope="col">
                       Total Eligible
                       <sup>2</sup>
                     </th>
@@ -212,22 +212,20 @@
             <th scope="col" @click="set_sort('school_code')">School Code</th>
             <th scope="col" @click="set_sort('school_name')">School Name</th>
             <th scope="col">School Type</th>
-            <th scope="col" @click="set_sort('total_enrolled')">Total Enrolled</th>
-            <th scope="col">
-              Total Eligible
-              <sup>2</sup>
-            </th>
-            <th scope="col">
+            <th v-tooltip title="Placeholder!" scope="col" @click="set_sort('total_enrolled')">Total Enrolled <img v-bind:src="image.qmark"></th>
+            <th v-tooltip title="Derived from Direct Certified only" scope="col">
+              Total Eligible <sup>2</sup> <img v-bind:src="image.qmark"></th>
+            <th v-tooltip title="From average meals per day April 2019, based upon CFPA SNP Report" scope="col">
               Daily Breakfast Served
-              <sup>3</sup>
+              <sup>3</sup> <img v-bind:src="image.qmark">
             </th>
-            <th scope="col">
+            <th  v-tooltip title="From average meals per day April 2019, based upon CFPA SNP Report" scope="col">
               Daily Lunch Served
-              <sup>3</sup>
+              <sup>3</sup> <img v-bind:src="image.qmark">
             </th>
-            <th scope="col" @click="set_sort('active')">Included in Optimization</th>
-            <th scope="col" @click="set_sort('isp')">School ISP</th>
-            <th scope="col">School CEP Eligible</th>
+            <th v-tooltip title="Placeholder!" scope="col" @click="set_sort('active')">Included in Optimization <img v-bind:src="image.qmark"></th>
+            <th v-tooltip title="Placeholder!" scope="col" @click="set_sort('isp')">School ISP <img v-bind:src="image.qmark"></th>
+            <th v-tooltip title="Placeholder!" scope="col">School CEP Eligible <img v-bind:src="image.qmark"></th>
           </tr>
         </thead>
         <tbody v-if="school_form != null">
@@ -296,6 +294,7 @@
 
 <script>
 import * as _ from "lodash";
+import QUESTION from '../assets/qmark.png'
 
 // TODO "404" if no district?
 // TODO break this down into little components...
@@ -303,6 +302,7 @@ export default {
   props: ["state_code", "district_code"],
   data() {
     return {
+      image: {qmark: QUESTION},
       sort_col: "School Name",
       sort_desc: false,
       school_form: null,

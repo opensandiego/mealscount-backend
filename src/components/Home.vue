@@ -20,9 +20,11 @@
         <div class="bg-light mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
           <div class="my-3 p-3">
             <h2 class="display-5">Meals Count is developed and supported by</h2>
-            <p class="lead">Open San Diego</p>
-            <p class="lead">CFPA</p>
-            <p class="lead">SD Hunger Coalition</p>
+            <br>
+            <a href="https://www.sdhunger.org"><img class="logo" v-bind:src="logos.openSD_logo"></a>
+            <a href='https://www.cfpa.org'> <img class='logo' v-bind:src="logos.cfpa_logo" /> </a>     
+            <a href="https://www.cfpa.org"> <img class="logo" v-bind:src="logos.hunger_logo">  </a>
+            
           </div>
         </div>
       </div>
@@ -38,3 +40,21 @@
       </div>
     </section>
 </template>
+
+
+<script>
+import CFPALogo from '../assets/cfpa.jpg';
+import OPENSD from '../assets/openSD.jpeg';
+import HUNGER from '../assets/hunger.jpg'
+
+export default {
+  data() {
+    return {
+     logos: { cfpa_logo: CFPALogo, 
+              openSD_logo: OPENSD,
+              hunger_logo: HUNGER
+                }
+    }
+  }
+}
+</script>
