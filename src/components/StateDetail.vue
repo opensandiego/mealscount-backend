@@ -11,10 +11,10 @@
                   <th scope="col" @click="set_sort('code')">District Code</th>
                   <th scope="col" @click="set_sort('name')">District Name</th>
                   <th scope="col" @click="set_sort('school_count')">Schools</th>
-                  <th  v-tooltip title="Placeholder!" scope="col" @click="set_sort('total_enrolled')">Total Enrolled</th>
-                  <th v-tooltip title="Placeholder!" scope="col" @click="set_sort('overall_isp')">Overall ISP</th>
-                  <th v-tooltip title="Based on 180 days in school year">Est. Reimbursement <sup>1</sup></th>
-                  <th v-tooltip title="Placeholder!" >Best Strategy</th>
+                  <th v-tooltip title="Placeholder!" scope="col" @click="set_sort('total_enrolled')"> Total Enrolled <img v-bind:src="image.qmark"> </th> 
+                  <th v-tooltip title="Placeholder!" scope="col" @click="set_sort('overall_isp')">Overall ISP <img v-bind:src="image.qmark"> </th>
+                  <th v-tooltip title="Based on 180 days in school year">Est. Reimbursement <sup>1</sup> <img v-bind:src="image.qmark"></th>
+                  <th v-tooltip title="Placeholder!" >Best Strategy <img v-bind:src="image.qmark"></th>
                 </tr>
               </thead>
 
@@ -41,13 +41,14 @@
 
 <script >
 import VTooltip from 'v-tooltip';
-
+import QUESTION from '../assets/qmark.png';
 export default {
+ 
     props: ['state_code'] ,
     data() {
       return {
         sort_col: "total_enrolled",
-        msg: "Hello",
+        image: {qmark: QUESTION},
         sort_desc: true,
         district_filter: '',
         use: VTooltip,
