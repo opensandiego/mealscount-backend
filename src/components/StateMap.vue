@@ -18,9 +18,11 @@ import * as topojson from 'topojson';
 import * as us from 'us';
 
 export default {
-  computed: {
-      statedata(){
-          return this.$store.getters.get_states;
+  data() {
+      return{
+          statedata: {
+              ca: {}
+          }
       }
   },
    mounted(){
@@ -54,7 +56,7 @@ export default {
                   .on("click", d => {
                             d3.select("#tooltip").style("opacity",0);
                             
-                            const state = us.lookup(d.id)
+                              const state = us.lookup(d.id)
                             console.log("Hello", state)
                             if(this.statedata[state.abbr.toLowerCase()]){
                                 this.$router.push(`/explore/${state.abbr.toLowerCase()}`)
@@ -62,8 +64,7 @@ export default {
                                 // TODO pop up modal instead?
                                 alert("Sorry, this state's data is not yet available")
                             }
-                            // TODO load Brigade Detail  
-                        })
+                            })  
        },
        updateMap(){
             const projection = d3.geoAlbersUsa().scale(1280).translate([975/2, 610/2])
