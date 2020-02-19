@@ -37,7 +37,10 @@ export default new Vuex.Store({
         },
         edited_districts: state => {
             return state.edited_districts;
-        }
+        },
+        get_states: state => {
+            return state.states;
+        },
     },
     actions: {
         load_districts({commit,dispatch}, state_code){
