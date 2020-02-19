@@ -1,16 +1,26 @@
 <template>
     <div>
+
+<modal id="modal"
+      v-show="isModalVisible"
+      @close="closeModal"/>
+        
+
         <div id="tooltip"></div>
         <svg id="map"></svg>
-        <div id="announce">
+        <!-- <div id="announce">
             <span class="badge">🛡</span>
             New Achievement Unlocked for Open San Diego!
         </div>
-        <p> HI PEOPLE </p>
+       -->
+
+        
+  
     </div>
 </template>
 
 <script>
+import Modal from '../components/Modal.vue';
 import _ from 'lodash';
 import usa_topojson from 'us-atlas/states-albers-10m.json';
 import * as d3 from 'd3';
@@ -18,8 +28,14 @@ import * as topojson from 'topojson';
 import * as us from 'us';
 
 export default {
+
+components: {
+    modal: Modal,
+  },
+
   data() {
       return{
+          isModalVisible: false,
           statedata: {
               ca: {}
           }
@@ -30,6 +46,13 @@ export default {
     //    this.updateMap();
    },
    methods: {
+       showModal() {
+        this.isModalVisible = true;
+      },
+      closeModal() {
+        this.isModalVisible = false;
+      },
+       
        createMap(){
             const svg = d3.select("#map")
               .attr("viewBox",[[0,0],[975,610]]); 
@@ -57,12 +80,16 @@ export default {
                             d3.select("#tooltip").style("opacity",0);
                             
                               const state = us.lookup(d.id)
-                            console.log("Hello", state)
+                         
                             if(this.statedata[state.abbr.toLowerCase()]){
                                 this.$router.push(`/explore/${state.abbr.toLowerCase()}`)
                             }else{
                                 // TODO pop up modal instead?
-                                alert("Sorry, this state's data is not yet available")
+                                // wrong: showModal()
+                               // wrong: "showModal"
+                                        this.showModal()
+
+                                // alert("Sorry, this state's data is not yet available")
                             }
                             })  
        },
@@ -180,6 +207,14 @@ export default {
 #announce .badge {
     font-size: 100px; 
     vertical-align: middle;
+}
+
+#modal {
+    
+    display: flex;
+    align-self: center;
+    justify-self: center;
+ 
 }
 
 </style>
