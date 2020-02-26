@@ -7,6 +7,7 @@ import StateDetail from "./components/StateDetail.vue";
 import DistrictDetail from "./components/DistrictDetail.vue";
 import EditDistrict from "./components/EditDistrict.vue";
 import StateMap from "./components/StateMap.vue"
+import Faq from "./components/Faq.vue";
 import Vue from 'vue';
 import VTooltip from 'v-tooltip'
 import Router from 'vue-router';
@@ -29,6 +30,11 @@ export default new Router({
             path: '/cep', 
             name: 'cep',
             component: CEP,
+        },
+        {
+            path: '/faq', 
+            name: 'faq',
+            component: Faq,
         },    
         {
             path: '/contact', 

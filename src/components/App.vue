@@ -67,6 +67,7 @@
             <ul class="list-unstyled text-small">
               <li><a class="text-muted" href="#">Team</a></li>
               <li><a class="text-muted" href="#">Privacy</a></li>
+              <li> <router-link class="text-muted" to="/faq">FAQ </router-link>  </li>
             </ul>
           </div>
         </div>
