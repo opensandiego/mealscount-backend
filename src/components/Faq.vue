@@ -1,5 +1,9 @@
 <template>
- <div id="app" ><VueFaqAccordion :items="myItems" /></div>
+ <div id="app" >
+   <h1 class="headline" style="margin-left:20px"> FAQ </h1>
+   <br>
+   
+   <VueFaqAccordion :items="myItems" /></div>
 
   <!-- make to sections one with CEP and then Foodpoint 
    make an Faq.json in the assets, import this Faq as an object in the Faq and run in. 
@@ -149,7 +153,7 @@ Reduced food insecurity rates by increasing access to healthy meals`,
 <ul>a) Total enrolled: enrollment information from school year 2018-2019, it is extremely possible that enrollment at your school decreases or increases each year. 
 As well, preschool students are not included in the number. </ul>
 <ul>b) Total eligible: this is the number of Direct Certified students with school data we receive from CALPADS, the data is from school year 2018-2019. This number does not include: homeless, migrant, runaway, in foster care, 
-or enrolled in Head Start or Early Head Start , and students identified using household extended eligibility. Your district's numbers may be significantly higher. </ul><br>  
+or enrolled in Head Start or Early Head Start , and students identified using household extended eligibility. Your district's numbers may be significantly higher. </ul> 
 <ul>c) Daily Breakfast served: data from school year ____ provided by ___ </ul><br>
 <ul>d) Daily Lunch served: data from school year ____ provided by ___  </ul><br>
 <i>MealsCount allows you to edit the numbers on each column to match the actual numbers of your school/district. </i>`,
@@ -241,10 +245,12 @@ Special Education Schools and Youth Authority Facilities are not included (not s
   font-family: "Avenir", Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-align: center;
+  text-align: start;
   color: #2c3e50;
   margin-top: 60px;
 }
+
+
 
 </style>
 
