@@ -12,7 +12,7 @@
                 d="M14.31 8l5.74 9.94M9.69 8h11.48M7.38 12l5.74-9.94M9.69 16L3.95 6.06M14.31 16H2.83m13.79-4l-5.74 9.94" />
             </svg>
           </router-link>
-          <router-link to="/explore/ca" class="py-2 d-none d-md-inline-block">Explore</router-link>
+          <router-link to="/explore" class="py-2 d-none d-md-inline-block">Explore</router-link>
           <router-link to="/contact" class="py-2 d-none d-md-inline-block">Contact</router-link>
           <router-link to="/about" class="py-2 d-none d-md-inline-block">About</router-link>
         </div>

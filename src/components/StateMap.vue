@@ -1,5 +1,10 @@
 <template>
     <div>
+        <br>
+
+        <div class="header">
+        <h1> Select your state! </h1>
+        </div>
 
 <modal id="modal"
       v-show="isModalVisible"
@@ -162,7 +167,7 @@ components: {
 #map {
     width: 75%;
     display: block;
-    margin: 100px auto;
+    margin: 20px auto;
 }
 .states path {
     /* fill: #399fd3; */
@@ -216,5 +221,15 @@ components: {
     justify-self: center;
  
 }
+
+.header{
+      margin-left: 50%;
+    margin-right: 50%;
+    margin: auto;
+    width: 400px;
+    text-align: center;
+}
+
+
 
 </style>
