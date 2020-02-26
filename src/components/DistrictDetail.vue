@@ -226,6 +226,7 @@
             <th v-tooltip title="Placeholder!" scope="col" @click="set_sort('active')">Included in Optimization <img v-bind:src="image.qmark"></th>
             <th v-tooltip title="Placeholder!" scope="col" @click="set_sort('isp')">School ISP <img v-bind:src="image.qmark"></th>
             <th v-tooltip title="Placeholder!" scope="col">School CEP Eligible <img v-bind:src="image.qmark"></th>
+            <th v-tooltip title="Reimbursement per school year" scope="col">Reimbursement Per School </th>
           </tr>
         </thead>
         <tbody v-if="school_form != null">
@@ -268,6 +269,7 @@
               {{  ((school_form[school.school_code].total_eligible / school_form[school.school_code].total_enrolled)>=0.4)?"✔️":""  }}%
             </td>
             <td>{{ (school.isp >= 0.40)?"✔️":"" }}</td>
+            <td><!-- Not Ready {{ (schoolDays * daily_reimbursement_by_school(school.school_code) ) | toUSD }} --> - </td>
           </tr>
           <tr v-if="editMode == true" class="add_row">
             <td>Add School:</td>
@@ -575,7 +577,22 @@ export default {
       } else {
         header.classList.remove("sticky");
       }
-    }
+    },
+    daily_reimbursement_by_school ( school_code ){
+      if(this.district_form.reimbursement_rates == null){
+        return "";
+      }
+      return "?"
+
+      // TODO - how do we determine group rate for this school?
+      // if group ISP < 0.4, $0
+      // if group ISP < 0.625, paid rate
+      // else free rate
+      const s = this.school_form[school_code];
+      const v = ( s.daily_breakfast_served * this.district_form.reimbursement_rates.free_bfast ) 
+                 + ( s.daily_lunch_served * this.district_form.reimbursement_rates.free_lunch )
+      return v;
+    },
   },
   created () {
     window.addEventListener('scroll', this.handleScroll);
