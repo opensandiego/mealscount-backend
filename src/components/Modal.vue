@@ -83,6 +83,7 @@
     box-shadow: 2px 2px 20px 1px;
     padding: 7px;
     overflow-x: auto;
+    position: relative;
     display: flex;
     flex-direction: column;
     align-self: center;
