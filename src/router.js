@@ -6,6 +6,7 @@ import Contact from "./components/Contact.vue";
 import StateDetail from "./components/StateDetail.vue";
 import DistrictDetail from "./components/DistrictDetail.vue";
 import EditDistrict from "./components/EditDistrict.vue";
+import StateMap from "./components/StateMap.vue"
 import Vue from 'vue';
 import VTooltip from 'v-tooltip'
 import Router from 'vue-router';
@@ -33,6 +34,12 @@ export default new Router({
             path: '/contact', 
             name: 'contact',
             component: Contact,
+        },
+        {
+            path: '/explore', 
+            name: 'map',
+            component: StateMap,
+            
         },    
         {
             path: '/explore/:state', 
