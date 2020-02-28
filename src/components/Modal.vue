@@ -85,6 +85,7 @@
     overflow-x: auto;
     position: relative;
     display: flex;
+    position: relative;
     flex-direction: column;
     align-self: center;
     justify-self: center;
@@ -135,6 +136,5 @@
     border: 1px solid #4AAE9B;
     border-radius: 2px;
   }
-
 
 </style>
