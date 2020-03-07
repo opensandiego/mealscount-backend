@@ -46,7 +46,7 @@
 import CFPALogo from '../assets/cfpalogo.png';
 import OPENSD from '../assets/openSD.jpeg';
 import HUNGER from '../assets/hunger.jpg';
-import HOMEPAGE_HERO from '../assets/homepage_hero.jpg';
+//import HOMEPAGE_HERO from '../assets/homepage_hero.jpg';
 
 export default {
   data() {
@@ -56,8 +56,8 @@ export default {
               hunger_logo: HUNGER
                 },
       hero_style: {
-        /*"background-image": "url('"+HOMEPAGE_HERO+"')",*/
-        backgroundSize: 'cover',
+        /* "background-image": "url('"+HOMEPAGE_HERO+"')", */
+        /* backgroundSize: 'cover', */
       }
     }
   }

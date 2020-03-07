@@ -54,7 +54,7 @@ export default new Router({
             props: true,
         },
         {
-            path: '/edit-district/', 
+            path: '/edit-district', 
             name: 'edit-district',
             component: EditDistrict,
             props: true,

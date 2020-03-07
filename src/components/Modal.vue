@@ -29,7 +29,9 @@
           id="modalDescription"
         >
           <slot name="body">
-                 Sorry, this state's data is not yet available! However, you could get in touch! Please contact the local NGO in charge. 
+                 <p>Sorry, {{ selected_state.name }}'s data is not yet available! You can add your district's data and optimize it in our <router-link to="/edit-district" class="button">district tool</router-link>.</p>
+                 <p>If you need assistance, we recommend reaching out to <a href="https://www.frac.org/">FRAC</a> or your local food policy advocates.</p>
+                 <p>If you are interested in helping get data for your state, please contact <a href="https://opensandiego.org">Open San Diego</a></p>
           </slot>
         </section>
         <footer class="modal-footer">
@@ -53,6 +55,7 @@
 
 <script>
   export default {
+    props: ['selected_state'],
     name: 'modal',
     methods: {
       close() {
@@ -89,8 +92,8 @@
     flex-direction: column;
     align-self: center;
     justify-self: center;
-     width: 300px;
-    height: 250px;
+     width: 400px;
+    height: 350px;
     margin: 0 auto;
   
   }

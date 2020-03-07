@@ -8,19 +8,21 @@
 
 <modal id="modal"
       v-show="isModalVisible"
+      v-bind:selected_state="selected_state"
       @close="closeModal"/>
         
 
         <div id="tooltip"></div>
         <svg id="map"></svg>
-        <!-- <div id="announce">
-            <span class="badge">🛡</span>
-            New Achievement Unlocked for Open San Diego!
-        </div>
-       -->
 
-        
-  
+        <div class="container">
+            <div class="row">
+                <div v-for="state in states" v-bind:key="state.abbr" class="col-sm-3">
+                    <router-link class="text-muted" v-if="statedata[state.abbr.toLowerCase()] != undefined" v-bind:to="'/explore/' + state.abbr">{{ state.name }}</router-link>
+                    <a class="text-muted" href="#" @click="selected_state = state; showModal()" v-else>{{ state.name }}</a>
+                </div>
+            </div>
+        </div>
     </div>
 </template>
 
@@ -43,10 +45,12 @@ components: {
           isModalVisible: false,
           statedata: {
               ca: {}
-          }
+          },
+          selected_state: null,
+          states: us.STATES,
       }
   },
-   mounted(){
+  mounted(){
        this.createMap();
     //    this.updateMap();
    },
@@ -84,7 +88,9 @@ components: {
                   .on("click", d => {
                             d3.select("#tooltip").style("opacity",0);
                             
-                              const state = us.lookup(d.id)
+                            const state = us.lookup(d.id)
+                            
+                            this.selected_state = state;
                          
                             if(this.statedata[state.abbr.toLowerCase()]){
                                 this.$router.push(`/explore/${state.abbr.toLowerCase()}`)
@@ -96,7 +102,11 @@ components: {
 
                                 // alert("Sorry, this state's data is not yet available")
                             }
-                            })  
+                            }) 
+                    .append("title").text(d => { 
+                        const state = us.lookup(d.id)
+                        return state.name
+                    })
        },
        updateMap(){
             const projection = d3.geoAlbersUsa().scale(1280).translate([975/2, 610/2])
@@ -173,6 +183,7 @@ components: {
     /* fill: #399fd3; */
     stroke: #fff;
     stroke-width: 1px;
+    cursor: pointer;
 }
 
 .brigades circle {
