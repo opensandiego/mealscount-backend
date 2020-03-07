@@ -5,7 +5,7 @@
           <h1 class="display-4 font-weight-normal">Maximize your CEP Funding with <strong>Meals Count</strong></h1>
           <p class="lead font-weight-normal">MealsCount is an Open Source, Free tool to help school districts optimize their
             USDA CEP Application, to get more reimbursements for school meals, and help fight child hunger.</p>
-          <a class="btn btn-outline-secondary" href="#">Learn More</a>
+           <router-link to="/faq" class="btn btn-outline-secondary">Learn More</router-link>
         </div>
       </div>
 
