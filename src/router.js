@@ -4,7 +4,7 @@ import About from "./components/About.vue";
 import CEP from "./components/CEP.vue";
 import Contact from "./components/Contact.vue";
 import StateDetail from "./components/StateDetail.vue";
-import DistrictDetail from "./components/DistrictDetail.vue";
+import DistrictDetail from "./components/district/DistrictDetail.vue";
 import EditDistrict from "./components/EditDistrict.vue";
 import StateMap from "./components/StateMap.vue"
 import Faq from "./components/Faq.vue";

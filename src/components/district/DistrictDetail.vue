@@ -296,7 +296,7 @@
 
 <script>
 import * as _ from "lodash";
-import QUESTION from '../assets/qmark.png'
+import QUESTION from '../../assets/qmark.png'
 
 // TODO "404" if no district?
 // TODO break this down into little components...
