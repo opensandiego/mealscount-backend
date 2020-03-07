@@ -3,30 +3,18 @@
    <h1 class="headline text-center">Meals Count FAQ</h1>
    <br>
    
-   <VueFaqAccordion :items="myItems" />
+   <!-- <VueFaqAccordion :items="myItems" /> -->
+   <div class="col-sm-12" v-for="item in myItems" v-bind:key="item.title">
+     <h3 v-html="item.title"></h3>
+     <p v-html="item.value"></p>
+   </div>
  </section>
-
-  <!-- make to sections one with CEP and then Foodpoint 
-   make an Faq.json in the assets, import this Faq as an object in the Faq and run in. 
-  the paragraph (p) tabs should be Answer and (q) should be Question -->
-<!-- <section>  -->
-  <!-- <h1> FAQ </h1>
-
-  <h3> Is this tool free to use? </h3>
-  <div class="panel">
-  <p> Yes, MealsCount is a free tool.  </p>
-  </div>
- 
- <h3> Frage2 </h3>
- <p> antwort2 </p>
-
-
-</section> -->
 </template>
 
 
 <script >  
 import VueFaqAccordion from "vue-faq-accordion";
+import * as _ from 'lodash';
 
 export default {
   name: "App",
@@ -35,7 +23,7 @@ export default {
   },
   data() {
     return {
-      myItems: [
+      myItems: [ // TODO maybe make this a yaml asset, and load with yaml loader as an object 
         {
           title: "What is Community Eligibility Provision (CEP)?",
           value:
@@ -188,19 +176,19 @@ Special Education Schools and Youth Authority Facilities are not included (not s
         },
         {
           title: "Please explain each “Pairs”, “Exhaustive”, “Binning”, “Spread” and other strategies:",
-          value: "Tba",
+          value: "Answer Coming Soon!",
           category: "MealsCount"
         }
         ,
         {
           title: "How is the best grouping strategy calculated?",
-          value: "Tba",
+          value: "Answer Coming Soon!",
           category: "MealsCount"
         }
         ,
         {
           title: "Please explain each best strategy: pairs, OneGroup, Spread",
-          value: "Tba",
+          value: "Answer Coming Soon!",
           category: "MealsCount"
         },
         {
@@ -216,7 +204,7 @@ Special Education Schools and Youth Authority Facilities are not included (not s
         },
         {
           title: " Is the $0.6 reimbursement added for severe need schools?",
-          value: `tba`,
+          value: `Answer Coming Soon!`,
           category: "MealsCount"
         },
         {

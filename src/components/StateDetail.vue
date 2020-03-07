@@ -21,7 +21,7 @@
 
 
 
-              <tbody>
+              <tbody v-if="districts.length > 0">
                 <tr v-for="district in districts" v-bind:key="district.code">
                   <td>
                     {{ district.code }}
@@ -34,6 +34,9 @@
                   <td>{{ (district.est_reimbursement * 180) | toUSD }}</td>
                   <td>{{ district.best_strategy }}</td>
                 </tr>
+              </tbody>
+              <tbody v-else>
+                <tr><td colspan="7">Loading districts</td></tr>
               </tbody>
             </table>
         </div>
