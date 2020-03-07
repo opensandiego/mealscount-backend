@@ -1,9 +1,10 @@
 <template>
- <div id="app" >
-   <h1 class="headline" style="margin-left:20px"> FAQ </h1>
+ <section class="container mt-5">
+   <h1 class="headline text-center">Meals Count FAQ</h1>
    <br>
    
-   <VueFaqAccordion :items="myItems" /></div>
+   <VueFaqAccordion :items="myItems" />
+ </section>
 
   <!-- make to sections one with CEP and then Foodpoint 
    make an Faq.json in the assets, import this Faq as an object in the Faq and run in. 
