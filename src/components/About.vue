@@ -1,8 +1,8 @@
 <template>
     <section class="container my-3">
-        <h1>About MealsCount</h1>
+        <h1>About Meals Count</h1>
         <p>
-MealsCount is the result of a collaboration between <a href="https://opensandiego.org">Open San Diego</a>,
+Meals Count is the result of a collaboration between <a href="https://opensandiego.org">Open San Diego</a>,
  the <a href="https://www.cfpa.org">CFPA</a>, and the <a href="https://www.sandiegohungercoalition.org/">San Diego Hunger Coalition</a>.
         </p>
 

@@ -37,11 +37,11 @@
           <div class="col-6 col-md">
             <h5>Resources</h5>
             <ul class="list-unstyled text-small">
-              <li><a class="text-muted" href="https://github.com/opensandiego/mealscount-backend/">MealsCount Source Code</a>
+              <li><a class="text-muted" href="https://github.com/opensandiego/mealscount-backend/">Meals Count Source Code</a>
               </li>
               <li><a class="text-muted" href="https://www.fns.usda.gov/school-meals/community-eligibility-provision">USDA CEP Program</a></li>
               <li><a class="text-muted" href="https://www.fns.usda.gov/nslp/community-eligibility-provision-resource-center">USDA CEP Resource Center</a></li>
-              <li><a class="text-muted" href="https://github.com/opensandiego/mealscount-backend/blob/validate/CONTRIBUTING.md">MealsCount Contributing Guide</a></li>
+              <li><a class="text-muted" href="https://github.com/opensandiego/mealscount-backend/blob/validate/CONTRIBUTING.md">Meals Count Contributing Guide</a></li>
             </ul>
           </div>
           <div class="col-6 col-md">
@@ -68,6 +68,7 @@
             <ul class="list-unstyled text-small">
               <li><a class="text-muted" href="#">Team</a></li>
               <li><a class="text-muted" href="#">Privacy</a></li>
+              <li><a class="text-muted" href="https://github.com/opensandiego/mealscount-backend">Developers</a></li>
               <li> <router-link class="text-muted" to="/faq">FAQ </router-link>  </li>
             </ul>
           </div>

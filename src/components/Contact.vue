@@ -3,7 +3,7 @@
     <section class="container mt-3">
         <h1>Contact</h1>
 
-        <p>The MealsCount team is interested in getting feedback from interested parties. Please help us direct your inquiry 
+        <p>The Meals Count team is interested in getting feedback from interested parties. Please help us direct your inquiry 
             by filling out this form.</p>
 
         <form>

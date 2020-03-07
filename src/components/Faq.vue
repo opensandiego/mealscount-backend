@@ -117,7 +117,7 @@ Reduced food insecurity rates by increasing access to healthy meals`,
           title: "Can a school that is below 40% ISP join CEP?",
           value:
             `If the school ISP is below 40%, the school has the choice to join with one or more schools with a higher ISP within the Local Education Authority (LEA) to increase the percentage of Identified students as a group. 
-            The MealsCount tool is an optimization tool designed to find the best grouping of schools.`,
+            The Meals Count tool is an optimization tool designed to find the best grouping of schools.`,
           category: "CEP"
         },
         {
@@ -132,86 +132,86 @@ Reduced food insecurity rates by increasing access to healthy meals`,
          {
           title: "Is this tool free to use?",
           value:
-            "Yes, MealsCount is a free tool.",
-          category: "MealsCount"
+            "Yes, Meals Count is a free tool.",
+          category: "Meals Count"
         },
          {
           title: "Some of the numbers displayed for my school district are different than our actual numbers <br>(i.e. enrollment, total eligible, daily participation)",
           value:
-           `There are several reasons why your numbers might not match the numbers prepopulated on MealsCount:++ <br>
+           `There are several reasons why your numbers might not match the numbers prepopulated on Meals Count:++ <br>
 <ul>a) Total enrolled: enrollment information from school year 2018-2019, it is extremely possible that enrollment at your school decreases or increases each year. 
 As well, preschool students are not included in the number. </ul>
 <ul>b) Total eligible: this is the number of Direct Certified students with school data we receive from CALPADS, the data is from school year 2018-2019. This number does not include: homeless, migrant, runaway, in foster care, 
 or enrolled in Head Start or Early Head Start , and students identified using household extended eligibility. Your district's numbers may be significantly higher. </ul> 
 <ul>c) Daily Breakfast served: data from school year ____ provided by ___ </ul><br>
 <ul>d) Daily Lunch served: data from school year ____ provided by ___  </ul><br>
-<i>MealsCount allows you to edit the numbers on each column to match the actual numbers of your school/district. </i>`,
-          category: "MealsCount"
+<i>Meals Count allows you to edit the numbers on each column to match the actual numbers of your school/district. </i>`,
+          category: "Meals Count"
         },
 
          {
           title: "Is this tool only available for California districts?",
           value:
-            "MealsCount is available to all California districts with plans to…",
-          category: "MealsCount"
+            "Meals Count is available to all California districts with plans to…",
+          category: "Meals Count"
         },
         {
           title: "Where is the source of the data included for each school/district?",
           value:
             "The data shown for each district is from the 2018-2019 CALPADS aggregate data, as well as April 2019 meals average meals data.",
-          category: "MealsCount"
+          category: "Meals Count"
         },
         {
           title: "Are Charter schools included?",
           value: "Yes, charter schools that claim Free and Reduced Priced Meals (FRPM) for reimbursement are included.",
-          category: "MealsCount"
+          category: "Meals Count"
         },
         {
           title: "Which types of schools are included/excluded? (continuation, juvenile, preschool, especial ed, etc.)",
           value: `<strong>Included</strong>: Schools that claim FRPM for reimbursement; and are one of the following types of public and charter schools: 
           Elementary, Middle schools, Junior High Schools, High Schools, and K-12 schools. <br><br>
           <strong>Excluded</strong>: Alternative schools, Continuation High Schools, County Community, Juvenile Court Schools, Preschools, 
-Special Education Schools and Youth Authority Facilities are not included (not sure if this is correct???). However, MealsCount includes a function to include new schools to your list in order to calculate ISP. `,
-          category: "MealsCount"
+Special Education Schools and Youth Authority Facilities are not included (not sure if this is correct???). However, Meals Count includes a function to include new schools to your list in order to calculate ISP. `,
+          category: "Meals Count"
         },
         {
           title: "Please explain each “Pairs”, “Exhaustive”, “Binning”, “Spread” and other strategies:",
           value: "Answer Coming Soon!",
-          category: "MealsCount"
+          category: "Meals Count"
         }
         ,
         {
           title: "How is the best grouping strategy calculated?",
           value: "Answer Coming Soon!",
-          category: "MealsCount"
+          category: "Meals Count"
         }
         ,
         {
           title: "Please explain each best strategy: pairs, OneGroup, Spread",
           value: "Answer Coming Soon!",
-          category: "MealsCount"
+          category: "Meals Count"
         },
         {
           title: "What is the reimbursement rate used? (explain if it will be updated each year, add that it doesn’t impact grouping strategy?)",
           value: "The reimbursement rates include the yearly rates approved by the United States Department of Agriculture (USDA) and California Department of Education (CDE). Please note that the rates don’t impact the grouping optimization feature, but we understand that it is important to reflect the estimated reimbursement amount for each group to assist you in making the best financial decision for your program. ",
-          category: "MealsCount"
+          category: "Meals Count"
         },
         {
           title: "Is state reimbursement included with the Estimated Annual Reimbursement Range amount?",
           value: `No, the amount indicated on the Estimated Annual Reimbursement Range does not include the state reimbursement. 
           Please consider adding the expected state reimbursement when making a financial decision for your program.`,
-          category: "MealsCount"
+          category: "Meals Count"
         },
         {
           title: " Is the $0.6 reimbursement added for severe need schools?",
           value: `Answer Coming Soon!`,
-          category: "MealsCount"
+          category: "Meals Count"
         },
         {
           title: "Once I have the grouping results, what are the next steps?",
-          value: `MealsCount is an optimization tool that helps you group schools in the most favorable way to increase your funding for school meals, and help fight child hunger. We recognize that there are multiple factors that may impact your decision to apply for CEP such as participation, student debt, revenue collected from paid students or other sources (e.i. A la carte items), expected increase or drop on school enrollment, etc. Local and internal factors such as the ones mentioned are critical to consider before making a decision. Our recommendation is that once you have your grouping results, we suggest analyzing the different scenarios and the estimated reimbursement and participation numbers for each group, if applicable, adding the state reimbursement and any other amount not reflected on MealsCount,
+          value: `Meals Count is an optimization tool that helps you group schools in the most favorable way to increase your funding for school meals, and help fight child hunger. We recognize that there are multiple factors that may impact your decision to apply for CEP such as participation, student debt, revenue collected from paid students or other sources (e.i. A la carte items), expected increase or drop on school enrollment, etc. Local and internal factors such as the ones mentioned are critical to consider before making a decision. Our recommendation is that once you have your grouping results, we suggest analyzing the different scenarios and the estimated reimbursement and participation numbers for each group, if applicable, adding the state reimbursement and any other amount not reflected on Meals Count,
            and comparing them to your current figures. For free technical assistance to analyze your results, you can contact ______`,
-          category: "MealsCount"
+          category: "Meals Count"
         },
       ]
     };
