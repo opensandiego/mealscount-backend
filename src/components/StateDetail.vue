@@ -1,8 +1,9 @@
 <template>
-    <section class="state-detail container my-3">
+    <section class="state-detail container my-3" v-if="state != null">
         <div class="row">
             <h1 class="col-sm-6">{{ state.name }}</h1>
             <div class="district-filter col-sm-2 offset-sm-4 "><input type="text" placeholder="Filter Districts" v-model="district_filter" /></div>
+            <div class="col-sm-12" v-html="state.about"></div>
         </div>
         <div class="row">
             <table  @mouseover="hover = true" @mouseleave="hover = false" class="table col-sm district-table">
@@ -54,14 +55,14 @@ export default {
         use: VTooltip,
       }
     },
-    
     computed: {
         state() {
-            // Todo buld from state_cod
-            return {name:"California",code:this.state_code};
+            return this.$store.getters.get_states[this.state_code];
         },
         districts(){
-          const districts =_.orderBy(this.$store.getters.districts, [this.sort_col], [this.sort_desc?"desc":"asc"]);
+          if(!this.state){ return [] }
+          const districts = _.orderBy(this.state.districts, [this.sort_col], [this.sort_desc?"desc":"asc"]);
+          if(districts == null){ return [] }
           if( this.district_filter.length > 2){
             return _.filter(districts, d => d.name.toLowerCase().includes(this.district_filter.toLowerCase()))
           }
@@ -70,6 +71,7 @@ export default {
     },
     methods: {
       set_sort(col){
+        console.log("setting sor",col);
         if(col == this.sort_col){
           this.sort_desc = !this.sort_desc;
         }else{

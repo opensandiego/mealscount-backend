@@ -1,7 +1,7 @@
 
 <template>
   <transition name="modal-fade">
-    <div class="modal-backdrop">
+    <div class="modal-backdrop" v-if="selected_state != null">
       <div class="modal"
         role="dialog"
         aria-labelledby="modalTitle"

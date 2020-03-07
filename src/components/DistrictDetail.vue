@@ -320,10 +320,18 @@ export default {
       },
     };
   },
+  mounted(){
+    /*if( !this.$store.getters.get_states[this.state_code]){
+      this.$store.dispatch("load_districts",this.state_code);
+    }*/
+  },
   computed: {
     district() {
+      if( !this.$store.getters.get_states[this.state_code]){
+        return [];
+      }
       var districts = _.filter(
-        this.$store.getters.districts,
+        this.$store.getters.get_states[this.state_code].districts,
         d => d.code == this.district_code
       );
       if (districts.length) {

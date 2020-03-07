@@ -3,7 +3,8 @@ from flask_cors import CORS
 from flask_talisman import Talisman
 from werkzeug.routing import BaseConverter
 from urllib.parse import urlparse
-import os
+import os,os.path
+import us
 
 import csv,codecs,os,os.path
 from strategies.base import CEPDistrict,CEPSchool
@@ -101,6 +102,25 @@ def district(state,code):
     district.run_strategies() 
     district.evaluate_strategies()
     return jsonify(district.as_dict())
+
+@app.route('/api/states/', methods=['GET'])
+def states():
+    states = {} # keyed by lowercase abbr (e.g. "ca"), with "name", "district_data", "about"
+    DATA_FOLDER = os.path.join(os.path.dirname(__file__),'data')
+    STATIC_FOLDER = os.path.join(os.path.dirname(__file__),'dist','static')
+
+    for state in os.listdir(DATA_FOLDER):
+        if os.path.exists(os.path.join(DATA_FOLDER,state)):
+            state_info = us.states.lookup(state)
+            if state_info:
+                s = { "name":state_info.name, "fips":state_info.fips }
+                if os.path.exists(os.path.join(DATA_FOLDER,state,"about.html")):
+                    s["about"] = open(os.path.join(DATA_FOLDER,state,"about.html")).read()[:1024]
+                # District data is loaded through /api/districts/state/
+                if os.path.exists(os.path.join(STATIC_FOLDER,state,"districts.json")):
+                    s["district_list"] = os.path.join("/static/",state,"districts.json")
+                    states[state] = s
+    return jsonify(states)
 
 # sanity check route
 @app.route('/', defaults={'path':''})

@@ -7,15 +7,17 @@ Vue.use(Vuex);
 
 export default new Vuex.Store({
     state: {
-        states: {'ca':[]},
+        states: {},
     },
     mutations: {
         set_district_list(state,district_list){
-            Vue.set(state.states, district_list.state, district_list.list);
+            const state_info = state.states[district_list.state];
+            state_info.districts = district_list.list
+            Vue.set(state.states, district_list.state, state_info);
         },
         set_district( state, district ){
             console.log("setting district",district)
-            const d = _.filter(state.states[district.state_code], d => d.code == district.code)[0];
+            const d = _.filter(state.states[district.state_code].districts, d => d.code == district.code)[0];
             Vue.set(d, 'data', district);
         },
         set_edited_district( state, district ){
@@ -27,14 +29,11 @@ export default new Vuex.Store({
             }
 
         },
+        set_states( state, data ){
+            state.states = data;
+        }
     },
     getters: {
-        districts: state => {
-            // TODO let other states do this
-            const state_code = "ca";
-            if(state.states[state_code] == undefined){ return [] }
-            return state.states[state_code];
-        },
         edited_districts: state => {
             return state.edited_districts;
         },
@@ -43,6 +42,15 @@ export default new Vuex.Store({
         },
     },
     actions: {
+        load_states({commit,dispatch}){
+            const url = `/api/states/`;
+            axios.get(url).then( resp => {
+                for( var k in resp.data){
+                    resp.data[k].districts = null;
+                }
+                commit('set_states', resp.data);
+            })
+        },
         load_districts({commit,dispatch}, state_code){
             //const url =`/api/districts/${state_code}/` 
             const url = `/static/${state_code}/districts.json`;
