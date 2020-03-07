@@ -8,6 +8,7 @@ Vue.use(Vuex);
 export default new Vuex.Store({
     state: {
         states: {},
+        selected_district: null,
     },
     mutations: {
         set_district_list(state,district_list){
@@ -17,8 +18,9 @@ export default new Vuex.Store({
         },
         set_district( state, district ){
             console.log("setting district",district)
-            const d = _.filter(state.states[district.state_code].districts, d => d.code == district.code)[0];
-            Vue.set(d, 'data', district);
+            state.selected_district = district;
+            //const d = _.filter(state.states[district.state_code].districts, d => d.code == district.code)[0];
+            //Vue.set(d, 'data', district);
         },
         set_edited_district( state, district ){
             const d = _.filter(state.states[district.state_code], d => d.code == district.code)[0];
@@ -39,6 +41,9 @@ export default new Vuex.Store({
         },
         get_states: state => {
             return state.states;
+        },
+        selected_district: state => {
+            return state.selected_district;
         },
     },
     actions: {

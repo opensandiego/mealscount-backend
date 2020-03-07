@@ -20,9 +20,9 @@
           <dt>District Code</dt>
           <dd>{{ district_code}}</dd>
           <dt>District Total Enrolled</dt>
-          <dd v-if="district_data != null">{{ district_data.total_enrolled | toCount }}</dd>
+          <dd v-if="district != null">{{ district.total_enrolled | toCount }}</dd>
           <dt>District-Wide ISP</dt>
-          <dd v-if="district_data != null">{{ (district_data.overall_isp*100).toFixed(1) }}%</dd>
+          <dd v-if="district != null">{{ (district.overall_isp*100).toFixed(1) }}%</dd>
           <dt>
             Estimated Annual Reimbursement Range
             <sup>1</sup>
@@ -80,7 +80,7 @@
       </div>
     </div>
 
-    <div class="row container mx-auto" v-if="district_data != null && viewMode == 'group'">
+    <div class="row container mx-auto" v-if="district != null && viewMode == 'group'">
       <div class="col-sm accordion" id="groupedDisplay">
         <div v-for="group in grouped_schools" class="card" v-bind:key="group.id">
           <div class="card-header" v-bind:id="`card-${group.id}`">
@@ -171,7 +171,7 @@
       </div>
     </div>
 
-    <div class="row px-3" v-if="district_data != null && viewMode == 'table'">
+    <div class="row px-3" v-if="district != null && viewMode == 'table'">
       <table class="table col-sm school-table">
         <thead class="thead-dark">
           <tr>
@@ -320,43 +320,18 @@ export default {
       },
     };
   },
-  mounted(){
-    /*if( !this.$store.getters.get_states[this.state_code]){
-      this.$store.dispatch("load_districts",this.state_code);
-    }*/
-  },
   computed: {
     district() {
-      if( !this.$store.getters.get_states[this.state_code]){
-        return [];
-      }
-      var districts = _.filter(
-        this.$store.getters.get_states[this.state_code].districts,
-        d => d.code == this.district_code
-      );
-      if (districts.length) {
-        return districts[0];
-      }
-      return null;
+      return this.$store.getters.selected_district;
     },
     edited(){
       return this.district != null && this.district.edited != undefined;
     },
-    district_data() {
-      // When a district has been edited, we return the "edited" parameter of the district
-      if (this.district == null || this.district.data == undefined) {
-        return null;
-      }
-      if(this.district.edited == undefined){
-        return this.district.data;
-      }
-      return this.district.edited;
-    },
-    grouped_schools() {
-      if (this.district == null || this.district_data == null) {
+   grouped_schools() {
+      if (this.district == null || this.district == null) {
         return [];
       }
-      const s = this.district_data.strategies[this.district_data.best_index];
+      const s = this.district.strategies[this.district.best_index];
       const grouped = [];
       const schools = this.ordered_schools;
       var i = 1;
@@ -374,10 +349,10 @@ export default {
       return _.orderBy( grouped, ['data.isp'], 'desc');
     },
     ordered_schools() {
-      if (this.district == null || this.district_data == null) {
+      if (this.district == null || this.district == null) {
         return [];
       }
-      const schools = this.district_data.schools;
+      const schools = this.district.schools;
       schools.forEach(s => {
         s.grouping = this.best_group_index[s.school_code];
       });
@@ -388,13 +363,13 @@ export default {
       );
     },
     best_strategy() {
-      if (this.district == null || this.district_data == null) {
+      if (this.district == null || this.district == null) {
         return null;
       }
-      if (!this.district_data.strategies) {
+      if (!this.district.strategies) {
         return null;
       }
-      return this.district_data.strategies[this.district_data.best_index];
+      return this.district.strategies[this.district.best_index];
     },
     best_group_index() {
       if (this.best_strategy == null) {
@@ -412,26 +387,18 @@ export default {
     }
   },
   watch: {
-    district(newVal, oldVal) {
-      if (this.district != null && this.district_data == null) {
-        this.loadDistrictData();
-      }
-    },
-    district_data( newVal, oldVal) {
+    district( newVal, oldVal) {
       if(newVal != null){
         this.init_school_form();
         // Set district meta data
-        _.defaultsDeep(this.district_form,{'reimbursement_rates':this.district_data.rates});
+        _.defaultsDeep(this.district_form,{'reimbursement_rates':this.district.rates});
         this.district_form.code = this.district_code;
-        this.district_form.name = this.district_data.name;
+        this.district_form.name = this.district.name;
         this.district_form.state_code = this.state_code;
       }
     }
   },
   mounted() {
-    if (this.district != null && this.district_data == null) {
-      this.loadDistrictData();
-    }
     if(localStorage.getItem('scenarios')){
       try{
         const parsed = JSON.parse(localStorage.getItem('scenarios'));
@@ -444,12 +411,6 @@ export default {
     }
   },
   methods: {
-    loadDistrictData() {
-      this.$store.dispatch("load_district", {
-        code: this.district_code,
-        state: this.state_code
-      });
-    },
     init_school_form(){
       console.log("adding schools");
       this.school_form = {};
@@ -467,7 +428,7 @@ export default {
       });
     },
     save_school_data(name){
-      const data = JSON.stringify(this.district_data.schools);
+      const data = JSON.stringify(this.district.schools);
       localStorage.setItem(name,data);
       if( !_.includes(this.scenarios,name) ){
         this.saved_scenarios.push(name);
@@ -478,10 +439,10 @@ export default {
       if(localStorage.getItem(name)){
         try{
           // preserve initial loaded data
-          if(! this.district_data.original_schools){
-            this.district_data.original_schools = this.district_data.schools;
+          if(! this.district.original_schools){
+            this.district.original_schools = this.district.schools;
           }
-          this.district_data.schools = JSON.parse(localStorage.getItem(name));
+          this.district.schools = JSON.parse(localStorage.getItem(name));
           this.scenario_name = name;
           this.init_school_form();
           if(!this.editMode){
@@ -570,7 +531,7 @@ export default {
         daily_breakfast_served: 1,
         daily_lunch_served: 1,
       }
-      this.district_data.schools.push( school_data );
+      this.district.schools.push( school_data );
       // console.log("Adding to school_form",new_school);
       this.new_school_to_add.code='';
       this.new_school_to_add.name='';
