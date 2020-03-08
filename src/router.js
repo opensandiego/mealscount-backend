@@ -5,7 +5,6 @@ import CEP from "./components/CEP.vue";
 import Contact from "./components/Contact.vue";
 import StateDetail from "./components/StateDetail.vue";
 import DistrictDetail from "./components/district/DistrictDetail.vue";
-import EditDistrict from "./components/EditDistrict.vue";
 import StateMap from "./components/StateMap.vue"
 import Faq from "./components/Faq.vue";
 import Vue from 'vue';
@@ -67,12 +66,6 @@ export default new Router({
             beforeEnter: (to, from, next) => {
                 store.dispatch("load_district",{state:to.params.state_code,code:to.params.district_code}).then(next)
             }
-        },
-        {
-            path: '/edit-district', 
-            name: 'edit-district',
-            component: EditDistrict,
-            props: true,
         },
     ]
 });

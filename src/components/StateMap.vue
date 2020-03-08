@@ -6,11 +6,11 @@
         <h1> Select your state! </h1>
         </div>
 
-<modal id="modal"
-      v-show="isModalVisible"
-      v-bind:selected_state="selected_state"
-      @close="closeModal"/>
-        
+        <StateMapModal id="modal"
+          v-show="isModalVisible"
+          v-bind:selected_state="selected_state"
+          @close="closeModal"/>
+
 
         <div id="tooltip"></div>
         <svg id="map"></svg>
@@ -27,9 +27,9 @@
 </template>
 
 <script>
-import Modal from '../components/Modal.vue';
+import StateMapModal from './StateMapModal.vue'
 import _ from 'lodash';
-import usa_topojson from 'us-atlas/states-albers-10m.json';
+import usa_topojson from 'us-atlas/states-albers-10m.json'
 import * as d3 from 'd3';
 import * as topojson from 'topojson';
 import * as us from 'us';
@@ -37,7 +37,7 @@ import * as us from 'us';
 export default {
 
 components: {
-    modal: Modal,
+    StateMapModal
   },
 
   data() {
@@ -95,15 +95,9 @@ components: {
                             if(this.statedata[state.abbr.toLowerCase()]){
                                 this.$router.push(`/explore/${state.abbr.toLowerCase()}`)
                             }else{
-                                // TODO pop up modal instead?
-                                // wrong: showModal()
-                               // wrong: "showModal"
-                                        this.showModal()
-
-                                // alert("Sorry, this state's data is not yet available")
+                                this.showModal()
                             }
-                            }) 
-                    .append("title").text(d => { 
+                    }).append("title").text(d => { 
                         const state = us.lookup(d.id)
                         return state.name
                     })
