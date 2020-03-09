@@ -10,7 +10,7 @@
       </div>
 
       <div class="row">
-        <h1 class="col-sm">{{ district.name }} ({{ district_code }} - {{ state_code }})</h1>
+        <h1 class="col-sm-12">{{ district.name }} ({{ district_code }} - {{ state_code }})</h1>
       </div>
 
       <DistrictSummary v-bind:district="district" v-bind:schoolDays="schoolDays" v-bind:editMode="editMode" />
@@ -38,13 +38,34 @@
     <div v-if="district != null && viewMode == 'table'">
         <div class="col-sm-12">
               <button
-                class="btn btn-primary"
+                v-bind:class="{ 'btn-secondary': editMode, 'btn-primary': !editMode }"
+                class="btn"
                 type="button"
                 data-toggle="button"
                 aria-pressed="false"
                 autocomplete="off"
                 v-on:click="toggleEdit"
-              >edit</button>
+              >Edit</button>
+
+              <button
+                v-if="edited && !editMode"
+                class="btn btn-primary"
+                type="button"
+                data-toggle="button"
+                aria-pressed="true"
+                autocomplete="off"
+                v-on:click="submit"
+              >Submit</button>
+
+              <button
+                v-if="edited"
+                class="btn btn-primary"
+                type="button"
+                data-toggle="button"
+                aria-pressed="true"
+                autocomplete="off"
+                v-on:click="save_scenario"
+              >Save</button>
 
               <button
                 class="btn btn-primary"
@@ -52,8 +73,9 @@
                 data-toggle="button"
                 aria-pressed="true"
                 autocomplete="off"
-                v-on:click="submit"
-              >submit</button>
+                v-on:click="export_to_csv"
+              >Export to CSV</button>
+
 
               <button
                 class="btn btn-primary"
@@ -62,13 +84,14 @@
                 aria-pressed="true"
                 autocomplete="off"
                 v-on:click="reload"
-              >reload</button>
+              >Reload</button>
 
               <span class="optimize_badge badge badge-secondary" v-if="'optimization_info'in district">Optimized on {{ district.optimization_info.timestamp }} in {{ district.optimization_info.time.toFixed(2) }}s</span>
+              <span v-if="edited" class="badge badge-primary" >edited</span>
 
         </div>
 
-        <DistrictSchoolView v-bind:schools="district.schools" v-bind:best_group_index="best_group_index" v-bind:editMode="editMode" />
+        <DistrictSchoolView class="col-sm-12" v-bind:schools="district.schools" v-bind:best_group_index="best_group_index" v-bind:editMode="editMode" />
     </div>
 
     <div>
@@ -102,6 +125,7 @@ export default {
   data() {
     return {
       editMode: false,
+      edited: false,
       viewMode: "table", // or "group"
       schoolDays: 180,
     }
@@ -109,9 +133,6 @@ export default {
   computed: {
     district() {
       return this.$store.getters.selected_district;
-    },
-    edited(){
-      return this.district != null && this.district.edited != undefined;
     },
     grouped_schools() {
       if (this.district == null || this.district == null) {
@@ -161,6 +182,7 @@ export default {
   methods: {
     toggleEdit() {
       this.editMode = !this.editMode;
+      this.edited = true
     },
     submit(){
       console.log("Submitting for optimization",this.district) 
@@ -168,6 +190,13 @@ export default {
     },
     reload(){
       this.$store.dispatch("load_district",{code:this.district.code,state:this.district.state_code});
+      this.edited = false
+    },
+    save_scenario(){
+      // todo pop up scenario modal
+    },
+    export_to_csv(){
+      // todo figure out how to export to CSV
     },
     daily_reimbursement_by_school ( school_code ){
       if(this.district_form.reimbursement_rates == null){
