@@ -13,28 +13,9 @@
         <h1 class="col-sm">{{ district.name }} ({{ district_code }} - {{ state_code }})</h1>
       </div>
 
-      <DistrictSummary v-bind:district="district" v-bind:schoolDays="schoolDays" />
+      <DistrictSummary v-bind:district="district" v-bind:schoolDays="schoolDays" v-bind:editMode="editMode" />
 
-      <div class="row">
-        <div class="col-sm mb-3">
-          Saved Scenarios
-          <select v-model="scenario_to_load">
-              <option v-for="scenario in saved_scenarios" v-bind:value="scenario" v-bind:key="scenario">{{ scenario }}</option>
-          </select>
-          <button v-on:click="handle_load_scenario">Load</button>
-        </div>
-        <div class="col-sm mb-3" v-if="school_form != null">
-          <input type="text" id="save_scenario" v-model="scenario_name" placeholder="Scenario Name" /> 
-          <button v-on:click="handle_save_scenario">Save Scenario</button>
-        </div>
-        <div class="col-sm mb-3">
-          View By
-          <select v-model="viewMode">
-            <option value="group">Group</option>
-            <option value="table">All Schools</option>
-          </select>
-        </div>
-      </div>
+      <ScenarioControl />
     </div>
 
     <div class="row">
@@ -45,107 +26,17 @@
           ISP numbers are for <strong>Direct Certification Only</strong>. Your district's numbers may be significantly higher. 
           Some charter schools may be included, and some preschool schools may be missing, based upon the school data we receive from CALPADS.
           To get the best recommended grouping, the school listing and ISP numbers should be modified to match the reality of your school.
-          For more information or questions, please <a href="https://cfpa.net/">Contact Us</a>!
+          For more information or questions, please <router-link to="/contact">Contact Us</router-link>!
         </div>
       </div>
     </div>
 
     <div class="row container mx-auto" v-if="district != null && viewMode == 'group'">
-      <div class="col-sm accordion" id="groupedDisplay">
-        <div v-for="group in grouped_schools" class="card" v-bind:key="group.id">
-          <div class="card-header" v-bind:id="`card-${group.id}`">
-            <h2 class="mb-0">
-              <button
-                class="btn btn-link collapsed"
-                type="button"
-                data-toggle="collapse"
-                v-bind:data-target="`#collapsegroup-${group.id}`"
-                aria-expanded="false"
-                v-bind:aria-controls="`collapsegroup-${group.id}`"
-              >Group {{ group.id }}: {{ group.data.name }}</button>
-            </h2>
-            <ul>
-              <li>Schools: {{ group.schools.length }}</li>
-              <li>Group ISP: {{ (group.data.isp*100).toFixed(1) }}%</li>
-              <li>Students: {{ group.data.total_eligible | toCount }} Identified Students of {{ group.data.total_enrolled | toCount }} Enrolled</li>
-              <li>Daily Meals Served: {{ group.data.daily_breakfast_served }} breakfasts, {{ group.data.daily_lunch_served }} lunches</li>
-              <li>Breakfast Reimbursement Rates: {{ district.rates.free_bfast | toUSDx }} / {{ district.rates.paid_bfast | toUSDx }}</li>
-              <li>Lunch Reimbursement Rates: {{ district.rates.free_lunch | toUSDx }} / {{ district.rates.paid_lunch | toUSDx }}</li>
-              <li>Group Annual Reimbursement Estimate: {{ (group.data.est_reimbursement * schoolDays) | toUSD }} ( {{ group.data.est_reimbursement | toUSD }} per day)</li>
-              <li style="color:green" v-if="group.data.cep_eligible">Group CEP Eligible</li>
-              <li style="color:red" v-else>Not CEP Eligible</li>
-              <li
-                style="color:green"
-                v-if="group.data.isp >= 0.625"
-              >All meals reimbursed at the free rate</li>
-              <li
-                style="color:green"
-                v-if="group.data.isp < 0.625 && group.data.isp >= 0.4"
-              >Partial Coverage</li>
-            </ul>
-          </div>
-
-          <div
-            v-bind:id="`collapsegroup-${group.id}`"
-            class="collapse"
-            v-bind:aria-labelledby="`card-${group.id}`"
-            data-parent="#groupedDisplay"
-          >
-            <div class="card-body">
-              <table class="table col-sm">
-                <thead class="thead-dark">
-                  <tr>
-                    <th scope="col" @click="set_sort('school_code')">School Code</th>
-                    <th scope="col" @click="set_sort('school_name')">School Name</th>
-                    <th scope="col">School Type</th>
-                    <th scope="col" @click="set_sort('total_enrolled')">Total Enrolled</th>
-                    <th v-tooltip title="Placeholder!" scope="col">
-                      Total Eligible
-                      <sup>2</sup>
-                    </th>
-                    <th scope="col">
-                      Daily Breakfast Served
-                      <sup>3</sup>
-                    </th>
-                    <th scope="col">
-                      Daily Lunch Served
-                      <sup>3</sup>
-                    </th>
-                    <th scope="col" @click="set_sort('active')">Included in Optimization</th>
-                    <th scope="col" @click="set_sort('isp')">School ISP</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  <tr
-                    v-for="school in group.schools"
-                    v-bind:class="{ inactive: !school.active }"
-                    v-bind:key="school.code"
-                  >
-                    <td>{{ school.school_code }}</td>
-                    <td>{{ school.school_name }}</td>
-                    <td>{{ school.school_type }}</td>
-                    <td>{{ school.total_enrolled | toCount }}</td>
-                    <td>{{ school.total_eligible | toCount }}</td>
-                    <td>{{ school.daily_breakfast_served | toCount }}</td>
-                    <td>{{ school.daily_lunch_served | toCount }}</td>
-                    <td>
-                      <span v-if="school.active">✔️</span>
-                    </td>
-                    <td>{{ (school.isp * 100).toFixed(1) }}%</td>
-                  </tr>
-                </tbody>
-              </table>
-            </div>
-          </div>
-        </div>
-      </div>
+        <DistrictGroupView v-bind:district="district" />
     </div>
 
     <div class="row px-3" v-if="district != null && viewMode == 'table'">
-      <table class="table col-sm school-table">
-        <thead class="thead-dark">
-          <tr>
-            <td colspan="11">
+        <div class="col-sm-12">
               <button
                 v-if="editMode == false"
                 class="btn btn-primary"
@@ -175,81 +66,8 @@
               >cancel</button>
 
               <span class="badge badge-secondary" v-if="edited">Edited, refresh to clear</span>
-            </td>
-          </tr>
-          <tr id="district-table-header">
-            <th scope="col" @click="set_sort('grouping')">Recommended Grouping</th>
-            <th scope="col" @click="set_sort('school_code')">School Code</th>
-            <th scope="col" @click="set_sort('school_name')">School Name</th>
-            <th scope="col">School Type</th>
-            <th v-tooltip title="Placeholder!" scope="col" @click="set_sort('total_enrolled')">Total Enrolled <img v-bind:src="image.qmark"></th>
-            <th v-tooltip title="Derived from Direct Certified only" scope="col">
-              Total Eligible <sup>2</sup> <img v-bind:src="image.qmark"></th>
-            <th v-tooltip title="From average meals per day April 2019, based upon CFPA SNP Report" scope="col">
-              Daily Breakfast Served
-              <sup>3</sup> <img v-bind:src="image.qmark">
-            </th>
-            <th  v-tooltip title="From average meals per day April 2019, based upon CFPA SNP Report" scope="col">
-              Daily Lunch Served
-              <sup>3</sup> <img v-bind:src="image.qmark">
-            </th>
-            <th v-tooltip title="Placeholder!" scope="col" @click="set_sort('active')">Included in Optimization <img v-bind:src="image.qmark"></th>
-            <th v-tooltip title="Placeholder!" scope="col" @click="set_sort('isp')">School ISP <img v-bind:src="image.qmark"></th>
-            <th v-tooltip title="Placeholder!" scope="col">School CEP Eligible <img v-bind:src="image.qmark"></th>
-            <th v-tooltip title="Reimbursement per school year" scope="col">Reimbursement Per School </th>
-          </tr>
-        </thead>
-        <tbody v-if="school_form != null">
-          <tr
-            v-bind:class="{ inactive: !school.active }"
-            v-for="school in ordered_schools"
-            v-bind:key="school.code"
-          >
-            <td>{{ (best_group_index!=null?best_group_index[school.school_code]:'n/a') }}</td>
-            <td>{{ school.school_code }}</td>
-            <td>{{ school.school_name }}</td>
-            <td>{{ school.school_type }}</td>
-            <td v-if="editMode">
-              <input type="number" v-model="school_form[school.school_code].total_enrolled" />
-            </td>
-            <td v-else>{{ school.total_enrolled | toCount }}</td>
-            <td v-if="editMode">
-              <input type="number" v-model="school_form[school.school_code].total_eligible" />
-            </td>
-            <td v-else>{{ school.total_eligible | toCount }}</td>
-            <td v-if="editMode">
-              <input type="number" v-model="school_form[school.school_code].daily_breakfast_served" />
-            </td>
-            <td v-else>{{ school.daily_breakfast_served | toCount }}</td>
-            <td v-if="editMode">
-              <input type="number" v-model="school_form[school.school_code].daily_lunch_served" />
-            </td>
-            <td v-else>{{ school.daily_lunch_served | toCount }}</td>
-            <td v-if="editMode">
-              <input type="checkbox" v-model="school_form[school.school_code].active" />
-            </td>
-            <td v-else>
-              <span v-if="school.active">✔️</span>
-            </td>
-            <td v-if="editMode">
-              {{ ( (school_form[school.school_code].total_eligible / school_form[school.school_code].total_enrolled) * 100).toFixed(1) }}%
-            </td>
-            <td v-else>{{ (school.isp * 100).toFixed(1) }}%</td>
-            <td v-if="editMode">
-              {{  ((school_form[school.school_code].total_eligible / school_form[school.school_code].total_enrolled)>=0.4)?"✔️":""  }}%
-            </td>
-            <td>{{ (school.isp >= 0.40)?"✔️":"" }}</td>
-            <td><!-- Not Ready {{ (schoolDays * daily_reimbursement_by_school(school.school_code) ) | toUSD }} --> - </td>
-          </tr>
-          <tr v-if="editMode == true" class="add_row">
-            <td>Add School:</td>
-            <td><input type="text" v-model="new_school_to_add.code" name="school_code" placeholder="School Code" /></td>
-            <td><input type="text" v-model="new_school_to_add.name" name="school_name" placeholder="School Name" /></td>
-            <td><input type="text" v-model="new_school_to_add.type" name="school_type" value="Public" /></td>
-            <td colspan="7"><button v-on:click="add_school" class="btn btn-primary">Add</button></td>
-          </tr>
-        </tbody>
-      </table>
+              </div>
+        <DistrictSchoolView v-bind:schools="district.schools" v-bind:best_group_index="best_group_index" v-bind:editMode="editMode" />
     </div>
 
     <div>
@@ -266,29 +84,27 @@
 
 <script>
 import * as _ from "lodash";
-import QUESTION from '../../assets/qmark.png'
-import DistrictSummary from "./DistrictSummary.vue";
+import DistrictSummary from "./DistrictSummary.vue"
+import ScenarioControl from "./ScenarioControl.vue"
+import DistrictSchoolView from "./DistrictSchoolView.vue"
+import DistrictGroupView from "./DistrictGroupView.vue"
 
 // TODO "404" if no district?
 // TODO break this down into little components...
 export default {
   components: {
-    DistrictSummary
+    DistrictSummary,
+    ScenarioControl,
+    DistrictSchoolView,
   },
   props: ["state_code", "district_code"],
   data() {
     return {
-      image: {qmark: QUESTION},
-      sort_col: "School Name",
-      sort_desc: false,
       school_form: null,
       district_form: {},
       editMode: false,
       viewMode: "table", // or "group"
       schoolDays: 180,
-      scenario_name: '',
-      saved_scenarios: [],
-      scenario_to_load: null,
       new_school_to_add: {
         code:'',name:'',type:''
       },
@@ -301,13 +117,13 @@ export default {
     edited(){
       return this.district != null && this.district.edited != undefined;
     },
-   grouped_schools() {
+    grouped_schools() {
       if (this.district == null || this.district == null) {
         return [];
       }
       const s = this.district.strategies[this.district.best_index];
       const grouped = [];
-      const schools = this.ordered_schools;
+      const schools = this.district.schools;
       var i = 1;
       s.groups.forEach(g => {
         const group = {
@@ -321,20 +137,6 @@ export default {
         grouped.push(group);
       });
       return _.orderBy( grouped, ['data.isp'], 'desc');
-    },
-    ordered_schools() {
-      if (this.district == null || this.district == null) {
-        return [];
-      }
-      const schools = this.district.schools;
-      schools.forEach(s => {
-        s.grouping = this.best_group_index[s.school_code];
-      });
-      return _.orderBy(
-        schools,
-        [this.sort_col],
-        [this.sort_desc ? "desc" : "asc"]
-      );
     },
     best_strategy() {
       if (this.district == null || this.district == null) {
@@ -372,23 +174,12 @@ export default {
       }
     }
   },
-  mounted() {
-    if(localStorage.getItem('scenarios')){
-      try{
-        const parsed = JSON.parse(localStorage.getItem('scenarios'));
-        console.log("setting parsed scenarios")
-        this.saved_scenarios = parsed;
-      }catch(e){
-        console.log("issue loading scenarios",e);
-        localStorage.removeItem("scenarios");
-      }
-    }
-  },
+
   methods: {
     init_school_form(){
       console.log("adding schools");
       this.school_form = {};
-      this.ordered_schools.forEach(school => {
+      this.district.schools.forEach(school => {
           this.school_form[school.school_code] = {
             name: school.school_name,
             code: school.school_code,
@@ -452,14 +243,6 @@ export default {
         return;
       }
       this.load_school_data(this.scenario_to_load);
-    },
-    set_sort(col) {
-      if (col == this.sort_col) {
-        this.sort_desc = !this.sort_desc;
-      } else {
-        this.sort_col = col;
-        this.sort_desc = false;
-      }
     },
     toggleEdit() {
       this.editMode = !this.editMode;
