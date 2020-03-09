@@ -15,11 +15,11 @@
 
       <DistrictSummary v-bind:district="district" v-bind:schoolDays="schoolDays" v-bind:editMode="editMode" />
 
-      <ScenarioControl />
+      <!-- <ScenarioControl /> -->
     </div>
 
     <div class="row">
-      <div class="col-sm">
+      <div class="col-sm-12">
         <div class="alert alert-primary" role="alert">
           <strong>PLEASE NOTE</strong>
           The data shown for this district is from the 2018-2019 CALPADS aggregate data, as well as April 2019 meals average meals data.
@@ -35,10 +35,9 @@
         <DistrictGroupView v-bind:district="district" />
     </div>
 
-    <div class="row px-3" v-if="district != null && viewMode == 'table'">
+    <div v-if="district != null && viewMode == 'table'">
         <div class="col-sm-12">
               <button
-                v-if="editMode == false"
                 class="btn btn-primary"
                 type="button"
                 data-toggle="button"
@@ -46,8 +45,8 @@
                 autocomplete="off"
                 v-on:click="toggleEdit"
               >edit</button>
+
               <button
-                v-if="editMode == true"
                 class="btn btn-primary"
                 type="button"
                 data-toggle="button"
@@ -55,18 +54,20 @@
                 autocomplete="off"
                 v-on:click="submit"
               >submit</button>
+
               <button
-                v-if="editMode == true"
                 class="btn btn-primary"
                 type="button"
                 data-toggle="button"
                 aria-pressed="true"
                 autocomplete="off"
-                v-on:click="toggleEdit"
-              >cancel</button>
+                v-on:click="reload"
+              >reload</button>
 
-              <span class="badge badge-secondary" v-if="edited">Edited, refresh to clear</span>
-              </div>
+              <span class="optimize_badge badge badge-secondary" v-if="'optimization_info'in district">Optimized on {{ district.optimization_info.timestamp }} in {{ district.optimization_info.time.toFixed(2) }}s</span>
+
+        </div>
+
         <DistrictSchoolView v-bind:schools="district.schools" v-bind:best_group_index="best_group_index" v-bind:editMode="editMode" />
     </div>
 
@@ -100,15 +101,10 @@ export default {
   props: ["state_code", "district_code"],
   data() {
     return {
-      school_form: null,
-      district_form: {},
       editMode: false,
       viewMode: "table", // or "group"
       schoolDays: 180,
-      new_school_to_add: {
-        code:'',name:'',type:''
-      },
-    };
+    }
   },
   computed: {
     district() {
@@ -162,147 +158,16 @@ export default {
       return group_index;
     }
   },
-  watch: {
-    district( newVal, oldVal) {
-      if(newVal != null){
-        this.init_school_form();
-        // Set district meta data
-        _.defaultsDeep(this.district_form,{'reimbursement_rates':this.district.rates});
-        this.district_form.code = this.district_code;
-        this.district_form.name = this.district.name;
-        this.district_form.state_code = this.state_code;
-      }
-    }
-  },
-
   methods: {
-    init_school_form(){
-      console.log("adding schools");
-      this.school_form = {};
-      this.district.schools.forEach(school => {
-          this.school_form[school.school_code] = {
-            name: school.school_name,
-            code: school.school_code,
-            type: school.school_type,
-            total_enrolled: school.total_enrolled,
-            total_eligible: school.total_eligible,
-            daily_breakfast_served: school.daily_breakfast_served,
-            daily_lunch_served: school.daily_lunch_served,
-            active: school.active
-          };
-      });
-    },
-    save_school_data(name){
-      const data = JSON.stringify(this.district.schools);
-      localStorage.setItem(name,data);
-      if( !_.includes(this.scenarios,name) ){
-        this.saved_scenarios.push(name);
-        this.save_scenario_list();
-      }
-    },
-    load_school_data(name){
-      if(localStorage.getItem(name)){
-        try{
-          // preserve initial loaded data
-          if(! this.district.original_schools){
-            this.district.original_schools = this.district.schools;
-          }
-          this.district.schools = JSON.parse(localStorage.getItem(name));
-          this.scenario_name = name;
-          this.init_school_form();
-          if(!this.editMode){
-            this.toggleEdit()
-          }
-          console.log("loaded ",name)
-        }catch(e){
-          console.error("Couldn't load scenario",name,e);
-          localStorage.removeItem(name);
-          this.saved_scenarios = _.pull(this.saved_scenarios,[name]);
-          this.save_scenario_list();
-        }
-      }else{
-        console.log("clearning missing scenario:",name)
-        this.saved_scenarios = _.filter(this.saved_scenarios, v => v != name );
-        this.save_scenario_list();
-      }
-    },
-    save_scenario_list(){
-      const data = JSON.stringify(this.saved_scenarios);
-      localStorage.setItem('scenarios',data);
-    },
-    handle_save_scenario(){
-      if(!this.scenario_name){
-        alert("Please enter a scenario name");
-        return;
-      }
-      this.save_school_data(this.scenario_name);
-    },
-    handle_load_scenario(){
-      if(!this.scenario_to_load){
-        alert("Please select a scenario to load");
-        return;
-      }
-      this.load_school_data(this.scenario_to_load);
-    },
     toggleEdit() {
       this.editMode = !this.editMode;
     },
     submit(){
-      console.log("Submitting for optimization",this.school_form,this.district_form) 
-      const district_info = {
-        schools: this.school_form,
-        code: this.district_form.code,
-        name: this.district_form.name,
-        state_code: this.district_form.state_code,
-        reimbursement_rates: this.district_form.reimbursement_rates,
-      }
-      // TODO add reimbursement rates, % increase, SFA Cert
-      this.$store.dispatch("run_district",district_info);
+      console.log("Submitting for optimization",this.district) 
+      this.$store.dispatch("run_district",this.district);
     },
-    add_school(){
-      const new_school = {
-        name: this.new_school_to_add.name,
-        code: this.new_school_to_add.code,
-        type: this.new_school_to_add.type,
-        total_enrolled: 1,
-        total_eligible: 1,
-        daily_breakfast_served: 1,
-        daily_lunch_served: 1,
-        active: true
-      }
-      if(this.school_form[new_school.code]){
-        alert("School with this code already exists, please edit that row");
-        return;
-      }
-      this.school_form[new_school.code] = new_school;
-      // TODO unify school_form and district_data?
-      const school_data = {
-        school_name: this.new_school_to_add.name,
-        school_code: this.new_school_to_add.code,
-        school_type: this.new_school_to_add.type,
-        active: true,
-        total_enrolled: 1,
-        total_eligible: 1,
-        grouping: null,
-        isp: 1,
-        daily_breakfast_served: 1,
-        daily_lunch_served: 1,
-      }
-      this.district.schools.push( school_data );
-      // console.log("Adding to school_form",new_school);
-      this.new_school_to_add.code='';
-      this.new_school_to_add.name='';
-      this.new_school_to_add.type='';
-    },
-    handleScroll (event) {
-      const header = document.getElementById("district-table-header")
-      const sticky = header.offsetTop;
-
-      if (window.pageYOffset > sticky) {
-        header.classList.add("sticky");
-      } else {
-        header.classList.remove("sticky");
-      }
+    reload(){
+      this.$store.dispatch("load_district",{code:this.district.code,state:this.district.state_code});
     },
     daily_reimbursement_by_school ( school_code ){
       if(this.district_form.reimbursement_rates == null){
@@ -320,12 +185,6 @@ export default {
       return v;
     },
   },
-  created () {
-    window.addEventListener('scroll', this.handleScroll);
-  },
-  destroyed () {
-    window.removeEventListener('scroll', this.handleScroll);
-  }
 };
 </script>
 
@@ -344,11 +203,14 @@ tr.add_row {
 tr.add_row td input {
   width: 100%;
 }
-table.school-table {
-  position: relative;
-}
-.school-table th {
-  position: sticky;
-  top: 45px;
-}
+.optimize_badge {
+  animation: fadeInAnimation ease 1s;
+  animation-iteration-count: 1; 
+  animation-fill-mode: forwards; 
+} 
+  
+@keyframes fadeInAnimation { 
+    0% { opacity: 0; } 
+    100% { opacity: 1; } 
+} 
 </style>

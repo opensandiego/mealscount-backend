@@ -23,13 +23,7 @@ export default new Vuex.Store({
             //Vue.set(d, 'data', district);
         },
         set_edited_district( state, district ){
-            const d = _.filter(state.states[district.state_code], d => d.code == district.code)[0];
-            if( d != undefined ){
-                Vue.set(d,'edited', district);
-            }else{
-                console.error("Unabled to locate matching district",district)
-            }
-
+            state.selected_district = district
         },
         set_states( state, data ){
             state.states = data;
@@ -74,9 +68,9 @@ export default new Vuex.Store({
                 commit("set_district",d);
             })
         },
-        run_district( {commit,dispatch}, district_info ){
+        run_district( {commit,dispatch}, district ){
             const url = `/api/districts/optimize/`;
-            axios.post(url,district_info).then( resp => {
+            axios.post(url,district).then( resp => {
                 const d = resp.data;
                 console.log("Updated optimization with",d);
                 commit("set_edited_district", d)

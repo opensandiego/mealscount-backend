@@ -3,7 +3,7 @@ from flask_cors import CORS
 from flask_talisman import Talisman
 from werkzeug.routing import BaseConverter
 from urllib.parse import urlparse
-import os,os.path
+import os,os.path,datetime,time
 import us
 
 import csv,codecs,os,os.path
@@ -62,22 +62,22 @@ def add_strategies(district,*strategies):
 
 @app.route("/api/districts/optimize/", methods=['POST'])
 def optimize():
-    schools = request.json["schools"]
-    district = CEPDistrict(request.json["name"],request.json["code"],reimbursement_rates=request.json["reimbursement_rates"])
+    d_obj = request.json
+    schools = d_obj["schools"]
+    district = CEPDistrict(d_obj["name"],d_obj["code"],reimbursement_rates=d_obj["rates"])
 
-    state = request.json["state_code"]
+    state = d_obj["state_code"]
 
     i = 1 
-    for k in schools:
+    for row in schools:
         # Expecting { school_code: {active, daily_breakfast_served,daily_lunch_served,total_eligible,total_enrolled }}
-        row = schools[k]
         # TODO rework how we initialize CEPSchool
-        row["School Name"] = row["name"]
-        row["School Code"] = row["code"]
-        row["School Type"] = row["type"]
+        row["School Name"] = row["school_name"]
+        row["School Code"] = row["school_code"]
+        row["School Type"] = row["school_type"]
         row['include_in_mealscount'] = row['active'] and 'true' or 'false'
         i += 1
-        district.add_school(CEPSchool(schools[k]))
+        district.add_school(CEPSchool(row))
 
     # TODO allow this as a param
     add_strategies(
@@ -85,11 +85,16 @@ def optimize():
         *["Pairs","OneToOne","Exhaustive","OneGroup","Spread","Binning"]
     )
 
+    t0 = time.time()
     district.run_strategies()
     district.evaluate_strategies()
 
     result = district.as_dict()
     result["state_code"] = state
+    result["optimization_info"] = {
+        "timestamp":str(datetime.datetime.now()),
+        "time": time.time() - t0
+    }
     return result
 
 @app.route('/api/districts/<regex("[a-z]{2}"):state>/<regex("[a-zA-Z0-9]+"):code>/', methods=['POST'])
