@@ -93,7 +93,7 @@
                 >Reload Original</button>
           </div>
       </div>
-      <div class="row">
+      <div class="row px-1">
           <DistrictSchoolView class="col-sm-12" v-bind:schools="district.schools" v-bind:best_group_index="best_group_index" v-bind:editMode="editMode" />
       </div>
       <div class="row">
