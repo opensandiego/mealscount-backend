@@ -65,14 +65,13 @@
           </div>
           <div class="col-sm-6 text-right">
                 <button
-                  v-if="edited"
                   class="btn btn-primary"
                   type="button"
                   data-toggle="button"
                   aria-pressed="true"
                   autocomplete="off"
-                  v-on:click="save_scenario"
-                >Save Scenario</button>
+                  v-on:click="openScenarioModal"
+                >Load / Save Scenario</button>
 
                 <button
                   class="btn btn-primary"
@@ -110,13 +109,14 @@
 
     </div>  
     <ExportModal v-if="showExport" v-bind:district="district" @close="closeExportModal" v-bind:grouping_index="best_group_index" />
+    <ScenarioModal v-if="showScenarioModal" v-bind:district="district" @close="closeScenarioModal" />
   </section>
 </template>
 
 <script>
 import * as _ from "lodash";
 import DistrictSummary from "./DistrictSummary.vue"
-import ScenarioControl from "./ScenarioControl.vue"
+import ScenarioModal from "./ScenarioModal.vue"
 import DistrictSchoolView from "./DistrictSchoolView.vue"
 import DistrictGroupView from "./DistrictGroupView.vue"
 import ExportModal from "./ExportModal.vue"
@@ -126,7 +126,7 @@ import ExportModal from "./ExportModal.vue"
 export default {
   components: {
     DistrictSummary,
-    ScenarioControl,
+    ScenarioModal,
     DistrictSchoolView,
     ExportModal,
   },
@@ -138,6 +138,7 @@ export default {
       viewMode: "table", // or "group"
       schoolDays: 180,
       showExport: false,
+      showScenarioModal: false,
     }
   },
   computed: {
@@ -227,6 +228,12 @@ export default {
     },
     closeExportModal(){
       this.showExport = false;
+    },
+    closeScenarioModal(){
+      this.showScenarioModal = false;
+    },
+    openScenarioModal(){
+      this.showScenarioModal = true;
     }
   },
 };
