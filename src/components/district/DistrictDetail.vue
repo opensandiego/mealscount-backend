@@ -2,7 +2,7 @@
   <section class="state-detail my-3" v-if="district != null">
     <div class="container">
       <div class="row">
-        <div class="container">
+        <div class="col-sm">
           <router-link
             :to="{name:'state-detail', params: {state:state_code} }"
           >&laquo; Back to state</router-link>
@@ -18,92 +18,97 @@
       <!-- <ScenarioControl /> -->
     </div>
 
-    <div class="row">
-      <div class="col-sm-12">
-        <div class="alert alert-primary" role="alert">
-          <strong>PLEASE NOTE</strong>
-          The data shown for this district is from the 2018-2019 CALPADS aggregate data, as well as April 2019 meals average meals data.
+    <div class="container">
+      <div class="row">
+        <div class="col-sm alert alert-warning" role="alert">
+          <strong>⚠️ PLEASE NOTE</strong>
+          <p>The data shown for this district is from the 2018-2019 CALPADS aggregate data, as well as April 2019 meals average meals data and is <strong>not up to date</strong>.
           ISP numbers are for <strong>Direct Certification Only</strong>. Your district's numbers may be significantly higher. 
-          Some charter schools may be included, and some preschool schools may be missing, based upon the school data we receive from CALPADS.
-          To get the best recommended grouping, the school listing and ISP numbers should be modified to match the reality of your school.
-          For more information or questions, please <router-link to="/contact">Contact Us</router-link>!
+          Some charter schools may be included, and some preschool schools may be missing, based upon the school data we receive from CALPADS.</p>
+          <p>To get the best recommended grouping, the school listing and ISP numbers must be modified to match the reality of your school.
+          For more information or questions, please <router-link to="/contact">Contact Us</router-link>!</p>
         </div>
       </div>
     </div>
 
-    <div class="row container mx-auto" v-if="district != null && viewMode == 'group'">
+    <div class="container" v-if="district != null && viewMode == 'group'">
         <DistrictGroupView v-bind:district="district" />
     </div>
 
-    <div v-if="district != null && viewMode == 'table'">
-        <div class="col-sm-12">
-              <button
-                v-bind:class="{ 'btn-secondary': editMode, 'btn-primary': !editMode }"
-                class="btn"
-                type="button"
-                data-toggle="button"
-                aria-pressed="false"
-                autocomplete="off"
-                v-on:click="toggleEdit"
-              >Edit</button>
+    <div class="container-fluid">
+      <div v-if="district != null && viewMode == 'table'" class="row buttons">
+          <div class="col-sm-6">
+                <button
+                  v-if="!editMode"
+                  v-bind:class="{ 'btn-secondary': editMode, 'btn-primary': !editMode }"
+                  class="btn"
+                  type="button"
+                  data-toggle="button"
+                  aria-pressed="false"
+                  autocomplete="off"
+                  v-on:click="toggleEdit"
+                >Edit</button>
 
-              <button
-                v-if="edited && !editMode"
-                class="btn btn-primary"
-                type="button"
-                data-toggle="button"
-                aria-pressed="true"
-                autocomplete="off"
-                v-on:click="submit"
-              >Submit</button>
+                <button
+                  v-if="edited && editMode"
+                  class="btn btn-primary"
+                  type="button"
+                  data-toggle="button"
+                  aria-pressed="true"
+                  autocomplete="off"
+                  v-on:click="submit"
+                >Submit</button>
 
-              <button
-                v-if="edited"
-                class="btn btn-primary"
-                type="button"
-                data-toggle="button"
-                aria-pressed="true"
-                autocomplete="off"
-                v-on:click="save_scenario"
-              >Save</button>
+                <span class="optimize_badge badge badge-secondary" v-if="'optimization_info'in district">Optimized on {{ district.optimization_info.timestamp }} in {{ district.optimization_info.time.toFixed(2) }}s</span>
+                <span v-if="edited" class="badge badge-primary" >edited</span>
 
-              <button
-                class="btn btn-primary"
-                type="button"
-                data-toggle="button"
-                aria-pressed="true"
-                autocomplete="off"
-                v-on:click="export_to_csv"
-              >Export to CSV</button>
+          </div>
+          <div class="col-sm-6 text-right">
+                <button
+                  v-if="edited"
+                  class="btn btn-primary"
+                  type="button"
+                  data-toggle="button"
+                  aria-pressed="true"
+                  autocomplete="off"
+                  v-on:click="save_scenario"
+                >Save Scenario</button>
 
+                <button
+                  class="btn btn-primary"
+                  type="button"
+                  data-toggle="button"
+                  aria-pressed="true"
+                  autocomplete="off"
+                  v-on:click="export_to_csv"
+                >Export to CSV</button>
 
-              <button
-                class="btn btn-primary"
-                type="button"
-                data-toggle="button"
-                aria-pressed="true"
-                autocomplete="off"
-                v-on:click="reload"
-              >Reload</button>
+                <button
+                  class="btn btn-primary"
+                  type="button"
+                  data-toggle="button"
+                  aria-pressed="true"
+                  autocomplete="off"
+                  v-on:click="reload"
+                >Reload Original</button>
+          </div>
+      </div>
+      <div class="row">
+          <DistrictSchoolView class="col-sm-12" v-bind:schools="district.schools" v-bind:best_group_index="best_group_index" v-bind:editMode="editMode" />
+      </div>
+      <div class="row">
+        <div class="col-sm">
+          <sup>1</sup>
+          Based on {{ schoolDays }} days in school year
+          <br />
+          <sup>2</sup>Derived from Direct Certified only
+          <br />
+          <sup>3</sup>From average meals per day April 2019, based upon CFPA SNP Report
+          <br />
+          </div>
+      </div>
 
-              <span class="optimize_badge badge badge-secondary" v-if="'optimization_info'in district">Optimized on {{ district.optimization_info.timestamp }} in {{ district.optimization_info.time.toFixed(2) }}s</span>
-              <span v-if="edited" class="badge badge-primary" >edited</span>
-
-        </div>
-
-        <DistrictSchoolView class="col-sm-12" v-bind:schools="district.schools" v-bind:best_group_index="best_group_index" v-bind:editMode="editMode" />
-    </div>
-
-    <div>
-      <sup>1</sup>
-      Based on {{ schoolDays }} days in school year
-      <br />
-      <sup>2</sup>Derived from Direct Certified only
-      <br />
-      <sup>3</sup>From average meals per day April 2019, based upon CFPA SNP Report
-      <br />
-    </div>
-
+    </div>  
     <ExportModal v-if="showExport" v-bind:district="district" @close="closeExportModal" v-bind:grouping_index="best_group_index" />
   </section>
 </template>
@@ -191,6 +196,7 @@ export default {
     },
     submit(){
       console.log("Submitting for optimization",this.district) 
+      this.editMode = false
       this.$store.dispatch("run_district",this.district);
     },
     reload(){
@@ -251,4 +257,8 @@ tr.add_row td input {
     0% { opacity: 0; } 
     100% { opacity: 1; } 
 } 
+
+.buttons button {
+  margin: 8px;
+}
 </style>
