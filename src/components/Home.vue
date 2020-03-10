@@ -5,7 +5,9 @@
           <h1 class="display-4 font-weight-normal">Maximize your CEP Funding with <strong>Meals Count</strong></h1>
           <p class="lead font-weight-normal">Meals Count is a free tool to help school districts optimize their
             USDA CEP Application, to get more reimbursements for school meals, and help fight child hunger.</p>
-           <router-link to="/faq" class="btn btn-outline-secondary">Learn More</router-link>
+            <div class="alert alert-primary">Meals Count is under active development, and may change. If you have any feedback, comments or questions, please <router-link to="/contact">contact us</router-link></div>
+           <router-link to="/faq" class="btn btn-outline-secondary mx-2">Learn More</router-link>
+           <router-link to="/explore" class="btn btn-outline-secondary mx-2">Find Your District</router-link>
         </div>
       </div>
 
