@@ -61,7 +61,7 @@ export default {
   data() {
     return {
       image: {qmark: QUESTION},
-      sort_col: "School Name",
+      sort_col: "grouping",
       sort_desc: false,
     }
   },

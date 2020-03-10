@@ -103,6 +103,8 @@
       <sup>3</sup>From average meals per day April 2019, based upon CFPA SNP Report
       <br />
     </div>
+
+    <ExportModal v-if="showExport" v-bind:district="district" @close="closeExportModal" v-bind:grouping_index="best_group_index" />
   </section>
 </template>
 
@@ -112,6 +114,7 @@ import DistrictSummary from "./DistrictSummary.vue"
 import ScenarioControl from "./ScenarioControl.vue"
 import DistrictSchoolView from "./DistrictSchoolView.vue"
 import DistrictGroupView from "./DistrictGroupView.vue"
+import ExportModal from "./ExportModal.vue"
 
 // TODO "404" if no district?
 // TODO break this down into little components...
@@ -120,6 +123,7 @@ export default {
     DistrictSummary,
     ScenarioControl,
     DistrictSchoolView,
+    ExportModal,
   },
   props: ["state_code", "district_code"],
   data() {
@@ -128,6 +132,7 @@ export default {
       edited: false,
       viewMode: "table", // or "group"
       schoolDays: 180,
+      showExport: false,
     }
   },
   computed: {
@@ -197,6 +202,7 @@ export default {
     },
     export_to_csv(){
       // todo figure out how to export to CSV
+      this.showExport = true;
     },
     daily_reimbursement_by_school ( school_code ){
       if(this.district_form.reimbursement_rates == null){
@@ -213,6 +219,9 @@ export default {
                  + ( s.daily_lunch_served * this.district_form.reimbursement_rates.free_lunch )
       return v;
     },
+    closeExportModal(){
+      this.showExport = false;
+    }
   },
 };
 </script>

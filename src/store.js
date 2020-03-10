@@ -75,6 +75,17 @@ export default new Vuex.Store({
                 console.log("Updated optimization with",d);
                 commit("set_edited_district", d)
             });
+        },
+        save_scenario( {commit, dispatch}, scenario ){
+            // save district to local storage
+            // Scenario: {name:"My Scenario", district:district}
+        },
+        load_scenario( {commit, dispatch}, scenario_name ){
+            // Update scenario from local_storage
+            // load into selected_district? What if the scenario is different than current one            
+        },
+        update_scenario_list( {commit, dispatch} ){
+            // Update scenario list from local_storage
         }
     }
 })
