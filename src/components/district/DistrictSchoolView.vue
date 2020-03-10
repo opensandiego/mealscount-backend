@@ -9,18 +9,18 @@
             <th v-tooltip title="Total students enrolled" scope="col" @click="set_sort('total_enrolled')">Total Enrolled <img v-bind:src="image.qmark"></th>
             <th v-tooltip title="Total Eligible. Default data is derived from Direct Certified only" scope="col" @click="set_sort('total_eligible')" >
               Total Eligible <sup>2</sup> <img v-bind:src="image.qmark"></th>
-            <th v-tooltip title="From average meals per day April 2019, based upon CFPA SNP Report" scope="col">
-              Daily Breakfast Served
+            <th v-tooltip title="Averaged site-level claiming data from April 2019, based upon CFPA SNP Report" scope="col">
+              Breakfast Avg Daily Participation (ADP)
               <sup>3</sup> <img v-bind:src="image.qmark">
             </th>
-            <th  v-tooltip title="From average meals per day April 2019, based upon CFPA SNP Report" scope="col">
-              Daily Lunch Served
+            <th  v-tooltip title="Averaged site-level claiming data from April 2019, based upon CFPA SNP Report" scope="col">
+              Lunch Avg Daily Participation (ADP)
               <sup>3</sup> <img v-bind:src="image.qmark">
             </th>
             <th v-tooltip title="Whether or not this school is included in the algorithm" scope="col" @click="set_sort('active')">Included in Optimization <img v-bind:src="image.qmark"></th>
-            <th v-tooltip title="Current ISP based upon total eligible / total enrolled" scope="col" @click="set_sort('isp')">School ISP <img v-bind:src="image.qmark"></th>
+            <th v-tooltip title="Estimated ISP based upon total eligible / total enrolled listed" scope="col" @click="set_sort('isp')">Estimated School ISP <img v-bind:src="image.qmark"></th>
             <th v-tooltip title="Whether or not the ISP is above the CEP threshold for this school alone" scope="col">School CEP Eligible <img v-bind:src="image.qmark"></th>
-            <th v-tooltip title="Reimbursement per school year" scope="col">Reimbursement Per School </th>
+            <th v-tooltip title="Estimated reimbursement per school year" scope="col">Estimated Reimbursement Per School </th>
           </tr>
         </thead>
         <tbody v-if="editMode">
