@@ -28,7 +28,10 @@
             v-for="school in ordered_schools" 
             v-bind:key="school.school_code" 
             v-bind:school="school"
-         />
+          />
+          <AddSchoolRow 
+            @add_school="add_school"
+          />
         </tbody>
         <tbody v-else>
           <SchoolRow 
@@ -53,6 +56,7 @@
 <script>
 import SchoolRow from "./SchoolRow.vue"
 import SchoolRowEdit from "./SchoolRowEdit.vue"
+import AddSchoolRow from "./AddSchoolRow.vue"
 import QUESTION from '../../assets/qmark.png'
 import * as chroma from 'chroma-js'
 
@@ -67,7 +71,8 @@ export default {
   },
   components: {
     SchoolRow,
-    SchoolRowEdit
+    SchoolRowEdit,
+    AddSchoolRow
   },
   computed: {
     ordered_schools() {
@@ -100,6 +105,10 @@ export default {
       }else{
         return 'transparent'
       }
+    },
+    add_school(school){
+      console.log("Adding School: ", school)
+      this.schools.push(school);
     }
   }
 }
