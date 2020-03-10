@@ -64,6 +64,7 @@
 
           </div>
           <div class="col-sm-6 text-right">
+                <!--
                 <button
                   class="btn btn-primary"
                   type="button"
@@ -72,6 +73,7 @@
                   autocomplete="off"
                   v-on:click="openScenarioModal"
                 >Load / Save Scenario</button>
+                -->
 
                 <button
                   class="btn btn-primary"
