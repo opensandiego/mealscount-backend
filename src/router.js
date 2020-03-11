@@ -64,7 +64,9 @@ export default new Router({
             component: DistrictDetail,
             props: true,
             beforeEnter: (to, from, next) => {
-                store.dispatch("load_district",{state:to.params.state_code,code:to.params.district_code}).then(next)
+                store.dispatch("load_district",{state:to.params.state_code,code:to.params.district_code}).then(
+                    () => { store.dispatch("update_scenario_list").then(next) }
+                )
             }
         },
     ]

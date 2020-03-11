@@ -9,6 +9,7 @@ export default new Vuex.Store({
     state: {
         states: {},
         selected_district: null,
+        scenarios: [],
     },
     mutations: {
         set_district_list(state,district_list){
@@ -27,6 +28,15 @@ export default new Vuex.Store({
         },
         set_states( state, data ){
             state.states = data;
+        },
+        set_scenarios( state, scenarios ){
+            state.scenarios = scenarios;
+        },
+        add_scenario( state, scenario ){
+            state.scenarios.push(scenario)
+        },
+        remove_scenario( state, i ){
+            state.scenarios.splice(i,1)
         }
     },
     getters: {
@@ -38,6 +48,9 @@ export default new Vuex.Store({
         },
         selected_district: state => {
             return state.selected_district;
+        },
+        get_scenarios: state => {
+            return state.scenarios;
         },
     },
     actions: {
@@ -76,16 +89,30 @@ export default new Vuex.Store({
                 commit("set_edited_district", d)
             });
         },
-        save_scenario( {commit, dispatch}, scenario ){
-            // save district to local storage
-            // Scenario: {name:"My Scenario", district:district}
+        save_scenario( {state, commit, dispatch}, scenario ){
+            commit("add_scenario", scenario )
+            dispatch("save_scenarios") 
         },
-        load_scenario( {commit, dispatch}, scenario_name ){
-            // Update scenario from local_storage
-            // load into selected_district? What if the scenario is different than current one            
+        delete_scenario( {state, commit, dispatch}, i ){
+            commit("remove_scenario", i );
+            dispatch("save_scenarios")
+        },
+        save_scenarios( {state} ){
+            localStorage.setItem("scenarios",JSON.stringify(state.scenarios));
+        },
+        load_scenario( {state, commit, dispatch}, i ){
+            commit("set_district", state.scenarios[i].district);
         },
         update_scenario_list( {commit, dispatch} ){
-            // Update scenario list from local_storage
+            if(localStorage.getItem('scenarios')){
+                try{
+                  const scenarios = JSON.parse(localStorage.getItem('scenarios'));
+                  commit("set_scenarios",scenarios);
+                }catch(e){
+                  console.error("issue loading scenarios",e);
+                  localStorage.removeItem("scenarios");
+                }
+            }
         }
     }
 })
