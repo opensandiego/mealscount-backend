@@ -1,7 +1,7 @@
 <template>
   <section class="state-detail my-3" v-if="district != null">
     <div class="container">
-      <div class="row">
+      <div class="row" v-if="district.code != 'new'">
         <div class="col-sm">
           <router-link
             :to="{name:'state-detail', params: {state:state_code} }"
