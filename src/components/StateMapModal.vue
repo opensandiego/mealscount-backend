@@ -29,7 +29,10 @@
           id="modalDescription"
         >
           <slot name="body">
-                 <p>Sorry, {{ selected_state.name }}'s data is not yet available! <!-- You can add your district's data and optimize it in our <router-link to="/edit-district" class="button">district tool</router-link>. --></p>
+                 <p>Sorry, {{ selected_state.name }}'s data is not yet available! You can add your district's data and optimize it in our district tool:</p>
+                 
+                 <p><router-link :to="{name:'district-detail-new',params:{ state_code: selected_state.abbr }}" class="btn btn-green">Enter Your District Data</router-link></p>
+
                  <p>If you need assistance, we recommend reaching out to <a href="https://www.frac.org/">FRAC</a> or your local food policy advocates.</p>
                  <p>If you are interested in helping get data for your state, please contact <a href="https://opensandiego.org">Open San Diego</a></p>
           </slot>

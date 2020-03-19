@@ -9,7 +9,7 @@
       >
         <header class="modal-header" id="modalTitle">
           <slot name="header">
-            <strong>Saved Scenarios</strong>
+            <strong>Save/ Load Scenarios</strong>
 
             <button type="button" class="btn-close" @click="close" aria-label="Close modal">x</button>
           </slot>
@@ -17,10 +17,8 @@
         <section class="modal-body" id="modalDescription">
           <slot name="body">
 
-            <h3>Save / Load District Secenario</h3>
-
             <strong>Current Scenarios</strong>
-            <div class="row" v-for="(scenario,index) in scenarios" v-bind:key="index">
+            <div v-if="scenarios.length > 0" class="row" v-for="(scenario,index) in scenarios" v-bind:key="index">
                 <div class="col-sm-6">{{ scenario.name }}</div>
                 <div class="col-sm-2">
                   <button
@@ -34,6 +32,9 @@
                   @click="delete_scenario(index)"
                   >Delete</button>
                 </div>
+            </div>
+            <div v-else>
+              <p>No scenarios currently saved</p>
             </div>
 
             <div class="col-sm-12">

@@ -77,7 +77,11 @@ export default {
   computed: {
     ordered_schools() {
       this.schools.forEach(s => {
-        s.grouping = this.best_group_index[s.school_code];
+        if(s.school_code in this.best_group_index){
+          s.grouping = this.best_group_index[s.school_code];
+        }else{
+          s.grouping = null;
+        }
       });
       return _.orderBy(
         this.schools,

@@ -59,6 +59,17 @@ export default new Router({
             }
         },
         {
+            path: '/explore/:state_code/new', 
+            name: 'district-detail-new',
+            component: DistrictDetail,
+            props: true,
+            beforeEnter: (to, from, next) => {
+                store.dispatch("new_district",to.params.state_code).then(
+                    () => { store.dispatch("update_scenario_list").then(next) }
+                )
+            }
+        },
+        {
             path: '/explore/:state_code/:district_code', 
             name: 'district-detail',
             component: DistrictDetail,

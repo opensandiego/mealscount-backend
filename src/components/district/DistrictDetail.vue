@@ -10,7 +10,11 @@
       </div>
 
       <div class="row">
-        <h1 class="col-sm-12">{{ district.name }} ({{ district_code }} - {{ state_code }})</h1>
+        <h1 class="col-sm-12">
+          <span v-if="editMode"><input v-model="district.name" ></span><span v-else>{{ district.name }} </span>
+            ( <span v-if="editMode"><input v-model="district.code"></span><span v-else>{{ district.code }}</span>
+             - {{ state_code }})
+          </h1>
       </div>
 
       <DistrictSummary v-bind:district="district" v-bind:schoolDays="schoolDays" v-bind:editMode="editMode" />
@@ -177,7 +181,7 @@ export default {
     },
     best_group_index() {
       if (this.best_strategy == null) {
-        return null;
+        return {};
       }
       const group_index = {};
       var i = 1;

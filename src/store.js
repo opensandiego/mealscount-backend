@@ -5,6 +5,8 @@ import Vuex from 'vuex';
 
 Vue.use(Vuex);
 
+const DEFAULT_RATES = {"free_lunch":3.31,"paid_lunch":0.31,"free_bfast":2.14,"paid_bfast":0.31} 
+
 export default new Vuex.Store({
     state: {
         states: {},
@@ -80,6 +82,18 @@ export default new Vuex.Store({
                 d.state_code = district.state
                 commit("set_district",d);
             })
+        },
+        new_district( {commit,dispatch}, state_code ){
+            const d = {
+                state_code: state_code,
+                code: 'new',
+                schools: [],
+                rates: DEFAULT_RATES,
+                best_index: 0,
+                strategies: [{ name:"n/a",groups:[]}],
+                name: "Untitled District",
+            }
+            commit("set_district",d)
         },
         run_district( {commit,dispatch}, district ){
             const url = `/api/districts/optimize/`;
