@@ -28,12 +28,13 @@
             v-for="school in ordered_schools" 
             v-bind:key="school.school_code" 
             v-bind:school="school"
+            @remove="remove_school(school)"
           />
           <AddSchoolRow 
             @add_school="add_school"
           />
         </tbody>
-        <tbody v-else>
+        <tbody v-else-if="ordered_schools.length > 0">
           <SchoolRow 
             v-for="school in ordered_schools" 
             v-bind:key="school.school_code" 
@@ -41,6 +42,13 @@
             v-bind:group="best_group_index[school.school_code]" 
             v-bind:color="color_for(school)"
           />
+        </tbody>
+        <tbody v-else>
+          <tr>
+            <td class="text-center" colspan="12">
+              <button class="btn btn-primary" @click="$emit('toggleEdit')">Begin Adding Schools!</button>
+            </td>
+          </tr>
         </tbody>
           <!--
           <tr v-if="editMode == true" class="add_row">
@@ -113,6 +121,12 @@ export default {
     add_school(school){
       console.log("Adding School: ", school)
       this.schools.push(school);
+    },
+    remove_school(school){
+      if(window.confirm("Remove School  " + school.school_name + " ("+school.school_code + ")?")){
+        const i = this.schools.indexOf(school);
+        this.schools.splice(i,1)
+      }
     }
   }
 }

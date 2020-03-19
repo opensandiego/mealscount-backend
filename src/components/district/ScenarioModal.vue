@@ -18,20 +18,22 @@
           <slot name="body">
 
             <strong>Current Scenarios</strong>
-            <div v-if="scenarios.length > 0" class="row" v-for="(scenario,index) in scenarios" v-bind:key="index">
-                <div class="col-sm-6">{{ scenario.name }}</div>
-                <div class="col-sm-2">
-                  <button
-                  class="btn"
-                  @click="load_scenario(index)"
-                  >Load</button>
-                </div>
-                <div class="col-sm-2">
-                  <button
-                  class="btn"
-                  @click="delete_scenario(index)"
-                  >Delete</button>
-                </div>
+            <div v-if="scenarios.length > 0">
+              <div class="row" v-for="(scenario,index) in scenarios" v-bind:key="index">
+                  <div class="col-sm-6">{{ scenario.name }}</div>
+                  <div class="col-sm-2">
+                    <button
+                    class="btn"
+                    @click="load_scenario(index)"
+                    >Load</button>
+                  </div>
+                  <div class="col-sm-2">
+                    <button
+                    class="btn"
+                    @click="delete_scenario(index)"
+                    >Delete</button>
+                  </div>
+              </div>
             </div>
             <div v-else>
               <p>No scenarios currently saved</p>

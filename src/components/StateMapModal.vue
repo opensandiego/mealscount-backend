@@ -70,6 +70,7 @@
 
 
 <style>
+/* TODO drive modal from built-in bootstrap class styles, not explicit unscoped styles */
   .modal-backdrop {
     position: fixed;
     top: 0;
@@ -96,9 +97,8 @@
     align-self: center;
     justify-self: center;
      width: 400px;
-    height: 350px;
+    height: 500px;
     margin: 0 auto;
-  
   }
 
   .modal-header,
@@ -123,7 +123,7 @@
   .modal-body {
     position: relative;
     padding: 20px 10px;
-    height: 50px;  
+    /*height: 50px;  */
   }
 
   .btn-close {

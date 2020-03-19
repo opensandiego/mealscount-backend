@@ -94,10 +94,12 @@
                   autocomplete="off"
                   v-on:click="reload"
                 >Reload Original</button>
+
+               <a href="#" @click="openFirstTimeModal">help</a>
           </div>
       </div>
       <div class="row px-1">
-          <DistrictSchoolView class="col-sm-12" v-bind:schools="district.schools" v-bind:best_group_index="best_group_index" v-bind:editMode="editMode" />
+          <DistrictSchoolView class="col-sm-12" v-bind:schools="district.schools" v-bind:best_group_index="best_group_index" v-bind:editMode="editMode" @toggleEdit="toggleEdit" />
       </div>
       <div class="row">
         <div class="col-sm">
@@ -114,6 +116,7 @@
     </div>  
     <ExportModal v-if="showExport" v-bind:district="district" @close="closeExportModal" v-bind:grouping_index="best_group_index" />
     <ScenarioModal v-if="showScenarioModal" v-bind:district="district" @close="closeScenarioModal" />
+    <DistrictDetailFirstTimeModal v-if="showFirstTimeModal" v-bind:district="district" @close="closeFirstTimeModal" />
   </section>
 </template>
 
@@ -124,6 +127,7 @@ import ScenarioModal from "./ScenarioModal.vue"
 import DistrictSchoolView from "./DistrictSchoolView.vue"
 import DistrictGroupView from "./DistrictGroupView.vue"
 import ExportModal from "./ExportModal.vue"
+import DistrictDetailFirstTimeModal from "./DistrictDetailFirstTimeModal.vue"
 
 // TODO "404" if no district?
 // TODO break this down into little components...
@@ -133,6 +137,7 @@ export default {
     ScenarioModal,
     DistrictSchoolView,
     ExportModal,
+    DistrictDetailFirstTimeModal,
   },
   props: ["state_code", "district_code"],
   data() {
@@ -143,6 +148,13 @@ export default {
       schoolDays: 180,
       showExport: false,
       showScenarioModal: false,
+      showFirstTimeModal: false,
+    }
+  },
+  mounted(){
+    if( window.localStorage == undefined || window.localStorage.getItem("mc-district-detail-firsttime") == null ){
+      this.showFirstTimeModal = true;
+      if(window.localStorage){ window.localStorage.setItem("mc-district-detail-firsttime","done") }
     }
   },
   computed: {
@@ -238,7 +250,13 @@ export default {
     },
     openScenarioModal(){
       this.showScenarioModal = true;
-    }
+    },
+    closeFirstTimeModal(){
+      this.showFirstTimeModal = false;
+    },
+    openFirstTimeModal(){
+      this.showFirstTimeModal = true;
+    },
   },
 };
 </script>

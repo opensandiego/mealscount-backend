@@ -3,7 +3,7 @@
             v-bind:class="{ inactive: !school.active }"
             v-bind:key="school.code"
           >
-        <td></td>
+        <td><button class="btn btn-secondary" @click="$emit('remove')">remove</button></td>
         <td>{{ school.school_code }}</td>
         <td>{{ school.school_name }}</td>
         <td>{{ school.school_type }}</td>
