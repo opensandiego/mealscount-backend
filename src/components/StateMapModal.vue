@@ -33,7 +33,7 @@
                  
                  <p><router-link :to="{name:'district-detail-new',params:{ state_code: selected_state.abbr }}" class="btn btn-green">Enter Your District Data</router-link></p>
 
-                 <p>If you need assistance, we recommend reaching out to <a href="https://www.frac.org/">FRAC</a> or your local food policy advocates.</p>
+                 <p>If you need assistance, we recommend reaching out to your local food policy advocates.</p>
                  <p>If you are interested in helping get data for your state, please contact <a href="https://opensandiego.org">Open San Diego</a></p>
           </slot>
         </section>
