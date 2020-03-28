@@ -9,6 +9,17 @@ import router from './router.js';
 import { toUSD, toCount, toUSDx } from './filters.js';
 import { VTooltip, VPopover, VClosePopover } from 'v-tooltip'
 
+import VueGtag from "vue-gtag";
+
+const body = document.getElementsByTagName("body")[0]
+
+if(body.dataset.analyticsId){
+    Vue.use(VueGtag, {
+        config: { id: body.dataset.analyticsId }
+    }, router ); 
+    console.log("tracking analytics to ",body.dataset.analyticsId)
+}
+
  
 // Register global filters
 Vue.filter('toUSD', toUSD);

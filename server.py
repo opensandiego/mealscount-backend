@@ -131,7 +131,7 @@ def states():
 @app.route('/', defaults={'path':''})
 #@app.route('/<path:path>')
 def catch_all(path):
-    return render_template('index.html')
+    return render_template('index.html', analytics_id=os.environ.get("GOOGLE_ANALYTICS_ID",False))
 
 
 if "DYNO" in os.environ:
