@@ -27,6 +27,7 @@
     "d3-scale-chromatic": "^1.5.0",
     "esm": "^3.2.25",
     "lodash": "^4.17.15",
+    "minimist": "^1.2.5",
     "node-sass": "^4.13.1",
     "popper.js": "^1.15.0",
     "postcss-loader": "^3.0.0",
