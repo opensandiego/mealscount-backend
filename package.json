@@ -46,7 +46,7 @@
     "file-loader": "^4.3.0",
     "html-webpack-plugin": "^3.2.0",
     "image-webpack-loader": "^6.0.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "style-loader": "^0.23.1",
     "topojson": "^3.0.2",
     "us-atlas": "^3.0.0",
