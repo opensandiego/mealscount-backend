@@ -26,8 +26,8 @@ class CEPSchool(object):
     def __init__(self,data):
         # TODO move these explicit column names to 
         # separate method, and let us initialize a bit more simply
-        self.name = data['School Name']
-        self.code = data['School Code']
+        self.name = data.get('School Name',data.get('school_name'))
+        self.code = data.get('School Code',data.get('school_code',data.get('school_name')))
         self.school_type = data.get('School Type','n/a')
         self.active = data.get("include_in_mealscount","true").lower() == "true"
         self.foster = i(data.get('foster',0))
@@ -54,6 +54,9 @@ class CEPSchool(object):
             self.isp  = self.free_rate = self.paid_rate = 0
         else:
             self.isp = round(self.total_eligible / float(self.total_enrolled), 4)
+
+    def __repr__(self):
+        return "%s %s" % (self.name,self.code)
 
     def as_dict(self):
         return {
