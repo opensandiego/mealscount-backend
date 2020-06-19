@@ -14,7 +14,7 @@ def parse_districts(school_data,strategies):
     districts = {}
     for row in school_data:
         school = CEPSchool(row)
-        district_name,district_code = row['District Name'],row['District Code']
+        district_name,district_code = row.get('District Name',row.get('district_name','Default')),row.get('District Code',row.get('district_code','1'))
         if district_name not in districts:
             district = CEPDistrict(district_name,district_code)
             for s in strategies:
@@ -74,7 +74,7 @@ Expected CSV File columns
 
     # Reduce to target district if specified
     if target_district != None:
-        schools = [s for s in schools if s["District Code"] == target_district]
+        schools = [s for s in schools if s.get("District Code",s["district_code"]) == target_district]
 
     # Naive Groupings
     #DistrictClass = OneToOneCEPDistrict

@@ -92,6 +92,15 @@
                   data-toggle="button"
                   aria-pressed="true"
                   autocomplete="off"
+                  v-on:click="import_from_csv"
+                >Import from CSV</button>
+
+                <button
+                  class="btn btn-primary"
+                  type="button"
+                  data-toggle="button"
+                  aria-pressed="true"
+                  autocomplete="off"
                   v-on:click="reload"
                 >Reload Original</button>
 
@@ -115,6 +124,7 @@
 
     </div>  
     <ExportModal v-if="showExport" v-bind:district="district" @close="closeExportModal" v-bind:grouping_index="best_group_index" />
+    <ImportModal v-if="showImport" v-bind:district="district" @close="closeImportModal"  />
     <ScenarioModal v-if="showScenarioModal" v-bind:district="district" @close="closeScenarioModal" />
     <DistrictDetailFirstTimeModal v-if="showFirstTimeModal" v-bind:district="district" @close="closeFirstTimeModal" />
   </section>
@@ -127,6 +137,7 @@ import ScenarioModal from "./ScenarioModal.vue"
 import DistrictSchoolView from "./DistrictSchoolView.vue"
 import DistrictGroupView from "./DistrictGroupView.vue"
 import ExportModal from "./ExportModal.vue"
+import ImportModal from "./ImportModal.vue"
 import DistrictDetailFirstTimeModal from "./DistrictDetailFirstTimeModal.vue"
 
 // TODO "404" if no district?
@@ -138,6 +149,7 @@ export default {
     DistrictSchoolView,
     ExportModal,
     DistrictDetailFirstTimeModal,
+    ImportModal,
   },
   props: ["state_code", "district_code"],
   data() {
@@ -149,6 +161,7 @@ export default {
       showExport: false,
       showScenarioModal: false,
       showFirstTimeModal: false,
+      showImport: false,
     }
   },
   mounted(){
@@ -227,6 +240,9 @@ export default {
       // todo figure out how to export to CSV
       this.showExport = true;
     },
+    import_from_csv(){
+      this.showImport = true; 
+    },
     daily_reimbursement_by_school ( school_code ){
       if(this.district_form.reimbursement_rates == null){
         return "";
@@ -244,6 +260,9 @@ export default {
     },
     closeExportModal(){
       this.showExport = false;
+    },
+    closeImportModal(){
+      this.showImport = false;
     },
     closeScenarioModal(){
       this.showScenarioModal = false;
