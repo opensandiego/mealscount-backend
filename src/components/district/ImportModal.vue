@@ -88,19 +88,23 @@ export default {
       });      
     },
     do_import(){
-        this.files.forEach( f=> {
+      var district = this.district;
+      this.files.forEach( f=> {
             Papa.parse(f, {
                 header: true,
         	    complete: function(results) {
                     console.log(results.data);
+                    district.schools = [];
                     results.data.forEach( row => {
-                        row.active = row.included_in_optimization;
+                        row.active = row.included_in_optimization == 'true';
                         row.grouping = null;
-                        district.schools.push( row );
+                        if(row.total_enrolled){
+                          district.schools.push( row );
+                        }
                     })
           	    }
             });
-        })
+      })
     }
   }
 };
