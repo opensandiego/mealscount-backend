@@ -101,6 +101,8 @@ class CEPGroup(object):
         self.paid_rate = 1.0 - self.free_rate
         if self.free_rate == 0:
             self.paid_rate = 0
+        
+        self.school_reimbursements = set([ (s.code,self.school_reimbursement(s)) for s in schools])
 
     @property
     def covered_students(self):
@@ -137,23 +139,35 @@ class CEPGroup(object):
     @property
     def paid_lunch_rate(self): return self.district.fed_reimbursement_rates['paid_lunch']
 
+    def school_reimbursement(self,school):
+        if not self.cep_eligible: return 0
+        result = school.bfast_served * self.free_breakfast_rate * self.free_rate + \
+               school.bfast_served * self.paid_breakfast_rate * self.paid_rate + \
+               school.lunch_served * self.free_lunch_rate * self.free_rate + \
+               school.lunch_served * self.paid_lunch_rate  * self.paid_rate
+        if self.district.sfa_certified:
+            result += school.lunch_served * 0.07
+        return round(result,2)
+
     def est_reimbursement(self):
         '''basic estimate for daily reimbursement based on the given meal participation estimates
         '''
 
-        if not self.cep_eligible:
-            return 0 
+        return sum([self.school_reimbursement(s) for s in self.schools])
 
-        result = self.free_daily_breakfast_served * self.free_breakfast_rate + \
-                 self.paid_daily_breakfast_served * self.paid_breakfast_rate + \
-                 self.free_daily_lunch_served * self.free_lunch_rate + \
-                 self.paid_daily_lunch_served * self.paid_lunch_rate 
-        
-        if self.district.sfa_certified:
-            result += self.daily_lunch_served * 0.06
-
-        return result
-
+#        if not self.cep_eligible:
+#            return 0 
+#
+#        result = self.free_daily_breakfast_served * self.free_breakfast_rate + \
+#                 self.paid_daily_breakfast_served * self.paid_breakfast_rate + \
+#                 self.free_daily_lunch_served * self.free_lunch_rate + \
+#                 self.paid_daily_lunch_served * self.paid_lunch_rate 
+#        
+#        if self.district.sfa_certified:
+#            result += self.daily_lunch_served * 0.06
+#
+#        return result
+#
 #        # TODO Identify federal reimbursement rates per this District (see CEP Estimator XLS file)
 #        bfast_re = (self.free_rate * self.district.fed_reimbursement_rates['free_bfast'] +
 #                    self.paid_rate * self.district.fed_reimbursement_rates['paid_bfast'])
@@ -186,6 +200,7 @@ class CEPGroup(object):
         return {
             "name": self.name,
             "school_codes": list(self.school_codes),
+            "school_reimbursements": list(self.school_reimbursements),
             "isp": self.isp,
             "free_rate": self.free_rate,
             "paid_rate": self.paid_rate,
@@ -215,7 +230,7 @@ class CEPDistrict(object):
         if reimbursement_rates:
             self.fed_reimbursement_rates = reimbursement_rates
         else:
-            self.fed_reimbursement_rates = {'free_lunch': 3.31, 'paid_lunch': 0.31, 'free_bfast': 2.14, 'paid_bfast': 0.31}
+            self.fed_reimbursement_rates = {'free_lunch': 3.41, 'paid_lunch': 0.32, 'free_bfast': 1.84, 'paid_bfast': 0.31}
 
     def __lt__(self,other_district):
         return self.total_enrolled < other_district.total_enrolled

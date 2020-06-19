@@ -108,7 +108,7 @@
           </div>
       </div>
       <div class="row px-1">
-          <DistrictSchoolView class="col-sm-12" v-bind:schools="district.schools" v-bind:best_group_index="best_group_index" v-bind:editMode="editMode" @toggleEdit="toggleEdit" />
+          <DistrictSchoolView class="col-sm-12" v-bind:schools="district.schools" v-bind:best_group_index="best_group_index" v-bind:reimbursement_index="reimbursement_index" v-bind:editMode="editMode" @toggleEdit="toggleEdit" />
       </div>
       <div class="row">
         <div class="col-sm">
@@ -217,6 +217,20 @@ export default {
         i += 1;
       });
       return group_index;
+    },
+    reimbursement_index(){
+      if (this.best_strategy == null) {
+        return {};
+      }
+      const rt_index = {};
+      this.best_strategy.groups.forEach(g => {
+        if(g.school_reimbursements){
+          g.school_reimbursements.forEach(sc => {
+            rt_index[sc[0]] = sc[1] * this.schoolDays;
+          });
+        }
+      });
+      return rt_index;
     }
   },
   methods: {

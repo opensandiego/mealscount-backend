@@ -22,14 +22,14 @@
         <td>
             {{  ((school.total_eligible / school.total_enrolled)>=0.4)?"✔️":""  }}
         </td> 
-        <td><!-- Not Ready {{ (schoolDays * daily_reimbursement_by_school(school.school_code) ) | toUSD }} --> - </td>
+        <td> {{ reimbursement|toUSD }}</td>
     </tr>
 </template>
 
 <script>
 
 export default {
-    props: ['school','group','color'],
+    props: ['school','group','color','reimbursement'],
     computed: {
         rowBgStyle(){ 
             return { backgroundColor: this.color };

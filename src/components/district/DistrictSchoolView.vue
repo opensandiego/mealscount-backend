@@ -20,7 +20,7 @@
             <th v-tooltip title="Whether or not this school is included in the algorithm" scope="col" @click="set_sort('active')">Included in Optimization <img v-bind:src="image.qmark"></th>
             <th v-tooltip title="Estimated ISP based upon total eligible / total enrolled listed" scope="col" @click="set_sort('isp')">Estimated School ISP <img v-bind:src="image.qmark"></th>
             <th v-tooltip title="Whether or not the ISP is above the CEP threshold for this school alone" scope="col">School CEP Eligible <img v-bind:src="image.qmark"></th>
-            <th v-tooltip title="Estimated reimbursement per school year" scope="col">Estimated Reimbursement Per School </th>
+            <th v-tooltip title="Estimated reimbursement per school year" scope="col">Estimated Annual Reimbursement Per School </th>
           </tr>
         </thead>
         <tbody v-if="editMode">
@@ -40,6 +40,7 @@
             v-bind:key="school.school_code" 
             v-bind:school="school"  
             v-bind:group="best_group_index[school.school_code]" 
+            v-bind:reimbursement="reimbursement_index[school.school_code]"
             v-bind:color="color_for(school)"
           />
         </tbody>
@@ -69,7 +70,7 @@ import QUESTION from '../../assets/qmark.png'
 import * as chroma from 'chroma-js'
 
 export default {
-  props: ['schools','best_group_index','editMode'] ,
+  props: ['schools','best_group_index','editMode','reimbursement_index'] ,
   data() {
     return {
       image: {qmark: QUESTION},
