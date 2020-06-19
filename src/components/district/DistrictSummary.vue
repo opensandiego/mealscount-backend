@@ -18,6 +18,12 @@
             <br />
             ( optimized with {{ best_strategy.name }} strategy )
             <br />
+            <a class="btn btn-primary" data-toggle="collapse"h href="#by-group" role="button" aria-expanded="false" aria-controls="by-group">
+              By Group
+            </a>
+            <ul class="collapse" id="by-group" v-for="(group,index) in best_strategy.groups" v-bind:key="group.name">
+              <li>{{ index+1 }}: ({{ group.name }}) {{ (group.est_reimbursement * schoolDays)|toUSD }}</li>
+            </ul>
           </dd>
           <dt>Federal Reimbursement Rates</dt>
           <dd>

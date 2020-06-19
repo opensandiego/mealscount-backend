@@ -123,7 +123,7 @@
       </div>
 
     </div>  
-    <ExportModal v-if="showExport" v-bind:district="district" @close="closeExportModal" v-bind:grouping_index="best_group_index" />
+    <ExportModal v-if="showExport" v-bind:district="district" @close="closeExportModal" v-bind:grouping_index="best_group_index" v-bind:reimbursement_index="reimbursement_index" />
     <ImportModal v-if="showImport" v-bind:district="district" @close="closeImportModal"  />
     <ScenarioModal v-if="showScenarioModal" v-bind:district="district" @close="closeScenarioModal" />
     <DistrictDetailFirstTimeModal v-if="showFirstTimeModal" v-bind:district="district" @close="closeFirstTimeModal" />

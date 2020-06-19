@@ -47,7 +47,7 @@
 
 <script>
 export default {
-  props: ["district","grouping_index"],
+  props: ["district","grouping_index","reimbursement_index"],
   data() {
     return {
       download_filename: "district.csv"
@@ -87,7 +87,7 @@ export default {
             s.daily_breakfast_served,
             s.daily_lunch_served,
             s.active,
-            'todo', // per-school-reimbursement
+            (s.school_code in this.reimbursement_index)?this.reimbursement_index[s.school_code]:'',
           ].join(',') + "\n"
       })
 
