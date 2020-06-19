@@ -13,7 +13,10 @@
           <router-link to="/contact" class="py-2 d-none d-md-inline-block">Contact</router-link>
           <router-link to="/about" class="py-2 d-none d-md-inline-block">About</router-link>
         </div>
-      </nav>
+        </nav>
+    <div class="flex-column text-center alert-info py-1">
+            CEP Application for 20-21 School Year is now August 31st! <a target="_blank" href="https://www.fns.usda.gov/cn/covid-19-cep-deadlines-waiver">learn more &raquo;</a>
+    </div>
 
      <router-view></router-view>
    

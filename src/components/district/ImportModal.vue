@@ -26,6 +26,8 @@
                 </ul>
             </div> 
           </slot>
+          <p>File structure should be exactly the same as the export file. Grouping and Est. Reimbursement will be recalculated.</p>
+          <p v-if="showComplete" class="col-sm alert alert-success">Import Complete!</p>
         </section>
         <footer class="modal-footer">
           <slot name="footer">
@@ -49,6 +51,7 @@ export default {
   props: ["district","grouping_index"],
   data() {
     return {
+      showComplete: false,
       files: []
     };
   },
@@ -89,6 +92,7 @@ export default {
     },
     do_import(){
       var district = this.district;
+      var self = this;
       this.files.forEach( f=> {
             Papa.parse(f, {
                 header: true,
@@ -102,6 +106,7 @@ export default {
                           district.schools.push( row );
                         }
                     })
+                    self.showComplete = true
           	    }
             });
       })
