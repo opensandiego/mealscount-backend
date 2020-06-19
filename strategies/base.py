@@ -55,6 +55,9 @@ class CEPSchool(object):
         else:
             self.isp = round(self.total_eligible / float(self.total_enrolled), 4)
 
+    def __repr__(self):
+        return "%s %s" % (self.name,self.code)
+
     def as_dict(self):
         return {
             'school_code': self.code,
