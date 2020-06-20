@@ -1,22 +1,23 @@
 <template>
-    <div>
-        <nav class="site-header sticky-top py-1">
-        <div class="container d-flex flex-column flex-md-row justify-content-between">
-          <router-link class="py-2" to="/">
-            <strong class="icon">
-              Meals Count 
-              <sup>Beta</sup>
-            </strong>
+  <div>
+    <div class="container site-header d-flex flex-column flex-md-row align-items-center p-3 px-md-4 mb-3">
+      <h5 class="my-0 mr-md-auto font-weight-normal">
+          <router-link class="logo" to="/">
+            <img v-bind:src="logo" alt="Meals Count" />
           </router-link>
-          <router-link to="/explore" class="py-2 d-none d-md-inline-block">Find Your District</router-link>
-          <router-link class="py-2 d-none d-md-inline-block" to="/faq">FAQ </router-link>
-          <router-link to="/contact" class="py-2 d-none d-md-inline-block">Contact</router-link>
-          <router-link to="/about" class="py-2 d-none d-md-inline-block">About</router-link>
-        </div>
-        </nav>
+      </h5>
+      <nav>
+          <router-link to="/explore">Find Your District</router-link>
+          <router-link to="/faq">FAQ </router-link>
+          <router-link to="/contact">Contact</router-link>
+          <router-link to="/about">About</router-link>
+      </nav>
+    </div>
+
+        <!--
     <div class="flex-column text-center alert-info py-1">
             CEP Application for 20-21 School Year is now August 31st! <a target="_blank" href="https://www.fns.usda.gov/cn/covid-19-cep-deadlines-waiver">learn more &raquo;</a>
-    </div>
+    </div>-->
 
      <router-view></router-view>
    
@@ -74,10 +75,14 @@
 
 <script >
 import VTooltip from 'v-tooltip';
-export default {
+import MealsCountLogo from '../assets/MC_Logo@2x.png';
 
-  
-  
+export default {
+  data(){
+    return {
+      logo: MealsCountLogo,
+    }
+  },
   mounted(){
     this.$store.dispatch("load_states");
     //this.$store.dispatch("load_districts","ca");
