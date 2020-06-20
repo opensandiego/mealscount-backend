@@ -7,53 +7,104 @@
 
 }
 
+.nav-container {
+  max-width: 1920px;
+}
+
 .container {
-    max-width: 1920px;
-    
-  }
+    max-width: 960px;
+}
   
-  /*
-   * Custom translucent site header
-   */
-  
-  .site-header {
-    height: 160px;
-  }
-  .site-header .logo {
-    margin-top: 35px;
-  }
-  .site-header nav {
-    margin-top: 41px;
-  }
-  .site-header a {
-    text-transform: uppercase;
-    color: #4AAB4F;
-    font-size: 28px; 
-    font-weight: Bold;
-    font-family: "Century Gothic" "Muli" sans-serif;
-    margin-left:  83px;
-  }
-  .site-header a:hover {
-    text-decoration: none;
-  }
- 
-  /*
-   * Extra utilities
-   */
-  
-  .flex-equal > * {
+/*
+  * Site Header 
+*/
+
+.site-header {
+  height: 160px;
+}
+.site-header .logo {
+  margin-top: 35px;
+}
+.site-header nav {
+  margin-top: 41px;
+  margin-right: 35px;
+}
+.site-header a {
+  text-transform: uppercase;
+  color: #4AAB4F;
+  font-size: 28px; 
+  font-weight: Bold;
+  font-family: "Century Gothic", "Muli", sans-serif;
+  margin-left:  83px;
+}
+.site-header a:hover {
+  text-decoration: none;
+}
+
+/*
+  * Extra utilities
+  */
+
+.flex-equal > * {
+  -ms-flex: 1;
+  flex: 1;
+}
+@media (min-width: 768px) {
+  .flex-md-equal > * {
     -ms-flex: 1;
     flex: 1;
   }
-  @media (min-width: 768px) {
-    .flex-md-equal > * {
-      -ms-flex: 1;
-      flex: 1;
+}
+
+.overflow-hidden { overflow: hidden; }
+
+th {
+  cursor: pointer;
+}
+
+/* 
+* Footer
+*/
+
+footer.site-footer {
+  padding-bottom: 100px; 
+  margin-top: 100px;
+  font-size: 28px;
+  color: white;
+
+  .nav-container {
+    max-width: 1685px;
+    margin: auto;
+  }
+
+  a:hover {color: white;}
+  a {
+    font-size: 22px;
+    padding-top: 20px;
+    line-height: 0.5em; 
+    color: white;
+  }
+
+  h5 {
+    display: inline;
+    font-size: 28px;
+    font-weight: bold;
+    border-bottom: 5px solid #B0D35C;
+  }
+
+  .icon {
+    margin-top: 60px;
+    font-size: 62px;
+    font-weight: bold;
+    color: white;
+    svg {
+      vertical-align: bottom;
+    }
+    div {
+      float: left;
     }
   }
-  
-  .overflow-hidden { overflow: hidden; }
 
-  th {
-    cursor: pointer;
-  }
+  background: transparent linear-gradient(263deg, #B0D35C 0%, #4AAB4F 51%, #4AAB4F 100%) 0% 0% no-repeat padding-box;
+  opacity: 1;
+}

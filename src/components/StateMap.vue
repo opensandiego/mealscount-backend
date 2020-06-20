@@ -77,7 +77,7 @@ components: {
                   .attr("fill", d => {
                        const state = us.lookup(d.id)     
                        if (this.statedata[state.abbr.toLowerCase()]){
-                           return "green"
+                           return "#4AAB4F"
                        }else{
                            return "gray"
                        }
