@@ -27,11 +27,10 @@
             <div class="col-2">
               <h5>Resources</h5>
               <ul class="list-unstyled text-small">
-                <li><a  href="https://github.com/opensandiego/mealscount-backend/">Meals Count Source Code</a>
-                </li>
-                <li><a  href="https://www.fns.usda.gov/school-meals/community-eligibility-provision">USDA CEP Program</a></li>
+                <li><a  href="https://github.com/opensandiego/mealscount-backend/">Meals Count Source Code</a></li>
                 <li><a  href="https://www.fns.usda.gov/nslp/community-eligibility-provision-resource-center">USDA CEP Resource Center</a></li>
                 <li><a  href="https://github.com/opensandiego/mealscount-backend/blob/validate/CONTRIBUTING.md">Meals Count Contributing Guide</a></li>
+                <li><router-link to="/faq" >FAQ</router-link></li>
               </ul>
             </div>
             <div class="col-2">
@@ -47,27 +46,21 @@
               <h5>Contact</h5>
               <ul class="list-unstyled text-small">
                 <li><router-link to="/contact" >Contact Us</router-link></li>
-                <li><a  href="https://osd-slack-auto-invite.herokuapp.com/">Ask Questions</a></li>
-                <li><a  href="https://github.com/opensandiego/mealscount-backend/issues">Post Issues</a></li>
-                <li><a  href="https://github.com/opensandiego/mealscount-backend/blob/validate/CONTRIBUTING.md">Contribute</a></li>
-                <li><a  href="https://meetup.com/Open-San-Dieog/">Meet In Person</a></li>
               </ul>
             </div>
             <div class="col-2">
               <h5>About</h5>
               <ul class="list-unstyled text-small">
-                <li><a  href="#">Team</a></li>
-                <li><a  href="#">Privacy</a></li>
                 <li><a  href="https://github.com/opensandiego/mealscount-backend">Developers</a></li>
                 <li> <router-link  to="/faq">FAQ </router-link>  </li>
               </ul>
             </div>
             <div class="col-4">
               <div class="icon">
-                <svg width="134" height="112">
+                <!--<svg width="134" height="112">
                   <rect width="134" height="112" style="fill:rgb(255,255,255)" />
-                </svg>
-                eals Count
+                </svg>-->
+                Meals Count
               </div> 
             </div>
           </div>

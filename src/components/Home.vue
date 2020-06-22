@@ -16,8 +16,8 @@
           <h2 class="col-12 display-5">How Does Meals Count Work?</h2>
         </div>
 
-        <div class="row no-gutters">
-          <div class="col-4 card-container">
+        <div class="row d-flex flex-row justify-content-between">
+          <div class="card-container p-2">
             <div class="card">
               <div class="card-body">
                 <h5 class="card-title">LOCATE</h5>
@@ -26,7 +26,7 @@
               </div>
             </div>
           </div>
-          <div class="card-container col-4">
+          <div class="card-container p-2">
             <div class="card">
               <div class="card-body">
                 <h5 class="card-title">INPUT DATA</h5>
@@ -35,7 +35,7 @@
               </div>
             </div>
           </div>
-          <div class="card-container col-4">
+          <div class="card-container p-2">
             <div class="card">
               <div class="card-body">
                 <h5 class="card-title">RECOMMENDATIONS</h5>
@@ -191,11 +191,11 @@ hr {
   opacity: 1;
   width: 250px;
   height: 75;
-  margin-right: 70px;
 }
 
 .homepage-hero .btn{
   float: left;
+  margin-right: 70px;
 }
 .homepage-hero {
   margin: 0px;
