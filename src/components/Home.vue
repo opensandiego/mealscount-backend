@@ -261,6 +261,9 @@ hr {
     margin: 0px 10px 268px 10px;
     font-size: 31px;
   }
+  img {
+    width: 100%;
+  }
 }
 
 .support-block {
