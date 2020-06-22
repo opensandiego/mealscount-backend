@@ -48,12 +48,12 @@
 
         <div class="why-group row">
           <div class="col-12">
-            <a href="#TODO">Why does grouping matter?</a>
+            <router-link to="/faq">Why does grouping matter?</router-link>
           </div>
         </div>
         <div class="get-started row">
           <div class="col-12 text-center">
-            <a href="#TODO" class="btn btn-primary filled">Get Started</a>
+            <router-link to="/explore" class="btn btn-primary filled">Get Started</router-link>
           </div>
         </div>
 
@@ -75,7 +75,7 @@
               </p>
 
               <p>
-                <a href="#/faq">Learn more</a>
+                <router-link to="/faq">Learn more</router-link>
               </p>
             </div>
             <div class="col-6">
@@ -219,7 +219,7 @@ hr {
       height: 500px;
     }
   }
-  .card-body {;
+  .card-body {
     margin: auto;
     text-align: center;
     font-size: 24px;
