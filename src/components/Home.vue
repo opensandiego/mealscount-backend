@@ -1,7 +1,7 @@
 <template>
     <section class="home">
       <div class="homepage-hero position-relative overflow-hidden" v-bind:style="hero_style">
-        <div class="overlay col-md-5 p-lg-5 mx-auto my-5">
+        <div class="overlay col-md-5 p-lg-5 my-5">
           <h1 class="display-4">Maximize your CEP funding with Meals Count</h1>
           <hr/>
           <p class="lead">Meals Count is a free tool to help school districts optimize their
@@ -78,7 +78,7 @@
                 <a href="#/faq">Learn more</a>
               </p>
             </div>
-            <div class="col=6">
+            <div class="col-6">
               <img v-bind:src="worker_img" alt="CEP School Lunch"/>
             </div>
           </div>
@@ -138,6 +138,7 @@ export default {
 
 
 <style scoped lang="scss">
+
 .home-container {
   max-width: 1413px;
   margin: auto;
@@ -145,8 +146,8 @@ export default {
 .overlay {
   /*background: rgba(16,16,16,.25);*/
   border-radius: 10px;
-  width:820px;
-  float:left;
+  /*width:820px;*/
+  /*float:left;*/
 }
 
 section {
@@ -194,7 +195,6 @@ hr {
 }
 
 .homepage-hero .btn{
-  float: left;
   margin-right: 70px;
 }
 .homepage-hero {
@@ -213,6 +213,11 @@ hr {
     height: 442px;
     width: 385px;
     box-shadow: 0px 10px 16px #00000064;
+    /* need to pull this from bootstrap */
+    @media only screen and (max-width: 1024px) {
+      width: 300px;
+      height: 500px;
+    }
   }
   .card-body {;
     margin: auto;
@@ -253,7 +258,7 @@ hr {
     margin-bottom:  125px;
   }
   .content-row {
-    margin-bottom: 268px;
+    margin: 0px 10px 268px 10px;
     font-size: 31px;
   }
 }
