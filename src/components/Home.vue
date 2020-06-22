@@ -7,7 +7,7 @@
           <p class="lead">Meals Count is a free tool to help school districts optimize their
             USDA CEP Application, to get more reimbursements for school meals, and help fight child hunger.</p>
            <router-link to="/faq" class="learn btn btn-outline-secondary">Learn More</router-link>
-           <router-link to="/explore" class="find btn btn-outline-secondary">Find Your District</router-link>
+           <router-link to="/explore" class="filled btn btn-outline-secondary">Find Your District</router-link>
         </div>
       </div>
 
@@ -16,44 +16,44 @@
           <h2 class="col-12 display-5">How Does Meals Count Work?</h2>
         </div>
 
-        <div class="row">
+        <div class="row no-gutters">
           <div class="col-4 card-container">
-            <div class="card" style="width: 18rem;">
-              <img src="" class="card-img-top" alt="">
+            <div class="card">
               <div class="card-body">
                 <h5 class="card-title">LOCATE</h5>
                   <p class="card-text">Select your state and district.</p>
+                  <img v-bind:src="icons.locate" alt="Select your state and district" height="180px" />
               </div>
             </div>
           </div>
           <div class="card-container col-4">
-            <div class="card" style="width: 18rem;">
-              <img src="" class="card-img-top" alt="">
+            <div class="card">
               <div class="card-body">
                 <h5 class="card-title">INPUT DATA</h5>
                   <p class="card-text">Input your district's schools and school data</p>
+                  <img v-bind:src="icons.inputdata" alt="Input your district's schools and school data" style="margin-top: 30px;" height="150px" />
               </div>
             </div>
           </div>
           <div class="card-container col-4">
-            <div class="card" style="width: 18rem;">
-              <img src="" class="card-img-top" alt="">
+            <div class="card">
               <div class="card-body">
                 <h5 class="card-title">RECOMMENDATIONS</h5>
                   <p class="card-text">Get recommendations on how to group your schools for your CEP Application</p>
+                  <img v-bind:src="icons.recommendations" alt="Get recommendations on how to group your schools for your CEP Application" height="150px" />
               </div>
             </div>
           </div>
         </div>
 
-        <div class="row">
+        <div class="why-group row">
           <div class="col-12">
             <a href="#TODO">Why does grouping matter?</a>
           </div>
         </div>
-        <div class="row">
+        <div class="get-started row">
           <div class="col-12 text-center">
-            <a href="#TODO" class="btn btn-primary">Get Started</a>
+            <a href="#TODO" class="btn btn-primary filled">Get Started</a>
           </div>
         </div>
 
@@ -63,7 +63,7 @@
           <div class="row">
             <h2 class="col-12">What Is CEP?</h2>
           </div>
-          <div class="row">
+          <div class="row content-row">
             <div class="col-6">
               <p>
                 The Community Eligibility Provision (CEP) is a federally authorized option for schools 
@@ -109,6 +109,9 @@ import OPENSD from '../assets/openSD.jpeg';
 import HUNGER from '../assets/hunger.jpg';
 import HOMEPAGE_HERO from '../assets/homepage_hero2.jpg';
 import HOMEPAGE_WORKER from '../assets/Image_worker-food.png';
+import LOCATE_ICON from '../assets/locate-icon.svg';
+import INPUTDATA_ICON from '../assets/inputdata-icon.png';
+import RECOMMENDATIONS_ICON from '../assets/recommendations-icon.png';
 
 export default {
   data() {
@@ -116,6 +119,11 @@ export default {
       logos: { cfpa_logo: CFPALogo, 
               openSD_logo: OPENSD,
               hunger_logo: HUNGER
+      },
+      icons: {
+        locate: LOCATE_ICON,
+        inputdata: INPUTDATA_ICON,
+        recommendations: RECOMMENDATIONS_ICON,
       },
       worker_img: HOMEPAGE_WORKER,
       hero_style: {
@@ -192,7 +200,7 @@ hr {
 .homepage-hero {
   margin: 0px;
 }
-.btn.find {
+.btn.filled {
   background: #F27C3E 0% 0% no-repeat padding-box;
   color: #FFFFFF;
 }
@@ -204,14 +212,62 @@ hr {
   .card {
     height: 442px;
     width: 385px;
+    box-shadow: 0px 10px 16px #00000064;
+  }
+  .card-body {;
+    margin: auto;
+    text-align: center;
+    font-size: 24px;
+    img {
+      position: absolute;
+      bottom: 30px;
+      left: 120px;
+    }
+  }
+  .card-title {
+    margin-top: 39px;
+    margin-bottom: 33px;
+    font-size: 28px;
+    font-weight: bold;
+  }
+  h2 {
+    font-size: 45px;
+    margin-bottom:  126px;
+  }
+  .why-group {
+    margin-top: 31px;
+    font-size: 24px;
+    /* color: white; */
+  }
+  .get-started {
+    margin-top: 72px;
+    margin-bottom: 207px;
+  }
+}
+
+.what-is-cep-block {
+  h2 {
+    text-align: center;
+    font-size: 45px; 
+    padding-bottom: 24px;
+    margin-bottom:  125px;
+  }
+  .content-row {
+    margin-bottom: 268px;
+    font-size: 31px;
   }
 }
 
 .support-block {
   color: black;
+  h2 {
+    font-size: 45px;
+  }
 }
 .what-is-cep-block {
   color: black;
 }
+
+
 
 </style>
