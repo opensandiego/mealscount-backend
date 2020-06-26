@@ -100,9 +100,9 @@ export default {
                     console.log(results.data);
                     district.schools = [];
                     results.data.forEach( row => {
-                        row.active = row.included_in_optimization == 'true';
+                        row.active = row.included_in_optimization.toLowerCase() != 'false' && row.included_in_optimization != '' && row.included_in_optimization != 0;
                         row.grouping = null;
-                        if(row.total_enrolled){
+                        if(row.total_enrolled && row.school_name){
                           district.schools.push( row );
                         }
                     })
