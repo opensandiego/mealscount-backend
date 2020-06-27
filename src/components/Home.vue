@@ -51,12 +51,12 @@
 
         <div class="why-group row">
           <div class="col-12">
-            <a href="#TODO">Why does grouping matter?</a>
+            <a href="#TODO" class="grouping">Why does grouping matter?</a>
           </div>
         </div>
         <div class="get-started row">
           <div class="col-12 text-center">
-            <a href="#TODO" class="btn btn-primary filled">Get Started</a>
+            <a href="#TODO" class="btn btn-primary filled outlined">Get Started</a>
           </div>
         </div>
 
@@ -283,7 +283,7 @@ hr {
   .why-group {
     margin-top: 31px;
     font-size: 24px;
-    /* color: white; */
+    a { color: white; text-decoration: underline; }
   }
   .get-started {
     margin-top: 72px;
