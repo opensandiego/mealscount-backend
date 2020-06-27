@@ -12,8 +12,11 @@
       </div>
 
       <div class="home-cards home-container">
+        <div class="centered-background gray" v-bind:style="graybg1"/>
+        <div class="centered-background" v-bind:style="greenbg1"/>
         <div class="row">
           <h2 class="col-12 display-5">How Does Meals Count Work?</h2>
+          <hr class="fancy-rule"/>
         </div>
 
         <div class="row no-gutters">
@@ -98,7 +101,6 @@
           </div>
         </div>
       </div>
-
     </section>
 </template>
 
@@ -112,6 +114,8 @@ import HOMEPAGE_WORKER from '../assets/Image_worker-food.png';
 import LOCATE_ICON from '../assets/locate-icon.svg';
 import INPUTDATA_ICON from '../assets/inputdata-icon.svg';
 import RECOMMENDATIONS_ICON from '../assets/recommendations-icon.svg';
+import CENTER_GREEN_BG from '../assets/gradient-swooper.svg';
+import CENTER_GRAY_BG from '../assets/center-gray.svg';
 
 export default {
   data() {
@@ -129,7 +133,14 @@ export default {
       hero_style: {
         "background-image": "url('"+HOMEPAGE_HERO+"')",
         backgroundSize: 'cover',
+      },
+      greenbg1: {
+        "background-image": "url('"+CENTER_GREEN_BG+"')",
+      },
+      graybg1: {
+        "background-image": "url('"+CENTER_GRAY_BG+"')",
       }
+
     }
   }
 }
@@ -142,12 +153,29 @@ export default {
   max-width: 1413px;
   margin: auto;
 }
-.overlay {
+
+.col-md-5.overlay {
   /*background: rgba(16,16,16,.25);*/
   border-radius: 10px;
   width:820px;
   float:left;
 }
+
+.centered-background {
+    position: absolute;
+    top: 900px;
+    width: 1930px;
+    left: -3px;
+    height: 100%;
+    background-repeat: no-repeat;
+}
+
+.centered-background.gray {
+  width: 1499px;
+  top: 1567px;
+  left: 424px;
+}
+
 
 section {
   color: white;
@@ -180,6 +208,7 @@ hr {
   width: 120px;
 }
 
+
 .btn {
   background: #FFFFFF 0% 0% no-repeat padding-box;
   border: 3px solid #F27C3E;
@@ -193,7 +222,7 @@ hr {
 }
 
 .btn.learn {
-  margin-right: 30px;
+  margin-right: 70px;
 }
 .btn.find {
   margin-right: 0px;
@@ -241,9 +270,15 @@ hr {
     font-size: 28px;
     font-weight: bold;
   }
+  
+  hr {
+    border: 3px solid #B0D35C;;
+    margin-bottom:  102px;
+    width: 120px;
+  }
+
   h2 {
     font-size: 45px;
-    margin-bottom:  126px;
   }
   .why-group {
     margin-top: 31px;
@@ -278,7 +313,4 @@ hr {
 .what-is-cep-block {
   color: black;
 }
-
-
-
 </style>
