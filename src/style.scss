@@ -18,10 +18,22 @@
 /*
   * Site Header 
 */
+body.wrap-1920 > div {
+  max-width: 1920px;
+  margin-left: auto;
+  margin-right: auto;
+  background:white;
+  position:relative;
+  overflow:hidden;
+}
 
+body.wrap-1920 {
+  background: #fafafa;
+}
 .site-header {
   height: 160px;
 }
+
 .site-header .logo {
   margin-top: 35px;
 }
@@ -34,7 +46,7 @@
   color: #4AAB4F;
   font-size: 28px; 
   font-weight: Bold;
-  font-family: "Century Gothic", "Muli", sans-serif;
+  font-family: "century-gothic", "Muli", sans-serif;
   margin-left:  83px;
 }
 .site-header a:hover {
