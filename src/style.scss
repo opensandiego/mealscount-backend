@@ -18,6 +18,14 @@
 /*
   * Site Header 
 */
+body.wrap-1920 > div {
+  max-width: 1920px;
+  margin-left: auto;
+  margin-right: auto;
+  background:white;
+  position:relative;
+  overflow:hidden;
+}
 
 nav {
   height: 160px;
@@ -56,6 +64,47 @@ nav {
   }
   .navbar-toggler-icon {
     background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(0, 0, 0, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+  }
+}
+
+body.wrap-1920 {
+  background: #fafafa;
+}
+.site-header {
+  height: 160px;
+}
+
+.site-header .logo {
+  margin-top: 35px;
+}
+.site-header nav {
+  margin-top: 41px;
+  margin-right: 35px;
+}
+.site-header a {
+  text-transform: uppercase;
+  color: #4AAB4F;
+  font-size: 28px; 
+  font-weight: Bold;
+  font-family: "century-gothic", "Muli", sans-serif;
+  margin-left:  83px;
+}
+.site-header a:hover {
+  text-decoration: none;
+}
+
+/*
+  * Extra utilities
+  */
+
+.flex-equal > * {
+  -ms-flex: 1;
+  flex: 1;
+}
+@media (min-width: 768px) {
+  .flex-md-equal > * {
+    -ms-flex: 1;
+    flex: 1;
   }
 }
 
