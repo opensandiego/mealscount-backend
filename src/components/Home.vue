@@ -110,8 +110,8 @@ import HUNGER from '../assets/hunger.jpg';
 import HOMEPAGE_HERO from '../assets/homepage_hero2.jpg';
 import HOMEPAGE_WORKER from '../assets/Image_worker-food.png';
 import LOCATE_ICON from '../assets/locate-icon.svg';
-import INPUTDATA_ICON from '../assets/inputdata-icon.png';
-import RECOMMENDATIONS_ICON from '../assets/recommendations-icon.png';
+import INPUTDATA_ICON from '../assets/inputdata-icon.svg';
+import RECOMMENDATIONS_ICON from '../assets/recommendations-icon.svg';
 
 export default {
   data() {
