@@ -41,6 +41,7 @@ def parse_strategy(strategy):
 @click.option("--output-json",default=None,help="If Specified, output will stored in filename specified in JSON format (defaults to output.json)")
 @click.option("--output-folder",default=None,help="Folder to output per-district json and district overview json for website")
 @click.option("--evaluate-by",default="reimbursement",help="Optimize by reimbursement or coverage")
+@click.option("--investigate",default=False,is_flag=True,help="Stop before exiting in a shell to investigate results")
 @click.argument("cupc_csv_file",nargs=1)
 @click.argument("strategies",nargs=-1)
 def cli(    cupc_csv_file,
@@ -52,6 +53,7 @@ def cli(    cupc_csv_file,
             list_strategies=False,
             output_json=None,
             output_folder=None,
+            investigate=False,
             evaluate_by="reimbursement" ):
     """CEP Estimator - runs strategies for grouping School Districts into optimial CEP coverage
 
@@ -124,12 +126,12 @@ Expected CSV File columns
             (p1-p0) * 100.0,
         ]
         for s in district.strategies:
-            row.append(s.students_covered) 
+            row.append(s.reimbursement) 
         data.append(row)
-    headers = ['code','district','# schools','total enrolled','baseline','best_strategy','ISP Baseline','ISP Best','ISP %change']
+    headers = ['code','district','# schools','total enrolled','baseline','best_strategy','Reimb Baseline','Reimb Best','ISP %change']
     float_fmt = ["","",",.0f",",.0f","","",'.0f','.0f','+.0f']
     for s in districts[0].strategies:
-        headers.append( "eligible: %s" % s.name )
+        headers.append( "reimb: %s" % s.name )
         float_fmt.append(",.0f")
     print( tabulate.tabulate(data,headers,tablefmt="pipe",floatfmt=float_fmt) )
 
@@ -154,9 +156,12 @@ Expected CSV File columns
         (best_eligible_overall/total_overall) * 100.0,
     ),fg=(improvement > 0 and "green" or "red"))
 
+    if investigate:
+        print("Type dir() to see local variables")
+        import code; code.interact(local=locals())
+
     if target_district:
         td = districts[0]
-        import code; code.interact(local=locals())
         if show_groups:
             print( "Groupings for %s" % td )
             for s in td.strategies:

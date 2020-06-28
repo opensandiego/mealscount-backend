@@ -56,21 +56,21 @@ class ExhaustiveCEPStrategy(BaseCEPStrategy):
             best_reimbursement = 0
             # generate all partions
             d_powerset = [i for i in partition(schools)]
-            print("Powerset for %i contains %i" % (len(schools),len(d_powerset)))
-#            for x in partition(schools):
+            #print("Powerset for %i contains %i" % (len(schools),len(d_powerset)))
+            for x in partition(schools):
 #                pass
 #                # save grouping with highest reimbursement level
-#                est_reimbursement = 0
+                est_reimbursement = 0
 #                # we reference the powerset possible_groups so we don't have to instantiate a bajillion CEPGroup objects
-#                for group in x:
-#                    est_reimbursement += possible_groups[tuple(group)].est_reimbursement()
+                for group in x:
+                    est_reimbursement += possible_groups[tuple(group)].est_reimbursement()
 #                
 #                #print([ [s.code for s in i] for i in x], est_reimbursement, best_reimbursement)
 #
 #                # Choose the highest reimbursement
-#                if est_reimbursement > best_reimbursement:
-#                    best_grouping = [ possible_groups[tuple(group)] for group in x ]
-#                    best_reimbursement = est_reimbursement
-#
+                if est_reimbursement > best_reimbursement:
+                    best_grouping = [ possible_groups[tuple(group)] for group in x ]
+                    best_reimbursement = est_reimbursement
+
             self.groups = best_grouping
 

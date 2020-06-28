@@ -79,12 +79,15 @@ class CEPGroup(object):
         self.district = district
         self.name = group_name
         self.total_eligible,self.total_enrolled = 0,0
-        self.school_codes = set([s.code for s in schools])
-
         self.schools = schools
+        self.calculate()
 
+    def calculate(self):
         # Step 1 - calculate eligible students
-        for school in schools:
+        self.school_codes = set([s.code for s in self.schools])
+
+        self.total_eligible,self.total_enrolled = 0,0
+        for school in self.schools:
             self.total_eligible += school.total_eligible
             self.total_enrolled += school.total_enrolled
 
@@ -102,7 +105,7 @@ class CEPGroup(object):
         if self.free_rate == 0:
             self.paid_rate = 0
         
-        self.school_reimbursements = set([ (s.code,self.school_reimbursement(s)) for s in schools])
+        self.school_reimbursements = set([ (s.code,self.school_reimbursement(s)) for s in self.schools])
 
     @property
     def covered_students(self):
@@ -249,6 +252,8 @@ class CEPDistrict(object):
     def evaluate_strategies(self,evaluate_by="reimbursement"):
         best = None
         for s in self.strategies:
+            if s.groups == None:
+                import code; code.interact(local=locals())
             assert(s.groups != None)
             # TODO evaluate on total reimbursement, not students_covered
             if evaluate_by == "reimbursement":
