@@ -33,6 +33,14 @@
           For more information or questions, please <router-link to="/contact">Contact Us</router-link>!</p>
         </div>
       </div>
+      <div class="row" v-if="best_strategy.name == 'NYCMODA'">
+        <div class="col-sm alert alert-warning" role="alert">
+          <strong>⚠️ PLEASE NOTE</strong>
+          <p>The <a target="_blank" href="https://moda-nyc.github.io/Project-Library/projects/free_lunch_for_all/">NYCMODA algorithm</a> (stochastic climbing) involves 
+          starting with randomized groups, so may shift by some amount each run. To get a higher maximum please contact the Meals Count team and we can run a more significant 
+          number of iterations to try to maximize.</p>
+        </div>
+      </div>
     </div>
 
     <div class="container" v-if="district != null && viewMode == 'group'">
