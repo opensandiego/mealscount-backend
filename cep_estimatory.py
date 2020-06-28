@@ -74,12 +74,10 @@ Expected CSV File columns
 
     # Reduce to target district if specified
     if target_district != None:
-        schools = [s for s in schools if s.get("District Code",s["district_code"]) == target_district]
+        schools = [s for s in schools if s.get("District Code",s.get("district_code",None)) == target_district]
 
     # Naive Groupings
     #DistrictClass = OneToOneCEPDistrict
-  
-
     
     strategies = [parse_strategy(s) for s in strategies]
 
@@ -158,11 +156,13 @@ Expected CSV File columns
 
     if target_district:
         td = districts[0]
+        import code; code.interact(local=locals())
         if show_groups:
             print( "Groupings for %s" % td )
-            for g in td.groups:
-                click.secho( "%s (%i schools)" % (g.name,len(g.school_codes)), bold=True )
-                print( ",".joiN(g.school_codes) )
+            for s in td.strategies:
+                print("%s: %0.2f" % (s.name,s.reimbursement))
+                for g in s.groups:
+                    click.secho( "%s (%i schools) %0.2f %0.2f" % (g.name,len(g.schools),g.isp,g.est_reimbursement()), bold=True )
         if show_schools:
             data = [ (s.code,s.name,float(s.total_eligible),float(s.total_enrolled),s.isp) for s in td.schools ]
             data.sort(key=lambda o: o[4])
