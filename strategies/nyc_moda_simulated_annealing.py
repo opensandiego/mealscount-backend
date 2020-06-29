@@ -27,6 +27,8 @@ class NYCMODASimulatedAnnealingCEPStrategy(BaseCEPStrategy):
                 consolidate_groups = self.params.get("regroup",False),
                 fresh_starts = int(self.params.get("fresh_starts",1)),
             )
+            # prune 0 school groups since we don't need to report them
+            self.groups = [g for g in self.groups if len(g.schools) > 0]
         else:
             self.groups = [ CEPGroup(district,"OneGroup",[ s for s in district.schools ]) ]
 
