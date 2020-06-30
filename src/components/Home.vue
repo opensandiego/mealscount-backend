@@ -225,6 +225,10 @@ hr {
 
 .btn.learn {
   margin-right: 70px;
+  &:hover {
+    color: #FFFFFF;
+    background: #F27C3E;
+  }
 }
 .btn.find {
   margin-right: 0px;
@@ -239,6 +243,10 @@ hr {
 .btn.filled {
   background: #F27C3E 0% 0% no-repeat padding-box;
   color: #FFFFFF;
+      &:hover {
+    color: #F27C3E;
+    background: #FFFFFF;
+  }
 }
 
 .home-cards {
