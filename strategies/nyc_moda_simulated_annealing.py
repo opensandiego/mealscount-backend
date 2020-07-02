@@ -5,7 +5,7 @@ import multiprocessing as mp
 import pandas as pd
 import numpy as np
 import time
-from random import randint,sample,random
+from random import randint,sample,random,seed
 
 SCHOOL_YEAR = 180
 MULTIPLIER = 1.6
@@ -17,6 +17,8 @@ class NYCMODASimulatedAnnealingCEPStrategy(BaseCEPStrategy):
 
     def create_groups(self,district):
         self.debug = self.params.get("step_debug",False)
+        # Use a seed to get consistent results
+        seed( int(self.params.get("seed", 42 )))
 
         if self.params.get("original",False):
             self.do_nycmoda(district)

@@ -33,14 +33,6 @@
           For more information or questions, please <router-link to="/contact">Contact Us</router-link>!</p>
         </div>
       </div>
-      <div class="row" v-if="best_strategy.name == 'NYCMODA'">
-        <div class="col-sm alert alert-warning" role="alert">
-          <strong>⚠️ PLEASE NOTE</strong>
-          <p>The <a target="_blank" href="https://moda-nyc.github.io/Project-Library/projects/free_lunch_for_all/">NYCMODA algorithm</a> (stochastic climbing) involves 
-          starting with randomized groups, so may shift by some amount each run. To get a higher maximum please contact the Meals Count team and we can run a more significant 
-          number of iterations to try to maximize.</p>
-        </div>
-      </div>
     </div>
 
     <div class="container" v-if="district != null && viewMode == 'group'">
@@ -131,6 +123,10 @@
       </div>
 
     </div>  
+    <div class="overlay">
+      Please wait, optimization is running...
+    </div>
+    <LoadingModal v-if="showLoading" />
     <ExportModal v-if="showExport" v-bind:district="district" @close="closeExportModal" v-bind:grouping_index="best_group_index" v-bind:reimbursement_index="reimbursement_index" />
     <ImportModal v-if="showImport" v-bind:district="district" @close="closeImportModal"  />
     <ScenarioModal v-if="showScenarioModal" v-bind:district="district" @close="closeScenarioModal" />
@@ -146,6 +142,7 @@ import DistrictSchoolView from "./DistrictSchoolView.vue"
 import DistrictGroupView from "./DistrictGroupView.vue"
 import ExportModal from "./ExportModal.vue"
 import ImportModal from "./ImportModal.vue"
+import LoadingModal from "./LoadingModal.vue"
 import DistrictDetailFirstTimeModal from "./DistrictDetailFirstTimeModal.vue"
 
 // TODO "404" if no district?
@@ -158,6 +155,7 @@ export default {
     ExportModal,
     DistrictDetailFirstTimeModal,
     ImportModal,
+    LoadingModal,
   },
   props: ["state_code", "district_code"],
   data() {
@@ -170,6 +168,7 @@ export default {
       showScenarioModal: false,
       showFirstTimeModal: false,
       showImport: false,
+      showLoading: false,
     }
   },
   mounted(){
@@ -241,6 +240,11 @@ export default {
       return rt_index;
     }
   },
+  watch: {
+    district(){
+      this.showLoading = false;
+    }
+  },
   methods: {
     toggleEdit() {
       this.editMode = !this.editMode;
@@ -250,6 +254,7 @@ export default {
       console.log("Submitting for optimization",this.district) 
       this.editMode = false
       this.$store.dispatch("run_district",this.district);
+      this.showLoading = true
     },
     reload(){
       this.$store.dispatch("load_district",{code:this.district.code,state:this.district.state_code});
