@@ -12,10 +12,10 @@
                   <th scope="col" @click="set_sort('code')">District Code</th>
                   <th scope="col" @click="set_sort('name')">District Name</th>
                   <th scope="col" @click="set_sort('school_count')">Schools</th>
-                  <th v-tooltip title="Placeholder!" scope="col" @click="set_sort('total_enrolled')"> Total Enrolled <img v-bind:src="image.qmark"> </th> 
-                  <th v-tooltip title="Placeholder!" scope="col" @click="set_sort('overall_isp')">Overall ISP <img v-bind:src="image.qmark"> </th>
+                  <th v-tooltip title="The total number of students in this district" scope="col" @click="set_sort('total_enrolled')"> Total Enrolled <img v-bind:src="image.qmark"> </th> 
+                  <th v-tooltip title="The total Identified Student Population (ISP) of this district" scope="col" @click="set_sort('overall_isp')">Overall ISP <img v-bind:src="image.qmark"> </th>
                   <th v-tooltip title="Based on 180 days in school year">Est. Reimbursement <sup>1</sup> <img v-bind:src="image.qmark"></th>
-                  <th v-tooltip title="Placeholder!" >Best Strategy <img v-bind:src="image.qmark"></th>
+                  <th v-tooltip title="The algorithm that is producing the highest reimbursement rate" >Best Strategy <img v-bind:src="image.qmark"></th>
                 </tr>
               </thead>
 
@@ -32,7 +32,7 @@
                   <td>{{ district.total_enrolled.toLocaleString() }}</td>
                   <td>{{ (district.overall_isp * 100).toFixed(1) }}%</td>
                   <td>{{ (district.est_reimbursement * 180) | toUSD }}</td>
-                  <td>{{ district.best_strategy }}</td>
+                  <td><router-link to="/algorithms">{{ district.best_strategy }}</router-link></td>
                 </tr>
               </tbody>
               <tbody v-else>
