@@ -10,7 +10,7 @@
           <dt>District-Wide ISP</dt>
           <dd v-if="district != null">{{ (district.overall_isp*100).toFixed(1) }}%</dd>
           <dt>
-            Estimated Annual Reimbursement Range
+            Estimated Annual Reimbursement 
             <sup>1</sup>
           </dt>
           <dd v-if="best_strategy != null">
@@ -25,7 +25,6 @@
               <thead>
                 <tr>
                   <th>Group Number</th>
-                  <th>Group Name</th>
                   <th>Schools</th>
                   <th>Group ISP</th>
                   <th>Est. Reimbursement</th>
@@ -33,11 +32,10 @@
               </thead>
               <tbody>
                 <tr v-for="(group,index) in best_strategy.groups" v-bind:key="group.name">
-                  <td>{{ (index+1) }}</td>
-                  <td>{{ group.name }}</td>
-                  <td>{{ group.school_codes.length }}</td>
-                  <td>{{ group.isp }}%</td>
-                  <td>{{ (group.est_reimbursement * schoolDays)|toUSD }}</td>
+                  <td>Group {{ (index+1) }}</td>
+                  <td>{{ group.school_codes.length }} School<span v-if="group.school_codes.length > 1">s</span></td>
+                  <td>{{ (group.isp*100).toFixed(1) }}%</td>
+                  <td class="text-right">{{ (group.est_reimbursement * schoolDays)|toUSD }}</td>
                 </tr>
               </tbody>
             </table>
@@ -65,4 +63,10 @@ export default {
     }
 }
 </script>
+
+<style scoped>
+#by-group {
+  margin-top: 15px;
+}
+</style>
 

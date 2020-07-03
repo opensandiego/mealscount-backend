@@ -31,7 +31,7 @@
                   <td>{{ district.school_count }}</td>
                   <td>{{ district.total_enrolled.toLocaleString() }}</td>
                   <td>{{ (district.overall_isp * 100).toFixed(1) }}%</td>
-                  <td>{{ (district.est_reimbursement * 180) | toUSD }}</td>
+                  <td class="text-right">{{ (district.est_reimbursement * 180) | toUSD }}</td>
                   <td><router-link to="/algorithms">{{ district.best_strategy }}</router-link></td>
                 </tr>
               </tbody>

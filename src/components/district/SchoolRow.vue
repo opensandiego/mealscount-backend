@@ -22,7 +22,7 @@
         <td>
             {{  ((school.total_eligible / school.total_enrolled)>=0.4)?"✔️":""  }}
         </td> 
-        <td> {{ reimbursement|toUSD }}</td>
+        <td class="text-right"> {{ reimbursement|toUSD }}</td>
     </tr>
 </template>
 
