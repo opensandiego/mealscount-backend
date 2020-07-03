@@ -22,11 +22,11 @@
       <!-- <ScenarioControl /> -->
     </div>
 
-    <div class="container">
+    <div class="container" v-if="district.state_code == 'ca'">
       <div class="row">
         <div class="col-sm alert alert-warning" role="alert">
           <strong>⚠️ PLEASE NOTE</strong>
-          <p>The data shown for this district is from the 2018-2019 CALPADS aggregate data, as well as April 2019 meals average meals data and is <strong>not up to date</strong>.
+          <p>The data shown for this district is from the <a href="https://www.cde.ca.gov/ds/sd/sd/filescupc.asp" target="_blank">2019-2020 CALPADS CUPC source file</a>, as well as April 2019 meals average meals data and is <strong>not up to date</strong>.
           ISP numbers are for <strong>Direct Certification Only</strong>. Your district's numbers may be significantly higher. 
           Some charter schools may be included, and some preschool schools may be missing, based upon the school data we receive from CALPADS.</p>
           <p>To get the best recommended grouping, the school listing and ISP numbers must be modified to match the reality of your school.
