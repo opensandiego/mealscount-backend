@@ -1,11 +1,11 @@
 <template>
     <tr
-            v-bind:class="{ inactive: !school.active }"
+            v-bind:class="{ inactive: !school.active, excluded: group == null }"
             v-bind:key="school.code"
             v-bind:style="rowBgStyle"
           >
         <td v-if="group != null">{{ group }}</td>
-        <td v-else>n/a</td>
+        <td v-else v-tooltip title="Schools marked in group 0 are not included in the grouping calculation" >0</td>
         <td>{{ school.school_code }}</td>
         <td>{{ school.school_name }}</td>
         <td>{{ school.school_type }}</td>
@@ -37,3 +37,9 @@ export default {
     }
 }
 </script>
+
+<style scoped>
+    .excluded {
+        color: #aaa;
+    }
+</style>

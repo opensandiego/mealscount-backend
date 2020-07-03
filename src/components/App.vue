@@ -83,6 +83,9 @@
               <li>
                 <router-link to="/contact">Contact Us</router-link>
               </li>
+              <li>
+                <router-link to="/newsletter">Newsletter</router-link>
+              </li>
             </ul>
           </div>
           <div class="col-2">
@@ -93,6 +96,9 @@
               </li>
               <li>
                 <router-link to="/faq">FAQ</router-link>
+              </li>
+              <li>
+                <router-link to="/algorithms">About Algorithms</router-link>
               </li>
             </ul>
           </div>

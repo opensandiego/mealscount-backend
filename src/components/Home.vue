@@ -106,7 +106,7 @@
           </div>
           <div class="row">
             <div class="col-12 text-center">
-              <router-link to="newsletter/" class="btn btn-primary">Sign Up For Our Newsletter</router-link>
+              <router-link to="newsletter/" class="btn btn-primary outlined filled">Sign Up For Our Newsletter</router-link>
             </div>
           </div>
         </div>

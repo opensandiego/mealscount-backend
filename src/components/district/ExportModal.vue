@@ -17,6 +17,9 @@
         <section class="modal-body" id="modalDescription">
           <slot name="body">
             <h3>Download {{ district.name }} as CSV</h3>
+            <p>This file can be used to reimport again and to "save" your grouping. Please note that
+              reimbursement rates are listed for the first school, but will be applied across the entire district 
+              based on the first school's rates.</p>
             <div class="col-sm-12">
               Filename:
               <input type="text" v-bind:value="download_filename" />
@@ -72,9 +75,14 @@ export default {
         "daily_breakfast_served",
         "daily_lunch_served",
         "included_in_optimization",
-        "estimated_school_reimbursement"
+        "estimated_school_reimbursement",
+        "free_lunch_rate",
+        "paid_lunch_rate",
+        "free_bkfst_rate",
+        "paid_bkfst_rate",
       ].join(',') + '\n'
 
+      let i = 0;
       this.district.schools.forEach( s => {
           csv_text += [
             this.district.state_code,
@@ -88,7 +96,12 @@ export default {
             s.daily_lunch_served,
             s.active,
             (s.school_code in this.reimbursement_index)?this.reimbursement_index[s.school_code]:'',
+            i == 0 ? this.district.rates.free_lunch : "",
+            i == 0 ? this.district.rates.paid_lunch : "",
+            i == 0 ? this.district.rates.free_bfast : "",
+            i == 0 ? this.district.rates.paid_bfast : "",
           ].join(',') + "\n"
+          i += 1
       })
 
       x += encodeURIComponent(csv_text);

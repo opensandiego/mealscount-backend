@@ -98,6 +98,12 @@ export default {
                 header: true,
         	    complete: function(results) {
                     console.log(results.data);
+                    if( results.data[0].free_lunch_rate != undefined){
+                      district.rates.free_lunch = results.data[0].free_lunch_rate;
+                      district.rates.paid_lunch = results.data[0].paid_lunch_rate;
+                      district.rates.free_bfast = results.data[0].free_bkfst_rate;
+                      district.rates.paid_bfast = results.data[0].paid_bkfst_rate;
+                    }
                     district.schools = [];
                     results.data.forEach( row => {
                         row.active = row.included_in_optimization.toLowerCase() != 'false' && row.included_in_optimization != '' && row.included_in_optimization != 0;
