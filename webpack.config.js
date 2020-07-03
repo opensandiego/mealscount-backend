@@ -7,7 +7,7 @@ module.exports = {
   mode: 'development',
   output: { 
     path: path.resolve(__dirname,'dist'), 
-    filename: 'static/index_bundle.js?{{ source_version }}'
+    filename: 'static/index_bundle.js?' + process.env.SOURCE_VERSION,
   }, 
   module: {
     rules: [
