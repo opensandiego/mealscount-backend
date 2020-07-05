@@ -27,27 +27,31 @@ class NYCMODASimulatedAnnealingCEPStrategy(BaseCEPStrategy):
                 district,
                 clear_groups = self.params.get("clear_groups",False),
                 consolidate_groups = self.params.get("regroup",False),
-                fresh_starts = int(self.params.get("fresh_starts",1)),
+                fresh_starts = int(self.params.get("fresh_starts",10)),
+                iterations = int(self.params.get("iterations", 100)),
+                ngroups = self.params.get("ngroups",None) and int(self.params.get("ngroups",None)) or None,
             )
             # prune 0 school groups since we don't need to report them
             self.groups = [g for g in self.groups if len(g.schools) > 0]
         else:
             self.groups = [ CEPGroup(district,"OneGroup",[ s for s in district.schools ]) ]
 
-        return
+        return self.groups
 
     def simplified( self,
                     district,
                     clear_groups=False,
                     consolidate_groups=False,
                     iterations = 1000,
-                    fresh_starts = 1, 
+                    fresh_starts = 1,
+                    ngroups = None, 
                     ):
         '''Attempt at streamlining algorithm by skipping pandas'''
         if len(district.schools) <= 3: return None  # safeguard some assumptions
 
-        def random_start(district):
-            ngroups = randint(2,len(district.schools)-1)
+        def random_start(district,ngroups=None):
+            if not ngroups:
+                ngroups = randint(2,len(district.schools)-1)
             groups = [CEPGroup(district,"Group %i" % i,[]) for i in range(ngroups)]
             for s in district.schools:
                 groups[randint(0,ngroups-1)].schools.append(s)
@@ -103,7 +107,7 @@ class NYCMODASimulatedAnnealingCEPStrategy(BaseCEPStrategy):
         overall = 0
         best_grouping = None
         for i in range(fresh_starts):
-            groups = random_start(district)
+            groups = random_start(district,ngroups)
 
             if self.debug:
                 for g in groups:
