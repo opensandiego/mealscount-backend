@@ -28,7 +28,7 @@ class NYCMODASimulatedAnnealingCEPStrategy(BaseCEPStrategy):
                 clear_groups = self.params.get("clear_groups",False),
                 consolidate_groups = self.params.get("regroup",False),
                 fresh_starts = int(self.params.get("fresh_starts",10)),
-                iterations = int(self.params.get("iterations", 100)),
+                iterations = int(self.params.get("iterations", 150)),
                 ngroups = self.params.get("ngroups",None) and int(self.params.get("ngroups",None)) or None,
             )
             # prune 0 school groups since we don't need to report them
