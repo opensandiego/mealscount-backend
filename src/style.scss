@@ -134,8 +134,11 @@ footer.site-footer {
   a {
     font-size: 22px;
     padding-top: 20px;
-    line-height: 0.5em; 
     color: white;
+    @include media-breakpoint-down(sm){
+      font-size: 18px;
+      line-height: 1;
+    }
   }
 
   h5 {
@@ -146,10 +149,17 @@ footer.site-footer {
     text-transform: uppercase;
     letter-spacing: 1px;
     padding-bottom: 10px;
+    @include media-breakpoint-down(sm){
+      font-size: 22px;
+    }
   }
 
   ul{
-    padding-top: 30px;
+    padding-top: 15px;
+
+    li {
+      padding-top:15px;
+    }
   }
 
   .icon {

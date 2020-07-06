@@ -37,7 +37,7 @@
     <footer class="site-footer">
       <div class="nav-container px-3">
         <div class="row py-5">
-          <div class="col-2">
+          <div class="col-6 col-md">
             <h5>Resources</h5>
             <ul class="list-unstyled text-small">
               <li>
@@ -60,7 +60,7 @@
               </li>
             </ul>
           </div>
-          <div class="col-2">
+          <div class="col-6 col-md">
             <h5>Partners</h5>
             <ul class="list-unstyled text-small">
               <li>
@@ -77,7 +77,7 @@
               </li>
             </ul>
           </div>
-          <div class="col-2">
+          <div class="col-6 col-md">
             <h5>Contact</h5>
             <ul class="list-unstyled text-small">
               <li>
@@ -85,7 +85,7 @@
               </li>
             </ul>
           </div>
-          <div class="col-2">
+          <div class="col-6 col-md">
             <h5>About</h5>
             <ul class="list-unstyled text-small">
               <li>
@@ -96,7 +96,7 @@
               </li>
             </ul>
           </div>
-          <div class="col-4">
+          <div class="col-12 col-md-4">
             <div class="icon">
               <!--<svg width="134" height="112">
                   <rect width="134" height="112" style="fill:rgb(255,255,255)" />

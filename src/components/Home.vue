@@ -1,6 +1,7 @@
 <template>
     <section class="home">
       <div class="homepage-hero position-relative overflow-hidden" v-bind:style="hero_style">
+        <div class="home-shadow">
         <div class="overlay col-md-5 p-lg-5 my-5">
           <h1 class="display-4">Maximize your CEP funding with Meals Count</h1>
           <hr/>
@@ -8,6 +9,7 @@
             USDA CEP Application, to get more reimbursements for school meals, and help fight child hunger.</p>
            <router-link to="/faq" class="learn btn btn-outline-secondary">Learn More</router-link>
            <router-link to="/explore" class="find filled btn btn-outline-secondary">Find Your District</router-link>
+        </div>
         </div>
       </div>
 
@@ -19,7 +21,7 @@
           <hr class="fancy-rule"/>
         </div>
 
-        <div class="row d-flex flex-row justify-content-between">
+        <div class="cards-container">
           <div class="card-container p-2">
             <div class="card">
               <div class="card-body">
@@ -34,7 +36,7 @@
               <div class="card-body">
                 <h5 class="card-title">INPUT DATA</h5>
                   <p class="card-text">Input your district's schools and school data</p>
-                  <img v-bind:src="icons.inputdata" alt="Input your district's schools and school data" style="margin-top: 30px;" height="150px" />
+                  <img v-bind:src="icons.inputdata" alt="Input your district's schools and school data" style="margin-top: 30px;" height="103px" />
               </div>
             </div>
           </div>
@@ -43,7 +45,7 @@
               <div class="card-body">
                 <h5 class="card-title">RECOMMENDATIONS</h5>
                   <p class="card-text">Get recommendations on how to group your schools for your CEP Application</p>
-                  <img v-bind:src="icons.recommendations" alt="Get recommendations on how to group your schools for your CEP Application" height="150px" />
+                  <img v-bind:src="icons.recommendations" alt="Get recommendations on how to group your schools for your CEP Application" height="103px" />
               </div>
             </div>
           </div>
@@ -65,9 +67,10 @@
       <div class="what-is-cep-block home-container">
           <div class="row">
             <h2 class="col-12">What Is CEP?</h2>
+            <hr class="fancy-rule"/>
           </div>
           <div class="row content-row">
-            <div class="col-6">
+            <div class="col-12 col-md-6 pb-4">
               <p>
                 The Community Eligibility Provision (CEP) is a federally authorized option for schools 
                 to serve and receive funding for breakfasts and lunches that are free of charge to all students. 
@@ -81,7 +84,7 @@
                 <router-link to="/faq">Learn more</router-link>
               </p>
             </div>
-            <div class="col-6">
+            <div class="col-12 col-md-6">
               <img v-bind:src="worker_img" alt="CEP School Lunch"/>
             </div>
           </div>
@@ -131,7 +134,7 @@ export default {
       },
       worker_img: HOMEPAGE_WORKER,
       hero_style: {
-        "background-image": "url('"+HOMEPAGE_HERO+"')",
+        "background-image": "linear-gradient(90deg, rgb(0, 0, 0, .5) 0%, rgba(31, 31, 31, 0.2) 70%, rgba(84, 84, 84, 0) 100%), url('"+HOMEPAGE_HERO+"')",
         backgroundSize: 'cover',
       },
       greenbg1: {
@@ -161,6 +164,12 @@ export default {
   /*width:820px;*/
   /*float:left;*/
 }
+
+/*.col-md-5 {
+  @media (max-width: 700px) {
+    max-width: 55%;
+  }
+}*/
 
 .centered-background {
     position: absolute;
@@ -196,6 +205,7 @@ p.lead {
   font-weight: bold;
   clear: left;
   margin-bottom: 70px;
+  padding-top: 25px;
 }
 
 div.active-development.alert {
@@ -215,12 +225,13 @@ hr {
   border: 3px solid #F27C3E;
   border-radius: 31px;
   text-align: center;
-  font: Bold 22px/50px century-gothic;
+  font: Bold 22px/40px century-gothic;
   letter-spacing: 0.02px;
   color: #F27C3E;
   opacity: 1;
-  width: 250px;
+  width: 260px;
   height: 75;
+
 }
 
 .btn.learn {
@@ -235,7 +246,13 @@ hr {
 }
 
 .homepage-hero .btn{
-  margin-right: 70px;
+
+  @media only screen and (max-width: 1600px) {
+    display: block;
+    margin: 20px auto;
+    width: 240px;
+    /*font: Bold 20px/38px century-gothic;*/
+  }
 }
 .homepage-hero {
   margin: 0px;
@@ -248,12 +265,24 @@ hr {
     background: #FFFFFF;
   }
 }
+.fancy-rule {
+  border: 3px solid #B0D35C;;
+  margin-bottom:  102px;
+  width: 120px;
+}
 
 .home-cards {
   text-align: center;
   color: black;
   margin: 100px auto;
-  
+
+  .cards-container {
+    @media only screen and (min-width: 1000px){
+      display: flex;
+      justify-content: space-between;
+    }
+  }
+
   .card-container {
     display: flex;
     justify-content: center;
@@ -266,7 +295,7 @@ hr {
     /* need to pull this from bootstrap */
     @media only screen and (max-width: 1024px) {
       width: 300px;
-      height: 500px;
+      height:430px;
     }
   }
   .card-body {
@@ -275,8 +304,15 @@ hr {
     font-size: 24px;
     img {
       position: absolute;
-      bottom: 30px;
-      left: 120px;
+      bottom: 70px;
+      left: 135px;
+    }
+    @media only screen and (max-width: 1024px) {
+      font-size: 20px;
+      img {
+        left: 95px;
+        bottom:55px;
+      }
     }
   }
   .card-title {
@@ -284,13 +320,11 @@ hr {
     margin-bottom: 33px;
     font-size: 28px;
     font-weight: bold;
+    @media only screen and (max-width: 1024px) {
+      font-size: 25px;
+    }
   }
-  
-  hr {
-    border: 3px solid #B0D35C;;
-    margin-bottom:  102px;
-    width: 120px;
-  }
+
 
   h2 {
     font-size: 45px;
@@ -310,12 +344,13 @@ hr {
   h2 {
     text-align: center;
     font-size: 45px; 
-    padding-bottom: 24px;
-    margin-bottom:  125px;
   }
   .content-row {
     margin: 0px 10px 268px 10px;
     font-size: 31px;
+    @media only screen and (max-width: 1000px){
+      font-size: 25px;
+    }
   }
   img {
     width: 100%;
