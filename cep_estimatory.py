@@ -162,6 +162,7 @@ Expected CSV File columns
 
     if target_district:
         td = districts[0]
+        print(json.dumps(td.as_dict(),indent=1))
         if show_groups:
             print( "Groupings for %s" % td )
             for s in td.strategies:

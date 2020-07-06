@@ -82,7 +82,7 @@ def optimize():
     # TODO allow this as a param
     add_strategies(
         district,
-        *["Pairs","OneToOne","Exhaustive","OneGroup","Spread","Binning","NYCMODA"]
+        *["Pairs","OneToOne","Exhaustive","OneGroup","Spread","Binning","NYCMODA?fresh_starts=10&iterations=150"]
     )
 
     t0 = time.time()
@@ -102,10 +102,10 @@ def district(state,code):
     district_params = request.json 
     district = get_district(state,code,district_params) 
 
-    # TODO allow incoming data to specify strategies and strategy parameters 
-    add_strategies(district,"OneToOne","OneGroup","Exhaustive","Binning")
-    district.run_strategies() 
-    district.evaluate_strategies()
+#    # TODO allow incoming data to specify strategies and strategy parameters 
+#    add_strategies(district,"OneToOne","OneGroup","Exhaustive","Binning")
+#    district.run_strategies() 
+#    district.evaluate_strategies()
     return jsonify(district.as_dict())
 
 @app.route('/api/states/', methods=['GET'])

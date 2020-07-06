@@ -20,6 +20,7 @@ class NYCMODASimulatedAnnealingCEPStrategy(BaseCEPStrategy):
         # Use a seed to get consistent results
         seed( int(self.params.get("seed", 42 )))
 
+
         if self.params.get("original",False):
             self.do_nycmoda(district)
         elif len(district.schools) > 10: # less than 10 we do exhaustive
@@ -48,6 +49,10 @@ class NYCMODASimulatedAnnealingCEPStrategy(BaseCEPStrategy):
                     ):
         '''Attempt at streamlining algorithm by skipping pandas'''
         if len(district.schools) <= 3: return None  # safeguard some assumptions
+
+        TFactor = self.params.get("tfactor",100000)
+        use_annealing = int(self.params.get("annealing",0))
+        deltaT = float(self.params.get("delta_t",0.1))
 
         def random_start(district,ngroups=None):
             if not ngroups:
@@ -83,8 +88,17 @@ class NYCMODASimulatedAnnealingCEPStrategy(BaseCEPStrategy):
             # our new reimbursement
             step_r = round(g1.est_reimbursement() + g2.est_reimbursement())
 
-               # undo if we have gone down, and return False
-            if step_r < start_r: # or random() < np.exp( (step_r-start_r)/T) :
+            # The original NYCMODA does this as a raw change in reimbursement
+            # but this really produces worse results since our values are much smaller
+            # (not NYC and daily not Annual for total). I try to compensate by normalizing
+            # to starting reimbursement, but this still produces worse results.. 
+            # TODO figure out what probability function and parameters work to utilize simualted annealing
+            # https://en.wikipedia.org/wiki/Simulated_annealing
+            step_temp = (start_r > 0 and (step_r - start_r)/start_r or -0.01) * TFactor
+
+            # undo if we have gone down, and return False
+            # given that the different in change in reimbursement wildly varies amongst districts
+            if step_r < start_r or (use_annealing and random() < np.exp( step_temp/T)):
                 s = g2.schools.pop()
                 g1.schools.append(s)
                 g1.calculate()
@@ -104,6 +118,8 @@ class NYCMODASimulatedAnnealingCEPStrategy(BaseCEPStrategy):
                 r_isp = round(g.isp,2)
                 reduced.setdefault( r_isp, [] )
 
+        # TODO allow self.params.get('cores',1) to trigger multiprocessing
+        # Although if we do that here, do we need to re-seed random?
         overall = 0
         best_grouping = None
         for i in range(fresh_starts):
@@ -113,7 +129,7 @@ class NYCMODASimulatedAnnealingCEPStrategy(BaseCEPStrategy):
                 for g in groups:
                     print("%s: %s" % (g.name,",".join([s.code for s in g.schools]))) 
 
-            for T in np.arange(1,0,-0.1):
+            for T in np.arange(1,0,-deltaT):
                 for i in range(iterations):
                     if self.debug:
                         print("%i\t$%0.0f" % (i,sum([g.est_reimbursement() for g in groups])))
