@@ -98,21 +98,26 @@ export default {
                 header: true,
         	    complete: function(results) {
                     console.log(results.data);
-                    if( results.data[0].free_lunch_rate != undefined){
-                      district.rates.free_lunch = results.data[0].free_lunch_rate;
-                      district.rates.paid_lunch = results.data[0].paid_lunch_rate;
-                      district.rates.free_bfast = results.data[0].free_bkfst_rate;
-                      district.rates.paid_bfast = results.data[0].paid_bkfst_rate;
+                    try{
+                      if( results.data[0].free_lunch_rate != undefined){
+                        district.rates.free_lunch = Number(results.data[0].free_lunch_rate);
+                        district.rates.paid_lunch = Number(results.data[0].paid_lunch_rate);
+                        district.rates.free_bfast = Number(results.data[0].free_bkfst_rate);
+                        district.rates.paid_bfast = Number(results.data[0].paid_bkfst_rate);
+                      }
+                      district.schools = [];
+                      results.data.forEach( row => {
+                          if( row["total_enrolled"] == undefined ){ return; }
+                          row.active = row.included_in_optimization.toLowerCase() != 'false' && row.included_in_optimization != '' && row.included_in_optimization != 0;
+                          row.grouping = null;
+                          if(row.total_enrolled && row.school_name){
+                            district.schools.push( row );
+                          }
+                      })
+                      self.showComplete = true
+                    }catch(error){
+                      alert(error.message);
                     }
-                    district.schools = [];
-                    results.data.forEach( row => {
-                        row.active = row.included_in_optimization.toLowerCase() != 'false' && row.included_in_optimization != '' && row.included_in_optimization != 0;
-                        row.grouping = null;
-                        if(row.total_enrolled && row.school_name){
-                          district.schools.push( row );
-                        }
-                    })
-                    self.showComplete = true
           	    }
             });
       })
