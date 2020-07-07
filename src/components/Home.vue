@@ -153,13 +153,30 @@ export default {
 
     }
   },
+  // From: https://forum.vuejs.org/t/how-do-i-add-remove-classes-to-body/1219/12 
+  // .. not my favorite method, but need to fix home layout issue
+  methods: {
+    toggleBodyClass(addRemoveClass, className) {
+      const el = document.body;
+
+      if (addRemoveClass === 'addClass') {
+        el.classList.add(className);
+      } else {
+        el.classList.remove(className);
+      }
+    },
+  },
+  mounted() {
+    this.toggleBodyClass('addClass', 'body-home');
+  },
+  destroyed() {
+    this.toggleBodyClass('removeClass', 'body-home');
+  }
 }
 </script>
 
 
-
 <style scoped lang="scss">
-
 .home-container {
   max-width: 1413px;
   margin: auto;

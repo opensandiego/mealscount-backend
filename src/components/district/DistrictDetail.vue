@@ -26,11 +26,14 @@
       <div class="row">
         <div class="col-sm alert alert-warning" role="alert">
           <strong>⚠️ PLEASE NOTE</strong>
-          <p>The data shown for this district is from the <a href="https://www.cde.ca.gov/ds/sd/sd/filescupc.asp" target="_blank">2019-2020 CALPADS CUPC source file</a>, as well as April 2019 meals average meals data and is <strong>not up to date</strong>.
-          ISP numbers are for <strong>Direct Certification Only</strong>. Your district's numbers may be significantly higher. 
-          Some charter schools may be included, and some preschool schools may be missing, based upon the school data we receive from CALPADS.</p>
-          <p>To get the best recommended grouping, the school listing and ISP numbers must be modified to match the reality of your school.
-          For more information or questions, please <router-link to="/contact">Contact Us</router-link>!</p>
+          <p>The data shown for this district is from the <a href="https://www.cde.ca.gov/ds/sd/sd/filescupc.asp" target="_blank">2019-2020 CALPADS CUPC source file</a> and the April 2019 
+          school meal claiminig data. The listed ISPs are calculated from direction certification through CalFresh/SNAP and CalWORKs only. Your current numbers may be significantly higher. </p>
+ 
+          <p>Sites listed may include charter schools and exclude some preschool/early learning programs under your jurisdiction.</p>
+ 
+          <p>To get the best recommended grouping, you should edit the school list as well as data affiliated with each school to better reflect current enrollment, 
+            eligibility, and meal participation. For more information, please <router-link to="/contact">Contact Us</router-link>!</p>
+
         </div>
       </div>
     </div>
@@ -116,9 +119,9 @@
           <sup>1</sup>
           Based on {{ schoolDays }} days in school year
           <br />
-          <sup>2</sup>Derived from Direct Certified only
+          <sup>2</sup> Derived from CALPADS CUPC report of students directly certified through participation in CalFresh/SNAP or CalWORKs
           <br />
-          <sup>3</sup>From average meals per day April 2019, based upon CFPA SNP Report
+          <sup>3</sup> Based on average daily participation for April 2019 calculated by CFPA from meal claim data provided by the California Department of Education
           <br />
           </div>
       </div>
@@ -336,5 +339,9 @@ tr.add_row td input {
 
 .buttons button {
   margin: 8px;
+}
+
+table.school-table {
+  font-size: 10pt;
 }
 </style>
