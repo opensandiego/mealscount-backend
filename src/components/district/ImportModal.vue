@@ -110,6 +110,9 @@ export default {
                           if( row["total_enrolled"] == undefined ){ return; }
                           row.active = row.included_in_optimization.toLowerCase() != 'false' && row.included_in_optimization != '' && row.included_in_optimization != 0;
                           row.grouping = null;
+                          if( row.school_code == null || row.school_code == ""){
+                            row.school_code = "school-"+(district.schools.length+1)
+                          }
                           if(row.total_enrolled && row.school_name){
                             district.schools.push( row );
                           }
