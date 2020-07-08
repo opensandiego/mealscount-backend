@@ -180,8 +180,11 @@ export default {
       this.showFirstTimeModal = true;
       if(window.localStorage){ window.localStorage.setItem("mc-district-detail-firsttime","done") }
     }
+    if(olark){
+      olark('api.box.show');
+    }
   },
-  computed: {
+   computed: {
     district() {
       return this.$store.getters.selected_district;
     },
