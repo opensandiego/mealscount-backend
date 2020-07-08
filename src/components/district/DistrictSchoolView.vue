@@ -31,6 +31,7 @@
             @remove="remove_school(school)"
           />
           <AddSchoolRow 
+            ref="addSchoolRow"
             @add_school="add_school"
           />
         </tbody>
@@ -121,7 +122,12 @@ export default {
     },
     add_school(school){
       console.log("Adding School: ", school)
-      this.schools.push(school);
+      if( !school.school_code || this.schools.filter( s=> s.school_code == school.school_code ).length > 0){
+        alert("Please enter a unique school code");
+      }else{
+        this.schools.push(school);
+        this.$refs.addSchoolRow.clear();
+      }
     },
     remove_school(school){
       if(window.confirm("Remove School  " + school.school_name + " ("+school.school_code + ")?")){
