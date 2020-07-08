@@ -3,7 +3,7 @@
         <h1>About Meals Count</h1>
         <p>
 Meals Count is a collaboration between <a href="https://opensandiego.org">Open San Diego</a>,
- <a href="https://www.cfpa.org">California Food Policy Advocates</a>, and the <a href="https://www.sandiegohungercoalition.org/">San Diego Hunger Coalition</a>.
+ <a href="https://www.cfpa.net">California Food Policy Advocates</a>, and the <a href="https://www.sandiegohungercoalition.org/">San Diego Hunger Coalition</a>.
         </p>
 
         <p>The Meals Count team believes all children should have access to the food they need to learn, 
