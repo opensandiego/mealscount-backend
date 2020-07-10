@@ -10,13 +10,18 @@ import json
 
 #### CLI ####
 
-def parse_districts(school_data,strategies):
+def parse_districts(school_data,strategies,rates=None):
     districts = {}
+    if rates:
+        rates = dict(zip(
+            ('free_lunch','paid_lunch','free_bfast','paid_bfast'),
+            [float(x) for x in rates.split(',')],
+        ))
     for row in school_data:
         school = CEPSchool(row)
         district_name,district_code = row.get('District Name',row.get('district_name','Default')),row.get('District Code',row.get('district_code','1'))
         if district_name not in districts:
-            district = CEPDistrict(district_name,district_code)
+            district = CEPDistrict(district_name,district_code,reimbursement_rates=rates)
             for s in strategies:
                 StrategyClass,params,strategy_name = s
                 district.strategies.append( StrategyClass(params,name=strategy_name) )
@@ -42,6 +47,7 @@ def parse_strategy(strategy):
 @click.option("--output-folder",default=None,help="Folder to output per-district json and district overview json for website")
 @click.option("--evaluate-by",default="reimbursement",help="Optimize by reimbursement or coverage")
 @click.option("--investigate",default=False,is_flag=True,help="Stop before exiting in a shell to investigate results")
+@click.option("--rates", default=None, help="Rates specified as freelunch,paidlunch,freebkfst,paidbkfst, e.g. '3.31,0.31,2.14,0.31' ")
 @click.argument("cupc_csv_file",nargs=1)
 @click.argument("strategies",nargs=-1)
 def cli(    cupc_csv_file,
@@ -54,6 +60,7 @@ def cli(    cupc_csv_file,
             output_json=None,
             output_folder=None,
             investigate=False,
+            rates=None,
             evaluate_by="reimbursement" ):
     """CEP Estimator - runs strategies for grouping School Districts into optimial CEP coverage
 
@@ -72,7 +79,7 @@ Expected CSV File columns
         return
 
     i = lambda x: int(x.replace(',',''))
-    schools = [r for r in csv.DictReader(codecs.open(cupc_csv_file)) if i(r['total_enrolled']) > 0]
+    schools = [r for r in csv.DictReader(codecs.open(cupc_csv_file)) if r['total_enrolled'] and i(r['total_enrolled']) > 0]
 
     # Reduce to target district if specified
     if target_district != None:
@@ -83,7 +90,7 @@ Expected CSV File columns
     
     strategies = [parse_strategy(s) for s in strategies]
 
-    districts = parse_districts(schools,strategies = strategies)
+    districts = parse_districts(schools,strategies = strategies,rates=rates)
 
     print("Districts with 10 or less schools: %0.0f%%" % (len([d for d in districts if len(d.schools) <= 10])/float(len(districts)) * 100))
 
@@ -162,19 +169,41 @@ Expected CSV File columns
 
     if target_district:
         td = districts[0]
-        print(json.dumps(td.as_dict(),indent=1))
+        #print(json.dumps(td.as_dict(),indent=1))
         if show_groups:
-            print( "Groupings for %s" % td )
+            print("\nGroupings for %s" % td )
             for s in td.strategies:
-                print("%s: %0.2f" % (s.name,s.reimbursement))
-                for g in s.groups:
-                    click.secho( "%s (%i schools) %0.2f %0.2f" % (g.name,len(g.schools),g.isp,g.est_reimbursement()), bold=True )
+                print("\n%s: %0.2f" % (s.name,s.reimbursement))
+                data = [
+                    (   g.name,
+                        ','.join([s.name for s in g.schools]),
+                        g.isp,
+                        g.free_rate,
+                        g.paid_rate,
+                        g.est_reimbursement(),
+                    )
+                    for g in s.groups
+                ] 
+                print(tabulate.tabulate(
+                    data,
+                    ('Group','Schools','ISP','Free Rate','Paid Rate','Reimbursement'),
+                    tablefmt="pipe",
+                ))
         if show_schools:
-            data = [ (s.code,s.name,float(s.total_eligible),float(s.total_enrolled),s.isp) for s in td.schools ]
+            print("\nSchools")
+            data = [ (
+                s.code,
+                s.name,
+                float(s.total_eligible),
+                float(s.total_enrolled),
+                s.isp,
+                s.bfast_served,
+                s.lunch_served
+                ) for s in td.schools ]
             data.sort(key=lambda o: o[4])
             print(tabulate.tabulate(
                     data,
-                    ('Code','Name','Eligible','Enrolled','ISP'),
+                    ('Code','Name','Eligible','Enrolled','ISP','Daily Bkfst','Daily Lunches'),
                     tablefmt="pipe",
                     #floatfmt = ("","",",.0f",",.0f",".3f" ),
             ))

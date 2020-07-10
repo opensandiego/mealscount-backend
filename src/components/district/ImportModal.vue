@@ -108,7 +108,9 @@ export default {
                       district.schools = [];
                       results.data.forEach( row => {
                           if( row["total_enrolled"] == undefined ){ return; }
-                          row.active = row.included_in_optimization.toLowerCase() != 'false' && row.included_in_optimization != '' && row.included_in_optimization != 0;
+                          if( row["included_in_optimization"] != undefined){
+                            row.active = row.included_in_optimization.toLowerCase() != 'false' && row.included_in_optimization != '' && row.included_in_optimization != 0;
+                          }else{ row.active = true; }
                           row.grouping = null;
                           if( row.school_code == null || row.school_code == ""){
                             row.school_code = "school-"+(district.schools.length+1)
