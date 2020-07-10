@@ -3,7 +3,7 @@ from abc import ABC,abstractmethod
 # Shortcut to deal with commas in integers from csv
 def i(x):
     if type(x) != str: return int(x)
-    return int(x.replace(',',''))
+    return int(float(x.replace(',','')))
 
 # Free Rate from CEP Estimator
 # IF(E11*1.6>=1,1,IF(E11<0.4,0,E11*1.6))
@@ -44,8 +44,8 @@ class CEPSchool(object):
             self.total_eligible = self.total_enrolled
 
         if data.get("daily_breakfast_served",""):
-            self.bfast_served = int(data.get("daily_breakfast_served"))
-            self.lunch_served = int(data.get("daily_lunch_served"))
+            self.bfast_served = int(float(data.get("daily_breakfast_served")))
+            self.lunch_served = int(float(data.get("daily_lunch_served")))
         else:
             self.bfast_served = int(self.total_enrolled * BREAKFAST_EST_PARTICIPATION[0])
             self.lunch_served = int(self.total_enrolled * LUNCH_EST_PARTICIPATION[0])
