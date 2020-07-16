@@ -23,6 +23,7 @@
           <router-link class="nav-item nav-link p-4" to="/faq">FAQ</router-link>
           <router-link class="nav-item nav-link p-4" to="/contact">Contact</router-link>
           <router-link class="nav-item nav-link p-4" to="/about">About</router-link>
+          <router-link class="nav-item nav-link p-4" to="/help">Help</router-link>
         </div>
       </div>
     </nav>
@@ -57,6 +58,9 @@
               </li>
               <li>
                 <router-link to="/faq">FAQ</router-link>
+              </li>
+              <li>
+                <router-link to="/help">Help</router-link>
               </li>
             </ul>
           </div>

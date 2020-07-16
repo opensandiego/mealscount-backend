@@ -72,6 +72,8 @@ def optimize():
     for row in schools:
         # Expecting { school_code: {active, daily_breakfast_served,daily_lunch_served,total_eligible,total_enrolled }}
         # TODO rework how we initialize CEPSchool
+        if not row.get("school_code",None) or not row.get("total_enrolled",None):
+            continue
         row["School Name"] = row.get("school_name","School %i"%i)
         row["School Code"] = row.get("school_code","school-%i"%i)
         row["School Type"] = row.get("school_type","")
