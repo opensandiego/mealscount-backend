@@ -57,28 +57,20 @@ class ExhaustiveCEPStrategy(BaseCEPStrategy):
             d_powerset = [i for i in partition(schools)]
             #print("Powerset for %i contains %i" % (len(schools),len(d_powerset)))
 
-            evaluate_by = {
-                "reimbursement":1,
-                "free_coverage":2,
-                "most_schools":3,
-            }[self.params.get("evaluate_by","reimbursement")]
-
-            if evaluate_by == 1:
-                best_option = 0
-            elif evaluate_by in (2,3):
-                best_option = [0,0]
+            evaluate_by = self.params.get("evaluate_by","reimbursement")
+            best_option = [0,0]
 
             for x in partition(schools):
                 est_reimbursement = sum([ 
                         possible_groups[tuple(group)].est_reimbursement() 
                         for group in x])
                 # Just straight reimbursement comparison
-                if evaluate_by == 1:
-                    if est_reimbursement > best_option:
+                if evaluate_by == "reimbursement":
+                    if est_reimbursement > best_option[0]:
                         best_grouping = [ possible_groups[tuple(group)] for group in x ]
-                        best_option = est_reimbursement
+                        best_option[0] = est_reimbursement
                 # Highest number of covered students, and if equal, higher reimbursement
-                elif evaluate_by == 2:
+                elif evaluate_by == "coverage":
                     covered_students = sum([ 
                         possible_groups[tuple(group)].covered_students 
                         for group in x])
@@ -91,7 +83,7 @@ class ExhaustiveCEPStrategy(BaseCEPStrategy):
                             best_grouping = [ possible_groups[tuple(group)] for group in x ]
                             best_option = (covered_students,est_reimbursement)
                 # highest number of included schools, and if equal, higher reimbursement
-                elif evaluate_by == 3:
+                elif evaluate_by == "schools":
                     schools = sum([    len(possible_groups[tuple(group)].schools) 
                                         for group in x 
                                         if possible_groups[tuple(group)].cep_eligible ])

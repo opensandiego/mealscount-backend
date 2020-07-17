@@ -31,6 +31,7 @@ class NYCMODASimulatedAnnealingCEPStrategy(BaseCEPStrategy):
                 fresh_starts = int(self.params.get("fresh_starts",10)),
                 iterations = int(self.params.get("iterations", 150)),
                 ngroups = self.params.get("ngroups",None) and int(self.params.get("ngroups",None)) or None,
+                evaluate_by = self.params.get("evaluate_by","reimbursement"),
             )
             # prune 0 school groups since we don't need to report them
             self.groups = [g for g in self.groups if len(g.schools) > 0]
@@ -45,7 +46,8 @@ class NYCMODASimulatedAnnealingCEPStrategy(BaseCEPStrategy):
                     consolidate_groups=False,
                     iterations = 1000,
                     fresh_starts = 1,
-                    ngroups = None, 
+                    ngroups = None,
+                    evaluate_by = "reimbursement",
                     ):
         '''Attempt at streamlining algorithm by skipping pandas'''
         if len(district.schools) <= 3: return None  # safeguard some assumptions
@@ -78,6 +80,8 @@ class NYCMODASimulatedAnnealingCEPStrategy(BaseCEPStrategy):
 
             # track our starting reimbursement total of both groups
             start_r = round(g1.est_reimbursement() + g2.est_reimbursement())
+            start_c = round(g1.covered_students + g2.covered_students)
+            start_s = (g1.cep_eligible and 1 or 0) +  (g2.cep_eligible and 1 or 0)
    
             # remove random school from g1, add to g2, and recalculate
             s = g1.schools.pop(randint(0,len(g1.schools)-1))
@@ -85,9 +89,11 @@ class NYCMODASimulatedAnnealingCEPStrategy(BaseCEPStrategy):
             g1.calculate()
             g2.calculate()
 
-            # our new reimbursement
-            step_r = round(g1.est_reimbursement() + g2.est_reimbursement())
+            passing = False # Whether or not we persist this change
+            # This depends on what we are optimizing for
+            # TODO maybe assign this as a function to speed up?
 
+            step_r = round(g1.est_reimbursement() + g2.est_reimbursement())
             # The original NYCMODA does this as a raw change in reimbursement
             # but this really produces worse results since our values are much smaller
             # (not NYC and daily not Annual for total). I try to compensate by normalizing
@@ -96,9 +102,23 @@ class NYCMODASimulatedAnnealingCEPStrategy(BaseCEPStrategy):
             # https://en.wikipedia.org/wiki/Simulated_annealing
             step_temp = (start_r > 0 and (step_r - start_r)/start_r or -0.01) * TFactor
 
+            if evaluate_by == "reimbursement":
+                # our new reimbursement
+                passing = step_r > start_r
+
+            elif evaluate_by == "coverage":
+                step_c = round(g1.covered_students + g2.covered_students)
+                passing = step_c < start_c
+            elif evaluate_by == "schools":
+                step_s = (g1.cep_eligible and 1 or 0) +  (g2.cep_eligible and 1 or 0)
+                if start_s < step_s:
+                    passing = True
+                elif start_s == step_s and step_r > start_r:
+                    passing = True
+                
             # undo if we have gone down, and return False
             # given that the different in change in reimbursement wildly varies amongst districts
-            if step_r < start_r or (use_annealing and random() < np.exp( step_temp/T)):
+            if not passing or (use_annealing and random() < np.exp( step_temp/T)):
                 s = g2.schools.pop()
                 g1.schools.append(s)
                 g1.calculate()
