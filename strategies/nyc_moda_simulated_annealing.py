@@ -82,6 +82,7 @@ class NYCMODASimulatedAnnealingCEPStrategy(BaseCEPStrategy):
             start_r = round(g1.est_reimbursement() + g2.est_reimbursement())
             start_c = round(g1.covered_students + g2.covered_students)
             start_s = (g1.cep_eligible and 1 or 0) +  (g2.cep_eligible and 1 or 0)
+            start_f = ( g1.free_rate == 1.0 and 1 or 0) + ( g2.free_rate == 1.0 and 1 or 0 )
    
             # remove random school from g1, add to g2, and recalculate
             s = g1.schools.pop(randint(0,len(g1.schools)-1))
@@ -115,6 +116,8 @@ class NYCMODASimulatedAnnealingCEPStrategy(BaseCEPStrategy):
                     passing = True
                 elif start_s == step_s and step_r > start_r:
                     passing = True
+            elif evaluate_by == "schools_free": # max schools at 100% free and highest reimbursement
+                pass   
                 
             # undo if we have gone down, and return False
             # given that the different in change in reimbursement wildly varies amongst districts

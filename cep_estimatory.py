@@ -18,6 +18,8 @@ def parse_districts(school_data,strategies,rates=None):
             [float(x) for x in rates.split(',')],
         ))
     for row in school_data:
+        if not row.get("included_in_optimization",True):
+            continue
         school = CEPSchool(row)
         district_name,district_code = row.get('District Name',row.get('district_name','Default')),row.get('District Code',row.get('district_code','1'))
         if district_name not in districts:
@@ -178,7 +180,7 @@ Expected CSV File columns
                 print("\n%s: %0.2f" % (s.name,s.reimbursement))
                 data = [
                     (   g.name,
-                        ','.join([s.name for s in g.schools]),
+                        len(g.schools), #','.join([s.name for s in g.schools]),
                         g.isp,
                         g.free_rate,
                         g.paid_rate,
