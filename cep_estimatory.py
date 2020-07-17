@@ -44,6 +44,7 @@ def parse_strategy(strategy):
 @click.option("--min-schools",default=None,help="If specified, only districts with at least N schools will be evaluated",type=int)
 @click.option("--list-strategies",default=False,is_flag=True,help="Display all available strategies and exit")
 @click.option("--output-json",default=None,help="If Specified, output will stored in filename specified in JSON format (defaults to output.json)")
+@click.option("--output-csv",default=None,help="If Specified with target district, output for first strategy will stored as CSV in filename")
 @click.option("--output-folder",default=None,help="Folder to output per-district json and district overview json for website")
 @click.option("--evaluate-by",default="reimbursement",help="Optimize by reimbursement or coverage")
 @click.option("--investigate",default=False,is_flag=True,help="Stop before exiting in a shell to investigate results")
@@ -58,6 +59,7 @@ def cli(    cupc_csv_file,
             min_schools=None,
             list_strategies=False,
             output_json=None,
+            output_csv=None,
             output_folder=None,
             investigate=False,
             rates=None,
@@ -181,12 +183,14 @@ Expected CSV File columns
                         g.free_rate,
                         g.paid_rate,
                         g.est_reimbursement(),
+                        g.total_enrolled,
+                        g.covered_students,
                     )
                     for g in s.groups
                 ] 
                 print(tabulate.tabulate(
                     data,
-                    ('Group','Schools','ISP','Free Rate','Paid Rate','Reimbursement'),
+                    ('Group','Schools','ISP','Free Rate','Paid Rate','Reimbursement','Enrolled','Covered'),
                     tablefmt="pipe",
                 ))
         if show_schools:
@@ -208,11 +212,36 @@ Expected CSV File columns
                     #floatfmt = ("","",",.0f",",.0f",".3f" ),
             ))
 
+        if output_csv:
+            strat = td.strategies[0]
+            with open(output_csv,"w") as out_file:
+                w = csv.DictWriter(out_file,fieldnames=(
+                    "group","district_code","school_code","school_name","total_enrolled","total_eligible",
+                    "daily_breakfast_served","daily_lunch_served","estimated_school_reimbursement"
+                ))
+                w.writeheader()
+                for i,g in enumerate(strat.groups):
+                    for s in g.schools:
+                        row = {
+                            "group": str(i+1),
+                            "district_code": td.code,
+                            "school_code": s.code,
+                            "school_name": s.name,
+                            "total_enrolled": s.total_enrolled,
+                            "total_eligible": s.total_eligible,
+                            "daily_breakfast_served": s.bfast_served,
+                            "daily_lunch_served": s.lunch_served,
+                            "estimated_school_reimbursement": g.school_reimbursement(s) * 180,
+                        }
+                        w.writerow(row)
+            print("Outputted CSV for District %s optimized with %s" % (td,strat))
+
     if output_json:
         with open(output_json,"w") as out_file:
             # TODO make this more interesting
             o = [d.as_dict() for d in districts]
             out_file.write(json.dumps(o))
+
 
     if output_folder:
         if not os.path.exists(output_folder):
