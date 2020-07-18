@@ -8,7 +8,7 @@ import us
 
 import csv,codecs,os,os.path
 from strategies.base import CEPDistrict,CEPSchool
-from cep_estimatory import parse_strategy
+from cep_estimatory import parse_strategy,add_strategies
 
 # From https://stackoverflow.com/questions/5870188/does-flask-support-regular-expressions-in-its-url-routing
 class RegexConverter(BaseConverter):
@@ -55,10 +55,6 @@ def get_district(state,code,district_params):
 
     return district
 
-def add_strategies(district,*strategies):
-    for s in strategies:
-        Klass,params,name = parse_strategy(s) 
-        district.strategies.append( Klass(params,name) )
 
 @app.route("/api/districts/optimize/", methods=['POST'])
 def optimize():

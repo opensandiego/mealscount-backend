@@ -39,6 +39,11 @@ def parse_strategy(strategy):
     klass = STRATEGIES[strategy_param.path]
     return (klass,params,strategy)
 
+def add_strategies(district,*strategies):
+    for s in strategies:
+        Klass,params,name = parse_strategy(s) 
+        district.strategies.append( Klass(params,name) )
+
 @click.command()
 @click.option("--target-district",default=None,help="Specific district code to run")
 @click.option("--show-groups",default=False,is_flag=True,help="Display grouping per district by school-code (must have target district specified)")
