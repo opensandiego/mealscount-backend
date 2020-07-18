@@ -5,7 +5,7 @@
   "scripts": {
     "watch": "webpack --watch",
     "build": "webpack",
-    "postinstall": "webpack && python cep_estimatory.py data/ca/latest.csv Pairs OneToOne Exhaustive OneGroup Spread Binning \"NYCMODA?fresh_starts=10&iterations=100\" --output-folder dist/static/ca/",
+    "postinstall": "webpack && python cep_estimatory.py data/ca/latest.csv --output-folder dist/static/ca/",
     "local_dev": "concurrently \"npm run watch\" \"FLASK_ENV=development venv/bin/python server.py\"",
     "docker_dev": "concurrently \"npm run watch\" \"gunicorn server:app\"",
     "start": "webpack-dev-server --config ./webpack.config.js --mode development"
