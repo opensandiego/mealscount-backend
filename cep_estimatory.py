@@ -123,15 +123,18 @@ Expected CSV File columns
 
     data = []   
     for district in districts: 
-        p0 = (float(district.strategies[0].students_covered) / district.total_enrolled)
-        p1 = (float(district.best_strategy.students_covered) / district.total_enrolled)
+        if district.strategies:
+            p0 = (float(district.strategies[0].students_covered) / district.total_enrolled)
+            p1 = (float(district.best_strategy.students_covered) / district.total_enrolled)
+        else:
+            p0,p1 = 0,0
         row = [
             district.code,
             district.name[:64],
             float(len(district.schools)),
             float(district.total_enrolled),
-            district.strategies[0].name,
-            district.best_strategy.name,
+            district.strategies and district.strategies[0].name or '',
+            district.best_strategy and district.best_strategy.name or '',
             p0 * 100.0,
             p1 * 100.0,
             (p1-p0) * 100.0,
@@ -148,24 +151,25 @@ Expected CSV File columns
 
     click.secho("\n"+"="*100,bold=True)
 
-    click.secho("Baseline Strategy: %s" % strategies[0][0].name)
-    if len(strategies) > 1:
-        for s in strategies[1:]:
-            click.secho("Optimization Strategy: %s" % s[0].name)
+    if strategies:
+        click.secho("Baseline Strategy: %s" % strategies[0][0].name)
+        if len(strategies) > 1:
+            for s in strategies[1:]:
+                click.secho("Optimization Strategy: %s" % s[0].name)
 
-    click.secho(    "{:,} Schools Processed for {:,} districts".format(n_schools,len(districts)) ,
-                    fg="blue", bold=True )
+        click.secho(    "{:,} Schools Processed for {:,} districts".format(n_schools,len(districts)) ,
+                        fg="blue", bold=True )
 
-    baseline_eligible_overall = sum([d.strategies[0].students_covered for d in districts])
-    best_eligible_overall = sum([d.best_strategy.students_covered for d in districts])
-    improvement = best_eligible_overall - baseline_eligible_overall
-    click.secho("{:+,.0f} students eligible over baseline ({:,.0f} => {:,.0f}), {:+.0f}% change to ISP {:.0f}%".format( 
-        improvement,
-        baseline_eligible_overall,
-        best_eligible_overall,
-        (improvement/total_overall) * 100.0,
-        (best_eligible_overall/total_overall) * 100.0,
-    ),fg=(improvement > 0 and "green" or "red"))
+        baseline_eligible_overall = sum([d.strategies[0].students_covered for d in districts]) 
+        best_eligible_overall = sum([d.best_strategy.students_covered for d in districts])
+        improvement = best_eligible_overall - baseline_eligible_overall
+        click.secho("{:+,.0f} students eligible over baseline ({:,.0f} => {:,.0f}), {:+.0f}% change to ISP {:.0f}%".format( 
+            improvement,
+            baseline_eligible_overall,
+            best_eligible_overall,
+            (improvement/total_overall) * 100.0,
+            (best_eligible_overall/total_overall) * 100.0,
+        ),fg=(improvement > 0 and "green" or "red"))
 
     if investigate:
         print("Type dir() to see local variables")

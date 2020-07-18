@@ -1,5 +1,13 @@
 <template>
     <section class="state-detail container my-3" v-if="state != null">
+        <div class="alert alert-info">
+          <strong>NOTE</strong>
+          To ensure we have the best recommendations, we have removed the estimated reimbursement 
+          from this statewide listing. To see the estimated reimbursement, please click into a district 
+          and click <strong>"Calculate Grouping"</strong>. <br>
+          <strong>ALSO NOTE that to see accurate estimates you MUST
+            import the latest data for your district!</strong>
+        </div>
         <div class="row">
             <h1 class="col-sm-6">{{ state.name }}</h1>
             <div class="district-filter col-sm-2 offset-sm-4 "><input type="text" placeholder="Filter Districts" v-model="district_filter" /></div>
@@ -14,8 +22,6 @@
                   <th scope="col" @click="set_sort('school_count')">Schools</th>
                   <th v-tooltip title="The total number of students in this district" scope="col" @click="set_sort('total_enrolled')"> Total Enrolled <img v-bind:src="image.qmark"> </th> 
                   <th v-tooltip title="The total Identified Student Population (ISP) of this district" scope="col" @click="set_sort('overall_isp')">Overall ISP <img v-bind:src="image.qmark"> </th>
-                  <th v-tooltip title="Based on 180 days in school year">Est. Reimbursement <sup>1</sup> <img v-bind:src="image.qmark"></th>
-                  <th v-tooltip title="The algorithm that is producing the highest reimbursement rate" >Best Strategy <img v-bind:src="image.qmark"></th>
                 </tr>
               </thead>
 
@@ -31,8 +37,6 @@
                   <td>{{ district.school_count }}</td>
                   <td>{{ district.total_enrolled.toLocaleString() }}</td>
                   <td>{{ (district.overall_isp * 100).toFixed(1) }}%</td>
-                  <td class="text-right">{{ (district.est_reimbursement * 180) | toUSD }}</td>
-                  <td><router-link to="/algorithms">{{ district.best_strategy }}</router-link></td>
                 </tr>
               </tbody>
               <tbody v-else>

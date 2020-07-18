@@ -17,7 +17,7 @@
           </h1>
       </div>
 
-      <DistrictSummary v-bind:district="district" v-bind:schoolDays="schoolDays" v-bind:editMode="editMode" />
+      <DistrictSummary v-bind:district="district" v-bind:schoolDays="schoolDays" v-bind:editMode="editMode" v-on:calculate="submit" />
 
       <!-- <ScenarioControl /> -->
     </div>
