@@ -96,8 +96,8 @@
                   data-toggle="button"
                   aria-pressed="true"
                   autocomplete="off"
-                  v-on:click="import_from_csv"
-                >Import from CSV</button>
+                  v-on:click="import_from_file"
+                >Import from File</button>
 
                 <button
                   class="btn btn-primary"
@@ -180,7 +180,7 @@ export default {
       this.showFirstTimeModal = true;
       if(window.localStorage){ window.localStorage.setItem("mc-district-detail-firsttime","done") }
     }
-    if(olark){
+    if(typeof olark !== 'undefined'){
       olark('api.box.show');
     }
   },
@@ -274,7 +274,7 @@ export default {
       // todo figure out how to export to CSV
       this.showExport = true;
     },
-    import_from_csv(){
+    import_from_file(){
       this.showImport = true; 
     },
     daily_reimbursement_by_school ( school_code ){
