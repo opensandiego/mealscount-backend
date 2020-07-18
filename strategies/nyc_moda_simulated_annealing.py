@@ -95,6 +95,7 @@ class NYCMODASimulatedAnnealingCEPStrategy(BaseCEPStrategy):
             # TODO maybe assign this as a function to speed up?
 
             step_r = round(g1.est_reimbursement() + g2.est_reimbursement())
+
             # The original NYCMODA does this as a raw change in reimbursement
             # but this really produces worse results since our values are much smaller
             # (not NYC and daily not Annual for total). I try to compensate by normalizing
@@ -116,8 +117,13 @@ class NYCMODASimulatedAnnealingCEPStrategy(BaseCEPStrategy):
                     passing = True
                 elif start_s == step_s and step_r > start_r:
                     passing = True
-            elif evaluate_by == "schools_free": # max schools at 100% free and highest reimbursement
-                pass   
+            elif evaluate_by == "schools_free": 
+                # max schools at 100% free and highest reimbursement (ask by SCUSD)
+                step_f = ( g1.free_rate == 1.0 and 1 or 0) + ( g2.free_rate == 1.0 and 1 or 0 )
+                if start_f < step_f:
+                    passing = True
+                elif start_f == step_f and step_r > start_r:
+                    passing = True
                 
             # undo if we have gone down, and return False
             # given that the different in change in reimbursement wildly varies amongst districts
