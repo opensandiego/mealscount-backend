@@ -9,5 +9,8 @@ services:
       - FLASK_ENV=development
       - FLASK_APP=server.py
     working_dir: /code/
-    volumes:
-      - ./:/code/:cached
+# uncomment to develop in local folder and run in docker container
+# Note: npm is not on final docker image, so you would need to install
+# locally and run "npm run watch"
+#    volumes:
+#      - ./:/code/:cached

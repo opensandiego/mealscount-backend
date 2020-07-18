@@ -49,9 +49,28 @@ If you are interested in developing on the app in entirety, you can do this by c
     $> pip install -r requirements.txt
     $> npm run local_dev
 
-# Important Note on Build Process
+# Example Usage - Docker Environment
 
-There is a postinstall script in the root package.json that will run the optimizations for all of California. This can take a while, but is there specifically so we can do our initial set of optimizations at build time in Heroku, and then just do district-by-district optimizations later.
+To use the Dockerfile version, you can do the following (presuming you have [Docker](https://docker.com/) installed):
+
+    $> docker-compose build
+    $> docker-compose up
+
+This should make Meals Count available on *http://localhost:5000*
+
+You can also run custom optimizations via the command line with:
+
+    $> docker-compose run app python cep_estimatory.py <csv_file in data folder> <strategies..> <options>
+
+Please see the *cep_estimatory.py* --help for more information on how to run custom runs.
+
+It is also possible to run a jupyter notebook through the Docker container, but takes a few extra steps:
+
+    $> docker-compose run -p 8888:8888 app bash
+    $(container)> pip install -r jupyter_requirements.txt
+    $(container)> jupyter notebook --no-browser --allow-root --ip 0.0.0.0
+
+Use the url printed by the console, e.g. *http://127.0.0.1:8888/?token=XXXXXXX...* to connect.
 
 # Adding other state data
 
