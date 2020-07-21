@@ -4,11 +4,17 @@ from flask_talisman import Talisman
 from werkzeug.routing import BaseConverter
 from urllib.parse import urlparse
 import os,os.path,datetime,time
-import us
+import us,uuid
+
+import boto3
 
 import csv,codecs,os,os.path
 from strategies.base import CEPDistrict,CEPSchool
 from cep_estimatory import parse_strategy,add_strategies
+
+# If we have specified AWS keys, this is where we will tell the client where
+# the results will be on S3
+S3_RESULTS_BUCKET = os.environ.get("S3_RESULTS_BUCKET","mealscount-data")
 
 # From https://stackoverflow.com/questions/5870188/does-flask-support-regular-expressions-in-its-url-routing
 class RegexConverter(BaseConverter):
@@ -27,11 +33,8 @@ app = Flask(__name__,
 app.config.from_object(__name__)
 app.url_map.converters['regex'] = RegexConverter
 
-# Do i want this?
-#CORS(app, resources={r'/api/*': {'origins': '*'}})
-
 def get_district(state,code,district_params):
-    # NOTE assumes we have ensured state and code are a-zA-Z0-9+,
+    # NOTE assumes we have ensured state and code are a-zA-Z0-9+ (which we do in the handler below)
     # BEWARE of dangerous paths! (e.g. '..')
     path ="data/%s/latest.csv" % state
     if not os.path.exists(path): return None # we may not have this state yet
@@ -55,6 +58,49 @@ def get_district(state,code,district_params):
 
     return district
 
+
+@app.route("/api/districts/optimize-async/", methods=['POST'])
+def optimize_async():
+    if not os.environ.get("AWS_ACCESS_KEY_ID",False):
+        return {"error":"AWS Lambda not configured"}
+
+    # Generate a key to publish the resulting file to
+    event = request.json
+    n = datetime.datetime.now()
+    event["key"] = "%s/%i/%02i/%02i/%s-%s.json" % (
+        BUCKET_URL,
+        n.year,n.month,n.day,
+        event.get("code","unspecified"),
+        uuid.uuid1(),
+    )
+    if not event.get("strategies_to_run",False):
+        event["strategies_to_run"] = [
+            "Pairs",
+            "OneToOne",
+            "Exhaustive",
+            "OneGroup",
+            "Spread",
+            "Binning",
+            "NYCMODA?fresh_starts=10&iterations=150"
+        ] 
+
+    # Invoke our Lambda Function
+
+    client = boto3.client('lambda') 
+    response = client.invoke(
+        FunctionName=os.environ.get("LAMBDA_FUNCTION_NAME","mealscount-optimize"),
+        InvocationType="Event",
+        Payload=json.dumps(event),
+    )
+    result = {
+        "function_status": respoknse["StatusCode"],
+        "key": event["key"],
+        "function_version": response["ExecutedVersion"]
+    }
+    if response.get("FunctionError",None):
+        result["function_error"] = response.get("FunctionError")
+
+    return result
 
 @app.route("/api/districts/optimize/", methods=['POST'])
 def optimize():

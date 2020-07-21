@@ -6,3 +6,4 @@ gunicorn
 Flask-Caching
 flask-talisman
 sentry-sdk==0.14.1
+boto
