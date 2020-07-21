@@ -86,10 +86,10 @@ if __name__ == "__main__":
     n = datetime.datetime.now()
     with open(sys.argv[1]) as f:
         event = json.loads(f.read())
-        event["key"] = "/test/%i/%02i/%02i/%02i%02i%02i-%s.json" % (
+        event["key"] = "test/%i/%02i/%02i/%02i%02i%02i-%s.json" % (
             n.year,n.month,n.day,n.hour,n.minute,n.second,event["code"]
         )
         event["state_code"] = "test"
         class TestContext(object):
             env = {}
-        lambda_handler(event,TestContext(),local_output=True)
+        lambda_handler(event,TestContext(),local_output="AWS_ACCESS_KEY_ID" not in os.environ)
