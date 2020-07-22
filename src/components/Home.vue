@@ -256,6 +256,7 @@ hr {
 }
 .homepage-hero {
   margin: 0px;
+  z-index: 1;
 }
 .btn.filled {
   background: #F27C3E 0% 0% no-repeat padding-box;

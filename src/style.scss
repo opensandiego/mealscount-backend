@@ -120,7 +120,7 @@ th {
 */
 
 footer.site-footer {
-  padding-bottom: 100px; 
+  // padding-bottom: 100px; 
   margin-top: 100px;
   font-size: 28px;
   color: white;
@@ -128,6 +128,9 @@ footer.site-footer {
   .nav-container {
     max-width: 1685px;
     margin: auto;
+    @media only screen and (min-width: 1600px) {
+      padding-top: 300px;
+    }
   }
 
   a:hover {color: white;}
@@ -176,5 +179,8 @@ footer.site-footer {
   }
 
   background: transparent linear-gradient(263deg, #B0D35C 0%, #4AAB4F 51%, #4AAB4F 100%) 0% 0% no-repeat padding-box;
+  @media only screen and (min-width: 1600px) {
+    background: none;
+  }
   opacity: 1;
 }
