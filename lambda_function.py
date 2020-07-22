@@ -1,28 +1,17 @@
 # AWS Lambda Handler
 #
-# To Package:
-# Per https://docs.aws.amazon.com/lambda/latest/dg/python-package.html#python-package-venv
-# This is best done in a clean folder with only the base_requirements.txt installed (not requirements.txt) 
-#
-# > virtualenv lambda_venv 
-# > source lambda_venv/bin/activate
-# > pip install -r base_requirements.txt
-# > deactivate
-# > OLDPWD=`pwd`
-# > cd lambda_venv/lib/python3.8/site-packages/
-# > zip -r9 ${OLDPWD}/function.zip .
-# > cd ${OLDPWD} 
-# > zip -rg function.zip *.py strategies
-#
-# Then upload the function!
+# Use Dockerfile.lambda to package/upload (see the instructions in the Dockerfile)
 # 
 from strategies.base import CEPDistrict,CEPSchool
 from cep_estimatory import add_strategies
 import os,datetime,json,time
 
-import boto3
+import boto3,botocore
 
 def lambda_handler(event, context, local_output=False):
+    print(boto3.__version__)
+    print(botocore.__version__)
+
     # Receives JSON district as input (same as server.py api endpoint)
     d_obj = event
     key = d_obj["key"]
