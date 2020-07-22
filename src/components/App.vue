@@ -174,7 +174,13 @@ export default {
     @media only screen and (min-width: 1600px) {
       visibility: visible;
     }
-} 
+  }
+
+  .bottom-background.gray {
+    @media only screen and (min-width: 1600px) {
+      top:2864px;
+    }
+  } 
 
 
 
