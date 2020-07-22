@@ -110,7 +110,7 @@ class NYCMODASimulatedAnnealingCEPStrategy(BaseCEPStrategy):
 
             elif evaluate_by == "coverage":
                 step_c = round(g1.covered_students + g2.covered_students)
-                passing = step_c < start_c
+                passing = step_c > start_c
             elif evaluate_by == "schools":
                 step_s = (g1.cep_eligible and 1 or 0) +  (g2.cep_eligible and 1 or 0)
                 if start_s < step_s:
