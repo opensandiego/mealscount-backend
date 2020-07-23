@@ -4,7 +4,7 @@ from flask_talisman import Talisman
 from werkzeug.routing import BaseConverter
 from urllib.parse import urlparse
 import os,os.path,datetime,time
-import us,uuid
+import us,uuid,json
 
 import boto3
 
@@ -14,7 +14,7 @@ from cep_estimatory import parse_strategy,add_strategies
 
 # If we have specified AWS keys, this is where we will tell the client where
 # the results will be on S3
-S3_RESULTS_BUCKET = os.environ.get("S3_RESULTS_BUCKET","mealscount-data")
+S3_RESULTS_URL = os.environ.get("S3_RESULTS_URL","https://mealscount-results.s3-us-west-1.amazonaws.com")
 
 # From https://stackoverflow.com/questions/5870188/does-flask-support-regular-expressions-in-its-url-routing
 class RegexConverter(BaseConverter):
@@ -67,8 +67,7 @@ def optimize_async():
     # Generate a key to publish the resulting file to
     event = request.json
     n = datetime.datetime.now()
-    event["key"] = "%s/%i/%02i/%02i/%s-%s.json" % (
-        BUCKET_URL,
+    event["key"] = "data/%i/%02i/%02i/%s-%s.json" % (
         n.year,n.month,n.day,
         event.get("code","unspecified"),
         uuid.uuid1(),
@@ -93,9 +92,9 @@ def optimize_async():
         Payload=json.dumps(event),
     )
     result = {
-        "function_status": respoknse["StatusCode"],
+        "function_status": response["StatusCode"],
         "key": event["key"],
-        "function_version": response["ExecutedVersion"]
+        "results_url": "%s/%s" % (S3_RESULTS_URL,event["key"]),
     }
     if response.get("FunctionError",None):
         result["function_error"] = response.get("FunctionError")

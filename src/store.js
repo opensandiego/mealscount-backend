@@ -5,6 +5,7 @@ import Vuex from 'vuex';
 
 Vue.use(Vuex);
 
+const TIMEOUT = 60*10 // 10 Minute Timeout
 const DEFAULT_RATES = {"free_lunch":3.31,"paid_lunch":0.31,"free_bfast":2.14,"paid_bfast":0.31} 
 
 export default new Vuex.Store({
@@ -96,12 +97,33 @@ export default new Vuex.Store({
             commit("set_district",d)
         },
         run_district( {commit,dispatch}, district ){
-            const url = `/api/districts/optimize/`;
+            const url = `/api/districts/optimize-async/`;
             axios.post(url,district).then( resp => {
                 const d = resp.data;
-                console.log("Updated optimization with",d);
-                commit("set_edited_district", d)
+                setTimeout( t => {
+                    dispatch("poll_for_results", {url:d.results_url,count:TIMEOUT} )
+                },1000);
+                // If not async
+                //console.log("Updated optimization with",d);
+                //commit("set_edited_district", d)
             });
+        },
+        poll_for_results( {commit,dispatch}, target ){
+            axios.get(target.url).then( resp=> {
+                console.log("results received at ", target.url);
+                commit("set_edited_district",resp.data);
+            }).catch( error => {
+                const resp = error.response;
+                console.log(resp,target.count)
+                if( resp.status == 403 && target.count > 0){
+                    console.log("polling for results at ", target.url);
+                    setTimeout( t => {
+                        dispatch("poll_for_results", {url:target.url,count:target.count - 1} )
+                    },1000);
+                }else{
+                    alert("Error retrieving results, please try again");
+                }
+            })
         },
         save_scenario( {state, commit, dispatch}, scenario ){
             commit("add_scenario", scenario )
