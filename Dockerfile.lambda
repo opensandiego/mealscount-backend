@@ -2,7 +2,7 @@
 # See https://github.com/lambci/docker-lambda#using-a-dockerfile-to-build
 #
 # ** To Build/Run This Container and upload to a lambda function called mealscount-optimize **
-# docker build -t mealscount-lambda -f Dockerfile.lambda
+# docker build -t mealscount-lambda -f Dockerfile.lambda .
 # AWS_ACCESS_KEY_ID=YOURACCESSKEY AWS_SECRET_ACCESS_KEY=YOURSECRETKEY docker run --rm -e AWS_ACCESS_KEY_ID -e AWS_SECRET_ACCESS_KEY mealscount-lambda
 # NOTE: the access key ids will require 
 FROM lambci/lambda:build-python3.8

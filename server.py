@@ -62,7 +62,7 @@ def get_district(state,code,district_params):
 @app.route("/api/districts/optimize-async/", methods=['POST'])
 def optimize_async():
     if not os.environ.get("AWS_ACCESS_KEY_ID",False):
-        return {"error":"AWS Lambda not configured"}
+       return optimize() 
 
     # Generate a key to publish the resulting file to
     event = request.json
@@ -80,8 +80,9 @@ def optimize_async():
             "OneGroup",
             "Spread",
             "Binning",
-            "NYCMODA?fresh_starts=10&iterations=150"
         ] 
+        if len(event["schools"]) > 11:
+            event["strategies_to_run"].append("NYCMODA?fresh_starts=50&iterations=1000")
 
     # Invoke our Lambda Function
 
