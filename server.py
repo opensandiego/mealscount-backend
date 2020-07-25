@@ -5,8 +5,11 @@ from werkzeug.routing import BaseConverter
 from urllib.parse import urlparse
 import os,os.path,datetime,time
 import us,uuid,json
+import zipfile
+from io import BytesIO
 
 import boto3
+import base64
 
 import csv,codecs,os,os.path
 from strategies.base import CEPDistrict,CEPSchool
@@ -67,11 +70,13 @@ def optimize_async():
     # Generate a key to publish the resulting file to
     event = request.json
     n = datetime.datetime.now()
-    event["key"] = "data/%i/%02i/%02i/%s-%s.json" % (
+    key = "data/%i/%02i/%02i/%s-%s.json" % (
         n.year,n.month,n.day,
         event.get("code","unspecified"),
         uuid.uuid1(),
     )
+    event["key"] = key
+
     if not event.get("strategies_to_run",False):
         event["strategies_to_run"] = [
             "Pairs",
@@ -84,6 +89,14 @@ def optimize_async():
         if len(event["schools"]) > 11:
             event["strategies_to_run"].append("NYCMODA?fresh_starts=50&iterations=1000")
 
+    # Large school districts (LA) don't fit in our 256kb Event Invocation limit on Lambda,
+    # So sneak it in via ZipFile
+    if len(event["schools"]) > 500: 
+        with BytesIO() as mf:
+            with zipfile.ZipFile(mf, mode='w',compression=zipfile.ZIP_BZIP2) as zf:
+                zf.writestr('data.json', json.dumps(event) )
+            event = {"zipped": base64.b64encode(mf.getvalue()).decode('utf-8') }
+
     # Invoke our Lambda Function
 
     client = boto3.client('lambda') 
@@ -94,8 +107,8 @@ def optimize_async():
     )
     result = {
         "function_status": response["StatusCode"],
-        "key": event["key"],
-        "results_url": "%s/%s" % (S3_RESULTS_URL,event["key"]),
+        "key": key,
+        "results_url": "%s/%s" % (S3_RESULTS_URL,key),
     }
     if response.get("FunctionError",None):
         result["function_error"] = response.get("FunctionError")

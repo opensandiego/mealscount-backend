@@ -17,9 +17,34 @@
                 for larger districts directly on the website. This will return better results, but 
                 can take up to a few minutes. Please be patient and remain on this page.
             </p>
+
+            <p>
+              Elapsed Time: {{ String(Math.floor(elapsed/60)).padStart(2,'0') }}:{{ String(elapsed%60).padStart(2,'0') }}
+            </p>
           </slot>
         </section>
       </div>
     </div>
   </transition>
 </template>
+
+<script>
+export default {
+  data() {
+    return {
+      elapsed: 0,
+      interval: null,
+    };
+  },
+  mounted() {
+    this.elapsed = 0;
+    this.interval = setInterval( t => {
+      this.elapsed += 1;
+    },1000)
+  },
+  destroyed(){
+    clearInterval(this.interval);
+    this.interval = null;
+  }
+}
+</script>
