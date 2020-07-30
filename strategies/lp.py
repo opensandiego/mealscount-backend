@@ -371,3 +371,4 @@ class GreedyLPStrategy(BaseCEPStrategy):
             self.groups.append(
                 CEPGroup(district, group_name=f"Not Selected", schools=available)
             )
+            
