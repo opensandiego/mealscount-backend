@@ -1,3 +1,4 @@
+from .lp import GreedyLPStrategy
 from .naive import OneToOneCEPStrategy,OneGroupCEPStrategy
 from .binning import BinCEPStrategy
 from .exhaustive import ExhaustiveCEPStrategy
@@ -14,5 +15,6 @@ STRATEGIES = {
     "Spread":SpreadCEPStrategy,
     "Pairs": PairsCEPStrategy,
     "NYCMODA": NYCMODASimulatedAnnealingCEPStrategy,
+    "GreedyLP": GreedyLPStrategy
 }
 
