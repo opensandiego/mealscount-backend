@@ -1,4 +1,4 @@
-from .lp import GreedyLPStrategy
+from .linear_solver import GreedyLPStrategy
 from .naive import OneToOneCEPStrategy,OneGroupCEPStrategy
 from .binning import BinCEPStrategy
 from .exhaustive import ExhaustiveCEPStrategy
