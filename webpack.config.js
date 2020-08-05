@@ -65,9 +65,12 @@ module.exports = {
     contentBase: path.join(__dirname, 'dist'),
     historyApiFallback: true,
     hot: true,
-    proxy: {
-      '/api': { target:'https://www.mealscount.com/', changeOrigin: true  },
-      '/static': { target:'https://www.mealscount.com/', changeOrigin: true }
-    }
+    host: '0.0.0.0',
+    port: 8080,
+    proxy: [{
+      context: ['/auth', '/api'],
+      target: 'https://www.mealscount.com/',
+      changeOrigin: true 
+    }]
   }
 }
