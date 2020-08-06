@@ -1,6 +1,6 @@
-pandas
 click
-tabulate
+ortools
+pandas
 pytest
 us
 boto3

@@ -14,10 +14,19 @@
         <router-link to="/faq">FAQ</router-link>
       </li>
       <li>
-        <a
+        <a taret="_blank"
           href="https://www.fns.usda.gov/nslp/community-eligibility-provision-resource-center"
         >USDA CEP Resource Center</a>
       </li>
+      <li><a target="_blank" href="https://youtu.be/gJJA5-P0yAM">Meals Count webinar</a>
+        <ul>
+          <li>CEP overview at 4:00</li>
+          <li>Meals Count at 25:37</li>
+          <li>Financial calculators at 54:20</li>
+          <li>Q&amp;A session at 1:01:04</li>
+        </ul>
+      </li>
+      <li><a target="_blank" href="https://cfpa.net/webinar-materials-cep-lcff/">CFPA Webinar on CEP &amp; the Local Control Funding Formula (LCFF)</a></li>
     </ul>
   </section>
 </template>

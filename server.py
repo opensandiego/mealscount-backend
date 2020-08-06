@@ -4,9 +4,12 @@ from flask_talisman import Talisman
 from werkzeug.routing import BaseConverter
 from urllib.parse import urlparse
 import os,os.path,datetime,time
-import us,uuid
+import us,uuid,json
+import zipfile
+from io import BytesIO
 
 import boto3
+import base64
 
 import csv,codecs,os,os.path
 from strategies.base import CEPDistrict,CEPSchool
@@ -14,7 +17,7 @@ from cep_estimatory import parse_strategy,add_strategies
 
 # If we have specified AWS keys, this is where we will tell the client where
 # the results will be on S3
-S3_RESULTS_BUCKET = os.environ.get("S3_RESULTS_BUCKET","mealscount-data")
+S3_RESULTS_URL = os.environ.get("S3_RESULTS_URL","https://mealscount-results.s3-us-west-1.amazonaws.com")
 
 # From https://stackoverflow.com/questions/5870188/does-flask-support-regular-expressions-in-its-url-routing
 class RegexConverter(BaseConverter):
@@ -62,17 +65,18 @@ def get_district(state,code,district_params):
 @app.route("/api/districts/optimize-async/", methods=['POST'])
 def optimize_async():
     if not os.environ.get("AWS_ACCESS_KEY_ID",False):
-        return {"error":"AWS Lambda not configured"}
+       return optimize() 
 
     # Generate a key to publish the resulting file to
     event = request.json
     n = datetime.datetime.now()
-    event["key"] = "%s/%i/%02i/%02i/%s-%s.json" % (
-        BUCKET_URL,
+    key = "data/%i/%02i/%02i/%s-%s.json" % (
         n.year,n.month,n.day,
         event.get("code","unspecified"),
         uuid.uuid1(),
     )
+    event["key"] = key
+
     if not event.get("strategies_to_run",False):
         event["strategies_to_run"] = [
             "Pairs",
@@ -81,8 +85,17 @@ def optimize_async():
             "OneGroup",
             "Spread",
             "Binning",
-            "NYCMODA?fresh_starts=10&iterations=150"
         ] 
+        if len(event["schools"]) > 11:
+            event["strategies_to_run"].append("NYCMODA?fresh_starts=50&iterations=1000")
+
+    # Large school districts (LA) don't fit in our 256kb Event Invocation limit on Lambda,
+    # So sneak it in via ZipFile
+    if len(event["schools"]) > 500: 
+        with BytesIO() as mf:
+            with zipfile.ZipFile(mf, mode='w',compression=zipfile.ZIP_BZIP2) as zf:
+                zf.writestr('data.json', json.dumps(event) )
+            event = {"zipped": base64.b64encode(mf.getvalue()).decode('utf-8') }
 
     # Invoke our Lambda Function
 
@@ -93,9 +106,9 @@ def optimize_async():
         Payload=json.dumps(event),
     )
     result = {
-        "function_status": respoknse["StatusCode"],
-        "key": event["key"],
-        "function_version": response["ExecutedVersion"]
+        "function_status": response["StatusCode"],
+        "key": key,
+        "results_url": "%s/%s" % (S3_RESULTS_URL,key),
     }
     if response.get("FunctionError",None):
         result["function_error"] = response.get("FunctionError")

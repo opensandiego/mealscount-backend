@@ -5,6 +5,9 @@
 from strategies.base import CEPDistrict,CEPSchool
 from cep_estimatory import add_strategies
 import os,datetime,json,time
+import zipfile
+from io import BytesIO
+import base64
 
 import boto3,botocore
 
@@ -14,6 +17,12 @@ def lambda_handler(event, context, local_output=False):
 
     # Receives JSON district as input (same as server.py api endpoint)
     d_obj = event
+    if "zipped" in event:
+        print("Decompressing", len(event["zipped"]))
+        with BytesIO(base64.b64decode(event["zipped"])) as df:
+            with zipfile.ZipFile(df) as eventzip:
+                d_obj = json.loads(eventzip.open("data.json").read())
+
     key = d_obj["key"]
 
     schools = d_obj["schools"]
@@ -33,7 +42,7 @@ def lambda_handler(event, context, local_output=False):
         i += 1
         district.add_school(CEPSchool(row))
 
-    strategies = d_obj.get("strateges_to_run",["Pairs","OneToOne","Exhaustive","OneGroup","Spread","Binning","NYCMODA?fresh_starts=10&iterations=150"])
+    strategies = d_obj.get("strategies_to_run",["Pairs","OneToOne","Exhaustive","OneGroup","Spread","Binning","NYCMODA?fresh_starts=10&iterations=150"])
     add_strategies(
         district,
         *strategies
@@ -81,4 +90,10 @@ if __name__ == "__main__":
         event["state_code"] = "test"
         class TestContext(object):
             env = {}
+
+        if "--zip_test" in sys.argv:
+            with BytesIO() as mf:
+                with zipfile.ZipFile(mf,mode='w',compression=zipfile.ZIP_BZIP2) as zf:
+                    zf.writestr('data.json', json.dumps(event))
+                event = {"zipped": base64.b64encode(mf.getvalue()) }
         lambda_handler(event,TestContext(),local_output="AWS_ACCESS_KEY_ID" not in os.environ)
