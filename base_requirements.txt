@@ -3,4 +3,4 @@ click
 tabulate
 pytest
 us
-
+boto3
