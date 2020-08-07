@@ -13,4 +13,4 @@ COPY base_requirements.txt .
 RUN pip3 install -r base_requirements.txt --target .
 RUN zip -9yr function.zip .
 
-CMD aws lambda update-function-code --function-name mealscount-optimize --zip-file fileb://function.zip
+CMD aws s3 cp ./function.zip s3://mealscount-results/function.zip && aws lambda update-function-code --function-name mealscount-optimize --s3-bucket mealscount-results --s3-key function.zip 
