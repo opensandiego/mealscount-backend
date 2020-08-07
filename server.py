@@ -140,7 +140,7 @@ def optimize():
     # TODO allow this as a param
     add_strategies(
         district,
-        *["Pairs","OneToOne","Exhaustive","OneGroup","Spread","Binning","NYCMODA?fresh_starts=10&iterations=150"]
+        *["Pairs","OneToOne","Exhaustive","OneGroup","Spread","Binning","NYCMODA?fresh_starts=10&iterations=150","GreedyLP"]
     )
 
     t0 = time.time()
