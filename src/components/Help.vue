@@ -27,6 +27,8 @@
         </ul>
       </li>
       <li><a target="_blank" href="https://cfpa.net/webinar-materials-cep-lcff/">CFPA Webinar on CEP &amp; the Local Control Funding Formula (LCFF)</a></li>
+      <li><a target="_blank" href="https://youtu.be/BmYN_GPhuRc">Tutorial by San Diego Hunger on managing CSV Files in Meals Count</a></li>
+      <li><a target="_blank" href="http://bestpractices.nokidhungry.org/webinars/walk-through-new-cep-grouping-tool-meals-count">Meals Count Webinar with No Kid Hungry</a></li>
     </ul>
   </section>
 </template>
