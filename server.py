@@ -88,6 +88,7 @@ def optimize_async():
         ] 
         if len(event["schools"]) > 11:
             event["strategies_to_run"].append("NYCMODA?fresh_starts=50&iterations=1000")
+            event["strategies_to_run"].append("GreedyLP")
 
     # Large school districts (LA) don't fit in our 256kb Event Invocation limit on Lambda,
     # So sneak it in via ZipFile

@@ -70,6 +70,9 @@ class NYCMODASimulatedAnnealingCEPStrategy(BaseCEPStrategy):
 
         def step(groups,T):
             # Get 2 random groups
+            if len(groups) <= 2:
+                return
+            
             g1,g2 = sample(groups,2)
             if len(g1.schools) == 0 and len(groups) == 2:
                 #print("Cannot evaluate")
@@ -164,6 +167,8 @@ class NYCMODASimulatedAnnealingCEPStrategy(BaseCEPStrategy):
                         print("%i\t$%0.0f" % (i,sum([g.est_reimbursement() for g in groups])))
                         print("\t"," ".join( [ '*'*len(g.schools) for g in groups]))
                     changed = step(groups,T) 
+                    if changed == None:
+                        break # If we have hit a point where we can no longer shuffle, stop our iterations short
                     if changed and clear_groups:
                         groups = [g for g in groups if len(g.schools) > 0]
                     if self.debug:

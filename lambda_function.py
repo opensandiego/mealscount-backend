@@ -42,7 +42,7 @@ def lambda_handler(event, context, local_output=False):
         i += 1
         district.add_school(CEPSchool(row))
 
-    strategies = d_obj.get("strategies_to_run",["Pairs","OneToOne","Exhaustive","OneGroup","Spread","Binning","NYCMODA?fresh_starts=10&iterations=150"])
+    strategies = d_obj.get("strategies_to_run",["Pairs","OneToOne","Exhaustive","OneGroup","Spread","Binning","NYCMODA?fresh_starts=50&iterations=1000","GreedyLP"])
     add_strategies(
         district,
         *strategies
