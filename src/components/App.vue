@@ -19,11 +19,19 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarCollapse">
         <div class="navbar-nav d-flex justify-content-end">
-          <router-link class="nav-item nav-link p-4" to="/explore">Find Your District</router-link>
+          <router-link class="nav-item nav-link p-4" to="/explore"
+            >Find Your District</router-link
+          >
           <router-link class="nav-item nav-link p-4" to="/faq">FAQ</router-link>
-          <router-link class="nav-item nav-link p-4" to="/contact">Contact</router-link>
-          <router-link class="nav-item nav-link p-4" to="/about">About</router-link>
-          <router-link class="nav-item nav-link p-4" to="/help">Help</router-link>
+          <router-link class="nav-item nav-link p-4" to="/contact"
+            >Contact</router-link
+          >
+          <router-link class="nav-item nav-link p-4" to="/about"
+            >About</router-link
+          >
+          <router-link class="nav-item nav-link p-4" to="/help"
+            >Help</router-link
+          >
         </div>
       </div>
     </nav>
@@ -36,25 +44,29 @@
     <router-view></router-view>
 
     <footer class="site-footer">
+      <div class="bottom-background gray" v-bind:style="footGrey" />
+      <div class="bottom-background" v-bind:style="footGreen" />
       <div class="nav-container px-3">
         <div class="row py-5">
           <div class="col-6 col-md">
             <h5>Resources</h5>
             <ul class="list-unstyled text-small">
               <li>
-                <a
-                  href="https://github.com/opensandiego/mealscount-backend/"
-                >Meals Count Source Code</a>
+                <a href="https://github.com/opensandiego/mealscount-backend/"
+                  >Meals Count Source Code</a
+                >
               </li>
               <li>
                 <a
                   href="https://www.fns.usda.gov/nslp/community-eligibility-provision-resource-center"
-                >USDA CEP Resource Center</a>
+                  >USDA CEP Resource Center</a
+                >
               </li>
               <li>
                 <a
                   href="https://github.com/opensandiego/mealscount-backend/blob/validate/CONTRIBUTING.md"
-                >Meals Count Contributing Guide</a>
+                  >Meals Count Contributing Guide</a
+                >
               </li>
               <li>
                 <router-link to="/faq">FAQ</router-link>
@@ -96,7 +108,9 @@
             <h5>About</h5>
             <ul class="list-unstyled text-small">
               <li>
-                <a href="https://github.com/opensandiego/mealscount-backend">Developers</a>
+                <a href="https://github.com/opensandiego/mealscount-backend"
+                  >Developers</a
+                >
               </li>
               <li>
                 <router-link to="/faq">FAQ</router-link>
@@ -111,7 +125,10 @@
               <!--<svg width="134" height="112">
                   <rect width="134" height="112" style="fill:rgb(255,255,255)" />
               </svg>-->
-              Meals Count
+              <div class="M">
+                <div class="footerM" v-bind:style="footerM" />
+              </div>
+              <p>eals Count</p>
             </div>
           </div>
         </div>
@@ -120,19 +137,61 @@
   </div>
 </template>
 
-<script >
+<script>
 import VTooltip from "v-tooltip";
 import MealsCountLogo from "../assets/MC_Logo@2x.png";
+import FOOTERM from "../assets/Union_2.svg";
+import FOOTERGREY from "../assets/grey-angle-two.svg";
+import FOOTERGREEN from "../assets/green-angle.svg";
 
 export default {
   data() {
     return {
-      logo: MealsCountLogo
+      logo: MealsCountLogo,
+      footerM: {
+        "background-image": "url('" + FOOTERM + "')",
+      },
+      footGrey: {
+        "background-image": "url('" + FOOTERGREY + "')",
+      },
+      footGreen: {
+        "background-image": "url('" + FOOTERGREEN + "')",
+      },
     };
   },
   mounted() {
     this.$store.dispatch("load_states");
     //this.$store.dispatch("load_districts","ca");
-  }
+  },
 };
 </script>
+
+
+<style scoped lang="scss">
+  .M {
+    width: 136px;
+    height: 120px;
+  }
+  .footerM {
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+  }
+  .icon p {
+    padding-top: 42px;
+    @media only screen and (min-width: 1500px) {
+      position: absolute;
+      left: 138px;
+    }
+  }
+  .bottom-background {
+    position: absolute;
+    width: 1930px;
+    height: 100%;
+    background-repeat: no-repeat;
+    visibility: hidden;
+    @media only screen and (min-width: 1400px) {
+      visibility: visible;
+    }
+} 
+</style> 
