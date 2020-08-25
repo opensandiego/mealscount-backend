@@ -17,28 +17,23 @@
           </h1>
       </div>
 
-      <DistrictSummary v-bind:district="district" v-bind:schoolDays="schoolDays" v-bind:editMode="editMode" />
+      <DistrictSummary v-bind:district="district" v-bind:schoolDays="schoolDays" v-bind:editMode="editMode" v-on:calculate="submit" />
 
       <!-- <ScenarioControl /> -->
     </div>
 
-    <div class="container">
+    <div class="container" v-if="district.state_code == 'ca'">
       <div class="row">
         <div class="col-sm alert alert-warning" role="alert">
           <strong>⚠️ PLEASE NOTE</strong>
-          <p>The data shown for this district is from the 2018-2019 CALPADS aggregate data, as well as April 2019 meals average meals data and is <strong>not up to date</strong>.
-          ISP numbers are for <strong>Direct Certification Only</strong>. Your district's numbers may be significantly higher. 
-          Some charter schools may be included, and some preschool schools may be missing, based upon the school data we receive from CALPADS.</p>
-          <p>To get the best recommended grouping, the school listing and ISP numbers must be modified to match the reality of your school.
-          For more information or questions, please <router-link to="/contact">Contact Us</router-link>!</p>
-        </div>
-      </div>
-      <div class="row" v-if="best_strategy.name == 'NYCMODA'">
-        <div class="col-sm alert alert-warning" role="alert">
-          <strong>⚠️ PLEASE NOTE</strong>
-          <p>The <a target="_blank" href="https://moda-nyc.github.io/Project-Library/projects/free_lunch_for_all/">NYCMODA algorithm</a> (stochastic climbing) involves 
-          starting with randomized groups, so may shift by some amount each run. To get a higher maximum please contact the Meals Count team and we can run a more significant 
-          number of iterations to try to maximize.</p>
+          <p>The data shown for this district is from the publicly available <a href="https://www.cde.ca.gov/ds/sd/sd/filescupc.asp" target="_blank">2019-2020 CALPADS CUPC source file</a> and the April 2019 school meal claiming data. Due to limitations of the publicly available CALPADS data, the listed ISPs are calculated from direction certification through CalFresh/SNAP and CalWORKs only. Your actual current numbers may be significantly higher.</p>
+
+          <p>Sites listed may include charter schools and exclude some preschool/early learning programs under your jurisdiction.</p>
+
+          <p>To get the best recommended grouping, you should edit the school list as well as data affiliated with each school to better reflect current enrollment, eligibility, and meal participation.</p> 
+
+          <p>For more information, please <router-link to="/contact">Contact Us</router-link>!</p>
+
         </div>
       </div>
     </div>
@@ -76,6 +71,7 @@
 
           </div>
           <div class="col-sm-6 text-right">
+            <!--
                 <button
                   class="btn btn-primary"
                   type="button"
@@ -84,7 +80,7 @@
                   autocomplete="off"
                   v-on:click="openScenarioModal"
                 >Load / Save Scenario</button>
-
+            -->
                 <button
                   class="btn btn-primary"
                   type="button"
@@ -100,8 +96,8 @@
                   data-toggle="button"
                   aria-pressed="true"
                   autocomplete="off"
-                  v-on:click="import_from_csv"
-                >Import from CSV</button>
+                  v-on:click="import_from_file"
+                >Import from File</button>
 
                 <button
                   class="btn btn-primary"
@@ -123,14 +119,18 @@
           <sup>1</sup>
           Based on {{ schoolDays }} days in school year
           <br />
-          <sup>2</sup>Derived from Direct Certified only
+          <sup>2</sup> Pre-loaded data is derived from publicly available CALPADS UPC report of students directly certified through participation in CalFresh/SNAP or CalWORKs.
           <br />
-          <sup>3</sup>From average meals per day April 2019, based upon CFPA SNP Report
+          <sup>3</sup> Pre-loaded data is based on average daily participation for April 2019 calculated by CFPA from meal claim data provided by the California Department of Education.
           <br />
           </div>
       </div>
 
     </div>  
+    <div class="overlay">
+      Please wait, optimization is running...
+    </div>
+    <LoadingModal v-if="showLoading" />
     <ExportModal v-if="showExport" v-bind:district="district" @close="closeExportModal" v-bind:grouping_index="best_group_index" v-bind:reimbursement_index="reimbursement_index" />
     <ImportModal v-if="showImport" v-bind:district="district" @close="closeImportModal"  />
     <ScenarioModal v-if="showScenarioModal" v-bind:district="district" @close="closeScenarioModal" />
@@ -146,6 +146,7 @@ import DistrictSchoolView from "./DistrictSchoolView.vue"
 import DistrictGroupView from "./DistrictGroupView.vue"
 import ExportModal from "./ExportModal.vue"
 import ImportModal from "./ImportModal.vue"
+import LoadingModal from "./LoadingModal.vue"
 import DistrictDetailFirstTimeModal from "./DistrictDetailFirstTimeModal.vue"
 
 // TODO "404" if no district?
@@ -158,6 +159,7 @@ export default {
     ExportModal,
     DistrictDetailFirstTimeModal,
     ImportModal,
+    LoadingModal,
   },
   props: ["state_code", "district_code"],
   data() {
@@ -170,6 +172,7 @@ export default {
       showScenarioModal: false,
       showFirstTimeModal: false,
       showImport: false,
+      showLoading: false,
     }
   },
   mounted(){
@@ -177,8 +180,11 @@ export default {
       this.showFirstTimeModal = true;
       if(window.localStorage){ window.localStorage.setItem("mc-district-detail-firsttime","done") }
     }
+    if(typeof olark !== 'undefined'){
+      olark('api.box.show');
+    }
   },
-  computed: {
+   computed: {
     district() {
       return this.$store.getters.selected_district;
     },
@@ -241,6 +247,11 @@ export default {
       return rt_index;
     }
   },
+  watch: {
+    district(){
+      this.showLoading = false;
+    }
+  },
   methods: {
     toggleEdit() {
       this.editMode = !this.editMode;
@@ -250,6 +261,7 @@ export default {
       console.log("Submitting for optimization",this.district) 
       this.editMode = false
       this.$store.dispatch("run_district",this.district);
+      this.showLoading = true
     },
     reload(){
       this.$store.dispatch("load_district",{code:this.district.code,state:this.district.state_code});
@@ -262,7 +274,7 @@ export default {
       // todo figure out how to export to CSV
       this.showExport = true;
     },
-    import_from_csv(){
+    import_from_file(){
       this.showImport = true; 
     },
     daily_reimbursement_by_school ( school_code ){
@@ -330,5 +342,9 @@ tr.add_row td input {
 
 .buttons button {
   margin: 8px;
+}
+
+table.school-table {
+  font-size: 10pt;
 }
 </style>

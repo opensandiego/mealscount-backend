@@ -23,6 +23,7 @@
           <router-link class="nav-item nav-link p-4" to="/faq">FAQ</router-link>
           <router-link class="nav-item nav-link p-4" to="/contact">Contact</router-link>
           <router-link class="nav-item nav-link p-4" to="/about">About</router-link>
+          <router-link class="nav-item nav-link p-4" to="/help">Help</router-link>
         </div>
       </div>
     </nav>
@@ -58,6 +59,9 @@
               <li>
                 <router-link to="/faq">FAQ</router-link>
               </li>
+              <li>
+                <router-link to="/help">Help</router-link>
+              </li>
             </ul>
           </div>
           <div class="col-6 col-md">
@@ -67,10 +71,10 @@
                 <a href="https://opensandiego.org">Open San Diego</a>
               </li>
               <li>
-                <a href="https://www.cfpa.org">CFPA</a>
+                <a href="https://www.cfpa.net">CFPA</a>
               </li>
               <li>
-                <a href="https://www.sdhunger.org">SD Hunger</a>
+                <a href="https://www.sandiegohungercoalition.org/">SD Hunger</a>
               </li>
               <li>
                 <a href="https://www.codeforamerica.org/">Code For America</a>
@@ -83,6 +87,9 @@
               <li>
                 <router-link to="/contact">Contact Us</router-link>
               </li>
+              <li>
+                <router-link to="/newsletter">Newsletter</router-link>
+              </li>
             </ul>
           </div>
           <div class="col-6 col-md">
@@ -93,6 +100,9 @@
               </li>
               <li>
                 <router-link to="/faq">FAQ</router-link>
+              </li>
+              <li>
+                <router-link to="/algorithms">About Algorithms</router-link>
               </li>
             </ul>
           </div>

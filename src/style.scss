@@ -18,13 +18,17 @@
 /*
   * Site Header 
 */
+
+body.body-home {
+  max-width: 1920px; 
+  margin: auto;
+}
+
 body.wrap-1920 > div {
-  max-width: 1920px;
   margin-left: auto;
   margin-right: auto;
   background:white;
   position:relative;
-  overflow:hidden;
 }
 
 nav {
@@ -71,7 +75,7 @@ nav {
 }
 
 body.wrap-1920 {
-  background: #fafafa;
+  background: #ffffff;
 }
 .site-header {
   height: 160px;

@@ -4,11 +4,20 @@ from flask_talisman import Talisman
 from werkzeug.routing import BaseConverter
 from urllib.parse import urlparse
 import os,os.path,datetime,time
-import us
+import us,uuid,json
+import zipfile
+from io import BytesIO
+
+import boto3
+import base64
 
 import csv,codecs,os,os.path
 from strategies.base import CEPDistrict,CEPSchool
-from cep_estimatory import parse_strategy
+from cep_estimatory import parse_strategy,add_strategies
+
+# If we have specified AWS keys, this is where we will tell the client where
+# the results will be on S3
+S3_RESULTS_URL = os.environ.get("S3_RESULTS_URL","https://mealscount-results.s3-us-west-1.amazonaws.com")
 
 # From https://stackoverflow.com/questions/5870188/does-flask-support-regular-expressions-in-its-url-routing
 class RegexConverter(BaseConverter):
@@ -27,11 +36,8 @@ app = Flask(__name__,
 app.config.from_object(__name__)
 app.url_map.converters['regex'] = RegexConverter
 
-# Do i want this?
-#CORS(app, resources={r'/api/*': {'origins': '*'}})
-
 def get_district(state,code,district_params):
-    # NOTE assumes we have ensured state and code are a-zA-Z0-9+,
+    # NOTE assumes we have ensured state and code are a-zA-Z0-9+ (which we do in the handler below)
     # BEWARE of dangerous paths! (e.g. '..')
     path ="data/%s/latest.csv" % state
     if not os.path.exists(path): return None # we may not have this state yet
@@ -55,10 +61,60 @@ def get_district(state,code,district_params):
 
     return district
 
-def add_strategies(district,*strategies):
-    for s in strategies:
-        Klass,params,name = parse_strategy(s) 
-        district.strategies.append( Klass(params,name) )
+
+@app.route("/api/districts/optimize-async/", methods=['POST'])
+def optimize_async():
+    if not os.environ.get("AWS_ACCESS_KEY_ID",False):
+       return optimize() 
+
+    # Generate a key to publish the resulting file to
+    event = request.json
+    n = datetime.datetime.now()
+    key = "data/%i/%02i/%02i/%s-%s.json" % (
+        n.year,n.month,n.day,
+        event.get("code","unspecified"),
+        uuid.uuid1(),
+    )
+    event["key"] = key
+
+    if not event.get("strategies_to_run",False):
+        event["strategies_to_run"] = [
+            "Pairs",
+            "OneToOne",
+            "Exhaustive",
+            "OneGroup",
+            "Spread",
+            "Binning",
+        ] 
+        if len(event["schools"]) > 11:
+            event["strategies_to_run"].append("NYCMODA?fresh_starts=50&iterations=1000")
+            event["strategies_to_run"].append("GreedyLP")
+
+    # Large school districts (LA) don't fit in our 256kb Event Invocation limit on Lambda,
+    # So sneak it in via ZipFile
+    if len(event["schools"]) > 500: 
+        with BytesIO() as mf:
+            with zipfile.ZipFile(mf, mode='w',compression=zipfile.ZIP_BZIP2) as zf:
+                zf.writestr('data.json', json.dumps(event) )
+            event = {"zipped": base64.b64encode(mf.getvalue()).decode('utf-8') }
+
+    # Invoke our Lambda Function
+
+    client = boto3.client('lambda') 
+    response = client.invoke(
+        FunctionName=os.environ.get("LAMBDA_FUNCTION_NAME","mealscount-optimize"),
+        InvocationType="Event",
+        Payload=json.dumps(event),
+    )
+    result = {
+        "function_status": response["StatusCode"],
+        "key": key,
+        "results_url": "%s/%s" % (S3_RESULTS_URL,key),
+    }
+    if response.get("FunctionError",None):
+        result["function_error"] = response.get("FunctionError")
+
+    return result
 
 @app.route("/api/districts/optimize/", methods=['POST'])
 def optimize():
@@ -72,6 +128,8 @@ def optimize():
     for row in schools:
         # Expecting { school_code: {active, daily_breakfast_served,daily_lunch_served,total_eligible,total_enrolled }}
         # TODO rework how we initialize CEPSchool
+        if not row.get("school_code",None) or not row.get("total_enrolled",None):
+            continue
         row["School Name"] = row.get("school_name","School %i"%i)
         row["School Code"] = row.get("school_code","school-%i"%i)
         row["School Type"] = row.get("school_type","")
@@ -82,7 +140,7 @@ def optimize():
     # TODO allow this as a param
     add_strategies(
         district,
-        *["Pairs","OneToOne","Exhaustive","OneGroup","Spread","Binning","NYCMODA?fresh_starts=10"]
+        *["Pairs","OneToOne","Exhaustive","OneGroup","Spread","Binning","NYCMODA?fresh_starts=10&iterations=150","GreedyLP"]
     )
 
     t0 = time.time()
@@ -102,10 +160,10 @@ def district(state,code):
     district_params = request.json 
     district = get_district(state,code,district_params) 
 
-    # TODO allow incoming data to specify strategies and strategy parameters 
-    add_strategies(district,"OneToOne","OneGroup","Exhaustive","Binning")
-    district.run_strategies() 
-    district.evaluate_strategies()
+#    # TODO allow incoming data to specify strategies and strategy parameters 
+#    add_strategies(district,"OneToOne","OneGroup","Exhaustive","Binning")
+#    district.run_strategies() 
+#    district.evaluate_strategies()
     return jsonify(district.as_dict())
 
 @app.route('/api/states/', methods=['GET'])
@@ -133,7 +191,7 @@ def states():
 def catch_all(path):
     return render_template('index.html', 
         analytics_id=os.environ.get("GOOGLE_ANALYTICS_ID",False),
-        source_version=os.environ.get("SOURCE_VERSION","XYZ")
+        olark_id = os.environ.get("OLARK_ID",False),
     )
 
 if "DYNO" in os.environ:

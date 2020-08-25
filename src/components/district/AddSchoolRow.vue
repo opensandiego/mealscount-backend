@@ -2,7 +2,7 @@
     <tr>
         <td>Add School:</td>
         <td>
-            <input placeholder="School Code" v-model="school.school_code" />
+            <input placeholder="School Code (required)" v-model="school.school_code" />
         </td>
         <td>
             <input placeholder="School Name" v-model="school.school_name" />
@@ -15,16 +15,16 @@
             </select>
         </td>
         <td>
-            <input type="number" v-model="school.total_enrolled" />
+            <input type="number" v-model.number="school.total_enrolled" min="1" />
         </td>
         <td>
-            <input type="number" v-model="school.total_eligible" />
+            <input type="number" v-model.number="school.total_eligible" min="0" />
         </td>
         <td>
-            <input type="number" v-model="school.daily_breakfast_served" />
+            <input type="number" v-model.number="school.daily_breakfast_served" min="0" />
         </td>
         <td>
-            <input type="number" v-model="school.daily_lunch_served" />
+            <input type="number" v-model.number="school.daily_lunch_served" min="0"/>
         </td>
         <td>
             <input type="checkbox" v-model="school.active" />
@@ -76,9 +76,12 @@ export default {
             }
         },
         add(){
-            // TODO validate we have everything we need
+           if( !this.school.school_code ){
+                alert("Please enter a school code") 
+                return;
+           }
            this.$emit("add_school",this.school)
-           this.clear()
+           //this.clear()
         }
     }
 }

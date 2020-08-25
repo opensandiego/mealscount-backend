@@ -6,7 +6,10 @@ import Contact from "./components/Contact.vue";
 import StateDetail from "./components/StateDetail.vue";
 import DistrictDetail from "./components/district/DistrictDetail.vue";
 import StateMap from "./components/StateMap.vue"
+import Newsletter from './components/Newsletter.vue'
+import Algorithms from './components/Algorithms.vue'
 import Faq from "./components/Faq.vue";
+import Help from "./components/Help.vue";
 import Vue from 'vue';
 import VTooltip from 'v-tooltip'
 import Router from 'vue-router';
@@ -27,6 +30,16 @@ export default new Router({
             component: About,
         },
         {
+            path: '/newsletter',
+            name: 'newsletter',
+            component: Newsletter,
+        },
+        {
+            path: '/algorithms',
+            name: 'algorithms',
+            component: Algorithms,
+        },
+        {
             path: '/cep', 
             name: 'cep',
             component: CEP,
@@ -35,6 +48,11 @@ export default new Router({
             path: '/faq', 
             name: 'faq',
             component: Faq,
+        },    
+        {
+            path: '/help', 
+            name: 'help',
+            component: Help,
         },    
         {
             path: '/contact', 

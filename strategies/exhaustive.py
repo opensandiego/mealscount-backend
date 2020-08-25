@@ -53,24 +53,48 @@ class ExhaustiveCEPStrategy(BaseCEPStrategy):
                 possible_groups[g] = CEPGroup(district, i, list(g))
 
             best_grouping = []
-            best_reimbursement = 0
             # generate all partions
             d_powerset = [i for i in partition(schools)]
             #print("Powerset for %i contains %i" % (len(schools),len(d_powerset)))
+
+            evaluate_by = self.params.get("evaluate_by","reimbursement")
+            best_option = [0,0]
+
             for x in partition(schools):
-#                pass
-#                # save grouping with highest reimbursement level
-                est_reimbursement = 0
-#                # we reference the powerset possible_groups so we don't have to instantiate a bajillion CEPGroup objects
-                for group in x:
-                    est_reimbursement += possible_groups[tuple(group)].est_reimbursement()
-#                
-#                #print([ [s.code for s in i] for i in x], est_reimbursement, best_reimbursement)
-#
-#                # Choose the highest reimbursement
-                if est_reimbursement > best_reimbursement:
-                    best_grouping = [ possible_groups[tuple(group)] for group in x ]
-                    best_reimbursement = est_reimbursement
+                est_reimbursement = sum([ 
+                        possible_groups[tuple(group)].est_reimbursement() 
+                        for group in x])
+                # Just straight reimbursement comparison
+                if evaluate_by == "reimbursement":
+                    if est_reimbursement > best_option[0]:
+                        best_grouping = [ possible_groups[tuple(group)] for group in x ]
+                        best_option[0] = est_reimbursement
+                # Highest number of covered students, and if equal, higher reimbursement
+                elif evaluate_by == "coverage":
+                    covered_students = sum([ 
+                        possible_groups[tuple(group)].covered_students 
+                        for group in x])
+                    if covered_students > best_option[0]:
+                        best_grouping = [ possible_groups[tuple(group)] for group in x ]
+                        best_option = (covered_students,est_reimbursement)
+                    elif covered_students == best_option[0]:
+                        # If meals are the same, but reimbursement is higher, lets do this new option
+                        if est_reimbursement > best_option[1]:
+                            best_grouping = [ possible_groups[tuple(group)] for group in x ]
+                            best_option = (covered_students,est_reimbursement)
+                # highest number of included schools, and if equal, higher reimbursement
+                elif evaluate_by == "schools":
+                    schools = sum([    len(possible_groups[tuple(group)].schools) 
+                                        for group in x 
+                                        if possible_groups[tuple(group)].cep_eligible ])
+                    if schools > best_option[0]:
+                        best_grouping = [ possible_groups[tuple(group)] for group in x ]
+                        best_option = (schools,est_reimbursement)
+                    elif schools == best_option[0]:
+                        # If meals are the same, but reimbursement is higher, lets do this new option
+                        if est_reimbursement > best_option[1]:
+                            best_grouping = [ possible_groups[tuple(group)] for group in x ]
+                            best_option = (schools,est_reimbursement)
 
             self.groups = best_grouping
 

@@ -10,13 +10,20 @@ import json
 
 #### CLI ####
 
-def parse_districts(school_data,strategies):
+def parse_districts(school_data,strategies,rates=None):
     districts = {}
+    if rates:
+        rates = dict(zip(
+            ('free_lunch','paid_lunch','free_bfast','paid_bfast'),
+            [float(x) for x in rates.split(',')],
+        ))
     for row in school_data:
+        if not row.get("included_in_optimization",True):
+            continue
         school = CEPSchool(row)
         district_name,district_code = row.get('District Name',row.get('district_name','Default')),row.get('District Code',row.get('district_code','1'))
         if district_name not in districts:
-            district = CEPDistrict(district_name,district_code)
+            district = CEPDistrict(district_name,district_code,reimbursement_rates=rates)
             for s in strategies:
                 StrategyClass,params,strategy_name = s
                 district.strategies.append( StrategyClass(params,name=strategy_name) )
@@ -32,6 +39,11 @@ def parse_strategy(strategy):
     klass = STRATEGIES[strategy_param.path]
     return (klass,params,strategy)
 
+def add_strategies(district,*strategies):
+    for s in strategies:
+        Klass,params,name = parse_strategy(s) 
+        district.strategies.append( Klass(params,name) )
+
 @click.command()
 @click.option("--target-district",default=None,help="Specific district code to run")
 @click.option("--show-groups",default=False,is_flag=True,help="Display grouping per district by school-code (must have target district specified)")
@@ -39,9 +51,11 @@ def parse_strategy(strategy):
 @click.option("--min-schools",default=None,help="If specified, only districts with at least N schools will be evaluated",type=int)
 @click.option("--list-strategies",default=False,is_flag=True,help="Display all available strategies and exit")
 @click.option("--output-json",default=None,help="If Specified, output will stored in filename specified in JSON format (defaults to output.json)")
+@click.option("--output-csv",default=None,help="If Specified with target district, output for first strategy will stored as CSV in filename")
 @click.option("--output-folder",default=None,help="Folder to output per-district json and district overview json for website")
 @click.option("--evaluate-by",default="reimbursement",help="Optimize by reimbursement or coverage")
 @click.option("--investigate",default=False,is_flag=True,help="Stop before exiting in a shell to investigate results")
+@click.option("--rates", default=None, help="Rates specified as freelunch,paidlunch,freebkfst,paidbkfst, e.g. '3.31,0.31,2.14,0.31' ")
 @click.argument("cupc_csv_file",nargs=1)
 @click.argument("strategies",nargs=-1)
 def cli(    cupc_csv_file,
@@ -52,8 +66,10 @@ def cli(    cupc_csv_file,
             min_schools=None,
             list_strategies=False,
             output_json=None,
+            output_csv=None,
             output_folder=None,
             investigate=False,
+            rates=None,
             evaluate_by="reimbursement" ):
     """CEP Estimator - runs strategies for grouping School Districts into optimial CEP coverage
 
@@ -72,7 +88,7 @@ Expected CSV File columns
         return
 
     i = lambda x: int(x.replace(',',''))
-    schools = [r for r in csv.DictReader(codecs.open(cupc_csv_file)) if i(r['total_enrolled']) > 0]
+    schools = [r for r in csv.DictReader(codecs.open(cupc_csv_file)) if r['total_enrolled'] and i(r['total_enrolled']) > 0]
 
     # Reduce to target district if specified
     if target_district != None:
@@ -83,7 +99,7 @@ Expected CSV File columns
     
     strategies = [parse_strategy(s) for s in strategies]
 
-    districts = parse_districts(schools,strategies = strategies)
+    districts = parse_districts(schools,strategies = strategies,rates=rates)
 
     print("Districts with 10 or less schools: %0.0f%%" % (len([d for d in districts if len(d.schools) <= 10])/float(len(districts)) * 100))
 
@@ -112,15 +128,18 @@ Expected CSV File columns
 
     data = []   
     for district in districts: 
-        p0 = (float(district.strategies[0].students_covered) / district.total_enrolled)
-        p1 = (float(district.best_strategy.students_covered) / district.total_enrolled)
+        if district.strategies:
+            p0 = (float(district.strategies[0].students_covered) / district.total_enrolled)
+            p1 = (float(district.best_strategy.students_covered) / district.total_enrolled)
+        else:
+            p0,p1 = 0,0
         row = [
             district.code,
             district.name[:64],
             float(len(district.schools)),
             float(district.total_enrolled),
-            district.strategies[0].name,
-            district.best_strategy.name,
+            district.strategies and district.strategies[0].name or '',
+            district.best_strategy and district.best_strategy.name or '',
             p0 * 100.0,
             p1 * 100.0,
             (p1-p0) * 100.0,
@@ -137,24 +156,25 @@ Expected CSV File columns
 
     click.secho("\n"+"="*100,bold=True)
 
-    click.secho("Baseline Strategy: %s" % strategies[0][0].name)
-    if len(strategies) > 1:
-        for s in strategies[1:]:
-            click.secho("Optimization Strategy: %s" % s[0].name)
+    if strategies:
+        click.secho("Baseline Strategy: %s" % strategies[0][0].name)
+        if len(strategies) > 1:
+            for s in strategies[1:]:
+                click.secho("Optimization Strategy: %s" % s[0].name)
 
-    click.secho(    "{:,} Schools Processed for {:,} districts".format(n_schools,len(districts)) ,
-                    fg="blue", bold=True )
+        click.secho(    "{:,} Schools Processed for {:,} districts".format(n_schools,len(districts)) ,
+                        fg="blue", bold=True )
 
-    baseline_eligible_overall = sum([d.strategies[0].students_covered for d in districts])
-    best_eligible_overall = sum([d.best_strategy.students_covered for d in districts])
-    improvement = best_eligible_overall - baseline_eligible_overall
-    click.secho("{:+,.0f} students eligible over baseline ({:,.0f} => {:,.0f}), {:+.0f}% change to ISP {:.0f}%".format( 
-        improvement,
-        baseline_eligible_overall,
-        best_eligible_overall,
-        (improvement/total_overall) * 100.0,
-        (best_eligible_overall/total_overall) * 100.0,
-    ),fg=(improvement > 0 and "green" or "red"))
+        baseline_eligible_overall = sum([d.strategies[0].students_covered for d in districts]) 
+        best_eligible_overall = sum([d.best_strategy.students_covered for d in districts])
+        improvement = best_eligible_overall - baseline_eligible_overall
+        click.secho("{:+,.0f} students eligible over baseline ({:,.0f} => {:,.0f}), {:+.0f}% change to ISP {:.0f}%".format( 
+            improvement,
+            baseline_eligible_overall,
+            best_eligible_overall,
+            (improvement/total_overall) * 100.0,
+            (best_eligible_overall/total_overall) * 100.0,
+        ),fg=(improvement > 0 and "green" or "red"))
 
     if investigate:
         print("Type dir() to see local variables")
@@ -162,27 +182,77 @@ Expected CSV File columns
 
     if target_district:
         td = districts[0]
+        #print(json.dumps(td.as_dict(),indent=1))
         if show_groups:
-            print( "Groupings for %s" % td )
+            print("\nGroupings for %s" % td )
             for s in td.strategies:
-                print("%s: %0.2f" % (s.name,s.reimbursement))
-                for g in s.groups:
-                    click.secho( "%s (%i schools) %0.2f %0.2f" % (g.name,len(g.schools),g.isp,g.est_reimbursement()), bold=True )
+                print("\n%s: %0.2f" % (s.name,s.reimbursement))
+                data = [
+                    (   g.name,
+                        len(g.schools), #','.join([s.name for s in g.schools]),
+                        g.isp,
+                        g.free_rate,
+                        g.paid_rate,
+                        g.est_reimbursement(),
+                        g.total_enrolled,
+                        g.covered_students,
+                    )
+                    for g in s.groups
+                ] 
+                print(tabulate.tabulate(
+                    data,
+                    ('Group','Schools','ISP','Free Rate','Paid Rate','Reimbursement','Enrolled','Covered'),
+                    tablefmt="pipe",
+                ))
         if show_schools:
-            data = [ (s.code,s.name,float(s.total_eligible),float(s.total_enrolled),s.isp) for s in td.schools ]
+            print("\nSchools")
+            data = [ (
+                s.code,
+                s.name,
+                float(s.total_eligible),
+                float(s.total_enrolled),
+                s.isp,
+                s.bfast_served,
+                s.lunch_served
+                ) for s in td.schools ]
             data.sort(key=lambda o: o[4])
             print(tabulate.tabulate(
                     data,
-                    ('Code','Name','Eligible','Enrolled','ISP'),
+                    ('Code','Name','Eligible','Enrolled','ISP','Daily Bkfst','Daily Lunches'),
                     tablefmt="pipe",
                     #floatfmt = ("","",",.0f",",.0f",".3f" ),
             ))
+
+        if output_csv:
+            strat = td.strategies[0]
+            with open(output_csv,"w") as out_file:
+                w = csv.DictWriter(out_file,fieldnames=(
+                    "group","district_code","school_code","school_name","total_enrolled","total_eligible",
+                    "daily_breakfast_served","daily_lunch_served","estimated_school_reimbursement"
+                ))
+                w.writeheader()
+                for i,g in enumerate(strat.groups):
+                    for s in g.schools:
+                        row = {
+                            "group": str(i+1),
+                            "district_code": td.code,
+                            "school_code": s.code,
+                            "school_name": s.name,
+                            "total_enrolled": s.total_enrolled,
+                            "total_eligible": s.total_eligible,
+                            "daily_breakfast_served": s.bfast_served,
+                            "daily_lunch_served": s.lunch_served,
+                            "estimated_school_reimbursement": g.school_reimbursement(s) * 180,
+                        }
+                        w.writerow(row)
+            print("Outputted CSV for District %s optimized with %s" % (td,strat))
 
     if output_json:
         with open(output_json,"w") as out_file:
             # TODO make this more interesting
             o = [d.as_dict() for d in districts]
             out_file.write(json.dumps(o))
+
 
     if output_folder:
         if not os.path.exists(output_folder):

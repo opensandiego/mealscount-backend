@@ -3,10 +3,10 @@
       <div class="homepage-hero position-relative overflow-hidden" v-bind:style="hero_style">
         <div class="home-shadow">
         <div class="overlay col-md-5 p-lg-5 my-5">
-          <h1 class="display-4">Maximize your CEP funding with Meals Count</h1>
+          <h1 class="display-4">Food for Students. Funds for Schools.</h1>
           <hr/>
           <p class="lead">Meals Count is a free tool to help school districts optimize their
-            USDA CEP Application, to get more reimbursements for school meals, and help fight child hunger.</p>
+            Community Eligibility Provision (CEP) applications, maximize school meal funding, and fight childhood hunger.</p>
            <router-link to="/faq" class="learn btn btn-outline-secondary">Learn More</router-link>
            <router-link to="/explore" class="find filled btn btn-outline-secondary">Find Your District</router-link>
         </div>
@@ -72,14 +72,11 @@
           <div class="row content-row">
             <div class="col-12 col-md-6 pb-4">
               <p>
-                The Community Eligibility Provision (CEP) is a federally authorized option for schools 
-                to serve and receive funding for breakfasts and lunches that are free of charge to all students. 
-              </p>
-              <p>
-                It allows the nation’s highest poverty schools and districts to serve breakfast and lunch at 
-                no cost to all enrolled students without collecting household applications.
+                The Community Eligibility Provision (CEP) is a federally authorized option for schools to serve and receive funding for breakfasts and lunches that are free of charge to all students.
               </p>
 
+              <p>
+                CEP helps reduce stigma, prevents student meal debt, and eliminates the need to collect school meal applications. Nourishing students through CEP helps all children learn, grow, and achieve at their fullest potential.  
               <p>
                 <router-link to="/faq">Learn more</router-link>
               </p>
@@ -100,6 +97,19 @@
               <a target="_blank" href="https://opensandiego.org"><img class="logo" v-bind:src="logos.openSD_logo"></a>
               <a target="_blank"  href='https://www.cfpa.net'> <img class='logo' v-bind:src="logos.cfpa_logo" /> </a>     
               <a target="_blank"  href="https://www.sandiegohungercoalition.org/"> <img class="logo" v-bind:src="logos.hunger_logo">  </a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div>
+        <div class="newsletter-block home-container text-center">
+          <div class="row">
+            <h2 class="col-12 display-5">Hear About Updates, Events, and New Features</h2>
+          </div>
+          <div class="row">
+            <div class="col-12 text-center">
+              <router-link to="newsletter/" class="btn btn-primary outlined filled">Sign Up For Our Newsletter</router-link>
             </div>
           </div>
         </div>
@@ -145,14 +155,31 @@ export default {
       }
 
     }
+  },
+  // From: https://forum.vuejs.org/t/how-do-i-add-remove-classes-to-body/1219/12 
+  // .. not my favorite method, but need to fix home layout issue
+  methods: {
+    toggleBodyClass(addRemoveClass, className) {
+      const el = document.body;
+
+      if (addRemoveClass === 'addClass') {
+        el.classList.add(className);
+      } else {
+        el.classList.remove(className);
+      }
+    },
+  },
+  mounted() {
+    this.toggleBodyClass('addClass', 'body-home');
+  },
+  destroyed() {
+    this.toggleBodyClass('removeClass', 'body-home');
   }
 }
 </script>
 
 
-
 <style scoped lang="scss">
-
 .home-container {
   max-width: 1413px;
   margin: auto;

@@ -2,11 +2,15 @@ version: '3'
 services:
   app:
     build: ./
-    command: sh -c "npm run devserver"
+    command: sh -c "flask run --host=0.0.0.0 --port=5000"
     ports:
-      - '5000:5000'
+      - "5000:5000"
     environment:
-      - FLASK_ENV=develpment
+      - FLASK_ENV=development
+      - FLASK_APP=server.py
     working_dir: /code/
     volumes:
-      - ./:/code/:cached
+      - ./data/:/code/data/:cached
+# switch to entire local folder to do dev
+# but you need to npm build on your local folder, not docker container
+#      - ./:/code/:cached

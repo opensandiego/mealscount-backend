@@ -2,24 +2,43 @@
      <table class="table col-sm school-table">
         <thead class="thead-dark">
           <tr id="district-table-header">
-            <th scope="col" v-tooltip title="Best grouping by number based upon current optimization" @click="set_sort('grouping')">Recommended Grouping <img v-bind:src="image.qmark"></th>
+            <th scope="col" 
+                v-tooltip 
+                title="Indicates the numerical grouping of the schools in the current recommendation. All Schools marked “1” should be in Group 1, all schools marked “2” should be in Group 2, etc. In the edit function, click “Remove” to remove a school from the school list before running the grouping calculation."
+                @click="set_sort('grouping')">Recommended Grouping <img v-bind:src="image.qmark"></th>
             <th scope="col" @click="set_sort('school_code')">School Code</th>
             <th scope="col" @click="set_sort('school_name')">School Name</th>
-            <th scope="col" v-tooltip title="School type (charter vs public) based on CALPAS (may not be accurate)">School Type <img v-bind:src="image.qmark"></th>
-            <th v-tooltip title="Total students enrolled" scope="col" @click="set_sort('total_enrolled')">Total Enrolled <img v-bind:src="image.qmark"></th>
-            <th v-tooltip title="Total Eligible. Default data is derived from Direct Certified only" scope="col" @click="set_sort('total_eligible')" >
-              Total Eligible <sup>2</sup> <img v-bind:src="image.qmark"></th>
-            <th v-tooltip title="Averaged site-level claiming data from April 2019, based upon CFPA SNP Report" scope="col">
-              Breakfast Avg Daily Participation (ADP)
-              <sup>3</sup> <img v-bind:src="image.qmark">
+            <th scope="col" v-tooltip title="School type is based on CALPADS UPC file designations">School Type <img v-bind:src="image.qmark"></th>
+            <th v-tooltip
+                title="Pre-loaded data is based on the publicly available CALPADS UPC file. Please edit with your updated enrollment data."
+                scope="col" 
+                @click="set_sort('total_enrolled')">Total Enrolled <img v-bind:src="image.qmark"></th>
+            <th v-tooltip 
+                title="Pre-loaded data is based on the publicly available CALPADS UPC file (CalFresh/SNAP & CalWORKs direct certification only). Please edit with your updated, unduplicated count of all directly certified and categorically eligible students"
+                scope="col" 
+                @click="set_sort('total_eligible')" >
+                Total Eligible <sup>2</sup> <img v-bind:src="image.qmark"></th>
+            <th v-tooltip 
+                title="Pre-loaded data is based on April 2019 ADP. Please edit based on your projected ADP." 
+                scope="col">
+                Breakfast Avg Daily Participation (ADP)
+                <sup>3</sup> <img v-bind:src="image.qmark">
             </th>
-            <th  v-tooltip title="Averaged site-level claiming data from April 2019, based upon CFPA SNP Report" scope="col">
-              Lunch Avg Daily Participation (ADP)
-              <sup>3</sup> <img v-bind:src="image.qmark">
+            <th v-tooltip 
+                title="Pre-loaded data is based on April 2019 ADP. Please edit based on your projected ADP." 
+                scope="col">
+                Lunch Avg Daily Participation (ADP)
+                <sup>3</sup> <img v-bind:src="image.qmark">
             </th>
-            <th v-tooltip title="Whether or not this school is included in the algorithm" scope="col" @click="set_sort('active')">Included in Optimization <img v-bind:src="image.qmark"></th>
-            <th v-tooltip title="Estimated ISP based upon total eligible / total enrolled listed" scope="col" @click="set_sort('isp')">Estimated School ISP <img v-bind:src="image.qmark"></th>
-            <th v-tooltip title="Whether or not the ISP is above the CEP threshold for this school alone" scope="col">School CEP Eligible <img v-bind:src="image.qmark"></th>
+            <th v-tooltip 
+                title="Indicates whether a given school is run through the grouping calculation. Uncheck the box to exclude a given school from the grouping calculation." 
+                scope="col" 
+                @click="set_sort('active')">Included in Optimization <img v-bind:src="image.qmark"></th>
+            <th v-tooltip 
+                title="Estimated ISP based upon listed numbers of total eligible / total enrolled" scope="col" @click="set_sort('isp')">Estimated School ISP <img v-bind:src="image.qmark"></th>
+            <th v-tooltip 
+                title="Indicates whether a given school is eligible for CEP (at or above the 40% ISP threshold) without grouping." 
+                scope="col">School CEP Eligible <img v-bind:src="image.qmark"></th>
             <th v-tooltip title="Estimated reimbursement per school year" scope="col">Estimated Annual Reimbursement Per School </th>
           </tr>
         </thead>
@@ -31,6 +50,7 @@
             @remove="remove_school(school)"
           />
           <AddSchoolRow 
+            ref="addSchoolRow"
             @add_school="add_school"
           />
         </tbody>
@@ -121,7 +141,12 @@ export default {
     },
     add_school(school){
       console.log("Adding School: ", school)
-      this.schools.push(school);
+      if( !school.school_code || this.schools.filter( s=> s.school_code == school.school_code ).length > 0){
+        alert("Please enter a unique school code");
+      }else{
+        this.schools.push(school);
+        this.$refs.addSchoolRow.clear();
+      }
     },
     remove_school(school){
       if(window.confirm("Remove School  " + school.school_name + " ("+school.school_code + ")?")){

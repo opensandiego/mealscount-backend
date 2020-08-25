@@ -1,0 +1,16 @@
+# Dockerfile for building lambda function zip file
+# See https://github.com/lambci/docker-lambda#using-a-dockerfile-to-build
+#
+# ** To Build/Run This Container and upload to a lambda function called mealscount-optimize **
+# docker build -t mealscount-lambda -f Dockerfile.lambda .
+# AWS_ACCESS_KEY_ID=YOURACCESSKEY AWS_SECRET_ACCESS_KEY=YOURSECRETKEY docker run --rm -e AWS_ACCESS_KEY_ID -e AWS_SECRET_ACCESS_KEY mealscount-lambda
+# NOTE: the access key ids will require 
+FROM lambci/lambda:build-python3.8
+ENV AWS_DEFAULT_REGION us-west-1
+COPY *.py ./
+COPY strategies ./strategies
+COPY base_requirements.txt .
+RUN pip3 install -r base_requirements.txt --target .
+RUN zip -9yr function.zip .
+
+CMD aws s3 cp ./function.zip s3://mealscount-results/function.zip && aws lambda update-function-code --function-name mealscount-optimize --s3-bucket mealscount-results --s3-key function.zip 

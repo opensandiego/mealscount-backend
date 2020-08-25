@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="container">
         <br>
 
         <div class="header">
@@ -15,7 +15,7 @@
         <div id="tooltip"></div>
         <svg id="map"></svg>
 
-        <div class="container">
+        <div>
             <div class="row">
                 <div v-for="state in states" v-bind:key="state.abbr" class="col-sm-3">
                     <router-link class="text-muted" v-if="statedata[state.abbr.toLowerCase()] != undefined" v-bind:to="'/explore/' + state.abbr">{{ state.name }}</router-link>
