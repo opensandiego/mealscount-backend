@@ -5,7 +5,7 @@
       v-bind:style="hero_style"
     >
       <div class="home-shadow">
-        <div class="overlay col-md-5 p-lg-5 my-5">
+        <div class="overlay col-md-7 col-xl-6 p-lg-5 my-5 mx-lg-5 ">
           <h1 class="display-4">Food for Students. Funds for Schools.</h1>
           <hr />
           <p class="lead">
@@ -56,7 +56,7 @@
               <img
                 v-bind:src="icons.inputdata"
                 alt="Input your district's schools and school data"
-                style="margin-top: 30px;"
+                style="margin-top: 30px; padding-left: 10px;"
                 height="103px"
               />
             </div>
@@ -74,6 +74,7 @@
                 v-bind:src="icons.recommendations"
                 alt="Get recommendations on how to group your schools for your CEP Application"
                 height="103px"
+                style="padding-left: 10px;"
               />
             </div>
           </div>
@@ -102,7 +103,7 @@
         <hr class="fancy-rule" />
       </div>
       <div class="row content-row">
-        <div class="col-12 col-md-6 pb-4">
+        <div class="col-12 col-md-6 ">
           <p>
             The Community Eligibility Provision (CEP) is a federally authorized
             option for schools to serve and receive funding for breakfasts and
@@ -254,17 +255,23 @@ export default {
 
 .centered-background {
   position: absolute;
-  top: 900px;
+  top: 550px;
   width: 1930px;
   left: -3px;
   height: 100%;
   background-repeat: no-repeat;
+  @media only screen and (min-width: 1600px) {
+    top: 800px;
+  }
 }
 
 .centered-background.gray {
   width: 1499px;
-  top: 1567px;
+  top: 1217px;
   left: 424px;
+  @media only screen and (min-width: 1600px) {
+    top: 1467px;
+  }
 }
 
 section {
@@ -276,17 +283,24 @@ p.lead,
 h1 {
   text-align: left;
   font-weight: bold;
-  font-size: 55px;
+  font-size: 42px;
   color: white;
   font-family: "century-gothic";
+  @media only screen and (min-width: 1600px) {
+    font: normal normal bold 55px/65px Century Gothic;
+  }
 }
 
 p.lead {
-  font-size: 24px;
+  font-size: 20px;
   font-weight: bold;
   clear: left;
-  margin-bottom: 70px;
+  margin-bottom: 45px;
   padding-top: 25px;
+  @media only screen and (min-width: 1600px) {
+    font: normal normal bold 24px/36px Century Gothic;
+    margin-bottom: 55px;
+  }
 }
 
 div.active-development.alert {
@@ -296,8 +310,8 @@ div.active-development.alert {
 hr {
   display: block;
   float: left;
-  border-top: 5px solid white;
-  width: 120px;
+  border-top: 4px solid white;
+  width: 109px;
 }
 
 .btn {
@@ -305,16 +319,15 @@ hr {
   border: 3px solid #f27c3e;
   border-radius: 31px;
   text-align: center;
-  font: Bold 22px/40px century-gothic;
+  font: Bold 19px/38px century-gothic;
   letter-spacing: 0.02px;
   color: #f27c3e;
   opacity: 1;
-  width: 260px;
-  height: 75;
+  width: 210px;
 }
 
 .btn.learn {
-  margin-right: 70px;
+  margin-right: 60px;
   &:hover {
     color: #ffffff;
     background: #f27c3e;
@@ -325,16 +338,24 @@ hr {
 }
 
 .homepage-hero .btn {
-  @media only screen and (max-width: 1600px) {
+  @media only screen and (max-width: 1200px) {
     display: block;
     margin: 20px auto;
-    width: 240px;
+    width: 210px;
     /*font: Bold 20px/38px century-gothic;*/
   }
 }
 .homepage-hero {
   margin: 0px;
   z-index: 1;
+
+  @media only screen and (min-width: 1200px) {
+    height: 570px;
+  }
+  @media only screen and (min-width: 1600px) {
+    height: 700px;
+    padding: 40px;
+  }
 }
 .btn.filled {
   background: #f27c3e 0% 0% no-repeat padding-box;
@@ -358,6 +379,9 @@ hr {
   .cards-container {
     @media only screen and (min-width: 1000px) {
       display: flex;
+      justify-content: space-evenly;
+    }
+    @media only screen and (min-width: 1600px) {
       justify-content: space-between;
     }
   }
@@ -372,9 +396,9 @@ hr {
     width: 385px;
     box-shadow: 0px 10px 16px #00000064;
     /* need to pull this from bootstrap */
-    @media only screen and (max-width: 1024px) {
+    @media only screen and (max-width: 1600px) {
       width: 300px;
-      height: 430px;
+      height: 400px;
     }
   }
   .card-body {
@@ -384,32 +408,44 @@ hr {
     img {
       position: absolute;
       bottom: 70px;
-      left: 135px;
+      left: 130px;
     }
-    @media only screen and (max-width: 1024px) {
+    p {
+      padding: 0 35px;
+    }
+    @media only screen and (max-width: 1600px) {
       font-size: 20px;
       img {
-        left: 95px;
-        bottom: 55px;
+        left: 85px;
+        bottom: 50px;
+      }
+      p {
+        padding: 0 15px;
       }
     }
   }
   .card-title {
-    margin-top: 39px;
-    margin-bottom: 33px;
+    margin-top: 17px;
+    margin-bottom: 30px;
     font-size: 28px;
     font-weight: bold;
-    @media only screen and (max-width: 1024px) {
-      font-size: 25px;
+    @media only screen and (max-width: 1600px) {
+      font-size: 24px;
     }
   }
 
   h2 {
-    font-size: 45px;
+    font-size: 35px;
+    @media only screen and (min-width: 1600px) {
+      font-size: 45px;
+    }
   }
   .why-group {
     margin-top: 31px;
-    font-size: 24px;
+    font-size: 20px;
+    @media only screen and (min-width: 1600px) {
+      font-size: 24px;
+    }
     a {
       color: white;
       text-decoration: underline;
@@ -424,13 +460,27 @@ hr {
 .what-is-cep-block {
   h2 {
     text-align: center;
-    font-size: 45px;
+    font-size: 35px;
+    @media only screen and (min-width: 1600px) {
+      font-size: 45px;
+    }
   }
   .content-row {
-    margin: 0px 10px 268px 10px;
+    margin: 0px 0px 268px 0px;
     font-size: 31px;
-    @media only screen and (max-width: 1000px) {
-      font-size: 25px;
+    width: 100%;
+    @media only screen and (min-width: 1200px) {
+      width: 1050px;
+      & > div {
+        padding-right: 40px;
+      }
+    }
+
+    @media only screen and (min-width: 1600px) {
+    width: 1350px;
+    }
+    @media only screen and (max-width: 1600px) {
+      font-size: 22px;
     }
   }
   img {
@@ -441,10 +491,19 @@ hr {
 .support-block {
   color: black;
   h2 {
-    font-size: 45px;
+    font-size: 35px;
+    @media only screen and (min-width: 1600px) {
+      font-size: 45px;
+    }
   }
 }
 .what-is-cep-block {
   color: black;
+  @media only screen and (min-width: 1200px) {
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+  }
 }
 </style>

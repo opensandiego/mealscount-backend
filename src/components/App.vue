@@ -46,8 +46,8 @@
     <footer class="site-footer">
       <div class="bottom-background gray" v-bind:style="footGrey" />
       <div class="bottom-background" v-bind:style="footGreen" />
-      <div class="nav-container px-3">
-        <div class="row py-5">
+      <div class="nav-container">
+        <div class="row pt-5">
           <div class="col-6 col-md">
             <h5>Resources</h5>
             <ul class="list-unstyled text-small">
@@ -67,9 +67,6 @@
                   href="https://github.com/opensandiego/mealscount-backend/blob/validate/CONTRIBUTING.md"
                   >Meals Count Contributing Guide</a
                 >
-              </li>
-              <li>
-                <router-link to="/faq">FAQ</router-link>
               </li>
               <li>
                 <router-link to="/help">Help</router-link>
@@ -166,32 +163,50 @@ export default {
 };
 </script>
 
-
 <style scoped lang="scss">
-  .M {
+.M {
+  width: 105px;
+  height: 90px;
+  position: relative;
+
+  @media only screen and (min-width: 1400px) {
+    margin-left: 80px;
+  }
+  @media only screen and (min-width: 1600px) {
     width: 136px;
     height: 120px;
   }
-  .footerM {
-    width: 100%;
-    height: 100%;
-    background-repeat: no-repeat;
+}
+.footerM {
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: 130px;
+  @media only screen and (max-width: 1600px) {
+    background-size: 100px;
   }
-  .icon p {
-    padding-top: 42px;
-    @media only screen and (min-width: 1500px) {
-      position: absolute;
-      left: 138px;
-    }
+}
+.icon p {
+  padding-top: 38px;
+  position: absolute;
+  left: 105px;
+
+  @media only screen and (min-width: 1400px) {
+    left: 185px;
   }
-  .bottom-background {
-    position: absolute;
-    width: 1930px;
-    height: 100%;
-    background-repeat: no-repeat;
-    visibility: hidden;
-    @media only screen and (min-width: 1400px) {
-      visibility: visible;
-    }
-} 
-</style> 
+  @media only screen and (min-width: 1600px) {
+    left: 212px;
+    top: 71px;
+  }
+}
+.bottom-background {
+  position: absolute;
+  width: 1930px;
+  height: 100%;
+  background-repeat: no-repeat;
+  visibility: hidden;
+  @media only screen and (min-width: 1400px) {
+    visibility: visible;
+  }
+}
+</style>

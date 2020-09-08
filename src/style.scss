@@ -4,7 +4,6 @@
 .logo {
   width: 200px;
   padding: 20px;
-
 }
 
 .nav-container {
@@ -12,29 +11,32 @@
 }
 
 .container {
-    max-width: 960px;
+  max-width: 960px;
 }
-  
+
 /*
   * Site Header 
 */
 
 body.body-home {
-  max-width: 1920px; 
+  max-width: 1920px;
   margin: auto;
 }
 
 body.wrap-1920 > div {
   margin-left: auto;
   margin-right: auto;
-  background:white;
-  position:relative;
+  background: white;
+  position: relative;
 }
 
 nav {
-  height: 160px;
+  height: 130px;
   @include media-breakpoint-down(lg) {
     height: 90px;
+  }
+  @media only screen and (min-width: 1600px) {
+    height: 160px;
   }
   .logo {
     margin-top: 35px;
@@ -43,10 +45,28 @@ nav {
         width: 150px;
       }
     }
+    @media only screen and (min-width: 1200px) {
+      img {
+        width: 250px;
+        margin-left: 48px;
+      }
+    }
+    @media only screen and (min-width: 1600px) {
+      img {
+        width: 300px;
+        margin-left: 90px;
+      }
+    }
   }
   .navbar-nav {
     width: 100%;
+    padding-right: 40px;
+    @media only screen and (min-width: 1600px) {
+
+      padding-right: 70px;
+    }
   }
+
   .navbar-collapse {
     @include media-breakpoint-down(md) {
       background-color: white;
@@ -54,19 +74,24 @@ nav {
     }
   }
   .navbar-nav a {
-    margin-top: 35px;
+    margin-top: 22px;
     text-transform: uppercase;
-    color: #4AAB4F;
-    font-size: 28px; 
+    color: #4aab4f;
+    font-size: 22px;
     font-weight: Bold;
     font-family: "Century Gothic", "Muli", sans-serif;
+
+    @media only screen and (min-width: 1600px) {
+      font: normal normal bold 28px/34px Century Gothic;
+      letter-spacing: 0.03px;
+    }
     @include media-breakpoint-down(lg) {
       font-size: 18px;
       margin-top: 13px;
     }
-    &:hover { 
+    &:hover {
       text-decoration: none;
-      color: #B0D35C;
+      color: #b0d35c;
     }
   }
   .navbar-toggler-icon {
@@ -90,11 +115,11 @@ body.wrap-1920 {
 }
 .site-header a {
   text-transform: uppercase;
-  color: #4AAB4F;
-  font-size: 28px; 
+  color: #4aab4f;
+  font-size: 28px;
   font-weight: Bold;
   font-family: "century-gothic", "Muli", sans-serif;
-  margin-left:  83px;
+  margin-left: 83px;
 }
 .site-header a:hover {
   text-decoration: none;
@@ -124,27 +149,33 @@ th {
 */
 
 footer.site-footer {
-  //padding-bottom: 100px; 
+  //padding-bottom: 100px;
   margin-top: 100px;
   font-size: 28px;
   color: white;
   position: relative;
   overflow: hidden;
+  @media only screen and (min-width: 1400px) {
+    margin-top: 0px;
+  }
 
   .nav-container {
     max-width: 1685px;
     margin: auto;
+    padding: 0 15px;
     @media only screen and (min-width: 1400px) {
-      padding-top: 300px;
+      padding: 360px 70px 64px 100px;
     }
   }
 
-  a:hover {color: white;}
+  a:hover {
+    color: white;
+  }
   a {
     font-size: 20px;
     padding-top: 20px;
     color: white;
-    @include media-breakpoint-down(sm){
+    @include media-breakpoint-down(sm) {
       font-size: 18px;
       line-height: 1;
     }
@@ -152,30 +183,35 @@ footer.site-footer {
 
   h5 {
     display: inline;
-    font-size: 25px;
+    font-size: 24px;
     font-weight: bold;
-    border-bottom: 5px solid #B0D35C;
+    border-bottom: 5px solid #b0d35c;
     text-transform: uppercase;
     letter-spacing: 1px;
     padding-bottom: 10px;
-    @include media-breakpoint-down(sm){
+    @include media-breakpoint-down(sm) {
       font-size: 22px;
     }
   }
 
-  ul{
+  ul {
     padding-top: 15px;
 
     li {
-      padding-top:15px;
+      padding-top: 15px;
+      line-height: 27px;
     }
   }
 
   .icon {
     margin-top: 60px;
-    font-size: 62px;
+    font-size: 40px;
     font-weight: bold;
     color: white;
+    height: 140px;
+    @media only screen and (min-width: 1600px){
+      font-size: 52px;
+    }
     svg {
       vertical-align: bottom;
     }
@@ -184,7 +220,9 @@ footer.site-footer {
     }
   }
 
-  background: transparent linear-gradient(263deg, #B0D35C 0%, #4AAB4F 51%, #4AAB4F 100%) 0% 0% no-repeat padding-box;
+  background: transparent
+    linear-gradient(263deg, #b0d35c 0%, #4aab4f 51%, #4aab4f 100%) 0% 0%
+    no-repeat padding-box;
   @media only screen and (min-width: 1400px) {
     background: none;
   }
