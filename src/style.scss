@@ -172,18 +172,19 @@ footer.site-footer {
     color: white;
   }
   a {
-    font-size: 20px;
+    font-size: 18px;
     padding-top: 20px;
+    line-height: 1;
     color: white;
-    @include media-breakpoint-down(sm) {
-      font-size: 18px;
-      line-height: 1;
-    }
+    // @include media-breakpoint-down(sm) {
+    //   font-size: 18px;
+    //   line-height: 1;
+    // }
   }
 
   h5 {
     display: inline;
-    font-size: 24px;
+    font-size: 22px;
     font-weight: bold;
     border-bottom: 5px solid #b0d35c;
     text-transform: uppercase;

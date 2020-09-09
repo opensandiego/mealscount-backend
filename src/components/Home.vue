@@ -1,29 +1,40 @@
 <template>
   <section class="home">
-    <div
-      class="homepage-hero position-relative overflow-hidden"
-      v-bind:style="hero_style"
-    >
-      <div class="home-shadow">
-        <div class="overlay col-md-7 col-xl-6 p-lg-5 my-5 mx-lg-5 ">
-          <h1 class="display-4">Food for Students. Funds for Schools.</h1>
-          <hr />
-          <p class="lead">
-            Meals Count is a free tool to help school districts optimize their
-            Community Eligibility Provision (CEP) applications, maximize school
-            meal funding, and fight childhood hunger.
-          </p>
-          <router-link to="/faq" class="learn btn btn-outline-secondary"
-            >Learn More</router-link
-          >
-          <router-link
-            to="/explore"
-            class="find filled btn btn-outline-secondary"
-            >Find Your District</router-link
-          >
+    <div class="hero-container">
+      <div class="slider">
+        <figure>
+          <img
+            src="../assets/Hero_girl-desk.png"
+            alt="girl sitting at a desk"
+          />
+          <img src="../assets/homepage_hero.jpg" alt="food" />
+          <img src="../assets/Hero_kids-eating.png" alt="kids eating" />
+          <img src="../assets/homepage_hero2.jpg" alt="food zoomed-in" />
+        </figure>
+      </div>
+      <div class="homepage-hero overflow-hidden" v-bind:style="hero_style">
+        <div class="home-shadow">
+          <div class="overlay col-md-7 col-xl-6 p-lg-5 my-5 mx-lg-5 ">
+            <h1 class="display-4">Food for Students. Funds for Schools.</h1>
+            <hr />
+            <p class="lead">
+              Meals Count is a free tool to help school districts optimize their
+              Community Eligibility Provision (CEP) applications, maximize
+              school meal funding, and fight childhood hunger.
+            </p>
+            <router-link to="/faq" class="learn btn btn-outline-secondary"
+              >Learn More</router-link
+            >
+            <router-link
+              to="/explore"
+              class="find filled btn btn-outline-secondary"
+              >Find Your District</router-link
+            >
+          </div>
         </div>
       </div>
     </div>
+
     <div class="centered-background gray" v-bind:style="graybg1" />
     <div class="centered-background" v-bind:style="greenbg1" />
     <div class="home-cards home-container">
@@ -193,13 +204,12 @@ export default {
         recommendations: RECOMMENDATIONS_ICON,
       },
       worker_img: HOMEPAGE_WORKER,
-      hero_style: {
-        "background-image":
-          "linear-gradient(90deg, rgb(0, 0, 0, .5) 0%, rgba(31, 31, 31, 0.2) 70%, rgba(84, 84, 84, 0) 100%), url('" +
-          HOMEPAGE_HERO +
-          "')",
-        backgroundSize: "cover",
-      },
+      // Moved to scss
+      //hero_style: {
+      //  "background-image":
+      //    "linear-gradient(90deg, rgb(0, 0, 0, .5) 0%, rgba(31, 31, 31, 0.2) 70%, rgba(84, 84, 84, 0) 100%)",
+      //  backgroundSize: "cover",
+      //},
       greenbg1: {
         "background-image": "url('" + CENTER_GREEN_BG + "')",
       },
@@ -231,6 +241,69 @@ export default {
 </script>
 
 <style scoped lang="scss">
+.hero-container {
+  position: relative;
+}
+@keyframes slider {
+  0% {
+    left: 0;
+  }
+  30% {
+    left: 0;
+  }
+  35% {
+    left: -100%;
+  }
+  65% {
+    left: -100%;
+  }
+  70% {
+    left: -200%;
+  }
+  95% {
+    left: -200%;
+  }
+  100% {
+    left: -300%;
+  }
+}
+
+.slider {
+  display: none;
+  @media only screen and (min-width: 1370px) {
+    overflow: hidden;
+    display: block;
+  }
+}
+
+.homepage-hero,
+.slider {
+  @media only screen and (min-width: 1370px) {
+    height: 515px;
+  }
+  @media only screen and (min-width: 1600px) {
+    height: 590px;
+  }
+    @media only screen and (min-width: 1900px) {
+    height: 700px;
+  }
+}
+
+.slider figure img {
+  width: 25%;
+  float: left;
+}
+
+.slider figure {
+  @media only screen and (min-width: 1370px) {
+    position: relative;
+    width: 400%;
+    margin: 0;
+    left: 0;
+    animation: 20s slider forwards;
+    animation-iteration-count: 1;
+  }
+}
 .home {
   position: relative;
   overflow: hidden;
@@ -255,7 +328,7 @@ export default {
 
 .centered-background {
   position: absolute;
-  top: 550px;
+  top: 500px;
   width: 1930px;
   left: -3px;
   height: 100%;
@@ -267,7 +340,7 @@ export default {
 
 .centered-background.gray {
   width: 1499px;
-  top: 1217px;
+  top: 1240px;
   left: 424px;
   @media only screen and (min-width: 1600px) {
     top: 1467px;
@@ -283,21 +356,21 @@ p.lead,
 h1 {
   text-align: left;
   font-weight: bold;
-  font-size: 42px;
+  font-size: 40px;
   color: white;
   font-family: "century-gothic";
-  @media only screen and (min-width: 1600px) {
+  @media only screen and (min-width: 1900px) {
     font: normal normal bold 55px/65px Century Gothic;
   }
 }
 
 p.lead {
-  font-size: 20px;
+  font-size: 18px;
   font-weight: bold;
   clear: left;
-  margin-bottom: 45px;
-  padding-top: 25px;
-  @media only screen and (min-width: 1600px) {
+  margin-bottom: 38px;
+  padding-top: 23px;
+  @media only screen and (min-width: 1900px) {
     font: normal normal bold 24px/36px Century Gothic;
     margin-bottom: 55px;
   }
@@ -319,15 +392,15 @@ hr {
   border: 3px solid #f27c3e;
   border-radius: 31px;
   text-align: center;
-  font: Bold 19px/38px century-gothic;
+  font: Bold 17px/34px century-gothic;
   letter-spacing: 0.02px;
   color: #f27c3e;
   opacity: 1;
-  width: 210px;
+  width: 200px;
 }
 
 .btn.learn {
-  margin-right: 60px;
+  margin-right: 55px;
   &:hover {
     color: #ffffff;
     background: #f27c3e;
@@ -338,22 +411,40 @@ hr {
 }
 
 .homepage-hero .btn {
-  @media only screen and (max-width: 1200px) {
+  @media only screen and (max-width: 1000px) {
     display: block;
     margin: 20px auto;
-    width: 210px;
+    //width: 210px;
     /*font: Bold 20px/38px century-gothic;*/
   }
 }
+
 .homepage-hero {
   margin: 0px;
   z-index: 1;
+  top: 0;
+  position: relative;
+  background-image: linear-gradient(
+      90deg,
+      rgba(0, 0, 0, 0.5) 0%,
+      rgba(31, 31, 31, 0.2) 70%,
+      rgba(84, 84, 84, 0) 100%
+    ),
+    url("../assets/homepage_hero2.jpg");
+  background-size: cover;
 
-  @media only screen and (min-width: 1200px) {
-    height: 570px;
+  @media only screen and (min-width: 1370px) {
+    //height: 570px;
+    position: absolute;
+    background-image: linear-gradient(
+      90deg,
+      rgba(0, 0, 0, 0.5) 0%,
+      rgba(31, 31, 31, 0.2) 70%,
+      rgba(84, 84, 84, 0) 100%
+    );
   }
   @media only screen and (min-width: 1600px) {
-    height: 700px;
+    //height: 700px;
     padding: 40px;
   }
 }
@@ -477,7 +568,7 @@ hr {
     }
 
     @media only screen and (min-width: 1600px) {
-    width: 1350px;
+      width: 1350px;
     }
     @media only screen and (max-width: 1600px) {
       font-size: 22px;
