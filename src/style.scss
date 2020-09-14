@@ -101,6 +101,8 @@ nav {
 
 body.wrap-1920 {
   background: #ffffff;
+  max-width: 1920px;
+  margin: auto;
 }
 .site-header {
   height: 160px;
@@ -172,7 +174,7 @@ footer.site-footer {
     color: white;
   }
   a {
-    font-size: 18px;
+    font-size: 20px;
     padding-top: 20px;
     line-height: 1;
     color: white;

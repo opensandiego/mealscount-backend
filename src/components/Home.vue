@@ -14,8 +14,8 @@
       </div>
       <div class="homepage-hero overflow-hidden" v-bind:style="hero_style">
         <div class="home-shadow">
-          <div class="overlay col-md-7 col-xl-6 p-lg-5 my-5 mx-lg-5 ">
-            <h1 class="display-4">Food for Students. Funds for Schools.</h1>
+          <div class="overlay col-md-7 col-xl-6 p-lg-4 my-5 mx-lg-5 ">
+            <h1 class="display-4">Food for Students. <span>Funds for Schools.</span></h1>
             <hr />
             <p class="lead">
               Meals Count is a free tool to help school districts optimize their
@@ -129,7 +129,9 @@
           </p>
 
           <p>
-            <router-link to="/faq">Learn more</router-link>
+            <router-link to="/faq" style="text-decoration: underline;"
+              >Learn more</router-link
+            >
           </p>
         </div>
         <div class="col-12 col-md-6">
@@ -191,7 +193,7 @@ import HOMEPAGE_WORKER from "../assets/Image_worker-food.png";
 import LOCATE_ICON from "../assets/locate-icon.svg";
 import INPUTDATA_ICON from "../assets/inputdata-icon.svg";
 import RECOMMENDATIONS_ICON from "../assets/recommendations-icon.svg";
-import CENTER_GREEN_BG from "../assets/gradient-swooper.svg";
+import CENTER_GREEN_BG from "../assets/green-diagonal-background.png";
 import CENTER_GRAY_BG from "../assets/center-gray.svg";
 
 export default {
@@ -284,7 +286,7 @@ export default {
   @media only screen and (min-width: 1600px) {
     height: 590px;
   }
-    @media only screen and (min-width: 1900px) {
+  @media only screen and (min-width: 1900px) {
     height: 700px;
   }
 }
@@ -300,7 +302,7 @@ export default {
     width: 400%;
     margin: 0;
     left: 0;
-    animation: 20s slider forwards;
+    animation: 15s slider forwards;
     animation-iteration-count: 1;
   }
 }
@@ -328,27 +330,36 @@ export default {
 
 .centered-background {
   position: absolute;
-  top: 500px;
+  //top: px;
   width: 1930px;
   left: -3px;
   height: 100%;
   background-repeat: no-repeat;
+  @media only screen and (min-width: 500px) {
+    top: 505px;
+  }
   @media only screen and (min-width: 1600px) {
-    top: 800px;
+    top: 650px;
+  }
+  @media only screen and (min-width: 1900px) {
+    top: 795px;
   }
 }
 
 .centered-background.gray {
   width: 1499px;
-  top: 1240px;
+  top: 1122px;
   left: 424px;
   @media only screen and (min-width: 1600px) {
-    top: 1467px;
+    top: 1220px;
+  }
+  @media only screen and (min-width: 1900px) {
+    top: 1320px;
   }
 }
 
 section {
-  color: white;
+  //color: white;
   text-align: left;
 }
 
@@ -364,8 +375,12 @@ h1 {
   }
 }
 
+h1 span {
+  display: block;
+}
+
 p.lead {
-  font-size: 18px;
+  font-size: 22px;
   font-weight: bold;
   clear: left;
   margin-bottom: 38px;
@@ -397,6 +412,10 @@ hr {
   color: #f27c3e;
   opacity: 1;
   width: 200px;
+  @media only screen and (min-width: 1900px) {
+    font: normal normal bold 22px/50px Century Gothic;
+    width: 246px;
+  }
 }
 
 .btn.learn {
@@ -458,14 +477,15 @@ hr {
 }
 .fancy-rule {
   border: 3px solid #b0d35c;
-  margin-bottom: 102px;
+  margin-bottom: 70px;
   width: 120px;
 }
 
 .home-cards {
   text-align: center;
   color: black;
-  margin: 100px auto;
+  margin: 120px auto;
+  padding: 0 15px;
 
   .cards-container {
     @media only screen and (min-width: 1000px) {
@@ -521,43 +541,45 @@ hr {
     font-size: 28px;
     font-weight: bold;
     @media only screen and (max-width: 1600px) {
-      font-size: 24px;
+      font-size: 22px;
     }
   }
 
   h2 {
-    font-size: 35px;
+    font-size: 32px;
     @media only screen and (min-width: 1600px) {
       font-size: 45px;
     }
   }
   .why-group {
     margin-top: 31px;
+    text-decoration: underline;
     font-size: 20px;
     @media only screen and (min-width: 1600px) {
       font-size: 24px;
     }
-    a {
-      color: white;
-      text-decoration: underline;
+    @media only screen and (min-width: 1000px) {
+      a {
+        color: white;
+      }
     }
   }
   .get-started {
     margin-top: 72px;
-    margin-bottom: 207px;
+    //margin-bottom: 207px;
   }
 }
 
 .what-is-cep-block {
   h2 {
     text-align: center;
-    font-size: 35px;
+    font-size: 32px;
     @media only screen and (min-width: 1600px) {
       font-size: 45px;
     }
   }
   .content-row {
-    margin: 0px 0px 268px 0px;
+    margin: 8px 0px 120px 0px;
     font-size: 31px;
     width: 100%;
     @media only screen and (min-width: 1200px) {
@@ -581,8 +603,11 @@ hr {
 
 .support-block {
   color: black;
+  margin-bottom: 100px;
+  padding: 0 15px;
   h2 {
-    font-size: 35px;
+    font-size: 32px;
+    margin-bottom: 50px;
     @media only screen and (min-width: 1600px) {
       font-size: 45px;
     }
@@ -595,6 +620,16 @@ hr {
     flex-direction: column;
     /* justify-content: center; */
     align-items: center;
+  }
+}
+
+.newsletter-block {
+  padding: 0 15px;
+  h2 {
+    margin-bottom: 70px;
+    @media only screen and (min-width: 1600px) {
+      font-size: 45px;
+    }
   }
 }
 </style>
