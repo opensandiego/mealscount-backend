@@ -4,12 +4,12 @@
       <div class="slider">
         <figure>
           <img
-            src="../assets/Hero_girl-desk.png"
+            v-bind:src="heros.girldesk"
             alt="girl sitting at a desk"
           />
-          <img src="../assets/homepage_hero.jpg" alt="food" />
-          <img src="../assets/Hero_kids-eating.png" alt="kids eating" />
-          <img src="../assets/homepage_hero2.jpg" alt="food zoomed-in" />
+          <img v-bind:src="heros.hero1" alt="food" />
+          <img v-bind:src="heros.kidseating" alt="kids eating" />
+          <img v-bind:src="heros.hero2" alt="food zoomed-in" />
         </figure>
       </div>
       <div class="homepage-hero overflow-hidden" v-bind:style="hero_style">
@@ -163,7 +163,6 @@
       </div>
     </div>
 
-    <div>
       <div class="newsletter-block home-container text-center">
         <div class="row">
           <h2 class="col-12 display-5">
@@ -200,13 +199,17 @@
 import CFPALogo from "../assets/cfpalogo.png";
 import OPENSD from "../assets/openSD.jpeg";
 import HUNGER from "../assets/hunger.jpg";
-import HOMEPAGE_HERO from "../assets/homepage_hero2.jpg";
+import HOMEPAGE_HERO from "../assets/homepage_hero.jpg";
 import HOMEPAGE_WORKER from "../assets/Image_worker-food.png";
 import LOCATE_ICON from "../assets/locate-icon.svg";
 import INPUTDATA_ICON from "../assets/inputdata-icon.svg";
 import RECOMMENDATIONS_ICON from "../assets/recommendations-icon.svg";
 import CENTER_GREEN_BG from "../assets/green-diagonal-background.png";
 import CENTER_GRAY_BG from "../assets/center-gray.svg";
+import HERO_GIRL_DESK from "../assets/Hero_girl-desk.png";
+import HERO_KIDS_EATING from "../assets/Hero_kids-eating.png";
+import HOMEPAGE_HERO2 from "../assets/homepage_hero2.jpg";
+
 
 export default {
   data() {
@@ -218,6 +221,12 @@ export default {
         recommendations: RECOMMENDATIONS_ICON,
       },
       worker_img: HOMEPAGE_WORKER,
+      heros:{
+        hero1: HOMEPAGE_HERO,
+        hero2: HOMEPAGE_HERO2,
+        girldesk: HERO_GIRL_DESK,
+        kidseating: HERO_KIDS_EATING,
+      },
       // Moved to scss
       //hero_style: {
       //  "background-image":
