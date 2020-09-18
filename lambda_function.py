@@ -11,6 +11,7 @@ import base64
 
 import boto3,botocore
 
+<<<<<<< HEAD
 print("## ENV ## ",os.environ)
 if "SENTRY_DSN" in os.environ:
     import sentry_sdk
@@ -21,6 +22,8 @@ if "SENTRY_DSN" in os.environ:
         integrations=[AwsLambdaIntegration(timeout_warning=True)]
     )
 
+=======
+>>>>>>> nancy/newResponsive
 def lambda_handler(event, context, local_output=False):
     print(boto3.__version__)
     print(botocore.__version__)
