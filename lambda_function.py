@@ -11,6 +11,16 @@ import base64
 
 import boto3,botocore
 
+print("## ENV ## ",os.environ)
+if "SENTRY_DSN" in os.environ:
+    import sentry_sdk
+    from sentry_sdk.integrations.aws_lambda import AwsLambdaIntegration
+    print("initializing sentry dsn with ",os.environ["SENTRY_DSN"])
+    sentry_sdk.init(
+        dsn=os.environ["SENTRY_DSN"],
+        integrations=[AwsLambdaIntegration(timeout_warning=True)]
+    )
+
 def lambda_handler(event, context, local_output=False):
     print(boto3.__version__)
     print(botocore.__version__)

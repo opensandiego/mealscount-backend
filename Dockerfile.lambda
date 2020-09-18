@@ -10,7 +10,8 @@ ENV AWS_DEFAULT_REGION us-west-1
 COPY *.py ./
 COPY strategies ./strategies
 COPY base_requirements.txt .
-RUN pip3 install -r base_requirements.txt --target .
+COPY lambda_requirements.txt .
+RUN pip3 install -r lambda_requirements.txt --target .
 RUN zip -9yr function.zip .
 
 CMD aws s3 cp ./function.zip s3://mealscount-results/function.zip && aws lambda update-function-code --function-name mealscount-optimize --s3-bucket mealscount-results --s3-key function.zip 

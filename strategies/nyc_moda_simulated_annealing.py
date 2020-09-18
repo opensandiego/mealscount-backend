@@ -58,10 +58,12 @@ class NYCMODASimulatedAnnealingCEPStrategy(BaseCEPStrategy):
 
         def random_start(district,ngroups=None):
             if not ngroups:
-                ngroups = randint(2,len(district.schools)-1)
-            groups = [CEPGroup(district,"Group %i" % i,[]) for i in range(ngroups)]
+                ng = randint(2,len(district.schools)-1)
+            else:
+                ng = randint(2,ngroups)
+            groups = [CEPGroup(district,"Group %i" % i,[]) for i in range(ng)]
             for s in district.schools:
-                groups[randint(0,ngroups-1)].schools.append(s)
+                groups[randint(0,ng-1)].schools.append(s)
             for g in groups: g.calculate() 
 
             # prune empty groups. assignment is random
