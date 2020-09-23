@@ -21,13 +21,13 @@
               Community Eligibility Provision (CEP) applications, maximize
               school meal funding, and fight childhood hunger.
             </p>
-            <router-link to="/faq" class="learn btn btn-outline-secondary"
-              >Learn More</router-link
-            >
             <router-link
               to="/explore"
               class="find filled btn btn-outline-secondary"
               >Find Your District</router-link
+            >
+            <router-link to="/faq" class="learn btn btn-outline-secondary"
+              >Learn More</router-link
             >
           </div>
         </div>
@@ -303,9 +303,6 @@ export default {
   @media only screen and (min-width: 1600px) {
     height: 590px;
   }
-  @media only screen and (min-width: 1900px) {
-    //height: 700px;
-  }
 }
 
 .slider figure img {
@@ -358,9 +355,6 @@ export default {
   @media only screen and (min-width: 1600px) {
     top: 600px;
   }
-  @media only screen and (min-width: 1900px) {
-    //top: 795px;
-  }
 }
 
 .centered-background.gray {
@@ -369,9 +363,6 @@ export default {
   left: 424px;
   @media only screen and (min-width: 1600px) {
     top: 1175px;
-  }
-  @media only screen and (min-width: 1900px) {
-    //top: 1320px;
   }
 }
 
@@ -387,9 +378,6 @@ h1 {
   font-size: 40px;
   color: white;
   font-family: "century-gothic";
-  @media only screen and (min-width: 1900px) {
-    //font: normal normal bold 55px/65px Century Gothic;
-  }
 }
 
 h1 span {
@@ -402,10 +390,6 @@ p.lead {
   clear: left;
   margin-bottom: 38px;
   padding-top: 23px;
-  @media only screen and (min-width: 1900px) {
-    //font: normal normal bold 24px/36px Century Gothic;
-    //margin-bottom: 55px;
-  }
 }
 
 div.active-development.alert {
@@ -429,21 +413,17 @@ hr {
   color: #f27c3e;
   opacity: 1;
   width: 200px;
-  @media only screen and (min-width: 1900px) {
-    //font: normal normal bold 22px/50px Century Gothic;
-    //width: 246px;
-  }
 }
 
 .btn.learn {
-  margin-right: 55px;
+  margin-right: 0px;
   &:hover {
     color: #ffffff;
     background: #f27c3e;
   }
 }
 .btn.find {
-  margin-right: 0px;
+  margin-right: 55px;
 }
 
 .homepage-hero .btn {
@@ -473,7 +453,6 @@ hr {
     ),
     url("../assets/homepage_hero2.jpg");
   background-size: cover;
-////// 09/21/2020 
   top: 0;
   left: 0;
   right: 0;
@@ -523,7 +502,7 @@ hr {
     @media only screen and (min-width: 1600px) {
       justify-content: space-between;
       width: 1200px;
-    margin: auto;
+      margin: auto;
     }
   }
 
@@ -533,8 +512,7 @@ hr {
   }
 
   .card {
-    //height: 442px;
-    //width: 385px;
+
     width: 300px;
     height: 400px;
     box-shadow: 0px 10px 16px #00000064;
