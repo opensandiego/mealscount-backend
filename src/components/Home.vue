@@ -3,10 +3,7 @@
     <div class="hero-container">
       <div class="slider">
         <figure>
-          <img
-            v-bind:src="heros.girldesk"
-            alt="girl sitting at a desk"
-          />
+          <img v-bind:src="heros.girldesk" alt="girl sitting at a desk" />
           <img v-bind:src="heros.hero1" alt="food" />
           <img v-bind:src="heros.kidseating" alt="kids eating" />
           <img v-bind:src="heros.hero2" alt="food zoomed-in" />
@@ -15,20 +12,22 @@
       <div class="homepage-hero overflow-hidden" v-bind:style="hero_style">
         <div class="home-shadow">
           <div class="overlay col-md-7 col-xl-6 p-lg-4 my-5 mx-lg-5 ">
-            <h1 class="display-4">Food for Students. <span>Funds for Schools.</span></h1>
+            <h1 class="display-4">
+              Food for Students. <span>Funds for Schools.</span>
+            </h1>
             <hr />
             <p class="lead">
               Meals Count is a free tool to help school districts optimize their
               Community Eligibility Provision (CEP) applications, maximize
               school meal funding, and fight childhood hunger.
             </p>
-            <router-link to="/faq" class="learn btn btn-outline-secondary"
-              >Learn More</router-link
-            >
             <router-link
               to="/explore"
               class="find filled btn btn-outline-secondary"
               >Find Your District</router-link
+            >
+            <router-link to="/faq" class="learn btn btn-outline-secondary"
+              >Learn More</router-link
             >
           </div>
         </div>
@@ -163,23 +162,21 @@
       </div>
     </div>
 
-      <div class="newsletter-block home-container text-center">
-        <div class="row">
-          <h2 class="col-12 display-5">
-            Hear About Updates, Events, and New Features
-          </h2>
-        </div>
-        <div class="row">
-          <div class="col-12 text-center">
-            <router-link
-              to="newsletter/"
-              class="btn btn-primary outlined filled"
-              >Sign Up For Our Newsletter</router-link
-            >
-          </div>
+    <div class="newsletter-block home-container text-center">
+      <div class="row">
+        <h2 class="col-12 display-5">
+          Hear About Updates, Events, and New Features
+        </h2>
+      </div>
+      <div class="row">
+        <div class="col-12 text-center">
+          <router-link to="newsletter/" class="btn btn-primary outlined filled"
+            >Sign Up For Our Newsletter</router-link
+          >
         </div>
       </div>
-
+    </div>
+    <!-- 
       <div>
         <div class="newsletter-block home-container text-center">
           <div class="row">
@@ -191,8 +188,8 @@
             </div>
           </div>
         </div>
-      </div>
-    </section>
+      </div> -->
+  </section>
 </template>
 
 <script>
@@ -210,7 +207,6 @@ import HERO_GIRL_DESK from "../assets/Hero_girl-desk.png";
 import HERO_KIDS_EATING from "../assets/Hero_kids-eating.png";
 import HOMEPAGE_HERO2 from "../assets/homepage_hero2.jpg";
 
-
 export default {
   data() {
     return {
@@ -221,7 +217,7 @@ export default {
         recommendations: RECOMMENDATIONS_ICON,
       },
       worker_img: HOMEPAGE_WORKER,
-      heros:{
+      heros: {
         hero1: HOMEPAGE_HERO,
         hero2: HOMEPAGE_HERO2,
         girldesk: HERO_GIRL_DESK,
@@ -307,9 +303,6 @@ export default {
   @media only screen and (min-width: 1600px) {
     height: 590px;
   }
-  @media only screen and (min-width: 1900px) {
-    height: 700px;
-  }
 }
 
 .slider figure img {
@@ -360,10 +353,7 @@ export default {
     top: 505px;
   }
   @media only screen and (min-width: 1600px) {
-    top: 650px;
-  }
-  @media only screen and (min-width: 1900px) {
-    top: 795px;
+    top: 600px;
   }
 }
 
@@ -372,10 +362,7 @@ export default {
   top: 1122px;
   left: 424px;
   @media only screen and (min-width: 1600px) {
-    top: 1220px;
-  }
-  @media only screen and (min-width: 1900px) {
-    top: 1320px;
+    top: 1175px;
   }
 }
 
@@ -391,9 +378,6 @@ h1 {
   font-size: 40px;
   color: white;
   font-family: "century-gothic";
-  @media only screen and (min-width: 1900px) {
-    font: normal normal bold 55px/65px Century Gothic;
-  }
 }
 
 h1 span {
@@ -406,10 +390,6 @@ p.lead {
   clear: left;
   margin-bottom: 38px;
   padding-top: 23px;
-  @media only screen and (min-width: 1900px) {
-    font: normal normal bold 24px/36px Century Gothic;
-    margin-bottom: 55px;
-  }
 }
 
 div.active-development.alert {
@@ -433,21 +413,17 @@ hr {
   color: #f27c3e;
   opacity: 1;
   width: 200px;
-  @media only screen and (min-width: 1900px) {
-    font: normal normal bold 22px/50px Century Gothic;
-    width: 246px;
-  }
 }
 
 .btn.learn {
-  margin-right: 55px;
+  margin-right: 0px;
   &:hover {
     color: #ffffff;
     background: #f27c3e;
   }
 }
 .btn.find {
-  margin-right: 0px;
+  margin-right: 55px;
 }
 
 .homepage-hero .btn {
@@ -457,6 +433,11 @@ hr {
     //width: 210px;
     /*font: Bold 20px/38px century-gothic;*/
   }
+}
+
+.home-shadow {
+  max-width: 1600px;
+  margin: auto;
 }
 
 .homepage-hero {
@@ -472,6 +453,11 @@ hr {
     ),
     url("../assets/homepage_hero2.jpg");
   background-size: cover;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
 
   @media only screen and (min-width: 1370px) {
     //height: 570px;
@@ -515,6 +501,8 @@ hr {
     }
     @media only screen and (min-width: 1600px) {
       justify-content: space-between;
+      width: 1200px;
+      margin: auto;
     }
   }
 
@@ -524,28 +512,29 @@ hr {
   }
 
   .card {
-    height: 442px;
-    width: 385px;
+
+    width: 300px;
+    height: 400px;
     box-shadow: 0px 10px 16px #00000064;
     /* need to pull this from bootstrap */
-    @media only screen and (max-width: 1600px) {
-      width: 300px;
-      height: 400px;
-    }
+    //@media only screen and (max-width: 1600px) {
+    //  width: 300px;
+    //  height: 400px;
+    //}
   }
   .card-body {
     margin: auto;
     text-align: center;
-    font-size: 24px;
+    font-size: 20px;
     img {
       position: absolute;
-      bottom: 70px;
-      left: 130px;
+      bottom: 50px;
+      left: 86px;
     }
     p {
-      padding: 0 35px;
+      padding: 0 15px;
     }
-    @media only screen and (max-width: 1600px) {
+    /*@media only screen and (max-width: 1600px) {
       font-size: 20px;
       img {
         left: 85px;
@@ -554,22 +543,23 @@ hr {
       p {
         padding: 0 15px;
       }
-    }
+    } */
   }
   .card-title {
     margin-top: 17px;
     margin-bottom: 30px;
-    font-size: 28px;
+    font-size: 22px;
+    //font-size: 28px;
     font-weight: bold;
-    @media only screen and (max-width: 1600px) {
+    /*@media only screen and (max-width: 1600px) {
       font-size: 22px;
-    }
+    }*/
   }
 
   h2 {
     font-size: 32px;
     @media only screen and (min-width: 1600px) {
-      font-size: 45px;
+      //font-size: 45px;
     }
   }
   .why-group {
@@ -577,7 +567,7 @@ hr {
     text-decoration: underline;
     font-size: 20px;
     @media only screen and (min-width: 1600px) {
-      font-size: 24px;
+      //font-size: 24px;
     }
     @media only screen and (min-width: 1000px) {
       a {
@@ -596,14 +586,15 @@ hr {
     text-align: center;
     font-size: 32px;
     @media only screen and (min-width: 1600px) {
-      font-size: 45px;
+      //font-size: 45px;
     }
   }
   .content-row {
-    margin: 8px 0px 120px 0px;
-    font-size: 31px;
-    width: 100%;
-    @media only screen and (min-width: 1200px) {
+    margin: 8px auto 120px auto;
+    //font-size: 31px;
+    font-size: 22px;
+    //width: 100%;
+    @media only screen and (min-width: 1060px) {
       width: 1050px;
       & > div {
         padding-right: 40px;
@@ -611,10 +602,10 @@ hr {
     }
 
     @media only screen and (min-width: 1600px) {
-      width: 1350px;
+      //width: 1350px;
     }
     @media only screen and (max-width: 1600px) {
-      font-size: 22px;
+      //font-size: 22px;
     }
   }
   img {
@@ -630,7 +621,7 @@ hr {
     font-size: 32px;
     margin-bottom: 50px;
     @media only screen and (min-width: 1600px) {
-      font-size: 45px;
+      //font-size: 45px;
     }
   }
 }
@@ -649,7 +640,7 @@ hr {
   h2 {
     margin-bottom: 70px;
     @media only screen and (min-width: 1600px) {
-      font-size: 45px;
+      //font-size: 45px;
     }
   }
 }
