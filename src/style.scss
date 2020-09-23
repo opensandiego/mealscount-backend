@@ -53,7 +53,7 @@ nav {
     }
     @media only screen and (min-width: 1600px) {
       img {
-        width: 300px;
+        // width: 300px;
         margin-left: 90px;
       }
     }
@@ -74,16 +74,16 @@ nav {
     }
   }
   .navbar-nav a {
-    margin-top: 22px;
-    text-transform: uppercase;
+    margin-top: 20px;
+    // text-transform: uppercase;
     color: #4aab4f;
     font-size: 22px;
     font-weight: Bold;
     font-family: "Century Gothic", "Muli", sans-serif;
 
     @media only screen and (min-width: 1600px) {
-      font: normal normal bold 28px/34px Century Gothic;
-      letter-spacing: 0.03px;
+      // font: normal normal bold 28px/34px Century Gothic;
+      // letter-spacing: 0.03px;
     }
     @include media-breakpoint-down(lg) {
       font-size: 18px;

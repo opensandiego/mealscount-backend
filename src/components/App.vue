@@ -71,9 +71,6 @@
               <li>
                 <router-link to="/help">Help</router-link>
               </li>
-              <li>
-                <router-link to="/help">Help</router-link>
-              </li>
             </ul>
           </div>
           <div class="col-6 col-md">
