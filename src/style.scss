@@ -78,7 +78,8 @@ nav {
     color: #4aab4f;
     font-size: 22px;
     font-weight: Bold;
-    font-family: "Century Gothic", "Muli", sans-serif;
+    // font-family: "Century Gothic", "Muli", sans-serif;
+    letter-spacing: 0.3px;
 
     @include media-breakpoint-down(lg) {
       font-size: 18px;
@@ -183,7 +184,7 @@ footer.site-footer {
     display: inline;
     font-size: 22px;
     font-weight: bold;
-    border-bottom: 5px solid #b0d35c;
+    border-bottom: 4px solid #b0d35c;
     text-transform: uppercase;
     letter-spacing: 1px;
     padding-bottom: 10px;
