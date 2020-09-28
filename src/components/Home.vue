@@ -15,7 +15,8 @@
             <h1 class="display-4">
               Food for Students. <span>Funds for Schools.</span>
             </h1>
-            <hr />
+            <!-- <hr /> -->
+            <img class="fancyw" v-bind:src="fancyw" alt="green line" />
             <p class="lead">
               Meals Count is a free tool to help school districts optimize their
               Community Eligibility Provision (CEP) applications, maximize
@@ -39,7 +40,8 @@
     <div class="home-cards home-container">
       <div class="row">
         <h2 class="col-12 display-5">How Does Meals Count Work?</h2>
-        <hr class="fancy-rule" />
+        <!--<hr class="fancy-rule" />-->
+        <img class="fancyline" v-bind:src="fancyline" alt="green line" />
       </div>
 
       <div class="cards-container">
@@ -110,7 +112,8 @@
     <div class="what-is-cep-block home-container">
       <div class="row">
         <h2 class="col-12">What Is CEP?</h2>
-        <hr class="fancy-rule" />
+        <!-- <hr class="fancy-rule" /> -->
+        <img class="fancyline" v-bind:src="fancyline" alt="green line" />
       </div>
       <div class="row content-row">
         <div class="col-12 col-md-6 ">
@@ -206,6 +209,8 @@ import CENTER_GRAY_BG from "../assets/center-gray.svg";
 import HERO_GIRL_DESK from "../assets/Hero_girl-desk.png";
 import HERO_KIDS_EATING from "../assets/Hero_kids-eating.png";
 import HOMEPAGE_HERO2 from "../assets/homepage_hero2.jpg";
+import FANCYLINE from "../assets/green-underline.png";
+import FANCYW from "../assets/white-line-underline.png"
 
 export default {
   data() {
@@ -235,6 +240,8 @@ export default {
       graybg1: {
         "background-image": "url('" + CENTER_GRAY_BG + "')",
       },
+      fancyline: FANCYLINE,
+      fancyw: FANCYW
     };
   },
   // From: https://forum.vuejs.org/t/how-do-i-add-remove-classes-to-body/1219/12
@@ -396,11 +403,24 @@ div.active-development.alert {
   display: none;
 }
 
-hr {
-  display: block;
+//hr {
+//  display: block;
+//  float: left;
+//  border-top: 4px solid white;
+//  width: 109px;
+//}
+
+.fancyw {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
   float: left;
-  border-top: 4px solid white;
-  width: 109px;
+  display: block;
+}
+
+.fancyline {
+  margin: auto;
+  margin-bottom: 70px;
+  margin-top: 15px;
 }
 
 .btn {
@@ -512,7 +532,6 @@ hr {
   }
 
   .card {
-
     width: 300px;
     height: 400px;
     box-shadow: 0px 10px 16px #00000064;
@@ -558,17 +577,12 @@ hr {
 
   h2 {
     font-size: 32px;
-    @media only screen and (min-width: 1600px) {
-      //font-size: 45px;
-    }
   }
   .why-group {
     margin-top: 31px;
     text-decoration: underline;
     font-size: 20px;
-    @media only screen and (min-width: 1600px) {
-      //font-size: 24px;
-    }
+
     @media only screen and (min-width: 1000px) {
       a {
         color: white;
@@ -585,9 +599,6 @@ hr {
   h2 {
     text-align: center;
     font-size: 32px;
-    @media only screen and (min-width: 1600px) {
-      //font-size: 45px;
-    }
   }
   .content-row {
     margin: 8px auto 120px auto;
@@ -607,9 +618,9 @@ hr {
     @media only screen and (max-width: 1600px) {
       //font-size: 22px;
     }
-  }
-  img {
-    width: 100%;
+    img {
+      width: 100%;
+    }
   }
 }
 
