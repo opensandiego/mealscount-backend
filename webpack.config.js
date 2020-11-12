@@ -59,6 +59,7 @@ module.exports = {
       title: 'Output Management',
       template: 'src/index.html',
       inject: true,
+      favicon: 'src/assets/favicon.png',
     }),
   ],
   devServer: {
