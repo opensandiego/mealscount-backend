@@ -74,16 +74,7 @@ components: {
                 .data(topojson.feature(usa_topojson, usa_topojson.objects.states).features)
                 .enter().append("path")
                   .attr("d", path)
-                  .attr("fill", d => {
-                       const state = us.lookup(d.id)     
-                       if (this.statedata[state.abbr.toLowerCase()]){
-                           return "#4AAB4F"
-                       }else{
-                           return "gray"
-                       }
-                  }
-
-                  )
+                  .attr("fill", "#4AAB4F")
                   .attr("name", d=> d.name)
                   .on("click", d => {
                             d3.select("#tooltip").style("opacity",0);
