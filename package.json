@@ -6,7 +6,7 @@
     "watch": "webpack --watch",
     "build": "webpack",
     "generate_dist": "./generate_state_json.sh",
-    "post-install": "webpack && npm run generate_dist",
+    "postinstall": "npm run generate_dist",
     "local_dev": "concurrently \"npm run watch\" \"FLASK_ENV=development venv/bin/python server.py\"",
     "docker_dev": "concurrently \"npm run watch\" \"gunicorn server:app\"",
     "start": "webpack-dev-server --config ./webpack.config.js --mode development",
