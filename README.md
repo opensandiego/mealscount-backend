@@ -15,7 +15,7 @@ We are still in the process of understanding how to best to deliver and facilita
 
 # MealsCount Anatomy
 
-The current iteration of MealsCount is centered on the "validate" branch (where you are now), and centered on the python classes in the module "strategies", as well as a web frontend for browsing.
+The current iteration of MealsCount is centered on the "main" branch (where you are now), and centered on the python classes in the module "strategies", as well as a web frontend for browsing.
 
 The python toolset can either be run from the example Jupyter notebook, the command line tool "cep_estimatory.py" script, or via a REST API from the server.py flask app.
 
