@@ -1,0 +1,2481 @@
+state,District Code,District Name,School Code,School Name,individual_isp,proxy_isp,participating_in_cep,claiming_isp,total_enrolled,total_eligible
+wi,518110,21st Century Preparatory School,100,21st Century Preparatory Schoo,57.69%,,Y,57.69%,520,300
+wi,100007,Abbotsford School District,20,Abbotsford Elementary,44.77%,*,N,,373,167
+wi,100007,Abbotsford School District,40,Abbotsford Jr. and Sr. High,31.68%,*,N,,382,121
+wi,409870,Academy of Excellence,854,ACADEMY OF EXCELLENCE North,87.35%,,Y,81.62%,332,290
+wi,409870,Academy of Excellence,1652,ACADEMY OF EXCELLENCE South,76.44%,,Y,81.62%,331,253
+wi,409870,Academy of Excellence,853,ACADEMY OF EXCELLENCE WL,80.16%,,Y,81.62%,126,101
+wi,401745,"Achieving Educational Excellence, Inc.",1745,St. Augustine Preparatory Acad,72.46%,,Y,72.46%,581,421
+wi,10014,Adams-Friendship School District,130,Adams-Friendship Elementary,57.21%,,Y,58.87%,444,254
+wi,10014,Adams-Friendship School District,40,Adams-Friendship High School,47.71%,,N,,,
+wi,10014,Adams-Friendship School District,210,Adams-Friendship Middle School,54.72%,,Y,58.87%,466,255
+wi,10014,Adams-Friendship School District,140,Grand Marsh Elementary School,78.26%,,Y,58.87%,138,108
+wi,230063,Albany School District,20,Albany El,28.57%,*,N,,175,50
+wi,230063,Albany School District,40,Albany Hi,20.30%,*,N,,133,27
+wi,230063,Albany School District,60,Albany Mid,17.81%,*,N,,73,13
+wi,310070,Algoma School District,20,Algoma El,37.66%,*,N,,393,148
+wi,310070,Algoma School District,40,Algoma Jr/Sr High School,28.62%,*,N,,325,93
+wi,305370,All Saints Catholic School,562,All Saints North,14.21%,*,N,,,
+wi,305370,All Saints Catholic School,1624,All Saints South,8.76%,*,N,,,
+wi,347552,All Saints Catholic School,4700,All Saints Catholic School-St. John site,8.46%,*,N,,201,17
+wi,57006,All Saints School,1294,All Saints Grade School,8.89%,*,N,,45,4
+wi,270091,Alma Center School District,80,Lincoln El,46.80%,*,N,,359,168
+wi,270091,Alma Center School District,60,Lincoln Hi,37.58%,*,N,,157,59
+wi,270091,Alma Center School District,70,Lincoln Jr,42.05%,*,N,,88,37
+wi,60084,Alma School District,20,Alma El,29.59%,*,N,,169,50
+wi,60084,Alma School District,40,Alma Hi,17.72%,*,N,,79,14
+wi,490105,Almond-Bancroft School District,20,Almond-Bancroft Elementary,36.72%,*,N,,177,65
+wi,490105,Almond-Bancroft School District,40,Almond-Bancroft High School,31.67%,*,N,,120,38
+wi,490105,Almond-Bancroft School District,250,Almond-Bancroft Middle School,38.27%,*,N,,81,31
+wi,180112,Altoona School District,80,Altoona Elementary School,30.60%,*,N,,464,142
+wi,180112,Altoona School District,40,Altoona Hi,22.33%,*,N,,430,96
+wi,180112,Altoona School District,100,ALTOONA INTERMEDIATE,29.81%,*,N,,265,79
+wi,180112,Altoona School District,60,Altoona Mid,28.21%,*,N,,358,101
+wi,480119,Amery School District,40,Amery High School,21.34%,*,N,,,
+wi,480119,Amery School District,50,Amery Intermediate,31.29%,*,N,,294,92
+wi,480119,Amery School District,60,Amery Middle,25.27%,*,N,,,
+wi,480119,Amery School District,20,Lien Elementary,32.70%,*,N,,419,137
+wi,340140,Antigo Unified School District,70,Antigo Hi,33.64%,*,N,,758,255
+wi,340140,Antigo Unified School District,50,Antigo Mid,42.80%,*,N,,486,208
+wi,340140,Antigo Unified School District,80,Crestwood El,40.87%,*,N,,115,47
+wi,340140,Antigo Unified School District,100,East El,57.72%,*,N,,123,71
+wi,340140,Antigo Unified School District,180,North El,73.24%,*,N,,142,104
+wi,340140,Antigo Unified School District,200,Pleasant View El,44.02%,*,N,,259,114
+wi,340140,Antigo Unified School District,9100,Rural Virtual Acadamy,45.24%,*,N,,42,19
+wi,340140,Antigo Unified School District,260,Spring Valley El,35.14%,*,N,,111,39
+wi,340140,Antigo Unified School District,280,West El,68.42%,*,N,,209,143
+wi,440147,Appleton Area School District,155,Appleton Bilingual School,24.43%,*,N,,176,43
+wi,440147,Appleton Area School District,165,Appleton Community 4K,34.51%,*,N,,936,323
+wi,440147,Appleton Area School District,440,Appleton eSchool,12.72%,*,N,,393,50
+wi,440147,Appleton Area School District,145,Appleton Public Montessori School,15.69%,*,N,,153,24
+wi,440147,Appleton Area School District,490,Appleton Technical Academy,22.22%,*,N,,81,18
+wi,440147,Appleton Area School District,60,Badger El,42.23%,,Y,44.21%,341,144
+wi,440147,Appleton Area School District,220,Berry El,12.97%,*,N,,455,59
+wi,440147,Appleton Area School District,110,Classical Charter Sch,10.97%,*,N,,483,53
+wi,440147,Appleton Area School District,80,Columbus El,64.74%,,Y,64.74%,156,101
+wi,440147,Appleton Area School District,20,East Hi,22.49%,*,N,,1525,343
+wi,440147,Appleton Area School District,100,Edison El,38.33%,*,N,,287,110
+wi,440147,Appleton Area School District,120,Einstein Mid,14.58%,*,N,,487,71
+wi,440147,Appleton Area School District,130,Ferber El,21.75%,*,N,,630,137
+wi,440147,Appleton Area School District,450,Fox Cities Leadership Academy,6.98%,*,N,,86,6
+wi,440147,Appleton Area School District,135,Fox River Academy,13.89%,*,N,,108,15
+wi,440147,Appleton Area School District,160,Franklin El,38.81%,*,N,,353,137
+wi,440147,Appleton Area School District,180,Highlands El,40.34%,,Y,45.51%,624,252
+wi,440147,Appleton Area School District,190,Horizons El,44.44%,,Y,44.21%,351,156
+wi,440147,Appleton Area School District,195,Houdini El,20.03%,*,N,,614,123
+wi,440147,Appleton Area School District,200,Huntley El,18.77%,*,N,,762,143
+wi,440147,Appleton Area School District,240,Jefferson El,45.13%,,Y,44.21%,359,162
+wi,440147,Appleton Area School District,260,Johnston El,44.06%,,Y,44.21%,488,215
+wi,440147,Appleton Area School District,250,Kaleidoscope Academy,28.92%,*,N,,574,166
+wi,440147,Appleton Area School District,280,Lincoln El,47.24%,,Y,44.21%,417,197
+wi,440147,Appleton Area School District,300,Madison Mid,28.84%,*,N,,645,186
+wi,440147,Appleton Area School District,320,McKinley El,42.66%,,Y,44.21%,579,247
+wi,440147,Appleton Area School District,30,North Hi,16.55%,*,N,,1813,300
+wi,440147,Appleton Area School District,210,Odyssey Magellan Charter,9.70%,*,N,,165,16
+wi,440147,Appleton Area School District,420,Renaissance Sch,21.05%,*,N,,171,36
+wi,440147,Appleton Area School District,340,Richmond El,29.31%,*,N,,290,85
+wi,440147,Appleton Area School District,150,Stephen Foster Elementary Char,34.54%,*,N,,333,115
+wi,440147,Appleton Area School District,430,Tesla Engineering Charter Sch,7.64%,*,N,,157,12
+wi,440147,Appleton Area School District,460,Valley New School,10.77%,*,N,,65,7
+wi,440147,Appleton Area School District,40,West Hi,29.12%,*,N,,13.36,
+wi,440147,Appleton Area School District,410,Wilson Mid,44.16%,,Y,44.21%,394,174
+wi,440147,Appleton Area School District,850,Wis Connections Acad,34.93%,*,N,,481,168
+wi,329660,"Aquinas Catholic Schools, Inc.",1299,Blessed Sacrament School,6.02%,*,N,,,
+wi,329660,"Aquinas Catholic Schools, Inc.",305,Cathedral School,6.06%,*,N,,,
+wi,329660,"Aquinas Catholic Schools, Inc.",6930,St. Patrick School,5.95%,*,N,,,
+wi,610154,Arcadia School District,190,Arcadia E,35.00%,*,N,,460,161
+wi,610154,Arcadia School District,40,Arcadia High School,20.05%,*,N,,384,77
+wi,610154,Arcadia School District,290,Arcadia Middle School,36.41%,*,N,,379,138
+wi,330161,Argyle School District,20,Argyle Elementary School,28.57%,*,N,,140,40
+wi,330161,Argyle School District,40,Argyle High School,28.26%,*,N,,92,26
+wi,330161,Argyle School District,250,Argyle Middle School,36.36%,*,N,,55,20
+wi,672450,Arrowhead UHS,20,South Campus,5.50%,*,N,,2145,118
+wi,20170,Ashland School District,20,Ashland High,41.89%,*,N,,623,261
+wi,20170,Ashland School District,30,Ashland Middle,45.74%,*,N,,446,204
+wi,20170,Ashland School District,400,Lake Superior High School,71.43%,*,N,,21,15
+wi,20170,Ashland School District,60,Lake Superior Intermediate,54.49%,*,N,,323,176
+wi,20170,Ashland School District,130,Lake Superior Learning Commnty,52.86%,*,N,,70,37
+wi,20170,Ashland School District,80,Lake Superior Primary,53.33%,*,N,,330,176
+wi,20170,Ashland School District,120,Marengo Valley El,53.72%,*,N,,188,101
+wi,20170,Ashland School District,250,Oredocker Project School,69.57%,*,N,,23,16
+wi,50182,Ashwaubenon School District,20,Ashwaubenon High School,21.17%,*,N,,,
+wi,50182,Ashwaubenon School District,55,Cormier Sch and Early Lrn Ctr,28.23%,*,N,,,
+wi,50182,Ashwaubenon School District,45,Parkview Mid,22.80%,*,N,,,
+wi,50182,Ashwaubenon School District,50,Pioneer El,19.41%,*,N,,,
+wi,50182,Ashwaubenon School District,60,Valley View Elementary,30.65%,*,N,,708,217
+wi,467722,Assumption Catholic School,6300,Assumption Catholic School-Dur,13.04%,*,N,,,
+wi,467722,Assumption Catholic School,1265,Assumption Catholic School-Lim,11.43%,*,N,,,
+wi,717002,Assumption Catholic Schools,1307,Assumption High,15.18%,*,N,,,
+wi,717002,Assumption Catholic Schools,1198,Assumption Middle,21.15%,*,N,,,
+wi,717002,Assumption Catholic Schools,2220,Our Lady Queen of Heaven,14.86%,*,N,,,
+wi,717002,Assumption Catholic Schools,8000,St. Vincent de Paul,24.49%,*,N,,,
+wi,370196,Athens School District,20,Athens Elementary School,32.16%,*,N,,199,64
+wi,370196,Athens School District,40,Athens Hi,15.71%,*,N,,,
+wi,370196,Athens School District,60,Athens Jr,25.58%,*,N,,,
+wi,401263,"Atlas Preparatory Academy, Inc.",470,Atlas Preparatory Academy,83.33%,,Y,77.53%,354,295
+wi,401263,"Atlas Preparatory Academy, Inc.",1263,Atlas Preparatory Academy,70.87%,,Y,77.53%,309,219
+wi,407004,Atonement Lutheran School,1301,Atonement Lutheran School,72.13%,,Y,72.13%,305,220
+wi,710203,Auburndale School District,40,Auburndale Elementary,24.68%,*,N,,,
+wi,710203,Auburndale School District,60,Auburndale Middle/Senior High School,20.23%,*,N,,,
+wi,180217,Augusta School District,20,Augusta El,39.55%,*,N,,268,106
+wi,180217,Augusta School District,40,Augusta High School,27.47%,*,N,,,
+wi,180217,Augusta School District,200,Augusta Middle School,35.66%,*,N,,143,51
+wi,180217,Augusta School District,410,Augusta Wildlands Science Rese,16.18%,*,N,,,
+wi,550231,Baldwin-Woodville School District,40,Baldwin Woodville High School,15.34%,*,N,,,
+wi,550231,Baldwin-Woodville School District,70,Greenfield Elementary,18.84%,*,N,,,
+wi,550231,Baldwin-Woodville School District,90,Viking Middle School,17.13%,*,N,,,
+wi,320245,Bangor School District,20,Bangor El,27.03%,*,N,,,
+wi,320245,Bangor School District,40,Bangor Mid/Hi,19.87%,*,N,,,
+wi,560280,Baraboo School District,180,Al Behrman Elementary School,55.75%,*,N,,339,189
+wi,560280,Baraboo School District,40,Baraboo High School,25.71%,*,N,,,
+wi,560280,Baraboo School District,60,East Elementary School,30.55%,*,N,,347,106
+wi,560280,Baraboo School District,110,Gordon L. Willson Elementary,40.35%,*,N,,342,138
+wi,560280,Baraboo School District,20,Jack Young Middle School,31.36%,*,N,,660,207
+wi,560280,Baraboo School District,140,North Freedom Elementary School,35.82%,*,N,,134,48
+wi,560280,Baraboo School District,120,West Elementary School,41.03%,*,N,,117,48
+wi,250287,Barneveld School District,20,Barneveld El,9.21%,*,N,,,
+wi,250287,Barneveld School District,40,Barneveld HI,8.53%,*,N,,,
+wi,30308,Barron Area School District,810,Advanced Learning Academy WI,40.74%,*,N,,81,33
+wi,30308,Barron Area School District,20,Almena El,54.39%,*,N,,57,31
+wi,30308,Barron Area School District,100,Barron Area Montessori School,38.33%,*,N,,60,23
+wi,30308,Barron Area School District,30,Barron High School,30.00%,*,N,,360,108
+wi,30308,Barron Area School District,120,Ridgeland-Dallas El,41.67%,*,N,,72,30
+wi,30308,Barron Area School District,140,Riverview Mid,44.29%,*,N,,350,155
+wi,30308,Barron Area School District,160,Woodland El,47.80%,*,N,,295,141
+wi,40315,Bayfield School District,40,Bayfield High School,46.72%,,Y,63.05%,117,55
+wi,40315,Bayfield School District,30,Bayfield Middle School,63.64%,,Y,63.05%,101,64
+wi,40315,Bayfield School District,20,Bayfield School,73.82%,,Y,63.05%,191,141
+wi,40315,Bayfield School District,60,La Pointe El,56.25%,,Y,63.05%,8,4
+wi,140336,Beaver Dam Unified Schools,40,Beaver Dam High School,26.40%,*,N,,,
+wi,140336,Beaver Dam Unified Schools,20,Beaver Dam Middle School,35.16%,*,N,,765,269
+wi,140336,Beaver Dam Unified Schools,850,Don Smith Learning Academy,41.79%,*,N,,67,28
+wi,140336,Beaver Dam Unified Schools,80,Jefferson Elemenary,48.58%,*,N,,282,137
+wi,140336,Beaver Dam Unified Schools,100,Lincoln El,44.79%,*,N,,192,86
+wi,140336,Beaver Dam Unified Schools,110,Prairie View El,31.68%,*,N,,423,134
+wi,140336,Beaver Dam Unified Schools,120,South Beaver Dam El,42.74%,*,N,,117,50
+wi,140336,Beaver Dam Unified Schools,160,Washington El,24.78%,*,N,,,
+wi,140336,Beaver Dam Unified Schools,180,Wilson El,36.30%,*,N,,135,49
+wi,384263,Beecher-Dunbar-Pembine School District,40,Pembine El,48.06%,*,N,,129,62
+wi,384263,Beecher-Dunbar-Pembine School District,60,Pembine Hi,47.37%,*,N,,95,45
+wi,402843,BELIEVERS IN CHRIST,1303,BELIEVERS IN CHRIST,77.73%,,Y,77.73%,220,171
+wi,130350,Belleville School District,100,Belleville Elementary School,14.46%,*,N,,,
+wi,130350,Belleville School District,40,Belleville High School,8.70%,*,N,,,
+wi,130350,Belleville School District,60,Belleville Middle School,12.00%,*,N,,,
+wi,330364,Belmont Community School District,20,Belmont El,26.49%,*,N,,,
+wi,330364,Belmont Community School District,40,Belmont Hi,21.29%,*,N,,,
+wi,530413,Beloit School District,20,Aldrich Intermediate,65.82%,,Y,62.52%,509,335
+wi,530413,Beloit School District,150,Beloit Early Learning,78.69%,,Y,62.52%,61,48
+wi,530413,Beloit School District,421,Beloit Learning Academy,70.75%,,Y,62.52%,253,179
+wi,530413,Beloit School District,850,Beloit Virtual School,75.00%,*,N,,32,24
+wi,530413,Beloit School District,60,Converse Elementary,64.57%,,Y,62.52%,398,257
+wi,530413,Beloit School District,80,Cunningham Intermediate,67.46%,,Y,62.52%,627,423
+wi,530413,Beloit School District,170,Fruzen Intermediate,61.03%,,Y,62.52%,639,390
+wi,530413,Beloit School District,110,Gaston Elementary,70.94%,,Y,62.52%,351,249
+wi,530413,Beloit School District,120,Hackett Elementary,79.84%,,Y,62.52%,382,305
+wi,530413,Beloit School District,180,McNeel Intermediate,61.74%,,Y,62.52%,643,397
+wi,530413,Beloit School District,200,Memorial High School,50.40%,,Y,62.52%,1637,825
+wi,530413,Beloit School District,210,Merrill Elementary,83.83%,,Y,62.52%,235,197
+wi,530413,Beloit School District,260,Robinson Elementary,61.82%,,Y,62.52%,461,285
+wi,530413,Beloit School District,410,Roy Chapman Andrews Academy,69.44%,,Y,62.52%,36,25
+wi,530413,Beloit School District,320,Todd Elementary,58.73%,,Y,62.52%,487,286
+wi,530422,Beloit Turner School District,60,Powers El,33.16%,*,N,,389,129
+wi,530422,Beloit Turner School District,100,Townview El,36.80%,*,N,,356,131
+wi,530422,Beloit Turner School District,20,Turner Hi,24.05%,*,N,,,
+wi,530422,Beloit Turner School District,120,Turner Mid,28.96%,*,N,,,
+wi,330427,Benton School District,20,Benton El,32.08%,*,N,,106,34
+wi,330427,Benton School District,40,Benton Hi,22.06%,*,N,,,
+wi,330427,Benton School District,250,Benton Middle School,21.43%,*,N,,,
+wi,240434,Berlin Area School District,40,Berlin High,27.41%,*,N,,,
+wi,240434,Berlin Area School District,80,Berlin Middle School,30.54%,*,N,,334,102
+wi,240434,Berlin Area School District,60,Clay Lamberton Elementary,39.65%,*,N,,734,291
+wi,597121,Bethlehem Lutheran School,230,Bethlehem Lutheran,11.72%,*,N,,,
+wi,646013,Big Foot High School,20,Big Foot High School,26.95%,*,N,,,
+wi,650441,Birchwood School District,450,Birchwood Blue Hills Charter,50.00%,*,N,,10,5
+wi,650441,Birchwood School District,20,Birchwood Elementary,40.00%,*,N,,95,38
+wi,650441,Birchwood School District,40,Birchwood Hi,27.71%,*,N,,,
+wi,650441,Birchwood School District,210,Birchwood Middle School,38.24%,*,N,,68,26
+wi,650441,Birchwood School District,130,Birchwood Public Montossori,44.12%,*,N,,34,15
+wi,650441,Birchwood School District,800,Bobcat Virtual Academy,61.54%,*,N,,13,8
+wi,332240,Black Hawk School District,160,Black Hawk Elementary,43.60%,*,N,,211,92
+wi,332240,Black Hawk School District,20,Black Hawk High,24.24%,*,N,,,
+wi,332240,Black Hawk School District,40,Black Hawk Middle School,31.58%,*,N,,76,24
+wi,270476,Black River Falls Schools,40,Black River Falls Hi,25.10%,*,N,,,
+wi,270476,Black River Falls Schools,60,Black River Falls Mid,34.31%,*,N,,376,129
+wi,270476,Black River Falls Schools,80,Forrest Street El,45.11%,*,N,,368,166
+wi,270476,Black River Falls Schools,130,Red Creek Elementary,37.12%,*,N,,493,183
+wi,610485,Blair-Taylor School District,34,Blair-Taylor Elementary,33.71%,*,N,,359,121
+wi,610485,Blair-Taylor School District,11,Blair-Taylor Hi,24.08%,*,N,,,
+wi,407015,Blessed Sacrament School,1304,Blessed Sacrament,60.22%,,Y,60.22%,181,109
+wi,401507,Blessed Savior Catholic School,1507,Blessed Savior Catholic School,64.18%,,Y,68.92%,201,129
+wi,401507,Blessed Savior Catholic School,254,Blessed Savior Catholic School East,77.14%,,Y,68.92%,245,189
+wi,401507,Blessed Savior Catholic School,253,Blessed Savior Catholic School South,59.83%,,Y,68.92%,117,70
+wi,90497,Bloomer School District,20,Bloomer El,26.94%,*,N,,,
+wi,90497,Bloomer School District,40,Bloomer Hi,20.92%,*,N,,,
+wi,90497,Bloomer School District,60,Bloomer Middle School,24.08%,*,N,,,
+wi,580602,Bonduel School District,20,Bonduel El,29.75%,*,N,,,
+wi,580602,Bonduel School District,40,Bonduel Hi,22.57%,*,N,,,
+wi,580602,Bonduel School District,21,Bonduel Mid,25.00%,*,N,,,
+wi,220609,Boscobel Area Schools,20,Boscobel El,46.89%,*,N,,450,211
+wi,220609,Boscobel Area Schools,40,Boscobel Hi,30.47%,*,N,,233,71
+wi,220609,Boscobel Area Schools,60,Boscobel Middle School,44.25%,*,N,,113,50
+wi,580623,Bowler School District,20,Bowler El,55.56%,*,N,,189,105
+wi,580623,Bowler School District,40,Bowler Hi,32.86%,*,N,,140,46
+wi,170637,Boyceville Community School District,40,Boyceville High School,26.32%,*,N,,,
+wi,170637,Boyceville Community School District,200,Boyceville Middle School,32.11%,*,N,,109,35
+wi,170637,Boyceville Community School District,20,Tiffany Creek El,31.14%,*,N,,411,128
+wi,300657,Brighton #1 School District,20,Brighton Elementary,12.73%,*,N,,,
+wi,80658,Brillion School District,20,Brillion Elementary,24.60%,*,N,,,
+wi,80658,Brillion School District,40,Brillion High School,12.77%,*,N,,,
+wi,80658,Brillion School District,21,Brillion Middle,15.84%,*,N,,,
+wi,300665,Bristol School District # 1,20,Bristol El,12.00%,*,N,,,
+wi,230700,Brodhead School District,40,Brodhead Hi,24.46%,*,N,,,
+wi,230700,Brodhead School District,60,Brodhead Middle School,25.23%,*,N,,,
+wi,230700,Brodhead School District,20,Ronald R Albrecht El,36.52%,*,N,,471,172
+wi,400721,Brown Deer School District,80,Brown Deer Elementary,36.28%,*,N,,736,267
+wi,400721,Brown Deer School District,40,Brown Deer Middle/High School,34.39%,*,N,,727,250
+wi,408123,Bruce Guadalupe United Community Center,100,Bruce Guadalupe Community School,46.71%,*,N,,1368,639
+wi,408123,Bruce Guadalupe United Community Center,8137,UCC Acosta Middle School,59.28%,*,N,,167,99
+wi,540735,Bruce School District,20,Bruce El,42.08%,,Y,44.55%,202,85
+wi,540735,Bruce School District,40,Bruce Hi,40.74%,*,N,,135,55
+wi,540735,Bruce School District,210,Bruce Middle School,39.62%,*,N,,106,42
+wi,510777,Burlington School District,20,Burlington Hi,19.84%,*,N,,,
+wi,510777,Burlington School District,60,Cooper El,24.42%,*,N,,,
+wi,510777,Burlington School District,110,Dr Edward G Dyer Sch,27.39%,*,N,,,
+wi,510777,Burlington School District,9803,JEDI Virtual K-12,38.46%,*,N,,13,5
+wi,510777,Burlington School District,120,Lyons Ctr,20.59%,*,N,,,
+wi,510777,Burlington School District,40,Nettie E Karcher Sch,26.91%,*,N,,,
+wi,510777,Burlington School District,150,Noah's Ark,37.78%,*,N,,45,17
+wi,510777,Burlington School District,140,Waller El,39.84%,*,N,,487,194
+wi,510777,Burlington School District,160,Winkler El,24.60%,*,N,,,
+wi,20840,Butternut School District,20,Butternut El,45.63%,*,N,,103,47
+wi,20840,Butternut School District,40,Butternut Hi,26.80%,*,N,,,
+wi,20840,Butternut School District,450,Promethean Charter School,50.00%,*,N,,2,1
+wi,90870,Cadott Community School District,20,Cadott El,37.99%,*,N,,458,174
+wi,90870,Cadott Community School District,40,Cadott Hi,31.08%,*,N,,222,69
+wi,90870,Cadott Community School District,60,Cadott Jr,32.09%,*,N,,134,43
+wi,110882,Cambria-Friesland School District,60,Cambria Friesland El,35.85%,*,N,,159,57
+wi,110882,Cambria-Friesland School District,40,Cambria Friesland Mid/Hi,33.30%,*,N,,192,64
+wi,130896,Cambridge School District,20,Cambridge Elementary,18.81%,*,N,,,
+wi,130896,Cambridge School District,40,Cambridge Hi,12.64%,*,N,,,
+wi,130896,Cambridge School District,400,Koshkonong Trails,15.79%,*,N,,,
+wi,130896,Cambridge School District,60,Nikolay Mid,13.81%,*,N,,,
+wi,30903,Cameron School District,20,Cameron El,29.81%,*,N,,,
+wi,30903,Cameron School District,40,Cameron Hi,21.01%,*,N,,,
+wi,30903,Cameron School District,200,Cameron Mid,26.52%,*,N,,,
+wi,30903,Cameron School District,9410,North Star Academy,43.59%,*,N,,39,17
+wi,200910,Campbellsport School District,20,Campbellsport El,17.49%,*,N,,,
+wi,200910,Campbellsport School District,40,Campbellsport Hi,13.90%,*,N,,,
+wi,200910,Campbellsport School District,300,Campbellsport Jr Hi,15.05%,*,N,,,
+wi,200910,Campbellsport School District,80,Eden El,19.20%,*,N,,,
+wi,408114,Capitol West Academy,100,Capitol West Academy,70.38%,,Y,70.38%,260,183
+wi,409857,"Carter's Christian Academy, Inc",1094,5249 N 35th St,75.00%,,Y,81.13%,122,92
+wi,409857,"Carter's Christian Academy, Inc",1093,2200 N. 12th Street,0.00%,,Y,81.13%,87,0
+wi,409857,"Carter's Christian Academy, Inc",1382,5268 N 35th St,68.97%,,Y,81.13%,109,75
+wi,410980,Cashton School District,20,Cashton El,31.84%,*,N,,289,92
+wi,410980,Cashton School District,40,Cashton Hi,25.55%,*,N,,,
+wi,220994,Cassville School District,20,Cassville Elementary School,41.00%,*,N,,100,41
+wi,220994,Cassville School District,40,Cassville High School,32.69%,*,N,,104,34
+wi,220994,Cassville School District,3500,St. Charles School,7.69%,*,N,,,
+wi,407112,Catholic East Elementary School,309,Catholic East Elementary,35.58%,*,N,,163,58
+wi,407112,Catholic East Elementary School,560,Catholic East Elementary HR,37.76%,*,N,,98,37
+wi,591029,Cedar Grove-Belgium School District,20,Cedar Grove El,15.17%,*,N,,,
+wi,591029,Cedar Grove-Belgium School District,40,Cedar Grove Hi,7.69%,*,N,,,
+wi,591029,Cedar Grove-Belgium School District,200,Cedar Grove Mid,15.05%,*,N,,,
+wi,451015,Cedarburg School District,20,Cedarburg High School,5.85%,*,N,,,
+wi,451015,Cedarburg School District,110,Early Learning Center,0.00%,*,N,,,
+wi,451015,Cedarburg School District,70,Parkview Elementary,8.09%,*,N,,,
+wi,451015,Cedarburg School District,90,Thorson Elementary,4.30%,*,N,,,
+wi,451015,Cedarburg School District,100,Webster Middle School,7.75%,*,N,,,
+wi,451015,Cedarburg School District,75,Westlawn Elementary,14.29%,*,N,,,
+wi,408105,"Central City Cyberschool Milwaukee, Inc.",1211,Central City Cyberschool,83.38%,,Y,86.54%,416,347
+wi,408105,"Central City Cyberschool Milwaukee, Inc.",617,Cyberschool Preschool,87.96%,,N,,,
+wi,501071,Chequamegon School District,400,Chequamegon High School,30.44%,*,N,,253,77
+wi,501071,Chequamegon School District,200,Chequamegon Middle School,48.02%,*,N,,177,85
+wi,501071,Chequamegon School District,450,Glidden Class ACT Charter School,47.06%,*,N,,34,16
+wi,501071,Chequamegon School District,100,Glidden Elementary School,59.38%,,Y,59.38%,32,19
+wi,501071,Chequamegon School District,110,Park Falls Elementary School,45.03%,*,N,,302,136
+wi,31080,Chetek-Weyerhaeuser Area School District,400,Chetek-Weyerhaeuser High,25.79%,*,N,,,
+wi,31080,Chetek-Weyerhaeuser Area School District,200,Chetek-Weyerhaeuser Middle,28.50%,*,N,,,
+wi,31080,Chetek-Weyerhaeuser Area School District,800,Link2Learn Virtual Charter,28.26%,*,N,,,
+wi,31080,Chetek-Weyerhaeuser Area School District,9410,North Star Academy,75.00%,*,N,,8,6
+wi,31080,Chetek-Weyerhaeuser Area School District,100,Roselawn Elementary,39.80%,*,N,,495,197
+wi,87690,Chilton Catholic School,330,Chilton Area Catholic School,17.48%,*,N,,,
+wi,81085,Chilton School District,20,Chilton Elementary School,33.50%,*,N,,409,137
+wi,81085,Chilton School District,40,Chilton High School,16.58%,*,N,,,
+wi,81085,Chilton School District,30,Chilton Middle School,24.35%,*,N,,,
+wi,91092,Chippewa Falls School District,60,Chippewa Falls Hi,1.19%,*,N,,,
+wi,91092,Chippewa Falls School District,40,Chippewa Falls Mid,22.96%,*,N,,,
+wi,91092,Chippewa Falls School District,110,Halmstad El,27.72%,*,N,,,
+wi,91092,Chippewa Falls School District,120,Hillcrest El,23.54%,*,N,,,
+wi,91092,Chippewa Falls School District,140,Jim Falls El,14.19%,*,N,,,
+wi,91092,Chippewa Falls School District,220,Parkview El,41.63%,*,N,,478,199
+wi,91092,Chippewa Falls School District,160,Southview El,29.23%,*,N,,,
+wi,91092,Chippewa Falls School District,200,Stillson El,13.42%,*,N,,,
+wi,327027,Christ St. John Lutheran School,355,Christ St Johns Lutheran Sch,11.96%,*,N,,,
+wi,401384,Christian Faith Academyof HigherLearning,1384,Christian Faith Academyof HigherLearning,91.01%,,Y,85.71%,63,57
+wi,404024,Christ-St. Peter Lutheran School,1305,Christ St. Peter Lutheran School,77.06%,,N,,,
+wi,137003,"City Church Madison, Inc",1300,Abundant Life Christian School,17.24%,*,N,,,
+wi,401776,"City School, Inc.",1776,The City School,80.23%,,Y,80.23%,172,138
+wi,407105,"Clara Mohammed School, Inc.",1044,Clara Mohammed Sch,83.90%,,Y,83.90%,205,172
+wi,481120,Clayton School District,20,Clayton El,44.52%,,Y,46.21%,145,65
+wi,481120,Clayton School District,40,Clayton Hi,29.73%,*,N,,,
+wi,481120,Clayton School District,60,Clayton Mid,37.81%,*,N,,82,31
+wi,481127,Clear Lake School District,40,Clear Lake Hi,22.35%,*,N,,,
+wi,481127,Clear Lake School District,60,Clear Lake Jr,30.26%,*,N,,76,23
+wi,481127,Clear Lake School District,20,Gaylord A Nelson Educ Center,28.74%,*,N,,,
+wi,531134,Clinton Community School District,40,Clinton Elementary School,31.04%,*,N,,422,131
+wi,531134,Clinton Community School District,60,Clinton High School,21.10%,*,N,,,
+wi,531134,Clinton Community School District,80,Clinton Middle School,31.98%,*,N,,344,110
+wi,681141,Clintonville School District,40,Clintonville High School,23.31%,*,N,,,
+wi,681141,Clintonville School District,20,Clintonville Middle School,36.66%,*,N,,311,114
+wi,681141,Clintonville School District,60,Dellwood Early Learning Center,37.93%,*,N,,58,22
+wi,681141,Clintonville School District,100,Longfellow El,40.46%,*,N,,388,157
+wi,61155,Cochrane-Fountain City School District,20,Cochrane-Fountain City El,19.61%,*,N,,,
+wi,61155,Cochrane-Fountain City School District,40,Cochrane-Fountain City Hi,19.61%,*,N,,,
+wi,101162,Colby School District,20,Colby Elementary,48.18%,*,N,,384,185
+wi,101162,Colby School District,40,Colby High School,30.37%,*,N,,270,82
+wi,101162,Colby School District,210,Colby Middle School,38.39%,*,N,,211,81
+wi,101162,Colby School District,120,Little Stars Pre-School,37.10%,*,N,,62,23
+wi,381169,Coleman School District,40,Coleman Elementary,32.76%,*,N,,351,115
+wi,381169,Coleman School District,60,Coleman High School,22.33%,*,N,,,
+wi,381169,Coleman School District,200,Coleman Middle School,27.82%,*,N,,,
+wi,171176,Colfax School District,20,Colfax El,32.29%,*,N,,573,185
+wi,171176,Colfax School District,40,Colfax Hi,30.65%,*,N,,372,114
+wi,717033,Columbus Catholic Schools,430,Columbus Catholic High School,8.66%,*,N,,,
+wi,717033,Columbus Catholic Schools,1031,Columbus Catholic Middle School,16.83%,*,N,,,
+wi,717033,Columbus Catholic Schools,2180,Our Lady of Peace Intermediate School,18.27%,*,N,,,
+wi,717033,Columbus Catholic Schools,4360,St John's Primary School,17.62%,*,N,,,
+wi,111183,Columbus School District,80,Columbus Elementary School,28.92%,*,N,,,
+wi,111183,Columbus School District,40,Columbus High School,27.05%,*,N,,,
+wi,111183,Columbus School District,150,Columbus Intermediate School,28.10%,*,N,,,
+wi,111183,Columbus School District,20,Columbus Middle School,31.56%,*,N,,320,101
+wi,111183,Columbus School District,110,Discovery Charter School,18.64%,*,N,,,
+wi,91204,Cornell School District,20,Cornell El,48.17%,*,N,,218,105
+wi,91204,Cornell School District,40,Cornell Hi,33.96%,*,N,,106,36
+wi,91204,Cornell School District,300,Cornell Middle School,34.44%,*,N,,90,31
+wi,211218,Crandon School District,40,Crandon El,42.66%,,Y,40.91%,457,195
+wi,211218,Crandon School District,60,Crandon Hi,30.13%,,Y,40.91%,206,62
+wi,211218,Crandon School District,22,Crandon Mid,36.72%,,Y,40.91%,173,64
+wi,401712,Cristo Rey Jesuit Milwaukee High School,1712,Cristo Rey Jesuit Milwaukee Hi,66.50%,,Y,66.49%,388,258
+wi,381232,Crivitz School District,20,Crivitz EL,37.66%,*,N,,470,177
+wi,381232,Crivitz School District,40,Crivitz High,42.23%,*,N,,206,87
+wi,381232,Crivitz School District,80,Crivitz Mid,33.05%,*,N,,118,39
+wi,221246,Cuba City School District,20,Cuba City Elementary,25.31%,*,N,,,
+wi,221246,Cuba City School District,40,Cuba City High School,14.55%,*,N,,,
+wi,221246,Cuba City School District,30,Cuba City Middle School,19.87%,*,N,,,
+wi,401253,Cudahy School District,40,Cudahy High School,40.43%,*,N,,737,298
+wi,401253,Cudahy School District,22,Cudahy Middle School,47.00%,*,N,,517,243
+wi,401253,Cudahy School District,50,General Mitchell,54.87%,*,N,,195,107
+wi,401253,Cudahy School District,60,J. E. Jones Elementary,35.71%,*,N,,98,35
+wi,401253,Cudahy School District,140,Kosciuszko El,57.66%,*,N,,222,128
+wi,401253,Cudahy School District,80,Lincoln Elementary,51.61%,*,N,,217,112
+wi,401253,Cudahy School District,120,Park View Elementary,56.28%,*,N,,215,121
+wi,31260,Cumberland School District,40,Cumberland El,34.55%,*,N,,385,133
+wi,31260,Cumberland School District,60,Cumberland Hi,25.18%,*,N,,,
+wi,31260,Cumberland School District,50,Cumberland Mid,34.24%,*,N,,257,88
+wi,31260,Cumberland School District,420,Island City Research Academy,23.33%,*,N,,,
+wi,31260,Cumberland School District,800,Island City Virtual Academy,34.48%,*,N,,29,10
+wi,374970,D.C. Everest School District,30,D.C. Everest Junior High,22.21%,*,N,,,
+wi,374970,D.C. Everest School District,200,D.C. Everest Middle School,29.50%,*,N,,,
+wi,374970,D.C. Everest School District,35,D.C. Everest Senior High,19.34%,*,N,,,
+wi,374970,D.C. Everest School District,50,Evergreen Elementary School,21.75%,*,N,,,
+wi,374970,D.C. Everest School District,60,Hatley Elementary,32.43%,*,N,,111,36
+wi,374970,D.C. Everest School District,400,IDEA Charter School,11.84%,*,N,,,
+wi,374970,D.C. Everest School District,130,Mountain Bay Elementary,25.54%,*,N,,,
+wi,374970,D.C. Everest School District,140,Odyssey Elementary,6.56%,*,N,,,
+wi,374970,D.C. Everest School District,70,Riverside Elementary,16.29%,*,N,,,
+wi,374970,D.C. Everest School District,80,Rothschild Elementary,30.84%,*,N,,428,132
+wi,374970,D.C. Everest School District,120,Weston Elementary,44.20%,*,N,,520,230
+wi,331295,Darlington Community School District,160,Darlington El/Mid,29.95%,*,N,,,
+wi,331295,Darlington Community School District,40,Darlington Hi,23.32%,*,N,,,
+wi,131309,Deerfield Community School District,20,Deerfield El,21.37%,*,N,,,
+wi,131309,Deerfield Community School District,40,Deerfield Hi,17.02%,*,N,,,
+wi,131309,Deerfield Community School District,60,Deerfield Mid,14.41%,*,N,,,
+wi,131316,DeForest Area School District,40,DeForest Area High School,12.49%,*,N,,,
+wi,131316,DeForest Area School District,50,DeForest Area Middle School,13.58%,*,N,,,
+wi,131316,DeForest Area School District,20,Eagle Point Elementary School,14.10%,*,N,,,
+wi,131316,DeForest Area School District,140,Windsor Elementary School,12.84%,*,N,,,
+wi,131316,DeForest Area School District,160,Yahara Elementary School,12.20%,*,N,,,
+wi,647041,Delavan Christian School,490,Delavan Christian School,8.00%,*,N,,,
+wi,641380,Delavan-Darien School District,20,Delavan-Darien Hi,33.56%,*,N,,751,252
+wi,641380,Delavan-Darien School District,60,Phoenix Mid,45.98%,*,N,,559,257
+wi,641380,Delavan-Darien School District,45,Turtle Creek El,48.14%,*,N,,511,246
+wi,641380,Delavan-Darien School District,150,Wileman El,54.82%,*,N,,270,148
+wi,51407,Denmark School Distrct,450,Denmark Community School,20.00%,*,N,,,
+wi,51407,Denmark School Distrct,40,Denmark Early Childhood Ctr,15.51%,*,N,,,
+wi,51407,Denmark School Distrct,60,Denmark El,16.99%,*,N,,,
+wi,51407,Denmark School Distrct,80,Denmark Hi,10.13%,*,N,,,
+wi,51407,Denmark School Distrct,100,Denmark Mid,14.09%,*,N,,,
+wi,51414,DePere Unified Schools,20,De Pere High,11.75%,*,N,,,
+wi,51414,DePere Unified Schools,30,De Pere Middle School,13.04%,*,N,,,
+wi,51414,DePere Unified Schools,40,Dickinson Elementary,22.61%,*,N,,,
+wi,51414,DePere Unified Schools,200,Foxview Intermediate School,15.06%,*,N,,,
+wi,51414,DePere Unified Schools,50,Heritage Elemenatry,12.01%,*,N,,,
+wi,51414,DePere Unified Schools,100,Susie C. Altmayer Elementary School,12.29%,*,N,,,
+wi,621421,DeSoto Area School District,40,De Soto Hi,27.74%,*,N,,,
+wi,621421,DeSoto Area School District,50,De Soto Mid,30.97%,*,N,,113,35
+wi,621421,DeSoto Area School District,80,Prairie View El,43.97%,*,N,,116,51
+wi,621421,DeSoto Area School District,100,Stoddard El,17.54%,*,N,,,
+wi,409863,Destiny High School,1491,Destiny High School,62.99%,,Y,62.99%,254,160
+wi,401702,Divine Destiny School Inc,1702,"Divine Destiny School, Inc.",83.33%,,Y,83.33%,138,115
+wi,407336,Divine Mercy School,7870,Divine Mercy,25.28%,*,N,,,
+wi,368310,Divine Savior Catholic School,8310,Divine Savior Catholic School,8.54%,*,N,,,
+wi,408109,DL Hines Preparatory Acad. of Excellence,100,D.L. Hines Coll. Prep. Acad. Excellence,73.74%,,Y,73.74%,278,205
+wi,142744,Dodgeland School District,40,Dodgeland El,40.10%,*,N,,389,156
+wi,142744,Dodgeland School District,22,Dodgeland High School,23.85%,*,N,,,
+wi,142744,Dodgeland School District,25,Dodgeland Middle School,33.14%,*,N,,169,56
+wi,251428,Dodgeville Sch District,20,Dodgeville El,32.89%,*,N,,526,173
+wi,251428,Dodgeville Sch District,40,Dodgeville High School,20.79%,*,N,,,
+wi,251428,Dodgeville Sch District,50,Dodgeville Mid,34.86%,*,N,,241,84
+wi,251428,Dodgeville Sch District,60,Ridgeway El,35.29%,*,N,,51,18
+wi,41491,Drummond Area School District,20,Drummond El,44.02%,*,N,,184,81
+wi,41491,Drummond Area School District,40,Drummond Hi,40.00%,*,N,,115,46
+wi,41491,Drummond Area School District,50,Drummond Jr,37.50%,*,N,,56,21
+wi,461499,Durand-Arkansaw School District,20,CADDIE WOODLAWN ELEMENTARY,33.55%,*,N,,465,156
+wi,461499,Durand-Arkansaw School District,40,DURAND JR/SR HIGH SCHOOL,24.43%,*,N,,,
+wi,527052,Eagle School,536,Eagle School,21.31%,*,N,,,
+wi,402712,Early View Academy of Excellence,1158,EarlyViewAcademy of Excellence,71.49%,,Y,71.49%,242,173
+wi,641540,East Troy Community School,40,East Troy High School,16.10%,*,N,,,
+wi,641540,East Troy Community School,60,East Troy Middle School,14.85%,*,N,,,
+wi,641540,East Troy Community School,20,Little Prairie Primary,22.00%,*,N,,,
+wi,641540,East Troy Community School,100,Prairie View Elementary,15.23%,*,N,,,
+wi,401218,"Eastbrook Academy, Inc.",1218,Eastbrook Academy,26.92%,*,N,,,
+wi,181554,Eau Claire Area School District,500,Davey El,27.25%,*,N,,,
+wi,181554,Eau Claire Area School District,170,Delong Mid,44.59%,*,N,,1035,462
+wi,181554,Eau Claire Area School District,120,Eau Claire Community Sites,24.12%,*,N,,,
+wi,181554,Eau Claire Area School District,100,Flynn El,42.09%,*,N,,278,117
+wi,181554,Eau Claire Area School District,590,Lakeshore El,49.89%,*,N,,433,216
+wi,181554,Eau Claire Area School District,220,Locust Lane El,50.59%,*,N,,253,128
+wi,181554,Eau Claire Area School District,240,Longfellow El,61.98%,*,N,,263,163
+wi,181554,Eau Claire Area School District,280,Manz El,36.15%,*,N,,415,150
+wi,181554,Eau Claire Area School District,580,McKinley Charter Sch,60.89%,*,N,,225,137
+wi,181554,Eau Claire Area School District,350,Meadowview El,27.12%,*,N,,,
+wi,181554,Eau Claire Area School District,340,Memorial Hi,18.64%,*,N,,,
+wi,181554,Eau Claire Area School District,111,Montessori Charter Sch,22.54%,*,N,,,
+wi,181554,Eau Claire Area School District,400,North Hi,30.36%,*,N,,1377,418
+wi,181554,Eau Claire Area School District,560,Northstar Mid,31.69%,*,N,,546,173
+wi,181554,Eau Claire Area School District,422,Northwoods El,40.69%,*,N,,376,153
+wi,181554,Eau Claire Area School District,200,Prairie Ridge Early Learning,58.43%,*,N,,344,201
+wi,181554,Eau Claire Area School District,420,Putnam Heights El,29.96%,*,N,,,
+wi,181554,Eau Claire Area School District,460,Robbins El,17.84%,*,N,,,
+wi,181554,Eau Claire Area School District,480,Roosevelt El,28.22%,*,N,,,
+wi,181554,Eau Claire Area School District,800,Second Avenue School,82.61%,*,N,,23,19
+wi,181554,Eau Claire Area School District,520,Sherman El,30.34%,*,N,,468,142
+wi,181554,Eau Claire Area School District,540,South Mid,23.69%,*,N,,,
+wi,371561,Edgar School District,20,Edgar Elementary,24.91%,*,N,,,
+wi,371561,Edgar School District,40,Edgar High School,13.68%,*,N,,,
+wi,371561,Edgar School District,23,Edgar Middle School,19.70%,*,N,,,
+wi,531568,Edgerton School District,40,Edgerton Community El,26.16%,*,N,,,
+wi,531568,Edgerton School District,80,Edgerton Hi,16.48%,*,N,,,
+wi,531568,Edgerton School District,60,Edgerton Mid,25.82%,*,N,,,
+wi,531568,Edgerton School District,160,Yahara El,18.18%,*,N,,,
+wi,341582,Elcho School District,20,Elcho El,45.40%,*,N,,163,74
+wi,341582,Elcho School District,40,Elcho Hi,42.17%,*,N,,83,35
+wi,341582,Elcho School District,250,elcho mi,39.19%,*,N,,74,29
+wi,611600,Eleva Strum School District,80,Eleva Strum Elem,32.73%,*,N,,330,108
+wi,611600,Eleva Strum School District,40,Eleva Strum Middle School,29.32%,*,N,,,
+wi,611600,Eleva Strum School District,60,Eleva-Strum High School,23.63%,*,N,,,
+wi,171645,Elk Mound Area School District,40,Elk Mound Hi,22.45%,*,N,,,
+wi,171645,Elk Mound Area School District,20,Elk Mound Mid,26.00%,*,N,,,
+wi,171645,Elk Mound Area School District,60,Mound View El,27.63%,*,N,,,
+wi,641638,Elkhorn Area School District,40,Elkhorn Area High School,16.87%,*,N,,,
+wi,641638,Elkhorn Area School District,60,Elkhorn Area Middle School,22.84%,*,N,,,
+wi,641638,Elkhorn Area School District,800,Elkhorn Options Virtual School,24.77%,*,N,,,
+wi,641638,Elkhorn Area School District,120,Jackson Elementary School,35.97%,*,N,,556,200
+wi,641638,Elkhorn Area School District,80,Tibbets Elementary School,17.92%,*,N,,,
+wi,641638,Elkhorn Area School District,9401,WCEC Alternative School,53.33%,*,N,,45,24
+wi,641638,Elkhorn Area School District,100,West Side Elementary School,26.35%,*,N,,,
+wi,471659,Ellsworth Community School District,60,Ellsworth Elementary,23.41%,*,N,,,
+wi,471659,Ellsworth Community School District,40,Ellsworth Hi,14.11%,*,N,,,
+wi,471659,Ellsworth Community School District,20,Ellsworth Mid,18.66%,*,N,,,
+wi,670714,Elmbrook School District,20,Brookfield Central High School,5.81%,*,N,,,
+wi,670714,Elmbrook School District,60,Brookfield East High School,6.26%,*,N,,,
+wi,670714,Elmbrook School District,40,Brookfield El,3.73%,*,N,,,
+wi,670714,Elmbrook School District,80,Burleigh El,6.78%,*,N,,,
+wi,670714,Elmbrook School District,100,Dixon El,7.58%,*,N,,,
+wi,670714,Elmbrook School District,160,Fairview South,23.53%,*,N,,,
+wi,670714,Elmbrook School District,150,Pilgrim Park Mid,6.50%,*,N,,,
+wi,670714,Elmbrook School District,190,Swanson El,9.75%,*,N,,,
+wi,670714,Elmbrook School District,250,Tonawanda El,3.86%,*,N,,,
+wi,670714,Elmbrook School District,270,Wisconsin Hills Mid,8.15%,*,N,,,
+wi,471666,Elmwood School District,20,Elmwood Elementary,26.77%,*,N,,,
+wi,471666,Elmwood School District,40,Elmwood High School,22.09%,*,N,,,
+wi,471666,Elmwood School District,30,Elmwood Middle School,27.72%,*,N,,,
+wi,687056,Emanuel Evangelical Lutheran School,604,Emanuel Lutheran Sch,18.80%,*,N,,,
+wi,661687,Erin School District,20,Erin El,10.00%,*,N,,,
+wi,531694,Evansville Community School District,40,Evansville High School,15.85%,*,N,,,
+wi,531694,Evansville Community School District,60,J C McKenna Mid,17.34%,*,N,,,
+wi,531694,Evansville Community School District,20,LEVI LEONARD ELEMENTARY,16.27%,*,N,,,
+wi,531694,Evansville Community School District,100,Theodore Robinson Intermediate,17.71%,*,N,,,
+wi,207063,Faith Lutheran School,652,Faith Lutheran School,8.43%,*,N,,,
+wi,181729,Fall Creek School District,20,Fall Creek Elementary,21.30%,*,N,,,
+wi,181729,Fall Creek School District,40,Fall Creek High,15.99%,*,N,,,
+wi,181729,Fall Creek School District,50,Fall Creek Middle,19.79%,*,N,,,
+wi,111736,Fall River School District,20,Fall River El,27.19%,*,N,,,
+wi,111736,Fall River School District,40,Fall River Hi,18.92%,*,N,,,
+wi,221813,Fennimore School District,20,Fennimore El,31.99%,*,N,,397,127
+wi,221813,Fennimore School District,40,Fennimore Hi,20.83%,*,N,,,
+wi,221813,Fennimore School District,250,Fennimore Middle School,22.73%,*,N,,,
+wi,545757,Flambeau School District,120,FLAMBEAU EL,48.56%,,Y,44.15%,278,135
+wi,545757,Flambeau School District,40,FLAMBEAU HI,39.05%,,Y,44.15%,169,66
+wi,545757,Flambeau School District,50,Flambeau Mid,41.27%,,Y,44.15%,126,52
+wi,191855,Florence School District,40,Florence Elementary,36.20%,*,N,,221,80
+wi,191855,Florence School District,60,Florence High,30.09%,*,N,,113,34
+wi,191855,Florence School District,80,Florence Middle,38.33%,*,N,,60,23
+wi,201862,Fond du Lac School District,30,Chegwin El,59.27%,*,N,,329,195
+wi,201862,Fond du Lac School District,80,Evans El,37.00%,*,N,,279,103
+wi,201862,Fond du Lac School District,140,Fond du Lac High School,25.97%,*,N,,,
+wi,201862,Fond du Lac School District,150,Fond du Lac STEM Academy,33.33%,*,N,,63,21
+wi,201862,Fond du Lac School District,210,Fond du Lac STEM Institute,37.04%,*,N,,135,50
+wi,201862,Fond du Lac School District,200,Lakeshore El,10.58%,*,N,,,
+wi,201862,Fond du Lac School District,230,Parkside El,67.07%,*,N,,249,167
+wi,201862,Fond du Lac School District,240,Pier El,40.62%,*,N,,325,132
+wi,201862,Fond du Lac School District,120,Riverside El,60.21%,*,N,,284,171
+wi,201862,Fond du Lac School District,260,Roberts El,28.33%,*,N,,,
+wi,201862,Fond du Lac School District,280,Rosenow El,37.06%,*,N,,367,136
+wi,201862,Fond du Lac School District,300,Sabish Middle,40.23%,*,N,,445,179
+wi,201862,Fond du Lac School District,335,Theisen Middle,23.68%,*,N,,,
+wi,201862,Fond du Lac School District,360,Waters El,33.60%,*,N,,381,128
+wi,201862,Fond du Lac School District,365,Woodworth Mid,37.07%,*,N,,499,185
+wi,641870,Fontana J8 School District,20,Fontana El,25.11%,*,N,,,
+wi,281883,Fort Atkinson Sch District,20,Barrie Elementary,22.58%,*,N,,,
+wi,281883,Fort Atkinson Sch District,80,Fort Atkinson High School,22.90%,*,N,,,
+wi,281883,Fort Atkinson Sch District,120,Fort Atkinson Mid,29.62%,*,N,,,
+wi,281883,Fort Atkinson Sch District,100,Luther El,34.22%,*,N,,263,90
+wi,281883,Fort Atkinson Sch District,160,Purdy El,34.69%,*,N,,271,94
+wi,281883,Fort Atkinson Sch District,180,Rockwell El,29.64%,*,N,,,
+wi,401890,Fox Point Joint #2 School District,20,Bayside Mid,8.61%,*,N,,,
+wi,401890,Fox Point Joint #2 School District,40,Stormonth El,9.28%,*,N,,,
+wi,401900,Franklin Public School District,20,Ben Franklin Elem.,9.89%,*,N,,,
+wi,401900,Franklin Public School District,40,Country Dale Elem.,17.35%,*,N,,,
+wi,401900,Franklin Public School District,70,Forest Park Middle School,10.84%,*,N,,,
+wi,401900,Franklin Public School District,60,Franklin High School,12.98%,*,N,,,
+wi,401900,Franklin Public School District,80,Pleasant View Elem.,16.49%,*,N,,,
+wi,401900,Franklin Public School District,100,Robinwood Elem.,17.30%,*,N,,,
+wi,401900,Franklin Public School District,120,Southwood Glen Elem.,12.47%,*,N,,,
+wi,481939,Frederic School District,40,Frederic 6-12 Sch,43.84%,*,N,,203,89
+wi,481939,Frederic School District,20,Frederic Elementary,41.35%,*,N,,237,98
+wi,441953,Freedom Area School District,20,Freedom El,13.33%,*,N,,,
+wi,441953,Freedom Area School District,60,Freedom Hi,9.26%,*,N,,,
+wi,441953,Freedom Area School District,40,Freedom Middle,12.23%,*,N,,,
+wi,307065,Friedens Lutheran School,730,Friedens Lutheran School,35.43%,*,N,,127,45
+wi,612009,Galesville-Ettrick Tremp School District,20,Ettrick El,18.42%,*,N,,,
+wi,612009,Galesville-Ettrick Tremp School District,40,Gale-Ettrick-Tremp Hi,17.54%,*,N,,,
+wi,612009,Galesville-Ettrick Tremp School District,50,Gale-Ettrick-Tremp Mid,17.11%,*,N,,,
+wi,612009,Galesville-Ettrick Tremp School District,60,Galesville El,27.89%,*,N,,,
+wi,612009,Galesville-Ettrick Tremp School District,80,Trempealeau El,11.55%,*,N,,,
+wi,402468,Garden Homes Lutheran School,740,Garden Homes Lutheran Sch,62.86%,,Y,62.86%,245,154
+wi,642044,Geneva Joint #4 School District,20,Woods Elementary,19.79%,*,N,,,
+wi,662058,Germantown School District,20,Amy Belle El,12.99%,*,N,,,
+wi,662058,Germantown School District,40,County Line El,7.05%,*,N,,,
+wi,662058,Germantown School District,180,Germantown High School,8.12%,*,N,,,
+wi,662058,Germantown School District,110,Kennedy Mid,11.89%,*,N,,,
+wi,662058,Germantown School District,120,MacArthur El,13.78%,*,N,,,
+wi,662058,Germantown School District,140,Rockfield El,12.31%,*,N,,,
+wi,152114,Gibraltar School District,100,Gibraltar Elementary School,26.67%,*,N,,,
+wi,152114,Gibraltar School District,120,Gibraltar High School,23.26%,*,N,,,
+wi,152114,Gibraltar School District,200,Gibraltar Middle School,32.22%,*,N,,90,29
+wi,422128,Gillett School District,60,Gillett Elementary,46.12%,*,N,,245,113
+wi,422128,Gillett School District,20,Gillett High School,31.29%,*,N,,163,51
+wi,422128,Gillett School District,40,Gillett Middle School,41.27%,*,N,,126,52
+wi,602135,Gilman School District,40,Gilman El,47.49%,*,N,,179,85
+wi,602135,Gilman School District,60,Gilman Hi,41.04%,*,N,,173,71
+wi,62142,Gilmanton School District,40,Gilmanton Elementary School,48.33%,*,N,,60,29
+wi,62142,Gilmanton School District,60,Gilmanton High School,25.00%,*,N,,,
+wi,62142,Gilmanton School District,250,Gilmanton Middle School,50.00%,*,N,,38,19
+wi,402184,Glendale River Hills School District,10,Glen Hills Mid,38.05%,*,N,,599,228
+wi,402184,Glendale River Hills School District,60,Parkway El,25.69%,*,N,,,
+wi,552198,Glenwood City School District,60,Glenwood City Elementary,30.54%,*,N,,334,102
+wi,552198,Glenwood City School District,80,Glenwood City Hi,21.76%,*,N,,,
+wi,552198,Glenwood City School District,100,Glenwood City Middle School,25.33%,*,N,,,
+wi,495010,Good News Fellowship Church Inc,766,St. Point Christian Academy,21.43%,*,N,,,
+wi,667080,Good Shepherd Lutheran School,780,Good Shepherd Lutheran Sch,9.09%,*,N,,,
+wi,287951,"Good Shepherd Lutheran School, Watertown",768,Good Shepherd Lutheran School,29.86%,*,N,,,
+wi,382212,Goodman-Armstrong Creek School,40,Goodman Hi,41.18%,*,N,,51,21
+wi,382212,Goodman-Armstrong Creek School,20,Goodman-Armstrong El,53.73%,*,N,,67,36
+wi,677071,Grace Evangelical Lutheran Church,818,Grace Lutheran School,15.09%,*,N,,,
+wi,707072,Grace Lutheran School,830,Grace Lutheran School,6.96%,*,N,,,
+wi,452217,Grafton School District,40,Grafton Hi,9.50%,*,N,,,
+wi,452217,Grafton School District,60,John Long Mid,15.28%,*,N,,,
+wi,452217,Grafton School District,30,Kennedy El,10.99%,*,N,,,
+wi,452217,Grafton School District,100,Woodview El,16.67%,*,N,,,
+wi,102226,Granton Area School District,20,Granton El,48.85%,,Y,46.47%,131,64
+wi,102226,Granton Area School District,40,Granton Hi,43.64%,,Y,46.47%,110,48
+wi,72233,Grantsburg School District,60,Grantsburg El,37.11%,*,N,,194,72
+wi,72233,Grantsburg School District,80,Grantsburg Hi,32.13%,*,N,,249,80
+wi,72233,Grantsburg School District,100,Grantsburg Mid,39.20%,*,N,,324,127
+wi,72233,Grantsburg School District,120,Nelson El,49.09%,*,N,,110,54
+wi,401345,Greater Holy Temple Christian Academy,1345,Greater Holy Temple Christian Academy,91.78%,,Y,91.78%,596,547
+wi,59659,"Green Bay Area Catholic Education, Inc.",2443,Father Allouez Catholic School,9.73%,*,N,,,
+wi,59659,"Green Bay Area Catholic Education, Inc.",1055,Holy Family School,20.20%,*,N,,,
+wi,59659,"Green Bay Area Catholic Education, Inc.",2047,Notre Dame of Depere,3.63%,*,N,,,
+wi,59659,"Green Bay Area Catholic Education, Inc.",1765,Our Lady of Lourdes School,4.43%,*,N,,,
+wi,59659,"Green Bay Area Catholic Education, Inc.",3250,Saint Bernard School,20.08%,*,N,,,
+wi,59659,"Green Bay Area Catholic Education, Inc.",4532,Saint John the Baptist School,7.90%,*,N,,,
+wi,59659,"Green Bay Area Catholic Education, Inc.",6105,Saint Thomas More School,62.28%,*,N,,167,104
+wi,52289,Green Bay School District,20,Aldo Leopold Comm Sch K-8,28.01%,*,N,,,
+wi,52289,Green Bay School District,30,Baird El,55.82%,,Y,62.72%,421,235
+wi,52289,Green Bay School District,60,Beaumont El,52.13%,,Y,62.72%,282,147
+wi,52289,Green Bay School District,100,Chappell El,59.10%,,Y,62.72%,401,237
+wi,52289,Green Bay School District,140,Danz El,58.89%,,Y,62.72%,433,255
+wi,52289,Green Bay School District,175,Doty El,50.17%,,Y,62.72%,301,151
+wi,52289,Green Bay School District,130,Early Learning Center,59.66%,,Y,62.72%,357,213
+wi,52289,Green Bay School District,180,East High School,43.87%,*,N,,1281,562
+wi,52289,Green Bay School District,190,Edison Middle School,40.53%,*,N,,1162,471
+wi,52289,Green Bay School District,200,Eisenhower El,66.75%,,Y,62.72%,412,275
+wi,52289,Green Bay School District,220,Elmore El,58.23%,,Y,62.72%,328,191
+wi,52289,Green Bay School District,280,Fort Howard El,83.67%,,Y,62.72%,196,164
+wi,52289,Green Bay School District,300,Franklin Mid,62.96%,,Y,62.72%,702,442
+wi,52289,Green Bay School District,170,Friedrich Froebel Garden of Le,40.91%,*,N,,176,72
+wi,52289,Green Bay School District,110,Green Bay Head Start,86.70%,,Y,62.72%,218,189
+wi,52289,Green Bay School District,320,Howe El,72.21%,,Y,62.72%,421,304
+wi,52289,Green Bay School District,340,Jackson El,44.37%,*,N,,417,185
+wi,52289,Green Bay School District,360,Jefferson El,69.70%,,Y,62.72%,132,92
+wi,52289,Green Bay School District,445,John Dewey Academy of Learning,39.29%,*,N,,84,33
+wi,52289,Green Bay School District,370,Keller El,72.97%,,Y,62.72%,296,216
+wi,52289,Green Bay School District,380,Kennedy El,63.10%,,Y,62.72%,271,171
+wi,52289,Green Bay School District,390,King El,41.11%,*,N,,377,155
+wi,52289,Green Bay School District,400,Langlade El,23.58%,*,N,,,
+wi,52289,Green Bay School District,150,Leonardo daVinci School for Ac,7.09%,*,N,,,
+wi,52289,Green Bay School District,420,Lincoln El,71.83%,,Y,62.72%,213,153
+wi,52289,Green Bay School District,425,Lombardi Mid,40.17%,*,N,,829,333
+wi,52289,Green Bay School District,430,MacArthur El,46.35%,*,N,,274,127
+wi,52289,Green Bay School District,435,Martin El,32.87%,*,N,,359,118
+wi,52289,Green Bay School District,437,McAuliffe El,18.84%,*,N,,,
+wi,52289,Green Bay School District,800,Minoka-Hill School,67.47%,,Y,62.72%,289,195
+wi,52289,Green Bay School District,440,Nicolet El,65.46%,,Y,62.72%,436,285
+wi,52289,Green Bay School District,540,Preble High,27.84%,*,N,,,
+wi,52289,Green Bay School District,160,Red Smith K-8,22.56%,*,N,,,
+wi,52289,Green Bay School District,600,Southwest High,33.33%,*,N,,1212,404
+wi,52289,Green Bay School District,590,Sullivan El,59.68%,,Y,62.72%,625,373
+wi,52289,Green Bay School District,640,Tank El,73.11%,,Y,62.72%,264,193
+wi,52289,Green Bay School District,660,Washington Middle,55.01%,,Y,62.72%,778,428
+wi,52289,Green Bay School District,680,Webster El,36.94%,*,N,,333,123
+wi,52289,Green Bay School District,700,Wequiock El,10.49%,*,N,,,
+wi,52289,Green Bay School District,720,West High,50.57%,,Y,62.72%,878,444
+wi,52289,Green Bay School District,730,Wilder El,35.12%,*,N,,430,151
+wi,402296,Greendale School District,40,Canterbury Elementary,16.62%,*,N,,,
+wi,402296,Greendale School District,50,College Park Elementary,22.18%,*,N,,,
+wi,402296,Greendale School District,60,Greendale High School,14.33%,*,N,,,
+wi,402296,Greendale School District,80,Greendale Middle School,19.81%,*,N,,,
+wi,402296,Greendale School District,100,Highland View Elementary,27.00%,*,N,,,
+wi,402296,Greendale School District,110,Time For Learning Charter Scho,24.14%,*,N,,,
+wi,402303,Greenfield School District,60,Edgewood El,33.23%,*,N,,337,112
+wi,402303,Greenfield School District,80,Elm Dale El,29.71%,*,N,,,
+wi,402303,Greenfield School District,100,Glenwood El,37.54%,*,N,,357,134
+wi,402303,Greenfield School District,120,Greenfield High School,30.02%,*,N,,1176,353
+wi,402303,Greenfield School District,130,Greenfield Middle School,27.90%,*,N,,,
+wi,402303,Greenfield School District,160,Maple Grove El,32.45%,*,N,,453,147
+wi,102394,Greenwood School District,40,Greenwood El,38.55%,*,N,,179,69
+wi,102394,Greenwood School District,60,Greenwood High School,30.23%,*,N,,172,52
+wi,582415,Gresham School District,100,Gresham Elementary School,44.03%,*,N,,134,59
+wi,582415,Gresham School District,400,Gresham High School,40.52%,*,N,,153,62
+wi,407076,Hales Corners Lutheran School,840,Hales Corners Lutheran School,6.86%,*,N,,,
+wi,672420,Hamilton School District,40,Hamilton High School,9.53%,*,N,,,
+wi,672420,Hamilton School District,60,Lannon Elementary,7.97%,*,N,,,
+wi,672420,Hamilton School District,100,Maple Avenue Elementary,17.47%,*,N,,,
+wi,672420,Hamilton School District,120,Marcy Elementary,9.85%,*,N,,,
+wi,672420,Hamilton School District,130,Templeton Middle School,11.81%,*,N,,,
+wi,672420,Hamilton School District,140,Willow Springs Learning Ctr,11.92%,*,N,,,
+wi,672420,Hamilton School District,150,Woodside Elementary,8.54%,*,N,,,
+wi,662443,Hartford Joint #1 School District,1200,Bridges Academy,100.00%,*,N,,3,3
+wi,662443,Hartford Joint #1 School District,20,Central Middle School,25.50%,*,N,,,
+wi,662443,Hartford Joint #1 School District,40,Lincoln El,35.19%,*,N,,540,190
+wi,662443,Hartford Joint #1 School District,50,Rossman El,21.42%,*,N,,,
+wi,662436,Hartford Union High School District,20,Hartford Union High School,14.70%,*,N,,,
+wi,672460,Hartland Lakeside Schools,130,Hartland Fine Arts Leadership,28.79%,*,N,,,
+wi,672460,Hartland Lakeside Schools,110,Hartland School-Community Lear,23.44%,*,N,,,
+wi,672460,Hartland Lakeside Schools,200,Life Entreprenuerial Magnet,12.77%,*,N,,,
+wi,672460,Hartland Lakeside Schools,20,North El,13.53%,*,N,,,
+wi,672460,Hartland Lakeside Schools,100,North Shore Mid,14.91%,*,N,,,
+wi,672460,Hartland Lakeside Schools,40,South El,13.36%,*,N,,,
+wi,572478,Hayward Community School District,40,Hayward High,35.74%,*,N,,498,178
+wi,572478,Hayward Community School District,110,Hayward Intermediate,50.13%,*,N,,399,200
+wi,572478,Hayward Community School District,60,Hayward Middle,43.22%,*,N,,428,185
+wi,572478,Hayward Community School District,20,Hayward Primary,50.89%,*,N,,395,201
+wi,572478,Hayward Community School District,250,Northern Waters Environmental,32.50%,*,N,,40,13
+wi,142525,Herman-Neosho-Rubicon School District,100,Honor Elementary,22.28%,*,N,,,
+wi,142525,Herman-Neosho-Rubicon School District,150,Honor Intermediate,20.16%,*,N,,,
+wi,252527,Highland School District,250,Highland Community Middle Scho,17.81%,*,N,,,
+wi,252527,Highland School District,20,Highland El,39.72%,*,N,,141,56
+wi,252527,Highland School District,40,Highland Hi,10.00%,*,N,,,
+wi,82534,Hilbert School District,20,Hilbert El,26.35%,*,N,,,
+wi,82534,Hilbert School District,40,Hilbert Hi,10.07%,*,N,,,
+wi,82534,Hilbert School District,200,Hilbert Mid,20.44%,*,N,,,
+wi,400856,Hillel Academy,856,Bader Hillel Academy,43.61%,*,N,,133,58
+wi,622541,Hillsboro School District,20,Hillsboro El,36.23%,*,N,,276,100
+wi,622541,Hillsboro School District,60,Hillsboro Hi,26.48%,*,N,,,
+wi,322562,Holmen Area School District,10,Evergreen El,18.63%,*,N,,,
+wi,322562,Holmen Area School District,40,Holmen Hi,13.93%,*,N,,,
+wi,322562,Holmen Area School District,45,Holmen Mid,15.41%,*,N,,,
+wi,322562,Holmen Area School District,130,Prairie View Elementary,10.02%,*,N,,,
+wi,322562,Holmen Area School District,160,Sand Lake El,18.69%,*,N,,,
+wi,322562,Holmen Area School District,100,Viking El,17.59%,*,N,,,
+wi,662570,Holy Hill Area School District,100,Friess Lake Elementary,5.71%,*,N,,,
+wi,662570,Holy Hill Area School District,290,Richfield Middle School,7.32%,*,N,,,
+wi,407115,Holy Redeemer Christian Academy,1180,HOLY REDEEMER CHRISTIAN ACADEM,60.77%,,Y,82.53%,332,202
+wi,317093,Holy Rosary Catholic School,1250,Holy Rosary Grade Sch,8.70%,*,N,,,
+wi,337125,Holy Rosary School,1230,Holy Rosary School,8.16%,*,N,,,
+wi,607129,Holy Rosary School,1220,Holy Rosary Catholic Grade Sch,25.47%,*,N,,,
+wi,447074,Holy Spirit School,870,Holy Spirit School - South Campus,5.73%,*,N,,,
+wi,667138,Holy Trinity Grade School,1320,Holy Trinity Grade School,5.84%,*,N,,,
+wi,401703,Hope Christian School-Caritas,1703,HOPE Christian School: Caritas,83.33%,,Y,84.39%,378,315
+wi,401729,"Hope Christian Schools, Inc.: Fidelis",1729,HOPE Christian School: Fidelis,85.29%,,Y,85.29%,204,174
+wi,401439,"Hope Christian Schools, Inc.: Fortis",1439,HOPE Christian School: Fortis,79.96%,,Y,79.96%,464,371
+wi,409315,"Hope Christian Schools, Inc.: Prima",1315,HOPE Christian School: Prima,85.56%,,Y,85.56%,540,462
+wi,401656,"Hope Christian Schools, Inc.: Semper",1656,HOPE Christian School: Semper,84.49%,,Y,84.49%,374,316
+wi,511711,"Hope Christian Schools, Inc.: Via",1711,HOPE Christian School: Via,60.95%,,Y,68.22%,258,157
+wi,409408,"Hope Christian Schools,Inc.: High School",1408,HOPE Christian High School,68.22%,,Y,68.22%,236,161
+wi,142576,Horicon School District,80,Horicon  Junior High School,30.77%,*,N,,104,32
+wi,142576,Horicon School District,60,Horicon High School,18.50%,*,N,,,
+wi,142576,Horicon School District,40,Van Brunt Elementary,35.55%,*,N,,346,123
+wi,442583,Hortonville School District,220,Fox West School,6.67%,*,N,,,
+wi,442583,Hortonville School District,10,Greenville Elementary School,10.91%,*,N,,,
+wi,442583,Hortonville School District,210,Greenville Middle School,8.19%,*,N,,,
+wi,442583,Hortonville School District,150,Hortonville Area K4 School,7.69%,*,N,,,
+wi,442583,Hortonville School District,20,Hortonville Elementary,12.36%,*,N,,,
+wi,442583,Hortonville School District,40,Hortonville High School,10.02%,*,N,,,
+wi,442583,Hortonville School District,30,Hortonville Middle School,12.42%,*,N,,,
+wi,442583,Hortonville School District,160,North Greenville Elementary,5.74%,*,N,,,
+wi,592605,Howards Grove School District,60,Howards Grove High School,11.79%,*,N,,,
+wi,592605,Howards Grove School District,125,Howards Grove Middle School,10.63%,*,N,,,
+wi,592605,Howards Grove School District,110,Northview Elementary,8.58%,*,N,,,
+wi,52604,Howard-Suamico School District,120,Bay Harbor Elementary,15.01%,*,N,,,
+wi,52604,Howard-Suamico School District,20,Bay Port High School,12.22%,*,N,,,
+wi,52604,Howard-Suamico School District,30,Bay View Middle School,13.10%,*,N,,,
+wi,52604,Howard-Suamico School District,40,Forest Glen Elementary,12.67%,*,N,,,
+wi,52604,Howard-Suamico School District,130,Howard and Suamico 4k,15.62%,*,N,,,
+wi,52604,Howard-Suamico School District,60,Howard Elementary,31.92%,*,N,,307,98
+wi,52604,Howard-Suamico School District,110,Lineville Intermediate Sch,15.59%,*,N,,,
+wi,52604,Howard-Suamico School District,50,Meadowbrook El,13.58%,*,N,,,
+wi,52604,Howard-Suamico School District,100,Suamico El,18.12%,*,N,,,
+wi,552611,Hudson School District,20,Houlton Elementary,10.55%,*,N,,,
+wi,552611,Hudson School District,80,Hudson Hi,7.79%,*,N,,,
+wi,552611,Hudson School District,70,Hudson Middle,10.57%,*,N,,,
+wi,552611,Hudson School District,140,Hudson Prairie El,6.57%,*,N,,,
+wi,552611,Hudson School District,100,North Hudson El,11.45%,*,N,,,
+wi,552611,Hudson School District,150,River Crest Elementary,8.43%,*,N,,,
+wi,552611,Hudson School District,120,Rock El,19.55%,*,N,,,
+wi,552611,Hudson School District,10,Willow River El,14.11%,*,N,,,
+wi,262618,Hurley School District,80,Hurley Elementary,39.13%,*,N,,253,99
+wi,262618,Hurley School District,60,Hurley High School,35.43%,*,N,,302,107
+wi,142625,Hustisford School District,40,Hustisford Hi,21.37%,*,N,,,
+wi,142625,Hustisford School District,20,John Hustis Elementary School,28.17%,*,N,,,
+wi,517676,Immaculate Conception St. Mary Parish,307,Catholic Central High School,3.17%,*,N,,,
+wi,517676,Immaculate Conception St. Mary Parish,5890,Saint Mary Grade School,9.80%,*,N,,,
+wi,597082,Immanuel Evangelical Lutheran School,1587,Immanuel Evangelical Lutheran,28.13%,*,N,,,
+wi,187159,Immanuel Lutheran High School,1510,Immanuel Lutheran High School,6.94%,*,N,,,
+wi,677164,Immanuel Lutheran School,1568,Immanuel Lutheran School,18.15%,*,N,,,
+wi,717160,Immanuel Lutheran School,1540,Immanuel Lutheran Grade Sch,13.97%,*,N,,,
+wi,717163,Immanuel Lutheran School,1560,Immanuel Lutheran Grade Sch,29.14%,*,N,,,
+wi,612632,Independence School District,20,Independence El,45.41%,*,N,,196,89
+wi,612632,Independence School District,40,Independence Hi,30.23%,*,N,,129,39
+wi,612632,Independence School District,250,Indpendence MI,38.37%,*,N,,86,33
+wi,407178,Indian Community School,1590,Indian Community School,60.49%,,Y,60.49%,367,222
+wi,401527,Institute of Technology and Academics,1527,Institute of Technology and Academics,83.33%,,Y,87.54%,289,241
+wi,682639,Iola-Scandinavia School District,20,Iola-Scandinavia El,29.70%,*,N,,,
+wi,682639,Iola-Scandinavia School District,40,Iola-Scandinavia Hi,22.90%,*,N,,,
+wi,252646,Iowa-Grant School District,20,Iowa-Grant El/Mid,36.46%,*,N,,565,206
+wi,252646,Iowa-Grant School District,40,Iowa-Grant Hi,21.97%,*,N,,,
+wi,404026,Islamic Society Milwaukee dba Salam,8076,Salam Elementary,78.68%,*,N,,483,380
+wi,404026,Islamic Society Milwaukee dba Salam,8075,Salam School,72.69%,*,N,,249,181
+wi,522660,Ithaca School District,40,Ithaca El,38.86%,*,N,,193,75
+wi,522660,Ithaca School District,60,Ithaca Hi,33.59%,*,N,,131,44
+wi,522660,Ithaca School District,80,Ithaca Mid,39.32%,*,N,,117,46
+wi,532695,Janesville School District,20,Adams Elementary,50.60%,,Y,53.90%,334,169
+wi,532695,Janesville School District,860,Arise Virtual Academy,39.15%,*,N,,189,74
+wi,532695,Janesville School District,60,Craig High,24.14%,*,N,,,
+wi,532695,Janesville School District,70,Edison Middle,43.35%,*,N,,586,254
+wi,532695,Janesville School District,80,Franklin Middle,49.92%,,Y,53.90%,637,318
+wi,532695,Janesville School District,110,Harrison Elementary,20.92%,*,N,,,
+wi,532695,Janesville School District,140,Jackson Elementary,63.24%,,Y,53.90%,321,203
+wi,532695,Janesville School District,160,Jefferson Elementary,45.51%,,Y,53.90%,334,152
+wi,532695,Janesville School District,180,Kennedy Elementary,31.99%,*,N,,347,111
+wi,532695,Janesville School District,200,Lincoln Elementary,46.91%,,Y,53.90%,356,167
+wi,532695,Janesville School District,220,Madison Elementary,48.91%,,Y,53.90%,460,225
+wi,532695,Janesville School District,240,Marshall Middle,31.04%,*,N,,886,275
+wi,532695,Janesville School District,260,Monroe Elementary,39.30%,*,N,,402,158
+wi,532695,Janesville School District,280,Parker High,32.90%,*,N,,1155,380
+wi,532695,Janesville School District,400,Rock River Charter Sch,70.41%,,Y,53.90%,196,138
+wi,532695,Janesville School District,450,Rock University High School,6.90%,*,N,,,
+wi,532695,Janesville School District,320,Roosevelt Elementary,40.76%,*,N,,368,150
+wi,532695,Janesville School District,430,TAGOS Leadership Academy,48.33%,,Y,53.90%,60,29
+wi,532695,Janesville School District,330,Van Buren Elementary,36.43%,*,N,,387,141
+wi,532695,Janesville School District,340,Washington Elementary,44.31%,,Y,53.90%,343,152
+wi,532695,Janesville School District,360,Wilson Elementary,86.14%,,Y,53.90%,267,230
+wi,282702,Jefferson School District,40,East Elementary,31.45%,*,N,,318,100
+wi,282702,Jefferson School District,80,Jefferson High School,25.32%,*,N,,,
+wi,282702,Jefferson School District,60,Jefferson Middle School,31.67%,*,N,,401,127
+wi,282702,Jefferson School District,100,Sullivan Elementary,28.96%,*,N,,,
+wi,282702,Jefferson School District,85,West Elementary,43.19%,*,N,,301,130
+wi,282730,Johnson Creek School District,20,Johnson Creek Elementary,17.67%,*,N,,,
+wi,282730,Johnson Creek School District,40,Johnson Creek Hi,17.07%,*,N,,,
+wi,232737,Juda School District,20,Juda El,37.62%,*,N,,202,76
+wi,232737,Juda School District,40,Juda Hi,24.00%,*,N,,,
+wi,442758,Kaukauna Area School District,50,Dr H B Tanner El,23.49%,*,N,,,
+wi,442758,Kaukauna Area School District,120,Haen El,34.60%,*,N,,263,91
+wi,442758,Kaukauna Area School District,40,Kaukauna Hi,14.79%,*,N,,,
+wi,442758,Kaukauna Area School District,110,New Directions Learning Center,9.92%,*,N,,,
+wi,442758,Kaukauna Area School District,80,Park Community Charter School,15.14%,*,N,,,
+wi,442758,Kaukauna Area School District,100,Quinney El,17.52%,*,N,,,
+wi,442758,Kaukauna Area School District,200,Riverview School,18.67%,*,N,,,
+wi,302793,Kenosha Common School District,50,Bose El,53.27%,,Y,62.87%,321,171
+wi,302793,Kenosha Common School District,60,Bradford Hi,42.82%,,Y,58.27%,1497,641
+wi,302793,Kenosha Common School District,340,Brass Community Sch,83.59%,,Y,62.87%,512,428
+wi,302793,Kenosha Common School District,65,Brompton Sch,14.15%,*,N,,,
+wi,302793,Kenosha Common School District,70,Bullen Mid,53.19%,,Y,58.27%,675,359
+wi,302793,Kenosha Common School District,250,Chavez Learning Station,100.00%,,Y,58.27%,147,147
+wi,302793,Kenosha Common School District,130,Dimensions of Learning Acad,24.89%,*,N,,,
+wi,302793,Kenosha Common School District,150,Edward Bain Sch Creative Arts,83.62%,,Y,62.87%,458,383
+wi,302793,Kenosha Common School District,125,Edward Bain School Dual Langua,67.44%,,Y,62.87%,329,222
+wi,302793,Kenosha Common School District,140,Forest Park El,41.95%,,Y,58.27%,410,172
+wi,302793,Kenosha Common School District,160,Frank El,84.31%,,Y,58.27%,376,317
+wi,302793,Kenosha Common School District,180,Grant El,64.14%,,Y,58.27%,290,186
+wi,302793,Kenosha Common School District,220,Grewenow El,57.71%,,Y,62.87%,376,217
+wi,302793,Kenosha Common School District,490,Harborside Acad,24.15%,*,N,,,
+wi,302793,Kenosha Common School District,240,Harvey El,40.21%,,Y,62.87%,291,117
+wi,302793,Kenosha Common School District,280,Hillcrest Sch,81.37%,,Y,58.27%,102,83
+wi,302793,Kenosha Common School District,410,Indian Trail HS & Acad,27.47%,*,N,,,
+wi,302793,Kenosha Common School District,300,Jefferson El,80.40%,,Y,58.27%,250,201
+wi,302793,Kenosha Common School District,310,Jeffery El,36.09%,*,N,,302,109
+wi,302793,Kenosha Common School District,190,KTEC,24.73%,*,N,,,
+wi,302793,Kenosha Common School District,480,Lakeview Technology Acad,11.00%,*,N,,,
+wi,302793,Kenosha Common School District,320,Lance Mid,29.27%,*,N,,,
+wi,302793,Kenosha Common School District,360,Lincoln Mid,64.16%,,Y,58.27%,611,392
+wi,302793,Kenosha Common School District,215,Mahone Mid,27.58%,*,N,,,
+wi,302793,Kenosha Common School District,380,McKinley El,69.87%,,Y,62.87%,312,218
+wi,302793,Kenosha Common School District,170,Nash El,19.30%,*,N,,,
+wi,302793,Kenosha Common School District,420,Pleasant Prairie El,19.10%,*,N,,,
+wi,302793,Kenosha Common School District,440,Prairie Lane El,19.14%,*,N,,,
+wi,302793,Kenosha Common School District,450,Reuther Central Hi,58.04%,,Y,58.27%,398,231
+wi,302793,Kenosha Common School District,460,Roosevelt El,46.32%,,Y,62.87%,462,214
+wi,302793,Kenosha Common School District,500,Somers El,31.84%,*,N,,468,149
+wi,302793,Kenosha Common School District,520,Southport El,54.47%,,Y,62.87%,369,201
+wi,302793,Kenosha Common School District,530,Stocker El,38.60%,*,N,,443,171
+wi,302793,Kenosha Common School District,540,Strange El,62.76%,,Y,62.87%,486,305
+wi,302793,Kenosha Common School District,580,Tremper Hi,31.72%,*,N,,1636,519
+wi,302793,Kenosha Common School District,600,Vernon El,56.16%,,Y,58.27%,292,164
+wi,302793,Kenosha Common School District,640,Washington Mid,62.06%,,Y,62.87%,506,314
+wi,302793,Kenosha Common School District,680,Whittier El,24.65%,*,N,,,
+wi,302793,Kenosha Common School District,700,Wilson El,86.98%,,Y,58.27%,169,147
+wi,671376,Kettle Moraine School District,40,Cushing El,11.06%,*,N,,,
+wi,671376,Kettle Moraine School District,60,Dousman El,13.05%,*,N,,,
+wi,671376,Kettle Moraine School District,470,High School of Health Services,7.10%,*,N,,,
+wi,671376,Kettle Moraine School District,100,Kettle Moraine 4K,5.88%,*,N,,,
+wi,671376,Kettle Moraine School District,120,Kettle Moraine Hi,7.53%,*,N,,,
+wi,671376,Kettle Moraine School District,140,Kettle Moraine Mid,8.70%,*,N,,,
+wi,671376,Kettle Moraine School District,180,KM Explore,2.94%,*,N,,,
+wi,671376,Kettle Moraine School District,450,KM Global,9.20%,*,N,,,
+wi,671376,Kettle Moraine School District,160,Magee El,10.79%,*,N,,,
+wi,671376,Kettle Moraine School District,460,School for Arts & Performance,10.07%,*,N,,,
+wi,671376,Kettle Moraine School District,3375,St. Bruno Catholic School,0.63%,*,N,,,
+wi,671376,Kettle Moraine School District,240,Wales El,8.48%,*,N,,,
+wi,662800,Kewaskum School District,40,Farmington El,18.07%,*,N,,,
+wi,662800,Kewaskum School District,100,i4Learning Community School,13.89%,*,N,,,
+wi,662800,Kewaskum School District,60,Kewaskum El,21.18%,*,N,,,
+wi,662800,Kewaskum School District,80,Kewaskum Hi,12.10%,*,N,,,
+wi,662800,Kewaskum School District,90,Kewaskum Mid,13.30%,*,N,,,
+wi,312814,Kewaunee School District,170,Kewaunee Elementary School,23.78%,*,N,,,
+wi,312814,Kewaunee School District,100,Kewaunee HS,17.34%,*,N,,,
+wi,312814,Kewaunee School District,160,Kewaunee Middle School,24.14%,*,N,,,
+wi,625960,Kickapoo Area School District,60,Kickapoo Elementary,36.28%,*,N,,226,82
+wi,625960,Kickapoo Area School District,20,Kickapoo Hi,31.29%,*,N,,294,92
+wi,362828,Kiel Area School District,405,Kiel eSchool,8.33%,*,N,,,
+wi,362828,Kiel Area School District,40,Kiel High School,9.33%,*,N,,,
+wi,362828,Kiel Area School District,60,Kiel Middle School,14.20%,*,N,,,
+wi,362828,Kiel Area School District,100,Zielanis El,14.12%,*,N,,,
+wi,442835,Kimberly Area School District,150,4K Center for Literacy,14.04%,*,N,,,
+wi,442835,Kimberly Area School District,40,Gerritts Mid,7.61%,*,N,,,
+wi,442835,Kimberly Area School District,20,Janssen Elementary,15.82%,*,N,,,
+wi,442835,Kimberly Area School District,80,Kimberly Hi,10.11%,*,N,,,
+wi,442835,Kimberly Area School District,140,Mapleview Intermediate School,17.15%,*,N,,,
+wi,442835,Kimberly Area School District,60,Sunrise El,9.34%,*,N,,,
+wi,442835,Kimberly Area School District,110,Westside El,24.43%,*,N,,,
+wi,442835,Kimberly Area School District,130,Woodland Elementary,4.77%,*,N,,,
+wi,442835,Kimberly Area School District,100,Woodland Intermediate,6.16%,*,N,,,
+wi,401774,Kingdom Prep Lutheran HS,1774,Kingdom Prep Lutheran HS,58.57%,,Y,58.57%,70,41
+wi,401221,"King's Academy, Inc.",1221,"King's Academy, Inc",71.96%,,Y,71.96%,189,136
+wi,678135,"La Casa de Esperanza, Inc.",100,"La Casa de Esperanza, Inc.",70.53%,,Y,70.53%,95,67
+wi,577169,Lac Courte Oreilles School,1639,Lac Courte Oreilles School,64.96%,,Y,64.96%,274,178
+wi,631848,Lac du Flambeau School District,20,Lac du Flambeau El,80.61%,,Y,80.61%,521,420
+wi,322849,LaCrosse School District,440,7 Rivers Community Charter HS,32.26%,*,N,,31,10
+wi,322849,LaCrosse School District,20,Central Hi,28.37%,*,N,,,
+wi,322849,LaCrosse School District,140,Coulee Montessori Charter Scho,37.07%,*,N,,161,60
+wi,322849,LaCrosse School District,60,Emerson Elementary,26.14%,*,N,,,
+wi,322849,LaCrosse School District,100,Hamilton Early Learning Center,62.50%,,Y,64.48%,167,104
+wi,322849,LaCrosse School District,120,Hintgen El,43.84%,*,N,,333,146
+wi,322849,LaCrosse School District,250,La Crosse Design Institute,32.79%,*,N,,61,20
+wi,322849,LaCrosse School District,114,La Crosse Offsite Preschools,15.46%,*,N,,,
+wi,322849,LaCrosse School District,410,LaCrossroads Charter,64.82%,,Y,64.48%,54,35
+wi,322849,LaCrosse School District,180,Lincoln Mid,35.58%,*,N,,312,111
+wi,322849,LaCrosse School District,220,Logan Hi,36.67%,*,N,,780,286
+wi,322849,LaCrosse School District,200,Logan Mid,47.36%,*,N,,435,206
+wi,322849,LaCrosse School District,240,Longfellow Mid,29.23%,*,N,,,
+wi,322849,LaCrosse School District,111,North Woods International Scho,45.20%,*,N,,354,160
+wi,322849,LaCrosse School District,80,Northside Elementary,56.55%,,Y,64.48%,390,221
+wi,322849,LaCrosse School District,360,Sch of Technology & Arts I,24.17%,*,N,,,
+wi,322849,LaCrosse School District,204,Sch of Technology & Arts II,9.09%,*,N,,,
+wi,322849,LaCrosse School District,110,Southern Bluffs El,25.16%,*,N,,,
+wi,322849,LaCrosse School District,290,Spence El,38.44%,*,N,,372,143
+wi,322849,LaCrosse School District,320,State Road El,29.38%,*,N,,,
+wi,322849,LaCrosse School District,340,Summit Environmental School,39.88%,*,N,,341,136
+wi,622863,LaFarge School District,20,La Farge El,40.37%,*,N,,109,44
+wi,622863,LaFarge School District,40,La Farge Hi,43.08%,*,N,,65,28
+wi,622863,LaFarge School District,210,La Farge Mid,44.44%,*,N,,45,20
+wi,673862,Lake Country School District,30,Lake Country School,5.93%,*,N,,,
+wi,642885,Lake Geneva Joint #1 School District,20,Central/Denison Elementary,32.88%,*,N,,590,194
+wi,642885,Lake Geneva Joint #1 School District,80,Eastview El,34.60%,*,N,,263,91
+wi,642885,Lake Geneva Joint #1 School District,60,Lake Geneva Middle School,30.51%,*,N,,672,205
+wi,642885,Lake Geneva Joint #1 School District,120,Star Center El,40.56%,*,N,,429,174
+wi,642884,Lake Geneva-Genoa UHS,401,Brookwood Elementary,30.59%,*,N,,255,78
+wi,642884,Lake Geneva-Genoa UHS,200,Brookwood Middle School,32.63%,*,N,,285,93
+wi,642884,Lake Geneva-Genoa UHS,20,Lake Geneva Genoa Union High School,23.01%,*,N,,,
+wi,92891,Lake Holcombe School District,20,Holcombe El,40.93%,*,N,,215,88
+wi,92891,Lake Holcombe School District,40,Holcombe Hi,27.18%,*,N,,,
+wi,282898,Lake Mills School District,9803,JEDI VIRTUAL SCHOOL,50.00%,*,N,,6,3
+wi,282898,Lake Mills School District,100,Lake Mills Elementary School,20.57%,*,N,,,
+wi,282898,Lake Mills School District,40,Lake Mills Hi,15.96%,*,N,,,
+wi,282898,Lake Mills School District,60,Lake Mills Mid,22.41%,*,N,,,
+wi,433647,Lakeland Union High School District,20,Lakeland Union High School,29.26%,*,N,,,
+wi,287170,Lakeside Lutheran High Sch,1640,Lakeside Lutheran Hi,8.37%,*,N,,,
+wi,222912,Lancaster Community School District,20,Lancaster Hi,21.09%,*,N,,,
+wi,222912,Lancaster Community School District,40,Lancaster Mid,23.81%,*,N,,,
+wi,222912,Lancaster Community School District,60,Winskill El,31.61%,*,N,,,
+wi,212940,Laona School District,20,Laona High School,40.82%,,Y,40.00%,101,41
+wi,212940,Laona School District,40,Robinson El,37.58%,,Y,40.00%,164,62
+wi,422961,Lena Public School District,20,Lena El,32.80%,*,N,,186,61
+wi,422961,Lena Public School District,40,Lena Hi,26.85%,*,N,,,
+wi,422961,Lena Public School District,60,LENA MIDDLE,28.16%,*,N,,,
+wi,131417,"Lighthouse Church, Inc.",1417,Lighthouse Christian School,45.65%,*,N,,184,84
+wi,643087,Linn Joint #4 School District,20,Traver School,37.96%,*,N,,108,41
+wi,643094,Linn Joint #6 School District,20,Reek Elementary School,21.13%,*,N,,,
+wi,443129,Little Chute School District,130,Flex Academy,18.28%,*,N,,,
+wi,443129,Little Chute School District,410,Little Chute Career Pathways,8.48%,*,N,,,
+wi,443129,Little Chute School District,20,Little Chute El,27.15%,*,N,,,
+wi,443129,Little Chute School District,40,Little Chute Hi,21.73%,*,N,,,
+wi,443129,Little Chute School District,100,Little Chute Intermediate,23.94%,*,N,,,
+wi,443129,Little Chute School District,60,Little Chute Mid,23.08%,*,N,,,
+wi,113150,Lodi School District,40,Lodi El,13.33%,*,N,,,
+wi,113150,Lodi School District,80,Lodi Hi,12.27%,*,N,,,
+wi,113150,Lodi School District,100,Lodi Mid,11.46%,*,N,,,
+wi,113150,Lodi School District,20,Lodi Primary,14.47%,*,N,,,
+wi,113150,Lodi School District,110,Ouisconsing Sch of Collaboratn,8.86%,*,N,,,
+wi,143171,Lomira School District,40,Lomira El,22.03%,*,N,,,
+wi,143171,Lomira School District,60,Lomira Hi,13.73%,*,N,,,
+wi,143171,Lomira School District,70,Lomira Jr,18.07%,*,N,,,
+wi,143171,Lomira School District,80,Theresa El,28.81%,*,N,,,
+wi,707171,Lourdes Academy,8015,Lourdes Academy Elementary,9.02%,*,N,,,
+wi,707171,Lourdes Academy,1665,Lourdes Academy High School,5.56%,*,N,,,
+wi,707171,Lourdes Academy,7370,Lourdes Academy Middle School,14.86%,*,N,,,
+wi,103206,Loyal School District,20,Loyal El,37.01%,*,N,,281,104
+wi,103206,Loyal School District,60,Loyal Hi,22.08%,*,N,,,
+wi,103206,Loyal School District,40,Loyal Jr,32.88%,*,N,,73,24
+wi,483213,Luck Joint School District,40,Luck El,35.82%,*,N,,268,96
+wi,483213,Luck Joint School District,60,Luck Hi,33.33%,*,N,,204,68
+wi,409862,"LUMIN, Inc.",1165,Granville Lutheran School,72.92%,,Y,62.50%,240,175
+wi,409862,"LUMIN, Inc.",4835,St. John Lutheran,0.00%,,Y,62.50%,36,0
+wi,409862,"LUMIN, Inc.",1619,Renaissance School- Taylor Street ,0.00%,,Y,62.50%,164,0
+wi,409862,"LUMIN, Inc.",1121,Renaissance School- Villa Street,0.00%,,Y,62.50%,227,0
+wi,409862,"LUMIN, Inc.",2030,Northwest Lutheran Grade Sch,68.89%,,Y,62.50%,225,155
+wi,409862,"LUMIN, Inc.",2291,Pilgrim Lutheran School,66.84%,,Y,62.50%,193,129
+wi,409862,"LUMIN, Inc.",5830,St. Martini Lutheran School,83.25%,,Y,62.50%,209,174
+wi,401685,Lutheran Special School and Education,1742,Lutheran Special School,53.13%,,Y,53.13%,32,17
+wi,313220,Luxemburg-Casco School District,140,Luxemburg-Casco Hi,11.80%,*,N,,,
+wi,313220,Luxemburg-Casco School District,100,Luxemburg-Casco Intermediate,14.16%,*,N,,,
+wi,313220,Luxemburg-Casco School District,120,Luxemburg-Casco Mid,12.96%,*,N,,,
+wi,313220,Luxemburg-Casco School District,110,Luxemburg-Casco Primary,16.84%,*,N,,,
+wi,133269,Madison Metro School District,190,4K PK Off Site (Learning Cente,39.88%,*,N,,860,343
+wi,133269,Madison Metro School District,225,Allis Elementary,59.92%,,Y,56.48%,474,284
+wi,133269,Madison Metro School District,200,Badger Rock Middle School,62.65%,,Y,56.48%,83,52
+wi,133269,Madison Metro School District,690,Black Hawk Middle,54.66%,,Y,56.48%,397,217
+wi,133269,Madison Metro School District,410,Capital High,66.05%,*,N,,162,107
+wi,133269,Madison Metro School District,110,Cesar Chavez Elementary,24.59%,*,N,,,
+wi,133269,Madison Metro School District,90,Cherokee Heights Middle,38.60%,*,N,,557,215
+wi,133269,Madison Metro School District,105,Crestwood Elementary,31.58%,*,N,,323,102
+wi,133269,Madison Metro School District,150,East High School,39.19%,*,N,,1595,625
+wi,133269,Madison Metro School District,165,Elvehjem Elementary,24.52%,*,N,,,
+wi,133269,Madison Metro School District,180,Emerson Elementary,44.02%,*,N,,418,184
+wi,133269,Madison Metro School District,210,Falk Elementary,55.76%,,Y,56.48%,382,213
+wi,133269,Madison Metro School District,240,Franklin Elementary,20.94%,*,N,,,
+wi,133269,Madison Metro School District,255,Glendale Elementary,53.01%,,Y,56.48%,498,264
+wi,133269,Madison Metro School District,675,Gompers Elementary,40.10%,*,N,,202,81
+wi,133269,Madison Metro School District,810,Hamilton Middle,12.71%,*,N,,,
+wi,133269,Madison Metro School District,48,Hawthorne Elementary,59.47%,,Y,56.48%,375,223
+wi,133269,Madison Metro School District,660,Huegel Elementary,38.29%,*,N,,478,183
+wi,133269,Madison Metro School District,460,Innovative & Alt HS,68.71%,,Y,56.48%,163,112
+wi,133269,Madison Metro School District,370,Jefferson Middle,38.69%,*,N,,535,207
+wi,133269,Madison Metro School District,375,Kennedy Elementary,33.08%,*,N,,517,171
+wi,133269,Madison Metro School District,420,LaFollette HS,34.48%,*,N,,1546,533
+wi,133269,Madison Metro School District,435,Lake View Elementary,66.92%,,Y,56.48%,260,174
+wi,133269,Madison Metro School District,53,Lapham Elementary,38.55%,*,N,,262,101
+wi,133269,Madison Metro School District,475,Leopold Elementary,54.94%,,Y,56.48%,719,395
+wi,133269,Madison Metro School District,15,Lincoln Elementary,37.81%,*,N,,447,169
+wi,133269,Madison Metro School District,65,Lindbergh Elementary,53.41%,,Y,56.48%,176,94
+wi,133269,Madison Metro School District,495,Lowell Elementary,30.17%,*,N,,348,105
+wi,133269,Madison Metro School District,525,Marquette Elementary,38.16%,*,N,,207,79
+wi,133269,Madison Metro School District,360,Memorial High School,21.83%,*,N,,,
+wi,133269,Madison Metro School District,555,Mendota Elementary,60.19%,,Y,56.48%,314,189
+wi,133269,Madison Metro School District,820,Metro High,78.26%,*,N,,23,18
+wi,133269,Madison Metro School District,570,Midvale Elementary,37.27%,*,N,,432,161
+wi,133269,Madison Metro School District,390,Muir Elementary,39.38%,*,N,,452,178
+wi,133269,Madison Metro School District,125,Nuestro Mundo,39.15%,*,N,,304,119
+wi,133269,Madison Metro School District,540,O'Keeffe Middle,37.17%,*,N,,460,171
+wi,133269,Madison Metro School District,140,Olson Elementary,27.21%,*,N,,,
+wi,133269,Madison Metro School District,615,Orchard Ridge Elementary,56.27%,,Y,56.48%,295,166
+wi,133269,Madison Metro School District,645,Randall Elementary,21.01%,*,N,,,
+wi,133269,Madison Metro School District,40,Sandburg Elementary,52.55%,,Y,56.48%,491,258
+wi,133269,Madison Metro School District,300,Schenk Elementary,48.85%,*,N,,391,191
+wi,133269,Madison Metro School District,665,Sennett Mid,43.72%,*,N,,661,289
+wi,133269,Madison Metro School District,400,Shabazz City High,22.76%,*,N,,,
+wi,133269,Madison Metro School District,710,Sherman Middle,53.88%,,Y,56.48%,464,250
+wi,133269,Madison Metro School District,735,Shorewood Hills Elementary,10.97%,*,N,,,
+wi,133269,Madison Metro School District,850,Spring Harbor Middle,22.64%,*,N,,,
+wi,133269,Madison Metro School District,270,Stephens Elementary,33.51%,*,N,,561,188
+wi,133269,Madison Metro School District,780,Thoreau Elementary,34.96%,*,N,,452,158
+wi,133269,Madison Metro School District,620,Toki Middle,37.23%,*,N,,591,220
+wi,133269,Madison Metro School District,795,Van Hise Elementary,9.55%,*,N,,,
+wi,133269,Madison Metro School District,840,West High School,20.83%,*,N,,,
+wi,133269,Madison Metro School District,315,Whitehorse Middle,41.58%,*,N,,481,200
+wi,133269,Madison Metro School District,440,Wright Middle,50.20%,,Y,56.48%,247,124
+wi,406916,Malaika Early Learning Center,1374,Malaika Early Learning Center,81.37%,,Y,81.37%,102,83
+wi,683276,Manawa School District,40,Little Wolf Jr./Sr. School,23.21%,*,N,,,
+wi,683276,Manawa School District,60,Manawa Elementary,33.55%,*,N,,307,103
+wi,363290,Manitowoc School District,60,Franklin El,49.78%,*,N,,460,229
+wi,363290,Manitowoc School District,100,Jackson El,28.42%,*,N,,,
+wi,363290,Manitowoc School District,120,Jefferson El,62.74%,,Y,62.74%,424,266
+wi,363290,Manitowoc School District,140,Lincoln High School,27.11%,*,N,,,
+wi,363290,Manitowoc School District,160,Madison Elementary,48.52%,*,N,,270,131
+wi,363290,Manitowoc School District,400,McKinley School,62.50%,*,N,,64,40
+wi,363290,Manitowoc School District,220,Monroe Elementary,40.33%,*,N,,362,146
+wi,363290,Manitowoc School District,240,Riverview Elementary,46.44%,*,N,,435,202
+wi,363290,Manitowoc School District,260,Stangel Elementary,25.43%,*,N,,,
+wi,363290,Manitowoc School District,280,Washington Jr,44.76%,*,N,,639,286
+wi,363290,Manitowoc School District,300,Wilson Jr,28.40%,*,N,,,
+wi,401897,Maple Dale Indian Hill School District,20,Indian Hill El,11.11%,*,N,,,
+wi,401897,Maple Dale Indian Hill School District,40,Maple Dale El,12.21%,*,N,,,
+wi,163297,Maple School District,80,Iron River Elementary School,25.81%,*,N,,,
+wi,163297,Maple School District,130,Northwestern Elementary School,25.00%,*,N,,,
+wi,163297,Maple School District,160,Northwestern High School,17.54%,*,N,,,
+wi,163297,Maple School District,170,Northwestern Middle School,22.74%,*,N,,,
+wi,373304,Marathon City School District,20,Marathon El,16.91%,*,N,,,
+wi,373304,Marathon City School District,40,Marathon Hi,11.02%,*,N,,,
+wi,373304,Marathon City School District,210,Marathon Venture Academy,16.33%,*,N,,,
+wi,383311,Marinette School District,40,Garfield Elementary,44.26%,*,N,,183,81
+wi,383311,Marinette School District,60,Marinette High School,33.06%,*,N,,617,204
+wi,383311,Marinette School District,70,Marinette Middle School,37.15%,*,N,,611,227
+wi,383311,Marinette School District,120,Merryman Elementary,37.11%,*,N,,153,57
+wi,383311,Marinette School District,140,Park Elementary,48.43%,*,N,,223,108
+wi,383311,Marinette School District,100,Sunrise Early Learning Center,43.09%,*,N,,126,54
+wi,683318,Marion School District,80,Marion Elementary,36.58%,*,N,,257,94
+wi,683318,Marion School District,100,Marion High School,28.57%,*,N,,,
+wi,243325,Markesan School District,120,Markesan Hi,27.56%,*,N,,,
+wi,243325,Markesan School District,110,Markesan Intermediate School,27.43%,*,N,,,
+wi,243325,Markesan School District,25,Markesan Mid,30.00%,*,N,,180,54
+wi,243325,Markesan School District,100,Markesan Primary School,33.48%,*,N,,236,79
+wi,133332,Marshall School District,80,Marshall Early Learning Ctr,32.74%,*,N,,281,92
+wi,133332,Marshall School District,20,Marshall Elementary,34.15%,*,N,,287,98
+wi,133332,Marshall School District,40,Marshall High School,24.27%,*,N,,,
+wi,133332,Marshall School District,60,Marshall Middle School,26.71%,*,N,,,
+wi,713339,Marshfield School District,40,Grant Elementary,29.46%,*,N,,,
+wi,713339,Marshfield School District,80,Lincoln Elementary,44.41%,*,N,,322,143
+wi,713339,Marshfield School District,100,Madison Elementary,35.69%,*,N,,325,116
+wi,713339,Marshfield School District,130,Marshfield 4K,33.65%,*,N,,211,71
+wi,713339,Marshfield School District,120,Marshfield High School,21.96%,*,N,,,
+wi,713339,Marshfield School District,110,Marshfield Middle School,24.87%,*,N,,,
+wi,713339,Marshfield School District,140,Nasonville Elementary,21.70%,*,N,,,
+wi,713339,Marshfield School District,180,Washington Elementary,24.85%,*,N,,,
+wi,707189,Martin Luther School,1780,Martin Luther,9.80%,*,N,,,
+wi,407862,Mary Queen of Saints Catholic Academy,2880,Mary Queen of Saints Academy-Greenfield,30.14%,*,N,,219,66
+wi,293360,Mauston School District,100,Grayside Elementary,45.14%,*,N,,257,116
+wi,293360,Mauston School District,410,iLEAD Charter,43.75%,*,N,,80,35
+wi,293360,Mauston School District,40,Lyndon Station El,50.85%,*,N,,59,30
+wi,293360,Mauston School District,60,Mauston Hi,27.89%,*,N,,,
+wi,293360,Mauston School District,20,Olson Mid,42.18%,*,N,,294,124
+wi,293360,Mauston School District,80,West Side El,55.16%,*,N,,281,155
+wi,143367,Mayville School District,80,Mayville Hi,13.16%,*,N,,,
+wi,143367,Mayville School District,60,Mayville Mid,23.58%,*,N,,,
+wi,143367,Mayville School District,90,Parkview El,28.14%,*,N,,,
+wi,97201,McDonell Area Catholic Schools,1802,Holy Ghost Elementary School,11.11%,*,N,,,
+wi,97201,McDonell Area Catholic Schools,1800,McDonell Hi,8.00%,*,N,,,
+wi,97201,McDonell Area Catholic Schools,3450,St. Charles Primary School,26.00%,*,N,,,
+wi,133381,McFarland School District,150,4K McFarland,14.46%,*,N,,,
+wi,133381,McFarland School District,20,Conrad Elvehjem Primary School,9.93%,*,N,,,
+wi,133381,McFarland School District,450,Destinations Career Academy of,5.15%,*,N,,,
+wi,133381,McFarland School District,60,Indian Mound Mid,11.09%,*,N,,,
+wi,133381,McFarland School District,470,Insight School of Wisconsin,0.00%,*,N,,,
+wi,133381,McFarland School District,80,McFarland High School,9.54%,*,N,,,
+wi,133381,McFarland School District,40,Waubesa Intermediate Sch,7.71%,*,N,,,
+wi,133381,McFarland School District,430,WIVA High School,2.76%,*,N,,,
+wi,133381,McFarland School District,160,WIVA k-8,2.64%,*,N,,,
+wi,603409,Medford Area School District,180,Medford Elementary,33.23%,*,N,,650,216
+wi,603409,Medford Area School District,220,Medford Hi,22.17%,*,N,,,
+wi,603409,Medford Area School District,240,Medford Mid,27.67%,*,N,,,
+wi,603409,Medford Area School District,320,Stetsonville El,30.92%,*,N,,207,64
+wi,23427,Mellen School District,800,Mellen Public School,42.49%,*,N,,273,116
+wi,273428,Melrose Mindoro School District,20,Melrose El,27.08%,*,N,,,
+wi,273428,Melrose Mindoro School District,40,Melrose-Mindoro JR/HS,24.78%,*,N,,,
+wi,703430,Menasha School District,160,Banta Sch,40.18%,*,N,,219,88
+wi,703430,Menasha School District,40,Butte des Morts El,52.96%,*,N,,406,215
+wi,703430,Menasha School District,60,Clovis Grove El,36.87%,*,N,,518,191
+wi,703430,Menasha School District,120,Gegan El,53.58%,*,N,,349,187
+wi,703430,Menasha School District,80,Jefferson El,52.06%,*,N,,146,76
+wi,703430,Menasha School District,20,Maplewood Mid,38.88%,*,N,,769,299
+wi,703430,Menasha School District,100,Menasha Hi,35.01%,*,N,,914,320
+wi,703430,Menasha School District,140,Nicolet El,47.41%,*,N,,135,64
+wi,723434,Menominee Indian School District,20,Keshena Primary School,77.54%,,Y,75.96%,472,366
+wi,723434,Menominee Indian School District,40,Menominee Indian High School,72.61%,,Y,75.96%,303,220
+wi,723434,Menominee Indian School District,60,Menominee Indian Middle School,77.64%,,Y,75.96%,161,125
+wi,727381,Menominee Indian Tribe of Wisconsin,1810,Menominee Tribal School,67.00%,,Y,67.00%,200,134
+wi,673437,Menomonee Falls School District,40,Benjamin Franklin Elementary,11.86%,*,N,,,
+wi,673437,Menomonee Falls School District,110,Menomonee Falls High School,10.97%,*,N,,,
+wi,673437,Menomonee Falls School District,220,North Middle School,14.97%,*,N,,,
+wi,673437,Menomonee Falls School District,65,Riverside Elementary,16.44%,*,N,,,
+wi,673437,Menomonee Falls School District,200,Shady Lane El,12.68%,*,N,,,
+wi,673437,Menomonee Falls School District,85,Valley View Elementary,15.22%,*,N,,,
+wi,173444,Menomonie School District,60,Downsville El,28.44%,*,N,,,
+wi,173444,Menomonie School District,110,Knapp El,31.37%,*,N,,102,32
+wi,173444,Menomonie School District,150,Menomonie Area 4K,34.66%,*,N,,251,87
+wi,173444,Menomonie School District,180,Menomonie Hi,25.08%,*,N,,,
+wi,173444,Menomonie School District,160,Menomonie Mid,31.37%,*,N,,746,234
+wi,173444,Menomonie School District,210,Oaklawn El,23.59%,*,N,,,
+wi,173444,Menomonie School District,220,River Heights El,50.24%,*,N,,426,214
+wi,173444,Menomonie School District,20,Wakanda El,29.93%,*,N,,,
+wi,453479,Mequon-Thiensville School District,20,Donges Bay El,8.20%,*,N,,,
+wi,453479,Mequon-Thiensville School District,60,Homestead Hi,7.14%,*,N,,,
+wi,453479,Mequon-Thiensville School District,80,Lake Shore Mid,6.41%,*,N,,,
+wi,453479,Mequon-Thiensville School District,100,Oriole Lane El,10.67%,*,N,,,
+wi,453479,Mequon-Thiensville School District,150,Range Line Early Childhood,7.14%,*,N,,,
+wi,453479,Mequon-Thiensville School District,140,Steffen Mid,9.57%,*,N,,,
+wi,453479,Mequon-Thiensville School District,160,Wilson El,10.52%,*,N,,,
+wi,263484,Mercer School District,40,Mercer School,39.10%,*,N,,156,61
+wi,353500,Merrill Area Public School District,800,Bridges Virtual Academy,24.75%,*,N,,,
+wi,353500,Merrill Area Public School District,60,Jefferson El,40.09%,*,N,,222,89
+wi,353500,Merrill Area Public School District,190,Kate Goodrich El,40.00%,*,N,,360,144
+wi,353500,Merrill Area Public School District,110,Maple Grove El,21.95%,*,N,,,
+wi,353500,Merrill Area Public School District,400,Merrill Adult Diploma Academy,35.00%,*,N,,20,7
+wi,353500,Merrill Area Public School District,140,Merrill Hi,24.88%,*,N,,,
+wi,353500,Merrill Area Public School District,240,Pine River School Young Learne,53.20%,*,N,,203,108
+wi,353500,Merrill Area Public School District,260,Prairie River Mid,29.11%,*,N,,,
+wi,353500,Merrill Area Public School District,220,Washington El,35.17%,*,N,,273,96
+wi,673528,Merton Community School District,20,Merton Intermediate School,3.04%,*,N,,,
+wi,673528,Merton Community School District,40,Merton Primary School,5.74%,*,N,,,
+wi,407186,Messmer Catholic Schools,1822,Messmer High School,62.48%,,Y,69.34%,661,413
+wi,407186,Messmer Catholic Schools,1606,Messmer St. Mary,71.26%,,Y,69.34%,428,305
+wi,407186,Messmer Catholic Schools,962,Messmer St. Rose,77.96%,,Y,69.34%,431,336
+wi,133549,Middleton-Cross Plains School District,400,Clark Street Community School,22.58%,*,N,,,
+wi,133549,Middleton-Cross Plains School District,40,Elm Lawn El,12.21%,*,N,,,
+wi,133549,Middleton-Cross Plains School District,50,Glacier Creek Mid,13.71%,*,N,,,
+wi,133549,Middleton-Cross Plains School District,30,Kromrey Mid,19.41%,*,N,,,
+wi,133549,Middleton-Cross Plains School District,60,Middleton High School,12.04%,*,N,,,
+wi,133549,Middleton-Cross Plains School District,90,Northside El,8.16%,*,N,,,
+wi,133549,Middleton-Cross Plains School District,100,Park El,10.73%,*,N,,,
+wi,133549,Middleton-Cross Plains School District,120,Sauk Trail El,36.46%,*,N,,288,105
+wi,133549,Middleton-Cross Plains School District,150,Sunset Ridge El,4.57%,*,N,,,
+wi,133549,Middleton-Cross Plains School District,160,West Middleton El,20.00%,*,N,,,
+wi,533612,Milton School District,40,Consolidated El,2.44%,*,N,,,
+wi,533612,Milton School District,80,East El,26.52%,*,N,,,
+wi,533612,Milton School District,160,Harmony Elementary,12.65%,*,N,,,
+wi,533612,Milton School District,100,Milton High School,13.76%,*,N,,,
+wi,533612,Milton School District,120,Milton Mid,17.06%,*,N,,,
+wi,533612,Milton School District,130,Northside Intermediate,18.90%,*,N,,,
+wi,533612,Milton School District,140,West El,21.51%,*,N,,,
+wi,408106,Milwaukee Academy of Science,1251,Milwaukee Academy of Science,81.86%,,Y,81.86%,987,808
+wi,408127,Dr. Howard Fuller Collegiate Academy,400,Dr. Howard Fuller Collegiate Academy,74.52%,,Y,74.52%,263,196
+wi,408128,Milwaukee Math and Science Academy,800,Milwaukee Math and Science Aca,86.73%,,Y,86.73%,324,281
+wi,403619,Milwaukee Public School District,316,Acad of Accelerated Learning,53.54%,,Y,70.48%,622,333
+wi,403619,Milwaukee Public School District,162,ALBA,68.56%,,Y,70.48%,493,338
+wi,403619,Milwaukee Public School District,75,Alcott El,58.31%,,Y,70.48%,331,193
+wi,403619,Milwaukee Public School District,73,Allen-Field El,82.99%,,Y,70.48%,676,561
+wi,403619,Milwaukee Public School District,413,Alliance Sch of Milw,68.23%,,Y,70.48%,192,131
+wi,403619,Milwaukee Public School District,124,Andrew Douglas Sch,95.49%,,Y,70.48%,255,243
+wi,403619,Milwaukee Public School District,1063,ASSATA,79.25%,,Y,70.48%,106,84
+wi,403619,Milwaukee Public School District,434,Audubon Hi,56.08%,,Y,70.48%,362,203
+wi,403619,Milwaukee Public School District,41,Audubon Mid,78.87%,,Y,70.48%,568,448
+wi,403619,Milwaukee Public School District,77,Auer Avenue El,96.04%,,Y,70.48%,191,183
+wi,403619,Milwaukee Public School District,432,Banner Prep,88.42%,,Y,70.48%,95,84
+wi,403619,Milwaukee Public School District,188,Barbee El,75.79%,,Y,70.48%,318,241
+wi,403619,Milwaukee Public School District,81,Barton El,83.45%,,Y,70.48%,296,247
+wi,403619,Milwaukee Public School District,12,Bay View Hi,74.71%,,Y,70.48%,866,647
+wi,403619,Milwaukee Public School District,112,Bay View Montessori,20.15%,,Y,70.48%,273,55
+wi,403619,Milwaukee Public School District,356,Bethune Acad,91.92%,,Y,70.48%,569,523
+wi,403619,Milwaukee Public School District,14,Bradley Tech Hi,78.88%,,Y,70.48%,895,706
+wi,403619,Milwaukee Public School District,89,Brown Street Acad,91.67%,,Y,70.48%,312,286
+wi,403619,Milwaukee Public School District,92,Browning El,87.27%,,Y,70.48%,330,288
+wi,403619,Milwaukee Public School District,93,Bruce El,81.71%,,Y,70.48%,257,210
+wi,403619,Milwaukee Public School District,94,Bryant El,86.69%,,Y,70.48%,248,215
+wi,403619,Milwaukee Public School District,95,Burbank El,74.69%,,Y,70.48%,652,487
+wi,403619,Milwaukee Public School District,98,Burdick El,41.87%,,Y,70.48%,652,273
+wi,403619,Milwaukee Public School District,407,Carmen Hi-South Campus,55.74%,,Y,70.48%,357,199
+wi,403619,Milwaukee Public School District,213,Carmen Mid South Campus,72.06%,,Y,70.48%,68,49
+wi,403619,Milwaukee Public School District,444,Carmen Northwest Campus,59.22%,,Y,70.48%,613,363
+wi,403619,Milwaukee Public School District,451,Carmen Southeast,59.33%,,Y,70.48%,359,213
+wi,403619,Milwaukee Public School District,108,Carson Acad,86.23%,,Y,70.48%,530,457
+wi,403619,Milwaukee Public School District,178,Carver Acad,91.92%,,Y,70.48%,433,398
+wi,403619,Milwaukee Public School District,104,Cass Street El,88.60%,,Y,70.48%,430,381
+wi,403619,Milwaukee Public School District,110,Clarke Street El,92.95%,,Y,70.48%,312,290
+wi,403619,Milwaukee Public School District,114,Clemens El,90.32%,,Y,70.48%,341,308
+wi,403619,Milwaukee Public School District,113,Clement Avenue El,58.72%,,Y,70.48%,453,266
+wi,403619,Milwaukee Public School District,116,Congress El,79.32%,,Y,70.48%,764,606
+wi,403619,Milwaukee Public School District,117,Cooper El,43.27%,,Y,70.48%,453,196
+wi,403619,Milwaukee Public School District,501,Craig Montessori Sch,57.70%,,Y,70.48%,383,221
+wi,403619,Milwaukee Public School District,122,Curtin El,66.35%,,Y,70.48%,318,211
+wi,403619,Milwaukee Public School District,850,Daniel Webster Secondary Sch,83.67%,,N,,,
+wi,403619,Milwaukee Public School District,820,Daniels Univ Prep,89.67%,,Y,70.48%,213,191
+wi,403619,Milwaukee Public School District,125,Doerfler El,80.43%,,Y,70.48%,654,526
+wi,403619,Milwaukee Public School District,143,Eighty-First Street El,69.75%,,Y,70.48%,367,256
+wi,403619,Milwaukee Public School District,148,Elm Creative Arts El,90.58%,,Y,70.48%,446,404
+wi,403619,Milwaukee Public School District,150,Emerson El,76.34%,,Y,70.48%,262,200
+wi,403619,Milwaukee Public School District,152,Engleburg El,78.20%,,Y,70.48%,289,226
+wi,403619,Milwaukee Public School District,155,Fairview El,41.18%,,Y,70.48%,646,266
+wi,403619,Milwaukee Public School District,158,Fernwood Montessori,17.82%,,Y,70.48%,780,139
+wi,403619,Milwaukee Public School District,170,Fifty-Third Street El,79.18%,,Y,70.48%,413,327
+wi,403619,Milwaukee Public School District,173,Forest Home El,86.62%,,Y,70.48%,710,615
+wi,403619,Milwaukee Public School District,179,Franklin El,92.35%,,Y,70.48%,366,338
+wi,403619,Milwaukee Public School District,182,Fratney El,63.56%,,Y,70.48%,450,286
+wi,403619,Milwaukee Public School District,185,Gaenslen El,79.77%,,Y,70.48%,776,619
+wi,403619,Milwaukee Public School District,191,Garland El,70.17%,,Y,70.48%,580,407
+wi,403619,Milwaukee Public School District,192,Goodrich El,73.83%,,Y,70.48%,321,237
+wi,403619,Milwaukee Public School District,410,Grandview Hi,68.98%,,Y,70.48%,216,149
+wi,403619,Milwaukee Public School District,193,Grant El,82.51%,,Y,70.48%,692,571
+wi,403619,Milwaukee Public School District,196,Grantosa Drive El,79.04%,,Y,70.48%,649,513
+wi,403619,Milwaukee Public School District,454,Green Tree Preparatory Academy,0.00%,,Y,70.48%,217,0
+wi,403619,Milwaukee Public School District,120,Green Bay Ave Sch,90.80%,,N,,,
+wi,403619,Milwaukee Public School District,202,Greenfield Bilingual,74.10%,,Y,70.48%,668,495
+wi,403619,Milwaukee Public School District,236,Groppi Hi,81.29%,,Y,70.48%,139,113
+wi,403619,Milwaukee Public School District,18,Hamilton Hi,70.90%,,Y,70.48%,1581,1121
+wi,403619,Milwaukee Public School District,205,Hampton El,84.40%,,Y,70.48%,250,211
+wi,403619,Milwaukee Public School District,880,HAPA-Hmong Amer Peace Ac K3-12,55.40%,,Y,70.48%,1594,883
+wi,403619,Milwaukee Public School District,208,Hartford Avenue El,78.68%,,Y,70.48%,591,465
+wi,403619,Milwaukee Public School District,211,Hawley Environmental Sch,67.82%,,Y,70.48%,376,255
+wi,403619,Milwaukee Public School District,212,Hawthorne El,87.54%,,Y,70.48%,337,295
+wi,403619,Milwaukee Public School District,214,Hayes Bilingual Sch,79.73%,,Y,70.48%,661,527
+wi,403619,Milwaukee Public School District,852,Highland Community Sch,29.85%,,Y,70.48%,402,120
+wi,403619,Milwaukee Public School District,217,Hi-Mount El,84.52%,,Y,70.48%,239,202
+wi,403619,Milwaukee Public School District,218,Holmes El,91.50%,,Y,70.48%,306,280
+wi,403619,Milwaukee Public School District,334,Honey Creek El,48.87%,,Y,70.48%,399,195
+wi,403619,Milwaukee Public School District,253,Hopkins Lloyd,92.31%,,Y,70.48%,154,142
+wi,403619,Milwaukee Public School District,223,Humboldt Park El,65.31%,,Y,70.48%,614,401
+wi,403619,Milwaukee Public School District,165,IDEAL,69.02%,,Y,70.48%,326,225
+wi,403619,Milwaukee Public School District,377,Jackson El,92.69%,,Y,70.48%,342,317
+wi,403619,Milwaukee Public School District,232,Kagel El,86.71%,,Y,70.48%,286,248
+wi,403619,Milwaukee Public School District,235,Keefe Avenue El,88.57%,,Y,70.48%,199,176
+wi,403619,Milwaukee Public School District,237,Kilbourn El,80.13%,,Y,70.48%,317,254
+wi,403619,Milwaukee Public School District,210,King IB Mid,80.47%,,Y,70.48%,466,375
+wi,403619,Milwaukee Public School District,20,King International,36.54%,,Y,70.48%,1497,547
+wi,403619,Milwaukee Public School District,199,King Jr El,89.10%,,Y,70.48%,312,278
+wi,403619,Milwaukee Public School District,337,Kluge El,86.46%,,Y,70.48%,325,281
+wi,403619,Milwaukee Public School District,1121,La Causa Charter Sch,78.05%,,Y,70.48%,788,615
+wi,403619,Milwaukee Public School District,296,Lad Lake Synergy,83.33%,,Y,70.48%,102,85
+wi,403619,Milwaukee Public School District,238,LaFollette El,89.22%,,Y,70.48%,269,240
+wi,403619,Milwaukee Public School District,241,Lancaster El,79.67%,,Y,70.48%,359,286
+wi,403619,Milwaukee Public School District,115,Lee Learning Center,92.86%,,Y,70.48%,84,78
+wi,403619,Milwaukee Public School District,250,Lincoln Avenue El,89.31%,,Y,70.48%,533,476
+wi,403619,Milwaukee Public School District,6,Lincoln Mid,80.48%,,Y,70.48%,671,540
+wi,403619,Milwaukee Public School District,256,Longfellow El,85.34%,,Y,70.48%,873,745
+wi,403619,Milwaukee Public School District,257,Lowell International El,64.84%,,Y,70.48%,256,166
+wi,403619,Milwaukee Public School District,870,MacDowell Montessori Sch,53.08%,,Y,70.48%,763,405
+wi,403619,Milwaukee Public School District,409,Madison Academic Campus,82.72%,,Y,70.48%,816,675
+wi,403619,Milwaukee Public School District,265,Manitoba El,69.98%,,Y,70.48%,553,387
+wi,403619,Milwaukee Public School District,267,Maple Tree El,84.79%,,Y,70.48%,309,262
+wi,403619,Milwaukee Public School District,8,Marshall High School,70.17%,,Y,70.48%,848,595
+wi,403619,Milwaukee Public School District,268,Maryland Montessori,14.51%,,Y,70.48%,441,64
+wi,403619,Milwaukee Public School District,176,Meir Sch,39.28%,,Y,70.48%,1115,438
+wi,403619,Milwaukee Public School District,525,Metcalfe El,91.67%,,Y,70.48%,312,286
+wi,403619,Milwaukee Public School District,103,Milw Acad of Chinese Lang,88.85%,,Y,70.48%,511,454
+wi,403619,Milwaukee Public School District,121,Milw College Prep North,67.71%,,Y,70.48%,477,323
+wi,403619,Milwaukee Public School District,123,Milw College Prep-36th St.,56.60%,,Y,70.48%,500,283
+wi,403619,Milwaukee Public School District,111,Milw College Prep--38th St,60.76%,,Y,70.48%,497,302
+wi,403619,Milwaukee Public School District,145,Milw College Prep--Lloyd St,70.04%,,Y,70.48%,500,350
+wi,403619,Milwaukee Public School District,441,Milw Community Cyber Hi,65.28%,,Y,70.48%,144,94
+wi,403619,Milwaukee Public School District,118,Milw Environmental Science Aca,81.93%,,Y,70.48%,415,340
+wi,403619,Milwaukee Public School District,885,Milw Excellence,70.23%,,Y,70.48%,215,151
+wi,403619,Milwaukee Public School District,140,Milw French Immersion,50.42%,,Y,70.48%,597,301
+wi,403619,Milwaukee Public School District,146,Milw German Immersion,22.76%,,Y,70.48%,602,137
+wi,403619,Milwaukee Public School District,38,Milw Hi Sch of the Arts,62.30%,,Y,70.48%,854,532
+wi,403619,Milwaukee Public School District,362,Milw Parkside Sch,57.70%,,Y,70.48%,799,461
+wi,403619,Milwaukee Public School District,71,Milw Sch of Languages,36.94%,,Y,70.48%,1156,427
+wi,403619,Milwaukee Public School District,226,Milw Sign Language El,82.28%,,Y,70.48%,553,455
+wi,403619,Milwaukee Public School District,167,Milw Spanish Immersion,51.82%,,Y,70.48%,687,356
+wi,403619,Milwaukee Public School District,274,Mitchell El,85.50%,,Y,70.48%,717,613
+wi,403619,Milwaukee Public School District,277,Morgandale El,65.60%,,Y,70.48%,596,391
+wi,403619,Milwaukee Public School District,52,Morse Mid,68.15%,,Y,70.48%,314,214
+wi,403619,Milwaukee Public School District,283,Neeskara El,78.33%,,Y,70.48%,383,300
+wi,403619,Milwaukee Public School District,289,Ninety-Fifth Street El,50.73%,,Y,70.48%,412,209
+wi,403619,Milwaukee Public School District,419,North Division Hi 0419,81.84%,,Y,70.48%,391,320
+wi,403619,Milwaukee Public School District,1072,NOVA,86.36%,,Y,70.48%,110,95
+wi,403619,Milwaukee Public School District,474,NOVA Tech,77.22%,,N,,,
+wi,403619,Milwaukee Public School District,840,Obama SCTE,85.49%,,Y,70.48%,751,642
+wi,403619,Milwaukee Public School District,301,Parkview El,70.87%,,Y,70.48%,436,309
+wi,403619,Milwaukee Public School District,325,Pratt Elementary,84.89%,,Y,70.48%,278,236
+wi,403619,Milwaukee Public School District,458,Project STAY,79.76%,,Y,70.48%,252,201
+wi,403619,Milwaukee Public School District,26,Pulaski Hi,74.66%,,Y,70.48%,888,663
+wi,403619,Milwaukee Public School District,435,Reagan Hi,39.32%,,Y,70.48%,1320,519
+wi,403619,Milwaukee Public School District,313,Riley El,79.70%,,Y,70.48%,537,428
+wi,403619,Milwaukee Public School District,194,River Trail El,79.71%,,Y,70.48%,478,381
+wi,403619,Milwaukee Public School District,29,Riverside Hi,62.84%,,Y,70.48%,1480,930
+wi,403619,Milwaukee Public School District,307,Riverwest El,88.01%,,Y,70.48%,392,345
+wi,403619,Milwaukee Public School District,177,Rogers Street Acad,81.50%,,Y,70.48%,654,533
+wi,403619,Milwaukee Public School District,59,Roosevelt Mid,83.51%,,Y,70.48%,388,324
+wi,403619,Milwaukee Public School District,1074,Shalom Hi,82.29%,,Y,70.48%,96,79
+wi,403619,Milwaukee Public School District,319,Sherman El,86.22%,,Y,70.48%,370,319
+wi,403619,Milwaukee Public School District,107,Siefert El,87.65%,,Y,70.48%,324,284
+wi,403619,Milwaukee Public School District,442,South Accelerated Acad,77.11%,,Y,70.48%,83,64
+wi,403619,Milwaukee Public School District,32,South Division Hi,77.85%,,Y,70.48%,1034,805
+wi,403619,Milwaukee Public School District,1086,Southeastern,86.36%,,Y,70.48%,88,76
+wi,403619,Milwaukee Public School District,312,Starms Discovery,93.15%,,Y,70.48%,365,340
+wi,403619,Milwaukee Public School District,149,Starms Early Childhood,88.11%,,Y,70.48%,286,252
+wi,403619,Milwaukee Public School District,343,Story El,90.29%,,Y,70.48%,443,400
+wi,403619,Milwaukee Public School District,344,Stuart El,74.45%,,Y,70.48%,321,239
+wi,403619,Milwaukee Public School District,360,Thoreau El,80.04%,,Y,70.48%,506,405
+wi,403619,Milwaukee Public School District,154,Thurston Woods El,82.41%,,Y,70.48%,432,356
+wi,403619,Milwaukee Public School District,365,Townsend Street El,88.54%,,Y,70.48%,323,286
+wi,403619,Milwaukee Public School District,433,Transition Hi,82.99%,,Y,70.48%,194,161
+wi,403619,Milwaukee Public School District,368,Trowbridge Street El,67.03%,,Y,70.48%,273,183
+wi,403619,Milwaukee Public School District,387,Victory El,78.42%,,Y,70.48%,570,447
+wi,403619,Milwaukee Public School District,390,Vieau El,72.64%,,Y,70.48%,742,539
+wi,403619,Milwaukee Public School District,448,Vincent Accelerated Acad,83.70%,,Y,70.48%,92,77
+wi,403619,Milwaukee Public School District,33,Vincent Hi,75.84%,,Y,70.48%,799,606
+wi,403619,Milwaukee Public School District,204,Wedgewood Park Sch,63.33%,,Y,70.48%,938,594
+wi,403619,Milwaukee Public School District,130,Westside Acad,95.14%,,Y,70.48%,288,274
+wi,403619,Milwaukee Public School District,397,Whitman El,64.37%,,Y,70.48%,435,280
+wi,403619,Milwaukee Public School District,398,Whittier El,35.48%,,Y,70.48%,217,77
+wi,403619,Milwaukee Public School District,424,WHS Info Technology,80.23%,,Y,70.48%,708,568
+wi,403619,Milwaukee Public School District,399,WI Consrv Lifelong Learning,87.54%,,Y,70.48%,642,562
+wi,403619,Milwaukee Public School District,295,Zablocki El,80.36%,,Y,70.48%,392,315
+wi,401489,Milwaukee Rescue Mission,1489,Cross Trainers Academy,90.71%,,N,,,
+wi,408129,Milwaukee Scholars,100,Milwaukee Scholars,80.93%,,Y,80.93%,624,505
+wi,401873,Milwaukee Seventh-day Adventist School,1874,Milwaukee SDA School,53.23%,,Y,55.88%,62,33
+wi,401873,Milwaukee Seventh-day Adventist School,1873,Milwaukee Seventh-day Adventist School,57.04%,,Y,55.88%,142,81
+wi,253633,Mineral Point School District,60,Mineral Point El,25.85%,*,N,,,
+wi,253633,Mineral Point School District,80,Mineral Point Hi,14.03%,*,N,,,
+wi,253633,Mineral Point School District,90,Mineral Point Mid,16.27%,*,N,,,
+wi,433640,Minocqua Joint #1 School District,100,Creative Minds,46.67%,*,N,,45,21
+wi,433640,Minocqua Joint #1 School District,9418,Lakeland Star School,40.00%,*,N,,5,2
+wi,433640,Minocqua Joint #1 School District,20,MHLT Elementary,32.07%,*,N,,555,178
+wi,433640,Minocqua Joint #1 School District,250,Woodland Progressive School,29.03%,*,N,,,
+wi,363661,Mishicot School District,40,Mishicot High School,13.19%,*,N,,,
+wi,363661,Mishicot School District,120,Mishicot Middle School,20.00%,*,N,,,
+wi,363661,Mishicot School District,60,O.H Schultz Elementary,19.58%,*,N,,,
+wi,63668,Mondovi School District,80,Mondovi El,33.81%,*,N,,485,164
+wi,63668,Mondovi School District,100,Mondovi Hi,23.70%,*,N,,,
+wi,63668,Mondovi School District,120,Mondovi Mid,26.51%,*,N,,,
+wi,133675,Monona Grove School District,20,Cottage Grove El,12.80%,*,N,,,
+wi,133675,Monona Grove School District,100,Glacial Drumlin Middle School,12.57%,*,N,,,
+wi,133675,Monona Grove School District,60,Monona Grove Hi,12.02%,*,N,,,
+wi,133675,Monona Grove School District,450,Monona Grove Liberal Arts,25.53%,*,N,,,
+wi,133675,Monona Grove School District,120,Taylor Prairie El,9.86%,*,N,,,
+wi,133675,Monona Grove School District,130,Together 4 Kids School,11.39%,*,N,,,
+wi,133675,Monona Grove School District,80,WinnequahElementary,17.03%,*,N,,,
+wi,233682,Monroe School District,10,Abraham Lincoln El,36.24%,*,N,,367,133
+wi,233682,Monroe School District,9803,Jedi Virtual School,50.00%,*,N,,14,7
+wi,233682,Monroe School District,120,Monroe High School,24.31%,*,N,,,
+wi,233682,Monroe School District,100,Monroe Middle School,29.03%,*,N,,,
+wi,233682,Monroe School District,140,Northside El,24.04%,*,N,,,
+wi,233682,Monroe School District,150,Parkside El,39.40%,*,N,,335,132
+wi,393689,Montello School District,10,Forest Lane El,39.10%,*,N,,289,113
+wi,393689,Montello School District,420,Hi Marq Environmental Charter,41.94%,*,N,,31,13
+wi,393689,Montello School District,40,Montello Jr/Sr Hi,41.58%,*,N,,368,153
+wi,393689,Montello School District,800,Montello Virtual Charter,63.64%,*,N,,22,14
+wi,233696,Monticello School District,20,Monticello El,25.34%,*,N,,,
+wi,233696,Monticello School District,40,Monticello Hi,16.52%,*,N,,,
+wi,233696,Monticello School District,30,Monticello Mid,20.00%,*,N,,,
+wi,373787,Mosinee School District,80,MOSINEE ELEMENTARY SCHOOL,21.44%,*,N,,,
+wi,373787,Mosinee School District,100,Mosinee High School,16.34%,*,N,,,
+wi,373787,Mosinee School District,120,MOSINEE MIDDLE SCHOOL,20.91%,*,N,,,
+wi,687216,Most Precious Blood School,1900,Most Precious Blood Grade Sch,19.23%,*,N,,,
+wi,407196,Mother of Good Counsel Grade School,1910,Mother of Good Counsel,62.68%,,Y,62.68%,209,131
+wi,133794,Mount Horeb Area School District,140,Early Learning Ctr,7.93%,*,N,,,
+wi,133794,Mount Horeb Area School District,120,Mount Horeb Hi,8.38%,*,N,,,
+wi,133794,Mount Horeb Area School District,100,Mount Horeb Intermediate,10.51%,*,N,,,
+wi,133794,Mount Horeb Area School District,110,Mount Horeb Mid,9.28%,*,N,,,
+wi,133794,Mount Horeb Area School District,130,Mount Horeb Primary Center,10.86%,*,N,,,
+wi,404022,Mount Lebanon Lutheran School,656,Mt  Lebanon K-4,83.33%,,Y,64.57%,18,15
+wi,404022,Mount Lebanon Lutheran School,1981,MT LEBANON LUTHERAN OMEGA CAMPUS,65.17%,,Y,64.57%,89,58
+wi,404022,Mount Lebanon Lutheran School,1980,MT LEBANON LUTHERAN SCHOOL ALPHA CAMPUS,61.21%,,Y,64.57%,116,71
+wi,407200,Mt Calvary Ev Lutheran School,1930,Mount Calvary Ev Lutheran Scho,65.10%,,Y,65.10%,192,125
+wi,673822,Mukwonago Area School District,20,Big Bend El,8.01%,*,N,,,
+wi,673822,Mukwonago Area School District,30,Clarendon Avenue El,13.98%,*,N,,,
+wi,673822,Mukwonago Area School District,110,Eagleville Elementary,9.26%,*,N,,,
+wi,673822,Mukwonago Area School District,60,Mukwonago High School,8.24%,*,N,,,
+wi,673822,Mukwonago Area School District,65,Park View Mid,10.66%,*,N,,,
+wi,673822,Mukwonago Area School District,70,Prairie View El,12.23%,*,N,,,
+wi,673822,Mukwonago Area School District,100,Rolling Hills El,11.69%,*,N,,,
+wi,673822,Mukwonago Area School District,80,Section El,3.66%,*,N,,,
+wi,673857,Muskego-Norway School District,220,Bay Lane,6.59%,*,N,,,
+wi,673857,Muskego-Norway School District,200,Lake Denoon Mid,11.38%,*,N,,,
+wi,673857,Muskego-Norway School District,80,Lakeview El,14.10%,*,N,,,
+wi,673857,Muskego-Norway School District,100,Mill Valley El,8.52%,*,N,,,
+wi,673857,Muskego-Norway School District,10,Muskego Lakes Middle School,7.26%,*,N,,,
+wi,407204,Nativity Jesuit Academy,1996,Nativity Jesuit Middle School,58.80%,,Y,59.92%,252,148
+wi,293871,Necedah Area School District,643,Juneau County Adolescent Needs,75.00%,,N,,,
+wi,293871,Necedah Area School District,9405,Juneau County Charter School -,77.78%,,Y,76.92%,13,10
+wi,293871,Necedah Area School District,20,Necedah El,45.82%,*,N,,323,148
+wi,293871,Necedah Area School District,40,Necedah Mid/Hi,31.36%,*,N,,220,69
+wi,703892,Neenah Joint School District,125,ACE Charter School,4.07%,*,N,,,
+wi,703892,Neenah Joint School District,40,Clayton El,13.95%,*,N,,,
+wi,703892,Neenah Joint School District,60,Coolidge El,26.05%,*,N,,,
+wi,703892,Neenah Joint School District,80,Hoover El,45.46%,*,N,,253,115
+wi,703892,Neenah Joint School District,215,Horace Mann Mid,20.98%,*,N,,,
+wi,703892,Neenah Joint School District,100,Lakeview Elementary,6.61%,*,N,,,
+wi,703892,Neenah Joint School District,180,Neenah High,17.19%,*,N,,,
+wi,703892,Neenah Joint School District,200,Roosevelt Elementary,24.17%,*,N,,,
+wi,703892,Neenah Joint School District,210,Shattuck Mid,21.22%,*,N,,,
+wi,703892,Neenah Joint School District,220,Spring Road El,25.40%,*,N,,,
+wi,703892,Neenah Joint School District,110,Taft Elementary,47.35%,*,N,,226,107
+wi,703892,Neenah Joint School District,260,Tullar El,13.59%,*,N,,,
+wi,703892,Neenah Joint School District,280,Washington ELC,28.28%,*,N,,,
+wi,703892,Neenah Joint School District,300,Wilson El,37.46%,*,N,,275,103
+wi,103899,Neillsville School District,20,Neillsville El,37.11%,*,N,,450,167
+wi,103899,Neillsville School District,40,Neillsville Mid/Hi,29.93%,*,N,,,
+wi,713906,Nekoosa School District,20,Alexander Mid,43.73%,*,N,,343,150
+wi,713906,Nekoosa School District,100,CWSA Central WI STEM Academy,30.77%,*,N,,26,8
+wi,713906,Nekoosa School District,40,Humke El,50.00%,*,N,,298,149
+wi,713906,Nekoosa School District,150,Nekoosa 4K,53.66%,*,N,,82,44
+wi,713906,Nekoosa School District,400,Nekoosa Academy,83.33%,*,N,,24,20
+wi,713906,Nekoosa School District,60,Nekoosa High,26.59%,*,N,,,
+wi,713906,Nekoosa School District,800,WISE Academy,46.15%,*,N,,117,54
+wi,93920,New Auburn School District,20,New Auburn El,45.03%,*,N,,191,86
+wi,93920,New Auburn School District,40,New Auburn Jr-Sr Hi,33.87%,*,N,,124,42
+wi,352540,New Beginnings Christian (Academy) CC,2070,NTC Christian Academy,52.94%,*,N,,17,9
+wi,673925,New Berlin School District,50,Eisenhower Middle/High School,5.18%,*,N,,,
+wi,673925,New Berlin School District,60,Elmwood El,4.14%,*,N,,,
+wi,673925,New Berlin School District,140,New Berlin West Middle/High School,11.02%,*,N,,,
+wi,673925,New Berlin School District,160,Orchard Lane Elementary,9.30%,*,N,,,
+wi,673925,New Berlin School District,40,Poplar Creek Elementary,16.74%,*,N,,,
+wi,673925,New Berlin School District,100,Ronald Reagan Elementary School,9.92%,*,N,,,
+wi,233934,New Glarus School District,20,New Glarus Elementary,12.97%,*,N,,,
+wi,233934,New Glarus School District,40,New Glarus High School,12.23%,*,N,,,
+wi,233934,New Glarus School District,250,New Glarus Middle School,12.86%,*,N,,,
+wi,83941,New Holstein School District,60,New Holstein Elementary School,18.26%,*,N,,,
+wi,83941,New Holstein School District,80,New Holstein High School,12.36%,*,N,,,
+wi,83941,New Holstein School District,200,New Holstein Middle School,13.06%,*,N,,,
+wi,293948,New Lisbon School District,40,New Lisbon El,41.73%,*,N,,381,159
+wi,293948,New Lisbon School District,60,New Lisbon Jr/Hi,33.08%,*,N,,266,88
+wi,683955,New London School District,430,Catalyst Academy,33.33%,*,N,,36,12
+wi,683955,New London School District,40,Lincoln El,41.43%,*,N,,280,116
+wi,683955,New London School District,80,New London Hi,17.40%,*,N,,,
+wi,683955,New London School District,140,New London Mid,24.89%,*,N,,,
+wi,683955,New London School District,90,Parkview El,28.40%,*,N,,,
+wi,683955,New London School District,100,Readfield El,17.42%,*,N,,,
+wi,683955,New London School District,120,Sugar Bush El,40.35%,*,N,,114,46
+wi,553962,New Richmond School District,60,New Richmond Hi,16.06%,*,N,,,
+wi,553962,New Richmond School District,170,New Richmond Hillside Elementary,16.55%,*,N,,,
+wi,553962,New Richmond School District,40,New Richmond Mid,19.22%,*,N,,,
+wi,553962,New Richmond School District,10,New Richmond Paperjack Elementary,13.12%,*,N,,,
+wi,553962,New Richmond School District,20,New Richmond Starr Elementary,27.77%,*,N,,,
+wi,409864,New Testament Christian Academy,1327,New Testament Christian Academ,40.94%,,Y,40.94%,171,70
+wi,377213,Newman Catholic Schools,6760,Newman Catholic ECC,13.73%,*,N,,,
+wi,377213,Newman Catholic Schools,3000,Newman Catholic Elem (St Anne),15.47%,*,N,,,
+wi,377213,Newman Catholic Schools,5763,Newman Catholic Elem (St Mark),14.87%,*,N,,,
+wi,377213,Newman Catholic Schools,2010,Newman Catholic High School,9.92%,*,N,,,
+wi,377213,Newman Catholic Schools,6664,Newman Catholic Middle School,11.19%,*,N,,,
+wi,377213,Newman Catholic Schools,7920,St. Therese,21.36%,*,N,,,
+wi,383969,Niagara School District,20,Niagara El,42.04%,,Y,42.04%,245,103
+wi,383969,Niagara School District,40,Niagara Hi,35.18%,*,N,,199,70
+wi,122016,North Crawford School District,110,North Crawford El,47.74%,*,N,,310,148
+wi,122016,North Crawford School District,120,North Crawford Hi,39.86%,*,N,,143,57
+wi,203983,North Fond du Lac School District,20,Bessie Allen Mid,35.02%,*,N,,337,118
+wi,203983,North Fond du Lac School District,110,Early Learning Center,39.82%,*,N,,108,43
+wi,203983,North Fond du Lac School District,55,Friendship Learning El,39.44%,*,N,,502,198
+wi,203983,North Fond du Lac School District,60,Horace Mann High School,28.84%,*,N,,,
+wi,630616,North Lakeland School District,50,North Lakeland School,28.40%,*,N,,,
+wi,451945,Northern Ozaukee School District,40,Ozaukee El,26.07%,*,N,,,
+wi,451945,Northern Ozaukee School District,60,Ozaukee Hi,16.05%,*,N,,,
+wi,451945,Northern Ozaukee School District,80,Ozaukee Mid,22.92%,*,N,,,
+wi,451945,Northern Ozaukee School District,850,Wisconsin Virtual Learning,37.02%,*,N,,335,124
+wi,631526,Northland Pines School District,110,Montessori Learning Center,19.44%,*,N,,,
+wi,631526,Northland Pines School District,40,Northland Pines El-Eagle River,46.29%,*,N,,499,231
+wi,631526,Northland Pines School District,100,Northland Pines El-St Germain,47.67%,*,N,,86,41
+wi,631526,Northland Pines School District,90,Northland Pines High School,27.72%,*,N,,,
+wi,631526,Northland Pines School District,95,Northland Pines Middle School,38.83%,*,N,,188,73
+wi,631526,Northland Pines School District,80,Northland Pines-Land O Lakes,53.85%,*,N,,52,28
+wi,631526,Northland Pines School District,250,Sch of Options & Applied Resea,41.07%,*,N,,56,23
+wi,631526,Northland Pines School District,410,SOAR High School,50.00%,*,N,,30,15
+wi,407215,Northwest Catholic,1575,Northwest Catholic-Lower Campu,67.91%,,Y,67.91%,187,127
+wi,653654,Northwood School District,200,NorthStar Community Charter Sc,25.00%,,Y,43.66%,20,5
+wi,653654,Northwood School District,410,Northwood High School,37.06%,,Y,43.66%,169,63
+wi,653654,Northwood School District,100,Northwood Sch,48.19%,,Y,43.66%,163,79
+wi,653654,Northwood School District,800,Northwood Virtual School,50.00%,,Y,43.66%,3,2
+wi,413990,Norwalk-Ontario-Wilton School District,20,Brookwood HI,36.00%,*,N,,300,108
+wi,413990,Norwalk-Ontario-Wilton School District,50,Norwalk-Ontario-Wilton El,42.98%,*,N,,349,150
+wi,401095,Notre Dame School of Milwaukee,1095,Notre Dame School of Milwaukee,59.16%,,Y,62.91%,453,268
+wi,404018,Oak Creek-Franklin School District,10,Carollton El,18.84%,*,N,,,
+wi,404018,Oak Creek-Franklin School District,20,Cedar Hills El,28.23%,*,N,,,
+wi,404018,Oak Creek-Franklin School District,150,Deerfield Elementary,17.92%,*,N,,,
+wi,404018,Oak Creek-Franklin School District,40,Edgewood El,26.01%,*,N,,,
+wi,404018,Oak Creek-Franklin School District,170,Forest Ridge Elementary School,33.80%,*,N,,426,144
+wi,404018,Oak Creek-Franklin School District,80,Meadowview El,13.13%,*,N,,,
+wi,404018,Oak Creek-Franklin School District,120,Oak Creek East Mid,16.82%,*,N,,,
+wi,404018,Oak Creek-Franklin School District,140,Oak Creek Hi,19.72%,*,N,,,
+wi,404018,Oak Creek-Franklin School District,130,Oak Creek West Mid,27.16%,*,N,,,
+wi,404018,Oak Creek-Franklin School District,200,Shepard Hills El,26.17%,*,N,,,
+wi,204025,Oakfield School District,30,Oakfield Elementary School,18.71%,*,N,,,
+wi,204025,Oakfield School District,60,Oakfield High School,19.50%,*,N,,,
+wi,204025,Oakfield School District,80,Oakfield Middle School,17.70%,*,N,,,
+wi,674060,Oconomowoc Area School District,60,Greenland El,16.55%,*,N,,,
+wi,674060,Oconomowoc Area School District,80,Ixonia El,15.79%,*,N,,,
+wi,674060,Oconomowoc Area School District,90,Meadow View El,11.94%,*,N,,,
+wi,674060,Oconomowoc Area School District,200,Nature Hill Intermediate,13.05%,*,N,,,
+wi,674060,Oconomowoc Area School District,160,Park Lawn El,21.65%,*,N,,,
+wi,674060,Oconomowoc Area School District,135,Silver Lake Intermediate,16.35%,*,N,,,
+wi,674060,Oconomowoc Area School District,180,Summit El,11.80%,*,N,,,
+wi,424074,Oconto Falls School District,20,Abrams El,14.92%,*,N,,,
+wi,424074,Oconto Falls School District,400,Alternative Learning Site,53.33%,*,N,,15,8
+wi,424074,Oconto Falls School District,410,New Path Charter School,76.92%,*,N,,13,10
+wi,424074,Oconto Falls School District,280,Oconto Falls Elementary,33.98%,*,N,,568,193
+wi,424074,Oconto Falls School District,200,Oconto Falls Hi,19.74%,*,N,,,
+wi,424074,Oconto Falls School District,260,Washington Middle,19.79%,*,N,,,
+wi,424067,Oconto Unified School District,200,Bayshore Community Academy,35.21%,*,N,,71,25
+wi,424067,Oconto Unified School District,800,Northeast Wisconsin Learning A,58.07%,*,N,,31,18
+wi,424067,Oconto Unified School District,160,Oconto Elementary,42.82%,*,N,,404,173
+wi,424067,Oconto Unified School District,100,Oconto High School,30.22%,*,N,,268,81
+wi,424067,Oconto Unified School District,180,Oconto Middle School,38.91%,*,N,,221,86
+wi,704088,Omro School District,110,Omro El,21.80%,*,N,,,
+wi,704088,Omro School District,60,Omro Hi,18.82%,*,N,,,
+wi,704088,Omro School District,80,Omro Mid,18.11%,*,N,,,
+wi,704088,Omro School District,40,Patch El,27.01%,*,N,,,
+wi,324095,Onalaska School District,20,Eagle Bluff El,18.02%,*,N,,,
+wi,324095,Onalaska School District,60,Irving Pertzsch Elementary,29.09%,*,N,,,
+wi,324095,Onalaska School District,30,Northern Hills El,29.84%,*,N,,,
+wi,324095,Onalaska School District,40,Onalaska Hi,18.66%,*,N,,,
+wi,324095,Onalaska School District,50,Onalaska Middle School,21.75%,*,N,,,
+wi,138142,"One City Schools, Inc.",8142,One City Senior Preschool,41.94%,,Y,49.21%,62,26
+wi,447223,Oneida Nation School System,2095,Oneida Nation Elementary,62.59%,,Y,59.67%,294,184
+wi,447223,Oneida Nation School System,2096,Oneida Nation High School,52.80%,,Y,59.67%,125,66
+wi,594137,Oostburg School District,60,Oostburg El,17.81%,*,N,,,
+wi,594137,Oostburg School District,80,Oostburg Hi,11.67%,*,N,,,
+wi,594137,Oostburg School District,40,Oostburg Mid,13.06%,*,N,,,
+wi,134144,Oregon School District,20,Brooklyn El,13.87%,*,N,,,
+wi,134144,Oregon School District,40,Netherwood Knoll El,11.68%,*,N,,,
+wi,134144,Oregon School District,60,Oregon Hi,13.03%,*,N,,,
+wi,134144,Oregon School District,80,Oregon Mid,10.87%,*,N,,,
+wi,134144,Oregon School District,50,Prairie View El,12.97%,*,N,,,
+wi,134144,Oregon School District,200,Rome Corners Intermediate,12.80%,*,N,,,
+wi,484165,Osceola School District,40,Osceola Elementary,21.41%,*,N,,,
+wi,484165,Osceola School District,60,Osceola High School,15.04%,*,N,,,
+wi,484165,Osceola School District,50,Osceola Intermediate,20.49%,*,N,,,
+wi,484165,Osceola School District,80,Osceola Middle School,24.88%,*,N,,,
+wi,704179,Oshkosh Area School District,170,ALPS,5.00%,*,N,,,
+wi,704179,Oshkosh Area School District,60,E Cook El,45.46%,,Y,45.68%,252,115
+wi,704179,Oshkosh Area School District,105,Franklin Elementary,34.14%,,Y,45.68%,409,140
+wi,704179,Oshkosh Area School District,140,Jefferson El,62.25%,,Y,45.68%,152,95
+wi,704179,Oshkosh Area School District,160,Lakeside El,18.84%,*,N,,,
+wi,704179,Oshkosh Area School District,220,Merrill El,58.33%,,Y,45.68%,250,146
+wi,704179,Oshkosh Area School District,240,Merrill Mid,41.80%,,Y,45.68%,493,206
+wi,704179,Oshkosh Area School District,290,North High,35.54%,*,N,,1193,424
+wi,704179,Oshkosh Area School District,260,Oaklawn El,48.85%,,Y,45.68%,426,208
+wi,704179,Oshkosh Area School District,185,Oakwood Elementary,6.91%,*,N,,,
+wi,704179,Oshkosh Area School District,340,Read El,45.20%,,Y,45.68%,320,145
+wi,704179,Oshkosh Area School District,360,Roosevelt El,48.56%,,Y,45.68%,239,116
+wi,704179,Oshkosh Area School District,110,Shapiro STEM Academy,36.25%,,Y,45.68%,226,82
+wi,704179,Oshkosh Area School District,400,Smith El,37.20%,*,N,,164,61
+wi,704179,Oshkosh Area School District,440,South Park Mid,30.68%,*,N,,414,127
+wi,704179,Oshkosh Area School District,320,Tipler Mid,31.55%,*,N,,374,118
+wi,704179,Oshkosh Area School District,150,Traeger El,16.20%,*,N,,,
+wi,704179,Oshkosh Area School District,250,Traeger Mid,11.20%,*,N,,,
+wi,704179,Oshkosh Area School District,480,Washington El,48.00%,,Y,45.68%,196,94
+wi,704179,Oshkosh Area School District,520,Webster Stanley El,45.00%,,Y,45.68%,270,122
+wi,704179,Oshkosh Area School District,500,Webster Stanley Mid,44.47%,,Y,45.68%,381,169
+wi,704179,Oshkosh Area School District,300,West Hi,20.48%,*,N,,,
+wi,614186,Osseo-Fairchild School District,60,Osseo-Fairchild Elementary,37.64%,*,N,,364,137
+wi,614186,Osseo-Fairchild School District,80,Osseo-Fairchild Hi,25.53%,*,N,,,
+wi,614186,Osseo-Fairchild School District,26,Osseo-Fairchild Middle School,26.94%,*,N,,,
+wi,27338,Our Lady Lake Catholic School,2215,Our Lady of the Lake Sch,39.70%,*,N,,131,52
+wi,547230,Our Lady of Sorrows Church,2190,Our Lady of Sorrows Grade Sch,26.67%,*,N,,,
+wi,407236,Our Lady Queen of Peace School,2240,Our Lady Queen Of Peace,66.04%,,Y,66.04%,159,105
+wi,647237,Our Redeemer Lutheran School,2248,Our Redeemer Lutheran School,9.74%,*,N,,,
+wi,104207,Owen-Withee School District,20,Owen-Withee El,46.95%,*,N,,279,131
+wi,104207,Owen-Withee School District,60,Owen-Withee High School,36.94%,*,N,,157,58
+wi,104207,Owen-Withee School District,40,Owen-Withee Jr,38.33%,*,N,,60,23
+wi,497241,"Pacelli Catholic Schools, Inc.",7417,Pacelli Catholic Middle School,9.04%,*,N,,,
+wi,497241,"Pacelli Catholic Schools, Inc.",2270,Pacelli High School,6.88%,*,N,,,
+wi,497241,"Pacelli Catholic Schools, Inc.",1042,St. Bronislava School,23.08%,*,N,,,
+wi,497241,"Pacelli Catholic Schools, Inc.",8258,St. Stephens,14.97%,*,N,,,
+wi,284221,Palmyra Eagle School District,10,Eagle El,21.62%,*,N,,,
+wi,284221,Palmyra Eagle School District,20,Palmyra El,30.26%,*,N,,228,69
+wi,284221,Palmyra Eagle School District,15,Palmyra-Eagle Hi,22.58%,*,N,,,
+wi,284221,Palmyra Eagle School District,30,Palmyra-Eagle Mid,22.31%,*,N,,,
+wi,114228,Pardeeville School District,60,Pardeeville El,25.30%,*,N,,,
+wi,114228,Pardeeville School District,80,Pardeeville Hi,16.59%,*,N,,,
+wi,114228,Pardeeville School District,100,Pardeeville Middle School,18.22%,*,N,,,
+wi,114228,Pardeeville School District,1272,St. John Lutheran School,4.65%,*,N,,,
+wi,304235,Paris J1 School District,20,Paris El,20.07%,*,N,,,
+wi,534151,Parkview School District,60,Parkview Elementary School,28.35%,*,N,,,
+wi,534151,Parkview School District,100,Parkview Hi,19.92%,*,N,,,
+wi,534151,Parkview School District,120,Parkview Jr,27.83%,*,N,,,
+wi,408139,"Pathways High, Inc.",8139,Pathways High School,43.42%,*,N,,76,33
+wi,347247,Peace Lutheran School,2280,Peace Lutheran Grade Sch,31.92%,*,N,,141,45
+wi,667247,Peace Lutheran School,2275,Peace Lutheran School,6.38%,*,N,,,
+wi,330490,Pecatonica Area Schools,20,Pecatonica El,27.86%,*,N,,,
+wi,330490,Pecatonica Area Schools,40,Pecatonica Hi,16.58%,*,N,,,
+wi,408138,"Penfield Montessori Academy, Inc.",8138,Penfield Montessori Academy,56.00%,,Y,56.00%,50,28
+wi,464270,Pepin Area School District,20,Pepin El,26.52%,*,N,,,
+wi,464270,Pepin Area School District,40,Pepin Hi,18.56%,*,N,,,
+wi,384305,Peshtigo School District,80,Peshtigo El,27.40%,*,N,,,
+wi,384305,Peshtigo School District,100,Peshtigo High,20.39%,*,N,,,
+wi,384305,Peshtigo School District,200,Peshtigo Middle School,25.27%,*,N,,,
+wi,674312,Pewaukee School District,100,Asa Clark Mid,10.02%,*,N,,,
+wi,674312,Pewaukee School District,40,Horizon Sch,11.27%,*,N,,,
+wi,674312,Pewaukee School District,80,Pewaukee Hi,9.10%,*,N,,,
+wi,674312,Pewaukee School District,60,Pewaukee Lake El,9.34%,*,N,,,
+wi,634330,Phelps School District,10,Phelps El,54.55%,*,N,,121,66
+wi,634330,Phelps School District,20,Phelps Hi,46.15%,*,N,,78,36
+wi,504347,Phillips School District,100,Phillips El,39.89%,*,N,,356,142
+wi,504347,Phillips School District,120,Phillips Hi,33.47%,*,N,,239,80
+wi,504347,Phillips School District,130,Phillips Mid,38.76%,*,N,,178,69
+wi,714368,Pittsville School District,20,Pittsville El,24.03%,*,N,,,
+wi,714368,Pittsville School District,40,Pittsville Hi,22.65%,*,N,,,
+wi,224389,Platteville School District,60,Platteville Hi,20.87%,*,N,,,
+wi,224389,Platteville School District,80,Platteville Mid,31.94%,*,N,,479,153
+wi,224389,Platteville School District,120,Westview El,31.40%,*,N,,430,135
+wi,224389,Platteville School District,20,Wilkins El,33.17%,*,N,,199,66
+wi,474459,Plum City School District,20,Plum City El,25.98%,*,N,,,
+wi,474459,Plum City School District,40,Plum City Hi,25.34%,*,N,,,
+wi,594473,Plymouth Joint School District,40,Fairview El,25.00%,*,N,,,
+wi,594473,Plymouth Joint School District,50,Horizon El,24.20%,*,N,,,
+wi,594473,Plymouth Joint School District,60,Parkview El,25.00%,*,N,,,
+wi,594473,Plymouth Joint School District,100,Plymouth Hi,14.04%,*,N,,,
+wi,594473,Plymouth Joint School District,120,Riverview Mid,22.49%,*,N,,,
+wi,714508,Port Edwards School District,40,John Edwards Hi,33.64%,*,N,,110,37
+wi,714508,Port Edwards School District,80,John Edwards Mid,37.50%,*,N,,144,54
+wi,714508,Port Edwards School District,60,Port Edwards El,45.96%,*,N,,161,74
+wi,454515,Port Washington-Saukville School Dist.,40,Dunwiddie El,19.08%,*,N,,,
+wi,454515,Port Washington-Saukville School Dist.,60,Lincoln El,17.74%,*,N,,,
+wi,454515,Port Washington-Saukville School Dist.,100,Port Washington Hi,15.56%,*,N,,,
+wi,454515,Port Washington-Saukville School Dist.,120,Saukville El,24.03%,*,N,,,
+wi,454515,Port Washington-Saukville School Dist.,140,Thomas Jefferson Mid,22.48%,*,N,,,
+wi,114501,Portage Community School District,120,Endeavor El,45.21%,*,N,,73,33
+wi,114501,Portage Community School District,100,Lewiston El,24.47%,*,N,,,
+wi,114501,Portage Community School District,90,Muir El,35.14%,*,N,,333,117
+wi,114501,Portage Community School District,180,Portage High School,21.59%,*,N,,,
+wi,114501,Portage Community School District,140,Rusch El,56.42%,*,N,,218,123
+wi,114501,Portage Community School District,160,Wayne Bartels Mid,32.20%,*,N,,531,171
+wi,114501,Portage Community School District,110,Woodridge,39.49%,*,N,,157,62
+wi,224529,Potosi School District,20,Potosi El,27.94%,*,N,,,
+wi,224529,Potosi School District,40,Potosi Hi,9.65%,*,N,,,
+wi,224529,Potosi School District,200,Potosi Mid,20.00%,*,N,,,
+wi,114536,Poynette School District,20,Arlington El,24.32%,*,N,,,
+wi,114536,Poynette School District,60,Poynette El,20.00%,*,N,,,
+wi,114536,Poynette School District,80,Poynette Hi,16.57%,*,N,,,
+wi,114536,Poynette School District,100,Poynette Mid,16.40%,*,N,,,
+wi,127546,Prairie Catholic Schools,1289,Prairie Catholic Schools,13.79%,*,N,,,
+wi,124543,Prairie du Chien Area School District,10,BAK Elementary School,42.06%,*,N,,252,106
+wi,124543,Prairie du Chien Area School District,150,Bluff View Elementary,40.72%,*,N,,221,90
+wi,124543,Prairie du Chien Area School District,300,Bluff View Junior High,27.04%,*,N,,,
+wi,124543,Prairie du Chien Area School District,280,Bluff View Middle School,37.34%,*,N,,158,59
+wi,124543,Prairie du Chien Area School District,800,Mighty River Academy-Virtual,30.00%,*,N,,30,9
+wi,124543,Prairie du Chien Area School District,60,Prairie du Chien Hi,24.93%,*,N,,,
+wi,34557,Prairie Farm School District,20,Prairie Farm El,32.85%,*,N,,207,68
+wi,34557,Prairie Farm School District,40,Prairie Farm Hi,24.42%,*,N,,,
+wi,34557,Prairie Farm School District,30,Prairie Farm Mid,30.69%,*,N,,101,31
+wi,504571,Prentice School District,40,Prentice Elementary School,47.58%,*,N,,124,59
+wi,504571,Prentice School District,60,Prentice High,29.92%,*,N,,,
+wi,504571,Prentice School District,200,Prentice Middle School,43.14%,*,N,,102,44
+wi,474578,Prescott School District,40,Malone Elementary (K-2),12.06%,*,N,,,
+wi,474578,Prescott School District,41,Malone Intermediate (3-5),14.23%,*,N,,,
+wi,474578,Prescott School District,60,Prescott High School,6.44%,*,N,,,
+wi,474578,Prescott School District,80,Prescott Middle School,11.28%,*,N,,,
+wi,474578,Prescott School District,4975,St. Joseph Catholic School,8.43%,*,N,,,
+wi,407618,Prince of Peace School,1205,Prince of Peace Sch,79.10%,,Y,79.10%,445,352
+wi,244606,Princeton School District,40,Princeton School District,30.15%,*,N,,335,101
+wi,54613,Pulaski Community School District,20,Fairview El,20.86%,*,N,,,
+wi,54613,Pulaski Community School District,40,Glenbrook El,23.68%,*,N,,,
+wi,54613,Pulaski Community School District,50,Hillcrest El,18.31%,*,N,,,
+wi,54613,Pulaski Community School District,60,Lannoye El,13.62%,*,N,,,
+wi,54613,Pulaski Community School District,200,Pulaski Community Mid,16.40%,*,N,,,
+wi,54613,Pulaski Community School District,100,Pulaski Hi,12.47%,*,N,,,
+wi,54613,Pulaski Community School District,120,Sunnyside El,6.75%,*,N,,,
+wi,416050,Queen of the Apostles Parish,6050,Queen of the Apostles Grade Sc,13.67%,*,N,,,
+wi,514620,Racine Unified School District,113,4 Year Old Kindergarden,50.00%,*,N,,178,89
+wi,514620,Racine Unified School District,491,Case Hi,36.41%,*,N,,1736,632
+wi,514620,Racine Unified School District,111,Dr. Jones El,70.80%,,Y,61.96%,339,240
+wi,514620,Racine Unified School District,118,Fratt El,68.09%,,Y,61.96%,445,303
+wi,514620,Racine Unified School District,121,Giese El,72.43%,,Y,61.96%,272,197
+wi,514620,Racine Unified School District,119,Gifford K-8,20.27%,*,N,,,
+wi,514620,Racine Unified School District,106,Gilmore Fine Arts,47.86%,,Y,61.96%,794,380
+wi,514620,Racine Unified School District,122,Goodland El,85.49%,,N,,,
+wi,514620,Racine Unified School District,492,Horlick High,45.30%,*,N,,1512,685
+wi,514620,Racine Unified School District,130,Janes El,82.92%,,Y,61.96%,281,233
+wi,131417,"Lighthouse Church, Inc. ",3269,Lighthouse Christian School,0.00%,,Y,42.79%,229,0
+wi,514620,Racine Unified School District,132,Jefferson Lighthouse El,35.56%,,Y,61.96%,540,192
+wi,514620,Racine Unified School District,134,Jerstad-Agerholm,65.60%,,Y,61.96%,1064,698
+wi,514620,Racine Unified School District,136,Johnson El,72.47%,,Y,61.96%,494,358
+wi,514620,Racine Unified School District,720,Julian Thomas Elementary,86.15%,,Y,61.96%,462,398
+wi,514620,Racine Unified School District,138,Knapp El,79.83%,,Y,61.96%,362,289
+wi,514620,Racine Unified School District,148,Mitchell El,63.64%,,Y,61.96%,1301,828
+wi,514620,Racine Unified School District,150,North Park El,64.48%,,Y,61.96%,290,187
+wi,514620,Racine Unified School District,112,O Brown El,31.36%,,Y,61.92%,456,143
+wi,514620,Racine Unified School District,494,Park Hi,50.99%,*,N,,1267,646
+wi,514620,Racine Unified School District,172,P-COC,58.47%,,N,,,
+wi,514620,Racine Unified School District,390,Racine Alternative Learning,77.39%,,Y,61.96%,115,89
+wi,514620,Racine Unified School District,114,Racine Early Education Center,52.63%,,Y,61.96%,38,20
+wi,514620,Racine Unified School District,174,Red Apple El,40.15%,,Y,61.96%,396,159
+wi,514620,Racine Unified School District,154,Roosevelt El,78.55%,,Y,61.96%,317,249
+wi,514620,Racine Unified School District,101,RUSD Montessori,27.39%,,Y,61.92%,157,43
+wi,514620,Racine Unified School District,166,Schulte El,47.27%,,Y,61.96%,440,208
+wi,514620,Racine Unified School District,288,Starbuck Mid,56.07%,,Y,61.96%,708,397
+wi,514620,Racine Unified School District,800,The REAL School,24.62%,*,N,,,
+wi,514620,Racine Unified School District,162,Wadewitz El,70.86%,,Y,61.96%,532,377
+wi,514620,Racine Unified School District,499,Walden III Hi,24.08%,*,N,,,
+wi,514620,Racine Unified School District,164,West Ridge El,72.66%,,Y,61.96%,417,303
+wi,304627,Randall J1 School District,20,Randall El,22.90%,*,N,,,
+wi,144634,Randolph School District,20,Randolph El,28.13%,*,N,,,
+wi,144634,Randolph School District,40,Randolph Hi,15.15%,*,N,,,
+wi,594641,Random Lake School District,60,Random Lake El,23.75%,*,N,,,
+wi,594641,Random Lake School District,80,Random Lake Hi,12.77%,*,N,,,
+wi,594641,Random Lake School District,20,Random Lake Mid,18.64%,*,N,,,
+wi,207264,Redeemer Lutheran School,2410,Redeemer Lutheran School,16.67%,*,N,,,
+wi,564753,Reedsburg School District,20,Ironton-La Valle El,33.85%,*,N,,65,22
+wi,564753,Reedsburg School District,40,Loganville El,20.00%,*,N,,,
+wi,564753,Reedsburg School District,180,Pineview El,35.02%,*,N,,594,208
+wi,564753,Reedsburg School District,80,Reedsburg Area Hi,23.68%,*,N,,,
+wi,564753,Reedsburg School District,140,South El,37.18%,*,N,,234,87
+wi,564753,Reedsburg School District,100,Webb Mid,28.76%,*,N,,,
+wi,564753,Reedsburg School District,160,West Side El,34.47%,*,N,,293,101
+wi,364760,Reedsville Public Schools,20,Reedsville Elementary School,27.40%,*,N,,,
+wi,364760,Reedsville Public Schools,40,Reedsville High School,12.30%,*,N,,,
+wi,364760,Reedsville Public Schools,60,Reedsville Middle School,21.43%,*,N,,,
+wi,186805,Regis Catholic Schools,1390,Immaculate Conception School,14.78%,*,N,,,
+wi,186805,Regis Catholic Schools,2440,Regis High,5.09%,*,N,,,
+wi,186805,Regis Catholic Schools,1183,Regis Middle School,10.44%,*,N,,,
+wi,186805,Regis Catholic Schools,4160,St. James the Greater School,24.30%,*,N,,,
+wi,186805,Regis Catholic Schools,6255,St. Mary's School,12.00%,*,N,,,
+wi,511619,Renaissance School,1619,Renaissance School - Taylor,61.96%,,N,,,
+wi,511619,Renaissance School,1121,Renaissance School - Villa,63.59%,,N,,,
+wi,434781,Rhinelander School District,40,Central El,39.87%,*,N,,311,124
+wi,434781,Rhinelander School District,60,Crescent El,44.47%,*,N,,389,173
+wi,434781,Rhinelander School District,20,Northwoods Community Elementar,49.44%,*,N,,89,44
+wi,434781,Rhinelander School District,140,Pelican El,48.05%,*,N,,333,160
+wi,434781,Rhinelander School District,180,Rhinelander Hi,27.26%,*,N,,,
+wi,434781,Rhinelander School District,90,Williams Jr,36.72%,*,N,,580,213
+wi,604795,Rib Lake School District,100,Rib Lake El,35.56%,*,N,,239,85
+wi,604795,Rib Lake School District,60,Rib Lake Hi,21.54%,*,N,,,
+wi,604795,Rib Lake School District,80,Rib Lake Mid,32.98%,*,N,,94,31
+wi,604795,Rib Lake School District,9100,Rural Virtual Academy,31.25%,*,N,,16,5
+wi,34802,Rice Lake Area School District,60,Haugen El,25.84%,*,N,,,
+wi,34802,Rice Lake Area School District,80,Hilltop El,35.32%,*,N,,269,95
+wi,34802,Rice Lake Area School District,450,Northern Lakes Regional Academ,30.00%,*,N,,30,9
+wi,34802,Rice Lake Area School District,180,Rice Lake High School,23.25%,*,N,,,
+wi,34802,Rice Lake Area School District,140,Rice Lake Mid,31.85%,*,N,,650,207
+wi,34802,Rice Lake Area School District,25,Tainter El,42.52%,*,N,,508,216
+wi,524851,Richland School District,30,Doudna El,42.40%,*,N,,342,145
+wi,524851,Richland School District,240,Jefferson El,51.18%,*,N,,170,87
+wi,524851,Richland School District,260,Lincoln,49.28%,*,N,,69,34
+wi,524851,Richland School District,320,Richland Center Hi,24.87%,*,N,,,
+wi,524851,Richland School District,280,Richland Mid,37.11%,*,N,,291,108
+wi,524851,Richland School District,450,Richland Online Academy,48.72%,*,N,,39,19
+wi,401530,Right Step Inc.,1530,Right Step Inc.,63.41%,,Y,78.35%,97,62
+wi,114865,Rio Community School District,20,Rio El,23.00%,*,N,,,
+wi,114865,Rio Community School District,40,Rio High School,25.00%,*,N,,,
+wi,204872,Ripon School District,110,Barlow Park Elementary School,44.74%,*,N,,190,85
+wi,204872,Ripon School District,200,Catalyst Charter Middle School,19.47%,*,N,,,
+wi,204872,Ripon School District,130,Journey Charter School,17.86%,*,N,,,
+wi,204872,Ripon School District,440,Lumen Charter High School,7.41%,*,N,,,
+wi,204872,Ripon School District,100,Murray Park Elementary School,30.32%,*,N,,188,57
+wi,204872,Ripon School District,170,Quest Charter School,22.38%,*,N,,,
+wi,204872,Ripon School District,120,Ripon High School,19.62%,*,N,,,
+wi,204872,Ripon School District,140,Ripon Middle School,28.09%,*,N,,,
+wi,401351,Risen Savior Lutheran School,1351,Risen Savior Lutheran School,66.38%,,Y,66.38%,229,152
+wi,474893,River Falls School District,20,Greenwood El,13.55%,*,N,,,
+wi,474893,River Falls School District,60,Meyer Mid,16.58%,*,N,,,
+wi,474893,River Falls School District,410,Renaissance Alt Charter Sch,48.53%,*,N,,68,33
+wi,474893,River Falls School District,130,RF 4 Children,20.12%,*,N,,,
+wi,474893,River Falls School District,80,River Falls Hi,12.38%,*,N,,,
+wi,474893,River Falls School District,110,River Falls Montessori Charter,15.96%,*,N,,,
+wi,474893,River Falls School District,40,Rocky Branch El,20.88%,*,N,,,
+wi,474893,River Falls School District,100,Westside El,17.87%,*,N,,,
+wi,224904,River Ridge School District,20,River Ridge Elementary,35.92%,*,N,,206,74
+wi,224904,River Ridge School District,80,River Ridge HS,27.23%,*,N,,,
+wi,224904,River Ridge School District,40,River Ridge MS,30.32%,*,N,,155,47
+wi,565523,River Valley School District,160,River Valley Early Learning Ce,29.86%,*,N,,,
+wi,565523,River Valley School District,120,River Valley Elementary,30.71%,*,N,,280,86
+wi,565523,River Valley School District,110,River Valley Hi,21.78%,*,N,,,
+wi,565523,River Valley School District,100,River Valley Mid,28.33%,*,N,,,
+wi,223850,Riverdale School District,430,Riverdale Academy,69.23%,*,N,,13,9
+wi,223850,Riverdale School District,150,Riverdale El,40.98%,*,N,,410,168
+wi,223850,Riverdale School District,120,Riverdale Hi,35.26%,*,N,,173,61
+wi,223850,Riverdale School District,160,Riverdale Mid,30.69%,*,N,,101,31
+wi,447260,Riverview Evangelical Lutheran School,2450,Riverview Lutheran Sch,9.52%,*,N,,,
+wi,408002,"Rocketship Education Wisconsin, Inc.",8140,Rocketship Transformation Prep,70.00%,,Y,75.55%,80,56
+wi,408002,"Rocketship Education Wisconsin, Inc.",8133,Southside Community Prep,76.42%,,Y,75.55%,509,389
+wi,367269,Roncalli High School,2460,Roncalli High School,7.66%,*,N,,,
+wi,204956,Rosendale-Brandon School District,25,Brandon Elementary,24.14%,*,N,,,
+wi,204956,Rosendale-Brandon School District,30,Brandon Middle,21.05%,*,N,,,
+wi,204956,Rosendale-Brandon School District,400,Cirrus Charter High School,0.00%,*,N,,,
+wi,204956,Rosendale-Brandon School District,50,Laconia High School,10.67%,*,N,,,
+wi,204956,Rosendale-Brandon School District,80,Rosendale Intermediate,13.99%,*,N,,,
+wi,204956,Rosendale-Brandon School District,60,Rosendale Primary,8.45%,*,N,,,
+wi,494963,Rosholt School District,20,ROSHOLT ELEMENTARY,22.22%,*,N,,,
+wi,494963,Rosholt School District,40,ROSHOLT HIGH SCHOOL,11.80%,*,N,,,
+wi,494963,Rosholt School District,60,ROSHOLT MIDDLE SCHOOL,10.00%,*,N,,,
+wi,291673,Royall School District,20,Royall Elementary,48.49%,*,N,,165,80
+wi,291673,Royall School District,60,Royall High School,36.94%,*,N,,222,82
+wi,291673,Royall School District,40,Royall Intermediate,37.96%,*,N,,108,41
+wi,587282,Sacred Heart School,2640,Sacred Heart Grade Sch,35.78%,*,N,,109,39
+wi,137310,Sacred Hearts of Jesus Mary School,2730,Sacred Hearts Jesus Mary Schoo,2.56%,*,N,,,
+wi,405640,Saint Lucas Lutheran School,5640,Saint Lucas Lutheran School,35.32%,*,N,,201,71
+wi,677140,Saint Paul Lutheran Church,7140,St. Paul's Ev. Lutheran School,11.63%,*,N,,,
+wi,305068,Salem School District,20,Salem Elementary,22.77%,*,N,,,
+wi,565100,Sauk Prairie School District,150,Bridges Elementary,17.87%,*,N,,,
+wi,565100,Sauk Prairie School District,1317,C-bEL,25.00%,*,N,,,
+wi,565100,Sauk Prairie School District,30,Grand Avenue El,17.01%,*,N,,,
+wi,565100,Sauk Prairie School District,100,Merrimac Community Charter School,28.46%,*,N,,,
+wi,565100,Sauk Prairie School District,1313,Project Search,9.09%,*,N,,,
+wi,565100,Sauk Prairie School District,120,Sauk Prairie Hi,16.57%,*,N,,,
+wi,565100,Sauk Prairie School District,140,Sauk Prairie Mid,18.74%,*,N,,,
+wi,565100,Sauk Prairie School District,160,Tower Rock El,41.28%,*,N,,218,90
+wi,542856,School District of Ladysmith,60,Ladysmith El,54.28%,,Y,56.15%,374,203
+wi,542856,School District of Ladysmith,80,Ladysmith Hi,36.29%,*,N,,259,94
+wi,542856,School District of Ladysmith,100,Ladysmith Mid,42.94%,*,N,,170,73
+wi,408107,School Early Development & Achievement,1279,Sch for Early Development & Achievement,72.22%,,N,,,
+wi,408001,"Seeds of Health, Inc.",8121,Seeds of Health El,81.19%,,Y,65.50%,419,340
+wi,408001,"Seeds of Health, Inc.",8115,Tenor High School,53.06%,,Y,65.50%,245,130
+wi,408001,"Seeds of Health, Inc.",8124,Veritas High School,57.03%,,Y,65.50%,249,142
+wi,125124,Seneca School District,60,Seneca El,41.94%,*,N,,124,52
+wi,125124,Seneca School District,80,Seneca Hi,34.18%,*,N,,79,27
+wi,125124,Seneca School District,28,Seneca Jr,35.29%,*,N,,85,30
+wi,155130,Sevastopol School District,20,Sevastopol El,24.11%,*,N,,,
+wi,155130,Sevastopol School District,40,Sevastopol Hi,22.28%,*,N,,,
+wi,155130,Sevastopol School District,30,Sevastopol Mid,21.01%,*,N,,,
+wi,155130,Sevastopol School District,10,Sevastopol Pre-School,36.84%,*,N,,38,14
+wi,445138,Seymour Community School District,20,Black Creek El,17.97%,*,N,,,
+wi,445138,Seymour Community School District,60,Rock Ledge Elementary School,28.61%,*,N,,,
+wi,445138,Seymour Community School District,100,Seymour High School,21.34%,*,N,,,
+wi,445138,Seymour Community School District,80,Seymour Middle School,20.98%,*,N,,,
+wi,645258,Sharon Jt#11 School District,20,Sharon Community Grade School,36.94%,*,N,,268,99
+wi,407299,Sharon Junior Academy,8190,Sharon Jr Academy,73.08%,,Y,73.08%,26,19
+wi,585264,Shawano School District,230,Brener El,38.77%,*,N,,503,195
+wi,585264,Shawano School District,150,Hillcrest Primary School,50.57%,*,N,,530,268
+wi,585264,Shawano School District,110,Leads Primary Charter School,25.71%,*,N,,,
+wi,585264,Shawano School District,280,Shawano Community High School,30.44%,*,N,,759,231
+wi,585264,Shawano School District,70,Shawano Community Mid,34.82%,*,N,,560,195
+wi,595271,Sheboygan Area School District,450,Central High School,57.65%,,Y,60.24%,255,147
+wi,595271,Sheboygan Area School District,20,Cleveland Elementary,28.97%,*,N,,,
+wi,595271,Sheboygan Area School District,40,Cooper Elementary,44.41%,*,N,,304,135
+wi,595271,Sheboygan Area School District,93,Early Learning Ctr,46.89%,*,N,,676,317
+wi,595271,Sheboygan Area School District,190,Etude Elementary,34.92%,*,N,,189,66
+wi,595271,Sheboygan Area School District,451,Etude High School,36.74%,*,N,,98,36
+wi,595271,Sheboygan Area School District,250,Etude Middle School,44.44%,*,N,,99,44
+wi,595271,Sheboygan Area School District,60,Farnsworth Middle School,42.62%,*,N,,549,234
+wi,595271,Sheboygan Area School District,440,George Warriner High School,32.74%,*,N,,113,37
+wi,595271,Sheboygan Area School District,220,George Warriner Middle School,44.29%,*,N,,70,31
+wi,595271,Sheboygan Area School District,100,Grant Elementary,53.15%,*,N,,397,211
+wi,595271,Sheboygan Area School District,110,Horace Mann Middle School,34.31%,*,N,,647,222
+wi,595271,Sheboygan Area School District,120,Jackson Elementary,42.15%,*,N,,325,137
+wi,595271,Sheboygan Area School District,240,James Madison Elementary,46.79%,*,N,,374,175
+wi,595271,Sheboygan Area School District,140,Jefferson Elementary,55.95%,,Y,60.24%,420,235
+wi,595271,Sheboygan Area School District,150,Lake Country Academy,19.52%,*,N,,,
+wi,595271,Sheboygan Area School District,180,Lincoln Erdman Elementary,20.54%,*,N,,,
+wi,595271,Sheboygan Area School District,200,Longfellow Elementary,65.91%,,Y,60.24%,263,173
+wi,595271,Sheboygan Area School District,280,North High,25.97%,*,N,,,
+wi,595271,Sheboygan Area School District,170,Northeast Wisconsin Montessori School,8.33%,*,N,,,
+wi,595271,Sheboygan Area School District,300,Pigeon River Elementary,32.73%,*,N,,275,90
+wi,595271,Sheboygan Area School District,105,Sheboygan Leadership Academy,31.22%,*,N,,205,64
+wi,595271,Sheboygan Area School District,320,Sheridan Elementary,60.92%,,Y,60.24%,173,105
+wi,595271,Sheboygan Area School District,340,South High,34.58%,*,N,,1047,362
+wi,595271,Sheboygan Area School District,360,Urban Middle School,40.29%,*,N,,685,276
+wi,595271,Sheboygan Area School District,400,Wilson Elementary,35.98%,*,N,,517,186
+wi,595278,Sheboygan Falls School District,20,Sheboygan Falls Elementary,16.30%,*,N,,,
+wi,595278,Sheboygan Falls School District,40,Sheboygan Falls High School,14.23%,*,N,,,
+wi,595278,Sheboygan Falls School District,60,Sheboygan Falls Middle School,17.01%,*,N,,,
+wi,655306,Shell Lake School District,20,Shell Lake El (3-6),49.29%,*,N,,211,104
+wi,655306,Shell Lake School District,40,Shell Lake Jr/Sr Hi,35.48%,*,N,,310,110
+wi,655306,Shell Lake School District,10,Shell Lake Primary (K-2),44.44%,*,N,,171,76
+wi,207652,Shepherd of the Hills School,2110,Shepherd of the Hills,10.28%,*,N,,,
+wi,401704,"Shining Star Christian Schools, Inc.",1129,Shining Star Christian Schools,89.65%,,Y,79.74%,150,134
+wi,401704,"Shining Star Christian Schools, Inc.",101,Shining Star Christian Schools (60th St),0.00%,,Y,79.74%,101,0
+wi,401704,"Shining Star Christian Schools, Inc.",1704,Shining Star Christian Schools,91.22%,,Y,79.74%,218,199
+wi,445348,Shiocton School District,20,Shiocton El,21.80%,*,N,,,
+wi,445348,Shiocton School District,40,Shiocton Hi,20.57%,*,N,,,
+wi,405355,Shorewood School District,20,Atwater,12.90%,*,N,,,
+wi,405355,Shorewood School District,40,Lake Bluff El,11.29%,*,N,,,
+wi,405355,Shorewood School District,400,New Horizons for Learning,20.83%,*,N,,,
+wi,405355,Shorewood School District,80,Shorewood Hi,12.71%,*,N,,,
+wi,405355,Shorewood School District,60,Shorewood Intermediate,14.80%,*,N,,,
+wi,335362,Shullsburg School District,60,Shullsburg El,40.00%,*,N,,155,62
+wi,335362,Shullsburg School District,80,Shullsburg Hi,20.17%,*,N,,,
+wi,335362,Shullsburg School District,28,Shullsburg Jr,29.76%,*,N,,,
+wi,513430,SienaCatholicSchools of Racine,2620,JOHN PAUL II ACADEMY,46.79%,*,N,,218,102
+wi,513430,SienaCatholicSchools of Racine,3640,OUR LADY OF GRACE ACADEMY,50.50%,*,N,,200,101
+wi,513430,SienaCatholicSchools of Racine,3430,SAINT CATHERINE HIGH SCHOOL,37.20%,*,N,,629,234
+wi,513430,SienaCatholicSchools of Racine,5140,SAINT JOSEPH,29.15%,*,N,,,
+wi,513430,SienaCatholicSchools of Racine,5650,SAINT LUCY,10.00%,*,N,,,
+wi,513430,SienaCatholicSchools of Racine,7632,SAINT RITA,12.16%,*,N,,,
+wi,407311,Siloah Lutheran School,8217,Siloah Lutheran School,74.52%,,Y,74.52%,157,117
+wi,305369,Silver Lake Jt. #1 School District,20,Riverview El,24.49%,*,N,,,
+wi,75376,Siren School District,20,Siren Elementary School,56.11%,*,N,,221,124
+wi,75376,Siren School District,40,Siren High School,40.39%,*,N,,255,103
+wi,665390,Slinger School District,100,Addison El,8.15%,*,N,,,
+wi,665390,Slinger School District,10,Allenton El,15.02%,*,N,,,
+wi,665390,Slinger School District,20,Slinger El,13.70%,*,N,,,
+wi,665390,Slinger School District,80,Slinger Hi,9.39%,*,N,,,
+wi,665390,Slinger School District,60,Slinger Mid,11.81%,*,N,,,
+wi,165397,Solon Springs School District,800,Solon Springs Sch,31.41%,*,N,,277,87
+wi,555432,Somerset School District,20,Somerset El,18.52%,*,N,,,
+wi,555432,Somerset School District,40,Somerset Hi,13.68%,*,N,,,
+wi,555432,Somerset School District,60,Somerset Mid,19.17%,*,N,,,
+wi,405439,South Milwaukee School District,10,Blakewood El,40.63%,*,N,,352,143
+wi,405439,South Milwaukee School District,40,Lakeview El,50.65%,*,N,,310,157
+wi,405439,South Milwaukee School District,20,Luther El,36.28%,*,N,,215,78
+wi,405439,South Milwaukee School District,80,Rawson El,49.45%,*,N,,453,224
+wi,405439,South Milwaukee School District,120,South Milwaukee Hi,34.21%,*,N,,1032,353
+wi,405439,South Milwaukee School District,100,South Milwaukee Middle School,40.97%,*,N,,681,279
+wi,44522,South Shore School District,40,South Shore Elementary,44.21%,*,N,,95,42
+wi,44522,South Shore School District,100,South Shore Jr-Sr High School,25.30%,*,N,,,
+wi,155457,Southern Door School District,20,Southern Door El,33.26%,*,N,,466,155
+wi,155457,Southern Door School District,220,Southern Door High School,24.83%,*,N,,,
+wi,155457,Southern Door School District,40,Southern Door Mid,29.03%,*,N,,,
+wi,222485,Southwestern Wis Schools,40,Southwestern Wisconsin El,23.05%,*,N,,,
+wi,222485,Southwestern Wis Schools,60,Southwestern Wisconsin Hi,15.57%,*,N,,,
+wi,222485,Southwestern Wis Schools,200,Southwestern Wisconsin Middle,18.81%,*,N,,,
+wi,415460,Sparta Area School District,40,Cataract Elementary,34.72%,*,N,,72,25
+wi,415460,Sparta Area School District,200,Innovations STEM Academy,13.12%,*,N,,,
+wi,415460,Sparta Area School District,170,Lakeview Montessori,26.80%,*,N,,,
+wi,415460,Sparta Area School District,80,Lawrence-Lawson El,45.57%,*,N,,237,108
+wi,415460,Sparta Area School District,110,Maplewood Elementary,30.77%,*,N,,221,68
+wi,415460,Sparta Area School District,120,Southside Elementary,39.06%,*,N,,256,100
+wi,415460,Sparta Area School District,800,Sparta Area Independent Lrng,51.11%,*,N,,45,23
+wi,415460,Sparta Area School District,130,Sparta Charter Pre Kindergarten,42.76%,*,N,,152,65
+wi,415460,Sparta Area School District,160,Sparta Hi,26.47%,*,N,,,
+wi,415460,Sparta Area School District,410,Sparta High Point Sch,32.50%,*,N,,40,13
+wi,415460,Sparta Area School District,150,Sparta Meadowview Intermed,38.26%,*,N,,426,163
+wi,415460,Sparta Area School District,140,Sparta Meadowview Mid,34.76%,*,N,,584,203
+wi,375467,Spencer School District,20,Spencer El,22.02%,*,N,,,
+wi,375467,Spencer School District,40,Spencer Hi,19.13%,*,N,,,
+wi,655474,Spooner Area School District,120,Little Rails Early Learning,64.38%,*,N,,73,47
+wi,655474,Spooner Area School District,40,Spooner El,53.40%,*,N,,371,198
+wi,655474,Spooner Area School District,80,Spooner Hi,32.19%,*,N,,351,113
+wi,655474,Spooner Area School District,100,Spooner Mid,45.71%,*,N,,361,165
+wi,475586,Spring Valley School District,60,Spring Valley El,22.68%,*,N,,,
+wi,475586,Spring Valley School District,80,Spring Valley Hi,16.74%,*,N,,,
+wi,475586,Spring Valley School District,70,Spring Valley Mid,20.13%,*,N,,,
+wi,617828,SS Peter & Paul School,8300,SS Peter & Paul Grade Sch,13.33%,*,N,,,
+wi,407330,St. Adalbert School,2750,Saint Adalbert Grade Sch,76.80%,,Y,76.80%,444,341
+wi,677344,St. Agnes School,2800,St. Agnes School,28.03%,*,N,,,
+wi,227361,St. Andrew & Thomas School,8235,SS Andrew - Thomas Grade Sch,9.09%,*,N,,,
+wi,647364,St. Andrews School,2950,St.Andrews School,21.94%,*,N,,,
+wi,557369,St. Anne's School,2990,St. Anne,7.14%,*,N,,,
+wi,137365,St. Ann's School,3028,Saint Ann Sch,19.26%,*,N,,,
+wi,407375,St. Anthony School,3100,St Anthony School,73.15%,,Y,67.62%,391,286
+wi,407375,St. Anthony School,3101,St Anthony School,76.35%,,Y,67.62%,444,339
+wi,407375,St. Anthony School,661,St. Anthony,54.46%,,Y,67.62%,538,293
+wi,407375,St. Anthony School,572,St. Anthony,70.40%,,Y,67.62%,375,264
+wi,377374,St. Anthony's School,3050,Saint Anthony Grade Sch,18.87%,*,N,,,
+wi,427376,St. Anthony's School,3120,Saint Anthony Grade Sch,15.25%,*,N,,,
+wi,407406,St. Catherines School,3410,St. Catherines School,84.25%,,Y,84.25%,146,123
+wi,407410,St. Charles Borromeo School,3455,St. Charles Borromeo,17.86%,*,N,,,
+wi,517415,St. Charles School,3490,St. Charles School,27.59%,*,N,,,
+wi,627417,St. Charles School,3520,Saint Charles Grade Sch,29.17%,*,N,,,
+wi,227422,St. Clement School,3570,Saint Clement Sch,6.48%,*,N,,,
+wi,552422,St. Croix Central School,850,St Croix Academy of Vitrtual E,29.48%,*,N,,,
+wi,552422,St. Croix Central School,60,St. Croix Central High School,8.24%,*,N,,,
+wi,552422,St. Croix Central School,80,St. Croix Central Middle Schoo,12.42%,*,N,,,
+wi,552422,St. Croix Central School,40,St. Croix Central Roberts Elem,16.49%,*,N,,,
+wi,485019,St. Croix Falls School District,40,Dresser Elementary,28.38%,*,N,,,
+wi,485019,St. Croix Falls School District,60,St. Croix Falls Elementary,26.50%,*,N,,,
+wi,485019,St. Croix Falls School District,80,St. Croix Falls High School,17.34%,*,N,,,
+wi,485019,St. Croix Falls School District,70,St. Croix Falls Middle School,26.11%,*,N,,,
+wi,591130,St. Elizabeth Ann Seton Catholic School,1130,St. Elizabeth Ann Seton Cathol,17.88%,*,N,,,
+wi,407435,St. Eugene School,3680,Saint Eugene Grade Sch,8.84%,*,N,,,
+wi,667446,St. Frances Cabrini School,3720,Saint Frances Cabrini Sch,0.00%,*,N,,,
+wi,657443,St. Francis de Sales School,3760,St. Francis de Sales Gr School,16.96%,*,N,,,
+wi,647441,St. Francis DeSales School,3750,Saint Francis de Sales Gr Sch,12.87%,*,N,,,
+wi,367673,St. Francis of Assisi School,3710,Saint Francis Middle School,15.02%,*,N,,,
+wi,367673,St. Francis of Assisi School,3740,St. Francis  Elementary School,15.02%,*,N,,,
+wi,477445,St. Francis School,3770,St. Francis,4.76%,*,N,,,
+wi,405026,St. Francis School District,20,Deer Creek Intermediate School,36.80%,*,N,,337,124
+wi,405026,St. Francis School District,40,Saint Francis Hi,35.24%,*,N,,525,185
+wi,405026,St. Francis School District,80,Willow Glen El,35.47%,*,N,,203,72
+wi,577447,St. Francis Solanus School,3850,St. Francis Solanus School,56.25%,,Y,73.33%,15,8
+wi,449657,"St. Francis Xavier Catholic School, Inc.",7595,St. Francis Xavier Elemen.-M,10.70%,*,N,,,
+wi,449657,"St. Francis Xavier Catholic School, Inc.",7965,St. Francis Xavier Elemen.-Mc,11.11%,*,N,,,
+wi,449657,"St. Francis Xavier Catholic School, Inc.",8750,St. Francis Xavier High School,6.31%,*,N,,,
+wi,449657,"St. Francis Xavier Catholic School, Inc.",5230,St. Francis Xavier Middle,9.67%,*,N,,,
+wi,669660,St. Gabriel School,4020,Saint Gabriel School,9.76%,*,N,,,
+wi,407466,St. Gregory Great School,3935,Saint Gregory the Great Gr Sch,44.86%,*,N,,243,109
+wi,447351,St. Ignatius School,930,St Ignatious,8.94%,*,N,,,
+wi,407483,St. Jacobi Evangelical Lutheran School,4070,Saint Jacobi Lutheran Sch,10.78%,*,N,,,
+wi,587484,St. James Lutheran School,4155,St. James Lutheran,19.59%,*,N,,,
+wi,677495,St. Jerome School,4180,Saint Jerome Parish Sch,6.84%,*,N,,,
+wi,117497,St. Jeromes School,4190,Saint Jerome Parochial Gr Sch,5.79%,*,N,,,
+wi,407501,St. Joan Antida High School,4210,Saint Joan Antida High School,62.26%,*,N,,159,99
+wi,287530,St. John Ev Lutheran Sch,4670,St. John Ev Lutheran Sch,19.40%,*,N,,,
+wi,667520,St. John Evangelical Lutheran School,4920,St Johns Lutheran Sch,7.43%,*,N,,,
+wi,247526,St. John Lutheran School,4440,Saint John Lutheran Grade Sch,32.65%,*,N,,49,16
+wi,287507,St. John Lutheran School,4710,Saint Johns Grade Sch,12.77%,*,N,,,
+wi,357534,St. John Lutheran School,4480,Saint John Lutheran Sch,20.18%,*,N,,,
+wi,597506,St. John Lutheran School,4483,Saint John Lutheran Sch,14.08%,*,N,,,
+wi,409661,St. John Paul II Congregation,4280,HOLY WISDOM ACADEMY EAST,67.64%,,Y,55.81%,149,101
+wi,409661,St. John Paul II Congregation,1216,HOLY WISDOM ACADEMY WEST,61.66%,,Y,55.81%,161,99
+wi,409661,St. John Paul II Congregation,4420,ST. JOHN KANTY,63.31%,,N,,,
+wi,597545,St. John the Baptist School,4543,St. John The Baptist,5.56%,*,N,,,
+wi,407505,St. John the Evangelist School,4560,St. John the Evangelist School,17.65%,*,N,,,
+wi,677498,St. John Vianney School,4620,Saint John Vianney Grade Sch,0.62%,*,N,,,
+wi,417518,St. Johns Lutheran School,4650,Saint Johns Evang Luth Gr Sch,13.33%,*,N,,,
+wi,107522,St. John's Lutheran School,4680,Saint Johns Evang Lutheran Sch,16.67%,*,N,,,
+wi,117529,St. John's Lutheran School,4770,St. John's Lutheran,15.96%,*,N,,,
+wi,147521,St. John's Lutheran School,4868,Saint Johns Lutheran Sch,8.99%,*,N,,,
+wi,364867,St. John's Lutheran School,4867,St. John's Lutheran School,25.00%,*,N,,,
+wi,407525,St. John's Lutheran School,4655,Saint Johns Evang Lutheran Sch,43.02%,*,N,,258,111
+wi,407536,St. John's Lutheran School,4460,Saint John Lutheran Grade Sch,16.51%,*,N,,,
+wi,567542,St. John's Lutheran School,4830,St. Johns Lutheran Sch,14.78%,*,N,,,
+wi,407562,St. Josaphat Basilica School,4950,Saint Josaphat Parish Sch,73.80%,,Y,73.80%,229,169
+wi,406805,"St. Joseph Academy, Inc.",8224,St Joseph Academy,74.26%,,Y,74.26%,470,349
+wi,477577,St. Joseph Catholic Church,4975,St. Joseph Parish School,0.00%,*,N,,,
+wi,377583,St. Joseph Catholic School,5160,St. Joseph School,17.07%,*,N,,,
+wi,177593,St. Joseph Congregation,5100,Saint Joseph Grade Sch,15.93%,*,N,,,
+wi,677588,St. Joseph Grade School,5000,St Joseph Cath School,0.86%,*,N,,,
+wi,227576,St. Joseph School,5060,St. Joseph School,7.50%,*,N,,,
+wi,57984,St. Joseph School Inc,1508,Saint Joseph School Inc,14.77%,*,N,,,
+wi,97589,St. Joseph's School,5020,St. Joseph School,18.92%,*,N,,,
+wi,257597,St. Joseph's School,120,St. Joseph School,4.72%,*,N,,,
+wi,457580,St. Joseph's School,5340,Saint Joseph Parish School,3.33%,*,N,,,
+wi,147838,St. Katharine Drexel School,8560,St Katharine Drexel School,13.20%,*,N,,,
+wi,667612,St. Kilian School,5480,St. Kilian School,3.09%,*,N,,,
+wi,677622,St. Leonard School,5555,Saint Leonard School,2.34%,*,N,,,
+wi,567631,St. Luke Grade School,5660,St. Luke School,17.20%,*,N,,,
+wi,407646,St. Marcus Lutheran School,5710,St. Marcus Lutheran School,60.00%,,Y,60.10%,680,408
+wi,407646,St. Marcus Lutheran School,993,St. Marcus North Campus (ECC),60.49%,,Y,60.10%,162,98
+wi,407636,St. Margaret Mary School,5720,Saint Margaret Mary Grade Sch,54.22%,,Y,70.00%,170,92
+wi,137645,St. Maria Goretti,5735,Saint Maria Goretti Sch,2.15%,*,N,,,
+wi,287638,St. Marks Lutheran School,5770,Saint Marks Ev Lutheran School,24.23%,*,N,,,
+wi,687643,St. Martin Lutheran School,5820,Saint Martin Lutheran Gr Sch,17.17%,*,N,,,
+wi,707457,St. Mary Catholic Schools,3870,St. Gabriel Elementary School,5.04%,*,N,,,
+wi,707457,St. Mary Catholic Schools,5730,St. Margaret Mary Elementary S,5.38%,*,N,,,
+wi,707457,St. Mary Catholic Schools,5840,St. Mary Catholic High School,5.74%,*,N,,,
+wi,707457,St. Mary Catholic Schools,5980,St. Mary Elementary School,16.85%,*,N,,,
+wi,707457,St. Mary Catholic Schools,8162,St.Mary Catholic Middle School,7.74%,*,N,,,
+wi,527684,St. Mary of the Assumption Parish,6030,St Marys School,14.88%,*,N,,,
+wi,447667,St. Mary of the Immaculate Conception Ca,5925,Saint Mary Grade Sch,3.38%,*,N,,,
+wi,87717,St. Mary Parochial School,5940,St. Mary Catholic School,37.50%,*,N,,32,12
+wi,107694,St. Mary School,6290,St. Marys Grade School,21.78%,*,N,,,
+wi,117718,St. Mary School,6540,Saint Mary Catholic Gr Sch,17.31%,*,N,,,
+wi,207698,St. Mary Springs Academy,6560,St. Mary's Springs Academy,9.15%,*,N,,,
+wi,557678,St. Mary's Home and School Association,6555,Saint Marys Sch,8.74%,*,N,,,
+wi,107668,St. Mary's School,6360,Saint Marys Grade Sch,16.00%,*,N,,,
+wi,227706,St. Mary's School,5883,St. Mary's Grade School,27.59%,*,N,,,
+wi,317654,St. Mary's School,6370,Saint Marys Grade Sch,5.32%,*,N,,,
+wi,357712,St. Mary's School,6530,St. Mary's School,12.36%,*,N,,,
+wi,377714,St. Mary's School,6400,Saint Marys Grade Sch,8.94%,*,N,,,
+wi,367058,St. Mary's School-Clarks Mills,6550,Saint Mary\ Saint Michael,13.64%,*,N,,,
+wi,677674,St. Mary's Visitation School,5920,St. Mary's Visitation School,3.55%,*,N,,,
+wi,627738,St. Matthew's Lutheran School,6667,Saint Matthews Evang Luth Sch,14.29%,*,N,,,
+wi,407733,St. Matthew's School,6666,Saint Matthew El Sch,9.04%,*,N,,,
+wi,407735,St. Matthias School,6690,St. Matthias School,28.22%,*,N,,,
+wi,417782,St. Patrick Parish,7000,Saint Patricks Grade Sch,10.16%,*,N,,,
+wi,297784,St. Patricks Grade School,6910,Saint Patrick School,11.43%,*,N,,,
+wi,57820,St. Paul Lutheran School,7092,St. Paul Lutheran School,12.07%,*,N,,,
+wi,457817,St. Paul Lutheran School,7091,Saint Paul Lutheran School,4.92%,*,N,,,
+wi,497803,St. Paul Lutheran School,7080,St. Paul Lutheran,16.55%,*,N,,,
+wi,587850,St. Paul Lutheran School,7050,Saint Paul Lutheran Grade Sch,19.37%,*,N,,,
+wi,597822,St. Paul Lutheran School,7230,St. Paul Lutheran School,34.85%,*,N,,66,23
+wi,687821,St. Paul Lutheran School,7210,St Paul Lutheran School,19.40%,*,N,,,
+wi,377826,St. Paul Parochial School,7100,Saint Paul Parochial Grade Sch,0.00%,*,N,,,
+wi,97823,St. Paul's Catholic School,7037,Saint Paul Grade Sch,7.32%,*,N,,,
+wi,417815,St. Pauls Lutheran School,7095,St. Pauls Lutheran Scool,12.00%,*,N,,,
+wi,327858,St. Paul's Lutheran School,7144,Saint Pauls Evang Lutheran Sch,8.56%,*,N,,,
+wi,447801,St. Paul's Lutheran School,7030,Saint Paul Evang Lutheran,21.64%,*,N,,,
+wi,537804,St. Paul's Lutheran School,7267,St. Paul's Lutheran School,15.61%,*,N,,,
+wi,687842,St. Peter Evangelical Lutheran School,7415,St Peter Lutheran Sch,10.34%,*,N,,,
+wi,408144,"Carmen School of Science and Technology, Inc. ",8136,"Stellar Collegiate, Inc.",0.00%,,Y,82.35%,85,0
+wi,401305,Christ-St. Peter Lutheran School,1305,Christ St. Peter Lutheran School ,0.00%,,Y,77.06%,218,0
+wi,407834,St. Peter Immanuel Lutheran School,7400,Saint Peter Immanuel Luth Sch,59.56%,,Y,59.56%,136,81
+wi,207832,St. Peters Lutheran School,7470,Saint Peters Lutheran Gr Sch,9.93%,*,N,,,
+wi,407038,St. Philip's Lutheran School,1302,St Philips Lutheran Sch,73.33%,,Y,73.33%,135,99
+wi,407096,St. Rafael the Archangel,9934,St. Rafael the Archangel School - North,73.33%,,Y,70.63%,120,88
+wi,407096,St. Rafael the Archangel,1200,St. Rafael the Archangel School - South,69.58%,,Y,70.63%,309,215
+wi,407869,St. Robert School,7650,Saint Robert Grade Sch,7.53%,*,N,,,
+wi,407875,St. Roman School,7670,St. Roman,59.04%,,Y,59.73%,175,103
+wi,687881,St. Rose Congregation,7680,St. Rose St. Mary's School,20.51%,*,N,,,
+wi,227879,St. Rose School,7690,St. Rose School,14.50%,*,N,,,
+wi,407886,St. Sebastian School,7720,Saint Sebastian Grade Sch,29.17%,*,N,,,
+wi,407886,St. Sebastian School,3580,St. Coletta Day School,31.56%,*,N,,320,101
+wi,147899,St. Stephen's Ev. Lutheran School,7860,St. Stephen's Ev. Lutheran,21.37%,*,N,,,
+wi,407924,St. Thomas Aquinas Academy,7980,St. Thomas Aquinas Academy,32.42%,*,N,,219,71
+wi,407370,St. Vincent Pallotti School,3160,Saint Vincent Pallotti West,48.95%,*,N,,190,93
+wi,95593,Stanley-Boyd School District,20,Boyd El,46.43%,*,N,,84,39
+wi,95593,Stanley-Boyd School District,120,Stanley El,38.76%,*,N,,467,181
+wi,95593,Stanley-Boyd School District,80,Stanley-Boyd Hi,31.49%,*,N,,289,91
+wi,95593,Stanley-Boyd School District,100,Stanley-Boyd Mid,34.83%,*,N,,267,93
+wi,408136,"Stellar Collegiate, Inc.",8136,Stellar Collegiate,82.35%,,N,,,
+wi,495607,Stevens Point School District,50,Bannach El,16.91%,*,N,,,
+wi,495607,Stevens Point School District,10,Benjamin Franklin Jr,24.97%,*,N,,,
+wi,495607,Stevens Point School District,360,CARE,56.25%,*,N,,16,9
+wi,495607,Stevens Point School District,310,Chas F Fernandez Center for Alt Learning,56.86%,*,N,,102,58
+wi,495607,Stevens Point School District,140,Jefferson Elementary School,43.94%,*,N,,264,116
+wi,495607,Stevens Point School District,320,Juvenile Detention,100.00%,*,N,,5,5
+wi,495607,Stevens Point School District,160,Kennedy El,21.66%,*,N,,,
+wi,495607,Stevens Point School District,190,Madison El,33.78%,*,N,,370,125
+wi,495607,Stevens Point School District,200,McDill Elementary School,27.27%,*,N,,,
+wi,495607,Stevens Point School District,100,McKinley Center,42.12%,*,N,,425,179
+wi,495607,Stevens Point School District,240,P J Jacobs Jr,25.71%,*,N,,,
+wi,495607,Stevens Point School District,250,Plover-Whiting El,30.15%,*,N,,461,139
+wi,495607,Stevens Point School District,110,Point 4 the Future,31.66%,*,N,,499,158
+wi,495607,Stevens Point School District,290,Point of Discovery School,20.23%,*,N,,,
+wi,495607,Stevens Point School District,350,Preschool Options,54.55%,*,N,,44,24
+wi,495607,Stevens Point School District,260,Roosevelt Elementary School,29.25%,*,N,,,
+wi,495607,Stevens Point School District,270,Stevens Point Area Senior High,20.29%,*,N,,,
+wi,495607,Stevens Point School District,280,Washington Elementary School,25.00%,*,N,,,
+wi,85614,Stockbridge School District,20,Stockbridge El,20.41%,*,N,,,
+wi,85614,Stockbridge School District,40,Stockbridge Hi,17.24%,*,N,,,
+wi,85614,Stockbridge School District,200,Stockbridge Mid,31.92%,*,N,,47,15
+wi,673542,Stone Bank School District,20,Stone Bank El,9.14%,*,N,,,
+wi,135621,Stoughton Area School District,160,Fox Prairie Elementary School,23.66%,*,N,,,
+wi,135621,Stoughton Area School District,60,Kegonsa El,30.03%,*,N,,313,94
+wi,135621,Stoughton Area School District,120,River Bluff Mid,20.96%,*,N,,,
+wi,135621,Stoughton Area School District,100,Sandhhill Elementary School,21.57%,*,N,,,
+wi,135621,Stoughton Area School District,140,Stoughton High School,16.53%,*,N,,,
+wi,375628,Stratford School District,9100,Rural Virtual Academy,44.44%,*,N,,9,4
+wi,375628,Stratford School District,25,Stratford El,22.40%,*,N,,,
+wi,375628,Stratford School District,40,Stratford High School,14.57%,*,N,,,
+wi,375628,Stratford School District,230,Stratford Middle School,16.93%,*,N,,,
+wi,155642,Sturgeon Bay School District,120,Sawyer Elementary School,42.11%,*,N,,133,56
+wi,155642,Sturgeon Bay School District,460,St John Bosco School,11.90%,*,N,,,
+wi,155642,Sturgeon Bay School District,10,Sturgeon Bay High School,28.79%,*,N,,,
+wi,155642,Sturgeon Bay School District,50,Sunrise Elementary School,35.21%,*,N,,213,75
+wi,155642,Sturgeon Bay School District,70,Sunset School,44.83%,*,N,,145,65
+wi,155642,Sturgeon Bay School District,80,TJ Walker Middle School,31.10%,*,N,,254,79
+wi,135656,Sun Prairie Area School District,220,Cardinal Heights Upper Middle,19.72%,*,N,,,
+wi,135656,Sun Prairie Area School District,20,CH Bird El,32.81%,*,N,,384,126
+wi,135656,Sun Prairie Area School District,180,Creekside El,24.51%,*,N,,,
+wi,135656,Sun Prairie Area School District,40,Eastside El,11.23%,*,N,,,
+wi,135656,Sun Prairie Area School District,150,Horizon Elementary,9.15%,*,N,,,
+wi,135656,Sun Prairie Area School District,9803,JEDI Virtual School,25.40%,*,N,,,
+wi,135656,Sun Prairie Area School District,110,Meadow View El,22.46%,*,N,,,
+wi,135656,Sun Prairie Area School District,60,Northside El,27.61%,*,N,,,
+wi,135656,Sun Prairie Area School District,210,Patrick Marsh Mid,22.80%,*,N,,,
+wi,135656,Sun Prairie Area School District,410,Prairie Phoenix Academy,60.44%,,Y,51.86%,91,55
+wi,135656,Sun Prairie Area School District,200,Prairie View Mid,21.02%,*,N,,,
+wi,135656,Sun Prairie Area School District,70,Royal Oaks El,14.08%,*,N,,,
+wi,135656,Sun Prairie Area School District,190,Sun Prairie Four Kids (SP4K),20.21%,*,N,,,
+wi,135656,Sun Prairie Area School District,100,Sun Prairie High School,16.88%,*,N,,,
+wi,135656,Sun Prairie Area School District,130,Token Springs El,10.03%,*,N,,,
+wi,135656,Sun Prairie Area School District,140,Westside El,45.89%,,Y,51.86%,414,190
+wi,165663,Superior School District,40,Bryant El,37.28%,*,N,,346,129
+wi,165663,Superior School District,260,Cooper El,33.42%,*,N,,383,128
+wi,165663,Superior School District,110,Four Corners El,17.70%,*,N,,,
+wi,165663,Superior School District,300,Great Lakes El,35.48%,*,N,,465,165
+wi,165663,Superior School District,120,Lake Superior El,37.32%,*,N,,209,78
+wi,165663,Superior School District,115,Northern Lights El,56.36%,*,N,,605,341
+wi,165663,Superior School District,130,Superior Community Preschool,58.07%,*,N,,186,108
+wi,165663,Superior School District,280,Superior Hi,28.86%,*,N,,,
+wi,165663,Superior School District,60,Superior Mid,36.10%,*,N,,975,352
+wi,425670,Suring Public School District,60,Suring Elementary School,53.91%,*,N,,256,138
+wi,425670,Suring Public School District,80,Suring High School,35.20%,*,N,,125,44
+wi,107949,Thorp Catholic School,8372,Thorp Catholic School,34.85%,*,N,,66,23
+wi,105726,Thorp School District,20,Thorp El,41.40%,*,N,,413,171
+wi,105726,Thorp School District,40,Thorp Hi,35.64%,*,N,,188,67
+wi,435733,Three Lakes School District,40,Sugar Camp El,37.93%,*,N,,116,44
+wi,435733,Three Lakes School District,60,Three Lakes El,38.25%,*,N,,183,70
+wi,435733,Three Lakes School District,80,Three Lakes Hi,26.71%,*,N,,,
+wi,435733,Three Lakes School District,300,Three Lakes Jr High,27.85%,*,N,,,
+wi,585740,Tigerton School District,20,Tigerton Elementary,39.04%,*,N,,146,57
+wi,585740,Tigerton School District,40,Tigerton High/Middle School,40.74%,*,N,,108,44
+wi,415747,Tomah Area School District,20,Camp Douglas El,55.77%,*,N,,52,29
+wi,415747,Tomah Area School District,40,La Grange El,29.66%,*,N,,,
+wi,415747,Tomah Area School District,60,Lemonweir El,47.08%,*,N,,291,137
+wi,415747,Tomah Area School District,100,Miller El,43.28%,*,N,,268,116
+wi,415747,Tomah Area School District,140,Oakdale El,47.48%,*,N,,99,47
+wi,415747,Tomah Area School District,800,Robert Kupper Lrng Ctr,51.35%,*,N,,74,38
+wi,415747,Tomah Area School District,120,Timber PUPS 4K Program,29.79%,*,N,,,
+wi,415747,Tomah Area School District,110,Tomah Area Montessori School,16.36%,*,N,,,
+wi,415747,Tomah Area School District,180,Tomah Hi,22.11%,*,N,,,
+wi,415747,Tomah Area School District,160,Tomah Mid,30.27%,*,N,,664,201
+wi,415747,Tomah Area School District,220,Warrens El,35.61%,*,N,,132,47
+wi,415747,Tomah Area School District,240,Wyeville El,48.31%,*,N,,118,57
+wi,355754,Tomahawk School District,180,Tomahawk Elementary School,32.34%,*,N,,569,184
+wi,355754,Tomahawk School District,200,Tomahawk High School,24.59%,*,N,,,
+wi,355754,Tomahawk School District,220,Tomahawk Middle School,23.86%,*,N,,,
+wi,490126,Tomorrow River School District,20,Amherst El,22.74%,*,N,,,
+wi,490126,Tomorrow River School District,60,Amherst Hi,17.18%,*,N,,,
+wi,490126,Tomorrow River School District,80,Amherst Mid,18.71%,*,N,,,
+wi,408718,TransCenter for Youth/El Puente,1631,TransCenter for Youth/El Puent,83.87%,,Y,83.87%,93,78
+wi,408131,TransCenter for Youth/Escuela Verde,400,Escuela Verde,59.65%,,Y,59.65%,114,68
+wi,305780,Trevor-Wilmot Consolidated Grade School,20,Trevor - Wilmot School,23.46%,*,N,,,
+wi,694375,Tri-County Area School District,100,Tri-County Elementary,50.55%,*,N,,273,138
+wi,694375,Tri-County Area School District,60,Tri-County High School,32.32%,*,N,,164,53
+wi,694375,Tri-County Area School District,80,Tri-County Middle School,40.12%,*,N,,167,67
+wi,558877,Trinity Lutheran (Academy) Church,8550,Trinity Lutheran Sch,6.55%,*,N,,,
+wi,357955,Trinity Lutheran School,8440,Trinity Lutheran Grade Sch,19.47%,*,N,,,
+wi,377957,Trinity Lutheran School,8480,Trinity Lutheran Grade Sch,12.20%,*,N,,,
+wi,377959,Trinity Lutheran School,8480,Trinity Lutheran School,15.52%,*,N,,,
+wi,457961,Trinity Lutheran School,8430,Trinity Lutheran Grade Sch,27.27%,*,N,,,
+wi,517963,Trinity Lutheran School,8540,Trinity Lutheran School,28.37%,*,N,,,
+wi,597956,Trinity Lutheran School,477,Trinity Luth Early Childhood,11.11%,*,N,,,
+wi,597956,Trinity Lutheran School,8460,Trinity Lutheran Grade Sch,15.60%,*,N,,,
+wi,707958,Trinity Lutheran School,8530,Trinity Lutheran Sch,37.78%,*,N,,45,17
+wi,707965,Trinity Lutheran School,8450,Trinity Lutheran Grade Sch,9.47%,*,N,,,
+wi,707967,Trinity Lutheran School,8420,Trinity Lutheran Grade Sch,18.18%,*,N,,,
+wi,287950,Trinity St Lukes Luth Sch,1231,Trinity-St Lukes Luth Gr Sch,16.87%,*,N,,,
+wi,287950,Trinity St Lukes Luth Sch,8549,Trinity-St Lukes Luth Gr Sch,16.87%,*,N,,,
+wi,35810,Turtle Lake School District,810,Laker Online,80.00%,*,N,,5,4
+wi,35810,Turtle Lake School District,9410,North Star Academy,33.33%,*,N,,6,2
+wi,35810,Turtle Lake School District,20,Turtle Lake El,44.58%,*,N,,249,111
+wi,35810,Turtle Lake School District,40,Turtle Lake Hi,27.43%,*,N,,,
+wi,35810,Turtle Lake School District,30,Turtle Lake MS,37.35%,*,N,,83,31
+wi,305817,Twin Lakes #4 School District,20,Lakewood School,42.34%,,Y,42.34%,333,141
+wi,365824,Two Rivers School District,50,Clarke Mid,35.47%,*,N,,530,188
+wi,365824,Two Rivers School District,40,Koenig El,48.88%,*,N,,268,131
+wi,365824,Two Rivers School District,110,Magee El,34.59%,*,N,,425,147
+wi,365824,Two Rivers School District,80,Two Rivers Hi,26.38%,*,N,,,
+wi,515859,Union Grove Joint #1 School District,20,Union Grove Elementary,23.08%,*,N,,,
+wi,480238,Unity School District,60,Unity El,47.22%,*,N,,396,187
+wi,480238,Unity School District,100,Unity Hi,31.50%,*,N,,254,80
+wi,480238,Unity School District,120,Unity Mid,42.81%,*,N,,278,119
+wi,365866,Valders Area School District,40,Valders El,16.94%,*,N,,,
+wi,365866,Valders Area School District,60,Valders Hi,11.68%,*,N,,,
+wi,365866,Valders Area School District,80,Valders Mid,16.31%,*,N,,,
+wi,135901,Verona Area School District,120,Badger Ridge Mid,27.77%,*,N,,,
+wi,135901,Verona Area School District,70,Core Knowledge Charter Sch,12.36%,*,N,,,
+wi,135901,Verona Area School District,90,Country View Elementary,29.44%,*,N,,,
+wi,135901,Verona Area School District,410,Exploration Academy,27.45%,*,N,,,
+wi,135901,Verona Area School District,130,Glacier Edge,16.69%,*,N,,,
+wi,135901,Verona Area School District,140,New Century Sch,6.45%,*,N,,,
+wi,135901,Verona Area School District,50,Savanna Oaks Mid,19.80%,*,N,,,
+wi,135901,Verona Area School District,60,Stoner Prairie El,30.10%,*,N,,392,118
+wi,135901,Verona Area School District,80,Sugar Creek Elementary,30.41%,*,N,,536,163
+wi,135901,Verona Area School District,100,Verona Area High,18.66%,*,N,,,
+wi,135901,Verona Area School District,150,Verona Area International,6.73%,*,N,,,
+wi,407253,Victory Christian Academy,1796,Victory Christian Academy East,0.00%,,Y,64.06%,34,0
+wi,407253,Victory Christian Academy,1253,Victory Christian Academy,68.69%,,Y,64.06%,222,152
+wi,625985,Viroqua Area School District,410,Laurel High School,41.86%,*,N,,43,18
+wi,625985,Viroqua Area School District,9407,Vernon County Better Futures,45.46%,*,N,,11,5
+wi,625985,Viroqua Area School District,140,Viroqua Elem Montessori School,24.32%,*,N,,,
+wi,625985,Viroqua Area School District,180,Viroqua Elementary School,31.57%,*,N,,396,125
+wi,625985,Viroqua Area School District,220,Viroqua High School,26.86%,*,N,,,
+wi,625985,Viroqua Area School District,230,Viroqua Middle School,30.00%,*,N,,300,90
+wi,215992,Wabeno School District,60,Wabeno Elementary School,44.19%,,Y,46.75%,215,95
+wi,215992,Wabeno School District,80,Wabeno Hi,41.42%,,Y,46.75%,170,70
+wi,646964,Walworth County - Lakeland School,1,Walworth County Lakeland Schoo,26.16%,*,N,,,
+wi,646022,Walworth Joint School District #1,20,Walworth Elementary and Middle School,34.93%,*,N,,458,160
+wi,46027,Washburn School District,10,Washburn El,31.39%,*,N,,309,97
+wi,46027,Washburn School District,40,Washburn Hi,25.14%,*,N,,,
+wi,46027,Washburn School District,20,Washburn Middle School,33.68%,*,N,,95,32
+wi,516104,Washington-Caldwell School,20,Washington Elementary,16.67%,*,N,,,
+wi,516113,Waterford Graded Jt. #1 School District,15,Evergreen Elementary School,11.14%,*,N,,,
+wi,516113,Waterford Graded Jt. #1 School District,10,Fox River Middle School,12.72%,*,N,,,
+wi,516113,Waterford Graded Jt. #1 School District,100,Trailside Elementary School,20.37%,*,N,,,
+wi,516113,Waterford Graded Jt. #1 School District,110,Woodfield Elementary School,17.11%,*,N,,,
+wi,286118,Waterloo School District,20,Waterloo El,29.29%,*,N,,,
+wi,286118,Waterloo School District,40,Waterloo Hi,18.29%,*,N,,,
+wi,286118,Waterloo School District,100,WATERLOO INTERMEDIATE SCHOOL,27.10%,*,N,,,
+wi,286118,Waterloo School District,300,Waterloo Middle School,25.37%,*,N,,,
+wi,286125,Watertown Unified School District,40,Douglas El,36.50%,*,N,,400,146
+wi,286125,Watertown Unified School District,430,Endeavour Charter School,25.46%,*,N,,,
+wi,286125,Watertown Unified School District,60,Lebanon El,20.00%,*,N,,,
+wi,286125,Watertown Unified School District,80,Lincoln El,47.40%,*,N,,154,73
+wi,286125,Watertown Unified School District,90,Riverside Middle School,34.17%,*,N,,761,260
+wi,286125,Watertown Unified School District,100,Schurz El,54.01%,*,N,,324,175
+wi,286125,Watertown Unified School District,110,Watertown 4 Kids,47.06%,*,N,,170,80
+wi,286125,Watertown Unified School District,140,Watertown High School,22.20%,*,N,,,
+wi,286125,Watertown Unified School District,160,Webster El,34.05%,*,N,,464,158
+wi,676174,Waukesha School District,20,Banting Elementary,36.01%,*,N,,486,175
+wi,676174,Waukesha School District,60,Bethesda Elementary School,25.35%,*,N,,,
+wi,676174,Waukesha School District,80,Blair Elementary School,43.04%,*,N,,309,133
+wi,676174,Waukesha School District,100,Butler Middle School,30.65%,*,N,,894,274
+wi,676174,Waukesha School District,470,eAchieve Academy,19.07%,*,N,,,
+wi,676174,Waukesha School District,150,eAchieve Elementary School,45.21%,*,N,,73,33
+wi,676174,Waukesha School District,160,Hadfield Elementary School,53.99%,*,N,,313,169
+wi,676174,Waukesha School District,180,Hawthorne Elementary School,46.05%,*,N,,215,99
+wi,676174,Waukesha School District,190,Heyer Elementary School,45.32%,*,N,,406,184
+wi,676174,Waukesha School District,200,Hillcrest Elementary School,15.06%,*,N,,,
+wi,676174,Waukesha School District,210,Horning Middle School,33.43%,*,N,,688,230
+wi,676174,Waukesha School District,120,Les Paul Middle School,24.36%,*,N,,,
+wi,676174,Waukesha School District,260,Lowell Elementary School,37.13%,*,N,,272,101
+wi,676174,Waukesha School District,280,Meadowbrook Elementary School,14.38%,*,N,,,
+wi,676174,Waukesha School District,290,North High School,23.31%,*,N,,,
+wi,676174,Waukesha School District,360,Prairie Elementary School,26.28%,*,N,,,
+wi,676174,Waukesha School District,800,Riverview School,62.50%,*,N,,8,5
+wi,676174,Waukesha School District,410,Rose Glen Elementary School,6.46%,*,N,,,
+wi,676174,Waukesha School District,460,South High School,29.40%,*,N,,,
+wi,676174,Waukesha School District,480,Summit View Elementary School,19.02%,*,N,,,
+wi,676174,Waukesha School District,450,Waukesha Academy of Health Professionals,18.72%,*,N,,,
+wi,676174,Waukesha School District,490,Waukesha East Alternative HS,46.91%,*,N,,81,38
+wi,676174,Waukesha School District,430,Waukesha Engineering Preparatory Academy,12.44%,*,N,,,
+wi,676174,Waukesha School District,400,Waukesha STEM Academy,10.20%,*,N,,,
+wi,676174,Waukesha School District,415,Waukesha Transition Academy,5.41%,*,N,,,
+wi,676174,Waukesha School District,560,West High School,12.56%,*,N,,,
+wi,676174,Waukesha School District,110,White Rock Campus,29.78%,*,N,,,
+wi,676174,Waukesha School District,540,Whittier Elementary School,68.49%,*,N,,238,163
+wi,686195,Waupaca School District,60,Chain O Lakes El,18.10%,*,N,,,
+wi,686195,Waupaca School District,170,W4K,32.30%,*,N,,161,52
+wi,686195,Waupaca School District,9408,Waupaca Charter,20.00%,*,N,,,
+wi,686195,Waupaca School District,140,Waupaca Hi,23.70%,*,N,,,
+wi,686195,Waupaca School District,70,Waupaca Learning Center El,37.68%,*,N,,629,237
+wi,686195,Waupaca School District,150,Waupaca Mid,33.91%,*,N,,640,217
+wi,206216,Waupun Area School District,160,Meadow View Primary School,34.76%,*,N,,374,130
+wi,206216,Waupun Area School District,110,Rock River Intermediate School,30.38%,*,N,,655,199
+wi,206216,Waupun Area School District,150,SAGES Elementary School,41.55%,*,N,,142,59
+wi,206216,Waupun Area School District,200,Waupun Area High School,20.92%,*,N,,,
+wi,206216,Waupun Area School District,300,Waupun Area Jr High School,25.80%,*,N,,,
+wi,376223,Wausau School District,360,East High School,27.35%,*,N,,,
+wi,376223,Wausau School District,400,EEA Learning Academy,61.90%,,Y,57.58%,63,39
+wi,376223,Wausau School District,410,EGL Academy,0.00%,*,N,,,
+wi,376223,Wausau School District,60,Franklin Elementary School,53.68%,,Y,52.33%,285,153
+wi,376223,Wausau School District,80,G D Jones Elementary,57.82%,,Y,57.58%,377,218
+wi,376223,Wausau School District,100,Grant Elementary School,50.79%,,Y,52.33%,252,128
+wi,376223,Wausau School District,110,Hawthorn Hills Elementary School,56.07%,,Y,57.58%,239,134
+wi,376223,Wausau School District,120,Hewitt-Texas Elementary School`,16.92%,*,N,,,
+wi,376223,Wausau School District,205,Horace Mann Middle School,37.06%,*,N,,761,282
+wi,376223,Wausau School District,180,John Marshall El,37.98%,*,N,,258,98
+wi,376223,Wausau School District,200,John Muir Middle School,31.31%,*,N,,1019,319
+wi,376223,Wausau School District,220,Lincoln Elementary School,68.75%,,Y,63.21%,224,154
+wi,376223,Wausau School District,260,Maine Elementary School,24.27%,*,N,,,
+wi,376223,Wausau School District,280,Rib Mountain Elementary School,19.57%,*,N,,,
+wi,376223,Wausau School District,300,Riverview Elementary,31.15%,*,N,,520,162
+wi,376223,Wausau School District,130,South Mountain Elementary School,14.05%,*,N,,,
+wi,376223,Wausau School District,320,Stettin Elementary School,19.19%,*,N,,,
+wi,376223,Wausau School District,340,Thomas Jefferson El,59.38%,,Y,63.21%,325,193
+wi,376223,Wausau School District,150,Wausau Area Montessori Charter,27.43%,*,N,,,
+wi,376223,Wausau School District,380,West High School,28.71%,*,N,,,
+wi,386230,Wausaukee School District,80,Wausaukee Elementary,58.92%,*,N,,297,175
+wi,386230,Wausaukee School District,100,Wausaukee High School,46.63%,*,N,,178,83
+wi,386230,Wausaukee School District,120,Wausaukee Jr High,47.69%,*,N,,65,31
+wi,696237,Wautoma Area School District,30,Parkside Middle School,42.03%,*,N,,464,195
+wi,696237,Wautoma Area School District,60,Redgranite El,45.36%,*,N,,97,44
+wi,696237,Wautoma Area School District,80,Riverview El,50.38%,*,N,,391,197
+wi,696237,Wautoma Area School District,140,Wautoma High School,36.48%,*,N,,403,147
+wi,406244,Wauwatosa School District,20,East Hi,15.20%,*,N,,,
+wi,406244,Wauwatosa School District,40,Eisenhower El,28.46%,*,N,,,
+wi,406244,Wauwatosa School District,100,Jefferson El,17.24%,*,N,,,
+wi,406244,Wauwatosa School District,120,Lincoln El,8.07%,*,N,,,
+wi,406244,Wauwatosa School District,140,Longfellow Mid,18.26%,*,N,,,
+wi,406244,Wauwatosa School District,160,Madison El,27.04%,*,N,,,
+wi,406244,Wauwatosa School District,180,McKinley El,11.51%,*,N,,,
+wi,406244,Wauwatosa School District,200,Roosevelt El,19.22%,*,N,,,
+wi,406244,Wauwatosa School District,150,Tosa STEM School,5.15%,*,N,,,
+wi,406244,Wauwatosa School District,220,Underwood El,33.92%,*,N,,395,134
+wi,406244,Wauwatosa School District,240,Washington El,19.46%,*,N,,,
+wi,406244,Wauwatosa School District,110,Wauwatosa Montessori School,8.20%,*,N,,,
+wi,406244,Wauwatosa School District,280,West Hi,20.81%,*,N,,,
+wi,406244,Wauwatosa School District,290,Whitman Mid,20.14%,*,N,,,
+wi,406244,Wauwatosa School District,300,Wilson El,14.56%,*,N,,,
+wi,126251,Wauzeka Steuben School District,20,Wauzeka El,33.33%,*,N,,126,42
+wi,126251,Wauzeka Steuben School District,40,Wauzeka Hi,22.92%,*,N,,,
+wi,126251,Wauzeka Steuben School District,250,Wauzeka Mid,26.42%,*,N,,,
+wi,76293,Webster School District,60,Webster Elementary,50.56%,*,N,,269,136
+wi,76293,Webster School District,80,Webster High,39.36%,*,N,,188,74
+wi,76293,Webster School District,100,Webster Middle School,50.92%,*,N,,218,111
+wi,406300,West Allis School District,20,Central High,49.91%,,Y,55.05%,1086,542
+wi,406300,West Allis School District,40,Frank Lloyd Wright Int,44.00%,*,N,,909,400
+wi,406300,West Allis School District,60,Franklin El,48.60%,,Y,55.05%,358,174
+wi,406300,West Allis School District,100,Hoover El,35.95%,*,N,,420,151
+wi,406300,West Allis School District,440,Horace Mann El,70.67%,,Y,55.05%,491,347
+wi,406300,West Allis School District,140,Irving El,38.96%,*,N,,462,180
+wi,406300,West Allis School District,490,James E Dottke Alt School,66.83%,,Y,55.05%,202,135
+wi,406300,West Allis School District,160,Jefferson El,54.53%,,Y,55.05%,530,289
+wi,406300,West Allis School District,220,Lane Intermediate,36.91%,*,N,,512,189
+wi,406300,West Allis School District,280,Longfellow El,56.60%,,Y,55.05%,265,150
+wi,406300,West Allis School District,300,Madison El,42.41%,,Y,55.05%,224,95
+wi,406300,West Allis School District,80,Mitchell El,28.53%,*,N,,,
+wi,406300,West Allis School District,340,Nathan Hale HS,33.41%,*,N,,1308,437
+wi,406300,West Allis School District,380,Pershing El,65.46%,,Y,55.05%,249,163
+wi,406300,West Allis School District,410,Shared Journeys,42.86%,*,N,,7,3
+wi,406300,West Allis School District,420,Walker El,34.32%,*,N,,303,104
+wi,406300,West Allis School District,120,West Milwaukee Int,62.25%,,Y,55.05%,355,221
+wi,406300,West Allis School District,480,Wilson El,44.74%,,Y,55.05%,447,200
+wi,666307,West Bend School District,10,Badger Middle School,22.97%,*,N,,,
+wi,666307,West Bend School District,40,Decorah El,20.57%,*,N,,,
+wi,666307,West Bend School District,50,East High,17.32%,*,N,,,
+wi,666307,West Bend School District,60,Fair Park El,28.61%,*,N,,,
+wi,666307,West Bend School District,70,Green Tree El,31.83%,*,N,,377,120
+wi,666307,West Bend School District,80,Jackson El,20.16%,*,N,,,
+wi,666307,West Bend School District,100,McLane El,20.04%,*,N,,,
+wi,666307,West Bend School District,430,Pathways Charter School,14.55%,*,N,,,
+wi,666307,West Bend School District,160,Silverbrook Intermediate  5/6,24.09%,*,N,,,
+wi,666307,West Bend School District,200,West Hi,16.34%,*,N,,,
+wi,56328,West DePere School District,150,Hemlock Creek Elementary,11.16%,*,N,,,
+wi,56328,West DePere School District,400,Phantom Knight School of Opportunity,28.57%,*,N,,,
+wi,56328,West DePere School District,120,West De Pere Hi,12.79%,*,N,,,
+wi,56328,West DePere School District,110,West De Pere Mid,21.55%,*,N,,,
+wi,56328,West DePere School District,140,Westwood El,27.44%,*,N,,,
+wi,326370,West Salem School District,60,West Salem El,18.88%,*,N,,,
+wi,326370,West Salem School District,80,West Salem Hi,11.67%,*,N,,,
+wi,326370,West Salem School District,100,West Salem Mid,14.56%,*,N,,,
+wi,626321,Westby Area School District,9407,Better Futures,16.67%,*,N,,,
+wi,626321,Westby Area School District,100,Coon Valley Elementary School,17.39%,*,N,,,
+wi,626321,Westby Area School District,200,Westby Area High School,17.18%,*,N,,,
+wi,626321,Westby Area School District,180,Westby Elementary School,30.49%,*,N,,328,100
+wi,626321,Westby Area School District,160,Westby Middle School,26.01%,*,N,,,
+wi,396335,Westfield School District,20,Coloma El,31.73%,*,N,,104,33
+wi,396335,Westfield School District,60,Oxford Elementary,41.78%,*,N,,146,61
+wi,396335,Westfield School District,100,Pioneer Westfield Hi,34.96%,*,N,,266,93
+wi,396335,Westfield School District,200,Pioneer Westfield Middle,36.36%,*,N,,154,56
+wi,396335,Westfield School District,80,Westfield El,40.23%,*,N,,353,142
+wi,566354,Weston School District,160,Weston Elementary,35.00%,*,N,,140,49
+wi,566354,Weston School District,100,Weston High School,28.26%,*,N,,,
+wi,566354,Weston School District,120,Weston Middle School,33.87%,*,N,,62,21
+wi,686384,Weyauwega-Fremont School District,40,Fremont El,11.69%,*,N,,,
+wi,686384,Weyauwega-Fremont School District,80,Weyauwega El,26.63%,*,N,,,
+wi,686384,Weyauwega-Fremont School District,100,Weyauwega Hi,18.48%,*,N,,,
+wi,686384,Weyauwega-Fremont School District,120,Weyauwega Mid,26.20%,*,N,,,
+wi,306412,Wheatland Jt. #1 School District,20,Wheatland Center School,28.94%,*,N,,,
+wi,346440,White Lake School District,9100,White Lake Rural Virutal Academy,0.00%,,Y,58.55%,3,0
+wi,346440,White Lake School District,250,White Lake Middle School,0.00%,,Y,58.55%,8,0
+wi,346440,White Lake School District,20,White Lake Elementary School,69.51%,,Y,58.55%,88,61
+wi,346440,White Lake School District,40,White Lake High School,44.94%,,Y,58.55%,48,22
+wi,616426,Whitehall School District,80,Whitehall Elementary,33.26%,*,N,,436,145
+wi,616426,Whitehall School District,120,Whitehall Memorial Jr/Sr High,29.91%,*,N,,,
+wi,646461,Whitewater Unified School District,40,Lakeview El,28.31%,*,N,,,
+wi,646461,Whitewater Unified School District,80,Lincoln Elementary School,43.62%,*,N,,337,147
+wi,646461,Whitewater Unified School District,120,Washington El,43.09%,*,N,,304,131
+wi,646461,Whitewater Unified School District,140,Whitewater Hi,23.13%,*,N,,,
+wi,646461,Whitewater Unified School District,20,Whitewater Mid,31.96%,*,N,,413,132
+wi,406470,Whitnall School District,80,Edgerton El,16.74%,*,N,,,
+wi,406470,Whitnall School District,40,Hales Corners El,18.40%,*,N,,,
+wi,406470,Whitnall School District,100,Whitnall High School,15.69%,*,N,,,
+wi,406470,Whitnall School District,120,Whitnall Mid,19.83%,*,N,,,
+wi,756775,WI Sch for Blind and Visually Impaired,7302,WI Sch f/t Blind&Vis Impaired,18.42%,*,N,,,
+wi,696475,Wild Rose School District,40,Wild Rose El,44.07%,*,N,,270,119
+wi,696475,Wild Rose School District,60,Wild Rose Middle/High School,25.16%,*,N,,,
+wi,646482,Williams Bay School District,20,Williams Bay El,23.94%,*,N,,,
+wi,646482,Williams Bay School District,40,Williams Bay Hi,24.15%,*,N,,,
+wi,646482,Williams Bay School District,30,Williams Bay Middle,31.36%,*,N,,169,53
+wi,706608,Winneconne Community School District,1204,Winchester,44.44%,*,N,,18,8
+wi,706608,Winneconne Community School District,40,Winneconne El,14.85%,*,N,,,
+wi,706608,Winneconne Community School District,60,Winneconne Hi,10.71%,*,N,,,
+wi,706608,Winneconne Community School District,80,Winneconne Mid,11.55%,*,N,,,
+wi,576615,Winter School District,60,Winter Elementary School,62.50%,*,N,,128,80
+wi,576615,Winter School District,80,Winter High School,40.74%,*,N,,81,33
+wi,576615,Winter School District,100,Winter Middle School,45.00%,*,N,,60,27
+wi,756770,Wis School for the Deaf,7301,Wisconsin School for the Deaf,35.85%,*,N,,106,38
+wi,566678,Wisconsin Dells School District,60,Lake Delton El,44.34%,*,N,,203,90
+wi,566678,Wisconsin Dells School District,50,Neenah Creek El,45.35%,*,N,,86,39
+wi,566678,Wisconsin Dells School District,120,Spring Hill El,46.91%,*,N,,567,266
+wi,566678,Wisconsin Dells School District,200,Spring Hill Mid,36.55%,*,N,,435,159
+wi,566678,Wisconsin Dells School District,100,Wisconsin Dells Hi,30.93%,*,N,,472,146
+wi,130469,Wisconsin Heights School District,20,Black Earth Elementary,23.21%,*,N,,,
+wi,130469,Wisconsin Heights School District,40,Mazomanie Elementary,19.64%,*,N,,,
+wi,130469,Wisconsin Heights School District,60,Wisconsin Heights High School,10.57%,*,N,,,
+wi,130469,Wisconsin Heights School District,80,Wisconsin Heights Middle Schoo,18.49%,*,N,,,
+wi,407987,Wisconsin Lutheran High School,8720,Wisconsin Lutheran High School,24.97%,*,N,,,
+wi,517064,Wisconsin Lutheran School,928,WI Lu Early Child Campus,27.59%,*,N,,,
+wi,517064,Wisconsin Lutheran School,927,WI Lu Middle School,18.03%,*,N,,,
+wi,517064,Wisconsin Lutheran School,8722,Wisconsin Lutheran Elem School,22.92%,*,N,,,
+wi,716685,Wisconsin Rapids School District,190,Central Oaks Academy,29.00%,*,N,,,
+wi,716685,Wisconsin Rapids School District,60,Grant El,23.43%,*,N,,,
+wi,716685,Wisconsin Rapids School District,80,Grove El,59.18%,,Y,62.58%,245,145
+wi,716685,Wisconsin Rapids School District,120,Howe El,56.52%,,Y,62.58%,322,182
+wi,716685,Wisconsin Rapids School District,160,Lincoln Hi,27.46%,*,N,,,
+wi,716685,Wisconsin Rapids School District,170,Mead Elementary Charter School,67.80%,,Y,62.58%,404,274
+wi,716685,Wisconsin Rapids School District,430,River Cities High Sch,70.16%,,Y,62.58%,131,92
+wi,716685,Wisconsin Rapids School District,220,Think Academy,23.00%,*,N,,,
+wi,716685,Wisconsin Rapids School District,280,Washington El,37.97%,*,N,,345,131
+wi,716685,Wisconsin Rapids School District,290,Wisconsin Rapids Middle School,37.89%,*,N,,1040,394
+wi,716685,Wisconsin Rapids School District,300,Woodside El,30.30%,*,N,,406,123
+wi,716685,Wisconsin Rapids School District,140,WRPS Four Year Old KG & PK,56.10%,*,N,,164,92
+wi,586692,Wittenberg-Birnamwood School District,20,Birnamwood El,35.33%,*,N,,385,136
+wi,586692,Wittenberg-Birnamwood School District,120,Wittenberg El,36.84%,*,N,,437,161
+wi,586692,Wittenberg-Birnamwood School District,140,Wittenberg-Birnamwood Hi,22.91%,*,N,,,
+wi,296713,Wonewoc Center School District,7155,St. Paul's Lutheran School,13.43%,*,N,,,
+wi,296713,Wonewoc Center School District,60,Wonewoc El,36.60%,*,N,,153,56
+wi,296713,Wonewoc Center School District,80,Wonewoc Hi,35.14%,*,N,,111,39
+wi,296713,Wonewoc Center School District,100,Wonewoc Jr,34.18%,*,N,,79,27
+wi,408113,Woodlands School,8728,Woodlands School,14.23%,*,N,,,
+wi,408132,Woodlands Sch-State St Campus,100,Woodlands East School,43.69%,*,N,,309,135
+wi,636720,Woodruff Joint #1 School District,20,Arbor Vitae-Woodruff El,34.42%,*,N,,552,190
+wi,402649,Word of Life Lutheran School,320,Word of Life Lutheran School,61.36%,,Y,56.32%,87,53
+wi,56734,Wrightstown Community School District,20,Wrightstown El,15.62%,*,N,,,
+wi,56734,Wrightstown Community School District,40,Wrightstown Hi,8.41%,*,N,,,
+wi,56734,Wrightstown Community School District,30,Wrightstown Mid,17.08%,*,N,,,
+wi,677995,Zion Evangelical Lutheran Congregation,8800,Zion Lutheran School,18.45%,*,N,,,

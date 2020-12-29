@@ -1,0 +1,323 @@
+state,District Code,District Name,School Code,School Name,individual_isp,proxy_isp,participating_in_cep,claiming_isp,total_enrolled,total_eligible
+me,1069,Arthur R. Gould Sch--LCYDC,1070,Arthur R. Gould Sch--LCYDC,50.00%,*,N,,16,8
+me,1629,Athens Public Schools,906,Athens Community School,35.43%,*,N,,127,45
+me,14,Auburn Public Schools,25,Auburn Middle School,31.38%,*,N,,545,171
+me,14,Auburn Public Schools,15,East Auburn Community School,27.27%,*,N,,,
+me,14,Auburn Public Schools,23,Edward Little High School,28.10%,*,N,,,
+me,14,Auburn Public Schools,16,Fairview School,20.64%,*,N,,,
+me,14,Auburn Public Schools,27,Park Avenue Elementary School,42.93%,,Y,,396,170
+me,14,Auburn Public Schools,24,Sherwood Heights Elementary Sch,40.59%,,Y,,404,164
+me,14,Auburn Public Schools,21,Walton School,54.51%,,Y,,244,133
+me,14,Auburn Public Schools,19,Washburn School,59.26%,,Y,,243,144
+me,28,Augusta Public Schools,37,Cony,28.05%,*,N,,,
+me,28,Augusta Public Schools,2021,Cony Middle School,37.54%,*,N,,301,113
+me,28,Augusta Public Schools,34,Farrington School,47.23%,*,N,,307,145
+me,28,Augusta Public Schools,31,Lillian Parks Hussey School,28.11%,*,N,,,
+me,28,Augusta Public Schools,35,Lincoln School,47.29%,*,N,,299,141
+me,28,Augusta Public Schools,33,Sylvio J Gilbert School,48.19%,*,N,,359,173
+me,38,Baileyville Public Schools,40,Woodland Elementary School,37.24%,*,N,,145,54
+me,38,Baileyville Public Schools,39,Woodland Jr-Sr High School,31.61%,*,N,,174,55
+me,42,Bangor Public Schools,45,Abraham Lincoln School,32.57%,*,N,,218,71
+me,42,Bangor Public Schools,52,Bangor High School,25.75%,*,N,,,
+me,42,Bangor Public Schools,48,Downeast School,77.35%,,Y,,287,222
+me,42,Bangor Public Schools,43,Fairmount School,52.87%,,Y,,261,138
+me,42,Bangor Public Schools,49,Fourteenth Street School,25.36%,*,N,,,
+me,42,Bangor Public Schools,44,Fruit Street School,18.89%,*,N,,,
+me,42,Bangor Public Schools,50,James F. Doughty School,45.19%,*,N,,385,174
+me,42,Bangor Public Schools,46,Mary Snow School,19.91%,*,N,,,
+me,42,Bangor Public Schools,47,Vine Street School,43.06%,,Y,,209,90
+me,42,Bangor Public Schools,51,William S. Cohen School,20.79%,*,N,,,
+me,62,Beals Public Schools,63,Beals Elementary School,33.33%,*,N,,66,22
+me,65,Biddeford Public Schools,66,Biddeford High School,30.49%,*,N,,751,229
+me,65,Biddeford Public Schools,71,Biddeford Intermediate School,39.43%,*,N,,317,125
+me,65,Biddeford Public Schools,68,Biddeford Middle School,31.12%,*,N,,543,169
+me,65,Biddeford Public Schools,69,Biddeford Primary School,38.04%,*,N,,531,202
+me,65,Biddeford Public Schools,67,John F Kennedy Memorial School,39.78%,*,N,,269,107
+me,108,Calais Public Schools,109,Calais Elementary School,40.08%,*,N,,357,143
+me,108,Calais Public Schools,111,Calais Middle/High School,34.45%,*,N,,299,103
+me,127,Caswell Public Schools,128,Dawn F Barnes Elementary Sch,48.72%,,Y,,39,19
+me,130,Charlotte Public Schools,131,Charlotte Elementary School,34.38%,*,N,,32,11
+me,1628,Cherryfield Public Schools,755,Cherryfield Elementary,39.29%,*,N,,112,44
+me,1510,Cornville Regional Charter School,1828,Cornville Downtown Campus,27.16%,*,N,,,
+me,1510,Cornville Regional Charter School,1829,Cornville Early Childhood Campus,38.46%,*,N,,39,15
+me,1510,Cornville Regional Charter School,1511,Cornville Regional Charter School,32.76%,*,N,,116,38
+me,157,East Millinocket Public Schools,158,Opal Myrick Elementary School,35.20%,*,N,,125,44
+me,157,East Millinocket Public Schools,159,Schenck High School,29.73%,*,N,,,
+me,1047,East Range CSD,1048,East Range II CSD School,33.33%,*,N,,30,10
+me,163,Eastport Public Schools,164,Eastport Elementary School,47.13%,*,N,,87,41
+me,163,Eastport Public Schools,165,Shead High School,35.71%,*,N,,84,30
+me,1002,Education in Unorganized Terr,1003,Connor Consolidated School,25.00%,*,N,,32,8
+me,1002,Education in Unorganized Terr,1004,Edmunds Consolidated School,37.50%,*,N,,64,24
+me,1002,Education in Unorganized Terr,1005,Kingman Elementary School,52.17%,*,N,,23,12
+me,208,Greenbush Public Schools,209,Helen S Dunn Elementary School,44.44%,*,N,,144,64
+me,217,Harmony Public Schools,218,Harmony Elementary,38.33%,,Y,,60,23
+me,1011,Indian Township,1012,Indian Township School,51.80%,,Y,,139,72
+me,237,Jonesboro Public Schools,238,Jonesboro Elementary School,35.00%,*,N,,60,21
+me,239,Jonesport Public Schools,240,Jonesport Elementary School,34.23%,*,N,,111,38
+me,,Kingman Elementary School-EUT,,Kingman Elementary School,,,Y,,,
+me,250,Lewiston Public Schools,251,Farwell Elementary School,45.27%,,Y,,444,201
+me,250,Lewiston Public Schools,255,Lewiston High School,44.10%,,Y,,1474,650
+me,250,Lewiston Public Schools,257,Lewiston Middle School,52.91%,,Y,,807,427
+me,250,Lewiston Public Schools,254,Montello School,65.41%,,Y,,717,469
+me,250,Lewiston Public Schools,260,Raymond A. Geiger Elementary School,45.36%,,Y,,679,308
+me,250,Lewiston Public Schools,,Robert V  Connors Elementary School,,,Y,,,
+me,250,Lewiston Public Schools,256,Thomas J McMahon Elementary Sch,51.54%,,Y,,716,369
+me,,Limestone Public Schools,,Limestone Community School,,,Y,,,
+me,277,Machias Public Schools,279,Machias Memorial High School,31.40%,*,N,,121,38
+me,277,Machias Public Schools,278,Rose M Gaffney School,39.70%,*,N,,335,133
+me,1412,Machiasport Public Schools,1000,Fort O'Brien School,50.00%,*,N,,46,23
+me,282,Madawaska Public Schools,284,Madawaska Elementary School,37.96%,*,N,,216,82
+me,282,Madawaska Public Schools,283,Madawaska Middle/High School,25.35%,*,N,,,
+me,1501,Maine Academy of Natural Sciences,1502,Maine Academy of Natural Sciences,36.99%,*,N,,173,64
+me,294,Medway Public Schools,295,Medway Middle School,39.13%,*,N,,115,45
+me,296,Milford Public Schools,297,Dr Lewis S Libby School,33.33%,*,N,,309,103
+me,298,Millinocket Public Schools,299,Granite Street School,43.56%,*,N,,225,98
+me,298,Millinocket Public Schools,301,Stearns Jr-Sr High School,33.09%,*,N,,269,89
+me,798,MSAD 46,799,Dexter Regional High School,36.66%,*,N,,311,114
+me,798,MSAD 46,805,Ridge View Community School,46.04%,*,N,,619,285
+me,994,MSAD 76,995,Swans Island Elementary School,14.30%,*,N,,,
+me,,Opportunity Training Center,,Opportunity Training Center,,,Y,,,
+me,349,Pembroke Public Schools,350,Pembroke Elementary School,38.67%,*,N,,75,29
+me,353,Perry Public Schools,354,Perry Elementary School,31.37%,*,N,,102,32
+me,1013,Pleasant Point,1014,Beatrice Rafferty School,54.61%,,Y,,141,77
+me,364,Portland Public Schools,369,Amanda C Rowe School,25.87%,*,N,,,
+me,364,Portland Public Schools,384,Casco Bay High School,24.16%,*,N,,,
+me,364,Portland Public Schools,379,Deering High School,34.10%,*,N,,918,313
+me,364,Portland Public Schools,385,East End Community School,47.80%,,Y,,410,196
+me,364,Portland Public Schools,373,Harrison Lyseth Elem School,24.08%,*,N,,,
+me,364,Portland Public Schools,380,Howard C Reiche Community Sch,39.07%,,Y,,453,177
+me,364,Portland Public Schools,375,King Middle School,29.40%,*,N,,,
+me,364,Portland Public Schools,376,Lincoln Middle School,28.33%,*,N,,,
+me,364,Portland Public Schools,370,Longfellow School-Portland,9.51%,*,N,,,
+me,364,Portland Public Schools,377,Lyman Moore Middle School,33.11%,*,N,,456,151
+me,364,Portland Public Schools,386,Ocean Avenue,21.18%,*,N,,,
+me,364,Portland Public Schools,371,Peaks Island School,2.56%,*,N,,,
+me,364,Portland Public Schools,378,Portland High School,21.63%,*,N,,,
+me,364,Portland Public Schools,372,Presumpscot School,48.02%,,Y,,252,121
+me,364,Portland Public Schools,381,Riverton School,51.41%,,Y,,426,219
+me,1438,RSU 01 - LKRSU,59,Bath Middle School,24.79%,*,N,,,
+me,1438,RSU 01 - LKRSU,58,Dike-Newell School,32.13%,*,N,,277,89
+me,1438,RSU 01 - LKRSU,57,Fisher-Mitchell School,31.86%,*,N,,204,65
+me,1438,RSU 01 - LKRSU,60,Morse High School,17.30%,*,N,,,
+me,1438,RSU 01 - LKRSU,358,Phippsburg Elementary School,30.69%,*,N,,101,31
+me,1438,RSU 01 - LKRSU,536,Woolwich Central School,19.09%,*,N,,,
+me,561,RSU 03/MSAD 03,564,Monroe Elementary School,30.88%,*,N,,68,21
+me,561,RSU 03/MSAD 03,562,Morse Memorial School,47.27%,*,N,,110,52
+me,561,RSU 03/MSAD 03,568,Mt View Elementary School,37.19%,*,N,,242,90
+me,561,RSU 03/MSAD 03,567,Mt View High School,25.22%,*,N,,345,87
+me,561,RSU 03/MSAD 03,569,Mt View Middle School,28.97%,*,N,,290,84
+me,561,RSU 03/MSAD 03,565,Troy Central School,38.10%,*,N,,84,32
+me,561,RSU 03/MSAD 03,566,Unity Elementary School,34.38%,*,N,,32,11
+me,561,RSU 03/MSAD 03,563,Walker Memorial School,40.40%,*,N,,99,40
+me,1446,RSU 04,1448,Carrie Ricker School,24.27%,*,N,,,
+me,1446,RSU 04,273,Libby-Tozier School,31.90%,*,N,,163,52
+me,1446,RSU 04,1057,Oak Hill High School,21.91%,*,N,,,
+me,1446,RSU 04,1447,Oak Hill Middle School,22.08%,*,N,,,
+me,1446,RSU 04,489,Sabattus Primary School,21.27%,*,N,,,
+me,1508,RSU 09,615,Academy Hill School,34.04%,*,N,,188,64
+me,1508,RSU 09,612,Cape Cod Hill Elem School,36.21%,*,N,,174,63
+me,1508,RSU 09,610,Cascade Brook School,25.80%,*,N,,314,81
+me,1508,RSU 09,614,Gerald D Cushing School,57.10%,*,N,,126,72
+me,1508,RSU 09,609,Mt Blue High School,22.76%,*,N,,,
+me,1508,RSU 09,608,Mt Blue Middle School,27.77%,*,N,,,
+me,1508,RSU 09,607,W G Mallett School,32.14%,*,N,,364,117
+me,1450,RSU 10,763,Buckfield Jr-Sr High School,25.45%,*,N,,,
+me,1450,RSU 10,764,Hartford-Sumner Elementary School,27.16%,*,N,,,
+me,1450,RSU 10,785,Meroby Elementary School,55.89%,,Y,,297,166
+me,1450,RSU 10,787,Mountain Valley High School,39.16%,,Y,,383,150
+me,1450,RSU 10,784,Mountain Valley Middle School,47.10%,,Y,,276,130
+me,1450,RSU 10,788,Rumford Elementary,58.17%,,Y,,306,178
+me,617,RSU 11/MSAD 11,619,Gardiner Area High School,18.27%,*,N,,,
+me,617,RSU 11/MSAD 11,620,Gardiner Regional Middle School,26.68%,*,N,,,
+me,617,RSU 11/MSAD 11,625,Helen Thompson School,20.47%,*,N,,,
+me,617,RSU 11/MSAD 11,621,Laura E Richards School,31.52%,*,N,,257,81
+me,617,RSU 11/MSAD 11,623,Pittston Consolidated School,26.67%,*,N,,,
+me,617,RSU 11/MSAD 11,622,River View Community School,32.74%,*,N,,168,55
+me,1451,RSU 12,133,Chelsea Elementary School,38.24%,*,N,,319,122
+me,1451,RSU 12,348,Palermo Consolidated School,21.77%,*,N,,,
+me,1451,RSU 12,439,Somerville Elementary School,35.29%,*,N,,17,6
+me,1451,RSU 12,506,Whitefield Elementary School,28.90%,*,N,,,
+me,1451,RSU 12,517,Windsor Elementary School,31.87%,*,N,,342,109
+me,1452,RSU 13,2013,Ash Point Community School,21.18%,,Y,,170,36
+me,1452,RSU 13,834,Cushing Community School,30.86%,,Y,,81,25
+me,1452,RSU 13,1768,Oceanside High School,23.77%,*,N,,,
+me,1452,RSU 13,1767,Oceanside Middle School,34.17%,*,N,,360,123
+me,1452,RSU 13,583,South School,50.42%,,Y,,359,181
+me,1452,RSU 13,838,Thomaston Grammar School,29.40%,,Y,,180,53
+me,1456,RSU 16,363,Bruce M Whittier Middle School,19.63%,*,N,,,
+me,1456,RSU 16,292,Elm Street School-Mechanic Falls,36.09%,*,N,,302,109
+me,1456,RSU 16,303,Minot Consolidated School,19.71%,*,N,,,
+me,1456,RSU 16,361,Poland Community School,23.26%,*,N,,,
+me,1456,RSU 16,362,Poland Regional H S,13.08%,*,N,,,
+me,646,RSU 17/MSAD 17,659,Agnes Gray School,39.71%,,Y,,136,54
+me,646,RSU 17/MSAD 17,650,Guy E Rowe School,37.09%,,Y,,453,168
+me,646,RSU 17/MSAD 17,647,Harrison Elementary,33.64%,*,N,,110,37
+me,646,RSU 17/MSAD 17,649,Hebron Station School,14.17%,*,N,,127,18
+me,646,RSU 17/MSAD 17,651,Otisfield Community School,31.30%,*,N,,115,36
+me,646,RSU 17/MSAD 17,652,Oxford Elementary School,42.20%,,Y,,391,165
+me,646,RSU 17/MSAD 17,656,Oxford Hills Comprehensive H S,28.99%,*,N,,,
+me,646,RSU 17/MSAD 17,655,Oxford Hills Middle School,29.70%,*,N,,,
+me,646,RSU 17/MSAD 17,660,Paris Elementary School,38.97%,,Y,,426,166
+me,646,RSU 17/MSAD 17,657,Waterford Memorial School,39.39%,,Y,,99,39
+me,1458,RSU 19,822,Nokomis Regional High School,28.65%,*,N,,,
+me,,RSU 19,,Somerset Elementary School,,,Y,,,
+me,1459,RSU 20,885,Searsport District High School,29.53%,*,N,,,
+me,1459,RSU 20,884,Searsport District Middle School,41.18%,*,N,,234,96
+me,1459,RSU 20,886,Searsport Elementary,41.45%,*,N,,569,236
+me,1615,RSU 22,676,Earl C McGraw School,13.87%,*,N,,,
+me,1615,RSU 22,674,George B Weatherbee School,9.41%,*,N,,,
+me,1615,RSU 22,675,Hampden Academy,11.95%,*,N,,,
+me,1615,RSU 22,679,Leroy H Smith School,32.32%,*,N,,297,96
+me,1615,RSU 22,678,Newburgh Elementary School,15.38%,*,N,,,
+me,1615,RSU 22,677,Reeds Brook Middle School,10.91%,*,N,,,
+me,1615,RSU 22,680,Samuel L Wagner Middle School,31.62%,*,N,,234,74
+me,1461,RSU 23,323,Jameson Elementary School,40.00%,*,N,,200,80
+me,1461,RSU 23,324,Loranger Memorial School,26.03%,*,N,,,
+me,1461,RSU 23,325,Old Orchard Beach High School,24.64%,*,N,,,
+me,1462,RSU 24,695,Cave Hill School,32.57%,*,N,,86,28
+me,1462,RSU 24,459,Ella Lewis School,39.09%,*,N,,110,43
+me,1462,RSU 24,1046,Mountain View School,41.11%,*,N,,253,104
+me,1462,RSU 24,1353,Peninsula School,24.72%,*,N,,,
+me,1462,RSU 24,1035,Sumner Memorial High School,26.58%,*,N,,,
+me,1464,RSU 25,105,Bucksport High School,19.37%,*,N,,,
+me,1464,RSU 25,107,Bucksport Middle School,30.09%,*,N,,329,99
+me,1464,RSU 25,103,G Herbert Jewett School,33.59%,*,N,,131,44
+me,1464,RSU 25,106,Miles Lane School,41.29%,*,N,,264,109
+me,707,RSU 29/MSAD 29,708,Houlton Elementary School,48.33%,,Y,,418,202
+me,707,RSU 29/MSAD 29,709,Houlton High School,28.94%,,Y,,,
+me,707,RSU 29/MSAD 29,711,Houlton Junior High School,42.32%,,Y,,293,124
+me,707,RSU 29/MSAD 29,710,Houlton Southside School,51.89%,,Y,,318,165
+me,713,RSU 30/MSAD 30,716,Lee/Winn School,50.00%,,Y,,102,51
+me,713,RSU 30/MSAD 30,714,Mt Jefferson Jr High School,35.80%,,Y,,81,29
+me,718,RSU 31/MSAD 31,719,Enfield Station Elementary School,35.89%,,Y,,209,75
+me,718,RSU 31/MSAD 31,721,Hichborn Middle School,38.00%,,Y,,100,38
+me,718,RSU 31/MSAD 31,720,Penobscot Valley High School,24.48%,,Y,,143,35
+me,722,RSU 32/MSAD 32,725,Ashland District School,21.97%,*,N,,,
+me,726,RSU 33/MSAD 33,727,Dr Levesque Elementary School,26.87%,*,N,,,
+me,726,RSU 33/MSAD 33,729,Wisdom Middle High School,14.85%,*,N,,,
+me,1466,RSU 34,8,Alton Elementary School,32.50%,*,N,,40,13
+me,1466,RSU 34,331,Leonard Middle School,28.57%,*,N,,,
+me,1466,RSU 34,333,Old Town Elementary School,38.57%,*,N,,586,226
+me,1466,RSU 34,332,Old Town High School,22.55%,*,N,,,
+me,1466,RSU 34,76,Viola Rand School,45.65%,*,N,,46,21
+me,753,RSU 37/MSAD 37,754,Daniel W Merritt School,36.36%,*,N,,99,36
+me,753,RSU 37/MSAD 37,758,Harrington Elementary School,34.97%,*,N,,143,50
+me,753,RSU 37/MSAD 37,759,Milbridge Elementary School,41.09%,*,N,,129,53
+me,753,RSU 37/MSAD 37,757,Narraguagus High School,30.03%,*,N,,293,88
+me,1467,RSU 38,314,Mt Vernon Elementary School,30.70%,*,N,,114,35
+me,1468,RSU 39,1971,Caribou High School,25.88%,*,N,,,
+me,1468,RSU 39,1970,Caribou Middle School,29.68%,,Y,,,
+me,1468,RSU 39,1972,Teague Park School,39.01%,,Y,,364,142
+me,765,RSU 40/MSAD 40,766,Friendship Village School,21.98%,*,N,,,
+me,765,RSU 40/MSAD 40,773,Medomak Middle School,29.58%,*,N,,,
+me,765,RSU 40/MSAD 40,770,Medomak Valley High School,24.24%,*,N,,,
+me,765,RSU 40/MSAD 40,768,Miller School,36.57%,*,N,,339,124
+me,765,RSU 40/MSAD 40,772,Prescott Memorial School,23.73%,*,N,,,
+me,765,RSU 40/MSAD 40,767,Union Elementary,27.92%,*,N,,,
+me,765,RSU 40/MSAD 40,771,Warren Community School,34.32%,*,N,,370,127
+me,774,RSU 41/MSAD 41,1959,Brownville Elementary School,50.00%,,Y,,92,46
+me,774,RSU 41/MSAD 41,1960,Milo Elementary School,51.28%,,Y,,156,80
+me,774,RSU 41/MSAD 41,778,Penquis Valley Middle/High School,47.06%,,Y,,383,180
+me,789,RSU 44/MSAD 44,793,Telstar Middle School,33.53%,*,N,,173,58
+me,789,RSU 44/MSAD 44,794,Woodstock School,34.48%,*,N,,87,30
+me,795,RSU 45/MSAD 45,797,Washburn District Elem School,35.05%,*,N,,194,68
+me,795,RSU 45/MSAD 45,796,Washburn District High School,22.68%,*,N,,,
+me,826,RSU 49/MSAD 49,827,Albion Elementary School,37.37%,*,N,,99,37
+me,826,RSU 49/MSAD 49,828,Benton Elementary School,32.26%,*,N,,623,201
+me,826,RSU 49/MSAD 49,829,Clinton Elementary School,36.82%,*,N,,258,95
+me,826,RSU 49/MSAD 49,832,Fairfield Primary School,32.64%,*,N,,144,47
+me,826,RSU 49/MSAD 49,830,Lawrence High School,24.69%,*,N,,,
+me,826,RSU 49/MSAD 49,831,Lawrence Jr High School,32.54%,*,N,,335,109
+me,1500,RSU 50,1041,So Aroostook School,32.68%,*,N,,355,116
+me,854,RSU 53/MSAD 53,856,Manson Park School,41.00%,*,N,,100,41
+me,854,RSU 53/MSAD 53,859,SAD #53 Alternative Education,28.57%,*,N,,,
+me,854,RSU 53/MSAD 53,857,Vickery School,41.83%,*,N,,251,105
+me,854,RSU 53/MSAD 53,858,Warsaw Middle School,39.14%,*,N,,304,119
+me,860,RSU 54/MSAD 54,869,Bloomfield Elementary School,46.01%,,Y,,276,127
+me,860,RSU 54/MSAD 54,861,Canaan Elementary School,65.40%,,Y,,208,136
+me,860,RSU 54/MSAD 54,868,Margaret Chase Smith Sch - Skowhegan,38.86%,,Y,,211,82
+me,860,RSU 54/MSAD 54,873,Mill Stream Elementary School,38.55%,,Y,,332,128
+me,860,RSU 54/MSAD 54,865,North Elementary School,40.25%,,Y,,159,64
+me,860,RSU 54/MSAD 54,867,Skowhegan Area High School,29.69%,,Y,,751,223
+me,860,RSU 54/MSAD 54,870,Skowhegan Area Middle School,35.66%,,Y,,502,179
+me,874,RSU 55/MSAD 55,879,Sacopee Valley Elementary School,33.90%,*,N,,292,99
+me,874,RSU 55/MSAD 55,877,Sacopee Valley High Sch,23.70%,*,N,,,
+me,874,RSU 55/MSAD 55,881,Sacopee Valley Middle School,32.70%,*,N,,370,121
+me,1826,RSU 56,672,Dirigo Elementary School,36.10%,*,N,,385,139
+me,1826,RSU 56,670,Dirigo High School,25.98%,*,N,,,
+me,1826,RSU 56,671,T W Kelly Dirigo Middle School,38.33%,*,N,,180,69
+me,898,RSU 58/MSAD 58,900,Kingfield Elementary School,15.79%,*,N,,,
+me,898,RSU 58/MSAD 58,904,Mt Abram Regional High School,21.05%,*,N,,,
+me,898,RSU 58/MSAD 58,902,Phillips Elementary School,40.69%,*,N,,145,59
+me,898,RSU 58/MSAD 58,903,Strong Elementary School,31.08%,*,N,,148,46
+me,905,RSU 59/MSAD 59,909,Madison Area Memorial H S,28.79%,*,N,,,
+me,905,RSU 59/MSAD 59,911,Madison Elementary School,43.85%,,Y,,244,107
+me,905,RSU 59/MSAD 59,910,Madison Junior High School,42.13%,*,N,,178,75
+me,936,RSU 64/MSAD 64,1763,Central Community Elementary School,33.78%,*,N,,524,177
+me,936,RSU 64/MSAD 64,939,Central High School,23.03%,*,N,,,
+me,936,RSU 64/MSAD 64,940,Central Middle School,29.11%,*,N,,,
+me,1469,RSU 67,947,Ella P Burr School,41.80%,,Y,,327,137
+me,1469,RSU 67,948,Mattanawcook Academy,27.80%,*,N,,295,82
+me,1469,RSU 67,949,Mattanawcook Jr High School,37.27%,,Y,,330,123
+me,951,RSU 68/MSAD 68,956,Se Do Mo Cha Elementary School,29.28%,*,N,,,
+me,951,RSU 68/MSAD 68,954,Se Do Mo Cha Middle School,31.00%,*,N,,329,102
+me,957,RSU 70/MSAD 70,1769,Hodgdon Middle/High School,32.98%,*,N,,188,62
+me,957,RSU 70/MSAD 70,958,Mill Pond School,43.26%,,Y,,282,122
+me,1733,RSU 71,739,Ames Elementary School,21.64%,*,N,,,
+me,1733,RSU 71,735,Belfast Area High School,24.44%,*,N,,,
+me,1733,RSU 71,742,Captain Albert W. Stevens School,40.61%,*,N,,293,119
+me,1733,RSU 71,731,East Belfast School,50.00%,*,N,,110,55
+me,1733,RSU 71,737,Gladys Weymouth Elem School,31.43%,*,N,,105,33
+me,1733,RSU 71,740,Kermit S Nickerson School,36.54%,*,N,,104,38
+me,1733,RSU 71,736,Troy A Howard Middle School,32.84%,*,N,,338,111
+me,969,RSU 72/MSAD 72,971,Denmark Elementary School,31.03%,*,N,,87,27
+me,969,RSU 72/MSAD 72,1953,Molly Ockett School,25.83%,*,N,,,
+me,969,RSU 72/MSAD 72,975,New Suncook School,16.81%,*,N,,,
+me,1498,RSU 73,1759,Spruce Mountain Elementary School,37.66%,*,N,,308,116
+me,1498,RSU 73,1652,Spruce Mountain High School,28.29%,*,N,,,
+me,1498,RSU 73,1499,Spruce Mountain Middle School,34.44%,*,N,,331,114
+me,1498,RSU 73,1760,Spruce Mountain Primary School,39.58%,*,N,,432,171
+me,976,RSU 74/MSAD 74,983,Carrabec Community School,41.96%,,Y,,255,107
+me,976,RSU 74/MSAD 74,979,Carrabec High School,31.66%,,Y,,199,63
+me,976,RSU 74/MSAD 74,978,Garret Schenck School,47.25%,,Y,,91,43
+me,976,RSU 74/MSAD 74,982,Solon Elementary School,52.27%,,Y,,88,46
+me,551,RSU 79/MSAD 01,554,Eva Hoyt Zippel School,36.55%,*,N,,290,106
+me,551,RSU 79/MSAD 01,552,Mapleton Elementary School,14.29%,*,N,,,
+me,551,RSU 79/MSAD 01,553,Pine Street Elementary School,39.43%,*,N,,383,151
+me,551,RSU 79/MSAD 01,557,Presque Isle High School,20.80%,*,N,,,
+me,551,RSU 79/MSAD 01,556,Presque Isle Middle School,26.80%,*,N,,,
+me,570,RSU 80/MSAD 04,1977,Piscataquis Community Elementary,38.40%,*,N,,362,139
+me,570,RSU 80/MSAD 04,1978,Piscataquis Community Secondary School,28.98%,*,N,,,
+me,626,RSU 82/MSAD 12,627,Forest Hills Consolidated School,17.33%,*,N,,,
+me,628,RSU 83/MSAD 13,1973,Moscow Elementary,56.14%,*,N,,57,32
+me,628,RSU 83/MSAD 13,1974,Upper Kennebec Valley Middle/Senior High School,42.67%,*,N,,75,32
+me,633,RSU 84/MSAD 14,634,East Grand School,34.35%,,Y,,131,45
+me,662,RSU 85/MSAD 19,663,Lubec Consolidated School,46.97%,,Y,,66,31
+me,664,RSU 86/MSAD 20,666,Fort Fairfield Elementary School,35.04%,,Y,,234,82
+me,664,RSU 86/MSAD 20,665,Fort Fairfield Middle/High School,30.43%,*,N,,253,77
+me,685,RSU 88/MSAD 24,686,Van Buren District Secondary Sch,35.53%,,Y,,76,27
+me,685,RSU 88/MSAD 24,689,Van Buren Elementary School,46.94%,,Y,,196,92
+me,416,Sanford Public Schools,419,Lafayette School,49.56%,*,N,,184,91
+me,416,Sanford Public Schools,1651,Willard School,33.03%,*,N,,433,143
+me,444,South Portland Public Schools,450,Daniel F. Mahoney Middle School,14.96%,*,N,,,
+me,444,South Portland Public Schools,453,Dora L Small Elementary School,10.95%,*,N,,,
+me,444,South Portland Public Schools,447,Dyer Elementary School,10.13%,*,N,,,
+me,444,South Portland Public Schools,455,Frank I Brown Elementary School,16.29%,*,N,,,
+me,444,South Portland Public Schools,446,James Otis Kaler Elementary School,30.04%,*,N,,233,70
+me,444,South Portland Public Schools,454,Memorial Middle School,25.88%,*,N,,,
+me,444,South Portland Public Schools,451,South Portland High School,16.39%,*,N,,,
+me,444,South Portland Public Schools,452,Waldo T Skillin Elementary School,34.29%,*,N,,382,131
+me,473,Vassalboro Public Schools,474,Vassalboro Community School,32.76%,*,N,,406,133
+me,480,Waterville Public Schools,481,Albert S Hall School,49.03%,*,N,,259,127
+me,480,Waterville Public Schools,483,George J Mitchell School,49.67%,*,N,,598,297
+me,480,Waterville Public Schools,484,Waterville Junior High School,41.22%,*,N,,376,155
+me,480,Waterville Public Schools,482,Waterville Senior High School,32.86%,*,N,,493,162
+me,491,Wesley Public Schools,492,Wesley Elementary School,37.50%,*,N,,8,3
+me,495,Westbrook Public Schools,501,Congin School,38.23%,*,N,,395,151
+me,495,Westbrook Public Schools,500,Oxford-Cumberland Canal School,45.76%,*,N,,295,135
+me,495,Westbrook Public Schools,497,Saccarappa School,45.66%,*,N,,311,142
+me,495,Westbrook Public Schools,499,Westbrook High School,29.10%,*,N,,,
+me,495,Westbrook Public Schools,498,Westbrook Middle School,37.07%,*,N,,793,294
+me,1413,Whiting Public Schools,1001,Whiting Village School,32.43%,*,N,,37,12
+me,518,Winslow Schools,521,Winslow Elementary School,32.25%,*,N,,493,159
+me,532,Woodland Public Schools,533,Woodland Consolidated Sch,35.19%,*,N,,162,57

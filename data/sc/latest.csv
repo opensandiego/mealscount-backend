@@ -1,0 +1,1180 @@
+state,District Code,District Name,School Code,School Name,individual_isp,proxy_isp,participating_in_cep,claiming_isp,total_enrolled,total_eligible
+sc,160,Abbeville County,1,Abbeville High,31.12%,,N,,466,145
+sc,160,Abbeville County,3,Dixie High,22.76%,,N,,,
+sc,160,Abbeville County,7,John C Calhoun Elementary,61.85%,,Y,53.76%,173,107
+sc,160,Abbeville County,16,Wright Middle,37.37%,,N,,372,139
+sc,160,Abbeville County,17,Westwood Elementary,48.18%,,Y,53.76%,357,172
+sc,160,Abbeville County,18,Cherokee Trail Elementary,28.89%,,N,,,
+sc,160,Abbeville County,19,Diamond Hill Elementary,36.49%,,N,,348,127
+sc,160,Abbeville County,20,Long Cane Primary,55.21%,,Y,53.76%,413,228
+sc,201,Aiken County,1,Silver Bluff High,34.71%,,N,,631,219
+sc,201,Aiken County,2,Aiken High,37.18%,,N,,1291,480
+sc,201,Aiken County,3,South Aiken High,22.33%,,N,,,
+sc,201,Aiken County,5,Jefferson Elementary,43.82%,,Y,56.04%,566,248
+sc,201,Aiken County,6,Midland Valley High,35.58%,,N,,1259,448
+sc,201,Aiken County,7,Paul Knox Middle,31.96%,,N,,751,240
+sc,201,Aiken County,8,Langley-Bath-Clearwater Mid,47.82%,,Y,49.28%,642,307
+sc,201,Aiken County,9,Leavelle Mccampbell Middle,42.14%,,N,,617,260
+sc,201,Aiken County,10,New Ellenton Middle,46.63%,,N,,193,90
+sc,201,Aiken County,11,North Augusta Middle,30.52%,,N,,639,195
+sc,201,Aiken County,12,North Augusta High,24.09%,,N,,,
+sc,201,Aiken County,15,Wagener - Salley High,42.48%,,Y,56.04%,266,113
+sc,201,Aiken County,16,Aiken Elementary,46.03%,,N,,730,336
+sc,201,Aiken County,17,Kennedy Middle,27.78%,,N,,,
+sc,201,Aiken County,19,Belvedere Elementary,35.94%,,N,,601,216
+sc,201,Aiken County,21,Byrd Elementary,34.97%,,N,,712,249
+sc,201,Aiken County,22,J D Lever Elementary,57.51%,,Y,56.04%,539,310
+sc,201,Aiken County,24,Clearwater Elementary,59.63%,,Y,56.04%,431,257
+sc,201,Aiken County,25,Busbee-Corbett Elem/Mdl,0.00%,,Y,56.04%,,
+sc,201,Aiken County,27,East Aiken Elementary,46.63%,,Y,56.04%,594,277
+sc,201,Aiken County,28,Schofield Middle,49.91%,,Y,49.28%,545,272
+sc,201,Aiken County,29,Gloverville Elementary,51.87%,,Y,56.04%,374,194
+sc,201,Aiken County,30,Greendale Elementary,55.33%,,Y,56.04%,394,218
+sc,201,Aiken County,31,Hammond Hill Elementary,29.77%,,N,,,
+sc,201,Aiken County,33,Jackson Middle,38.55%,,N,,345,133
+sc,201,Aiken County,35,Millbrook Elementary,37.79%,,N,,553,209
+sc,201,Aiken County,38,North Aiken Elementary,74.51%,,Y,56.04%,463,345
+sc,201,Aiken County,39,North Augusta Elementary,38.17%,,N,,655,250
+sc,201,Aiken County,51,Cyril B Busbee Elementary,62.80%,,N,,465,292
+sc,201,Aiken County,52,Warrenville Elementary,50.21%,,Y,56.04%,466,234
+sc,201,Aiken County,54,Oakwood-Windsor Elementary,53.94%,,Y,56.04%,393,212
+sc,201,Aiken County,55,Redcliffe Elementary,49.66%,,Y,56.04%,745,370
+sc,201,Aiken County,56,Chukker Creek Elem,25.78%,,N,,,
+sc,201,Aiken County,57,Aiken Middle,57.23%,,N,,484,277
+sc,201,Aiken County,58,Mossy Creek Elementary,50.14%,,Y,49.28%,692,347
+sc,201,Aiken County,59,Ridge Spring - Monetta Elementary,62.63%,,Y,56.04%,380,238
+sc,201,Aiken County,60,Ridge Spring - Monetta High,38.98%,,Y,56.04%,254,99
+sc,201,Aiken County,61,Aiken Scholars Academy,10.20%,,N,,,
+sc,201,Aiken County,62,Ridge Spring-Monetta Middle,57.21%,,Y,56.04%,201,115
+sc,201,Aiken County,63,A L Corbett Middle,52.88%,,Y,56.04%,191,101
+sc,201,Aiken County,403,Pinecrest Annex,0.00%,,N,,,
+sc,201,Aiken County,406,Parenting Center,0.00%,,N,,,
+sc,301,Allendale County,1,Allendale-Fairfax High,55.14%,,Y,68.66%,292,161
+sc,301,Allendale County,4,Allendale Elementary,66.67%,,Y,68.66%,264,176
+sc,301,Allendale County,6,Fairfax Elementary,75.84%,,Y,68.66%,356,270
+sc,301,Allendale County,8,Allendale/Fairfax Middle,76.67%,,Y,68.66%,240,184
+sc,401,Anderson 01,1,Palmetto High,22.71%,,N,,,
+sc,401,Anderson 01,2,Powdersville High School,10.65%,,N,,,
+sc,401,Anderson 01,3,Wren High,11.37%,,N,,,
+sc,401,Anderson 01,4,Palmetto Elementary,34.78%,,N,,578,201
+sc,401,Anderson 01,5,Cedar Grove Primary,34.86%,,N,,657,229
+sc,401,Anderson 01,6,Concrete Primary,17.63%,,N,,,
+sc,401,Anderson 01,8,Wren Middle,15.10%,,N,,,
+sc,401,Anderson 01,9,West Pelzer Elementary,38.50%,,N,,426,164
+sc,401,Anderson 01,11,Spearman Elementary,20.69%,,N,,,
+sc,401,Anderson 01,12,Palmetto Middle,29.84%,,N,,,
+sc,401,Anderson 01,13,Wren Elementary,13.06%,,N,,,
+sc,401,Anderson 01,14,Hunt Meadows Elementary,24.12%,,N,,,
+sc,401,Anderson 01,61,Powdersville Middle,17.05%,,N,,,
+sc,401,Anderson 01,62,Powdersville Elementary,15.20%,,N,,,
+sc,402,Anderson 02,12,Belton-Honea Path High,26.50%,,N,,,
+sc,402,Anderson 02,13,Belton Elementary,39.37%,,N,,475,187
+sc,402,Anderson 02,14,Belton Middle,33.21%,,N,,524,174
+sc,402,Anderson 02,15,Marshall Primary,42.75%,,N,,510,218
+sc,402,Anderson 02,18,Honea Path Elementary,40.79%,,N,,581,237
+sc,402,Anderson 02,19,Honea Path Middle,32.66%,,N,,349,114
+sc,402,Anderson 02,21,Wright Elementary,23.87%,,N,,,
+sc,403,Anderson 03,22,Crescent High,29.50%,,N,,,
+sc,403,Anderson 03,24,Iva Elementary,41.82%,,Y,57.58%,428,179
+sc,403,Anderson 03,25,Starr-Iva Middle,40.78%,,N,,618,252
+sc,403,Anderson 03,26,Starr Elementary,43.26%,,Y,57.58%,527,228
+sc,403,Anderson 03,27,Flat Rock Elementary,50.77%,,Y,50.77%,388,197
+sc,404,Anderson 04,27,Pendleton High,22.41%,,N,,,
+sc,404,Anderson 04,29,Riverside Middle,29.11%,,N,,,
+sc,404,Anderson 04,31,La France Elementary,23.13%,,N,,,
+sc,404,Anderson 04,34,Pendleton Elementary,44.52%,,N,,456,203
+sc,404,Anderson 04,36,Townville Elementary,34.69%,,N,,294,102
+sc,404,Anderson 04,37,Mount Labanon Elementary,27.63%,,N,,,
+sc,405,Anderson 05,38,T L Hanna High,20.33%,,N,,,
+sc,405,Anderson 05,40,Mccants Middle,29.13%,,N,,,
+sc,405,Anderson 05,44,Centerville Elementary,43.95%,,N,,719,316
+sc,405,Anderson 05,45,Concord Elementary,24.08%,,N,,,
+sc,405,Anderson 05,47,Homeland Park Elementary,64.71%,,Y,62.98%,459,297
+sc,405,Anderson 05,48,Westside High,38.74%,,N,,1629,631
+sc,405,Anderson 05,50,Nevitt Forest Elementary,73.06%,,Y,62.98%,516,377
+sc,405,Anderson 05,51,New Prospect Elementary,57.59%,,Y,62.98%,514,296
+sc,405,Anderson 05,55,Varennes Elementary,68.53%,,Y,62.98%,375,257
+sc,405,Anderson 05,59,Whitehall Elementary,51.42%,,Y,62.98%,494,254
+sc,405,Anderson 05,60,Calhoun Academy of the Arts,49.84%,,N,,614,306
+sc,405,Anderson 05,61,Midway Elementary,14.05%,,N,,,
+sc,405,Anderson 05,62,Mclees Elementary,40.25%,,N,,631,254
+sc,405,Anderson 05,63,Robert Anderson Middle,47.53%,,Y,62.98%,1275,606
+sc,405,Anderson 05,64,Glenview Middle,31.38%,,N,,749,235
+sc,405,Anderson 05,65,Southwood Academy,23.73%,,N,,,
+sc,405,Anderson 05,66,North Pointe Elementary,15.91%,,N,,,
+sc,405,Anderson 05,400,West Market F E C,56.16%,,Y,62.98%,203,114
+sc,405,Anderson 05,801,South Fant Early Childhood,58.33%,,Y,62.98%,156,91
+sc,501,Bamberg 01,1,Bamberg - Ehrhardt High,39.46%,,Y,57.45%,370,146
+sc,501,Bamberg 01,2,Bamberg Ehrhardt Middle,48.50%,,Y,57.45%,200,97
+sc,501,Bamberg 01,6,Richard Carroll Elementary,58.25%,,Y,57.45%,721,420
+sc,502,Bamberg 02,7,Denmark-Olar High,69.28%,,Y,83.71%,166,115
+sc,502,Bamberg 02,8,Denmark-Olar Middle,73.46%,,Y,83.71%,162,119
+sc,502,Bamberg 02,10,Denmark-Olar El,83.67%,,Y,83.71%,343,287
+sc,619,Barnwell 19,1,Blackville-Hilda High,58.64%,,Y,60.87%,191,112
+sc,619,Barnwell 19,3,Macedonia Elementary,61.81%,,Y,60.87%,453,280
+sc,629,Barnwell 29,7,Kelly Edwards Elementary,53.88%,,Y,53.50%,412,222
+sc,629,Barnwell 29,14,Williston-Elko Middle & High,41.77%,,Y,53.50%,462,193
+sc,645,Barnwell 45,9,Barnwell High,50.17%,,Y,57.58%,594,298
+sc,645,Barnwell 45,10,Guinyard Butler Middle,58.59%,,Y,57.58%,326,191
+sc,645,Barnwell 45,11,Barnwell Primary,62.98%,,Y,57.58%,732,461
+sc,645,Barnwell 45,12,Barnwell Elementary,57.80%,,Y,57.58%,519,300
+sc,701,Beaufort County,1,Lady's Island Middle,40.11%,,N,,546,219
+sc,701,Beaufort County,2,Beaufort High,26.70%,,N,,,
+sc,701,Beaufort County,3,Hilton Head High,14.56%,,N,,,
+sc,701,Beaufort County,4,Battery Creek High,39.92%,,N,,719,287
+sc,701,Beaufort County,8,Beaufort Elementary,58.40%,,Y,62.51%,476,278
+sc,701,Beaufort County,9,Hilton Head Middle,22.30%,,N,,,
+sc,701,Beaufort County,10,Broad River Elementary,48.84%,,N,,559,273
+sc,701,Beaufort County,12,Daufuskie School,11.11%,,N,,,
+sc,701,Beaufort County,14,Lady's Island Elementary,55.37%,,Y,62.51%,298,165
+sc,701,Beaufort County,15,Mossy Oaks Elementary,48.78%,,N,,410,200
+sc,701,Beaufort County,16,Port Royal Elementary,45.54%,,N,,224,102
+sc,701,Beaufort County,17,Michael C. Riley Elementary,29.51%,,N,,,
+sc,701,Beaufort County,20,St. Helena Elementary,69.97%,,Y,62.51%,393,275
+sc,701,Beaufort County,22,Shanklin Elem,67.51%,,Y,57.21%,394,266
+sc,701,Beaufort County,23,Whale Branch Elem,76.64%,,Y,62.51%,488,374
+sc,701,Beaufort County,24,Bluffton Elementary,19.28%,,N,,,
+sc,701,Beaufort County,25,Coosa Elementary,13.45%,,N,,,
+sc,701,Beaufort County,26,Mccracken Middle,15.37%,,N,,,
+sc,701,Beaufort County,27,Whale Branch Middle,61.80%,,Y,62.51%,356,220
+sc,701,Beaufort County,28,Beaufort Middle School,37.50%,,N,,472,177
+sc,701,Beaufort County,29,Okatie Elementary,20.35%,,N,,,
+sc,701,Beaufort County,30,Bluffton High School,16.84%,,N,,,
+sc,701,Beaufort County,31,Hilton Head Early Childhood,37.65%,,N,,417,157
+sc,701,Beaufort County,32,Hilton Head School for the Creative Arts,25.68%,,N,,,
+sc,701,Beaufort County,33,Hilton Head International Baccalaureate Elem,23.42%,,N,,,
+sc,701,Beaufort County,34,Red Cedar Elementary,27.54%,,N,,,
+sc,701,Beaufort County,35,Bluffton Middle,20.35%,,N,,,
+sc,701,Beaufort County,36,Whale Branch High,50.00%,,Y,62.51%,440,220
+sc,701,Beaufort County,37,Pritchardville Elementary,13.57%,,N,,,
+sc,701,Beaufort County,38,River Ridge Academy,13.02%,,N,,,
+sc,701,Beaufort County,39,May River High,12.29%,,N,,,
+sc,701,Beaufort County,40,Roberts Smalls International Academy,51.48%,,Y,57.21%,709,365
+sc,701,Beaufort County,41,Islands Academy,0.00%,,N,,,
+sc,801,Berkeley County,1,Stratford High,20.41%,,N,,,
+sc,801,Berkeley County,2,Berkeley High,23.61%,,N,,,
+sc,801,Berkeley County,6,Cross High,45.58%,,Y,63.15%,294,134
+sc,801,Berkeley County,7,Goose Creek High,23.13%,,N,,,
+sc,801,Berkeley County,8,Hanahan High,19.63%,,N,,,
+sc,801,Berkeley County,11,Berkeley Elementary,43.13%,,N,,640,276
+sc,801,Berkeley County,12,Berkeley Middle,30.34%,,N,,1424,432
+sc,801,Berkeley County,14,Boulder Bluff Elementary,36.13%,,N,,692,250
+sc,801,Berkeley County,15,Cainhoy Elementary & Middle,56.84%,,Y,63.15%,190,108
+sc,801,Berkeley County,16,Cross Elementary,47.54%,,Y,63.15%,366,174
+sc,801,Berkeley County,17,College Park Elementary,35.86%,,Y,44.90%,1004,360
+sc,801,Berkeley County,20,J. K. Gourdin Elementary,66.39%,,Y,63.15%,122,81
+sc,801,Berkeley County,21,Hanahan Middle,19.68%,,N,,,
+sc,801,Berkeley County,22,Westview Elementary & Middle,20.57%,,N,,,
+sc,801,Berkeley County,23,Sangaree Elementary & Inter,30.89%,,N,,1337,413
+sc,801,Berkeley County,24,H. E. Bonner Elementary,36.66%,,Y,44.90%,742,272
+sc,801,Berkeley County,27,Sedgefield Middle,36.21%,,N,,986,357
+sc,801,Berkeley County,28,St. Stephen Elementary,55.98%,,Y,63.15%,393,220
+sc,801,Berkeley County,29,St. Stephen Middle,58.74%,,Y,50.54%,223,131
+sc,801,Berkeley County,30,Whitesville Elementary,32.37%,,N,,902,292
+sc,801,Berkeley County,32,College Park Middle,35.60%,,Y,44.90%,778,277
+sc,801,Berkeley County,33,Marrington Elementary,2.54%,,N,,,
+sc,801,Berkeley County,34,Marrington Middle,6.51%,,N,,,
+sc,801,Berkeley County,36,Howe Hall Aims,5.05%,,N,,,
+sc,801,Berkeley County,37,Macedonia Middle,29.73%,,Y,44.90%,370,110
+sc,801,Berkeley County,39,Devon Forest Elem,39.31%,,N,,982,386
+sc,801,Berkeley County,40,Sedgefield Inter,37.56%,,N,,583,219
+sc,801,Berkeley County,41,Berkeley Intermediate,43.67%,,N,,742,324
+sc,801,Berkeley County,43,Timberland High,38.49%,,Y,50.54%,595,229
+sc,801,Berkeley County,44,Hanahan Elem,20.49%,,N,,,
+sc,801,Berkeley County,45,Westview Primary,29.40%,,N,,,
+sc,801,Berkeley County,46,Goose Creek Primary,41.24%,,N,,1045,431
+sc,801,Berkeley County,47,Sangaree Middle,27.28%,,N,,,
+sc,801,Berkeley County,48,Daniel Island Elem/Middle,2.15%,,N,,,
+sc,801,Berkeley County,49,Cane Bay High,16.47%,,N,,,
+sc,801,Berkeley County,50,Cane Bay Elementary,11.18%,,N,,,
+sc,801,Berkeley County,52,Cane Bay Middle,14.37%,,N,,,
+sc,801,Berkeley County,53,Nexton Elementary School,20.98%,,N,,,
+sc,801,Berkeley County,54,Philip Simmons Elementary,19.24%,,N,,,
+sc,801,Berkeley County,56,Philip Simmons High School,18.80%,,N,,,
+sc,801,Berkeley County,57,Bowen's Corner Elementary,15.52%,,N,,,
+sc,801,Berkeley County,58,Foxbank Elementary,20.00%,,N,,,
+sc,901,Calhoun County,1,Calhoun County High,49.51%,,Y,62.53%,412,204
+sc,901,Calhoun County,8,Sandy Run Elem,52.69%,,Y,62.53%,632,333
+sc,901,Calhoun County,9,St Matthews K-8,76.52%,,Y,62.53%,656,502
+sc,1001,Charleston County,1,Baptist Hill High,57.55%,,Y,62.82%,497,286
+sc,1001,Charleston County,2,North Charleston High,64.81%,,Y,62.82%,557,361
+sc,1001,Charleston County,8,Garrett Academy Of Tec,54.30%,,Y,62.82%,291,158
+sc,1001,Charleston County,10,Burke High,70.86%,,Y,62.82%,326,231
+sc,1001,Charleston County,14,Wando High,6.78%,,N,,,
+sc,1001,Charleston County,18,Military Magnet Middle,52.05%,,Y,62.82%,440,229
+sc,1001,Charleston County,20,St. John's High,43.52%,,Y,62.82%,324,141
+sc,1001,Charleston County,22,Stall High,44.72%,,Y,62.82%,1364,610
+sc,1001,Charleston County,30,Northwoods Middle,58.14%,,Y,62.82%,688,400
+sc,1001,Charleston County,33,Chicora Elementary,85.37%,,Y,62.82%,369,315
+sc,1001,Charleston County,36,A. C. Corcoran Elementary,57.56%,,Y,62.82%,794,457
+sc,1001,Charleston County,38,EA Burns Elementary,70.28%,,Y,62.82%,249,175
+sc,1001,Charleston County,39,Jane Edwards Elementary,61.04%,,Y,62.82%,77,47
+sc,1001,Charleston County,40,Mary Ford Elementary,81.51%,,Y,62.82%,357,291
+sc,1001,Charleston County,42,W. B. Goodwin Elementary,59.61%,,Y,62.82%,515,307
+sc,1001,Charleston County,43,Harbor View Elementary,13.13%,,N,,,
+sc,1001,Charleston County,44,Haut Gap Middle,38.73%,,Y,62.82%,519,201
+sc,1001,Charleston County,45,Minnie Hughes Elementary,54.21%,,Y,62.82%,297,161
+sc,1001,Charleston County,46,Hunley Park Elementary,39.36%,,Y,62.82%,498,196
+sc,1001,Charleston County,50,Ladson Elementary,50.31%,,Y,62.82%,956,481
+sc,1001,Charleston County,51,Laing Middle,5.39%,,N,,,
+sc,1001,Charleston County,52,Lambs Elementary,35.44%,,Y,62.82%,443,157
+sc,1001,Charleston County,56,St. James-Santee Elementary,68.57%,,Y,62.82%,245,168
+sc,1001,Charleston County,57,Memminger Elementary,71.55%,,Y,62.82%,355,254
+sc,1001,Charleston County,58,Midland Park Primary,67.08%,,Y,62.82%,480,322
+sc,1001,Charleston County,59,E. B. Ellington Elementary,64.01%,,Y,62.82%,389,249
+sc,1001,Charleston County,60,Julian Mitchell Elementary,84.24%,,Y,62.82%,349,294
+sc,1001,Charleston County,61,Jennie Moore Elementary,7.64%,,N,,,
+sc,1001,Charleston County,62,Morningside Middle,71.65%,,Y,62.82%,635,455
+sc,1001,Charleston County,63,Mt. Pleasant Academy Elem,6.76%,,N,,,
+sc,1001,Charleston County,65,Moultrie Middle,10.22%,,N,,,
+sc,1001,Charleston County,66,Murray-Lasaine Elementary,16.85%,,Y,62.82%,368,62
+sc,1001,Charleston County,67,North Charleston Elem,70.20%,,Y,62.82%,510,358
+sc,1001,Charleston County,68,Oakland Elementary,33.33%,,Y,62.82%,588,196
+sc,1001,Charleston County,70,Hursey Elem,33.96%,,Y,62.82%,371,126
+sc,1001,Charleston County,72,Mf Dunston El,66.57%,,Y,62.82%,344,229
+sc,1001,Charleston County,75,Frierson Elementary,55.74%,,Y,62.82%,122,68
+sc,1001,Charleston County,76,Sanders-Clyde Elementary,91.62%,,Y,62.82%,501,459
+sc,1001,Charleston County,77,Pepperhill Elementary,59.38%,,Y,62.82%,640,380
+sc,1001,Charleston County,79,James Simons Elementary,37.12%,,Y,62.82%,396,147
+sc,1001,Charleston County,81,Springfield Elementary,35.92%,,Y,62.82%,671,241
+sc,1001,Charleston County,82,St. Andrews Elementary,24.32%,,N,,,
+sc,1001,Charleston County,83,Angel Oak Elementary,38.29%,,Y,62.82%,551,211
+sc,1001,Charleston County,84,Stiles Point Elementary,8.48%,,N,,,
+sc,1001,Charleston County,85,Stono Park Elementary,64.24%,,Y,62.82%,439,282
+sc,1001,Charleston County,86,Sullivan's Island Elementary,1.85%,,N,,,
+sc,1001,Charleston County,90,Mamie P. Whitesides Elementary,6.72%,,N,,,
+sc,1001,Charleston County,91,Ashley River Elementary,5.53%,,N,,,
+sc,1001,Charleston County,92,C. E. Williams Middle,28.64%,,N,,,
+sc,1001,Charleston County,93,James B. Edwards Elementary,12.16%,,N,,,
+sc,1001,Charleston County,94,Buist Academy Elem,2.43%,,N,,,
+sc,1001,Charleston County,95,Mt Zion Elementary,56.75%,,Y,62.82%,289,164
+sc,1001,Charleston County,96,Belle Hall Elementary,6.38%,,N,,,
+sc,1001,Charleston County,98,School Of The Arts,12.18%,,N,,,
+sc,1001,Charleston County,99,Academic Magnet Hi,1.96%,,N,,,
+sc,1001,Charleston County,101,Charleston Progressive School,70.57%,,Y,62.82%,282,199
+sc,1001,Charleston County,102,Pinckney Elem,4.23%,,N,,,
+sc,1001,Charleston County,103,Cario Middle,5.54%,,N,,,
+sc,1001,Charleston County,104,West Ashley High,26.93%,,Y,62.82%,1645,443
+sc,1001,Charleston County,106,West Ashley Middle,45.58%,,Y,62.82%,599,273
+sc,1001,Charleston County,107,James Island Elementary,32.02%,,N,,531,170
+sc,1001,Charleston County,108,Clark Academy,74.40%,,Y,62.82%,125,93
+sc,1001,Charleston County,109,Drayton Hall Elementary,13.51%,,N,,,
+sc,1001,Charleston County,110,Laurel Hill Primary,4.55%,,N,,,
+sc,1001,Charleston County,111,Zucker Middle School of Science,52.11%,,Y,62.82%,570,297
+sc,1001,Charleston County,112,Pinehurst Elementary,52.32%,,Y,62.82%,776,406
+sc,1001,Charleston County,113,Montessori Community School,4.20%,,N,,,
+sc,1001,Charleston County,114,North Charleston Creative Arts Elementary,44.62%,,Y,62.82%,567,253
+sc,1001,Charleston County,115,Simmons Pinckney Middle,87.50%,,Y,62.82%,272,238
+sc,1001,Charleston County,116,Deer Park Middle,52.01%,,Y,62.82%,548,285
+sc,1001,Charleston County,117,Carolina Park Elementary,6.25%,,N,,,
+sc,1001,Charleston County,118,Camp Road Middle School,23.50%,,N,,,
+sc,1001,Charleston County,200,Meeting Street Elementary at Brentwood,61.61%,,Y,62.82%,706,435
+sc,1001,Charleston County,406,Jenkins Academy,70.00%,,Y,62.82%,50,35
+sc,1001,Charleston County,421,Head Start - West Ashley,100.00%,,Y,62.82%,114,114
+sc,1001,Charleston County,612,Charleston Development Academy,59.24%,,Y,62.82%,184,109
+sc,1001,Charleston County,614,East Cooper Montessori Charter,4.58%,,N,,,
+sc,1001,Charleston County,615,Greg Mathis Charter High,79.66%,,Y,62.82%,59,47
+sc,1001,Charleston County,616,James Island High,15.32%,,N,,,
+sc,1001,Charleston County,618,Orange Grove Elementary,9.50%,,N,,,
+sc,1001,Charleston County,620,Charleston Math & Science,26.76%,,N,,,
+sc,1001,Charleston County,629,Carolina Voyager Charter,20.39%,,Y,62.82%,304,62
+sc,1001,Charleston County,630,Allegro Charter School of Music,26.94%,,N,,,
+sc,1001,Charleston County,631,Prestige Preparatory Academy,73.91%,,Y,62.82%,46,34
+sc,1101,Cherokee County,1,Blacksburg High,32.66%,,N,,496,162
+sc,1101,Cherokee County,2,John E. Ewing Middle,52.01%,,Y,50.94%,398,207
+sc,1101,Cherokee County,3,Gaffney Senior High,35.74%,,N,,1841,658
+sc,1101,Cherokee County,4,Granard Middle,37.70%,,N,,549,207
+sc,1101,Cherokee County,5,Alma Elementary,59.28%,,Y,63.11%,221,131
+sc,1101,Cherokee County,7,Blacksburg Middle,37.31%,,N,,402,150
+sc,1101,Cherokee County,9,Corinth Elementary,35.71%,,N,,406,145
+sc,1101,Cherokee County,10,Draytonville Elementary,62.61%,,Y,63.11%,230,144
+sc,1101,Cherokee County,11,Mary Bramlett Elementary,72.55%,,Y,63.11%,255,185
+sc,1101,Cherokee County,12,Goucher Elementary,48.37%,,Y,50.94%,246,119
+sc,1101,Cherokee County,15,B D Lee Elementary,58.85%,,Y,63.11%,401,236
+sc,1101,Cherokee County,19,Luther Vaughan Elementary,71.47%,,Y,63.11%,375,268
+sc,1101,Cherokee County,20,Blacksburg Elementary,52.56%,,Y,63.11%,352,185
+sc,1101,Cherokee County,21,Limestone-Central Elem,53.79%,,Y,50.94%,422,227
+sc,1101,Cherokee County,22,Grassy Pond Elem,32.35%,,N,,541,175
+sc,1101,Cherokee County,23,Northwest Elementary,31.63%,,N,,528,167
+sc,1101,Cherokee County,24,Gaffney Middle,48.03%,,Y,50.94%,583,280
+sc,1101,Cherokee County,25,Blacksburg Primary,52.56%,,Y,50.94%,430,226
+sc,1101,Cherokee County,27,Cherokee Alternative Program,73.75%,,Y,63.11%,80,59
+sc,1201,Chester County,2,Chester High,44.16%,,Y,54.79%,788,348
+sc,1201,Chester County,4,Chester Middle,62.97%,,Y,54.79%,586,369
+sc,1201,Chester County,6,Lewisville High,25.00%,,Y,54.79%,380,95
+sc,1201,Chester County,8,Lewisville Middle,43.99%,,Y,54.79%,416,183
+sc,1201,Chester County,11,Great Falls Elementary,62.76%,,Y,54.79%,384,241
+sc,1201,Chester County,14,Lewisville Elementary,45.65%,,Y,54.79%,506,231
+sc,1201,Chester County,18,Chester Park Complex,67.83%,,Y,54.79%,1346,913
+sc,1201,Chester County,24,Great Falls Complex,48.25%,,Y,54.79%,371,179
+sc,1201,Chester County,601,The Academy for Teaching & Learning Ctr,35.90%,,Y,54.79%,351,126
+sc,1301,Chesterfield County,1,Cheraw High,43.92%,,Y,50.45%,617,271
+sc,1301,Chesterfield County,2,Chesterfield High,32.70%,,Y,40.18%,422,138
+sc,1301,Chesterfield County,5,Long Middle,53.86%,,Y,50.45%,466,251
+sc,1301,Chesterfield County,6,McBee High,34.99%,,Y,40.18%,463,162
+sc,1301,Chesterfield County,7,Central High,39.45%,,Y,40.18%,550,217
+sc,1301,Chesterfield County,8,New Heights Middle,52.61%,,Y,50.45%,517,272
+sc,1301,Chesterfield County,12,Cheraw Primary,57.72%,,Y,50.45%,492,284
+sc,1301,Chesterfield County,14,Edwards Elementary,44.38%,,Y,50.45%,507,225
+sc,1301,Chesterfield County,15,Jefferson Elementary,49.33%,,Y,50.45%,371,183
+sc,1301,Chesterfield County,19,Petersburg Primary,59.28%,,Y,50.45%,415,246
+sc,1301,Chesterfield County,20,McBee Elementary,46.05%,,Y,50.45%,443,204
+sc,1301,Chesterfield County,21,Plainview Elementary,39.13%,,Y,40.18%,161,63
+sc,1301,Chesterfield County,23,Ruby Elementary,34.34%,,Y,40.18%,265,91
+sc,1301,Chesterfield County,26,Cheraw Intermediate,56.92%,,Y,50.45%,455,259
+sc,1301,Chesterfield County,27,Pageland Elementary,60.70%,,Y,40.18%,374,227
+sc,1301,Chesterfield County,28,Chesterfield-Ruby Middle,42.39%,,Y,50.45%,427,181
+sc,1401,Clarendon 01,1,Scott's Branch High,62.44%,,Y,69.06%,386,241
+sc,1401,Clarendon 01,5,St. Paul Primary,70.06%,,Y,69.06%,167,117
+sc,1401,Clarendon 01,22,Summerton Early Childhood Center,74.11%,,Y,69.06%,197,146
+sc,1402,Clarendon 02,7,Manning High,49.94%,,Y,63.82%,831,415
+sc,1402,Clarendon 02,11,Manning Junior High,58.64%,,Y,63.82%,457,268
+sc,1402,Clarendon 02,12,Manning Primary,67.25%,,Y,63.82%,400,269
+sc,1402,Clarendon 02,13,Manning Elementary,62.29%,,Y,63.82%,663,413
+sc,1402,Clarendon 02,14,Manning Early Childhood Ctr,63.51%,,Y,63.82%,518,329
+sc,1402,Clarendon 02,610,The Phoenix Center,60.61%,,Y,63.82%,33,20
+sc,1403,Clarendon 03,16,East Clarendon Middle & High,37.60%,,N,,742,279
+sc,1403,Clarendon 03,19,Walker Gamble Elem,41.39%,,N,,575,238
+sc,1501,Colleton County,2,Colleton Middle,53.83%,,Y,61.55%,1265,681
+sc,1501,Colleton County,5,Colleton High,45.57%,,Y,61.55%,1501,684
+sc,1501,Colleton County,6,Bells Elementary,72.38%,,Y,61.55%,344,249
+sc,1501,Colleton County,8,Black Street Elementary,61.14%,,Y,61.55%,404,247
+sc,1501,Colleton County,11,Cottageville Elementary,58.53%,,Y,61.55%,545,319
+sc,1501,Colleton County,12,Forest Hill Elementary,57.53%,,Y,61.55%,624,359
+sc,1501,Colleton County,20,Northside Elementary,59.46%,,Y,61.55%,555,330
+sc,1501,Colleton County,21,Hendersonville Elementary,74.44%,,Y,61.55%,360,268
+sc,1601,Darlington County,4,Hartsville Jr High,44.97%,,Y,56.50%,1074,483
+sc,1601,Darlington County,5,Hartsville High,36.33%,,Y,56.50%,1178,428
+sc,1601,Darlington County,6,Lamar Elementary & High,50.28%,,Y,56.50%,545,274
+sc,1601,Darlington County,10,Spaulding Elementary & Jr High,55.85%,,Y,56.50%,496,277
+sc,1601,Darlington County,13,Brockington Elementary,62.16%,,Y,56.50%,444,276
+sc,1601,Darlington County,14,Cain Elementary,74.39%,,Y,56.50%,289,215
+sc,1601,Darlington County,15,Carolina Elementary,29.93%,,Y,56.50%,274,82
+sc,1601,Darlington County,17,North Hartsville Elementary,43.16%,,Y,56.50%,614,265
+sc,1601,Darlington County,18,Pate Elementary,64.60%,,Y,56.50%,404,261
+sc,1601,Darlington County,20,Rosenwald/St. David's Elem,68.39%,,Y,56.50%,155,106
+sc,1601,Darlington County,24,Brunson-Dargan Elementary,73.16%,,Y,56.50%,231,169
+sc,1601,Darlington County,26,St. John's Elementary,55.07%,,Y,56.50%,621,342
+sc,1601,Darlington County,27,Thornwell School for the Arts,68.42%,,Y,56.50%,323,221
+sc,1601,Darlington County,28,West Hartsville Elementary,68.69%,,Y,56.50%,214,147
+sc,1601,Darlington County,29,Washington Street Elementary,73.99%,,Y,56.50%,296,219
+sc,1601,Darlington County,30,Darlington High,47.38%,,Y,56.50%,1070,507
+sc,1601,Darlington County,31,Darlington Junior High,57.17%,,Y,56.50%,1018,582
+sc,1601,Darlington County,32,Southside Elementary Cdc,64.61%,,Y,56.50%,438,283
+sc,1601,Darlington County,33,Mayo High For Ms&T,23.10%,,Y,56.50%,277,64
+sc,1703,Dillon 03,19,Latta High,34.71%,,N,,461,160
+sc,1703,Dillon 03,21,Latta Middle,39.79%,,N,,475,189
+sc,1703,Dillon 03,23,Latta Early Childhood,53.48%,,N,,660,353
+sc,1704,Dillon 04,2,Lake View High School,45.75%,,Y,66.53%,529,242
+sc,1704,Dillon 04,3,Lake View Elementary,57.82%,,Y,66.53%,377,218
+sc,1704,Dillon 04,5,Dillon High School,57.49%,,Y,66.53%,821,472
+sc,1704,Dillon 04,7,East Elementary School,67.41%,,Y,66.53%,491,331
+sc,1704,Dillon 04,8,South Elementary School,78.00%,,Y,66.53%,250,195
+sc,1704,Dillon 04,9,Gordon Elementary School,67.36%,,Y,66.53%,530,357
+sc,1704,Dillon 04,10,Dillon Middle,65.84%,,Y,66.53%,685,451
+sc,1704,Dillon 04,11,Stewart Heights Elementary School,76.63%,,Y,66.53%,398,305
+sc,1802,Dorchester 02,6,Summerville High,23.11%,,N,,,
+sc,1802,Dorchester 02,7,Knightsville Elementary,23.76%,,N,,,
+sc,1802,Dorchester 02,9,Summerville Elem,32.86%,,N,,566,186
+sc,1802,Dorchester 02,10,Spann Elementary,33.53%,,N,,686,230
+sc,1802,Dorchester 02,11,Alston Middle School,32.60%,,N,,773,252
+sc,1802,Dorchester 02,13,Newington & Flowertown Elementary,36.10%,,N,,1820,657
+sc,1802,Dorchester 02,16,Dubose Middle,25.14%,,N,,,
+sc,1802,Dorchester 02,19,Windsor Hill Elem,40.91%,,Y,44.20%,836,342
+sc,1802,Dorchester 02,20,Fort Dorchester High,22.20%,,N,,,
+sc,1802,Dorchester 02,21,Beech Hill Elem,12.41%,,N,,,
+sc,1802,Dorchester 02,22,Gregg Middle,26.00%,,N,,,
+sc,1802,Dorchester 02,23,Fort Dorchester Elementary,12.63%,,N,,,
+sc,1802,Dorchester 02,24,William Reeves Elementary,21.12%,,N,,,
+sc,1802,Dorchester 02,27,Ashley Ridge High,15.95%,,N,,,
+sc,1802,Dorchester 02,28,Joseph R. Pye Elementary,18.72%,,N,,,
+sc,1802,Dorchester 02,29,Sand Hill Elementary School & Rollings Middle School of the Arts,14.76%,,N,,,
+sc,1802,Dorchester 02,30,Dr. Eugene Sires Elementary School,27.53%,,N,,,
+sc,1802,Dorchester 02,31,Alston-Bailey Elementary School,39.36%,,N,,813,320
+sc,1802,Dorchester 02,35,Oakbrook Elem & Middle,28.62%,,N,,,
+sc,1802,Dorchester 02,51,Eagles Nest Elem/River Oaks Middle,36.31%,,N,,1768,642
+sc,1802,Dorchester 02,401,Givhans Community School,56.94%,,Y,44.20%,216,123
+sc,1804,Dorchester 04,16,Harleyville Ridgeville Elem,86.25%,,Y,63.87%,240,207
+sc,1804,Dorchester 04,17,St. George Middle,56.56%,,Y,63.87%,320,181
+sc,1804,Dorchester 04,18,Williams Memorial Elem,62.78%,,Y,63.87%,720,452
+sc,1804,Dorchester 04,19,Woodlands High,41.09%,,Y,41.09%,645,265
+sc,1804,Dorchester 04,20,Clay Hill Elementary,60.37%,,Y,63.87%,164,99
+sc,1804,Dorchester 04,22,Harleyville-Ridgeville Middle,54.29%,,Y,63.87%,175,95
+sc,1901,Edgefield County,2,Strom Thurmond High,33.33%,,N,,783,261
+sc,1901,Edgefield County,3,Douglas Elementary,59.80%,,N,,199,119
+sc,1901,Edgefield County,5,Johnston Elementary,60.21%,,N,,284,171
+sc,1901,Edgefield County,7,W. E. Parker Elementary,45.58%,,N,,430,196
+sc,1901,Edgefield County,8,Merriwether Elementary,34.82%,,N,,787,274
+sc,1901,Edgefield County,9,J.E.T. Middle,41.34%,,N,,479,198
+sc,1901,Edgefield County,10,Merriwether Middle,25.98%,,N,,,
+sc,2001,Fairfield County,1,Fairfield Middle,57.01%,,Y,65.77%,421,240
+sc,2001,Fairfield County,8,Kelly Miller Elementary,66.97%,,Y,65.77%,221,148
+sc,2001,Fairfield County,9,Mccrorey Liston Elementary,67.12%,,Y,65.77%,146,98
+sc,2001,Fairfield County,12,Geiger Elementary,59.66%,,Y,65.77%,295,176
+sc,2001,Fairfield County,13,Fairfield Central High,51.07%,,Y,65.77%,699,357
+sc,2001,Fairfield County,14,Fairfield Prim,83.33%,,Y,65.77%,576,480
+sc,2001,Fairfield County,15,Fairfield Magnet for Math and Science,58.09%,,Y,65.77%,241,140
+sc,2001,Fairfield County,402,Alternative,0.00%,,Y,65.77%,35,0
+sc,2101,Florence 01,2,John W. Moore Middle School,32.90%,,N,,915,301
+sc,2101,Florence 01,4,South Florence High,33.25%,,N,,1627,541
+sc,2101,Florence 01,5,Williams Middle,46.04%,,N,,908,418
+sc,2101,Florence 01,6,Wilson High,42.02%,,N,,1166,490
+sc,2101,Florence 01,8,Briggs Elementary,42.83%,,N,,579,248
+sc,2101,Florence 01,9,Carver Elementary,40.27%,,N,,519,209
+sc,2101,Florence 01,10,Delmae Elementary,31.41%,,N,,764,240
+sc,2101,Florence 01,11,Greenwood Elementary,53.19%,,Y,60.23%,767,408
+sc,2101,Florence 01,12,Mclaurin Elem,39.29%,,N,,761,299
+sc,2101,Florence 01,13,Lester Elementary,65.99%,,Y,60.23%,347,229
+sc,2101,Florence 01,14,West Florence High,25.34%,,N,,,
+sc,2101,Florence 01,16,North Vista Elementary,71.53%,,Y,60.23%,685,490
+sc,2101,Florence 01,17,Royall Elementary,35.69%,,N,,580,207
+sc,2101,Florence 01,18,Savannah Grove Elementary,50.91%,,Y,60.23%,658,335
+sc,2101,Florence 01,19,D.L. Carter Elem,55.17%,,Y,60.23%,803,443
+sc,2101,Florence 01,20,Timrod Elementary,66.42%,,Y,60.23%,399,265
+sc,2101,Florence 01,21,Wallace Gregg Elementary,68.46%,,Y,60.23%,409,280
+sc,2101,Florence 01,22,Southside Middle,39.06%,,N,,896,350
+sc,2101,Florence 01,50,Henry L Sneed Middle,32.41%,,N,,870,282
+sc,2101,Florence 01,51,Lucy T. Davis Elementary,34.10%,,N,,519,177
+sc,2101,Florence 01,802,Alfred Rush Academy,66.67%,,N,,72,48
+sc,2101,Florence 01,803,Child Development Center at Woods Road,57.48%,,N,,214,123
+sc,2102,Florence 02,24,Hannah-Pamplico High,36.05%,,N,,380,137
+sc,2102,Florence 02,28,Hannah-Pamplico Elem/Middle,51.11%,,Y,51.11%,767,392
+sc,2103,Florence 03,29,Lake City High,57.27%,,Y,67.41%,812,465
+sc,2103,Florence 03,36,J. C. Lynch Elementary,59.14%,,Y,67.41%,443,262
+sc,2103,Florence 03,37,Olanta Elementary,70.27%,,Y,67.41%,222,156
+sc,2103,Florence 03,39,Scranton Elementary,55.42%,,Y,67.41%,480,266
+sc,2103,Florence 03,50,Lake City Early Childhood Center,78.54%,,Y,67.41%,396,311
+sc,2103,Florence 03,51,Main Street Elementary,80.05%,,Y,67.41%,411,329
+sc,2103,Florence 03,53,Ronald E. McNair Jr. High,49.01%,,Y,67.41%,253,124
+sc,2103,Florence 03,54,J. Paul Truluck Creative Arts and Science Magnet,72.25%,,Y,67.41%,382,276
+sc,2103,Florence 03,401,Lifelong Learning Center,0.00%,,Y,67.41%,,
+sc,2104,Florence 04,44,Timmonsville Education Center,69.79%,,Y,78.08%,715,499
+sc,2105,Florence 05,45,Johnsonville High,31.52%,,N,,330,104
+sc,2105,Florence 05,47,Johnsonville Elem,44.75%,,Y,54.96%,543,243
+sc,2105,Florence 05,49,Johnsonville Middle,42.06%,,Y,54.96%,378,159
+sc,2201,Georgetown County,1,Andrews High,46.40%,,Y,40.00%,556,258
+sc,2201,Georgetown County,4,Georgetown High,39.54%,,N,,923,365
+sc,2201,Georgetown County,8,Andrews Elementary,62.64%,,Y,62.64%,803,503
+sc,2201,Georgetown County,9,Browns Ferry Elementary,73.56%,,Y,62.64%,174,128
+sc,2201,Georgetown County,12,Pleasant Hill Elementary,50.28%,,Y,40.00%,362,182
+sc,2201,Georgetown County,13,Georgetown Middle,44.78%,,Y,49.94%,757,339
+sc,2201,Georgetown County,14,Kensington Elementary,52.68%,,Y,49.94%,615,324
+sc,2201,Georgetown County,15,Maryville Elementary,52.92%,,Y,49.94%,531,281
+sc,2201,Georgetown County,16,Mcdonald Elementary,60.41%,,Y,62.64%,485,293
+sc,2201,Georgetown County,20,Plantersville Elementary,82.76%,,Y,62.64%,87,72
+sc,2201,Georgetown County,22,Rosemary Middle,51.44%,,Y,49.94%,418,215
+sc,2201,Georgetown County,23,Sampit Elementary,62.27%,,Y,62.64%,326,203
+sc,2201,Georgetown County,24,Waccamaw Elementary,23.84%,,Y,40.00%,562,134
+sc,2201,Georgetown County,25,Waccamaw High,16.39%,,N,,,
+sc,2201,Georgetown County,26,Carvers Bay High,45.00%,,Y,40.00%,360,162
+sc,2201,Georgetown County,27,Carvers Bay Middle,54.69%,,Y,62.64%,309,169
+sc,2201,Georgetown County,28,Waccamaw Middle,20.68%,,N,,,
+sc,2201,Georgetown County,29,Waccamaw Intermediate,22.92%,,N,,,
+sc,2301,Greenville County,2,Berea High,45.10%,,Y,43.23%,1051,474
+sc,2301,Greenville County,3,Blue Ridge High,15.65%,,N,,,
+sc,2301,Greenville County,5,Carolina High,43.45%,,Y,43.23%,725,315
+sc,2301,Greenville County,6,Eastside High,11.32%,,N,,,
+sc,2301,Greenville County,8,Greenville High,25.95%,,N,,,
+sc,2301,Greenville County,9,Greer High,25.77%,,N,,,
+sc,2301,Greenville County,10,Wade Hampton High,17.85%,,N,,,
+sc,2301,Greenville County,11,Hillcrest Middle,17.48%,,N,,,
+sc,2301,Greenville County,12,Hillcrest High,18.14%,,N,,,
+sc,2301,Greenville County,13,Mann High,16.60%,,N,,,
+sc,2301,Greenville County,14,Mauldin High,12.79%,,N,,,
+sc,2301,Greenville County,17,Riverside High,8.14%,,N,,,
+sc,2301,Greenville County,18,Southside High,28.77%,,N,,,
+sc,2301,Greenville County,20,Travelers Rest High,16.20%,,N,,,
+sc,2301,Greenville County,23,Woodmont High,19.22%,,N,,,
+sc,2301,Greenville County,24,Bryson Middle,28.94%,,N,,,
+sc,2301,Greenville County,27,Gateway Elementary,30.63%,,N,,728,223
+sc,2301,Greenville County,28,Alexander Elementary,59.72%,,Y,62.46%,422,252
+sc,2301,Greenville County,29,Beck Middle,23.51%,,N,,,
+sc,2301,Greenville County,30,Brook Glenn Elementary,40.86%,,N,,421,172
+sc,2301,Greenville County,31,Armstrong Elementary,46.47%,,Y,50.36%,439,204
+sc,2301,Greenville County,34,Augusta Circle Elementary,5.78%,,N,,,
+sc,2301,Greenville County,36,Berea Elementary,52.46%,,Y,50.36%,488,256
+sc,2301,Greenville County,37,Bethel Elementary,22.83%,,N,,,
+sc,2301,Greenville County,38,Blythe Academy,27.42%,,N,,,
+sc,2301,Greenville County,39,Brushy Creek Elementary,17.85%,,N,,,
+sc,2301,Greenville County,40,Bryson Elementary,27.01%,,N,,,
+sc,2301,Greenville County,42,Berea Middle,51.76%,,Y,50.36%,794,411
+sc,2301,Greenville County,43,Sue Cleveland Elementary,58.25%,,Y,62.46%,606,353
+sc,2301,Greenville County,44,Sara Collins Elementary,24.03%,,N,,,
+sc,2301,Greenville County,46,Plain Elementary,14.90%,,N,,,
+sc,2301,Greenville County,47,Crestview Elementary,37.52%,,N,,709,266
+sc,2301,Greenville County,51,Duncan Chapel Elementary,51.22%,,Y,62.46%,658,337
+sc,2301,Greenville County,52,Woodmont Middle,33.01%,,N,,712,235
+sc,2301,Greenville County,54,East North Street Elem,47.42%,,Y,50.36%,774,367
+sc,2301,Greenville County,57,Fork Shoals Elementary,19.92%,,N,,,
+sc,2301,Greenville County,58,Fountain Inn Elem,40.14%,,N,,740,297
+sc,2301,Greenville County,59,Greenville Middle,21.95%,,N,,,
+sc,2301,Greenville County,60,Greer Middle,35.07%,,N,,978,343
+sc,2301,Greenville County,61,Hollis Elementary,69.88%,,Y,62.46%,747,522
+sc,2301,Greenville County,62,Hughes Middle,32.20%,,N,,1031,332
+sc,2301,Greenville County,63,Lake Forest Elementary,40.78%,,N,,797,325
+sc,2301,Greenville County,66,Lakeview Middle,58.89%,,Y,62.46%,669,394
+sc,2301,Greenville County,67,Mauldin Elementary,31.45%,,N,,1008,317
+sc,2301,Greenville County,68,Mitchell Road Elementary,25.52%,,N,,,
+sc,2301,Greenville County,69,Monaview Elementary,57.12%,,Y,62.46%,611,349
+sc,2301,Greenville County,71,Mountain View Elementary,19.08%,,N,,,
+sc,2301,Greenville County,74,Northwood Middle,23.64%,,N,,,
+sc,2301,Greenville County,76,Paris Elementary,21.42%,,N,,,
+sc,2301,Greenville County,77,Northwest Middle,30.30%,,N,,845,256
+sc,2301,Greenville County,78,League Middle,24.97%,,N,,,
+sc,2301,Greenville County,79,Pelham Road Elementary,11.21%,,N,,,
+sc,2301,Greenville County,81,Simpsonville Elementary,28.39%,,N,,,
+sc,2301,Greenville County,83,Skyland Elementary,18.86%,,N,,,
+sc,2301,Greenville County,84,Slater-Marietta Elementary,40.52%,,Y,43.23%,422,171
+sc,2301,Greenville County,85,Stone Elementary,14.92%,,N,,,
+sc,2301,Greenville County,86,Sevier Middle,27.37%,,N,,,
+sc,2301,Greenville County,87,Summit Drive Elementary,25.43%,,N,,,
+sc,2301,Greenville County,88,Tanglewood Middle,50.13%,,Y,50.36%,796,399
+sc,2301,Greenville County,89,Taylors Elementary,29.84%,,N,,,
+sc,2301,Greenville County,90,Tigerville Elementary,23.13%,,N,,,
+sc,2301,Greenville County,93,Buena Vista Elementary,15.44%,,N,,,
+sc,2301,Greenville County,95,Welcome Elementary,63.26%,,Y,62.46%,694,439
+sc,2301,Greenville County,98,Westcliffe Elementary,47.52%,,Y,50.36%,303,144
+sc,2301,Greenville County,99,Woodland Elementary,18.77%,,N,,,
+sc,2301,Greenville County,100,Ellen Woodside Elementary,31.99%,,N,,719,230
+sc,2301,Greenville County,101,Greenbrier Elementary,25.60%,,N,,,
+sc,2301,Greenville County,104,Grove Elementary,54.57%,,Y,50.36%,667,364
+sc,2301,Greenville County,106,Blue Ridge Middle,17.51%,,N,,,
+sc,2301,Greenville County,107,Heritage Elementary,30.72%,,N,,625,192
+sc,2301,Greenville County,108,Oakview Elementary,9.96%,,N,,,
+sc,2301,Greenville County,109,Chandler Creek Elem,42.24%,,Y,43.23%,980,414
+sc,2301,Greenville County,110,Mauldin Middle,18.77%,,N,,,
+sc,2301,Greenville County,111,Riverside Middle,11.68%,,N,,,
+sc,2301,Greenville County,112,Bells Crossing,10.53%,,N,,,
+sc,2301,Greenville County,113,Robert Cashion Elementary,43.24%,,N,,703,304
+sc,2301,Greenville County,114,Cherrydale Elementary,77.19%,,Y,62.46%,675,521
+sc,2301,Greenville County,115,Thomas Kerns Elementary,63.55%,,Y,62.46%,642,408
+sc,2301,Greenville County,116,Sterling School,41.04%,,N,,792,325
+sc,2301,Greenville County,117,Rudolph G. Gordon School at Jones Mill,12.50%,,N,,,
+sc,2301,Greenville County,118,Ralph Chandler Middle,20.88%,,N,,,
+sc,2301,Greenville County,119,AJ Wittenburg Elementary,38.76%,,N,,547,212
+sc,2301,Greenville County,120,Monarch Elementary,9.24%,,N,,,
+sc,2301,Greenville County,121,Phinnize J. Fisher Middle,21.08%,,N,,,
+sc,2301,Greenville County,401,Overbrook Child Dev Prog,44.69%,,N,,980,438
+sc,2301,Greenville County,402,Washington Center,28.91%,,N,,,
+sc,2301,Greenville County,405,West Greenville,51.02%,,Y,50.36%,98,50
+sc,2301,Greenville County,406,Greenview CDC,54.37%,,N,,252,137
+sc,2301,Greenville County,462,Riley CDC,37.86%,,N,,140,53
+sc,2450,Greenwood 50,1,Emerald High,38.45%,,Y,41.23%,853,328
+sc,2450,Greenwood 50,2,Greenwood High,32.32%,,Y,41.23%,1510,488
+sc,2450,Greenwood 50,3,Northside Middle,43.75%,,Y,47.54%,704,308
+sc,2450,Greenwood 50,8,Rice Elementary,58.26%,,Y,55.69%,551,321
+sc,2450,Greenwood 50,9,Lakeview Elementary,44.15%,,Y,47.54%,650,287
+sc,2450,Greenwood 50,11,Mathews Elementary,66.03%,,Y,55.69%,527,348
+sc,2450,Greenwood 50,12,Merrywood Elementary,49.17%,,Y,55.69%,539,265
+sc,2450,Greenwood 50,14,Pinecrest Elementary,59.62%,,Y,55.69%,473,282
+sc,2450,Greenwood 50,16,Hodges Elementary,29.38%,,Y,47.54%,337,99
+sc,2450,Greenwood 50,17,Brewer Middle,42.39%,,Y,47.54%,703,298
+sc,2450,Greenwood 50,18,Woodfields Elementary,53.21%,,Y,55.69%,624,332
+sc,2450,Greenwood 50,28,Springfield Elementary,47.42%,,Y,55.69%,582,276
+sc,2450,Greenwood 50,29,Westview Middle,47.35%,,Y,41.23%,678,321
+sc,2450,Greenwood 50,800,GWD 50 Early Childhood Center,60.59%,,Y,55.69%,236,143
+sc,2451,Greenwood 51,20,Ware Shoals High,32.03%,,N,,256,82
+sc,2451,Greenwood 51,22,Ware Shoals Primary,56.07%,,Y,54.64%,428,240
+sc,2451,Greenwood 51,23,Ware Shoals Elementary,49.47%,,Y,54.64%,283,140
+sc,2452,Greenwood 52,25,Ninety Six High,23.85%,,N,,,
+sc,2452,Greenwood 52,26,Edgewood Middle,32.64%,,N,,383,125
+sc,2452,Greenwood 52,27,Ninety Six Elementary,39.89%,,N,,351,140
+sc,2452,Greenwood 52,28,Ninety Six Primary School,43.34%,,N,,383,166
+sc,2501,Hampton 01,1,Wade Hampton High,40.53%,,Y,40.53%,607,246
+sc,2501,Hampton 01,4,Brunson Elementary,42.37%,,Y,46.51%,177,75
+sc,2501,Hampton 01,6,Hampton Elementary,58.42%,,Y,58.80%,368,215
+sc,2501,Hampton 01,8,North District Middle,48.55%,,Y,46.51%,346,168
+sc,2501,Hampton 01,9,Varnville Elementary,56.12%,,Y,58.80%,294,165
+sc,2501,Hampton 01,10,Fennell Elementary,65.47%,,Y,58.80%,139,91
+sc,2501,Hampton 01,18,Ben Hazel Elementary,46.59%,,Y,46.51%,279,130
+sc,2502,Hampton 02,11,Estill High,60.89%,,Y,69.72%,179,109
+sc,2502,Hampton 02,14,Estill Middle,62.64%,,Y,69.72%,174,109
+sc,2502,Hampton 02,17,Estill Elementary,59.52%,,Y,69.72%,336,200
+sc,2601,Horry County,1,Aynor High,19.53%,,N,,,
+sc,2601,Horry County,2,North Myrtle Beach High,23.80%,,N,,,
+sc,2601,Horry County,4,Conway High,34.53%,,N,,1642,567
+sc,2601,Horry County,6,Green Sea Floyds High,42.67%,,Y,55.18%,689,294
+sc,2601,Horry County,8,Loris High,38.31%,,N,,851,326
+sc,2601,Horry County,10,Myrtle Beach High,32.38%,,N,,1575,510
+sc,2601,Horry County,11,Socastee High,20.40%,,N,,,
+sc,2601,Horry County,13,Whittemore Park Middle,56.03%,,Y,55.18%,730,409
+sc,2601,Horry County,14,Aynor Elementary,35.51%,,N,,856,304
+sc,2601,Horry County,16,Myrtle Beach Middle,43.42%,,Y,55.18%,1140,495
+sc,2601,Horry County,17,Conway Middle,37.54%,,N,,666,250
+sc,2601,Horry County,21,Daisy Elementary,58.13%,,Y,55.18%,621,361
+sc,2601,Horry County,23,Green Sea Floyds El,55.96%,,Y,55.18%,579,324
+sc,2601,Horry County,25,Homewood Elementary,57.10%,,Y,55.18%,676,386
+sc,2601,Horry County,27,Loris Middle,51.12%,,Y,55.18%,671,343
+sc,2601,Horry County,28,Kingston Elementary,36.09%,,N,,460,166
+sc,2601,Horry County,29,Lakewood Elementary,30.06%,,N,,1068,321
+sc,2601,Horry County,30,St. James Elem,20.97%,,N,,,
+sc,2601,Horry County,32,Loris Elementary,59.03%,,Y,55.18%,825,487
+sc,2601,Horry County,33,Midland Elementary,42.70%,,N,,548,234
+sc,2601,Horry County,34,Myrtle Beach Elementary,48.22%,,Y,55.18%,647,312
+sc,2601,Horry County,35,Myrtle Beach Primary,51.73%,,Y,55.18%,839,434
+sc,2601,Horry County,36,Conway Elementary,37.89%,,N,,805,305
+sc,2601,Horry County,37,North Myrtle Beach Middle,33.28%,,N,,1211,403
+sc,2601,Horry County,39,Pee Dee Elementary,51.37%,,Y,55.18%,802,412
+sc,2601,Horry County,42,Waccamaw Elementary,48.07%,,Y,55.18%,882,424
+sc,2601,Horry County,45,South Conway Elementary,52.05%,,Y,55.18%,609,317
+sc,2601,Horry County,46,Forestbrook Elementary,28.67%,,N,,,
+sc,2601,Horry County,47,Saint James Middle,22.99%,,N,,,
+sc,2601,Horry County,49,Carolina Forest El,24.22%,,N,,,
+sc,2601,Horry County,50,Seaside Elementary,33.21%,,N,,530,176
+sc,2601,Horry County,51,Forestbrook Middle,30.92%,,N,,896,277
+sc,2601,Horry County,52,Carolina Forest High,20.59%,,N,,,
+sc,2601,Horry County,53,Myrtle Beach Inter,47.72%,,Y,55.18%,767,366
+sc,2601,Horry County,54,Socastee Elem,45.77%,,Y,55.18%,874,400
+sc,2601,Horry County,56,Palmetto Bays El,44.27%,,Y,55.18%,637,282
+sc,2601,Horry County,57,Aynor Middle,33.61%,,N,,714,240
+sc,2601,Horry County,58,St. James High,16.95%,,N,,,
+sc,2601,Horry County,60,Ocean Bay Elementary,14.65%,,N,,,
+sc,2601,Horry County,61,Ocean Bay Middle,14.06%,,N,,,
+sc,2601,Horry County,62,Black Water Middle,45.92%,,N,,710,326
+sc,2601,Horry County,63,Burgess Elementary,30.85%,,N,,739,228
+sc,2601,Horry County,64,Early College High School,23.54%,,N,,,
+sc,2601,Horry County,65,River Oaks Elementary,23.06%,,N,,,
+sc,2601,Horry County,66,Ocean Drive Elementary,29.03%,,N,,,
+sc,2601,Horry County,67,Waterway Elementary School,37.73%,,N,,713,269
+sc,2601,Horry County,68,Riverside Elementary School,41.78%,,N,,663,277
+sc,2601,Horry County,69,Socastee Middle School,26.00%,,N,,,
+sc,2601,Horry County,70,Ten Oaks Middle School,21.20%,,N,,,
+sc,2601,Horry County,71,St. James Intermediate School,24.44%,,N,,,
+sc,2601,Horry County,76,Horry County Ed Center,69.28%,,Y,55.18%,293,203
+sc,2601,Horry County,96,"""Academy Of Arts, Science and Technology""",6.21%,,N,,,
+sc,2601,Horry County,98,Academy of Technology and Academics,36.02%,,N,,508,183
+sc,2701,Jasper County,10,Hardeeville Elementary,58.29%,,Y,62.43%,609,355
+sc,2701,Jasper County,11,Ridgeland Elem,68.00%,,Y,62.43%,897,610
+sc,2701,Jasper County,12,Ridgeland-Hardeeville Middle,67.22%,,Y,62.43%,485,326
+sc,2701,Jasper County,13,Ridgeland-Hardeeville High,54.83%,,Y,62.43%,631,346
+sc,2801,Kershaw County,3,North Central High,34.58%,,N,,428,148
+sc,2801,Kershaw County,5,Camden High,33.06%,,N,,962,318
+sc,2801,Kershaw County,7,Lugoff-Elgin High,22.39%,,N,,,
+sc,2801,Kershaw County,10,Baron Dekalb Elementary,47.96%,,N,,221,106
+sc,2801,Kershaw County,11,Bethune Elementary,62.79%,,N,,129,81
+sc,2801,Kershaw County,12,Blaney Elementary,36.86%,,N,,757,279
+sc,2801,Kershaw County,13,Jackson Elem,61.83%,,N,,545,337
+sc,2801,Kershaw County,14,Camden Middle,39.38%,,N,,833,328
+sc,2801,Kershaw County,15,Camden Elementary  School For The Arts,36.15%,,N,,520,188
+sc,2801,Kershaw County,16,Lugoff-Elgin Middle,26.71%,,N,,,
+sc,2801,Kershaw County,18,Lugoff Elementary,36.55%,,N,,550,201
+sc,2801,Kershaw County,19,Midway Elementary,54.03%,,N,,385,208
+sc,2801,Kershaw County,20,Mt. Pisgah Elementary,43.05%,,N,,151,65
+sc,2801,Kershaw County,21,Pine Tree Hill Elementary,37.09%,,N,,515,191
+sc,2801,Kershaw County,22,Wateree Elem,26.14%,,N,,,
+sc,2801,Kershaw County,23,Leslie M. Stover Middle,31.71%,,N,,637,202
+sc,2801,Kershaw County,24,Dobys Mill Elementary,35.40%,,N,,644,228
+sc,2801,Kershaw County,25,North Central Middle,46.59%,,N,,440,205
+sc,2901,Lancaster County,2,Buford High,19.43%,,N,,,
+sc,2901,Lancaster County,3,A. Rucker Middle,46.49%,,N,,555,258
+sc,2901,Lancaster County,6,Indian Land High,8.36%,,N,,,
+sc,2901,Lancaster County,7,Andrew Jackson High,22.79%,,N,,,
+sc,2901,Lancaster County,8,Lancaster High,37.37%,,N,,1188,444
+sc,2901,Lancaster County,10,South Middle,50.92%,,N,,595,303
+sc,2901,Lancaster County,11,Brooklyn Springs Elementary,68.15%,,N,,471,321
+sc,2901,Lancaster County,12,Buford Elementary,35.46%,,N,,722,256
+sc,2901,Lancaster County,14,North Elementary,41.17%,,N,,702,289
+sc,2901,Lancaster County,15,Clinton Elementary,79.04%,,N,,520,411
+sc,2901,Lancaster County,17,Erwin Elementary,59.52%,,N,,420,250
+sc,2901,Lancaster County,19,Heath Springs Elementary,40.43%,,N,,418,169
+sc,2901,Lancaster County,21,Indian Land Elementary,6.36%,,N,,,
+sc,2901,Lancaster County,23,Kershaw Elementary,52.70%,,N,,482,254
+sc,2901,Lancaster County,24,McDonald Green Elementary,43.57%,,N,,420,183
+sc,2901,Lancaster County,27,Andrew Jackson Middle,31.73%,,N,,498,158
+sc,2901,Lancaster County,28,Buford Middle,29.58%,,N,,,
+sc,2901,Lancaster County,29,Indian Land Middle,8.22%,,N,,,
+sc,2901,Lancaster County,30,Harrisburg Elementary,6.96%,,N,,,
+sc,2901,Lancaster County,31,Van Wyck Elementary School,9.25%,,N,,,
+sc,3055,Laurens 55,4,Laurens District 55 High,33.29%,,Y,40.07%,1436,478
+sc,3055,Laurens 55,5,Laurens Middle School,40.42%,,Y,58.08%,433,175
+sc,3055,Laurens 55,6,Ford Elementary School,62.18%,,Y,58.08%,513,319
+sc,3055,Laurens 55,10,E B Morse Elementary,46.08%,,Y,58.08%,536,247
+sc,3055,Laurens 55,11,Laurens Elementary,44.95%,,Y,58.08%,643,289
+sc,3055,Laurens 55,13,Sanders Middle School,48.46%,,Y,40.07%,390,189
+sc,3055,Laurens 55,14,Waterloo Elementary,50.79%,,Y,58.08%,254,129
+sc,3055,Laurens 55,16,Gray Court- Owings School,56.78%,,Y,58.08%,789,448
+sc,3055,Laurens 55,17,Hickory Tavern School,34.11%,,Y,40.07%,686,234
+sc,3056,Laurens 56,16,Clinton High,49.28%,,Y,63.84%,828,408
+sc,3056,Laurens 56,17,Bell Street Middle,52.96%,,Y,63.84%,693,367
+sc,3056,Laurens 56,18,M S Bailey Elementary,57.28%,,Y,63.84%,103,59
+sc,3056,Laurens 56,19,Clinton Elementary,57.24%,,Y,63.84%,594,340
+sc,3056,Laurens 56,22,Joanna-Woodson Elementary,57.23%,,Y,63.84%,339,194
+sc,3056,Laurens 56,23,Eastside Elementary,60.69%,,Y,63.84%,491,298
+sc,3101,Lee County,7,Bishopville Primary,73.12%,,Y,80.90%,465,340
+sc,3101,Lee County,11,Lower Lee Elementary,82.13%,,Y,80.90%,207,170
+sc,3101,Lee County,12,West Lee Elementary,86.45%,,Y,80.90%,155,134
+sc,3101,Lee County,13,Lee Central High,86.21%,,Y,80.90%,580,500
+sc,3101,Lee County,15,Lee Central Middle School,79.59%,,Y,80.90%,441,351
+sc,3201,Lexington 01,1,Gilbert High,21.28%,,N,,,
+sc,3201,Lexington 01,3,Lexington High,9.77%,,N,,,
+sc,3201,Lexington 01,4,Pelion High,37.30%,,N,,673,251
+sc,3201,Lexington 01,5,Gilbert Elementary,35.72%,,N,,753,269
+sc,3201,Lexington 01,6,Rosenwald Comm Learning Center,0.00%,,N,,,
+sc,3201,Lexington 01,7,Lexington Elementary,28.07%,,N,,,
+sc,3201,Lexington 01,8,Pelion Elementary,50.46%,,N,,656,331
+sc,3201,Lexington 01,9,Oak Grove Elementary,31.18%,,N,,757,236
+sc,3201,Lexington 01,10,Lexington Middle,15.44%,,N,,,
+sc,3201,Lexington 01,11,Red Bank Elementary,28.55%,,N,,,
+sc,3201,Lexington 01,49,White Knoll Elementary,31.99%,,N,,719,230
+sc,3201,Lexington 01,52,Saxe Gotha Elem,38.19%,,N,,783,299
+sc,3201,Lexington 01,53,White Knoll Middle,31.81%,,N,,811,258
+sc,3201,Lexington 01,54,Gilbert Middle,27.96%,,N,,,
+sc,3201,Lexington 01,55,Midway Elem,5.15%,,N,,,
+sc,3201,Lexington 01,56,Lake Murray Elem,9.93%,,N,,,
+sc,3201,Lexington 01,57,White Knoll High,21.80%,,N,,,
+sc,3201,Lexington 01,58,Pelion Middle,41.92%,,N,,582,244
+sc,3201,Lexington 01,59,Gilbert Primary,33.05%,,N,,823,272
+sc,3201,Lexington 01,60,Pleasant Hill Elementary,9.51%,,N,,,
+sc,3201,Lexington 01,61,Pleasant Hill Middle,10.44%,,N,,,
+sc,3201,Lexington 01,62,Carolina Springs Elementary,26.98%,,N,,,
+sc,3201,Lexington 01,63,Carolina Springs Middle,23.35%,,N,,,
+sc,3201,Lexington 01,64,Forts Pond Elementary,50.51%,,N,,588,297
+sc,3201,Lexington 01,65,New Providence Elementary,9.76%,,N,,,
+sc,3201,Lexington 01,66,Rocky Creek Elementary,11.85%,,N,,,
+sc,3201,Lexington 01,67,Meadow Glen Elementary,10.01%,,N,,,
+sc,3201,Lexington 01,68,Meadow Glen Middle,11.46%,,N,,,
+sc,3201,Lexington 01,69,River Bluff High,8.51%,,N,,,
+sc,3201,Lexington 01,70,Deerfield Elementary,23.54%,,N,,,
+sc,3202,Lexington 02,9,Airport High,34.99%,,N,,1269,444
+sc,3202,Lexington 02,11,B. C. High,36.40%,,N,,912,332
+sc,3202,Lexington 02,12,Fulmer Middle,45.25%,,N,,663,300
+sc,3202,Lexington 02,17,Busbee Middle,53.61%,,N,,416,223
+sc,3202,Lexington 02,19,Congaree Elementary,54.26%,,N,,446,242
+sc,3202,Lexington 02,20,Northside Middle,40.42%,,N,,626,253
+sc,3202,Lexington 02,21,Pair Education Center,62.50%,,N,,128,80
+sc,3202,Lexington 02,23,Saluda River Elementary,52.16%,,N,,324,169
+sc,3202,Lexington 02,24,Springdale Elementary,32.01%,,N,,478,153
+sc,3202,Lexington 02,26,Pineridge Middle,49.32%,,N,,438,216
+sc,3202,Lexington 02,27,Wood /Early Childhood Center,52.91%,,N,,1064,563
+sc,3202,Lexington 02,29,Cayce Elementary School,59.96%,,N,,1079,647
+sc,3202,Lexington 02,30,Riverbank Elementary,45.63%,,N,,1109,506
+sc,3203,Lexington 03,26,Batesburg-Leesville High,38.39%,,N,,560,215
+sc,3203,Lexington 03,28,Batesburg-Leesville El,47.30%,,N,,463,219
+sc,3203,Lexington 03,29,Batesburg-Leesville Middle,42.56%,,N,,430,183
+sc,3203,Lexington 03,30,Batesburg-Leesville Primary,48.65%,,N,,631,307
+sc,3204,Lexington 04,34,Swansea High,41.52%,,Y,52.01%,619,257
+sc,3204,Lexington 04,35,Frances F. Mack Intermediate,50.84%,,Y,52.01%,533,271
+sc,3204,Lexington 04,36,Sandhills Middle,47.44%,,Y,52.01%,508,241
+sc,3204,Lexington 04,37,Swansea High Freshman Academy,39.91%,,Y,52.01%,218,87
+sc,3204,Lexington 04,39,Sandhills Elementary,51.99%,,Y,52.01%,502,261
+sc,3204,Lexington 04,40,Sandhills Elementary/Primary,52.27%,,Y,52.01%,484,253
+sc,3204,Lexington 04,800,Lexington Four Early Childhood Center,55.16%,,Y,52.01%,640,353
+sc,3205,Lexington 05,38,Chapin High,5.57%,,N,,,
+sc,3205,Lexington 05,39,Irmo High,34.52%,,N,,1292,446
+sc,3205,Lexington 05,40,Irmo Middle,32.97%,,N,,919,303
+sc,3205,Lexington 05,41,Chapin Elementary,13.09%,,N,,,
+sc,3205,Lexington 05,42,Dutch Fork Elementary,35.51%,,N,,552,196
+sc,3205,Lexington 05,43,Irmo Elementary,12.90%,,N,,,
+sc,3205,Lexington 05,44,Leaphart Elementary,39.96%,,Y,47.26%,493,197
+sc,3205,Lexington 05,45,Seven Oaks Elementary,46.80%,,Y,47.26%,547,256
+sc,3205,Lexington 05,46,Crossroads Middle,28.59%,,N,,,
+sc,3205,Lexington 05,47,Nursery Road Elementary,34.06%,,Y,47.26%,458,156
+sc,3205,Lexington 05,48,Harbison West Elementary,46.27%,,Y,47.26%,657,304
+sc,3205,Lexington 05,49,H E Corley Elementary,30.73%,,N,,602,185
+sc,3205,Lexington 05,50,Chapin Intermediate,7.38%,,N,,,
+sc,3205,Lexington 05,51,Dutch Fork High,12.17%,,N,,,
+sc,3205,Lexington 05,52,Lake Murray Elementary,4.15%,,N,,,
+sc,3205,Lexington 05,53,River Springs Elementary,10.99%,,N,,,
+sc,3205,Lexington 05,54,Dutch Fork Middle,16.30%,,N,,,
+sc,3205,Lexington 05,55,Ballentine Elementary,10.68%,,N,,,
+sc,3205,Lexington 05,56,Oak Pointe Elementary,13.51%,,N,,,
+sc,3205,Lexington 05,57,Spring Hill High,4.77%,,N,,,
+sc,3205,Lexington 05,58,Chapin Middle,6.94%,,N,,,
+sc,3301,McCormick County,5,McCormick Elementary/Middle/High,66.90%,,Y,66.90%,713,477
+sc,3410,Marion County,2,Marion High,56.68%,,Y,69.49%,681,386
+sc,3410,Marion County,3,Easterling Primary,75.32%,,Y,69.49%,547,412
+sc,3410,Marion County,4,Marion Intermediate,74.87%,,Y,69.49%,581,435
+sc,3410,Marion County,7,Johnakin Middle,64.03%,,Y,69.49%,556,356
+sc,3410,Marion County,8,Mullins High,58.19%,,Y,69.49%,397,231
+sc,3410,Marion County,9,Palmetto Middle,74.19%,,Y,69.49%,310,230
+sc,3410,Marion County,10,McCormick Elementary,79.09%,,Y,69.49%,330,261
+sc,3410,Marion County,13,N Mullins Primary,80.80%,,Y,69.49%,349,282
+sc,3410,Marion County,23,Britton's Neck Elementary,84.19%,,Y,69.49%,215,181
+sc,3410,Marion County,24,Creek Bridge High,75.55%,,Y,69.49%,274,207
+sc,3410,Marion County,413,Mullins Early Childhood,67.70%,,Y,69.49%,161,109
+sc,3501,Marlboro County,12,Bennettsville Primary,52.95%,,Y,60.68%,610,323
+sc,3501,Marlboro County,20,Mccoll Elem/Middle,38.17%,,Y,60.68%,896,342
+sc,3501,Marlboro County,23,Clio Middle/Elem/Alt,49.29%,,Y,60.68%,211,104
+sc,3501,Marlboro County,25,Wallace Elem/Middle,44.17%,,Y,60.68%,566,250
+sc,3501,Marlboro County,26,Marlboro County High,35.21%,,Y,60.68%,1099,387
+sc,3501,Marlboro County,27,Blenheim Elem & Middle,53.09%,,Y,60.68%,695,369
+sc,3501,Marlboro County,28,School Of Discovery,28.33%,,Y,60.68%,180,51
+sc,3501,Marlboro County,29,Bennettsville Intermediate,54.95%,,Y,60.68%,586,322
+sc,3601,Newberry County,1,Newberry High,42.61%,,N,,704,300
+sc,3601,Newberry County,2,Mid Carolina High,18.89%,,N,,,
+sc,3601,Newberry County,5,Boundary Street Elementary,50.49%,,Y,49.70%,511,258
+sc,3601,Newberry County,9,Pomaria/Garmany Elementary,42.90%,,Y,49.70%,345,148
+sc,3601,Newberry County,10,Little Mountain Elementary,27.29%,,Y,49.70%,436,119
+sc,3601,Newberry County,15,Reuben Elementary,50.00%,,Y,49.70%,152,76
+sc,3601,Newberry County,18,Newberry Elementary,66.19%,,Y,49.70%,485,321
+sc,3601,Newberry County,19,Mid Carolina Middle/Newberry Alternative School,30.73%,,N,,641,197
+sc,3601,Newberry County,20,Newberry Middle,45.73%,,N,,715,327
+sc,3601,Newberry County,21,Whitmire Community  School,38.17%,,Y,49.70%,545,208
+sc,3601,Newberry County,22,Prosperity Elementary,36.12%,,Y,49.70%,371,134
+sc,3601,Newberry County,40,Gallman Elementary,52.42%,,Y,49.70%,454,238
+sc,3701,Oconee County,5,Seneca High,26.40%,,N,,,
+sc,3701,Oconee County,6,Walhalla Middle,28.70%,,N,,,
+sc,3701,Oconee County,7,Walhalla High,20.40%,,N,,,
+sc,3701,Oconee County,8,West Oak High,25.89%,,N,,,
+sc,3701,Oconee County,12,Keowee Elementary,26.56%,,N,,,
+sc,3701,Oconee County,13,Northside Elementary,29.24%,,N,,,
+sc,3701,Oconee County,16,Brown Elementary,47.19%,,N,,640,302
+sc,3701,Oconee County,17,Ravenel Elementary,37.04%,,N,,575,213
+sc,3701,Oconee County,20,Tamassee Elementary,36.02%,,N,,236,85
+sc,3701,Oconee County,22,Walhalla Elementary,25.21%,,N,,,
+sc,3701,Oconee County,23,Westminster Elementary,42.05%,,N,,440,185
+sc,3701,Oconee County,26,Seneca Middle,34.19%,,N,,854,292
+sc,3701,Oconee County,27,Fair Oak Elementary,36.82%,,N,,592,218
+sc,3701,Oconee County,28,Orchard Park Elementary,50.11%,,N,,453,227
+sc,3701,Oconee County,30,West Oak Middle,33.04%,,N,,672,222
+sc,3701,Oconee County,31,Blue Ridge Elementary,52.02%,,N,,619,322
+sc,3803,Orangeburg 03,18,Holly Hill Middle,74.17%,,Y,63.07%,453,336
+sc,3803,Orangeburg 03,19,Holly Hill Elem,85.98%,,Y,63.07%,435,374
+sc,3803,Orangeburg 03,21,St James Gaillard Elementary,88.32%,,Y,63.07%,334,295
+sc,3803,Orangeburg 03,22,Vance Providence Primary,96.60%,,Y,63.07%,235,227
+sc,3803,Orangeburg 03,47,Elloree Elementary,82.13%,,Y,63.07%,431,354
+sc,3803,Orangeburg 03,48,Lake Marion High School,59.23%,,Y,63.07%,672,398
+sc,3804,Orangeburg 04,24,Edisto High,43.60%,,Y,63.07%,617,269
+sc,3804,Orangeburg 04,25,Carver-Edisto Middle,53.35%,,Y,63.07%,553,295
+sc,3804,Orangeburg 04,26,Edisto Primary,67.25%,,Y,63.07%,629,423
+sc,3804,Orangeburg 04,53,Edisto Elementary,58.85%,,Y,63.07%,593,349
+sc,3804,Orangeburg 04,54,Hunter-Kinard-Tyler School,66.67%,,Y,63.07%,516,344
+sc,3804,Orangeburg 04,56,Star Learning Center,0.00%,,Y,63.07%,,
+sc,3809,Orangeburg 04,051,Lockett Elementary,,,Y,63.07%,,
+sc,3809,Orangeburg 04,049,Branchville High,31.42%,,Y,63.07%,627,197
+sc,3805,Orangeburg 05,10,Bethune-Bowman Middle/High,59.00%,,Y,63.07%,339,200
+sc,3805,Orangeburg 05,12,Bethune - Bowman Elementary,64.71%,,Y,63.07%,323,209
+sc,3805,Orangeburg 05,26,Howard Middle,74.61%,,Y,63.07%,445,332
+sc,3805,Orangeburg 05,28,Orangeburg-Wilkinson High,58.19%,,Y,63.07%,1007,586
+sc,3805,Orangeburg 05,34,Marshall Elementary,64.14%,,Y,63.07%,739,474
+sc,3805,Orangeburg 05,35,Mellichamp Elementary,80.06%,,Y,63.07%,321,257
+sc,3805,Orangeburg 05,36,Brookdale Elementary School,68.84%,,Y,63.07%,292,201
+sc,3805,Orangeburg 05,37,Clark Middle,58.55%,,Y,63.07%,719,421
+sc,3805,Orangeburg 05,38,Rivelon Elementary,79.18%,,Y,63.07%,269,213
+sc,3805,Orangeburg 05,39,Sheridan Elementary,66.67%,,Y,63.07%,519,346
+sc,3805,Orangeburg 05,40,Whittaker Elementary,75.59%,,Y,63.07%,463,350
+sc,3805,Orangeburg 05,42,North High School,46.80%,,Y,63.07%,250,117
+sc,3805,Orangeburg 05,44,Dover Elementary,62.75%,,Y,63.07%,298,187
+sc,3805,Orangeburg 05,406,Technology Center,0.00%,,Y,63.07%,,
+sc,3805,Orangeburg 05,601,HS For Health Professions,26.54%,,Y,63.07%,373,99
+sc,3901,Pickens County,1,Dacusville Middle,29.88%,,N,,,
+sc,3901,Pickens County,2,Edwards Middle,20.31%,,N,,,
+sc,3901,Pickens County,3,Daniel Senior High,13.33%,,N,,,
+sc,3901,Pickens County,4,Richard H Gettys Middle,33.95%,,N,,1361,462
+sc,3901,Pickens County,5,Easley Senior High,24.76%,,N,,,
+sc,3901,Pickens County,6,Liberty High,29.51%,,N,,,
+sc,3901,Pickens County,7,Pickens Middle School,34.86%,,N,,677,236
+sc,3901,Pickens County,8,Pickens Senior High,23.21%,,N,,,
+sc,3901,Pickens County,10,Ambler Elementary,27.79%,,N,,,
+sc,3901,Pickens County,14,Central Elementary,42.68%,,N,,410,175
+sc,3901,Pickens County,15,Crosswell Elementary,37.67%,,N,,645,243
+sc,3901,Pickens County,16,Dacusville El,38.83%,,N,,582,226
+sc,3901,Pickens County,17,East End Elementary,29.39%,,N,,,
+sc,3901,Pickens County,18,Forest Acres Elementary,21.83%,,N,,,
+sc,3901,Pickens County,19,Hagood Elementary,39.59%,,N,,490,194
+sc,3901,Pickens County,22,Liberty Elementary,38.24%,,N,,489,187
+sc,3901,Pickens County,23,Clemson Elementary,13.85%,,N,,,
+sc,3901,Pickens County,25,Pickens Elementary,41.73%,,N,,556,232
+sc,3901,Pickens County,27,Six Mile Elementary,27.98%,,N,,,
+sc,3901,Pickens County,28,West End Elementary,46.48%,,N,,667,310
+sc,3901,Pickens County,29,Mckissick Elementary,56.03%,,N,,489,274
+sc,3901,Pickens County,30,Liberty Middle,30.57%,,N,,530,162
+sc,3901,Pickens County,31,Chastain Road Elementary,37.01%,,N,,589,218
+sc,4001,Richland 01,2,Columbia High,58.32%,,Y,40.97%,619,361
+sc,4001,Richland 01,4,Dreher High,28.74%,,Y,40.97%,619,178
+sc,4001,Richland 01,5,Eau Claire High,71.95%,,Y,61.84%,492,354
+sc,4001,Richland 01,7,A. C. Flora High,25.85%,,Y,40.97%,,
+sc,4001,Richland 01,10,Hopkins Middle,57.99%,,Y,40.97%,457,265
+sc,4001,Richland 01,11,C A Johnson High,78.24%,,Y,40.97%,363,284
+sc,4001,Richland 01,12,Keenan High,60.97%,,Y,61.84%,702,428
+sc,4001,Richland 01,13,Lower Richland High,47.10%,,Y,40.97%,1119,527
+sc,4001,Richland 01,16,St Andrews Middle,70.51%,,Y,40.97%,712,502
+sc,4001,Richland 01,19,Alcorn Middle,72.70%,,Y,61.84%,381,277
+sc,4001,Richland 01,20,Arden Elementary,74.31%,,Y,61.84%,288,214
+sc,4001,Richland 01,24,Bradley Elementary,66.22%,,Y,61.84%,444,294
+sc,4001,Richland 01,25,Brennen Elementary,25.27%,,Y,40.97%,,
+sc,4001,Richland 01,27,Burnside Elementary,69.70%,,Y,61.84%,396,276
+sc,4001,Richland 01,31,Crayton Middle,31.45%,,Y,40.97%,1148,361
+sc,4001,Richland 01,32,Caughman Road Elementary,55.47%,,Y,61.84%,640,355
+sc,4001,Richland 01,34,W G Sanders Middle,57.62%,,Y,61.84%,512,295
+sc,4001,Richland 01,36,Gadsden Elementary,76.30%,,Y,61.84%,173,132
+sc,4001,Richland 01,37,Gibbes Middle,77.84%,,Y,61.84%,361,281
+sc,4001,Richland 01,38,A J Lewis Greenview El,66.67%,,Y,61.84%,357,238
+sc,4001,Richland 01,39,Hand Middle,40.09%,,Y,61.84%,853,342
+sc,4001,Richland 01,40,Hopkins Elementary,65.48%,,Y,61.84%,281,184
+sc,4001,Richland 01,41,Horrell Hill Elementary,56.72%,,Y,61.84%,573,325
+sc,4001,Richland 01,42,Hyatt Park Elementary,86.68%,,Y,61.84%,428,371
+sc,4001,Richland 01,45,Logan,57.58%,,Y,61.84%,297,171
+sc,4001,Richland 01,46,Meadowfield Elementary,51.89%,,Y,61.84%,713,370
+sc,4001,Richland 01,47,Mill Creek Elementary,67.53%,,Y,61.84%,348,235
+sc,4001,Richland 01,48,A C Moore Elementary,36.45%,,Y,61.84%,332,121
+sc,4001,Richland 01,53,E. E. Taylor Elementary,88.42%,,Y,61.84%,285,252
+sc,4001,Richland 01,54,Rosewood Elementary,20.96%,,Y,61.84%,,
+sc,4001,Richland 01,55,South Kilbourne Elem,77.00%,,Y,61.84%,287,221
+sc,4001,Richland 01,56,Satchel Ford Road Elementary,24.81%,,Y,61.84%,,
+sc,4001,Richland 01,59,W S Sandel Elementary,72.15%,,Y,61.84%,596,430
+sc,4001,Richland 01,60,H B Rhame Jr. Elementary,65.98%,,Y,61.84%,485,320
+sc,4001,Richland 01,62,John P Thomas Elementary,82.28%,,Y,61.84%,395,325
+sc,4001,Richland 01,64,Webber Elementary,71.18%,,Y,61.84%,229,163
+sc,4001,Richland 01,67,W A Perry Middle,85.22%,,Y,61.84%,345,294
+sc,4001,Richland 01,88,Carver/Lyon Elementary,67.84%,,Y,61.84%,370,251
+sc,4001,Richland 01,89,Burton/Pack Elementary,88.17%,,Y,61.84%,482,425
+sc,4001,Richland 01,90,Pine Grove Elementary,64.39%,,Y,61.84%,528,340
+sc,4001,Richland 01,91,Southeast Middle,57.50%,,Y,61.84%,520,299
+sc,4001,Richland 01,92,Watkins/Nance Elementary,87.92%,,Y,61.84%,356,313
+sc,4001,Richland 01,93,Forest Heights Elementary,75.25%,,Y,61.84%,505,380
+sc,4001,Richland 01,94,Brockman School,9.97%,,Y,61.84%,,
+sc,4001,Richland 01,95,Pendergrass Fairwold School,45.98%,,Y,61.84%,87,40
+sc,4001,Richland 01,97,OLYMPIA SCHOOL,0.00%,,Y,61.84%,,
+sc,4001,Richland 01,420,Richland 01 Central Kitchen,0.00%,,Y,61.84%,,
+sc,4001,Richland 01,601,Richland One Charter Middle College,32.00%,,Y,61.84%,75,24
+sc,4001,Richland 01,603,Carolina School for Inquiry,63.40%,,Y,61.84%,153,97
+sc,4002,Richland 02,69,Spring Valley High,20.50%,,N,,,
+sc,4002,Richland 02,70,Bethel-Hanberry,21.02%,,N,,,
+sc,4002,Richland 02,72,Dent Middle,41.38%,,N,,1300,538
+sc,4002,Richland 02,73,Condor Elementary,56.99%,,Y,63.29%,544,310
+sc,4002,Richland 02,74,Forest Lake Elementary,39.36%,,N,,597,235
+sc,4002,Richland 02,75,Joseph Keels Elementary,63.02%,,Y,63.29%,530,334
+sc,4002,Richland 02,76,Lonnie B Nelson Elementary,38.57%,,N,,643,248
+sc,4002,Richland 02,77,Windsor Elementary,54.04%,,Y,63.29%,581,314
+sc,4002,Richland 02,78,E L Wright Middle,28.16%,,N,,,
+sc,4002,Richland 02,79,Richland Northeast High,37.43%,,N,,1408,527
+sc,4002,Richland 02,80,North Springs Elementary,29.27%,,N,,,
+sc,4002,Richland 02,81,Pontiac Elementary,32.81%,,N,,704,231
+sc,4002,Richland 02,82,Summit Parkway Middle,25.21%,,N,,,
+sc,4002,Richland 02,83,Rice Creek Elem,29.40%,,N,,,
+sc,4002,Richland 02,84,Ridge View High,25.47%,,N,,,
+sc,4002,Richland 02,85,Blythewood Middle,13.37%,,N,,,
+sc,4002,Richland 02,86,Killian Elementary,38.10%,,N,,714,272
+sc,4002,Richland 02,87,Bookman Road Elementary,19.29%,,N,,,
+sc,4002,Richland 02,89,Lake Carolina Elementary,13.43%,,N,,,
+sc,4002,Richland 02,90,Round Top Elementary,10.97%,,N,,,
+sc,4002,Richland 02,91,Kelly Mill Middle,22.75%,,N,,,
+sc,4002,Richland 02,92,Blythewood High,12.00%,,N,,,
+sc,4002,Richland 02,93,Sandlapper Elementary,30.53%,,N,,701,214
+sc,4002,Richland 02,94,Polo Rd. Elementary,36.39%,,N,,687,250
+sc,4002,Richland 02,95,Long Leaf,29.67%,,N,,,
+sc,4002,Richland 02,96,Bridge Creek Elementary,35.71%,,N,,602,215
+sc,4002,Richland 02,97,Langford Elementary,28.45%,,N,,,
+sc,4002,Richland 02,98,Mueller Rd. Middle,16.83%,,N,,,
+sc,4002,Richland 02,100,Westwood High School,26.71%,,N,,,
+sc,4002,Richland 02,101,Catwaba Trail Elementary,26.66%,,N,,,
+sc,4002,Richland 02,102,Lake Carolina Elementary Upper Campus,12.45%,,N,,,
+sc,4002,Richland 02,103,Jackson Creek Elementary,59.16%,,Y,60.94%,715,423
+sc,4002,Richland 02,610,Blythewood Academy,0.00%,,N,,,
+sc,4101,Saluda County,1,Saluda Elementary School,55.13%,,Y,53.54%,341,188
+sc,4101,Saluda County,3,Saluda High/Middle School,38.20%,,N,,1076,411
+sc,4101,Saluda County,4,Hollywood Elementary School,39.53%,,Y,53.54%,430,170
+sc,4101,Saluda County,6,Saluda Primary School,50.12%,,Y,53.54%,423,212
+sc,4201,Spartanburg 01,2,Chapman High,18.41%,,N,,,
+sc,4201,Spartanburg 01,3,Landrum High,15.65%,,N,,,
+sc,4201,Spartanburg 01,4,Mabry Jr High,23.06%,,N,,,
+sc,4201,Spartanburg 01,6,Campobello-Gramling El,22.39%,,N,,,
+sc,4201,Spartanburg 01,7,O. P. Earle Elementary,26.62%,,N,,,
+sc,4201,Spartanburg 01,9,Holly Spgs-Motlow El,26.81%,,N,,,
+sc,4201,Spartanburg 01,10,Inman Elementary,40.58%,,N,,552,224
+sc,4201,Spartanburg 01,11,New Prospect Elementary,24.77%,,N,,,
+sc,4201,Spartanburg 01,87,Landrum Middle School,23.60%,,N,,,
+sc,4201,Spartanburg 01,88,Inman Intermediate,29.92%,,N,,,
+sc,4202,Spartanburg 02,12,Boiling Springs High,16.05%,,N,,,
+sc,4202,Spartanburg 02,13,Chesnee High,24.64%,,N,,,
+sc,4202,Spartanburg 02,14,Boiling Springs Middle,22.68%,,N,,,
+sc,4202,Spartanburg 02,15,Boiling Springs Elementary,25.49%,,N,,,
+sc,4202,Spartanburg 02,18,Chesnee Elementary,31.35%,,N,,571,179
+sc,4202,Spartanburg 02,19,Cooley Springs Fingerville El,41.74%,,N,,321,134
+sc,4202,Spartanburg 02,20,James H Hendrix Elementary,33.44%,,N,,631,211
+sc,4202,Spartanburg 02,23,Mayo Elementary,35.33%,,N,,317,112
+sc,4202,Spartanburg 02,24,Boiling Springs Intermediate,23.51%,,N,,,
+sc,4202,Spartanburg 02,25,Boiling Springs 9th Grade,20.37%,,N,,,
+sc,4202,Spartanburg 02,86,Chesnee Middle,32.08%,,N,,530,170
+sc,4202,Spartanburg 02,87,Carlisle -Foster's Grove Elem,29.07%,,N,,,
+sc,4202,Spartanburg 02,88,Oakland Elementary,23.96%,,N,,,
+sc,4202,Spartanburg 02,89,Rainbow Lake Middle,26.10%,,N,,,
+sc,4202,Spartanburg 02,90,Shoally Creek Elementary,25.24%,,N,,,
+sc,4203,Spartanburg 03,25,Cowpens Middle,37.84%,,N,,436,165
+sc,4203,Spartanburg 03,26,Broome High,25.93%,,N,,,
+sc,4203,Spartanburg 03,27,Middle Sch Of Pacolet,41.67%,,N,,216,90
+sc,4203,Spartanburg 03,28,Cannons Elementary,44.96%,,N,,258,116
+sc,4203,Spartanburg 03,30,Cowpens Elementary,45.55%,,N,,382,174
+sc,4203,Spartanburg 03,31,Clifdale Elementary,38.11%,,N,,286,109
+sc,4203,Spartanburg 03,34,Pacolet Elementary,44.44%,,N,,432,192
+sc,4204,Spartanburg 04,35,Woodruff Middle,31.22%,,N,,631,197
+sc,4204,Spartanburg 04,36,Woodruff High,24.23%,,N,,,
+sc,4204,Spartanburg 04,40,Woodruff Primary,36.54%,,N,,873,319
+sc,4204,Spartanburg 04,42,Woodruff Elem,38.78%,,N,,655,254
+sc,4205,Spartanburg 05,43,James F Byrnes High,17.29%,,N,,,
+sc,4205,Spartanburg 05,45,D R Hill Middle,28.57%,,N,,,
+sc,4205,Spartanburg 05,46,Duncan Elementary,38.55%,,N,,633,244
+sc,4205,Spartanburg 05,49,Reidville Elementary,15.33%,,N,,,
+sc,4205,Spartanburg 05,52,Wellford Elementary,31.33%,,N,,533,167
+sc,4205,Spartanburg 05,89,Beech Springs Int,28.49%,,N,,,
+sc,4205,Spartanburg 05,90,River Ridge Elementary,26.99%,,N,,,
+sc,4205,Spartanburg 05,91,Berry Shoals Intermediate,17.54%,,N,,,
+sc,4205,Spartanburg 05,92,Florence Chapel Middle School,14.84%,,N,,,
+sc,4205,Spartanburg 05,93,James F Byrnes Freshman Academy,18.96%,,N,,,
+sc,4205,Spartanburg 05,94,Abner Creek Elementary,16.29%,,N,,,
+sc,4205,Spartanburg 05,95,Lyman Elementary,24.46%,,N,,,
+sc,4206,Spartanburg 06,53,Dorman High,21.37%,,N,,,
+sc,4206,Spartanburg 06,54,Fairforest Middle,40.09%,,Y,40.09%,1080,433
+sc,4206,Spartanburg 06,56,L. E. Gable Middle,25.47%,,N,,,
+sc,4206,Spartanburg 06,57,Arcadia Elementary,40.86%,,Y,58.40%,509,208
+sc,4206,Spartanburg 06,58,Fairforest Elementary,31.18%,,N,,805,251
+sc,4206,Spartanburg 06,60,Dawkins Middle,28.82%,,N,,,
+sc,4206,Spartanburg 06,61,Lone Oak Elementary,46.88%,,Y,58.40%,337,158
+sc,4206,Spartanburg 06,62,Pauline-Glenn Springs Elem,16.86%,,N,,,
+sc,4206,Spartanburg 06,65,Jesse Bobo Elementary,54.08%,,Y,58.40%,466,252
+sc,4206,Spartanburg 06,66,West View Elementary,34.64%,,N,,791,274
+sc,4206,Spartanburg 06,67,Woodland Heights Elementary,44.77%,,Y,52.71%,411,184
+sc,4206,Spartanburg 06,86,Roebuck Elem,38.67%,,N,,843,326
+sc,4206,Spartanburg 06,88,Anderson Mill Elementary,23.74%,,N,,,
+sc,4206,Spartanburg 06,89,Dorman High Freshman Campus,26.60%,,N,,,
+sc,4206,Spartanburg 06,98,Sptbg Co School Dist 6 Child Dev & Family Serv Center,31.62%,,N,,253,80
+sc,4207,Spartanburg 07,68,Carver Middle School,71.16%,,Y,63.23%,593,422
+sc,4207,Spartanburg 07,69,Whitlock Flexible Learning Center,51.60%,,Y,63.23%,219,113
+sc,4207,Spartanburg 07,71,Joseph G. McCracken Middle School,28.34%,,N,,,
+sc,4207,Spartanburg 07,73,Spartanburg High School,36.55%,,N,,1915,700
+sc,4207,Spartanburg 07,74,Jesse W. Boyd Elementary,23.47%,,N,,,
+sc,4207,Spartanburg 07,75,Edwin P. Todd School,48.44%,,Y,63.23%,768,372
+sc,4207,Spartanburg 07,77,Cleveland Elementary,80.80%,,Y,63.23%,526,425
+sc,4207,Spartanburg 07,79,Houston Elementary,0.00%,,Y,63.23%,,
+sc,4207,Spartanburg 07,81,The Early Learning Center at Park Hills,64.54%,,Y,63.23%,141,91
+sc,4207,Spartanburg 07,82,Pine Street Elementary,19.14%,,N,,,
+sc,4207,Spartanburg 07,84,W. Herbert Chapman Elementary,0.00%,,Y,63.23%,,
+sc,4207,Spartanburg 07,85,Mary H Wright Elementary,85.80%,,Y,63.23%,514,441
+sc,4207,Spartanburg 07,86,Spartanburg Freshman Academy,0.00%,,N,,,
+sc,4207,Spartanburg 07,87,Drayton Mills Elementary,59.82%,,N,,672,402
+sc,4207,Spartanburg 07,200,Meeting Street Academy-Spartanburg,50.90%,,Y,63.23%,167,85
+sc,4207,Spartanburg 07,904,Mccarthy/Teszler,28.70%,,Y,63.23%,216,62
+sc,4301,Sumter County,2,Ebenezer Middle,56.56%,,Y,55.05%,366,207
+sc,4301,Sumter County,3,Furman Middle,66.04%,,Y,55.05%,804,531
+sc,4301,Sumter County,4,Hillcrest Middle,35.62%,,Y,55.05%,393,140
+sc,4301,Sumter County,6,Mayewood Middle,0.00%,,Y,55.05%,,
+sc,4301,Sumter County,8,Cherryvale Elementary,76.55%,,Y,55.05%,499,382
+sc,4301,Sumter County,10,R.E. Davis Elementary,69.55%,,Y,55.05%,440,306
+sc,4301,Sumter County,12,High HIlls Elementary,49.38%,,Y,55.05%,482,238
+sc,4301,Sumter County,14,Manchester Elementary,67.15%,,Y,55.05%,414,278
+sc,4301,Sumter County,16,Oakland Elementary,40.86%,,Y,55.05%,678,277
+sc,4301,Sumter County,17,Rafting Creek Elementary,78.79%,,Y,55.05%,165,130
+sc,4301,Sumter County,19,Shaw Heights Elementary,45.06%,,Y,55.05%,506,228
+sc,4301,Sumter County,21,Alice Drive Middle,41.39%,,Y,55.05%,1010,418
+sc,4301,Sumter County,22,Bates Middle,56.02%,,Y,55.05%,673,377
+sc,4301,Sumter County,24,Sumter High,42.92%,,Y,55.05%,2204,946
+sc,4301,Sumter County,26,Alice Drive Elementary,37.82%,,Y,55.05%,833,315
+sc,4301,Sumter County,29,Crosswell Drive Elementary,86.98%,,Y,55.05%,576,501
+sc,4301,Sumter County,31,Lemira Elementary,84.82%,,Y,55.05%,461,391
+sc,4301,Sumter County,33,Millwood Elementary,42.72%,,Y,55.05%,824,352
+sc,4301,Sumter County,38,Wilder Elementary,72.09%,,Y,55.05%,430,310
+sc,4301,Sumter County,39,Willow Drive Elementary,75.00%,,Y,55.05%,616,462
+sc,4301,Sumter County,40,Pocalla Springs Elementary,63.91%,,Y,55.05%,798,510
+sc,4301,Sumter County,41,Kingsbury Road Elementary,46.81%,,Y,55.05%,784,367
+sc,4301,Sumter County,42,Crestwood High,45.41%,,Y,55.05%,1121,509
+sc,4301,Sumter County,43,Lakewood High,56.61%,,Y,55.05%,998,565
+sc,4301,Sumter County,44,Chestnut Oaks Middle,82.74%,,Y,55.05%,394,326
+sc,4401,Union County,4,Sims Middle School,43.74%,,Y,42.92%,727,318
+sc,4401,Union County,5,Union County High School,32.02%,,Y,42.92%,1062,340
+sc,4401,Union County,7,Buffalo Elementary School,62.27%,,Y,59.21%,591,368
+sc,4401,Union County,12,Foster Park Elementary School,60.93%,,Y,59.21%,535,326
+sc,4401,Union County,17,Monarch Elementary School,47.56%,,Y,59.21%,513,244
+sc,4401,Union County,105,Jonesville Elementary / Middle School K-8,41.85%,,Y,59.21%,595,249
+sc,4501,Williamsburg County,6,Hemingway High,56.36%,,Y,67.36%,440,248
+sc,4501,Williamsburg County,7,Kingstree Middle,51.97%,,Y,67.36%,406,211
+sc,4501,Williamsburg County,8,Kingstree Senior High,50.37%,,Y,67.36%,534,269
+sc,4501,Williamsburg County,11,D P Cooper Elem,62.96%,,Y,67.36%,135,85
+sc,4501,Williamsburg County,12,C E Murray High,40.09%,,Y,63.07%,454,182
+sc,4501,Williamsburg County,13,Anderson Primary,66.36%,,Y,67.36%,428,284
+sc,4501,Williamsburg County,17,Greeleyville Elementary,52.94%,,Y,67.36%,272,144
+sc,4501,Williamsburg County,21,Kenneth Gardner Elementary,60.55%,,Y,63.07%,436,264
+sc,4501,Williamsburg County,24,Hemingway Elementary,63.75%,,Y,63.07%,400,255
+sc,4501,Williamsburg County,25,Kingstree Annex,0.00%,,Y,63.07%,,
+sc,4601,York 01 - York,3,York Comprenensive High School,27.23%,,N,,,
+sc,4601,York 01 - York,5,York One Academy,33.33%,,N,,6,2
+sc,4601,York 01 - York,8,Jefferson Elementary,51.05%,,N,,474,242
+sc,4601,York 01 - York,44,York Middle School,36.67%,,N,,810,297
+sc,4601,York 01 - York,45,Hickory Grove-Sharon Elem,37.95%,,N,,419,159
+sc,4601,York 01 - York,46,Hunter Street Elementary,33.94%,,N,,492,167
+sc,4601,York 01 - York,47,Cotton Belt Elementary,40.89%,,N,,450,184
+sc,4601,York 01 - York,48,York Intermediate School,41.80%,,N,,646,270
+sc,4601,York 01 - York,49,Harold C Johnson Elementary School,45.38%,,N,,498,226
+sc,4602,York 02- Clover,10,Clover High,11.08%,,N,,,
+sc,4602,York 02- Clover,11,Bethany Elementary,29.77%,,N,,,
+sc,4602,York 02- Clover,12,Bethel Elementary,13.66%,,N,,,
+sc,4602,York 02- Clover,13,Clover Middle,24.06%,,N,,,
+sc,4602,York 02- Clover,14,Kinard Elementary,32.95%,,N,,431,142
+sc,4602,York 02- Clover,16,Oakridge Middle,7.61%,,N,,,
+sc,4602,York 02- Clover,18,Larne Elementary,33.22%,,N,,593,197
+sc,4602,York 02- Clover,47,Griggs Road Elem,11.61%,,N,,,
+sc,4602,York 02- Clover,51,Crowder Creek Elem,8.70%,,N,,,
+sc,4602,York 02- Clover,52,Oakridge Elementary School,9.30%,,N,,,
+sc,4603,York 03 - Rock Hill,15,Castle Heights Middle School,30.14%,,N,,783,236
+sc,4603,York 03 - Rock Hill,16,Northwestern High School,22.85%,,N,,,
+sc,4603,York 03 - Rock Hill,17,Rock Hill High School,22.69%,,N,,,
+sc,4603,York 03 - Rock Hill,18,Sullivan Middle School,29.56%,,N,,,
+sc,4603,York 03 - Rock Hill,19,Rawlinson Road Middle School,35.07%,,N,,596,209
+sc,4603,York 03 - Rock Hill,20,Belleview Elementary,43.77%,,N,,530,232
+sc,4603,York 03 - Rock Hill,22,Ebenezer Avenue Elem,46.12%,,N,,399,184
+sc,4603,York 03 - Rock Hill,23,Ebinport Elementary,30.91%,,N,,647,200
+sc,4603,York 03 - Rock Hill,26,Finley Road Elementary,53.09%,,N,,356,189
+sc,4603,York 03 - Rock Hill,27,Lesslie Elementary,30.62%,,N,,369,113
+sc,4603,York 03 - Rock Hill,29,Northside Elementary,39.82%,,N,,555,221
+sc,4603,York 03 - Rock Hill,30,Oakdale Elementary,33.59%,,N,,521,175
+sc,4603,York 03 - Rock Hill,31,Richmond Drive Elementary,23.90%,,N,,,
+sc,4603,York 03 - Rock Hill,32,Rosewood Elementary,31.07%,,N,,531,165
+sc,4603,York 03 - Rock Hill,33,Sunset Park Elementary,30.28%,,N,,459,139
+sc,4603,York 03 - Rock Hill,34,Sylvia Circle Elementary,32.21%,,N,,149,48
+sc,4603,York 03 - Rock Hill,35,York Road Elementary,49.07%,,N,,377,185
+sc,4603,York 03 - Rock Hill,36,Independence Elementary,32.47%,,N,,579,188
+sc,4603,York 03 - Rock Hill,37,Mt. Gallant Elementary,31.58%,,N,,513,162
+sc,4603,York 03 - Rock Hill,38,Saluda Trail Middle,30.62%,,N,,823,252
+sc,4603,York 03 - Rock Hill,39,India Hook Elementary,18.21%,,N,,,
+sc,4603,York 03 - Rock Hill,40,Old Pointe Elementary,25.28%,,N,,,
+sc,4603,York 03 - Rock Hill,41,South Pointe High,28.77%,,N,,,
+sc,4603,York 03 - Rock Hill,42,Ductchman Creeck Middle,23.09%,,N,,,
+sc,4603,York 03 - Rock Hill,43,Mount Holly Elementary,36.25%,,N,,469,170
+sc,4603,York 03 - Rock Hill,44,Cherry Park Elementary School of Language Immersion,8.91%,,N,,,
+sc,4603,York 03 - Rock Hill,401,Flexible Learning Center,0.00%,,N,,,
+sc,4604,York 04 - Fort Mill,36,Fort Mill High,5.67%,,N,,,
+sc,4604,York 04 - Fort Mill,37,Fort Mill Middle,11.82%,,N,,,
+sc,4604,York 04 - Fort Mill,42,Riverview Elementary,15.30%,,N,,,
+sc,4604,York 04 - Fort Mill,43,Fort Mill Elementary,15.41%,,N,,,
+sc,4604,York 04 - Fort Mill,48,Gold Hill Elem,3.48%,,N,,,
+sc,4604,York 04 - Fort Mill,49,Gold Hill Middle,5.22%,,N,,,
+sc,4604,York 04 - Fort Mill,51,Orchard Park Elementary,11.22%,,N,,,
+sc,4604,York 04 - Fort Mill,52,Springfield Elementary,9.94%,,N,,,
+sc,4604,York 04 - Fort Mill,53,SPRINGFIELD MIDDLE SCHOOL,11.45%,,N,,,
+sc,4604,York 04 - Fort Mill,54,Nation Ford High School,8.21%,,N,,,
+sc,4604,York 04 - Fort Mill,55,Pleasant Knoll Elementary,6.93%,,N,,,
+sc,4604,York 04 - Fort Mill,56,Sugar Creek Elementary,11.64%,,N,,,
+sc,4604,York 04 - Fort Mill,57,Banks Trail Middle,9.46%,,N,,,
+sc,4604,York 04 - Fort Mill,58,Tega Cay Elementary,1.97%,,N,,,
+sc,4604,York 04 - Fort Mill,59,Doby's Bridge Elementary,2.17%,,N,,,
+sc,4604,York 04 - Fort Mill,60,Pleasant Knoll Middle School,4.89%,,N,,,
+sc,4701,"High Point Academy, Inc. Charter School",34,"High Point Academy, Inc. Charter School",12.11%,,N,,,
+sc,5405,St Anthony of Padua Catholic School,1,St. Anthony of Padua Catholic School,32.61%,,N,,146,48
+sc,5678,Fort Jackson Elementary,3,Pierce Terrace,0.00%,,N,,,
+sc,5678,Fort Jackson Elementary,2,Pinckney School,0.57%,,N,,,
+sc,5692,St Martin De Porres Catholic Elementary School,1,St. Martin de Porres Catholic School,25.00%,,N,,,
+sc,6028,Full Gospel Christian Academy,628,Full Gospel Christian Academy,10.94%,,N,,,
+sc,6097,Legacy Early College,1,Legacy Charter School - SC Public Charter District,57.59%,,Y,74.73%,1377,793
+sc,6121,Spartanburg Preparatory  Charter School - SC Public Charter Dist,6,Spartanburg Charter School - SC Public Charter District,40.80%,,N,,527,215
+sc,6184,Riverview Charter School,1,Riverview Charter School,15.93%,,N,,,
+sc,6201,Calhoun Falls Charter School - SC Public Charter District,2,Calhoun Falls Public Charter School,41.18%,,N,,136,56
+sc,6213,Chabad Academy,1,Chabad Academy,6.32%,,N,,,
+sc,6225,LEAD Academy Charter School,1,Lead Academy - SC Public Charter District,26.00%,,N,,,
+sc,6226,"York Preparatory Academy, Inc.",1,York Prep Academy,16.54%,,N,,,
+sc,6239,Columbia East Point Academy,13,Columbia East Point Academy - SC Public Charter District,15.32%,,N,,,
+sc,6245,Bethel Learning Centers,1,Bethel Learning Center,4.20%,,N,,,
+sc,6292,"Academy of Hope, Inc.",1,Academy of Hope,89.73%,,N,,146,131
+sc,6304,Royal Live Oaks Academy-Ridgeland - Charter Institute of Erskine,15,Royal Live Oaks -SC Public Charter District,33.76%,,N,,622,210
+sc,6310,Pee Dee Math Science And Technology Academy,1,Pee Dee Math Science & Tech - SC Public Charter District,45.11%,,Y,51.20%,184,83
+sc,6320,Greenville Renewable Energy Education Charter School,2,Greenville Century Drive - SC Public Charter District,7.51%,,N,,,
+sc,6320,Greenville Renewable Energy Education Charter School,1,Greenville Renewable Energy - SC Public Charter District,5.89%,,N,,,
+sc,6328,The NEXT Schools,1,The NEXT Schools,33.64%,,N,,107,36
+sc,6329,Midlands STEM Institute,1,Midlands STEM Institute - SC Public Charter District,36.75%,,N,,166,61
+sc,6343,Quest Leadership Academy,2,Quest Leadership Academy,81.82%,,N,,220,180
+sc,6346,Felton Laboratory School,3,Felton Laboratory School,33.07%,,N,,375,124
+sc,6392,Mevers School of Excellence,1,Mevers School of Excellence,24.33%,,N,,,
+sc,6399,GREEN Charter School of the Midland,44,GREEN Charter School of the Midlands,16.21%,,N,,,
+sc,6411,Polaris Tech Charter School,1,Polaris Tech Charter School,48.00%,,Y,48.00%,225,108
+sc,6415,Bettis Preparatory Leadership Academy,1,Bettis Preparatory Leadership Academy,34.76%,,N,,164,57
+sc,4301,Sumter County,9,F.J. Delaine Elementary,,,Y,55.05%,,
+sc,4401,Union County,210,Lockhart Elementary / Middle School K-8,,,Y,59.21%,,

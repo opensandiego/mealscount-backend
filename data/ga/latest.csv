@@ -1,0 +1,1258 @@
+state,District Code,District Name,School Code,School Name,individual_isp,proxy_isp,participating_in_cep,claiming_isp,total_enrolled,total_eligible
+ga,601,Appling County,1050,Altamaha Elementary School,52.20%,,Y,56.49%,428,223
+ga,601,Appling County,0177,Appling County Elementary School,67.29%,,Y,56.49%,551,371
+ga,601,Appling County,0103,Appling County High School,45.39%,,Y,56.49%,970,440
+ga,601,Appling County,0195,Appling County Middle School,53.45%,,Y,56.49%,795,425
+ga,601,Appling County,0277,Appling County Primary School,70.24%,,Y,56.49%,673,473
+ga,601,Appling County,5050,Fourth District Elementary School,50.73%,,Y,56.49%,168,85
+ga,602,Atkinson County,0103,Atkinson County High School,32.64%,*,N,,478,156
+ga,602,Atkinson County,0111,Atkinson County Middle School,45.45%,*,N,,374,170
+ga,602,Atkinson County,0190,Pearson Elementary School,55.86%,*,N,,657,367
+ga,602,Atkinson County,0187,Willacoochee Elementary School,55.43%,*,N,,184,102
+ga,761,Atlanta Public Schools,0403,APS-Forrest Hills Academy,76.53%,,Y,49.13%,129,99
+ga,761,Atlanta Public Schools,1411,B.E.S.T Academy,75.74%,,Y,49.13%,326,247
+ga,761,Atlanta Public Schools,5066,Barack and Michelle Obama Academy,88.93%,,Y,49.13%,290,258
+ga,761,Atlanta Public Schools,0604,Bazoline E. Usher/Collier Heights Elmentary School,84.50%,,Y,49.13%,417,352
+ga,761,Atlanta Public Schools,3051,Beecher Hills Elementary School,63.90%,,Y,49.13%,290,185
+ga,761,Atlanta Public Schools,5051,Benteen Elementary School,67.61%,,Y,49.13%,314,212
+ga,761,Atlanta Public Schools,303,Bolton Academy,29.46%,,Y,49.13%,601,177
+ga,761,Atlanta Public Schools,0315,Booker T. Washington High School,75.17%,,Y,49.13%,679,510
+ga,761,Atlanta Public Schools,1053,Boyd Elementary School,91.72%,,Y,49.13%,476,437
+ga,761,Atlanta Public Schools,2053,Brandon Elementary School,4.64%,,Y,49.13%,1008,47
+ga,761,Atlanta Public Schools,0100,Brown Middle School,79.04%,,Y,49.13%,480,379
+ga,761,Atlanta Public Schools,0180,Bunche Middle School,67.42%,,Y,49.13%,930,627
+ga,761,Atlanta Public Schools,0305,Burgess-Peterson Elementary School,40.30%,,Y,49.13%,520,210
+ga,761,Atlanta Public Schools,1413,Carver High School,62.69%,,Y,49.13%,499,313
+ga,761,Atlanta Public Schools,0196,Cascade Elementary School,81.94%,,Y,49.13%,425,348
+ga,761,Atlanta Public Schools,0199,Centennial Academy,49.28%,,Y,49.13%,812,400
+ga,761,Atlanta Public Schools,515,Charles Drew Charter School JA/SA,24.39%,,Y,49.13%,833,203
+ga,761,Atlanta Public Schools,201,Charles R Drew Charter School,18.92%,,Y,49.13%,994,188
+ga,761,Atlanta Public Schools,4056,Cleveland Elementary School,77.15%,,Y,49.13%,359,277
+ga,761,Atlanta Public Schools,3057,Continental Colony Elementary School,80.26%,,Y,49.13%,451,362
+ga,761,Atlanta Public Schools,1410,Corretta Scott King Womens' Leadership Academy,72.37%,,Y,49.13%,350,253
+ga,761,Atlanta Public Schools,2664,Crim High School,72.78%,,Y,49.13%,207,151
+ga,761,Atlanta Public Schools,0304,Deerwood Academy School,61.33%,,Y,49.13%,677,415
+ga,761,Atlanta Public Schools,0104,Dobbs Elementary School ,82.29%,,Y,49.13%,460,379
+ga,761,Atlanta Public Schools,4058,Douglass High School,78.97%,,Y,49.13%,968,764
+ga,761,Atlanta Public Schools,5558,Dunbar Elementary School,84.75%,,Y,49.13%,380,322
+ga,761,Atlanta Public Schools,0106,Early College High School at Carver,62.69%,,Y,49.13%,468,293
+ga,761,Atlanta Public Schools,5566,F. L. Stanton Elementary School,84.30%,,Y,49.13%,279,235
+ga,761,Atlanta Public Schools,3059,Fain Elementary School,89.70%,,N,,434,389
+ga,761,Atlanta Public Schools,3559,Fickett Elementary School,70.49%,,Y,49.13%,538,379
+ga,761,Atlanta Public Schools,0105,Finch Elementary,87.02%,,Y,49.13%,458,399
+ga,761,Atlanta Public Schools,1560,Garden Hills Elementary School,29.09%,,Y,49.13%,548,159
+ga,761,Atlanta Public Schools,2560,Gideons Elementary School,82.64%,,Y,49.13%,379,313
+ga,761,Atlanta Public Schools,4560,Grady High School,18.52%,,Y,49.13%,1389,257
+ga,761,Atlanta Public Schools,1421,Harper Archer Elementary,82.89%,,Y,49.13%,257,213
+ga,761,Atlanta Public Schools,0504,Harper-Archer Middle School,82.88%,,N,,257,213
+ga,761,Atlanta Public Schools,0103,Heritage Academy Elementary,82.00%,,Y,49.13%,462,379
+ga,761,Atlanta Public Schools,0207,Hillside Conant School,100.00%,*,N,,59,59
+ga,761,Atlanta Public Schools,0207,Hillside Conant School,100.00%,*,N,,59,59
+ga,761,Atlanta Public Schools,5562,Humphries Elementary School,80.51%,,Y,49.13%,302,243
+ga,761,Atlanta Public Schools,1063,Hutchinson Elementary School,79.52%,,Y,49.13%,445,354
+ga,761,Atlanta Public Schools,1563,Inman Middle School,15.89%,,Y,49.13%,1065,169
+ga,761,Atlanta Public Schools,2563,Jackson Elementary School,3.83%,,Y,49.13%,700,27
+ga,761,Atlanta Public Schools,1418,John Lewis Invictus Academy,85.82%,,Y,49.13%,662,568
+ga,761,Atlanta Public Schools,1064,Kimberly Elementary School,81.24%,,Y,49.13%,473,384
+ga,761,Atlanta Public Schools,0123,Kindezi,44.13%,,Y,49.13%,414,183
+ga,761,Atlanta Public Schools,1417,Kindezi Old 4th Ward,46.81%,,Y,49.13%,497,233
+ga,761,Atlanta Public Schools,0373,King Middle School,74.74%,,Y,49.13%,790,590
+ga,761,Atlanta Public Schools,1419,KIPP Soul Primary,42.11%,*,N,,114,48
+ga,761,Atlanta Public Schools,1419,KIPP Soul Primary,42.11%,*,N,,114,48
+ga,761,Atlanta Public Schools,0115,Kipp Strive Academy,35.82%,*,N,,388,139
+ga,761,Atlanta Public Schools,0115,Kipp Strive Academy,35.82%,*,N,,388,139
+ga,761,Atlanta Public Schools,2564,Lin Elementary Schoool,4.19%,,Y,49.13%,662,28
+ga,761,Atlanta Public Schools,0173,Long Middle School,78.34%,,Y,49.13%,740,580
+ga,761,Atlanta Public Schools,4063,M. A. Jones Elementary School,79.14%,,Y,49.13%,512,405
+ga,761,Atlanta Public Schools,0186,"Maynard H. Jackson, Jr. High School",51.21%,,Y,49.13%,1297,664
+ga,761,Atlanta Public Schools,0182,Mays High School,63.13%,,Y,49.13%,1333,842
+ga,761,Atlanta Public Schools,1414,Michael R. Hollis Innovation Academy,85.55%,,Y,49.13%,660,565
+ga,761,Atlanta Public Schools,0513,Miles Elementary School,83.82%,,Y,49.13%,609,510
+ga,761,Atlanta Public Schools,1664,Morningside Elementary School,4.58%,,Y,49.13%,938,43
+ga,761,Atlanta Public Schools,192,North Atlanta High School,14.96%,,Y,49.13%,1978,296
+ga,761,Atlanta Public Schools,6414,North Metro GNETS Program,76.27%,,Y,49.13%,59,45
+ga,761,Atlanta Public Schools,0101,Parkside Elementary School,57.07%,,Y,49.13%,581,332
+ga,761,Atlanta Public Schools,0296,Perkerson Elementary School,83.09%,,Y,49.13%,424,352
+ga,761,Atlanta Public Schools,3065,Peyton Forest Elementary School,79.96%,,Y,49.13%,477,381
+ga,761,Atlanta Public Schools,0288,Price Middle School,80.00%,,Y,49.13%,381,305
+ga,761,Atlanta Public Schools,1066,Rivers Elementary School,16.71%,,Y,49.13%,804,134
+ga,761,Atlanta Public Schools,3566,Scott Elementary School,85.36%,,Y,49.13%,400,341
+ga,761,Atlanta Public Schools,4066,Slater Elementary School,76.99%,,Y,49.13%,573,441
+ga,761,Atlanta Public Schools,1567,Smith Elementary School,9.44%,,Y,49.13%,979,92
+ga,761,Atlanta Public Schools,1412,South Atlanta High School,69.06%,,Y,49.13%,823,568
+ga,761,Atlanta Public Schools,116,Springdale Park Elementary School,5.78%,,Y,49.13%,739,43
+ga,761,Atlanta Public Schools,3067,Sutton Middle School,17.62%,,Y,49.13%,1614,284
+ga,761,Atlanta Public Schools,0188,Sylvan Hills Middle School,83.39%,,Y,49.13%,550,459
+ga,761,Atlanta Public Schools,2062,The John Hope-Charles Walter Hill Elementary Schools,76.64%,,Y,49.13%,446,342
+ga,761,Atlanta Public Schools,1409,Therrell High School,60.45%,,Y,49.13%,851,514
+ga,761,Atlanta Public Schools,5067,Thomasville Heights Elementary School,90.07%,,Y,49.13%,462,416
+ga,761,Atlanta Public Schools,5567,Toomer Elementary School,61.70%,,Y,49.13%,488,301
+ga,761,Atlanta Public Schools,1068,Towns Elementary School,85.45%,,N,,360,308
+ga,761,Atlanta Public Schools,1416,Tuskegee Airman Global Academy,81.57%,,Y,49.13%,644,525
+ga,761,Atlanta Public Schools,1208,Wesley International Acadmey Charter Facility,31.42%,,Y,49.13%,799,251
+ga,761,Atlanta Public Schools,6504,West End Academy,61.31%,,Y,49.13%,137,84
+ga,761,Atlanta Public Schools,2569,West Manor Elementary School,55.60%,,Y,49.13%,278,155
+ga,761,Atlanta Public Schools,314,Westside Atlanta Charter School,31.70%,,Y,49.13%,311,99
+ga,761,Atlanta Public Schools,1415,Woodson Park Academy,84.70%,,Y,82.90%,565,479
+ga,761,Atlanta Public Schools,0282,Young Middle School,76.59%,,Y,49.13%,798,611
+ga,603,Bacon County,3050,Bacon County Elementary School,52.40%,,Y,52.84%,495,259
+ga,603,Bacon County,0302,Bacon County High School,30.80%,*,N,,591,182
+ga,603,Bacon County,202,Bacon County Middle School,42.91%,,Y,48.48%,494,212
+ga,603,Bacon County,0102,Bacon County Primary School,55.31%,,Y,52.84%,561,310
+ga,604,Baker County,0105,Baker County K12 School,65.91%,,Y,68.59%,281,185
+ga,605,Baldwin County,6104,Baldwin Co. Child & Family Dev. Center,74.70%,,Y,58.03%,282,211
+ga,605,Baldwin County,0189,Baldwin High School,47.62%,,Y,58.03%,1204,573
+ga,605,Baldwin County,0300,Lakeview Academy,52.88%,,Y,58.03%,680,360
+ga,605,Baldwin County,0302,Lakeview Primary,55.45%,,Y,58.03%,465,258
+ga,605,Baldwin County,0303,Midway Hills Academy,66.16%,,Y,58.03%,564,373
+ga,605,Baldwin County,0301,Midway Hills Primary,68.74%,,Y,58.03%,558,384
+ga,605,Baldwin County,0100,Oak Hill MS,58.23%,,Y,58.03%,1162,677
+ga,607,Barrow County,1050,Auburn Elementary School,30.72%,*,N,,690,212
+ga,607,Barrow County,0299,Winder Elementary School,33.24%,*,N,,683,227
+ga,608,Bartow County,0196,Allatoona Elementary School,31.28%,*,N,,438,137
+ga,608,Bartow County,0115,Cloverleaf Elementary,34.31%,*,N,,682,234
+ga,608,Bartow County,2052,Emerson Elementary School,38.71%,*,N,,403,156
+ga,608,Bartow County,0296,Kingston Elementary School,38.24%,*,N,,489,187
+ga,608,Bartow County,0106,Pine Log Elementary,30.35%,*,N,,402,122
+ga,608,Bartow County,0190,South Central Middle School,34.82%,*,N,,626,218
+ga,609,Ben Hill County,0296,Ben Hill County Middle School,54.06%,,Y,55.55%,728,394
+ga,609,Ben Hill County,0196,Ben Hill County Primary School,62.65%,,Y,55.55%,672,421
+ga,609,Ben Hill County,0111,Ben Hill Elementary School,61.12%,,Y,55.55%,722,441
+ga,609,Ben Hill County,0291,Fitzgerald High School,50.25%,,Y,40.70%,824,414
+ga,609,Ben Hill County,6196,Pre-K Center,58.02%,,Y,55.55%,179,104
+ga,610,Berrien County,0106,Berrien Academy Performance Learning Center,44.69%,,N,,66,29
+ga,610,Berrien County,0195,Berrien Elementary School,50.51%,,Y,52.12%,698,353
+ga,610,Berrien County,0101,Berrien High School,44.69%,,N,,804,359
+ga,610,Berrien County,0194,Berrien Middle School,52.59%,,N,,761,400
+ga,610,Berrien County,5050,Berrien Primary School,59.50%,,Y,52.12%,832,495
+ga,611,Bibb County,0117,Academy For Classical Education,9.44%,,N,,1708,161
+ga,611,Bibb County,1050,Alexander II Magnet School,36.58%,,Y,59.38%,494,181
+ga,611,Bibb County,5050,Appling Middle School,74.02%,,Y,60.99%,616,456
+ga,611,Bibb County,0108,Ballard Hudson Middle School,99.88%,,Y,59.38%,701,700
+ga,611,Bibb County,1054,Bernd Elementary School,73.62%,,Y,59.38%,453,333
+ga,611,Bibb County,1005,Brookdale Elementary School,80.54%,,Y,61.49%,355,286
+ga,611,Bibb County,0109,Bruce Elementary School,83.77%,,Y,60.99%,425,356
+ga,611,Bibb County,0104,Burdell Elementary School,79.30%,,Y,59.38%,482,382
+ga,611,Bibb County,1205,Carter Elementary School,60.04%,,Y,59.38%,463,278
+ga,611,Bibb County,0186,Central High School,55.19%,,Y,59.38%,1044,576
+ga,611,Bibb County,6041,Elam Alexander Acadmey,62.42%,,Y,59.38%,117,73
+ga,611,Bibb County,2060,Hartley Elementary School,86.53%,,Y,59.38%,478,414
+ga,611,Bibb County,3060,Heard Elementary School,42.17%,,Y,59.38%,561,237
+ga,611,Bibb County,0605,Heritage Elementary School,50.28%,,Y,59.38%,672,338
+ga,611,Bibb County,0105,Howard High School,38.45%,,Y,59.38%,1200,461
+ga,611,Bibb County,0205,Howard Middle School,49.60%,,Y,59.38%,1009,500
+ga,611,Bibb County,3067,Ingram/Pye Elementary School,88.97%,,Y,59.38%,435,387
+ga,611,Bibb County,1305,Lane Elementary School,62.71%,,Y,59.38%,443,278
+ga,611,Bibb County,1306,Martin Luther King Jr Elementary School,90.51%,,Y,59.38%,725,656
+ga,611,Bibb County,0298,Miller Magnet Middle School,57.39%,,Y,60.99%,582,334
+ga,611,Bibb County,0286,Northeast High School,77.15%,,Y,59.38%,729,562
+ga,611,Bibb County,6044,Northwoods Academy -Fed. Pre-K,63.89%,,Y,59.38%,230,147
+ga,611,Bibb County,1067,Porter Elementary School,46.20%,,Y,60.99%,415,192
+ga,611,Bibb County,0307,Price Academy,3.57%,,N,,28,1
+ga,611,Bibb County,0805,Riley Elementary School,81.37%,,N,,344,280
+ga,611,Bibb County,0405,Rosa Taylor Elementary School,60.85%,,Y,59.38%,593,361
+ga,611,Bibb County,0204,Rutland High School,38.91%,,Y,59.38%,948,369
+ga,611,Bibb County,0305,Rutland Middle School,49.59%,,Y,60.99%,821,407
+ga,611,Bibb County,0103,Skyview Elementary School,40.98%,,Y,59.38%,461,189
+ga,611,Bibb County,6100,SOAR Academy,40.64%,,Y,59.38%,184,75
+ga,611,Bibb County,1307,Southfield Elementary School,88.26%,,Y,59.38%,893,788
+ga,611,Bibb County,0386,Southwest High School,79.33%,,Y,61.49%,874,693
+ga,611,Bibb County,1105,Springdale Elementary School,28.76%,,Y,61.49%,650,187
+ga,611,Bibb County,0705,Union Elementary School,85.44%,,Y,60.99%,486,415
+ga,611,Bibb County,1309,Veterans Elementary School,84.50%,,Y,59.38%,791,668
+ga,611,Bibb County,0203,Vineville Academy,48.42%,,Y,60.99%,556,269
+ga,611,Bibb County,0505,Weaver Middle School,74.56%,,Y,59.38%,940,701
+ga,611,Bibb County,0198,Westside High School,63.67%,,Y,59.38%,1161,739
+ga,611,Bibb County,0383,Williams Elementary School,90.04%,,Y,59.38%,341,307
+ga,612,Bleckley County,0197,Bleckley County Elementary School,50.20%,,Y,44.31%,589,296
+ga,612,Bleckley County,6002,Bleckley County Pre-K,54.89%,,Y,44.31%,162,89
+ga,612,Bleckley County,1050,Bleckley County Primary School,54.89%,,Y,44.31%,573,315
+ga,612,Bleckley County,0115,Bleckley County Success Academy,59.09%,,Y,44.31%,49,29
+ga,613,Brantley County,0110,Atkinson Elementary School,64.24%,,Y,44.45%,254,163
+ga,613,Brantley County,1050,Brantley County High School,42.62%,,Y,43.76%,988,421
+ga,613,Brantley County,0194,Brantley County Middle School,47.49%,,Y,44.45%,489,232
+ga,613,Brantley County,2050,Hoboken Elementary School,48.60%,,Y,44.45%,559,272
+ga,613,Brantley County,0294,Nahunta Elementary School,51.43%,,Y,44.45%,281,145
+ga,613,Brantley County,3050,Nahunta Primary School,57.36%,,Y,44.45%,462,265
+ga,613,Brantley County,0101,Waynesville Primary School,68.37%,,Y,43.76%,422,289
+ga,614,Brooks County,0395,Brooks County Early Learning Center,66.93%,,Y,61.76%,112,75
+ga,614,Brooks County,0110,Brooks County High School,52.80%,,Y,61.76%,486,257
+ga,614,Brooks County,0197,Brooks County Middle School,59.40%,,Y,61.76%,471,280
+ga,614,Brooks County,0394,Delta Innovative School,55.38%,,Y,61.76%,103,57
+ga,614,Brooks County,0393,North Brooks Elementary School,55.30%,,Y,61.76%,379,210
+ga,614,Brooks County,0193,Quitman Elementary School,68.50%,,Y,61.76%,617,423
+ga,615,Bryan County,0286,Bryan County Elementary School,31.86%,*,N,,452,144
+ga,616,Bulloch County,2050,Julia P. Bryant Elementary School,35.50%,*,N,,738,262
+ga,616,Bulloch County,0199,Langston Chapel Elementary School,63.97%,,Y,60.31%,594,380
+ga,616,Bulloch County,0299,Langston Chapel Middle School,50.70%,,Y,60.31%,710,360
+ga,616,Bulloch County,5050,Mattie Lively Elementary School,48.24%,*,N,,653,315
+ga,616,Bulloch County,0100,Mill Creek Elementary School,46.98%,*,N,,630,296
+ga,616,Bulloch County,0399,Portal Elementary School,47.88%,*,N,,401,192
+ga,616,Bulloch County,4052,Portal Middle/High School,36.51%,*,N,,441,161
+ga,616,Bulloch County,5054,Sallie Zetterower Elementary School,41.15%,*,N,,746,307
+ga,616,Bulloch County,2054,Statesboro High School,33.63%,*,N,,1662,559
+ga,616,Bulloch County,3054,Stilson Elementary School,32.74%,*,N,,391,128
+ga,616,Bulloch County,0198,William James Middle School,36.41%,*,N,,651,237
+ga,617,Burke County,0104,Blakeney Elementary,70.43%,,Y,63.46%,762,537
+ga,617,Burke County,0288,Burke County High School,55.74%,,Y,63.46%,1207,673
+ga,617,Burke County,0188,Burke County Middle School,60.08%,,Y,63.46%,957,575
+ga,617,Burke County,0196,S G A Elementary School,69.86%,,Y,63.46%,250,175
+ga,617,Burke County,2056,Waynesboro Primary School,67.69%,,Y,63.46%,982,665
+ga,618,Butts County,0104,Hampton L. Daughtry Elementary School,59.89%,,Y,55.35%,515,308
+ga,618,Butts County,0100,Henderson Middle School,53.14%,,Y,55.35%,834,443
+ga,618,Butts County,0111,Jackson Elementary School,63.90%,,Y,55.35%,527,337
+ga,618,Butts County,0190,Jackson High School,47.00%,,Y,55.35%,981,461
+ga,618,Butts County,0108,Stark Elementary School,59.49%,,Y,55.35%,624,371
+ga,619,Calhoun County,0179,Calhoun County Elementary School,80.22%,,Y,77.41%,227,182
+ga,619,Calhoun County,0113,Calhoun County High School,75.81%,,Y,77.41%,181,137
+ga,619,Calhoun County,0213,Calhoun County Middle School,73.55%,,Y,77.41%,137,101
+ga,620,Camden County,0193,Kingsland Elementary School,31.36%,*,N,,440,138
+ga,620,Camden County,0100,Mamie Lou Gross Elementary School,37.82%,*,N,,542,205
+ga,620,Camden County,0110,Saint Marys Elementary School,32.62%,*,N,,653,213
+ga,620,Camden County,0192,Woodbine Elementary School,35.99%,*,N,,414,149
+ga,621,Candler County,0302,Metter Elementary School,62.03%,,Y,56.25%,1138,706
+ga,621,Candler County,0101,Metter High School ,45.49%,,Y,56.25%,609,277
+ga,621,Candler County,0102,Metter Middle School,55.43%,,Y,56.25%,504,279
+ga,622,Carroll County,2050,Bowdon Elementary School,35.65%,*,N,,648,231
+ga,622,Carroll County,0101,Bowdon Middle School,31.25%,*,N,,288,90
+ga,622,Carroll County,0605,Glanton-Hindsman Elementary,30.59%,*,N,,644,197
+ga,622,Carroll County,0176,Mount Zion Elementary School,44.78%,*,N,,728,326
+ga,622,Carroll County,0208,Mt. Zion Middle School ,41.57%,*,N,,344,143
+ga,622,Carroll County,5052,Sand Hill Elementary School,30.34%,*,N,,669,203
+ga,622,Carroll County,0100,Sharp Creek Elementary School,48.63%,*,N,,586,285
+ga,622,Carroll County,1054,Temple Elementary School,33.67%,*,N,,588,198
+ga,622,Carroll County,0102,Temple Middle School,32.11%,*,N,,492,158
+ga,622,Carroll County,0705,Villa Rica Elementary School,38.05%,*,N,,452,172
+ga,622,Carroll County,0305,Villa Rica Middle,32.87%,*,N,,508,167
+ga,622,Carroll County,0477,Whitesburg Elementary School,31.72%,*,N,,413,131
+ga,766,Carrollton City,0193,Carrollton Elementary School,33.59%,*,N,,1691,568
+ga,623,Catoosa County,3050,Cloud Springs Elementary School,47.06%,*,N,,357,168
+ga,623,Catoosa County,2552,Lakeview Middle School,38.35%,*,N,,798,306
+ga,623,Catoosa County,0185,Tiger Creek Elementary School,30.99%,*,N,,484,150
+ga,623,Catoosa County,1054,West Side Elementary School,43.08%,*,N,,513,221
+ga,624,Charlton County,0112,Bethune Middle School,36.95%,*,N,,590,218
+ga,624,Charlton County,0199,Folkston Elementary School,36.42%,*,N,,530,193
+ga,626,Chattahoochee County,0101,Chattahoochee County Education Center,60.91%,,Y,60.91%,302,184
+ga,626,Chattahoochee County,0106,Chattahoochee County Middle School,48.68%,,Y,48.68%,166,81
+ga,627,Chattooga County,0111,Chattooga Academy,35.71%,*,N,,70,25
+ga,627,Chattooga County,1050,Chattooga High School,42.70%,*,N,,726,310
+ga,627,Chattooga County,0106,Leroy Massey Elementary School,55.86%,*,N,,836,467
+ga,627,Chattooga County,2050,Lyerly Elementary School,36.83%,*,N,,372,137
+ga,627,Chattooga County,3050,Menlo Elementary School,31.03%,*,N,,348,108
+ga,627,Chattooga County,2052,Summerville Middle School,52.35%,*,N,,361,189
+ga,628,Cherokee County,0198,R. M. Moore Elementary School,30.41%,*,N,,901,274
+ga,628,Cherokee County,0105,"William G. Hasty, Sr. Elementary School",40.26%,*,N,,939,378
+ga,629,Clarke County,0105,Alps Road Elementary School,82.99%,,Y,53.77%,398,330
+ga,629,Clarke County,2056,Barnett Shoals Elementary School,56.89%,,Y,53.77%,560,319
+ga,629,Clarke County,3056,Barrow Elementary School,44.22%,,Y,33.29%,576,255
+ga,629,Clarke County,0296,Burney-Harris-Lyons Middle School,53.94%,,Y,53.77%,692,373
+ga,629,Clarke County,0102,Cedar Shoals High School,51.59%,,Y,53.77%,1422,734
+ga,629,Clarke County,5056,Chase Street Elementary School,40.25%,,Y,33.29%,603,243
+ga,629,Clarke County,5556,Clarke Central High School,49.12%,,Y,33.29%,1771,870
+ga,629,Clarke County,1058,Clarke Middle School,47.06%,,Y,53.77%,789,371
+ga,629,Clarke County,0104,Classic City High School,57.54%,,N,,76,44
+ga,629,Clarke County,0191,Cleveland Road Elementary School,63.57%,,Y,53.77%,301,191
+ga,629,Clarke County,0196,Coile Middle School,66.46%,,Y,53.77%,735,488
+ga,629,Clarke County,3058,Fowler Drive Elementary School,72.92%,,Y,53.77%,492,359
+ga,629,Clarke County,0205,Gaines Elementary School,82.63%,,Y,53.77%,559,462
+ga,629,Clarke County,5058,Hilsman Middle School,56.96%,,Y,53.77%,683,389
+ga,629,Clarke County,0291,Howard B. Stroud Elementary School,84.83%,,Y,53.77%,403,342
+ga,629,Clarke County,0112,Judia Jackson Harris Elementary,70.78%,,Y,53.77%,502,355
+ga,629,Clarke County,4060,Oglethorpe Avenue Elementary School,62.37%,,Y,53.77%,579,361
+ga,629,Clarke County,6415,Rutland Academy ,54.05%,,Y,53.77%,74,40
+ga,629,Clarke County,0178,Timothy Elementary School,33.23%,,Y,33.29%,572,190
+ga,629,Clarke County,0391,Whit Davis Road Elementary School,42.18%,,Y,53.77%,529,223
+ga,629,Clarke County,1062,Whitehead Road Elementary School,57.95%,,Y,53.77%,826,479
+ga,629,Clarke County,2062,Winterville Elementary School,66.52%,,Y,53.77%,444,295
+ga,630,Clay County,0204,Clay County Elementary,71.84%,,Y,68.91%,140,101
+ga,630,Clay County,0104,Clay County Middle School,60.94%,,Y,68.91%,62,38
+ga,631,Clayton County,0177,Adamson Middle School,51.24%,,Y,58.12%,568,291
+ga,631,Clayton County,6004,Altermative Virsual Academy,49.02%,,N,,,
+ga,631,Clayton County,1050,Anderson Elementary School,66.08%,,Y,58.12%,566,374
+ga,631,Clayton County,1550,Arnold Elementary School,52.58%,,Y,58.12%,573,301
+ga,631,Clayton County,3050,Babb Middle School,53.22%,,Y,58.12%,1027,547
+ga,631,Clayton County,0175,Brown Elementary School,58.21%,,Y,58.12%,802,467
+ga,631,Clayton County,0103,Callaway Elementary School,63.93%,,Y,58.12%,853,545
+ga,631,Clayton County,0115,Charles R. Drew High School,55.17%,,Y,58.12%,1555,858
+ga,631,Clayton County,4050,Church Street Elementary School,68.24%,,Y,58.12%,835,570
+ga,631,Clayton County,1052,East Clayton Elementary School,54.49%,,Y,58.12%,618,337
+ga,631,Clayton County,0379,Eddie White Elementary School,61.64%,,Y,58.12%,721,444
+ga,631,Clayton County,0116,Eddie White Middle School,46.82%,,Y,58.12%,780,365
+ga,631,Clayton County,5052,Edmonds Elementary School,70.85%,,Y,58.12%,540,383
+ga,631,Clayton County,0114,Elite Scholars Academy School,23.43%,,Y,58.12%,664,156
+ga,631,Clayton County,1054,Forest Park High School,49.85%,,Y,58.12%,1666,831
+ga,631,Clayton County,2054,Forest Park Middle School,66.23%,,Y,58.12%,700,464
+ga,631,Clayton County,2554,Fountain Elementary School,69.64%,,Y,58.12%,612,426
+ga,631,Clayton County,0203,Harper Elementary School,72.47%,,Y,58.12%,898,651
+ga,631,Clayton County,0199,Hawthorne Elementary School,60.67%,,Y,58.12%,914,555
+ga,631,Clayton County,3054,Haynie Elementary School,61.70%,,Y,58.12%,928,573
+ga,631,Clayton County,5054,Huie Elementary School,71.12%,,Y,58.12%,792,563
+ga,631,Clayton County,0304,James Jackson Elementary School,51.82%,,Y,58.12%,636,330
+ga,631,Clayton County,1056,Jonesboro High School,49.02%,,Y,58.12%,1388,680
+ga,631,Clayton County,0106,Jonesboro Middle School,67.27%,,Y,58.12%,1010,679
+ga,631,Clayton County,0380,Kay R Pace Elementary School of the Arts,51.82%,,Y,58.12%,473,245
+ga,631,Clayton County,0305,Kemp Elem School,60.75%,,Y,58.12%,664,403
+ga,631,Clayton County,0205,Kemp Primary,56.45%,,Y,58.12%,674,380
+ga,631,Clayton County,0197,Kendrick Middle School,61.10%,,Y,58.12%,794,485
+ga,631,Clayton County,0173,Kilpatrick Elementary School,65.47%,,Y,58.12%,743,486
+ga,631,Clayton County,4056,Lake City Elementary School,51.85%,,Y,58.12%,583,302
+ga,631,Clayton County,0295,Lake Ridge Elementary School,63.00%,,Y,58.12%,648,408
+ga,631,Clayton County,1058,Lee Street Elementary School,75.83%,,Y,58.12%,620,470
+ga,631,Clayton County,0190,Lovejoy High School,43.87%,,Y,58.12%,1819,798
+ga,631,Clayton County,0191,Lovejoy Middle School,55.18%,,Y,58.12%,536,296
+ga,631,Clayton County,0100,M. D. Roberts Middle School,37.94%,,Y,58.12%,967,367
+ga,631,Clayton County,0215,Martha Ellen Stilwell School for the Performing Arts,31.72%,,Y,58.12%,597,189
+ga,631,Clayton County,0204,"Martin Luther King, Jr. Elementary School",70.06%,,Y,58.12%,623,436
+ga,631,Clayton County,2058,Morrow Elementary School,54.41%,,Y,58.12%,545,297
+ga,631,Clayton County,4058,Morrow High School,44.67%,,Y,58.12%,1771,791
+ga,631,Clayton County,0117,Morrow Middle School,53.59%,,Y,58.12%,957,513
+ga,631,Clayton County,0176,Mount Zion Elementary School,64.19%,,Y,58.12%,624,401
+ga,631,Clayton County,0290,Mount Zion High School,49.92%,,Y,58.12%,1307,652
+ga,631,Clayton County,0109,Mount Zion Primary,63.61%,,Y,58.12%,654,416
+ga,631,Clayton County,0104,Mundy's Mill High School,50.99%,,Y,58.12%,1691,862
+ga,631,Clayton County,0174,Mundys Mill Middle School,51.39%,,Y,58.12%,827,425
+ga,631,Clayton County,2052,North Clayton High School,60.27%,,Y,58.12%,1163,701
+ga,631,Clayton County,3052,North Clayton Middle School,69.60%,,Y,58.12%,873,608
+ga,631,Clayton County,1060,Northcutt Elementary School,67.31%,,Y,58.12%,741,499
+ga,631,Clayton County,0276,Oliver Elementary School,62.21%,,Y,58.12%,670,417
+ga,631,Clayton County,0378,Perry Career Academy - Eula Wilburn Ponds Perry Center for Learning,56.53%,,Y,58.12%,934,528
+ga,631,Clayton County,0181,Pointe South Elementary School,73.11%,,Y,58.12%,636,465
+ga,631,Clayton County,0277,Pointe South Middle School,66.39%,,Y,58.12%,846,562
+ga,631,Clayton County,0207,Rex Mill Middle School,57.13%,,Y,58.12%,1132,647
+ga,631,Clayton County,2060,Riverdale Elementary School,71.43%,,Y,58.12%,776,554
+ga,631,Clayton County,0377,Riverdale High School,50.18%,,Y,58.12%,1206,605
+ga,631,Clayton County,3060,Riverdale Middle School,59.19%,,Y,58.12%,779,461
+ga,631,Clayton County,0195,River's Edge Elementary School,47.38%,,Y,58.12%,681,323
+ga,631,Clayton County,0200,Roberta T. Smith Elementary School,59.35%,,Y,58.12%,982,583
+ga,631,Clayton County,0107,Sequoyah Middle School,69.37%,,Y,58.12%,863,599
+ga,631,Clayton County,6422,South Metro Program,49.85%,,N,,,
+ga,631,Clayton County,4060,Suder Elementary School,60.56%,,Y,58.12%,698,423
+ga,631,Clayton County,5060,Swint Elementary School,68.81%,,Y,58.12%,747,514
+ga,631,Clayton County,1062,Tara Elementary School,71.28%,,Y,58.12%,730,520
+ga,631,Clayton County,0105,Thurgood Marshall Elementary School,65.24%,,Y,58.12%,870,568
+ga,631,Clayton County,0307,Unidos Dual Language School,48.44%,,Y,58.12%,461,223
+ga,631,Clayton County,2062,West Clayton Elementary School,74.76%,,Y,58.12%,599,448
+ga,631,Clayton County,5056,William M. McGarrah Elementary School,58.46%,,Y,58.12%,690,403
+ga,632,Clinch County,0101,Clinch County Elementary School,62.54%,,Y,52.90%,598,374
+ga,632,Clinch County,1050,Clinch County High School,34.63%,*,N,,462,160
+ga,632,Clinch County,0201,Clinch County Middle School,52.81%,,Y,52.90%,292,154
+ga,633,Cobb County,2050,Argyle Elementary School,37.12%,*,N,,361,134
+ga,633,Cobb County,0207,Austell Elementary School,38.59%,*,N,,469,181
+ga,633,Cobb County,1052,Belmont Hills Elementary School,30.26%,*,N,,347,105
+ga,633,Cobb County,0173,Birney Elementary School,40.50%,*,N,,800,324
+ga,633,Cobb County,0592,Bryant Elementary School,40.12%,*,N,,1007,404
+ga,633,Cobb County,0117,Clarkdale Elementary School,35.52%,*,N,,763,271
+ga,633,Cobb County,3054,Clay Elementary School,37.89%,*,N,,388,147
+ga,633,Cobb County,3556,Compton Elementary School,36.03%,*,N,,494,178
+ga,633,Cobb County,3058,Fair Oaks Elementary School,47.28%,*,N,,827,391
+ga,633,Cobb County,5058,Floyd Middle School,34.57%,*,N,,946,327
+ga,633,Cobb County,1060,Garrett Middle School,36.04%,*,N,,888,320
+ga,633,Cobb County,0397,Green Acres Elementary School,45.63%,*,N,,618,282
+ga,633,Cobb County,0402,Hendricks Elementary School,35.48%,*,N,,606,215
+ga,633,Cobb County,4560,Hollydale Elementary School,32.30%,*,N,,610,197
+ga,633,Cobb County,3062,LaBelle Elementary School,33.25%,*,N,,406,135
+ga,633,Cobb County,0309,Lindley 6th Grade Academy,38.37%,*,N,,602,231
+ga,633,Cobb County,0202,Lindley Middle School,34.75%,*,N,,1108,385
+ga,633,Cobb County,0118,Mableton Elementary School,32.92%,*,N,,1042,343
+ga,633,Cobb County,3064,Milford Elementary School,35.44%,*,N,,395,140
+ga,633,Cobb County,1066,Norton Park Elementary School,34.15%,*,N,,855,292
+ga,633,Cobb County,0489,Powder Springs Elementary School,30.41%,*,N,,740,225
+ga,633,Cobb County,1067,Powers Ferry Elementary School,32.02%,*,N,,431,138
+ga,633,Cobb County,0102,Riverside Intermediate School,47.86%,*,N,,1099,526
+ga,633,Cobb County,0307,Riverside Primary School,49.15%,*,N,,527,259
+ga,633,Cobb County,0398,Sanders Elementary School,39.27%,*,N,,708,278
+ga,634,Coffee County,0102,Ambrose Elementary School ,62.32%,,Y,61.05%,421,262
+ga,634,Coffee County,0191,Broxton-Mary Hayes Elementary,60.79%,,Y,50.82%,348,212
+ga,634,Coffee County,0195,Coffee County High School,41.46%,,Y,41.46%,1334,553
+ga,634,Coffee County,0108,Coffee Middle School,51.13%,,Y,61.05%,1572,804
+ga,634,Coffee County,0282,Eastside Elementary School,66.67%,,Y,61.05%,665,443
+ga,634,Coffee County,0308,George Washington Carver Freshman Campus,45.09%,,Y,50.82%,492,222
+ga,634,Coffee County,0100,Indian Creek Elementary,41.18%,,Y,50.82%,782,322
+ga,634,Coffee County,0291,Nicholls Elementary School,58.19%,,Y,50.82%,346,201
+ga,634,Coffee County,0182,Satilla Elementary School,70.95%,,Y,61.05%,599,425
+ga,634,Coffee County,3052,West Green Elementary School,60.18%,,Y,50.82%,346,208
+ga,634,Coffee County,5050,Westside Elementary School,69.15%,,Y,61.05%,629,435
+ga,634,Coffee County,0114,Wiregrass Regional College and Career Academy,60.23%,,Y,50.82%,190,114
+ga,635,Colquitt County,3052,CA Gray Junior High School,51.52%,,Y,53.26%,1304,672
+ga,635,Colquitt County,0112,Colquitt County Achievement Center,69.49%,,Y,40.13%,70,49
+ga,635,Colquitt County,6003,Colquitt County Gifted Center,21.68%,,Y,40.13%,143,31
+ga,635,Colquitt County,1554,Colquitt County High School,47.92%,,Y,40.13%,1824,874
+ga,635,Colquitt County,4050,Cox Elementary School,83.22%,,Y,60.61%,594,494
+ga,635,Colquitt County,0178,Doerun Elementary School,60.14%,,Y,60.61%,339,204
+ga,635,Colquitt County,2052,Funston Elementary School,75.30%,,Y,60.61%,437,329
+ga,635,Colquitt County,4052,Hamilton Elementary School,47.89%,,Y,60.61%,286,137
+ga,635,Colquitt County,0278,Norman Park Elementary School,63.28%,,Y,60.61%,648,410
+ga,635,Colquitt County,0187,Odom Elementary School,72.94%,,Y,60.61%,645,470
+ga,635,Colquitt County,3054,Okapilco Elementary School,64.51%,,Y,60.61%,516,333
+ga,635,Colquitt County,3050,Stringfellow Elementary School,89.87%,,Y,60.61%,265,238
+ga,635,Colquitt County,5054,Sunset Elementary School,64.71%,,Y,60.61%,651,421
+ga,635,Colquitt County,0111,Willie J. Williams Middle School,56.80%,,Y,53.26%,1427,811
+ga,635,Colquitt County,2056,Wright Elementary School,43.66%,,Y,60.61%,572,250
+ga,637,Cook County,0101,Cook County Middle School,52.05%,,Y,41.69%,724,377
+ga,637,Cook County,0104,Cook Elementary School,53.02%,,Y,52.00%,730,387
+ga,637,Cook County,0111,Cook High School,32.98%,,Y,41.69%,861,284
+ga,637,Cook County,0196,Cook Primary School,62.79%,,Y,52.00%,819,514
+ga,638,Coweta County,1050,Arnco-Sargent Elementary School,41.16%,*,N,,379,156
+ga,638,Coweta County,2050,Atkinson Elementary School,42.89%,*,N,,401,172
+ga,638,Coweta County,0203,Glanton Elementary,37.71%,*,N,,297,112
+ga,638,Coweta County,0195,Jefferson Parkway Elementary School,42.52%,*,N,,515,219
+ga,638,Coweta County,0199,Poplar Road Elementary School,30.56%,*,N,,648,198
+ga,638,Coweta County,1054,Ruth Hill Elementary School,46.57%,*,N,,408,190
+ga,638,Coweta County,0301,Smokey Road Middle School,36.57%,*,N,,689,252
+ga,638,Coweta County,0201,Welch Elementary School,37.58%,*,N,,809,304
+ga,638,Coweta County,5056,Western Elementary School,40.69%,*,N,,408,166
+ga,638,Coweta County,0189,White Oak Elementary School,30.51%,*,N,,685,209
+ga,639,Crawford County,6195,Crawford County Eagle's Nest,62.56%,,N,,86,54
+ga,639,Crawford County,0192,Crawford County Elementary School,58.96%,,N,,756,446
+ga,639,Crawford County,0193,Crawford County High School,47.25%,,N,,476,225
+ga,639,Crawford County,0202,Crawford County Middle School,61.44%,,N,,413,254
+ga,640,Crisp County,2052,Crisp County Elementary School,63.86%,,Y,63.27%,635,406
+ga,640,Crisp County,0196,Crisp County High School,48.61%,,Y,63.27%,1076,523
+ga,640,Crisp County,0197,Crisp County Middle School,61.92%,,Y,63.27%,891,552
+ga,640,Crisp County,5050,Crisp County Pre-K,64.05%,,Y,63.27%,234,150
+ga,640,Crisp County,0115,Crisp County Primary School,67.80%,,Y,63.27%,1115,756
+ga,772,Dalton Public Schools,0105,Blue Ridge Elementary School,41.68%,*,N,,643,268
+ga,772,Dalton Public Schools,0301,City Park Elementary School,41.58%,*,N,,707,294
+ga,772,Dalton Public Schools,0101,Park Creek Elementary School,34.91%,*,N,,633,221
+ga,772,Dalton Public Schools,1052,Roan Elementary School,34.47%,*,N,,470,162
+ga,643,Decatur County,3050,Bainbridge High School,47.61%,,Y,77.96%,1411,672
+ga,643,Decatur County,2050,Bainbridge Middle School,58.31%,,Y,77.96%,696,406
+ga,643,Decatur County,2052,Hutto Middle School,58.99%,,Y,77.96%,774,457
+ga,643,Decatur County,3052,John Johnson Elementary School,51.91%,,Y,77.96%,382,198
+ga,643,Decatur County,4052,Jones-Wheat Elementary School,64.11%,,Y,77.96%,695,446
+ga,643,Decatur County,0116,New Beginning Learning Center,83.91%,,Y,77.96%,96,81
+ga,643,Decatur County,0191,Potter Street Elementary School,78.49%,,Y,77.96%,393,308
+ga,643,Decatur County,0105,West Bainbridge Elementary School,69.72%,,Y,77.96%,621,433
+ga,644,DeKalb County,2050,Allgood Elementary School,59.78%,,Y,61.89%,587,351
+ga,644,DeKalb County,5050,Avondale Elementary School,65.06%,,Y,61.89%,431,280
+ga,644,DeKalb County,1103,Barack H. Obama Elementary Magnet School of Technology,71.66%,,Y,62.00%,1005,720
+ga,644,DeKalb County,0475,Bob Mathis Elementary School,63.44%,,Y,62.00%,415,263
+ga,644,DeKalb County,1052,Brockett Elementary School,39.51%,*,N,,486,192
+ga,644,DeKalb County,0191,Browns Mill Elementary School,45.68%,,Y,61.89%,567,259
+ga,644,DeKalb County,3052,Canby Lane Elementary School,66.62%,,Y,62.00%,503,335
+ga,644,DeKalb County,2065,Cary Reynolds Elementary School,37.59%,*,N,,790,297
+ga,644,DeKalb County,0275,Cedar Grove Elementary School,47.64%,,Y,62.00%,611,291
+ga,644,DeKalb County,0172,Cedar Grove High School,44.70%,,Y,62.00%,1120,501
+ga,644,DeKalb County,0200,Cedar Grove Middle School,51.13%,,Y,62.00%,796,407
+ga,644,DeKalb County,1053,Chapel Hill Elementary School,64.73%,,Y,62.00%,640,414
+ga,644,DeKalb County,0193,Chapel Hill Middle School,40.98%,*,N,,837,343
+ga,644,DeKalb County,4053,Clarkston High School,53.84%,,Y,62.00%,1422,766
+ga,644,DeKalb County,1054,Columbia Elementary School,75.59%,,Y,62.00%,573,433
+ga,644,DeKalb County,2054,Columbia High School,58.74%,,Y,62.00%,958,563
+ga,644,DeKalb County,0301,Columbia Middle School,66.22%,,Y,62.00%,889,589
+ga,644,DeKalb County,4054,Cross Keys High School,34.77%,*,N,,1530,532
+ga,644,DeKalb County,0500,DeKalb Alternative School,62.11%,,Y,61.89%,161,100
+ga,644,DeKalb County,0705,DeKalb PATH Academy Charter School,38.86%,*,N,,368,143
+ga,644,DeKalb County,0113,DeKalb Preparatory Academy Charter,48.55%,*,N,,519,252
+ga,644,DeKalb County,1055,Dresden Elementary School,44.80%,*,N,,971,435
+ga,644,DeKalb County,3055,Dunaire Elementary School,58.95%,,Y,61.89%,507,299
+ga,644,DeKalb County,6014,Early Learning Center,52.57%,,Y,61.89%,175,92
+ga,644,DeKalb County,0181,Eldridge L. Miller Elementary School,68.12%,,Y,62.00%,579,394
+ga,644,DeKalb County,0810,Elizabeth Andrews High School,31.72%,*,N,,454,144
+ga,644,DeKalb County,0375,Fairington Elementary School,64.39%,,Y,61.89%,681,438
+ga,644,DeKalb County,0107,Flat Rock Elementary School,63.07%,,Y,62.00%,1043,658
+ga,644,DeKalb County,3056,Flat Shoals Elementary School,69.18%,,Y,62.00%,591,409
+ga,644,DeKalb County,0201,Freedom Middle School,60.57%,,Y,61.89%,1120,678
+ga,644,DeKalb County,3057,Hambrick Elementary School,51.55%,,Y,61.89%,580,299
+ga,644,DeKalb County,4058,Hightower Elementary School,33.51%,*,N,,752,252
+ga,644,DeKalb County,1059,Idlewood Elementary School,54.88%,,Y,61.89%,993,545
+ga,644,DeKalb County,2059,Indian Creek Elementary School,78.11%,,Y,61.89%,952,744
+ga,644,DeKalb County,0805,International Community School,43.62%,*,N,,431,188
+ga,644,DeKalb County,1102,John Robert Lewis Elementary School,46.32%,,Y,61.89%,380,176
+ga,644,DeKalb County,3059,Jolly Elementary School,62.76%,,Y,61.89%,685,430
+ga,644,DeKalb County,4059,Kelley Lake Elementary School,77.42%,,Y,62.00%,358,277
+ga,644,DeKalb County,0202,Lithonia High School,38.76%,*,N,,1370,531
+ga,644,DeKalb County,0203,Lithonia Middle School,51.72%,,Y,61.89%,1137,588
+ga,644,DeKalb County,0197,Marbut Elementary School,40.46%,*,N,,697,282
+ga,644,DeKalb County,0510,Margaret Harris Comprehensive School,31.08%,*,N,,74,23
+ga,644,DeKalb County,0103,"Martin Luther King, Jr. High School ",36.81%,*,N,,1532,564
+ga,644,DeKalb County,0401,Mary McLeod Bethune Middle School,66.36%,,Y,62.00%,862,572
+ga,644,DeKalb County,2061,McLendon Elementary School,53.97%,,Y,61.89%,463,250
+ga,644,DeKalb County,3070,McNair High School,62.13%,,Y,62.00%,661,411
+ga,644,DeKalb County,1057,McNair Middle School,76.57%,,Y,62.00%,720,551
+ga,644,DeKalb County,0105,Miller Grove High School,41.91%,*,N,,1317,552
+ga,644,DeKalb County,0597,Miller Grove Middle School,51.62%,,Y,61.89%,862,445
+ga,644,DeKalb County,4062,Montclair Elementary School,49.23%,,Y,62.00%,778,383
+ga,644,DeKalb County,4052,Murphy Candler Elementary School,46.90%,,Y,61.89%,533,250
+ga,644,DeKalb County,0305,Oakview Elementary,60.95%,,Y,62.00%,820,500
+ga,644,DeKalb County,0188,Panola Way Elementary School,59.87%,,Y,61.89%,850,509
+ga,644,DeKalb County,1101,Peachcrest Elementary School,75.07%,,Y,62.00%,954,716
+ga,644,DeKalb County,0190,Pine Ridge Elementary School,43.33%,,Y,61.89%,570,247
+ga,644,DeKalb County,3064,Pleasantdale Elementary School,37.46%,*,N,,694,260
+ga,644,DeKalb County,0108,Princeton Elementary School,50.46%,,Y,61.89%,763,385
+ga,644,DeKalb County,4064,Rainbow Elementary School,63.55%,,Y,61.89%,409,260
+ga,644,DeKalb County,5064,Redan Elementary School,67.02%,,Y,62.00%,577,387
+ga,644,DeKalb County,0176,Redan High School,42.02%,*,N,,1002,421
+ga,644,DeKalb County,0205,Redan Middle School,52.13%,,Y,61.89%,773,403
+ga,644,DeKalb County,0399,Robert Shaw Theme School,45.87%,,Y,61.89%,460,211
+ga,644,DeKalb County,3065,Rock Chapel Elementary School,42.23%,*,N,,521,220
+ga,644,DeKalb County,0272,Rockbridge Elementary School,57.16%,,Y,61.89%,859,491
+ga,644,DeKalb County,0409,Ronald E McNair Discover Learning Academy Elementary School,64.34%,,Y,61.89%,722,465
+ga,644,DeKalb County,4065,Rowland Elementary School,60.39%,,Y,61.89%,565,341
+ga,644,DeKalb County,0291,Salem Middle School,46.21%,,Y,62.00%,1028,475
+ga,644,DeKalb County,0290,Sequoyah Middle School,41.20%,*,N,,1762,726
+ga,644,DeKalb County,0293,Shadow Rock Elementary School,55.41%,,Y,61.89%,592,328
+ga,644,DeKalb County,3067,Smoke Rise Elementary School,31.20%,*,N,,407,127
+ga,644,DeKalb County,4067,Snapfinger Elementary School,80.99%,,Y,62.00%,717,581
+ga,644,DeKalb County,5067,Southwest DeKalb High School,34.52%,*,N,,1176,406
+ga,644,DeKalb County,0397,Stephenson Middle School,37.07%,*,N,,955,354
+ga,644,DeKalb County,0575,Stone Mill Elementary School,73.41%,,Y,62.00%,606,445
+ga,644,DeKalb County,2068,Stone Mountain Elementary School,56.29%,,Y,61.89%,517,291
+ga,644,DeKalb County,0276,Stone Mountain High School,43.94%,,Y,61.89%,1131,497
+ga,644,DeKalb County,0506,Stone Mountain Middle School,53.58%,,Y,61.89%,1019,546
+ga,644,DeKalb County,4068,Stoneview Elementary School,69.99%,,Y,62.00%,824,577
+ga,644,DeKalb County,3069,Toney Elementary School,79.01%,,Y,62.00%,321,254
+ga,644,DeKalb County,4069,Towers High School,58.40%,,Y,62.00%,842,492
+ga,644,DeKalb County,0605,Tucker Middle School,35.10%,*,N,,1265,444
+ga,644,DeKalb County,0675,Woodridge Elementary School,57.47%,,Y,61.89%,516,297
+ga,644,DeKalb County,1071,Woodward Elementary School,52.58%,,Y,61.89%,910,478
+ga,645,Dodge County,0292,DAC (Dodge County Achievement Center),62.79%,*,N,,43,27
+ga,645,Dodge County,0103,Dodge County High School,37.85%,*,N,,856,324
+ga,645,Dodge County,0180,Dodge County Middle School,46.57%,,Y,54.14%,679,316
+ga,645,Dodge County,6196,Dodge Pre K,74.64%,,Y,54.14%,112,84
+ga,645,Dodge County,0291,North Dodge Elementary School,53.25%,,Y,54.14%,674,359
+ga,645,Dodge County,0191,South Dodge Elementary School,58.32%,,Y,54.14%,719,419
+ga,646,Dooly County,0104,Dooly County Elementary School,76.09%,,Y,66.69%,631,480
+ga,646,Dooly County,0182,Dooly County High School,53.37%,,Y,66.69%,329,176
+ga,646,Dooly County,0204,Dooly County Middle School,60.57%,,Y,66.69%,265,161
+ga,646,Dooly County,0205,Dooly County Prep Academy,62.50%,,N,,8,5
+ga,647,Dougherty County,0101,Albany Middle School,71.86%,,Y,67.82%,982,706
+ga,647,Dougherty County,0299,Alice Coachman Elementary School,87.78%,,Y,67.82%,506,444
+ga,647,Dougherty County,2052,Dougherty Comprehensive High School,71.27%,,Y,67.82%,1139,812
+ga,647,Dougherty County,5056,International Studies Elementary Charter School,59.45%,,Y,67.82%,400,238
+ga,647,Dougherty County,4054,Lake Park Elementary School,32.48%,,Y,67.82%,529,172
+ga,647,Dougherty County,0199,Lamar Reese School of the Arts,76.24%,,Y,67.82%,485,370
+ga,647,Dougherty County,0205,Lincoln Elementary Magnet School,52.38%,,Y,67.82%,587,307
+ga,647,Dougherty County,0102,Live Oak Elementary School,64.09%,,Y,67.82%,732,469
+ga,647,Dougherty County,0399,"Martin Luther King, Jr. Elementary School",87.17%,,Y,67.82%,506,441
+ga,647,Dougherty County,4056,Merry Acres Middle School,68.15%,,Y,67.82%,685,467
+ga,647,Dougherty County,1058,Monroe High School,68.04%,,Y,67.82%,1089,741
+ga,647,Dougherty County,2058,Morningside Elementary School,90.14%,,Y,67.82%,432,389
+ga,647,Dougherty County,3058,Northside Elementary School,85.02%,,Y,67.82%,407,346
+ga,647,Dougherty County,5058,Radium Springs Elementary School,76.52%,,Y,67.82%,552,422
+ga,647,Dougherty County,0106,Radium Springs Middle School,74.83%,,Y,67.82%,816,611
+ga,647,Dougherty County,0103,Robert A. Cross Middle Magnet,38.58%,,Y,67.82%,673,260
+ga,647,Dougherty County,0105,Robert H Harvey Elementary School,87.18%,,Y,67.82%,674,588
+ga,647,Dougherty County,4060,Sherwood Acres Elementary School,63.22%,,Y,67.82%,646,408
+ga,647,Dougherty County,3062,Turner Elementary School,87.08%,,Y,67.82%,494,430
+ga,647,Dougherty County,5062,West Town Elementary School,82.22%,,Y,67.82%,442,363
+ga,647,Dougherty County,4062,Westover High School,42.24%,,Y,67.82%,1357,573
+ga,648,Douglas County,5052,Annette Winn Elementary School,39.18%,*,N,,462,181
+ga,648,Douglas County,2050,Beulah Elementary School,35.40%,*,N,,452,160
+ga,648,Douglas County,0198,Bright Star Elementary School,37.27%,*,N,,483,180
+ga,648,Douglas County,0398,Burnett Elementary School,54.00%,*,N,,437,236
+ga,648,Douglas County,0188,Chestnut Log Middle School,37.43%,*,N,,740,277
+ga,648,Douglas County,0184,Dorsett Shoals Elementary School,34.92%,*,N,,461,161
+ga,648,Douglas County,0498,Eastside Elementary School,46.06%,*,N,,482,222
+ga,648,Douglas County,0213,Factory Shoals Elementary School,37.30%,*,N,,681,254
+ga,648,Douglas County,3052,Lithia Springs Elementary School,36.36%,*,N,,528,192
+ga,648,Douglas County,4052,Mount Carmel Elementary School,34.14%,*,N,,457,156
+ga,648,Douglas County,0104,North Douglas Elementary School,45.88%,*,N,,619,284
+ga,648,Douglas County,5050,Stewart Middle School,42.95%,*,N,,603,259
+ga,648,Douglas County,0298,Sweetwater Elementary School,41.63%,*,N,,490,204
+ga,648,Douglas County,2054,Turner Middle School,35.77%,*,N,,780,279
+ga,648,Douglas County,1054,Winston Elementary School,31.80%,*,N,,434,138
+ga,774,Dublin City,0211,Dublin High School,54.92%,,Y,71.69%,589,323
+ga,774,Dublin City,0102,Dublin Middle School,70.41%,,Y,71.69%,626,441
+ga,774,Dublin City,0112,Hillcrest Elementary,74.12%,,Y,71.69%,522,387
+ga,774,Dublin City,0412,Moore Street Facility,84.81%,,Y,71.69%,55,47
+ga,774,Dublin City,0312,Susie Dasher,85.01%,,Y,71.69%,571,485
+ga,649,Early County,0194,Early County Elementary School,68.21%,,Y,73.28%,932,636
+ga,649,Early County,2050,Early County High School,50.38%,,Y,73.28%,629,317
+ga,649,Early County,0197,Early County Middle School,58.35%,,Y,73.28%,454,265
+ga,650,Echols County,0112,Echols County Elementary/Middle School,62.21%,,Y,57.06%,662,412
+ga,650,Echols County,1050,Echols County High School,43.40%,,Y,57.06%,211,92
+ga,651,Effingham County,0103,Springfield Elementary School,31.57%,*,N,,700,221
+ga,652,Elbert County,0313,Elbert County Elementary School,56.56%,,Y,53.22%,669,378
+ga,652,Elbert County,0104,Elbert County Middle School ,47.71%,,Y,53.22%,930,444
+ga,652,Elbert County,0213,Elbert County Primary School,58.80%,,Y,53.22%,481,283
+ga,652,Elbert County,0113,Paul J. Blackwell Learning Center,100.00%,,Y,53.22%,165,165
+ga,653,Emanuel County,2050,Emanuel County Institute,34.97%,,Y,54.26%,651,228
+ga,653,Emanuel County,0198,Swainsboro Elementary School,63.35%,,Y,54.26%,712,451
+ga,653,Emanuel County,0189,Swainsboro High School,46.50%,,Y,54.26%,710,330
+ga,653,Emanuel County,0192,Swainsboro Middle School,55.31%,,Y,54.26%,734,406
+ga,653,Emanuel County,0196,Swainsboro Primary School,69.14%,,Y,54.26%,871,602
+ga,653,Emanuel County,0100,Twin City Elementary School,47.76%,,Y,54.26%,606,289
+ga,654,Evans County,0196,Claxton Elementary School,68.55%,,Y,60.55%,1002,687
+ga,654,Evans County,2050,Claxton High School,50.25%,,Y,60.55%,449,226
+ga,654,Evans County,3050,Claxton Middle School,59.76%,,Y,60.55%,419,250
+ga,654,Evans County,0197,Second Chance,59.25%,,Y,60.55%,27,16
+ga,655,Fannin County,1050,Blue Ridge Elementary School,34.48%,*,N,,496,171
+ga,655,Fannin County,0194,East Fannin Elementary School,35.66%,*,N,,373,133
+ga,655,Fannin County,0193,Fannin County Middle School,31.35%,*,N,,724,227
+ga,655,Fannin County,0293,West Fannin Elementary School,35.83%,*,N,,480,172
+ga,657,Floyd County,1050,Alto Park Elementary School,42.51%,*,N,,447,190
+ga,657,Floyd County,3050,Cave Spring Elementary School,40.91%,*,N,,264,108
+ga,657,Floyd County,0103,Coosa Middle School,36.26%,*,N,,593,215
+ga,657,Floyd County,2052,Garden Lakes Elementary School,36.43%,*,N,,667,243
+ga,657,Floyd County,0173,McHenry Primary,39.39%,*,N,,132,52
+ga,657,Floyd County,0188,Model Elementary School,31.18%,*,N,,526,164
+ga,657,Floyd County,0199,Pepperell Elementary,38.38%,*,N,,581,223
+ga,657,Floyd County,0273,Pepperell Middle School,35.13%,*,N,,686,241
+ga,657,Floyd County,4054,Pepperell Primary,37.62%,*,N,,529,199
+ga,659,Franklin County,1052,Royston Elementary School,31.23%,*,N,,522,163
+ga,660,Fulton County,5060,Asa Hilliard Elementary School,70.22%,,Y,64.30%,581,408
+ga,660,Fulton County,0176,Banneker High School,63.99%,,Y,64.30%,1572,1006
+ga,660,Fulton County,0391,Bear Creek Middle School,32.84%,*,N,,1224,402
+ga,660,Fulton County,2058,Bethune Elementary School,67.11%,,Y,64.30%,613,411
+ga,660,Fulton County,2550,Brookview Elementary School,79.64%,,Y,64.30%,503,401
+ga,660,Fulton County,0186,Camp Creek Middle School,60.97%,,Y,64.30%,590,360
+ga,660,Fulton County,2070,Campbell Elementary School,56.51%,,Y,64.30%,708,400
+ga,660,Fulton County,1315,College Park Elementary,76.77%,,Y,64.30%,764,587
+ga,660,Fulton County,5052,Conley Hills Elementary School,64.95%,,Y,64.30%,612,397
+ga,660,Fulton County,0291,Creekside High School,30.05%,*,N,,1787,537
+ga,660,Fulton County,4069,E. C. West Elementary School,31.12%,*,N,,829,258
+ga,660,Fulton County,0114,Feldwood Elementary School,61.29%,,Y,64.30%,752,461
+ga,660,Fulton County,0276,Gullatt Elementary School,71.77%,,Y,64.30%,705,506
+ga,660,Fulton County,0501,Hamilton E. Holmes Elementary,69.72%,,Y,64.30%,694,484
+ga,660,Fulton County,0192,Hapeville Elementary School,64.99%,,Y,64.30%,643,418
+ga,660,Fulton County,0301,Heritage Elementary School,75.99%,,Y,64.30%,491,373
+ga,660,Fulton County,0909,Lake Forest Elementary,66.52%,,Y,64.30%,806,536
+ga,660,Fulton County,1110,Langston Hughes High School,30.64%,*,N,,1952,598
+ga,660,Fulton County,3058,Lee Elementary School,59.36%,,Y,64.30%,486,288
+ga,660,Fulton County,0503,Liberty Point Elementary School,54.79%,,Y,64.30%,725,397
+ga,660,Fulton County,0383,McClarin High School,65.31%,,Y,64.30%,164,107
+ga,660,Fulton County,0189,McNair Middle School,64.05%,,Y,64.30%,833,534
+ga,660,Fulton County,0275,Nolan Elementary School,66.17%,,Y,64.30%,745,493
+ga,660,Fulton County,0206,Oakley Elementary School,53.45%,,Y,64.30%,772,413
+ga,660,Fulton County,0292,Palmetto Elementary School,62.52%,,Y,64.30%,440,275
+ga,660,Fulton County,3064,Parklane Elementary School,77.72%,,Y,64.30%,456,354
+ga,660,Fulton County,0803,Paul D. West Middle School,64.87%,,Y,64.30%,838,544
+ga,660,Fulton County,0390,Randolph Elementary School,35.85%,*,N,,569,204
+ga,660,Fulton County,0109,Renaissance ES,45.74%,,Y,64.30%,624,285
+ga,660,Fulton County,0107,Renaissance Middle School ,32.90%,*,N,,1298,427
+ga,660,Fulton County,0273,S. L. Lewis Elementary School,64.38%,,Y,64.30%,654,421
+ga,660,Fulton County,0691,Tri-Cities High School,53.07%,,Y,64.30%,1509,801
+ga,660,Fulton County,0289,Woodland Middle School,73.40%,,Y,64.30%,865,635
+ga,776,Gainesville City,0193,Centennial Arts Academy,32.58%,*,N,,890,290
+ga,776,Gainesville City,2550,Fair Street International Baccalaureate World School,37.05%,*,N,,448,166
+ga,776,Gainesville City,0104,New Holland Core Knowledge Academy,33.15%,*,N,,712,236
+ga,661,Gilmer County,0107,Clear Creek Middle School,32.96%,*,N,,625,206
+ga,661,Gilmer County,0212,Ellijay Elementary School,37.34%,*,N,,624,233
+ga,661,Gilmer County,0113,Ellijay Primary School,38.12%,*,N,,543,207
+ga,661,Gilmer County,0112,Gilmer Middle school,37.48%,*,N,,675,253
+ga,661,Gilmer County,0103,Mountain View Elementary,32.79%,*,N,,494,162
+ga,663,Glynn County,1052,Altama Elementary School,54.81%,*,N,,489,268
+ga,663,Glynn County,4052,Burroughs-Molette Elementary School,72.36%,*,N,,597,432
+ga,663,Glynn County,0178,Glyndale Elementary School,51.76%,*,N,,682,353
+ga,663,Glynn County,0112,Glynn Middle,32.23%,*,N,,847,273
+ga,663,Glynn County,0190,Golden Isles Elementary School,37.13%,*,N,,676,251
+ga,663,Glynn County,5052,Goodyear Elementary School,66.99%,*,N,,512,343
+ga,663,Glynn County,0114,Jane Macon Middle,38.08%,*,N,,822,313
+ga,663,Glynn County,0107,"Morningstar Treatment Services, Inc. Youth Estate",100.00%,*,N,,38,38
+ga,663,Glynn County,0199,Needwood Middle School,35.66%,*,N,,659,235
+ga,663,Glynn County,0116,Risley Middle School,34.03%,*,N,,667,227
+ga,663,Glynn County,1056,St. Simons Elementary School,30.00%,*,N,,590,177
+ga,663,Glynn County,0106,Sterling Elementary School,43.06%,*,N,,843,363
+ga,664,Gordon County,0292,Ashworth Middle School,31.28%,*,N,,649,203
+ga,664,Gordon County,2050,Fairmount Elementary School,40.48%,*,N,,415,168
+ga,664,Gordon County,0274,Swain Elementary School,33.56%,*,N,,447,150
+ga,664,Gordon County,0176,Tolbert Elementary School,34.68%,*,N,,568,197
+ga,665,Grady County,1050,Cairo High School,43.10%,,Y,63.88%,1254,540
+ga,665,Grady County,0185,Eastside Elementary School,67.56%,,Y,63.88%,652,440
+ga,665,Grady County,1550,Northside Elementary School,81.75%,,Y,63.88%,366,299
+ga,665,Grady County,3050,Shiver Elementary School,47.20%,,Y,63.88%,532,251
+ga,665,Grady County,2050,Southside Elementary School,64.77%,,Y,63.88%,693,449
+ga,665,Grady County,0174,Washington Middle School,62.90%,,Y,63.88%,702,442
+ga,665,Grady County,1054,Whigham Elementary School,43.28%,,Y,63.88%,470,203
+ga,666,Greene County,0101,Anita White Carson Middle School,65.32%,,Y,61.10%,337,220
+ga,666,Greene County,0401,Greene County High School,46.26%,,Y,61.10%,422,195
+ga,666,Greene County,0301,Greensboro Elementary,70.16%,,Y,61.10%,535,375
+ga,666,Greene County,0201,Union Point Elementary,63.56%,,Y,61.10%,253,161
+ga,726,Griffin-Spalding County,1050,Anne Street Elementary School,88.29%,*,N,,410,362
+ga,726,Griffin-Spalding County,1550,Atkinson Elementary School,83.91%,*,N,,466,391
+ga,726,Griffin-Spalding County,0208,AZ Kelsey Academy,41.67%,*,N,,36,15
+ga,726,Griffin-Spalding County,1750,Beaverbrook Elementary School,51.52%,*,N,,363,187
+ga,726,Griffin-Spalding County,0106,Carver Road Middle School,44.06%,*,N,,497,219
+ga,726,Griffin-Spalding County,0192,Cowan Road Elementary School,56.37%,*,N,,573,323
+ga,726,Griffin-Spalding County,0201,Cowan Road Middle School,56.79%,*,N,,611,347
+ga,726,Griffin-Spalding County,0199,Futral Road Elementary School,36.72%,*,N,,659,242
+ga,726,Griffin-Spalding County,0187,Griffin High School,44.78%,*,N,,1436,643
+ga,726,Griffin-Spalding County,1052,Jackson Road Elementary School,48.34%,*,N,,422,204
+ga,726,Griffin-Spalding County,0195,Jordan Hill Road Elementary School,53.69%,*,N,,447,240
+ga,726,Griffin-Spalding County,0107,Kennedy Road Middle School,51.12%,*,N,,489,250
+ga,726,Griffin-Spalding County,2552,Moore Elementary School,78.83%,*,N,,392,309
+ga,726,Griffin-Spalding County,0103,Moreland Road Elementary,41.68%,*,N,,523,218
+ga,726,Griffin-Spalding County,4052,Orrs Elementary School,57.24%,*,N,,580,332
+ga,726,Griffin-Spalding County,0110,Rehoboth Road Middle School,38.14%,*,N,,679,259
+ga,667,Gwinnett County,0109,Benefield Elementary School,45.95%,*,N,,1234,567
+ga,667,Gwinnett County,1812,Graves Elementary School,31.03%,*,N,,1247,387
+ga,667,Gwinnett County,0388,Gwinnett InterVention Education (GIVE) Center East,39.94%,*,N,,333,133
+ga,667,Gwinnett County,1114,Gwinnett Intervention Education Center (GIVE) West,43.48%,*,N,,253,110
+ga,667,Gwinnett County,1015,Jenkins Elementary School,33.29%,*,N,,850,283
+ga,667,Gwinnett County,1813,Jordan Middle School,30.14%,*,N,,929,280
+ga,667,Gwinnett County,5054,Lawrenceville Elementary School,38.73%,*,N,,661,256
+ga,667,Gwinnett County,1056,Lilburn Middle School,32.26%,*,N,,1764,569
+ga,667,Gwinnett County,0199,Meadowcreek Elementary School,32.02%,*,N,,890,285
+ga,667,Gwinnett County,0294,Nesbit Elementary School,31.93%,*,N,,1184,378
+ga,667,Gwinnett County,1505,Radloff Middle School,31.71%,*,N,,1394,442
+ga,667,Gwinnett County,1058,Rockbridge Elementary School,34.72%,*,N,,1250,434
+ga,667,Gwinnett County,0300,Stripling Elementary School,33.47%,*,N,,723,242
+ga,668,Habersham County,1050,Baldwin Elementary School,35.36%,*,N,,379,134
+ga,668,Habersham County,0189,Clarkesville Elementary School,31.21%,*,N,,423,132
+ga,668,Habersham County,0101,Cornelia Elementary School,43.49%,*,N,,538,234
+ga,668,Habersham County,0112,Hilliard A. Wilbanks Middle School,30.87%,*,N,,515,159
+ga,668,Habersham County,0105,Level Grove Elementary School,32.94%,*,N,,589,194
+ga,668,Habersham County,0296,South Habersham Middle School,31.45%,*,N,,461,145
+ga,668,Habersham County,3054,Woodville Elementary School,33.02%,*,N,,215,71
+ga,669,Hall County,0392,Alternative Learning Center,50.98%,*,N,,51,26
+ga,669,Hall County,0106,Chicopee Elementary School,43.44%,*,N,,716,311
+ga,669,Hall County,0105,Lanier College and Career Academy,33.65%,*,N,,211,71
+ga,669,Hall County,5052,Lyman Hall Elementary School,47.08%,*,N,,718,338
+ga,669,Hall County,0176,Myers Elementary School,33.33%,*,N,,618,206
+ga,669,Hall County,2056,Oakwood Elementary School,34.67%,*,N,,473,164
+ga,669,Hall County,4556,South Hall Middle School,30.14%,*,N,,1085,327
+ga,669,Hall County,5056,Tadmore Elementary School,33.03%,*,N,,557,184
+ga,669,Hall County,1058,White Sulphur Elementary School,48.85%,*,N,,479,234
+ga,670,Hancock County,0288,Hancock Central High School,46.56%,,Y,63.10%,235,109
+ga,670,Hancock County,0106,Hancock Central Middle School,52.11%,,Y,63.10%,213,111
+ga,670,Hancock County,0188,Lewis Elementary School,73.54%,,Y,63.10%,390,287
+ga,671,Haralson County,0178,Buchanan Elementary School,49.09%,,Y,45.02%,364,179
+ga,671,Haralson County,2050,Buchanan Primary School,58.03%,,Y,45.02%,421,244
+ga,671,Haralson County,3050,Haralson County High School,32.43%,,Y,45.02%,912,296
+ga,671,Haralson County,0197,Haralson County Middle School,44.38%,,Y,45.02%,785,348
+ga,671,Haralson County,0198,Haralson County Rebel Academy,57.14%,,Y,45.02%,21,12
+ga,671,Haralson County,0104,Tallapoosa Primary School,52.64%,,Y,45.02%,457,241
+ga,671,Haralson County,4050,West Haralson Elementary School,46.85%,,Y,45.02%,400,187
+ga,673,Hart County,0191,Hart County Middle School,32.66%,*,N,,836,273
+ga,673,Hart County,5050,Hartwell Elementary School,46.09%,*,N,,512,236
+ga,673,Hart County,0102,North Hart Elementary School,35.83%,*,N,,614,220
+ga,673,Hart County,0202,South Hart Elementary School,40.51%,*,N,,590,239
+ga,674,Heard County,1050,Centralhatchee Elementary School,31.63%,*,N,,196,62
+ga,674,Heard County,2050,Ephesus Elementary School,32.68%,*,N,,153,50
+ga,674,Heard County,0110,Heard County High School,31.53%,*,N,,593,187
+ga,674,Heard County,0102,Heard County Middle School,33.47%,*,N,,481,161
+ga,674,Heard County,0106,Heard Elementary School,39.36%,*,N,,686,270
+ga,675,Henry County,0294,Austin Road Elementary School,31.30%,*,N,,361,113
+ga,675,Henry County,0191,Cotton Indian Elementary School,31.23%,*,N,,666,208
+ga,675,Henry County,0394,Eagle's Landing Middle School,31.40%,*,N,,1070,336
+ga,675,Henry County,1050,Fairview Elementary School,32.04%,*,N,,565,181
+ga,675,Henry County,2050,Hampton Elementary School,37.15%,*,N,,393,146
+ga,675,Henry County,3050,Henry County High School,31.12%,*,N,,1070,333
+ga,675,Henry County,4050,Henry County Middle School,39.05%,*,N,,776,303
+ga,675,Henry County,5050,Locust Grove Elementary School,32.16%,*,N,,426,137
+ga,675,Henry County,0291,Oakland Elementary School,43.13%,*,N,,721,311
+ga,675,Henry County,0197,Pleasant Grove Elementary School,30.38%,*,N,,497,151
+ga,675,Henry County,2552,Smith-Barnes Elementary School,35.46%,*,N,,313,111
+ga,675,Henry County,3052,Stockbridge Elementary School,34.43%,*,N,,546,188
+ga,675,Henry County,5052,Stockbridge Middle School,34.58%,*,N,,720,249
+ga,675,Henry County,0409,Tussahaw Elementary,41.62%,*,N,,829,345
+ga,675,Henry County,0208,Walnut Creek Elementary,31.50%,*,N,,654,206
+ga,675,Henry County,0194,Wesley Lakes Elementary School,39.67%,*,N,,794,315
+ga,676,Houston County,0102,C. B. Watson Primary School,60.33%,,Y,48.95%,530,320
+ga,676,Houston County,2050,Centerville Elementary School,48.94%,,Y,52.53%,628,307
+ga,676,Houston County,0116,Houston County Crossroads Center,66.51%,,Y,52.53%,137,91
+ga,676,Houston County,0105,Huntington Middle School,49.16%,,Y,57.57%,818,402
+ga,676,Houston County,4050,Lindsey Elementary School,88.28%,,Y,52.53%,249,220
+ga,676,Houston County,5050,Miller Elementary School,68.82%,,Y,52.53%,533,367
+ga,676,Houston County,2054,Morningside Elementary School,63.51%,,Y,52.53%,488,310
+ga,676,Houston County,0191,Northside Elementary School,66.26%,,Y,52.53%,572,379
+ga,676,Houston County,2052,Northside High School,36.23%,,Y,40.26%,1827,662
+ga,676,Houston County,1052,Northside Middle School,54.56%,,Y,48.95%,899,490
+ga,676,Houston County,3052,Parkwood Elementary School,74.61%,,Y,57.57%,667,498
+ga,676,Houston County,0175,Pearl Stephens Elementary School,61.97%,,Y,57.57%,446,276
+ga,676,Houston County,4054,Russell Elementary School,52.84%,,Y,48.95%,679,359
+ga,676,Houston County,5054,Shirley Hills Elementary School,50.42%,,Y,52.53%,557,281
+ga,676,Houston County,0204,Thomson Middle School,38.51%,,Y,40.26%,779,300
+ga,676,Houston County,3056,Tucker Elementary School,51.52%,,Y,57.57%,499,257
+ga,676,Houston County,4056,Warner Robins High School,37.47%,,Y,40.26%,1612,604
+ga,676,Houston County,5056,Warner Robins Middle School,50.45%,,Y,48.95%,835,421
+ga,676,Houston County,2058,Westside Elementary School,81.96%,,Y,57.57%,545,447
+ga,677,Irwin County,0188,Irwin County Elementary School,54.98%,,Y,52.98%,828,455
+ga,677,Irwin County,2050,Irwin County High School,40.67%,,Y,47.69%,474,193
+ga,677,Irwin County,0173,Irwin County Middle School,55.31%,,Y,47.69%,417,231
+ga,678,Jackson County,0104,East Jackson Elementary School,30.86%,*,N,,687,212
+ga,678,Jackson County,0197,East Jackson Middle School,30.63%,*,N,,555,170
+ga,678,Jackson County,2550,Maysville Elementary School,38.78%,*,N,,343,133
+ga,678,Jackson County,4050,South Jackson Elementary School,34.55%,*,N,,605,209
+ga,679,Jasper County,0201,Jasper County Middle School,31.17%,*,N,,555,173
+ga,679,Jasper County,0195,Jasper County Primary School,31.04%,*,N,,625,194
+ga,679,Jasper County,0100,Washington Park Elementary School,35.85%,*,N,,530,190
+ga,680,Jeff Davis County,0175,Jeff Davis Elementary School,54.79%,,Y,52.90%,679,372
+ga,680,Jeff Davis County,0199,Jeff Davis High School,32.21%,*,N,,863,278
+ga,680,Jeff Davis County,0111,Jeff Davis Middle School,45.36%,,Y,52.90%,682,309
+ga,680,Jeff Davis County,6002,Jeff Davis Pre-K,64.16%,,Y,52.90%,180,115
+ga,680,Jeff Davis County,0105,Jeff Davis Primary School,55.69%,,Y,52.90%,695,387
+ga,681,Jefferson County,1050,Carver Elementary School,76.47%,,Y,63.40%,215,164
+ga,681,Jefferson County,0196,Jefferson County High School,53.23%,,Y,63.40%,781,416
+ga,681,Jefferson County,397,Jefferson County Middle School,60.82%,,Y,63.40%,288,175
+ga,681,Jefferson County,1550,Louisville Academy,67.29%,,Y,63.40%,460,310
+ga,681,Jefferson County,0296,Louisville Middle School,67.51%,,N,,288,194
+ga,681,Jefferson County,3550,Wrens Elementary School,66.86%,,Y,63.40%,510,341
+ga,681,Jefferson County,0396,Wrens Middle School,55.71%,,N,,231,129
+ga,682,Jenkins County,1050,Jenkins County Elementary School,73.96%,,Y,66.49%,588,435
+ga,682,Jenkins County,0201,Jenkins County High School,55.00%,,Y,66.49%,305,168
+ga,682,Jenkins County,0101,Jenkins County Middle School,62.20%,,Y,66.49%,270,168
+ga,683,Johnson County,0197,Johnson County Elementary School,62.71%,,Y,59.01%,499,313
+ga,683,Johnson County,0201,Johnson County High School ,46.75%,,Y,59.01%,353,165
+ga,683,Johnson County,0101,Johnson County Middle School,55.12%,,Y,59.01%,270,149
+ga,684,Jones County,0101,Clifton Ridge Middle School,30.67%,*,N,,600,184
+ga,684,Jones County,1550,Gray Elementary School,32.32%,*,N,,591,191
+ga,684,Jones County,0102,Mattie Wells Elementary School,37.78%,*,N,,659,249
+ga,377,KIPP SFA,0212,KIPP Atlanta Collegiate Academy,50.10%,,Y,59.33%,775,388
+ga,377,KIPP SFA,9018,KIPP SOUL Primary,64.22%,,Y,59.33%,109,70
+ga,377,KIPP SFA,9009,KIPP Strive Academy,47.18%,,Y,59.33%,390,184
+ga,377,KIPP SFA,0213,KIPP Strive Primary,61.15%,,Y,59.33%,506,309
+ga,377,KIPP SFA,0122,KIPP VISION,73.67%,,Y,59.33%,365,269
+ga,377,KIPP SFA,0214,KIPP Vision Primary,69.31%,,Y,59.33%,498,345
+ga,377,KIPP SFA,0215,Kipp WAYS Primary School,60.61%,,Y,59.33%,505,306
+ga,377,KIPP SFA,0605,KIPP West Atlanta Young Scholars Academy,57.41%,,Y,59.33%,361,207
+ga,685,Lamar County,0105,Lamar County Elementary School,36.85%,*,N,,597,220
+ga,685,Lamar County,0199,Lamar County Middle School,32.07%,*,N,,608,195
+ga,685,Lamar County,0205,Lamar County Primary School,46.45%,*,N,,719,334
+ga,686,Lanier County,0111,Lanier County Elementary School,59.62%,,Y,53.93%,458,273
+ga,686,Lanier County,0201,Lanier County High School,63.22%,,Y,53.93%,435,275
+ga,686,Lanier County,0101,Lanier County Middle School,60.61%,,Y,53.93%,373,226
+ga,686,Lanier County,3050,Lanier County Primary School,57.50%,,Y,53.93%,459,264
+ga,687,Laurens County,0105,East Laurens Elementary School,59.85%,,Y,53.03%,534,320
+ga,687,Laurens County,0197,East Laurens High School,51.85%,,Y,53.03%,622,323
+ga,687,Laurens County,0297,East Laurens Middle School,59.83%,,Y,53.03%,531,318
+ga,687,Laurens County,0104,East Laurens Primary School,66.82%,,Y,53.03%,664,444
+ga,687,Laurens County,0201,Northwest Laurens Elementary,34.21%,,Y,53.03%,965,330
+ga,687,Laurens County,0101,Southwest Laurens Elementary,56.28%,,Y,53.03%,1056,594
+ga,687,Laurens County,110,West Laurens High School,40.07%,,Y,53.03%,1214,486
+ga,687,Laurens County,2054,West Laurens Middle School,45.33%,,Y,53.03%,1008,457
+ga,688,Lee County,0197,Kinchafoonee Primary School,34.13%,*,N,,967,330
+ga,688,Lee County,0103,Lee County Elementary School,32.15%,*,N,,703,226
+ga,688,Lee County,0187,Lee County Primary School,32.86%,*,N,,703,231
+ga,688,Lee County,0393,Twin Oaks Elementary,31.87%,*,N,,731,233
+ga,689,Liberty County,0180,Button Gwinnett Elementary School,32.30%,*,N,,1093,353
+ga,689,Liberty County,0196,Frank Long Elementary School,37.44%,*,N,,625,234
+ga,689,Liberty County,0189,Joseph Martin Elementary School,30.57%,*,N,,664,203
+ga,689,Liberty County,0197,Lewis Frasier Middle School,31.05%,*,N,,802,249
+ga,689,Liberty County,0102,Liberty Elementary School ,31.20%,*,N,,718,224
+ga,689,Liberty County,0183,Lyman Hall Elementary School,39.35%,*,N,,648,255
+ga,689,Liberty County,0195,Snelson-Golden Middle School,37.57%,*,N,,724,272
+ga,690,Lincoln County,0176,Lincoln County Elementary School,46.21%,*,N,,541,250
+ga,690,Lincoln County,0110,Lincoln County High School,32.65%,*,N,,340,111
+ga,690,Lincoln County,0101,Lincoln County Middle School,38.52%,*,N,,257,99
+ga,691,Long County,0288,Long County Middle School,32.00%,*,N,,878,281
+ga,691,Long County,0289,McClelland Elementary School,35.05%,*,N,,933,327
+ga,691,Long County,0100,Smiley Elementary School,32.39%,*,N,,1025,332
+ga,692,Lowndes County,1050,Clyattville Elementary School,55.12%,,Y,50.79%,657,362
+ga,692,Lowndes County,4050,Lake Park Elementary School,31.34%,*,N,,737,231
+ga,692,Lowndes County,1052,Lowndes Middle School,35.93%,*,N,,835,300
+ga,692,Lowndes County,0194,Moulton-Branch Elementary School,46.04%,,Y,50.79%,591,272
+ga,693,Lumpkin County,0191,Long Branch Elementary School,32.83%,*,N,,460,151
+ga,694,Macon County,0198,Macon County Elementary School,69.40%,,Y,63.07%,605,420
+ga,694,Macon County,2060,Macon County High School,56.72%,,Y,63.07%,407,231
+ga,694,Macon County,0199,Macon County Middle School,65.42%,,Y,63.07%,268,175
+ga,695,Madison County,1050,Colbert Elementary School,35.55%,*,N,,467,166
+ga,695,Madison County,2050,Comer Elementary School,34.47%,*,N,,438,151
+ga,695,Madison County,0195,Danielsville Elementary School,36.34%,*,N,,476,173
+ga,695,Madison County,0101,Hull-Sanford Elementary School,42.78%,*,N,,589,252
+ga,695,Madison County,4050,Ila Elementary School,31.52%,*,N,,460,145
+ga,695,Madison County,1052,Madison County Middle School,33.04%,*,N,,1132,374
+ga,696,Marion County,0197,L. K. Moss Elementary School,65.81%,,Y,57.38%,642,423
+ga,696,Marion County,0275,Marion County Middle/High School,48.58%,,Y,57.38%,709,344
+ga,697,McDuffie County,0191,Dearing Elementary School,46.90%,,Y,58.26%,478,224
+ga,697,McDuffie County,0179,Maxwell Elementary School,66.05%,,Y,58.26%,506,334
+ga,697,McDuffie County,0113,Norris Elementary School,64.09%,,Y,58.26%,473,303
+ga,697,McDuffie County,4050,Thomson Elementary School,66.74%,,Y,58.26%,441,294
+ga,697,McDuffie County,0192,Thomson High School,40.65%,,Y,40.65%,1037,422
+ga,697,McDuffie County,0112,Thomson-McDuffie Middle School,52.34%,,Y,58.26%,875,458
+ga,698,McIntosh County,0104,McIntosh Academy,44.50%,,Y,53.45%,368,164
+ga,698,McIntosh County,0101,McIntosh County Middle School,52.32%,,Y,53.45%,311,163
+ga,698,McIntosh County,0205,Todd Grant Elementary School,58.85%,,Y,53.45%,644,379
+ga,699,Meriwether County,0102,George E. Washington Elementary School (PK-5),75.06%,,Y,57.52%,283,212
+ga,699,Meriwether County,0300,Greenville High School,55.30%,,Y,57.52%,280,155
+ga,699,Meriwether County,0401,Greenville Middle School,55.30%,,Y,57.52%,234,129
+ga,699,Meriwether County,4050,Manchester High School,47.01%,,Y,57.52%,411,193
+ga,699,Meriwether County,5050,Manchester Middle School,50.43%,,Y,57.52%,314,158
+ga,699,Meriwether County,0200,Mountain View Elementary School,56.70%,,Y,57.52%,686,389
+ga,699,Meriwether County,0100,Unity Elementary School (PK-5),61.36%,,Y,57.52%,349,214
+ga,700,Miller County,0110,Miller County Elementary School,61.01%,,Y,76.74%,430,262
+ga,700,Miller County,0210,Miller County High School,48.57%,,Y,76.74%,267,130
+ga,700,Miller County,0310,Miller County Middle School,56.48%,,Y,76.74%,225,127
+ga,701,Mitchell County,0105,Baconton Community Charter School,30.82%,,N,,859,265
+ga,701,Mitchell County,0111,Mitchell County Elementary School,84.50%,,Y,92.49%,337,285
+ga,701,Mitchell County,0282,Mitchell County High School,69.22%,,Y,92.49%,453,314
+ga,701,Mitchell County,0197,Mitchell County Middle School,73.79%,,Y,92.49%,334,246
+ga,701,Mitchell County,0198,Mitchell County Primary School,81.84%,,Y,92.49%,275,225
+ga,702,Monroe County,0205,Samuel E. Hubbard Elementary School,31.43%,*,N,,649,204
+ga,703,Montgomery County,0107,Montgomery County Elementary School,69.31%,,Y,59.30%,417,289
+ga,703,Montgomery County,0201,Montgomery County High School,69.73%,,Y,59.30%,265,185
+ga,703,Montgomery County,0101,Montgomery County Middle School,74.53%,,Y,59.30%,210,157
+ga,705,Murray County,1050,Chatsworth Elementary School,51.19%,,N,,774,396
+ga,705,Murray County,0195,Coker Elementary School,55.22%,,Y,55.64%,751,415
+ga,705,Murray County,0198,Eton Elementary School,53.87%,,N,,555,299
+ga,705,Murray County,4050,Gladden Middle School,34.18%,*,N,,632,216
+ga,705,Murray County,5050,Northwest Elementary School,51.93%,,Y,51.26%,571,297
+ga,705,Murray County,0108,Pleasant Valley Innovative School,48.51%,,Y,51.26%,59,29
+ga,705,Murray County,1052,Spring Place Elementary School,56.12%,,Y,55.64%,641,360
+ga,706,Muscogee County,4065,Allen Elementary School,47.17%,,Y,57.41%,458,216
+ga,706,Muscogee County,2050,Arnold Middle School,45.03%,,Y,57.41%,589,265
+ga,706,Muscogee County,0300,Baker Middle School,80.30%,,Y,57.41%,564,453
+ga,706,Muscogee County,2052,Blanchard Elementary School,29.53%,,Y,57.41%,568,168
+ga,706,Muscogee County,0192,Brewer Elementary School,84.15%,,Y,57.41%,517,435
+ga,706,Muscogee County,5052,Carver High School,60.69%,,Y,57.41%,956,580
+ga,706,Muscogee County,4056,Davis Elementary School,84.97%,,Y,57.41%,401,341
+ga,706,Muscogee County,5056,Dawson Elementary School,69.20%,,Y,57.41%,336,233
+ga,706,Muscogee County,1058,Dimon Elementary ,56.18%,,Y,57.41%,458,257
+ga,706,Muscogee County,0215,Dorothy Height Elementary School,85.34%,,Y,57.41%,498,425
+ga,706,Muscogee County,0401,Double Churches Middle School,44.44%,,Y,57.41%,545,242
+ga,706,Muscogee County,0296,Downtown Elementary Magnet Academy,71.21%,,Y,57.41%,321,229
+ga,706,Muscogee County,0112,Early College Academy of Columbus at Waverly Terrace,71.83%,,N,,124,89
+ga,706,Muscogee County,0301,East Columbus Magnet Academy,52.81%,,Y,57.41%,553,292
+ga,706,Muscogee County,5058,Eddy Middle School,75.98%,,Y,57.41%,449,341
+ga,706,Muscogee County,3060,Forrest Road Elementary School,70.33%,,Y,57.41%,415,292
+ga,706,Muscogee County,0178,Fort Middle School,56.36%,,Y,57.41%,609,343
+ga,706,Muscogee County,0102,Fox Elementary School,84.46%,,Y,57.41%,388,328
+ga,706,Muscogee County,5060,Gentian Elementary School,51.69%,,Y,57.41%,450,233
+ga,706,Muscogee County,1062,Georgetown Elementary School,72.94%,,Y,57.41%,535,390
+ga,706,Muscogee County,0191,Hannan Elementary ,58.14%,,Y,57.41%,504,293
+ga,706,Muscogee County,2062,Hardaway High School,36.90%,,Y,57.41%,1240,458
+ga,706,Muscogee County,4062,Johnson Elementary School,63.64%,,Y,57.41%,408,260
+ga,706,Muscogee County,5062,Jordan Vocational High School,54.92%,,Y,57.41%,779,428
+ga,706,Muscogee County,1064,Kendrick High School,55.61%,,Y,57.41%,855,475
+ga,706,Muscogee County,2064,Key Elementary School,76.75%,,Y,57.41%,336,258
+ga,706,Muscogee County,4058,Lonnie Jackson Academy,70.88%,,Y,57.41%,415,294
+ga,706,Muscogee County,0200,"Martin Luther King, Jr. Elementary School",85.90%,,Y,57.41%,464,399
+ga,706,Muscogee County,0501,Midland Academy,31.36%,,Y,57.41%,619,194
+ga,706,Muscogee County,0100,Midland Middle School,37.44%,,Y,57.41%,415,155
+ga,706,Muscogee County,1066,Reese Road Leadership Academy,44.53%,,Y,57.41%,464,207
+ga,706,Muscogee County,2066,Richards Middle School,46.76%,,Y,57.41%,782,366
+ga,706,Muscogee County,3066,Rigdon Road Elementary School,73.34%,,Y,57.41%,548,402
+ga,706,Muscogee County,4066,River Road Elementary School,53.16%,,Y,57.41%,444,236
+ga,706,Muscogee County,2067,Rothschild Leadership Academy School,70.49%,,Y,57.41%,536,378
+ga,706,Muscogee County,0278,Shaw High School,25.19%,,Y,57.41%,1154,291
+ga,706,Muscogee County,4067,South Columbus Elementary School,84.67%,,Y,57.41%,471,399
+ga,706,Muscogee County,0378,Spencer High School,55.60%,,Y,57.41%,991,551
+ga,706,Muscogee County,3068,St. Marys Video and Communication Technology,67.01%,,Y,57.41%,494,331
+ga,706,Muscogee County,3069,Waddell Elementary School,59.09%,,Y,57.41%,463,274
+ga,706,Muscogee County,5069,Wesley Heights Elementary School,68.59%,,Y,57.41%,493,338
+ga,706,Muscogee County,4070,Wynnton Elementary School,57.69%,,Y,57.41%,395,228
+ga,707,Newton County,0206,Alcovy High School,30.20%,*,N,,1934,584
+ga,707,Newton County,0117,Clements Middle School,42.32%,*,N,,853,361
+ga,707,Newton County,0196,Cousins Middle School,41.74%,*,N,,841,351
+ga,707,Newton County,0124,Fairview Elementary,45.44%,*,N,,537,244
+ga,707,Newton County,0122,Flint Hill Elementary,51.82%,*,N,,934,484
+ga,707,Newton County,4550,Heard-Mixon Elementary School,41.79%,*,N,,414,173
+ga,707,Newton County,0398,Indian Creek Middle School,35.78%,*,N,,939,336
+ga,707,Newton County,0114,Liberty Middle School,41.78%,*,N,,979,409
+ga,707,Newton County,0115,Live Oak Elementary,48.19%,*,N,,1106,533
+ga,707,Newton County,3050,Livingston Elementary School,47.99%,*,N,,423,203
+ga,707,Newton County,0198,Middle Ridge Elementary School,60.70%,*,N,,715,434
+ga,707,Newton County,0173,Newton High School,32.35%,*,N,,2501,809
+ga,707,Newton County,0102,Oak Hill Elementary School,39.12%,*,N,,680,266
+ga,707,Newton County,5050,Porterdale Elementary School,46.72%,*,N,,458,214
+ga,707,Newton County,0106,Rocky Plains Elementary School,42.65%,*,N,,558,238
+ga,707,Newton County,0111,South Salem Elementary School,50.00%,*,N,,902,451
+ga,707,Newton County,0101,Veterans Memorial Middle School,37.52%,*,N,,725,272
+ga,707,Newton County,0298,West Newton Elementary School,49.93%,*,N,,723,361
+ga,709,Oglethorpe County,0198,Oglethorpe County Elementary School,31.52%,*,N,,441,139
+ga,709,Oglethorpe County,0298,Oglethorpe County Primary School,31.70%,*,N,,530,168
+ga,710,Paulding County,1050,Dallas Elementary School,37.25%,*,N,,451,168
+ga,710,Paulding County,0197,Sam D. Panter Elementary School,31.89%,*,N,,530,169
+ga,711,Peach County,1050,Byron Elementary School,44.48%,,Y,46.98%,629,280
+ga,711,Peach County,0197,Byron Middle School,37.21%,,Y,46.98%,405,151
+ga,711,Peach County,0191,Fort Valley Middle School,65.09%,,Y,46.98%,434,282
+ga,711,Peach County,0210,Hunt Elementary School,76.45%,,Y,46.98%,610,466
+ga,711,Peach County,0110,Kay Road Elementary,57.50%,,Y,46.98%,568,327
+ga,711,Peach County,2052,Peach County High School,46.63%,,Y,46.98%,940,438
+ga,784,Pelham City,0201,Pelham City Middle School,67.47%,,Y,63.27%,353,238
+ga,784,Pelham City,3050,Pelham Elementary School,75.00%,,Y,63.27%,702,526
+ga,784,Pelham City,0111,Pelham High School,44.71%,,Y,63.27%,376,168
+ga,713,Pierce County,0297,Blackshear Elementary School,46.06%,*,N,,786,362
+ga,713,Pierce County,4050,Patterson Elementary School,34.24%,*,N,,476,163
+ga,713,Pierce County,0197,Pierce County Middle School,34.13%,*,N,,838,286
+ga,715,Polk County,5050,Cedartown High School,46.10%,,Y,53.39%,1267,584
+ga,715,Polk County,0103,Cedartown Middle School,56.38%,,Y,53.39%,1081,609
+ga,715,Polk County,0183,Cherokee Elementary School,54.58%,,Y,53.39%,645,352
+ga,715,Polk County,0274,Eastside Elementary School,52.26%,,Y,53.39%,797,417
+ga,715,Polk County,0188,Northside Elementary,60.64%,,Y,53.39%,507,307
+ga,715,Polk County,0102,Rockmart High School,41.98%,,Y,53.39%,908,381
+ga,715,Polk County,0104,Rockmart Middle School,51.24%,,Y,53.39%,746,382
+ga,715,Polk County,0210,Van Wert Elementary School,62.64%,,Y,53.39%,762,477
+ga,715,Polk County,0174,Westside Elementary School,55.46%,,Y,53.39%,607,337
+ga,715,Polk County,0310,Youngs Grove Elementary School,62.06%,,Y,53.39%,542,336
+ga,716,Pulaski County,2050,Hawkinsville High School,48.06%,,Y,51.41%,365,175
+ga,716,Pulaski County,3050,Pulaski County Elementary School,63.28%,,Y,62.54%,679,430
+ga,716,Pulaski County,0195,Pulaski County Middle School,47.22%,,Y,51.41%,302,143
+ga,717,Putnam County,0113,Putnam County Elementary School,63.30%,,Y,61.44%,746,472
+ga,717,Putnam County,0114,Putnam County High School,50.55%,,Y,61.44%,732,370
+ga,717,Putnam County,0111,Putnam County Middle School,58.45%,,Y,61.44%,656,383
+ga,717,Putnam County,0112,Putnam County Primary School,70.19%,,Y,61.44%,815,572
+ga,718,Quitman County,0199,Quitman County Elementary,67.19%,,Y,72.81%,208,140
+ga,718,Quitman County,0110,Quitman County High School,59.30%,,Y,72.81%,110,65
+ga,719,Rabun County,0114,Rabun County Primary School,30.44%,*,N,,588,179
+ga,720,Randolph County,0201,Randolph Clay High School,59.39%,,Y,83.79%,235,140
+ga,720,Randolph County,0101,Randolph Clay Middle School,49.25%,,Y,83.79%,170,84
+ga,720,Randolph County,2050,Randolph County Elementary School,71.95%,,Y,83.79%,421,303
+ga,721,Richmond County,4060,Academy of Richmond County High School,52.80%,,Y,61.23%,1175,620
+ga,721,Richmond County,0391,Alternative Education Center at Lamar,75.74%,,N,,147,111
+ga,721,Richmond County,2050,Barton Chapel Elementary School,77.84%,,Y,61.23%,486,378
+ga,721,Richmond County,3050,Bayvale Elementary School,73.29%,,Y,61.23%,409,300
+ga,721,Richmond County,0394,Belair K-8 School,20.28%,,Y,61.23%,925,188
+ga,721,Richmond County,4050,Blythe Elementary School,47.35%,,Y,61.23%,269,127
+ga,721,Richmond County,1052,Butler High School,74.82%,,Y,61.23%,892,667
+ga,721,Richmond County,2052,Copeland Elementary School,70.60%,,Y,61.23%,543,383
+ga,721,Richmond County,0100,Cross Creek High School,56.26%,,Y,61.23%,1168,657
+ga,721,Richmond County,4562,Davidson Magnet School,19.80%,,N,,826,164
+ga,721,Richmond County,0105,Deer Chase Elementary School,48.47%,,Y,61.23%,514,249
+ga,721,Richmond County,0205,Diamond Lakes Elementary School,52.53%,,Y,61.23%,517,272
+ga,721,Richmond County,5054,Dorothy Hains Elementary School,73.45%,,Y,61.23%,605,444
+ga,721,Richmond County,0103,Freedom Park Elementary,7.73%,,N,,772,60
+ga,721,Richmond County,1054,Garrett Elementary School,46.15%,,Y,61.23%,394,182
+ga,721,Richmond County,2054,Glenn Hills Elementary School,91.02%,,Y,61.23%,484,441
+ga,721,Richmond County,3054,Glenn Hills High School,95.66%,,Y,61.23%,638,610
+ga,721,Richmond County,0197,Glenn Hills Middle School,90.84%,,Y,61.23%,626,569
+ga,721,Richmond County,0194,Goshen Elementary School,42.83%,,Y,61.23%,492,211
+ga,721,Richmond County,4054,Gracewood Elementary School,57.60%,,Y,61.23%,585,337
+ga,721,Richmond County,0102,Hephzibah Elementary School,52.57%,,Y,61.23%,390,205
+ga,721,Richmond County,2056,Hephzibah High School,57.56%,,Y,61.23%,965,555
+ga,721,Richmond County,1156,Hephzibah Middle School,45.31%,,Y,61.23%,393,178
+ga,721,Richmond County,395,Innovation Academy for Boys,46.15%,,Y,61.23%,104,48
+ga,721,Richmond County,396,Innovation Academy for Girls,50.91%,,Y,61.23%,55,28
+ga,721,Richmond County,6077,Intermediate Literacy and Mathmatics Center,87.50%,,Y,61.23%,184,161
+ga,721,Richmond County,0189,Jamestown Elementary School,54.16%,,Y,61.23%,285,154
+ga,721,Richmond County,3556,Johnson Magnet,36.87%,,Y,61.23%,698,257
+ga,721,Richmond County,3756,Josey High School,99.63%,,Y,61.23%,553,551
+ga,721,Richmond County,0300,Lake Forest Hills Elementary School,39.35%,,Y,61.23%,574,226
+ga,721,Richmond County,0116,Lamar - Milledge Elementary School,77.15%,,Y,61.23%,427,329
+ga,721,Richmond County,5566,Laney High School,91.86%,,Y,61.23%,586,538
+ga,721,Richmond County,1058,Langford Middle School,61.17%,,Y,61.23%,747,457
+ga,721,Richmond County,0297,McBean Elementary School,51.97%,,Y,61.23%,403,209
+ga,721,Richmond County,0177,Meadowbrook Elementary School,76.36%,,Y,61.23%,429,328
+ga,721,Richmond County,2058,Merry Elementary School,59.83%,,Y,61.23%,464,278
+ga,721,Richmond County,4058,Monte Sano Elementary School,62.92%,,Y,61.23%,464,292
+ga,721,Richmond County,0184,Morgan Road Middle School,97.07%,,N,,668,648
+ga,721,Richmond County,5058,Murphey Middle School,98.66%,,Y,61.23%,757,747
+ga,721,Richmond County,0392,Performance Learning Center,57.27%,,Y,61.23%,355,203
+ga,721,Richmond County,0114,Pine Hill Middle School,50.17%,,Y,61.23%,685,344
+ga,721,Richmond County,0213,Richmond County Technical Career Magnet School,62.12%,,Y,61.23%,435,270
+ga,721,Richmond County,397,Richmond Hill K-8 School,65.77%,,Y,61.23%,897,590
+ga,721,Richmond County,1062,Rollins Elementary School,67.92%,,N,,391,266
+ga,721,Richmond County,4062,Southside Elementary School,65.94%,,N,,363,239
+ga,721,Richmond County,0390,Spirit Creek Middle School,64.46%,,Y,61.23%,564,364
+ga,721,Richmond County,0201,Sue Reynolds Elementary School ,32.84%,,Y,61.23%,556,183
+ga,721,Richmond County,4762,Terrace Manor Elementary School,64.90%,,Y,61.23%,459,298
+ga,721,Richmond County,0294,Tobacco Road Elementary School,50.45%,,Y,61.23%,439,221
+ga,721,Richmond County,5564,Tutt Middle School,60.66%,,Y,61.23%,441,268
+ga,721,Richmond County,0393,W.S. Hornsby Elementary School,79.13%,,Y,61.23%,535,423
+ga,721,Richmond County,0115,W.S. Hornsby Middle School,85.76%,,Y,61.23%,636,545
+ga,721,Richmond County,1064,Walker Traditional Elementary School,34.21%,,N,,750,257
+ga,721,Richmond County,2064,Warren Road Elementary School,35.45%,,Y,61.23%,630,223
+ga,721,Richmond County,2574,Westside High School,49.79%,,Y,61.23%,853,425
+ga,721,Richmond County,4064,Wheeless Road Elementary School,71.47%,,Y,61.23%,368,263
+ga,721,Richmond County,0104,Wilkinson Gardens Elementary School,91.57%,,Y,61.23%,776,711
+ga,721,Richmond County,0290,Willis Foreman Elementary School,54.57%,,Y,61.23%,323,176
+ga,721,Richmond County,1065,Windsor Spring Road Elementary School,61.44%,,N,,469,288
+ga,722,Rockdale County,2052,Pine Street Elementary School,33.53%,*,N,,662,222
+ga,785,Rome City,0376,Anna K. Davie Elementary,82.52%,,Y,61.16%,439,362
+ga,785,Rome City,0275,East Central Elementary School,44.79%,,Y,61.16%,568,254
+ga,785,Rome City,0105,Elm Street Elementary,69.88%,,Y,61.16%,595,416
+ga,785,Rome City,4052,North Heights Elementary School,83.54%,,Y,61.16%,475,397
+ga,785,Rome City,0193,Rome High School,30.69%,*,N,,1932,593
+ga,785,Rome City,0193,Rome High School,30.69%,*,N,,1932,593
+ga,785,Rome City,0293,Rome Middle School,55.38%,,Y,61.16%,990,548
+ga,785,Rome City,0173,West Central Elementary School,63.09%,,Y,61.16%,661,417
+ga,785,Rome City,2054,West End Elementary School,44.60%,,Y,61.16%,857,382
+ga,625,Savannah-Chatham County,2068,Andrea B Williams Elementary School,75.54%,*,N,,601,454
+ga,625,Savannah-Chatham County,2052,Beach High School,47.21%,*,N,,1004,474
+ga,625,Savannah-Chatham County,4052,Bloomingdale Elementary School,33.51%,*,N,,382,128
+ga,625,Savannah-Chatham County,5052,Butler Elementary School,81.01%,*,N,,516,418
+ga,625,Savannah-Chatham County,0109,Coastal Empire Montessori Charter School,35.86%,*,N,,251,90
+ga,625,Savannah-Chatham County,0201,DeRenne Middle School,69.43%,*,N,,664,461
+ga,625,Savannah-Chatham County,0191,East Broad Street School,75.31%,*,N,,567,427
+ga,625,Savannah-Chatham County,1056,Gadsden Elementary School,85.66%,*,N,,558,478
+ga,625,Savannah-Chatham County,0197,Garden City Elementary School,43.39%,*,N,,431,187
+ga,625,Savannah-Chatham County,2056,Gould Elementary School,44.71%,*,N,,785,351
+ga,625,Savannah-Chatham County,3056,Groves High School,46.88%,*,N,,689,323
+ga,625,Savannah-Chatham County,4056,Haven Elementary School,70.40%,*,N,,429,302
+ga,625,Savannah-Chatham County,5058,Hodge Elementary School,75.83%,*,N,,484,367
+ga,625,Savannah-Chatham County,2060,Hubert Middle School,68.81%,*,N,,452,311
+ga,625,Savannah-Chatham County,3060,Isle of Hope School,43.46%,*,N,,833,362
+ga,625,Savannah-Chatham County,0101,Johnson High School,43.60%,*,N,,773,337
+ga,625,Savannah-Chatham County,2062,Largo-Tibet Elementary School,46.71%,*,N,,653,305
+ga,625,Savannah-Chatham County,5062,Mercer Middle School,58.37%,*,N,,430,251
+ga,625,Savannah-Chatham County,0301,Myers Middle School ,64.00%,*,N,,525,336
+ga,625,Savannah-Chatham County,0118,Oglethorpe Charter School,30.79%,*,N,,604,186
+ga,625,Savannah-Chatham County,1052,Otis J Brock III Elementary School,78.41%,*,N,,542,425
+ga,625,Savannah-Chatham County,4068,Port Wentworth Elementary School,38.71%,*,N,,620,240
+ga,625,Savannah-Chatham County,0116,Pulaski Elementary SChool,30.05%,*,N,,659,198
+ga,625,Savannah-Chatham County,0512,Rice Creek School,32.48%,*,N,,825,268
+ga,625,Savannah-Chatham County,0516,Savannah Classical Academy Charter High School,37.78%,*,N,,45,17
+ga,625,Savannah-Chatham County,0128,Savannah Classical Academy Charter School,36.47%,*,N,,266,97
+ga,625,Savannah-Chatham County,0514,School of Humanities at Juliette Gordon Low,60.70%,*,N,,799,485
+ga,625,Savannah-Chatham County,0511,Shuman Elementary School,67.32%,*,N,,716,482
+ga,625,Savannah-Chatham County,0300,Southwest Elementary School,38.42%,*,N,,812,312
+ga,625,Savannah-Chatham County,0299,Southwest Middle School,44.05%,*,N,,815,359
+ga,625,Savannah-Chatham County,0515,Susie King Taylor Community School,33.18%,*,N,,214,71
+ga,625,Savannah-Chatham County,0210,The School of Liberal Studies at Savannah High,56.62%,*,N,,521,295
+ga,625,Savannah-Chatham County,0199,West Chatham Middle School,37.25%,*,N,,918,342
+ga,625,Savannah-Chatham County,1070,White Bluff Elementary School,54.55%,*,N,,616,336
+ga,625,Savannah-Chatham County,4070,Windsor Forest Elementary School,46.35%,*,N,,507,235
+ga,625,Savannah-Chatham County,5070,Windsor Forest High School,31.04%,*,N,,1034,321
+ga,724,Screven County,0191,Screven County Elementary School,47.22%,*,N,,1188,561
+ga,724,Screven County,0197,Screven County Middle School,41.39%,*,N,,534,221
+ga,725,Seminole County,0296,Seminole County Elementary School,67.03%,,Y,73.54%,687,460
+ga,725,Seminole County,0196,Seminole County Middle/High School,51.48%,,Y,73.54%,770,396
+ga,7820617,State Charter Schools- Dubois Integrity Academy,0617,Dubois Integrity Academy,56.69%,,Y,56.69%,771,437
+ga,7830611,State Charter Schools II- Cirrus Charter Academy,0611,Cirrus Charter Academy,63.02%,,Y,63.02%,430,271
+ga,7830210,State Charter Schools II- Pataula Charter Academy,0210,Pataula Charter Academy,39.73%,*,N,,594,236
+ga,7830612,State Charter Schools II- Southwest Georgia S.T.E.M. Charter Academy,0612,Southwest Georgia S.T.E.M. Charter Academy,41.93%,*,N,,353,148
+ga,7820612,"State Charter Schools- Ivy Preparatory Academy, Inc",0612,"Ivy Preparatory Academy, Inc",31.24%,*,N,,509,159
+ga,7820121,State Charter Schools- Utopian Academy for the Arts Charter School,0121,Utopian Academy for the Arts Charter School,50.25%,,Y,50.25%,258,130
+ga,727,Stephens County,0195,Big A Elementary School,46.62%,,Y,45.30%,431,201
+ga,727,Stephens County,0187,Liberty Elementary School,46.28%,,Y,45.30%,600,278
+ga,727,Stephens County,0296,Stephens County Fifth Grade Academy,41.44%,,Y,45.30%,310,128
+ga,727,Stephens County,5050,Stephens County High School,31.74%,*,N,,1106,351
+ga,727,Stephens County,0104,Stephens County Middle School,42.23%,,Y,45.30%,923,390
+ga,727,Stephens County,0197,Toccoa Elementary School,49.84%,,Y,45.30%,563,281
+ga,728,Stewart County,0192,Stewart County Elementary School,76.03%,,Y,64.81%,226,172
+ga,728,Stewart County,0201,Stewart County High School,48.80%,,Y,64.81%,128,62
+ga,728,Stewart County,0101,Stewart County Middle School,52.42%,,Y,64.81%,98,51
+ga,729,Sumter County,0205,Americus Sumter 9th Grade Academy,70.36%,,Y,84.68%,265,186
+ga,729,Sumter County,0105,Americus Sumter High School (Old Americus-Sumter HS S),55.96%,,Y,84.68%,808,452
+ga,729,Sumter County,0396,Furlow Charter School,38.15%,,Y,84.68%,560,214
+ga,729,Sumter County,0188,Sumter County Elementary School,74.05%,,Y,84.68%,563,417
+ga,729,Sumter County,0595,Sumter County Intermediate School,66.74%,,Y,84.68%,926,618
+ga,729,Sumter County,0190,Sumter County Middle School,68.99%,,Y,84.68%,566,390
+ga,729,Sumter County,0100,Sumter County Primary School,68.56%,,Y,84.68%,799,548
+ga,730,Talbot County,190,Central Elementary/High School,64.08%,,Y,64.08%,449,288
+ga,731,Taliaferro County,0102,Taliaferro County School,60.82%,,Y,60.82%,173,105
+ga,732,Tattnall County,0301,Collins Elementary School ,61.64%,,Y,56.36%,280,173
+ga,732,Tattnall County,0501,Glennville Elementary School,56.96%,,Y,56.36%,861,490
+ga,732,Tattnall County,0101,North Tattnall Middle School,57.90%,,Y,56.36%,483,280
+ga,732,Tattnall County,0601,Reidsville Elementary School,65.75%,,Y,56.36%,802,527
+ga,732,Tattnall County,0201,South Tattnall Middle School,48.77%,,Y,56.36%,346,169
+ga,732,Tattnall County,0194,Tattnall County High School,47.85%,,Y,56.36%,1001,479
+ga,733,Taylor County,0201,Taylor County High School,37.59%,,Y,53.90%,407,153
+ga,733,Taylor County,0205,Taylor County Middle School,40.70%,,Y,53.90%,199,81
+ga,733,Taylor County,0104,Taylor County Primary School,61.66%,,Y,53.90%,294,181
+ga,733,Taylor County,0105,Taylor County Upper Elementary,52.50%,,Y,53.90%,474,249
+ga,734,Telfair County,0202,Telfair Alternative Preparation School (TAPS),63.64%,,N,,22,14
+ga,734,Telfair County,0104,Telfair County Elementary,67.95%,,Y,60.30%,870,591
+ga,734,Telfair County,0201,Telfair County High School,50.40%,,Y,60.30%,459,231
+ga,734,Telfair County,0101,Telfair County Middle School,54.84%,,Y,60.30%,377,207
+ga,734,Telfair County,6001,Telfair County Pre-K,63.64%,,Y,60.30%,22,14
+ga,735,Terrell County,1051,Cooper-Carver Elementary School,81.81%,,Y,75.67%,634,519
+ga,735,Terrell County,0105,Terrell High School,67.43%,,Y,75.67%,344,232
+ga,735,Terrell County,0109,Terrell Middle School,71.80%,,Y,75.67%,300,215
+ga,736,Thomas County,0100,Bishop Hall Charter School,48.50%,,Y,48.01%,220,107
+ga,736,Thomas County,0194,Cross Creek Elementary School,47.09%,,Y,57.98%,858,404
+ga,736,Thomas County,5050,Garrison-Pilcher Elementary School,52.48%,,Y,57.98%,842,442
+ga,736,Thomas County,0105,Hand In Hand Primary,51.94%,,Y,57.98%,725,377
+ga,736,Thomas County,0115,The Renaissance Center for Academic and Career Development,62.04%,,Y,48.01%,31,19
+ga,736,Thomas County,0191,Thomas County Central High School,30.74%,,Y,48.01%,1392,428
+ga,736,Thomas County,0205,Thomas County Middle School,41.20%,,Y,57.98%,1767,728
+ga,745,Thomaston-Upson County,0295,Upson-Lee Elementary School,57.80%,,Y,57.80%,897,518
+ga,745,Thomaston-Upson County,0195,Upson-Lee High School,43.23%,,Y,43.23%,1224,529
+ga,745,Thomaston-Upson County,0395,Upson-Lee Middle School,52.02%,,Y,52.02%,928,483
+ga,745,Thomaston-Upson County,0105,Upson-Lee Primary School,61.45%,,Y,61.45%,1040,639
+ga,789,Thomasville City,4050,Harper Elementary School,78.93%,,Y,62.59%,319,252
+ga,789,Thomasville City,3050,MacIntyre Park Middle School,44.08%,,Y,62.59%,601,265
+ga,789,Thomasville City,3052,Scott Elementary School,77.37%,,Y,62.59%,362,280
+ga,789,Thomasville City,4052,Thomasville High School,53.68%,,Y,53.68%,764,410
+ga,737,Tift County,0104,Annie Belle Clark Elementary School,66.67%,,Y,71.48%,667,445
+ga,737,Tift County,5050,Charles Spencer Elementary School,69.69%,,Y,71.48%,376,262
+ga,737,Tift County,0299,Eighth Street Middle School,63.61%,,Y,71.48%,990,630
+ga,737,Tift County,0173,G. O. Bailey Elementary School,69.86%,,Y,71.48%,796,556
+ga,737,Tift County,1052,J. T. Reddick Elementary School,56.75%,,Y,71.48%,358,203
+ga,737,Tift County,2050,Len Lastinger Elementary School,57.51%,,Y,71.48%,411,236
+ga,737,Tift County,4052,Matt Wilson Elementary School,63.73%,,Y,71.48%,382,243
+ga,737,Tift County,3052,Northeast Middle School,51.13%,,Y,71.48%,848,434
+ga,737,Tift County,3050,Northside Elementary School,73.13%,,Y,71.48%,423,309
+ga,737,Tift County,4050,Omega Elementary School,61.22%,,Y,71.48%,412,252
+ga,737,Tift County,0199,Tift County High School,47.97%,,Y,71.48%,2224,1067
+ga,738,Toombs County,0104,Lyons Primary School,78.43%,,Y,64.44%,566,444
+ga,738,Toombs County,0204,Lyons Upper Elementary,68.42%,,Y,64.44%,453,310
+ga,738,Toombs County,4050,Toombs Central Elementary School,56.88%,,Y,64.44%,496,282
+ga,738,Toombs County,0192,Toombs County High School,56.45%,,Y,64.44%,779,440
+ga,738,Toombs County,0103,Toombs County Middle School,64.43%,,Y,64.44%,655,422
+ga,739,Towns County,0103,Towns County Elementary School,30.00%,*,N,,430,129
+ga,740,Treutlen County,0113,Treutlen Elementary School,68.37%,,Y,64.55%,611,418
+ga,740,Treutlen County,0213,Treutlen Middle/High School,60.22%,,Y,64.55%,511,308
+ga,741,Troup County,5052,Berta Weathersbee Elementary School,72.40%,,Y,58.48%,301,218
+ga,741,Troup County,0207,Bradfield Center - Ault Academy,100.00%,*,N,,38,38
+ga,741,Troup County,0109,Callaway Elementary School,33.81%,*,N,,698,236
+ga,741,Troup County,0204,Callaway Middle School,45.20%,*,N,,750,339
+ga,741,Troup County,0698,Clearview Elementary School,63.60%,,Y,58.48%,722,459
+ga,741,Troup County,0597,Ethel W. Kight Elementary School,61.68%,,Y,58.48%,601,371
+ga,741,Troup County,0205,Franklin Forest Elementary,47.25%,,Y,58.48%,723,342
+ga,741,Troup County,0191,Gardner-Newman Middle School,38.78%,*,N,,985,382
+ga,741,Troup County,0397,Hogansville Elementary School,52.35%,,Y,58.48%,483,253
+ga,741,Troup County,0297,Long Cane Middle School,36.09%,*,N,,1014,366
+ga,741,Troup County,0187,West Point Elementary School,50.75%,,Y,58.48%,399,202
+ga,742,Turner County,0196,Turner County Elementary School,68.48%,,Y,88.20%,614,420
+ga,742,Turner County,3050,Turner County High School,46.68%,,Y,88.20%,335,156
+ga,742,Turner County,0190,Turner County Middle School,64.87%,,Y,88.20%,274,178
+ga,742,Turner County,1050,Turner County Specialty School,86.66%,,N,,15,13
+ga,743,Twiggs County,0107,Jeffersonville Elementary,67.91%,,Y,57.03%,372,253
+ga,743,Twiggs County,0201,Twiggs County High School,42.38%,,Y,57.03%,240,102
+ga,743,Twiggs County,0207,Twiggs Middle School,54.55%,,Y,57.03%,178,97
+ga,744,Union County,3050,Woody Gap High/Elementary School,40.32%,,Y,40.32%,60,24
+ga,792,Valdosta City,0106,J. L. Lomax Elementary School,86.77%,,Y,59.17%,615,534
+ga,792,Valdosta City,6002,Maceo A Horne Jr. Learning Center-,81.17%,,Y,59.17%,167,136
+ga,792,Valdosta City,0195,Newbern Middle School,71.71%,,Y,59.17%,778,558
+ga,792,Valdosta City,0117,Pinevale Elementary School,92.13%,,Y,59.17%,606,558
+ga,792,Valdosta City,0309,S.L. Mason Elementary School,69.47%,,Y,59.17%,900,625
+ga,792,Valdosta City,0101,Sallas Mahone Elementary,45.67%,,Y,59.17%,1123,513
+ga,792,Valdosta City,6001,Valdosta Early College Academy,59.04%,,Y,59.17%,217,128
+ga,792,Valdosta City,0273,Valdosta High School,50.88%,,Y,59.17%,1991,1013
+ga,792,Valdosta City,0103,Valdosta Middle School,50.92%,,Y,59.17%,1046,533
+ga,792,Valdosta City,1052,W.G. Nunn Elementary,79.31%,,Y,59.17%,1029,816
+ga,793,Vidalia City,2050,J. D. Dickerson Primary School,66.73%,,Y,57.84%,529,353
+ga,793,Vidalia City,0173,J. R. Trippe Middle School,50.49%,,Y,57.84%,568,287
+ga,793,Vidalia City,5050,Sally Dailey Meadows Elementary School,56.24%,,Y,57.84%,762,429
+ga,793,Vidalia City,0273,Vidalia Comprehensive High School,33.98%,*,N,,718,244
+ga,746,Walker County,0199,Cherokee Ridge Elementary,35.42%,*,N,,590,209
+ga,746,Walker County,0195,Gilbert Elementary School,44.87%,*,N,,497,223
+ga,746,Walker County,0180,LaFayette Middle School,35.91%,*,N,,621,223
+ga,746,Walker County,2056,Naomi Elementary School,38.81%,*,N,,353,137
+ga,746,Walker County,0194,Rossville Elementary School,52.59%,*,N,,424,223
+ga,746,Walker County,0206,Rossville Middle School,38.49%,*,N,,517,199
+ga,746,Walker County,5052,Stone Creek Elementary School,35.01%,*,N,,437,153
+ga,747,Walton County,0193,Carver Middle School,30.84%,*,N,,843,260
+ga,747,Walton County,0112,Harmony Elementary School,37.27%,*,N,,703,262
+ga,747,Walton County,0105,Monroe Elementary,33.51%,*,N,,582,195
+ga,748,Ware County,0296,Center Elementary School,62.50%,,Y,61.13%,568,355
+ga,748,Ware County,6005,Daffodil Center - Pre-K,60.80%,,Y,61.13%,344,209
+ga,748,Ware County,3050,Memorial Drive Elementary School,61.43%,,Y,61.13%,369,227
+ga,748,Ware County,0396,Ruskin Elementary School,72.12%,,Y,61.13%,436,314
+ga,748,Ware County,5050,Wacona Elementary School,54.71%,,Y,61.13%,633,346
+ga,748,Ware County,0195,Ware County High School,41.75%,,Y,41.76%,1531,639
+ga,748,Ware County,0395,Ware County Middle School,47.88%,,Y,47.91%,809,387
+ga,748,Ware County,,Ware GNETS,55.41%,,Y,61.13%,74,41
+ga,748,Ware County,3052,Waresboro Elementary School,58.99%,,Y,61.13%,436,257
+ga,748,Ware County,0295,Waycross Middle School,41.78%,,Y,41.76%,584,244
+ga,748,Ware County,0196,Williams Heights Elementary School,47.97%,,Y,47.91%,443,213
+ga,749,Warren County,3050,Freeman Elementary School,71.18%,,Y,67.21%,332,236
+ga,749,Warren County,0205,Warren County High School,55.73%,,Y,67.21%,164,91
+ga,749,Warren County,0105,Warren County Middle School,68.18%,,Y,67.21%,130,89
+ga,750,Washington County,4050,Ridge Road Elementary School,56.86%,,Y,59.60%,756,430
+ga,750,Washington County,2050,Ridge Road Primary School,62.12%,,Y,59.60%,754,468
+ga,750,Washington County,0199,T. J. Elder Middle School,50.44%,,Y,48.66%,733,370
+ga,750,Washington County,1052,Washington County High School,47.22%,,Y,48.66%,867,409
+ga,751,Wayne County,0294,Arthur Williams Middle School,38.97%,*,N,,621,242
+ga,751,Wayne County,0494,Bacon Elementary School,58.97%,,Y,50.72%,687,405
+ga,751,Wayne County,1050,Jesup Elementary School,55.63%,,Y,50.72%,757,421
+ga,751,Wayne County,0194,Martha Puckett Middle School,43.41%,*,N,,622,270
+ga,751,Wayne County,0394,Martha Rawls Smith Elementary School,68.94%,,Y,50.72%,595,410
+ga,751,Wayne County,3050,Odum Elementary School,36.11%,,Y,50.72%,409,148
+ga,751,Wayne County,1052,Screven Elementary School,44.88%,,Y,50.72%,242,109
+ga,751,Wayne County,0101,Wayne County High School,31.07%,*,N,,1445,449
+ga,752,Webster County,0104,Webster County Elementary/Middle School,51.65%,,Y,56.48%,224,116
+ga,752,Webster County,0108,Webster County High School,37.14%,,Y,56.48%,87,32
+ga,753,Wheeler County,1052,Wheeler County Elementary School,62.97%,,Y,55.96%,483,304
+ga,753,Wheeler County,3052,Wheeler County High School,62.30%,,Y,55.96%,296,184
+ga,753,Wheeler County,1053,Wheeler County Middle School,62.30%,,Y,55.96%,228,142
+ga,754,White County,0200,Jack P Nix Elementary School,35.53%,*,N,,470,167
+ga,754,White County,0109,Mossy Creek Elementary School,36.75%,*,N,,381,140
+ga,756,Wilcox County,0195,Wilcox County Elementary School,61.01%,,Y,54.88%,598,365
+ga,756,Wilcox County,0201,Wilcox County High School,56.14%,,Y,54.88%,322,181
+ga,756,Wilcox County,0101,Wilcox County Middle School,0.00%,,Y,54.88%,281,0
+ga,757,Wilkes County,0110,Washington-Wilkes Comprehensive High School,50.48%,,Y,58.84%,415,209
+ga,757,Wilkes County,0205,Washington-Wilkes Elementary School,62.09%,,Y,58.84%,312,194
+ga,757,Wilkes County,0210,Washington-Wilkes Middle School,58.49%,,Y,58.84%,319,187
+ga,757,Wilkes County,0105,Washington-Wilkes Primary School,63.93%,,Y,58.84%,438,280
+ga,758,Wilkinson County,0175,Wilkinson County Elementary School,65.30%,,Y,55.72%,296,193
+ga,758,Wilkinson County,3050,Wilkinson County High School,48.50%,,Y,55.72%,385,187
+ga,758,Wilkinson County,0275,Wilkinson County Middle School,54.99%,,Y,55.72%,318,175
+ga,758,Wilkinson County,1050,Wilkinson County Primary School,65.00%,,Y,55.72%,319,207
+ga,759,Worth County,0197,Worth County Achievement Center,62.79%,,Y,48.31%,42,26
+ga,759,Worth County,0111,Worth County Elementary School,54.99%,,Y,65.49%,768,422
+ga,759,Worth County,0176,Worth County High School,33.91%,,Y,65.49%,826,280
+ga,759,Worth County,0193,Worth County Middle School,44.61%,,Y,65.49%,722,322
+ga,759,Worth County,0196,Worth County Primary School,57.53%,,Y,65.49%,890,512

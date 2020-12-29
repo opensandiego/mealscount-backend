@@ -1,0 +1,111 @@
+state,District Code,District Name,School Code,School Name,individual_isp,proxy_isp,participating_in_cep,claiming_isp,total_enrolled,total_eligible
+vt,S004,Addison Rutland SU,,Benson Village School,34.72%,,N,,,
+vt,S004,Addison Rutland SU,,Fair Haven Graded School,37.60%,,N,,,
+vt,S061,Barre SU,,Barre City Elementary & Middle School,53.94%,,Y,52.94%,867,468
+vt,S006,Bennington-Rutland SU,,Currier Memorial School,56.18%,,Y,55.06%,89,50
+vt,S006,Bennington-Rutland SU,,Mettawee Community UD #47,30.17%,,N,,,
+vt,T037,Burlington School District,,Baird,63.83%,,Y,62.50%,46,29
+vt,T037,Burlington School District,,Burlington High School,31.30%,,N,,,
+vt,T037,Burlington School District,,Centerpoint School,34.88%,,Y,62.50%,41,14
+vt,T037,Burlington School District,,CP Smith School,31.58%,,Y,44.66%,265,84
+vt,T037,Burlington School District,,Edmunds Elementary,46.49%,,N,,,
+vt,T037,Burlington School District,,Edmunds Middle School,33.33%,,N,,,
+vt,T037,Burlington School District,,EEE,58.33%,,Y,44.66%,59,34
+vt,T037,Burlington School District,,Flynn Elementary,41.54%,,Y,44.66%,352,146
+vt,T037,Burlington School District,,Hunt Middle School,36.59%,,Y,44.66%,392,143
+vt,T037,Burlington School District,,Integrated Arts Academy at HOWheeler Elementary,46.28%,,Y,44.66%,313,145
+vt,T037,Burlington School District,,King Street Youth Center,100.00%,,Y,62.50%,23,23
+vt,T037,Burlington School District,,ONTOP School,49.15%,,Y,44.66%,60,29
+vt,T037,Burlington School District,,Sustainability Academy at Lawrence Barnes,50.00%,,Y,44.66%,187,94
+vt,T037,Burlington School District,,Youth Build,53.85%,,Y,50.00%,14,8
+vt,S068,Central Vermont Supervisory Union,,Orange Center School,30.67%,,N,,,
+vt,S020,Franklin Northeast SU,,Enosburg Elementary School,40.29%,,N,,,
+vt,S020,Franklin Northeast SU,,Richford Elementary School,60.91%,,Y,51.53%,200,122
+vt,S020,Franklin Northeast SU,,Richford High School,44.73%,,Y,51.53%,225,101
+vt,S024,Grand Isle SU,,Alburgh Community Education Center,44.00%,,Y,45.63%,231,102
+vt,S024,Grand Isle SU,,Isle La Motte Elementary School,31.03%,,Y,45.63%,32,10
+vt,S066,Greater Rutland County Supervisory Union,,Middletown Springs Elementary School,36.92%,,N,,,
+vt,S066,Greater Rutland County Supervisory Union,,Wells Village School,66.67%,,N,,,
+vt,T093,Hartford Town School District,,White River School,38.51%,,N,,,
+vt,U064,Kingdom East Supervisory District,,Concord School,32.43%,,N,,,
+vt,U064,Kingdom East Supervisory District,,Lunenburg School,32.39%,,N,,,
+vt,U064,Kingdom East Supervisory District,,Lyndon Town School,34.68%,,N,,,
+vt,U064,Kingdom East Supervisory District,,Newark School,38.33%,,N,,,
+vt,S025,Lamoille North SU,,Eden Central School,34.48%,,N,,,
+vt,S025,Lamoille North SU,,Hyde Park Elementary School,30.14%,,N,,,
+vt,S025,Lamoille North SU,,Johnson Elementary School,31.50%,,N,,,
+vt,S026,Lamoille South SU,,Elmore-Morristown Unified Union SD - Elementary School,39.46%,,N,,,
+vt,R111,"Laraway School, Inc.",,Laraway School,71.79%,,Y,62.50%,38,27
+vt,U057,Maple Run Unified School District,,SOAR Learning Center,42.25%,,Y,59.42%,69,29
+vt,U057,Maple Run Unified School District,,St. Albans City Elementary School,52.65%,,Y,52.05%,782,412
+vt,U052,Mill River Unified Union School District,,Tinmouth Elementary School,35.38%,,N,,,
+vt,R342,New England Kurn Hattin Homes,,New England Kurn Hattin Homes,32.56%,,N,,,
+vt,S031,North Country SU,,Charleston Elementary School,33.33%,,N,,,
+vt,S031,North Country SU,,Coventry Village School,34.64%,,N,,,
+vt,S031,North Country SU,,Derby Elementary School,33.70%,,N,,,
+vt,S031,North Country SU,,Holland Elementary School,32.61%,,N,,,
+vt,S031,North Country SU,,Jay School District,45.00%,,N,,,
+vt,S031,North Country SU,,Lowell Graded School,40.00%,,N,,,
+vt,S031,North Country SU,,Newport City Elementary School,44.38%,,Y,44.38%,365,162
+vt,S031,North Country SU,,North Country Union Junior High School,34.65%,,N,,,
+vt,S031,North Country SU,,Troy Elementary School,30.53%,,N,,,
+vt,S031,North Country SU,,Westfield School District,37.04%,,N,,,
+vt,R614,Northeastern Family Institute,,Turning Points School,67.86%,,Y,60.00%,30,20
+vt,S027,Orange East SU,,Oxbow UHSD #30,33.79%,,N,,,
+vt,S027,Orange East SU,,Waits River Union #36,35.62%,,N,,,
+vt,U059,"Orange Southwest Unified Union School
+District",,Braintree School,30.77%,,N,,,
+vt,S034,Orleans Central SU,,Albany Community School,54.90%,,Y,43.95%,102,56
+vt,S034,Orleans Central SU,,Barton Graded School,51.19%,,Y,43.95%,168,86
+vt,S034,Orleans Central SU,,Brownington Central School,50.89%,,Y,43.95%,112,57
+vt,S034,Orleans Central SU,,COFEC Headstart,56.36%,,Y,43.95%,55,31
+vt,S034,Orleans Central SU,0004,Glover Community School,,,Y,43.95%,109,
+vt,S034,Orleans Central SU,0005,Irasburg Village School,,,Y,43.95%,125,
+vt,S034,Orleans Central SU,,Orleans Elementary,51.75%,,Y,43.95%,114,59
+vt,S035,Orleans Southwest SU,,Hardwick Elementary School,41.23%,,N,,,
+vt,S035,Orleans Southwest SU,0006,Lakeview Union USD #43,,,Y,40.32%,62,
+vt,S035,Orleans Southwest SU,,Wolcott Elementary School,30.65%,,N,,,
+vt,U146,Rivendell Interstate School District,,Westshire Elementary,30.28%,,N,,,
+vt,T173,Rutland City School District,,Northeast Elementary School,42.21%,,Y,49.24%,208,88
+vt,T173,Rutland City School District,,Northwest Elementary School,69.63%,,Y,49.24%,238,166
+vt,T173,Rutland City School District,,Pierpoint Primary Learning Center,,,Y,41.03%,39,
+vt,T173,Rutland City School District,,Rutland Intermediate/Middle School,41.41%,,Y,49.24%,805,333
+vt,T173,Rutland City School District,,Success School-Allen Street Campus,84.00%,,N,,,
+vt,S036,Rutland Northeast SU,,Otter Creek Academy - Sudbury,34.48%,,N,,,
+vt,S005,Southwest Vermont SU,,Bennington Elementary School,67.86%,,Y,44.48%,254,172
+vt,S005,Southwest Vermont SU,,Early Education Program,42.37%,,Y,44.48%,28,12
+vt,S005,Southwest Vermont SU,,Molly Stark School,57.41%,,Y,44.48%,384,220
+vt,S005,Southwest Vermont SU,,Monument Elementary School,37.59%,,Y,44.48%,129,48
+vt,S005,Southwest Vermont SU,,Mount Anthony Union Middle School,46.32%,,Y,44.48%,536,248
+vt,S005,Southwest Vermont SU,,Mt. Anthony UHS #14,33.33%,,Y,44.48%,889,296
+vt,S005,Southwest Vermont SU,,OnPoint Elementary at Congress St.,91.67%,,Y,44.48%,13,12
+vt,S005,Southwest Vermont SU,,Pownal Elementary School,55.80%,,Y,44.48%,245,137
+vt,S005,Southwest Vermont SU,0008,Sacred Heart School,,,Y,44.48%,162,
+vt,S005,Southwest Vermont SU,0012,Shaftsbury Elementary School,,,Y,44.48%,237,
+vt,S005,Southwest Vermont SU,,Woodford Hollow School,50.00%,,Y,44.48%,21,10
+vt,T193,Springfield Town School District,,Elm Hill School,41.73%,,N,,,
+vt,T193,Springfield Town School District,,Riverside Middle School,33.58%,,N,,,
+vt,T193,Springfield Town School District,,Springfield High School,33.42%,,N,,,
+vt,T193,Springfield Town School District,,Union Street School,43.09%,,N,,,
+vt,T179,St. Johnsbury Town School District,,The St. Johnsbury School,47.55%,,Y,46.98%,662,315
+vt,S063,Two Rivers SU,,Chester-Andover USD#29,30.14%,,N,,,
+vt,S063,Two Rivers SU,,Ludlow Elementary,33.04%,,N,,,
+vt,R186,Vermont Achievement Center,,Vermont Achievement Center,44.96%,,Y,62.50%,127,57
+vt,R029,"Vermont Permanency Initiative, Inc.",,Vermont Permanency Initiative,100.00%,,N,,,
+vt,S032,Washington Central SU,,Berlin Elementary School,35.52%,,N,,,
+vt,R528,Washington County Mental Health Services Inc.,,Choice Academy,40.48%,,Y,56.25%,48,19
+vt,S030,White River Valley Supervisory Union,,Bethel School,30.71%,,N,,,
+vt,S030,White River Valley Supervisory Union,,Rochester School,34.74%,,N,,,
+vt,S046,Windham Central SU,,Jamaica Village School,35.59%,,N,,,
+vt,S047,Windham Northeast SU,,Athens Grafton School,35.59%,,N,,,
+vt,S047,Windham Northeast SU,,Bellows Falls Middle School,34.80%,,N,,,
+vt,S047,Windham Northeast SU,,Central Elementary School,44.94%,,N,,,
+vt,S047,Windham Northeast SU,,Saxtons River Elementary,31.58%,,N,,,
+vt,S047,Windham Northeast SU,,Westminster Center School,35.87%,,N,,,
+vt,S048,Windham Southeast SU,,Academy School,42.42%,,Y,50.72%,358,152
+vt,S048,Windham Southeast SU,,Green Street School,58.24%,,Y,50.72%,219,128
+vt,S048,Windham Southeast SU,,Guilford Central School,34.26%,,N,,,
+vt,S048,Windham Southeast SU,,Oak Grove School,44.76%,,Y,50.72%,121,54
+vt,S049,Windham Southwest SU,,Twin Valley Elementary School,32.16%,,N,,,
+vt,T249,Winooski School District,,The Family Center,87.50%,,Y,61.27%,16,14
+vt,T249,Winooski School District,,Winooski Schools,62.90%,,Y,61.27%,787,495

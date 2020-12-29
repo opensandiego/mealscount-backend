@@ -1,0 +1,1427 @@
+state,District Code,District Name,School Code,School Name,individual_isp,proxy_isp,participating_in_cep,claiming_isp,total_enrolled,total_eligible
+la,001,Acadia Parish School Board,001001,Armstrong Middle School,74.17%,,Y,64.12%,360,267
+la,001,Acadia Parish School Board,001002,Branch Elementary School,46.71%,,Y,64.12%,289,135
+la,001,Acadia Parish School Board,001003,Central Rayne Kindergarten School,68.45%,,Y,64.12%,206,141
+la,001,Acadia Parish School Board,001004,Church Point Elementary School,86.59%,,Y,64.12%,634,549
+la,001,Acadia Parish School Board,001005,Church Point High School,59.68%,,Y,64.12%,501,299
+la,001,Acadia Parish School Board,001006,Church Point Middle School,83.40%,,Y,64.12%,247,206
+la,001,Acadia Parish School Board,001007,Crowley High School,69.61%,,Y,64.12%,635,442
+la,001,Acadia Parish School Board,001009,Crowley Kindergarten School,87.59%,,Y,64.12%,274,240
+la,001,Acadia Parish School Board,001008,Crowley Middle School,81.15%,,Y,64.12%,504,409
+la,001,Acadia Parish School Board,001011,Egan Elementary School,42.91%,,Y,64.12%,247,106
+la,001,Acadia Parish School Board,001012,Estherwood Elementary School,67.83%,,Y,64.12%,258,175
+la,001,Acadia Parish School Board,001013,Evangeline Elementary School,50.85%,,Y,64.12%,234,119
+la,001,Acadia Parish School Board,001014,Iota Elementary School,43.03%,,Y,64.12%,595,256
+la,001,Acadia Parish School Board,001034,Iota High School,34.96%,,Y,64.12%,532,186
+la,001,Acadia Parish School Board,001015,Iota Middle School,40.79%,,Y,64.12%,304,124
+la,001,Acadia Parish School Board,001020,Martin Petitjean Elementary School,78.04%,,Y,64.12%,387,302
+la,001,Acadia Parish School Board,001016,Mermentau Elementary School,61.11%,,Y,64.12%,162,99
+la,001,Acadia Parish School Board,001017,Midland High School,52.79%,,Y,64.12%,269,142
+la,001,Acadia Parish School Board,001018,Mire Elementary School,50.53%,,Y,64.12%,566,286
+la,001,Acadia Parish School Board,001019,Morse Elementary School,57.00%,,Y,64.12%,200,114
+la,001,Acadia Parish School Board,001010,North Crowley Elementary School,87.11%,,Y,64.12%,318,277
+la,001,Acadia Parish School Board,001021,Rayne High School,58.69%,,Y,64.12%,673,395
+la,001,Acadia Parish School Board,001022,Richard Elementary School,48.88%,,Y,64.12%,448,219
+la,001,Acadia Parish School Board,001023,Ross Elementary School,92.09%,,Y,64.12%,278,256
+la,001,Acadia Parish School Board,001024,South Crowley Elementary School,80.17%,,Y,64.12%,363,291
+la,001,Acadia Parish School Board,001025,South Rayne Elementary School,82.40%,,Y,64.12%,250,206
+la,F21,Advocates for Science & Mathematics Ed Inc,3AP003,Celerity Dalton Charter School,75.32%,,Y,72.65%,323,243
+la,F21,Advocates for Science & Mathematics Ed Inc,3AP001,Celerity Lanier Charter School,84.08%,,Y,72.65%,278,234
+la,F21,Advocates for Science & Mathematics Ed Inc,F21003,New Orleans Charter Science and Mathematics HS,41.39%,,Y,72.65%,485,201
+la,,Advocates for Science & Mathematics Ed Inc,,Redesign Schools Louisiana,,,Y,77.40%,208,
+la,F02,"Algiers Charter School Association, Inc.",395005,Lord Beaconsfield Landry-Oliver Perry Walker High,73.30%,,Y,69.55%,995,729
+la,F02,"Algiers Charter School Association, Inc.",395001,Martin Behrman Elementary School,70.69%,,Y,69.55%,739,522
+la,002,Allen Parish School Board,002001,Elizabeth High School,29.13%,,N,,,
+la,002,Allen Parish School Board,002002,Fairview High School,32.27%,,N,,409,132
+la,002,Allen Parish School Board,002003,Kinder Elementary School,40.07%,,N,,599,240
+la,002,Allen Parish School Board,002004,Kinder High School,25.30%,,N,,,
+la,002,Allen Parish School Board,002015,Kinder Middle School,40.68%,,N,,432,176
+la,002,Allen Parish School Board,002005,Oakdale Elementary School,64.91%,,Y,62.03%,593,385
+la,002,Allen Parish School Board,002006,Oakdale High School,41.43%,,N,,280,116
+la,002,Allen Parish School Board,002007,Oakdale Middle School,55.88%,,Y,62.03%,360,201
+la,002,Allen Parish School Board,002008,Oberlin Elementary School,54.52%,,Y,62.03%,298,162
+la,002,Allen Parish School Board,002009,Oberlin High School,45.27%,,N,,259,117
+la,002,Allen Parish School Board,002010,Reeves High School,29.73%,,N,,,
+la,373,Arise Academy,373001,Arise Academy,85.89%,,Y,72.56%,503,432
+la,,Arise Academy,,Homer A. Plessy Community School,,,Y,72.56%,377,
+la,373,Arise Academy,373002,Mildred Osborne Charter School,76.15%,,Y,72.56%,501,382
+la,003,Ascension Parish School Board,003022,Ascension Head Start,100.00%,,Y,62.67%,113,113
+la,003,Ascension Parish School Board,003026,Central Middle School,26.23%,,N,,,
+la,003,Ascension Parish School Board,003031,Central Primary School,43.24%,,Y,62.67%,821,355
+la,003,Ascension Parish School Board,003003,Donaldsonville High School,84.22%,,Y,62.67%,450,379
+la,003,Ascension Parish School Board,003002,Donaldsonville Primary School,91.30%,,Y,62.67%,506,462
+la,003,Ascension Parish School Board,003011,Duplessis Primary School,47.29%,,Y,62.67%,776,367
+la,003,Ascension Parish School Board,003016,Dutchtown High School,10.17%,,N,,,
+la,003,Ascension Parish School Board,003004,Dutchtown Middle School,13.64%,,N,,,
+la,003,Ascension Parish School Board,003023,Dutchtown Primary School,15.88%,,N,,,
+la,003,Ascension Parish School Board,003005,East Ascension High School,50.03%,,Y,62.67%,1787,894
+la,003,Ascension Parish School Board,003001,G.W. Carver Primary School,75.05%,,Y,62.67%,553,415
+la,003,Ascension Parish School Board,003006,Galvez Middle School,19.37%,,N,,,
+la,003,Ascension Parish School Board,003018,Galvez Primary School,21.77%,,N,,,
+la,003,Ascension Parish School Board,003007,Gonzales Middle School,69.51%,,Y,62.67%,669,465
+la,003,Ascension Parish School Board,003008,Gonzales Primary School,75.37%,,Y,62.67%,471,355
+la,003,Ascension Parish School Board,003020,Lake Elementary School,56.67%,,Y,62.67%,930,527
+la,003,Ascension Parish School Board,003032,Lakeside Primary School,53.40%,,Y,62.67%,648,346
+la,003,Ascension Parish School Board,003015,Lowery Elementary School,91.19%,,Y,62.67%,386,352
+la,003,Ascension Parish School Board,003010,Lowery Middle School,88.58%,,Y,62.67%,359,318
+la,003,Ascension Parish School Board,003027,Oak Grove Primary School,11.14%,,N,,,
+la,003,Ascension Parish School Board,003029,Pecan Grove Primary School,76.03%,,Y,62.67%,559,425
+la,003,Ascension Parish School Board,003012,Prairieville Middle School,9.98%,,N,,,
+la,003,Ascension Parish School Board,003030,Prairieville Primary School,13.99%,,N,,,
+la,003,Ascension Parish School Board,003034,Sorrento Primary School,57.29%,,Y,62.67%,597,342
+la,003,Ascension Parish School Board,003033,Spanish Lake Primary School,14.30%,,N,,,
+la,003,Ascension Parish School Board,003014,St. Amant High School,16.65%,,N,,,
+la,003,Ascension Parish School Board,003013,St. Amant Middle School,54.62%,,Y,62.67%,595,325
+la,003,Ascension Parish School Board,003024,St. Amant Primary School,56.06%,,Y,62.67%,528,296
+la,004,Assumption Parish School Board,004001,Assumption High School,44.19%,,N,,989,437
+la,004,Assumption Parish School Board,004011,Bayou L'Ourse Primary School,70.27%,,Y,59.01%,148,104
+la,004,Assumption Parish School Board,004003,Belle Rose Middle School,74.13%,,Y,59.01%,143,106
+la,004,Assumption Parish School Board,004004,Belle Rose Primary School,85.83%,,Y,59.01%,247,212
+la,004,Assumption Parish School Board,004005,Labadieville Middle School,63.46%,,Y,59.01%,301,191
+la,004,Assumption Parish School Board,004006,Labadieville Primary School,77.06%,,Y,59.01%,327,252
+la,004,Assumption Parish School Board,004007,Napoleonville Middle School,51.67%,,Y,59.01%,300,155
+la,004,Assumption Parish School Board,004008,Napoleonville Primary School,57.57%,,Y,59.01%,469,270
+la,004,Assumption Parish School Board,004009,Pierre Part Middle School,31.62%,,Y,59.01%,253,80
+la,004,Assumption Parish School Board,004010,Pierre Part Primary School,36.72%,,N,,354,130
+la,,Athlos Academy of Jefferson,,Athlos Academy of Jefferson,,,Y,57.50%,967,
+la,005,Avoyelles Parish School Board,005018,Avoyelles High School,53.65%,,Y,63.53%,613,329
+la,005,Avoyelles Parish School Board,005003,Bunkie Elementary School,79.63%,,Y,63.53%,330,263
+la,005,Avoyelles Parish School Board,005004,Bunkie High School,54.84%,,Y,63.53%,554,304
+la,005,Avoyelles Parish School Board,005007,Cottonport Elementary School,76.14%,,Y,63.53%,417,318
+la,005,Avoyelles Parish School Board,005012,Lafargue Elementary School,47.54%,,Y,63.53%,732,348
+la,005,Avoyelles Parish School Board,005025,Louisiana School for Agricultural Sciences,26.79%,,Y,63.53%,412,110
+la,005,Avoyelles Parish School Board,005015,Marksville Elementary School,74.92%,,Y,63.53%,563,422
+la,005,Avoyelles Parish School Board,005016,Marksville High School,55.31%,,Y,63.53%,665,368
+la,005,Avoyelles Parish School Board,005019,Plaucheville Elementary School,56.08%,,Y,63.53%,595,334
+la,005,Avoyelles Parish School Board,005020,Riverside Elementary School,77.39%,,Y,63.53%,302,234
+la,3AQ,Baton Rouge University Preparatory School Inc,3AQ001,Baton Rouge University Preparatory Elementary,87.17%,,Y,84.00%,300,262
+la,006,Beauregard Parish School Board,006021,Beauregard Alternative School,52.50%,,N,,40,21
+la,006,Beauregard Parish School Board,006001,Carver Elementary School,53.68%,,N,,408,219
+la,006,Beauregard Parish School Board,006002,DeRidder High School,32.00%,,N,,750,240
+la,006,Beauregard Parish School Board,006003,DeRidder Junior High School,35.87%,,N,,586,210
+la,006,Beauregard Parish School Board,006022,East Beauregard Elementary School,39.14%,,N,,465,182
+la,006,Beauregard Parish School Board,006004,East Beauregard High School,29.91%,,N,,,
+la,006,Beauregard Parish School Board,006006,K.R. Hanchey Elementary School,56.38%,,N,,525,296
+la,006,Beauregard Parish School Board,006008,Merryville High School,37.48%,,N,,514,193
+la,006,Beauregard Parish School Board,006009,Pine Wood Elementary School,47.18%,,N,,373,176
+la,006,Beauregard Parish School Board,006010,Singer High School,37.01%,,N,,349,129
+la,006,Beauregard Parish School Board,006013,South Beauregard Elementary School,37.77%,,N,,511,193
+la,006,Beauregard Parish School Board,006011,South Beauregard High School,24.63%,,N,,,
+la,006,Beauregard Parish School Board,006012,South Beauregard Upper Elementary School,31.98%,,N,,394,126
+la,3A5,Better Choice Foundation,3A5001,Mary D. Coghill Charter School,73.35%,,Y,79.43%,598,439
+la,007,Bienville Parish School Board,007001,Arcadia High School,71.38%,,Y,61.38%,277,198
+la,007,Bienville Parish School Board,007002,Bienville High School,78.26%,,Y,61.38%,27,21
+la,007,Bienville Parish School Board,007003,Castor High School,40.41%,,Y,61.38%,556,225
+la,007,Bienville Parish School Board,007004,Crawford Elementary School,76.09%,,Y,61.38%,262,199
+la,007,Bienville Parish School Board,007006,Gibsland-Coleman High School,71.26%,,Y,61.38%,159,113
+la,007,Bienville Parish School Board,007007,Ringgold Elementary School,82.29%,,Y,61.38%,254,209
+la,007,Bienville Parish School Board,007008,Ringgold High School,64.92%,,Y,61.38%,251,163
+la,007,Bienville Parish School Board,007009,Saline High School,39.32%,,Y,61.38%,381,150
+la,872,Bishop McManus School,872001,Bishop McManus School,56.19%,,Y,58.26%,115,65
+la,008,Bossier Parish School Board,008001,Airline High School,26.44%,,N,,,
+la,008,Bossier Parish School Board,008002,Apollo Elementary School,29.05%,,N,,,
+la,008,Bossier Parish School Board,008003,Bellaire Elementary School,29.16%,,N,,,
+la,008,Bossier Parish School Board,008005,Benton Elementary School,26.32%,,N,,,
+la,008,Bossier Parish School Board,008006,Benton High School,10.28%,,N,,,
+la,008,Bossier Parish School Board,008038,Benton Middle School,15.48%,,N,,,
+la,008,Bossier Parish School Board,008007,Bossier Elementary School,87.68%,,Y,56.54%,290,254
+la,008,Bossier Parish School Board,008009,Bossier High School,59.34%,,Y,56.54%,632,375
+la,008,Bossier Parish School Board,008900,Butler Education Complex,55.00%,,Y,56.54%,30,16
+la,008,Bossier Parish School Board,008012,Central Park Elementary School,74.19%,,Y,56.54%,409,303
+la,008,Bossier Parish School Board,008013,Cope Middle School,31.61%,,N,,791,250
+la,008,Bossier Parish School Board,008014,Curtis Elementary School,28.54%,,N,,,
+la,008,Bossier Parish School Board,008044,Elm Grove Elementary School,43.39%,,Y,56.54%,382,166
+la,008,Bossier Parish School Board,008015,Elm Grove Middle School,26.45%,,N,,,
+la,008,Bossier Parish School Board,008016,Greenacres Middle School,44.15%,,Y,56.54%,757,334
+la,,Bossier Parish School Board,,Haughton Elementary,,,Y,56.54%,574,
+la,008,Bossier Parish School Board,008017,Haughton High School,22.46%,,N,,,
+la,008,Bossier Parish School Board,008025,Haughton Middle School,30.95%,,N,,953,295
+la,008,Bossier Parish School Board,008045,Kingston Elementary School,13.96%,,N,,,
+la,008,Bossier Parish School Board,008022,LA New Tech at Plain Dealing,59.82%,,Y,56.54%,311,186
+la,008,Bossier Parish School Board,008042,Legacy Elementary School,11.30%,,N,,,
+la,008,Bossier Parish School Board,008019,Meadowview Elementary School,71.49%,,Y,56.54%,490,350
+la,008,Bossier Parish School Board,008020,Parkway High School,18.79%,,N,,,
+la,008,Bossier Parish School Board,008023,Plantation Park Elementary School,82.12%,,Y,56.54%,645,530
+la,008,Bossier Parish School Board,008024,Platt Elementary School,43.06%,,Y,56.54%,478,206
+la,008,Bossier Parish School Board,008040,Princeton Elementary School,34.91%,,N,,613,214
+la,008,Bossier Parish School Board,008018,R.V. Kerr Elementary School,46.77%,,Y,56.54%,459,215
+la,008,Bossier Parish School Board,008028,Rusheon Middle School,69.40%,,Y,56.54%,550,382
+la,008,Bossier Parish School Board,008033,Stockwell Place Elementary School,17.48%,,N,,,
+la,008,Bossier Parish School Board,008029,Sun City Elementary School,25.87%,,N,,,
+la,008,Bossier Parish School Board,008027,T.L. Rodes Elementary School,42.91%,,Y,56.54%,631,271
+la,008,Bossier Parish School Board,008043,W.T. Lewis Elementary School,20.80%,,N,,,
+la,008,Bossier Parish School Board,008030,Waller Elementary School,63.24%,,Y,56.54%,474,300
+la,009,Caddo Parish School Board,009060,A.C. Steere Elementary School,26.07%,,Y,58.53%,457,119
+la,009,Caddo Parish School Board,009104,Academic Recovery Ombudsman,71.97%,,Y,58.53%,141,101
+la,009,Caddo Parish School Board,009111,AmiKiDs Caddo,80.26%,,Y,58.53%,204,164
+la,009,Caddo Parish School Board,009002,Arthur Circle Elementary School,59.62%,,Y,58.53%,405,241
+la,009,Caddo Parish School Board,009003,Atkins Technology Elementary School,92.05%,,Y,58.53%,334,307
+la,009,Caddo Parish School Board,009006,Blanchard Elementary School,42.05%,,Y,58.53%,436,183
+la,009,Caddo Parish School Board,009069,Booker T. Washington New Technology High School,70.90%,,Y,58.53%,807,572
+la,009,Caddo Parish School Board,009007,Broadmoor Middle Laboratory School,68.81%,,Y,58.53%,436,300
+la,009,Caddo Parish School Board,009008,C.E. Byrd High School,28.56%,,N,,,
+la,009,Caddo Parish School Board,009009,Caddo Career Center,0.00%,,N,,,
+la,009,Caddo Parish School Board,009011,Caddo Heights Math/Science Elementary School,87.65%,,Y,58.53%,415,364
+la,009,Caddo Parish School Board,009029,Caddo Middle Career and Technology School,76.48%,,Y,58.53%,508,389
+la,009,Caddo Parish School Board,009012,Caddo Parish Magnet High School,7.80%,,N,,,
+la,009,Caddo Parish School Board,009020,Caddo Parish Middle Magnet School,14.27%,,Y,58.53%,1198,171
+la,009,Caddo Parish School Board,009013,Captain Shreve High School,26.38%,,N,,,
+la,009,Caddo Parish School Board,009015,Cherokee Park Elementary School,84.23%,,Y,58.53%,316,266
+la,009,Caddo Parish School Board,009016,Claiborne Fundamental Elementary School,41.59%,,Y,58.53%,432,180
+la,009,Caddo Parish School Board,009018,Creswell Elementary School,79.62%,,Y,58.53%,380,303
+la,009,Caddo Parish School Board,009078,Donnie Bickham Middle School,40.14%,,Y,58.53%,803,322
+la,009,Caddo Parish School Board,009061,E.B. Williams Stoner Hill Elem Lab School,84.15%,,Y,58.53%,253,213
+la,009,Caddo Parish School Board,009019,Eden Gardens Fundamental Elementary School,8.08%,,Y,58.53%,495,40
+la,009,Caddo Parish School Board,009021,Eighty-first Street ECE Center,94.83%,,Y,58.53%,225,213
+la,009,Caddo Parish School Board,009113,Fair Park Middle School,80.56%,,Y,58.53%,757,610
+la,009,Caddo Parish School Board,009023,Fairfield Magnet School,8.90%,,Y,58.53%,482,43
+la,009,Caddo Parish School Board,009024,Forest Hill Elementary,57.45%,,Y,58.53%,573,329
+la,009,Caddo Parish School Board,009025,Green Oaks Performing Arts Academy,72.50%,,Y,58.53%,591,428
+la,009,Caddo Parish School Board,009027,Herndon Magnet School,21.56%,,Y,58.53%,729,157
+la,009,Caddo Parish School Board,009031,Huntington High School,51.02%,,Y,58.53%,849,433
+la,009,Caddo Parish School Board,009103,J.S. Clark Elementary School,87.50%,,Y,58.53%,577,505
+la,009,Caddo Parish School Board,009065,Jack P. Timmons Elementary School,58.46%,,Y,58.53%,276,161
+la,009,Caddo Parish School Board,009033,Judson Fundamental Elementary School,47.97%,,Y,58.53%,366,176
+la,009,Caddo Parish School Board,009079,Keithville Elementary/Middle School,45.63%,,Y,58.53%,1028,469
+la,009,Caddo Parish School Board,009091,Midway Professional Development Center,84.66%,,Y,58.53%,342,290
+la,009,Caddo Parish School Board,009039,Mooretown Elementary Professional Develop. Ctr.,91.33%,,Y,58.53%,285,260
+la,009,Caddo Parish School Board,009040,Mooringsport Elementary School,56.92%,,Y,58.53%,318,181
+la,009,Caddo Parish School Board,009112,North Caddo Elementary/Middle,65.50%,,Y,64.77%,721,472
+la,009,Caddo Parish School Board,009042,North Caddo High School,47.77%,,Y,45.01%,373,178
+la,009,Caddo Parish School Board,009043,North Highlands Elementary School,66.03%,,Y,58.53%,410,271
+la,009,Caddo Parish School Board,009044,Northside Elementary School,88.73%,,Y,58.53%,382,339
+la,009,Caddo Parish School Board,009045,Northwood High School,31.93%,,Y,45.01%,1024,327
+la,009,Caddo Parish School Board,009046,Oak Park Microsociety Elementary School,89.27%,,Y,58.53%,510,455
+la,009,Caddo Parish School Board,009050,Pine Grove Elementary,90.00%,,Y,58.53%,360,324
+la,009,Caddo Parish School Board,009051,Queensborough Elementary School,89.38%,,Y,58.53%,296,265
+la,009,Caddo Parish School Board,009052,Ridgewood Middle School,62.18%,,Y,58.53%,710,441
+la,009,Caddo Parish School Board,009053,Riverside Elementary,31.13%,,Y,58.53%,431,134
+la,009,Caddo Parish School Board,009055,Shreve Island Elementary School,35.74%,,Y,58.53%,743,266
+la,009,Caddo Parish School Board,009057,South Highlands Elementary Magnet School,9.68%,,Y,58.53%,499,48
+la,009,Caddo Parish School Board,009058,Southern Hills Elementary School,74.82%,,Y,64.77%,825,617
+la,009,Caddo Parish School Board,009059,Southwood High School,41.31%,,Y,45.01%,1549,640
+la,009,Caddo Parish School Board,009062,Summer Grove Elementary School,66.77%,,Y,58.53%,555,371
+la,009,Caddo Parish School Board,009063,Summerfield Elementary School,53.57%,,Y,58.53%,568,304
+la,009,Caddo Parish School Board,009064,Sunset Acres Elementary School,85.04%,,Y,58.53%,260,221
+la,009,Caddo Parish School Board,009075,Turner Elementary/Middle School,71.57%,,Y,64.77%,1393,997
+la,009,Caddo Parish School Board,009066,University Elementary School,39.13%,,Y,58.53%,1067,418
+la,009,Caddo Parish School Board,009068,Walnut Hill Elementary/Middle School,44.12%,,Y,64.77%,1663,734
+la,009,Caddo Parish School Board,009070,Werner Park Elementary School,85.31%,,Y,58.53%,303,258
+la,009,Caddo Parish School Board,009072,Westwood Elementary School,77.24%,,Y,58.53%,348,269
+la,009,Caddo Parish School Board,009073,Woodlawn Leadership Academy,67.41%,,Y,64.77%,806,543
+la,009,Caddo Parish School Board,009074,Youree Dr. Middle Advanced Placement Magnet School,32.48%,,Y,58.53%,1052,342
+la,010,Calcasieu Parish School Board,010042,A.A. Nelson Elementary School,25.16%,,N,,,
+la,010,Calcasieu Parish School Board,010003,Alfred M. Barbe High School,18.72%,,N,,,
+la,010,Calcasieu Parish School Board,010002,Barbe Elementary School,84.52%,,Y,60.32%,275,232
+la,010,Calcasieu Parish School Board,010004,Bell City High School,20.93%,,N,,,
+la,010,Calcasieu Parish School Board,010073,Brenda Hunter Head Start Center,97.86%,,Y,60.32%,162,159
+la,010,Calcasieu Parish School Board,010006,Brentwood Elementary School,82.37%,,Y,60.32%,283,233
+la,010,Calcasieu Parish School Board,010010,College Oaks Elementary School,65.55%,,Y,60.32%,278,182
+la,010,Calcasieu Parish School Board,010011,Combre/Fondel Elementary School,89.38%,,Y,60.32%,173,155
+la,010,Calcasieu Parish School Board,010045,Cypress Cove Elementary School,33.08%,,Y,60.32%,495,164
+la,010,Calcasieu Parish School Board,010081,DeQuincy Elementary School,36.07%,,Y,60.32%,253,91
+la,010,Calcasieu Parish School Board,010014,DeQuincy High School,18.53%,,N,,,
+la,010,Calcasieu Parish School Board,010015,DeQuincy Middle School,28.21%,,N,,,
+la,010,Calcasieu Parish School Board,010013,DeQuincy Primary School,50.97%,,Y,60.32%,320,163
+la,010,Calcasieu Parish School Board,010016,Dolby Elementary School,29.85%,,N,,,
+la,010,Calcasieu Parish School Board,010030,E.K. Key Elementary School,50.85%,,Y,60.32%,525,267
+la,010,Calcasieu Parish School Board,010066,F.K. White Middle School,50.27%,,Y,60.32%,726,365
+la,010,Calcasieu Parish School Board,010018,Fairview Elementary School,53.70%,,Y,60.32%,458,246
+la,010,Calcasieu Parish School Board,010019,Frasch Elementary School,31.97%,,Y,60.32%,564,180
+la,010,Calcasieu Parish School Board,010068,Gillis Elementary School,29.43%,,N,,,
+la,010,Calcasieu Parish School Board,010024,Henry Heights Elementary School,60.67%,,Y,60.32%,348,211
+la,010,Calcasieu Parish School Board,010026,Iowa High School,28.86%,,N,,,
+la,010,Calcasieu Parish School Board,010060,J.I. Watson Middle School,56.42%,,Y,60.32%,571,322
+la,010,Calcasieu Parish School Board,010071,Jake Drost School for Exceptional Children,88.24%,,Y,60.32%,65,57
+la,010,Calcasieu Parish School Board,010009,Jessie D. Clifton Elementary School,93.23%,,Y,60.32%,397,370
+la,010,Calcasieu Parish School Board,010029,John F. Kennedy Elementary School,87.20%,,Y,60.32%,196,171
+la,010,Calcasieu Parish School Board,010027,"John J. Johnson II, Elementary School",87.37%,,Y,60.32%,241,211
+la,010,Calcasieu Parish School Board,010033,LaGrange High School,58.09%,,Y,60.32%,985,572
+la,010,Calcasieu Parish School Board,010035,LeBlanc Middle School,41.67%,,Y,60.32%,382,159
+la,010,Calcasieu Parish School Board,010005,LeBleu Settlement Elementary School,33.40%,,Y,60.32%,431,144
+la,010,Calcasieu Parish School Board,010028,M.J. Kaufman Elementary School,57.54%,,Y,60.32%,459,264
+la,010,Calcasieu Parish School Board,010036,Maplewood Middle School,23.91%,,N,,,
+la,010,Calcasieu Parish School Board,010039,Moss Bluff Elementary School,24.27%,,N,,,
+la,010,Calcasieu Parish School Board,010040,Moss Bluff Middle School,20.54%,,N,,,
+la,010,Calcasieu Parish School Board,010043,Oak Park Elementary School,71.40%,,Y,60.32%,419,299
+la,010,Calcasieu Parish School Board,010044,Oak Park Middle School,66.21%,,Y,60.32%,475,314
+la,010,Calcasieu Parish School Board,010061,Pearl Watson Elementary School,81.04%,,Y,60.32%,357,289
+la,010,Calcasieu Parish School Board,010046,Prien Lake Elementary School,19.55%,,N,,,
+la,010,Calcasieu Parish School Board,010067,Ralph F. Wilson Elementary School,83.41%,,Y,60.32%,201,168
+la,010,Calcasieu Parish School Board,010038,Ray D. Molo Middle Magnet School,76.61%,,Y,60.32%,435,333
+la,010,Calcasieu Parish School Board,010054,Richard W. Vincent Elementary School,41.05%,,Y,60.32%,318,131
+la,010,Calcasieu Parish School Board,010062,S.J. Welsh Middle School,27.05%,,N,,,
+la,010,Calcasieu Parish School Board,010001,S.P. Arnett Middle School,30.59%,,N,,389,119
+la,010,Calcasieu Parish School Board,010025,Sam Houston High School,11.50%,,N,,,
+la,010,Calcasieu Parish School Board,010050,St. John Elementary School,35.82%,,Y,60.32%,823,295
+la,010,Calcasieu Parish School Board,010051,Starks High School,33.23%,,Y,60.32%,319,106
+la,010,Calcasieu Parish School Board,010052,Sulphur High School,19.78%,,N,,,
+la,010,Calcasieu Parish School Board,010059,T.H. Watkins Elementary School,72.76%,,Y,60.32%,229,167
+la,010,Calcasieu Parish School Board,010012,T.S. Cooley Elementary Magnet School,7.12%,,N,,,
+la,010,Calcasieu Parish School Board,010053,Vincent Settlement Elementary School,23.72%,,N,,,
+la,010,Calcasieu Parish School Board,010055,Vinton Elementary School,51.84%,,Y,60.32%,456,236
+la,010,Calcasieu Parish School Board,010056,Vinton High School,26.07%,,N,,,
+la,010,Calcasieu Parish School Board,010057,Vinton Middle School,44.55%,,Y,60.32%,263,117
+la,010,Calcasieu Parish School Board,010023,W.T. Henning Elementary School,41.28%,,Y,60.32%,403,166
+la,010,Calcasieu Parish School Board,010034,W.W. Lewis Middle School,24.83%,,N,,,
+la,010,Calcasieu Parish School Board,010058,Washington/Marion Magnet High School,64.40%,,Y,60.32%,617,397
+la,010,Calcasieu Parish School Board,010063,Western Heights Elementary School,35.94%,,Y,60.32%,336,121
+la,010,Calcasieu Parish School Board,010064,Westlake High School,24.24%,,N,,,
+la,010,Calcasieu Parish School Board,010065,Westwood Elementary School,41.54%,,Y,60.32%,413,172
+la,011,Caldwell Parish School System,011001,Caldwell Parish High School,37.56%,,Y,54.06%,405,152
+la,011,Caldwell Parish School System,011002,Caldwell Parish Junior High School,54.67%,,Y,54.06%,374,204
+la,011,Caldwell Parish School System,011009,Caldwell Parish Pre-Kindergarten Center,61.06%,,Y,54.06%,122,74
+la,011,Caldwell Parish School System,011004,Columbia Elementary School,41.28%,,Y,54.06%,230,95
+la,011,Caldwell Parish School System,011005,Grayson Elementary School,61.59%,,Y,54.06%,264,163
+la,011,Caldwell Parish School System,011008,Kelly Early Childhood Center,100.00%,,Y,54.06%,79,79
+la,011,Caldwell Parish School System,011003,Union Central Elementary School,65.28%,,Y,54.06%,215,140
+la,013,Catahoula Parish School Board,013001,Block High School,52.24%,,Y,58.66%,201,105
+la,013,Catahoula Parish School Board,013002,Central High School,52.70%,,Y,58.66%,74,39
+la,013,Catahoula Parish School Board,013005,Harrisonburg High School,41.69%,,Y,58.66%,343,143
+la,013,Catahoula Parish School Board,013006,Jonesville Elementary School,75.79%,,Y,58.66%,131,99
+la,013,Catahoula Parish School Board,013011,Sicily Island High School,63.31%,,Y,58.66%,248,157
+la,069,Central Community School District,069001,Bellingrath Hills Elementary School,65.40%,,Y,60.41%,448,293
+la,069,Central Community School District,069004,Central High School,57.11%,,Y,60.41%,1329,759
+la,069,Central Community School District,069006,Central Intermediate School,62.06%,,Y,60.41%,1107,687
+la,069,Central Community School District,069003,Central Middle School,59.81%,,Y,60.41%,1035,619
+la,069,Central Community School District,069002,Tanglewood Elementary School (Central),61.78%,,Y,60.41%,709,438
+la,393,Choice Foundation,393002,Esperanza Charter School,53.07%,,Y,70.64%,534,283
+la,393,Choice Foundation,393001,Lafayette Academy of New Orleans,73.28%,,Y,70.64%,992,727
+la,068,City of Baker School District,068001,Baker Heights Elementary School,86.77%,,Y,64.63%,206,179
+la,068,City of Baker School District,068002,Baker High School,78.91%,,Y,64.63%,502,396
+la,068,City of Baker School District,068003,Baker Middle School,83.39%,,Y,64.63%,218,182
+la,068,City of Baker School District,068004,Bakerfield Elementary School,79.10%,,Y,64.63%,217,172
+la,068,City of Baker School District,068005,Park Ridge Academic Magnet School,82.08%,,Y,64.63%,197,162
+la,066,City of Bogalusa School District,066002,Bogalusa High School,47.59%,,Y,71.73%,664,316
+la,066,City of Bogalusa School District,066003,Byrd Avenue Primary School,81.87%,,Y,71.73%,364,298
+la,066,City of Bogalusa School District,066001,Central Elementary School,99.33%,,Y,71.73%,447,444
+la,014,Claiborne Parish School Board,014003,Haynesville Elementary School,63.72%,,Y,63.54%,226,144
+la,014,Claiborne Parish School Board,014004,Haynesville Jr./Sr. High School,54.28%,,Y,63.54%,339,184
+la,014,Claiborne Parish School Board,014006,Homer Elementary School,76.71%,,Y,63.54%,498,382
+la,014,Claiborne Parish School Board,014007,Homer High School,64.82%,,Y,63.54%,199,129
+la,014,Claiborne Parish School Board,014008,Homer Junior High School,73.81%,,Y,63.54%,168,124
+la,014,Claiborne Parish School Board,014011,Summerfield High School,43.02%,,Y,63.54%,265,114
+la,382,Collegiate Academies,WJ5001,Collegiate Baton Rouge,57.72%,,Y,70.64%,260,150
+la,382,Collegiate Academies,382002,G.W. Carver Collegiate Academy,64.48%,,Y,70.64%,762,491
+la,382,Collegiate Academies,382004,Livingston Collegiate,69.61%,,Y,70.64%,480,334
+la,,Collegiate Academies,,Opportunites Academy,,,Y,70.64%,50,
+la,382,Collegiate Academies,WBU001,Rosenwald Collegiate Academy,43.11%,,Y,70.64%,169,73
+la,382,Collegiate Academies,382001,Sci Academy,61.73%,,Y,70.64%,585,361
+la,364,Community Leaders Advocating Student Success,364001,Fannie C Williams Charter School,73.81%,,Y,80.56%,571,421
+la,015,Concordia Parish School Board,015002,Ferriday High School,75.19%,,Y,68.11%,366,275
+la,015,Concordia Parish School Board,015003,Ferriday Junior High School,74.44%,,Y,68.11%,273,203
+la,015,Concordia Parish School Board,015004,Ferriday Lower Elementary School,80.06%,,Y,68.11%,326,261
+la,015,Concordia Parish School Board,015005,Ferriday Upper Elementary School,72.87%,,Y,68.11%,270,197
+la,015,Concordia Parish School Board,015006,Monterey High School,38.80%,,Y,68.11%,441,171
+la,015,Concordia Parish School Board,015008,Vidalia High School,36.50%,,Y,68.11%,402,147
+la,015,Concordia Parish School Board,015009,Vidalia Junior High School,50.62%,,Y,68.11%,327,166
+la,015,Concordia Parish School Board,015010,Vidalia Lower Elementary School,53.57%,,Y,68.11%,503,269
+la,015,Concordia Parish School Board,015011,Vidalia Upper Elementary School,58.88%,,Y,68.11%,388,228
+la,363,Crescent City Schools,381001,Akili Academy of New Orleans,90.13%,,Y,81.57%,623,562
+la,363,Crescent City Schools,363001,Harriet Tubman Charter School,85.28%,,Y,81.57%,901,768
+la,363,Crescent City Schools,363002,Paul Habans Charter School,83.88%,,Y,81.57%,695,583
+la,WAV,Democracy Prep Louisiana Charter School,WAV001,Democracy Prep Louisiana Charter School,69.83%,,Y,81.18%,542,378
+la,016,DeSoto Parish School Board,016004,Logansport High School,50.79%,,Y,47.94%,693,352
+la,016,DeSoto Parish School Board,016019,Mansfield Elementary School,79.09%,,Y,48.73%,727,575
+la,016,DeSoto Parish School Board,016007,Mansfield High School,65.34%,,Y,48.73%,427,279
+la,016,DeSoto Parish School Board,016020,Mansfield Middle School,73.89%,,Y,47.94%,429,317
+la,016,DeSoto Parish School Board,016023,North DeSoto Elementary School 3-5,34.06%,,Y,48.73%,596,203
+la,016,DeSoto Parish School Board,016014,North DeSoto Elementary School PK-2,35.82%,,Y,48.73%,656,235
+la,016,DeSoto Parish School Board,016012,North DeSoto High School,27.80%,,Y,47.94%,651,181
+la,016,DeSoto Parish School Board,016017,North DeSoto Middle School 6-8,35.70%,,Y,48.73%,563,201
+la,016,DeSoto Parish School Board,016010,Stanley High School,37.53%,,Y,48.73%,413,155
+la,,East Baton Rouge Parish School System,,Advantage Charter Academy,,,Y,74.03%,593,
+la,017,East Baton Rouge Parish School System,017001,Arlington Preparatory Academy,66.67%,,Y,76.50%,84,56
+la,017,East Baton Rouge Parish School System,017002,Audubon Elementary School,82.06%,,Y,76.50%,574,471
+la,017,East Baton Rouge Parish School System,017084,B. R. Foreign Language Acad. Immersion Magnet,45.89%,,Y,76.50%,231,106
+la,017,East Baton Rouge Parish School System,017008,Baton Rouge Magnet High School,41.50%,,Y,76.50%,1441,598
+la,017,East Baton Rouge Parish School System,017094,Baton Rouge Visual and Performing Arts Center,44.42%,,Y,76.50%,421,187
+la,017,East Baton Rouge Parish School System,017010,Belaire High School,88.51%,,Y,76.50%,1123,994
+la,017,East Baton Rouge Parish School System,017011,Belfair Montessori School,80.12%,,Y,76.50%,322,258
+la,017,East Baton Rouge Parish School System,017013,Bernard Terrace Elementary School,85.09%,,Y,76.50%,409,348
+la,017,East Baton Rouge Parish School System,017014,Broadmoor Elementary School,82.45%,,Y,76.50%,547,451
+la,017,East Baton Rouge Parish School System,017016,Broadmoor Senior High School,80.78%,,Y,76.50%,1072,866
+la,017,East Baton Rouge Parish School System,017146,Brookstown Middle Magnet Academy,94.46%,,Y,76.50%,271,256
+la,017,East Baton Rouge Parish School System,017018,Brownfields Elementary School,87.34%,,Y,76.50%,316,276
+la,017,East Baton Rouge Parish School System,017019,Buchanan Elementary School,69.52%,,Y,76.50%,420,292
+la,017,East Baton Rouge Parish School System,017128,Capitol Elementary School,92.68%,,Y,76.50%,451,418
+la,017,East Baton Rouge Parish School System,017020,Capitol Middle School,93.20%,,Y,76.50%,441,411
+la,017,East Baton Rouge Parish School System,017022,Cedarcrest-Southmoor Elementary School,78.31%,,Y,76.50%,590,462
+la,017,East Baton Rouge Parish School System,017026,Claiborne Elementary School,94.89%,,Y,76.50%,567,538
+la,017,East Baton Rouge Parish School System,017111,Community School For Apprenticeship Learning,90.88%,,Y,76.50%,274,249
+la,017,East Baton Rouge Parish School System,017027,Crestworth Elementary School,94.33%,,Y,76.50%,335,316
+la,017,East Baton Rouge Parish School System,017143,Delmont Pre-K and Kindergarten Center,96.58%,,Y,76.50%,322,311
+la,017,East Baton Rouge Parish School System,017092,EBR Readiness Superintendent Academy,92.70%,,Y,76.50%,178,165
+la,017,East Baton Rouge Parish School System,017034,Forest Heights Academy of Excellence,81.69%,,Y,76.50%,426,348
+la,017,East Baton Rouge Parish School System,017035,Glasgow Middle School,64.65%,,Y,76.50%,495,320
+la,017,East Baton Rouge Parish School System,017037,Glen Oaks Park Elementary School,94.73%,,Y,76.50%,455,431
+la,017,East Baton Rouge Parish School System,017038,Glen Oaks Senior High School,89.69%,,Y,76.50%,553,496
+la,017,East Baton Rouge Parish School System,017040,Greenbrier Elementary School,91.47%,,Y,76.50%,434,397
+la,017,East Baton Rouge Parish School System,017043,Highland Elementary School,78.93%,,Y,76.50%,356,281
+la,017,East Baton Rouge Parish School System,017044,Howell Park Elementary School,95.40%,,Y,95.40%,Louisiana,
+la,W1B,East Baton Rouge Parish School System,017135,Inspire Charter Academy (F11),72.35%,,Y,79.43%,593,429
+la,017,East Baton Rouge Parish School System,017045,Istrouma Senior High School,50.19%,,Y,76.50%,520,261
+la,017,East Baton Rouge Parish School System,017112,J.K. Haynes Elementary Charter School,92.97%,,Y,76.50%,256,238
+la,017,East Baton Rouge Parish School System,017047,Jefferson Terrace Elementary School,76.84%,,Y,76.50%,462,355
+la,017,East Baton Rouge Parish School System,017050,LaBelle Aire Elementary School,87.63%,,Y,76.50%,679,595
+la,017,East Baton Rouge Parish School System,017051,LaSalle Elementary School,70.00%,,Y,76.50%,530,371
+la,017,East Baton Rouge Parish School System,017138,Lee High School,56.25%,,Y,76.50%,752,423
+la,017,East Baton Rouge Parish School System,343001,Madison Preparatory Academy,64.10%,,Y,76.50%,493,316
+la,017,East Baton Rouge Parish School System,017053,Magnolia Woods Elementary School,78.38%,,Y,76.50%,555,435
+la,017,East Baton Rouge Parish School System,017144,Mayfair Laboratory School,50.45%,,Y,76.50%,335,169
+la,017,East Baton Rouge Parish School System,017055,McKinley Middle Magnet School,66.62%,,Y,76.50%,731,487
+la,017,East Baton Rouge Parish School System,017056,McKinley Senior High School,76.10%,,Y,76.50%,1293,984
+la,017,East Baton Rouge Parish School System,017057,Melrose Elementary School,92.43%,,Y,76.50%,489,452
+la,017,East Baton Rouge Parish School System,017058,Merrydale Elementary School,92.39%,,Y,76.50%,486,449
+la,017,East Baton Rouge Parish School System,017063,Northdale Superintendent's Academy,94.57%,,Y,76.50%,92,87
+la,017,East Baton Rouge Parish School System,017064,Northeast Elementary School,80.65%,,Y,76.50%,279,225
+la,017,East Baton Rouge Parish School System,017065,Northeast High School,83.33%,,Y,76.50%,462,385
+la,017,East Baton Rouge Parish School System,017068,Park Elementary School,96.26%,,Y,76.50%,294,283
+la,017,East Baton Rouge Parish School System,017069,Park Forest Elementary School,91.10%,,Y,76.50%,326,297
+la,017,East Baton Rouge Parish School System,017070,Park Forest Middle School,88.14%,,Y,76.50%,708,624
+la,017,East Baton Rouge Parish School System,017072,Parkview Elementary School,53.00%,,Y,76.50%,617,327
+la,017,East Baton Rouge Parish School System,017075,Progress Elementary School,95.37%,,Y,76.50%,432,412
+la,017,East Baton Rouge Parish School System,017077,Riveroaks Elementary School,80.91%,,Y,76.50%,419,339
+la,017,East Baton Rouge Parish School System,017078,Ryan Elementary School,94.96%,,Y,76.50%,456,433
+la,017,East Baton Rouge Parish School System,017079,Scotlandville Magnet High School,90.20%,,Y,76.50%,1265,1141
+la,017,East Baton Rouge Parish School System,017130,Scotlandville Middle Pre-Engineering Academy,92.61%,,Y,76.50%,460,426
+la,017,East Baton Rouge Parish School System,017081,Sharon Hills Elementary School,97.25%,,Y,76.50%,327,318
+la,017,East Baton Rouge Parish School System,017082,Shenandoah Elementary School,47.57%,,Y,76.50%,597,284
+la,017,East Baton Rouge Parish School System,017083,Sherwood Middle School,54.08%,,Y,76.50%,760,411
+la,017,East Baton Rouge Parish School System,017031,Southdowns School,60.51%,,Y,76.50%,195,118
+la,017,East Baton Rouge Parish School System,017085,Southeast Middle School,81.88%,,Y,76.50%,701,574
+la,017,East Baton Rouge Parish School System,017088,Tara High School,77.93%,,Y,76.50%,1101,858
+la,017,East Baton Rouge Parish School System,017032,The Dufrocq School,77.10%,,Y,76.50%,655,505
+la,017,East Baton Rouge Parish School System,017089,Twin Oaks Elementary School,85.55%,,Y,76.50%,429,367
+la,017,East Baton Rouge Parish School System,017091,University Terrace Elementary School,78.04%,,Y,76.50%,469,366
+la,017,East Baton Rouge Parish School System,017093,Villa del Rey Elementary School,85.61%,,Y,76.50%,403,345
+la,017,East Baton Rouge Parish School System,017095,Wedgewood Elementary School,87.23%,,Y,76.50%,564,492
+la,017,East Baton Rouge Parish School System,017096,Westdale Heights Academic Magnet School,37.70%,,Y,76.50%,443,167
+la,017,East Baton Rouge Parish School System,017097,Westdale Middle School,71.38%,,Y,76.50%,947,676
+la,017,East Baton Rouge Parish School System,017098,Westminster Elementary School,71.46%,,Y,76.50%,417,298
+la,017,East Baton Rouge Parish School System,017120,White Hills Elementary School,89.33%,,Y,76.50%,150,134
+la,017,East Baton Rouge Parish School System,017100,Wildwood Elementary School,61.52%,,Y,76.50%,551,339
+la,017,East Baton Rouge Parish School System,017101,Winbourne Elementary School,96.75%,,Y,76.50%,400,387
+la,017,East Baton Rouge Parish School System,017131,Woodlawn Elementary,62.32%,,Y,76.50%,698,435
+la,017,East Baton Rouge Parish School System,017102,Woodlawn High School,60.92%,,Y,76.50%,1113,678
+la,017,East Baton Rouge Parish School System,017125,Woodlawn Middle School,66.75%,,Y,76.50%,845,564
+la,018,East Carroll Parish School Board,018002,General Trass High School,74.12%,,Y,87.05%,262,194
+la,018,East Carroll Parish School Board,018001,Griffin Middle School Academy,78.60%,,Y,87.05%,215,169
+la,018,East Carroll Parish School Board,018005,Southside Elementary School,86.02%,,Y,87.05%,465,400
+la,019,East Feliciana Parish School Board,019003,Clinton Elementary School,90.41%,,Y,63.24%,219,198
+la,019,East Feliciana Parish School Board,019014,East Feliciana High School,85.93%,,Y,63.24%,287,247
+la,019,East Feliciana Parish School Board,019002,East Feliciana Middle School,89.91%,,Y,63.24%,226,203
+la,019,East Feliciana Parish School Board,019013,East Feliciana Parish Enrichment Academy,100.00%,,Y,63.24%,Louisiana,
+la,019,East Feliciana Parish School Board,019007,Jackson Elementary School,86.33%,,Y,63.24%,260,224
+la,019,East Feliciana Parish School Board,019009,Slaughter Elementary School,52.61%,,Y,63.24%,504,265
+la,W8A,"Education Explosion, Inc.",W8A001,Impact Charter Elementary,70.03%,,Y,65.26%,380,266
+la,F22,Einstein Charter School,F22003,Einstein Charter High School @ Sarah Towles Reed,53.45%,,Y,75.02%,267,143
+la,F22,Einstein Charter School,F22004,Einstein Charter Middle at Sarah Towles Reed,54.75%,,Y,75.02%,394,216
+la,F22,Einstein Charter School,F22001,Einstein Charter School at Sherwood Forest,70.66%,,Y,75.02%,504,356
+la,F22,Einstein Charter School,F22002,Einstein Charter School at Village D'Lest,63.66%,,Y,75.02%,464,295
+la,,"Elan Academy, Inc.",,"Elan Academy, Inc.",,,Y,41.73%,139,
+la,F27,Encore Academy,F27001,Encore Academy,69.66%,,Y,71.57%,605,421
+la,,Evangelical Lutheran Church in America,,Concordia Lutheran School,,,Y,56.94%,72,
+la,020,Evangeline Parish School Board,020001,Basile High School,44.17%,,Y,59.58%,446,197
+la,020,Evangeline Parish School Board,020002,Bayou Chicot Elementary School,48.10%,,Y,59.58%,765,368
+la,020,Evangeline Parish School Board,020004,Chataignier Elementary School,65.00%,,Y,59.58%,340,221
+la,020,Evangeline Parish School Board,020018,Evangeline Central School,61.54%,,Y,59.58%,52,32
+la,020,Evangeline Parish School Board,020019,James Stephens Montessori School,69.93%,,Y,59.58%,306,214
+la,020,Evangeline Parish School Board,020007,Mamou Elementary School,71.37%,,Y,59.58%,503,359
+la,020,Evangeline Parish School Board,020008,Mamou High School,58.46%,,Y,59.58%,780,456
+la,020,Evangeline Parish School Board,020010,Pine Prairie High School,41.82%,,Y,59.58%,813,340
+la,020,Evangeline Parish School Board,020013,Vidrine Elementary School,54.00%,,Y,59.58%,350,189
+la,020,Evangeline Parish School Board,020015,Ville Platte Elementary School,90.39%,,Y,59.58%,458,414
+la,020,Evangeline Parish School Board,020014,Ville Platte High School,71.56%,,Y,59.58%,770,551
+la,020,Evangeline Parish School Board,020012,W. W. Stewart Elementary School,55.39%,,Y,59.58%,343,190
+la,399,"FirstLine Schools, Inc.",399002,Arthur Ashe Charter School,67.68%,,Y,69.41%,832,563
+la,399,"FirstLine Schools, Inc.",399006,FirstLine Live Oak,75.63%,,Y,69.41%,262,198
+la,399,"FirstLine Schools, Inc.",399005,Langston Hughes Academy Charter School,78.79%,,Y,69.41%,804,633
+la,399,"FirstLine Schools, Inc.",399004,Phillis Wheatley Community School,70.10%,,Y,69.41%,839,588
+la,399,"FirstLine Schools, Inc.",399001,Samuel J. Green Charter School,78.50%,,Y,69.41%,508,399
+la,399,"FirstLine Schools, Inc.",360001,The NET Charter High School,78.29%,,Y,69.41%,139,109
+la,399,"FirstLine Schools, Inc.",WZ9001,The NET2 High School,69.18%,,Y,69.41%,169,117
+la,F23,Foundation Preparatory,F23001,Foundation Preparatory,76.35%,,Y,64.53%,172,131
+la,021,Franklin Parish School Board,021001,Baskin School,59.79%,,Y,65.70%,389,233
+la,021,Franklin Parish School Board,021006,Crowville School,52.04%,,Y,65.70%,533,277
+la,021,Franklin Parish School Board,021003,Fort Necessity Junior High School,64.56%,,Y,65.70%,298,192
+la,021,Franklin Parish School Board,021026,Franklin Parish Head Start,100.00%,,Y,65.70%,136,136
+la,021,Franklin Parish School Board,021007,Franklin Parish High School,51.39%,,Y,65.70%,750,385
+la,021,Franklin Parish School Board,021004,Gilbert School,64.23%,,Y,65.70%,467,300
+la,021,Franklin Parish School Board,021010,Winnsboro Elementary School,90.77%,,Y,65.70%,570,517
+la,3B9,"Friendship Louisiana, Inc.",3B9001,Capitol High School,75.49%,,Y,75.58%,389,294
+la,729,Gardere Community Christian School,729001,Gardere Community Christian School,76.14%,,Y,76.14%,88,67
+la,WAU,GEO Prep Academy of Greater Baton Rouge,WAU001,GEO Prep Academy of Greater Baton Rouge,64.44%,,Y,68.63%,510,329
+la,WAU,GEO Prep Academy of Greater Baton Rouge,WZ8001,GEO Prep Mid-City of Greater Baton Rouge,70.45%,,Y,68.63%,628,442
+la,329,Glencoe Charter School,329001,V. B. Glencoe Charter School,57.18%,,Y,60.44%,364,208
+la,506,Good Shepherd Nativity Mission School,506157,Good Shepherd Nativity Mission School (C),65.00%,,Y,81.64%,256,166
+la,022,Grant Parish School Board,022001,Colfax Elementary School,84.42%,,Y,49.44%,188,159
+la,022,Grant Parish School Board,022004,Georgetown High School,44.80%,,Y,49.44%,257,115
+la,022,Grant Parish School Board,022005,Grant High School,40.78%,,Y,49.44%,583,238
+la,022,Grant Parish School Board,022002,Grant Junior High School,45.60%,,Y,49.44%,366,167
+la,022,Grant Parish School Board,022006,Montgomery High School,47.80%,,Y,49.44%,185,88
+la,022,Grant Parish School Board,022007,Pollock Elementary School,44.15%,,Y,49.44%,567,250
+la,022,Grant Parish School Board,022010,South Grant Elementary School,46.30%,,Y,49.44%,560,259
+la,022,Grant Parish School Board,022008,Verda Elementary School,45.75%,,Y,49.44%,251,115
+la,W37,Greater Grace Charter Academy,W37001,Greater Grace Charter Academy,73.75%,,Y,66.25%,80,59
+la,F09,Helix Network Of Educational Choices,F09001,Mentorship Academy of Digital Arts,88.30%,,Y,88.30%,547,483
+la,702,Hosanna Christian Academy,702001,Hosanna Christian Academy (AG),65.42%,,Y,65.42%,506,331
+la,023,Iberia Parish School Board,023900,Alternative Center for Education,89.55%,,Y,68.87%,67,60
+la,023,Iberia Parish School Board,023001,Anderson Middle School,87.11%,,Y,68.87%,380,331
+la,,Iberia Parish School Board,,Belle Place Elementary School,,,Y,68.87%,,
+la,023,Iberia Parish School Board,023036,Belle Place Middle School,57.79%,,Y,68.87%,398,230
+la,023,Iberia Parish School Board,023072,Caneview Elementary School,64.66%,,Y,68.87%,532,344
+la,023,Iberia Parish School Board,023005,Center Street Elementary School,73.97%,,Y,68.87%,438,324
+la,023,Iberia Parish School Board,023006,Coteau Elementary School,73.65%,,Y,68.87%,315,232
+la,023,Iberia Parish School Board,023034,Daspit Road Elementary School,62.78%,,Y,68.87%,446,280
+la,023,Iberia Parish School Board,023030,Delcambre Elementary School,61.28%,,Y,68.87%,501,307
+la,023,Iberia Parish School Board,023007,Delcambre High School,54.19%,,Y,68.87%,561,304
+la,023,Iberia Parish School Board,023010,Hopkins Street Elementary School,92.65%,,Y,68.87%,544,504
+la,023,Iberia Parish School Board,023038,Iberia Middle School,69.94%,,Y,68.87%,519,363
+la,023,Iberia Parish School Board,023015,Jeanerette Senior High School,85.75%,,Y,68.87%,407,349
+la,023,Iberia Parish School Board,023070,Jefferson Island Road Elementary,71.88%,,Y,68.87%,505,363
+la,023,Iberia Parish School Board,023019,Loreauville Elementary School,45.01%,,Y,68.87%,702,316
+la,023,Iberia Parish School Board,023020,Loreauville High School,39.03%,,Y,68.87%,497,194
+la,023,Iberia Parish School Board,023071,Magnolia Elementary,78.92%,,Y,68.87%,574,453
+la,023,Iberia Parish School Board,023024,New Iberia Senior High School,58.93%,,Y,68.87%,1590,937
+la,023,Iberia Parish School Board,023025,North Lewis Elementary School,52.33%,,Y,68.87%,686,359
+la,023,Iberia Parish School Board,023027,Park Elementary School,95.35%,,Y,68.87%,301,287
+la,023,Iberia Parish School Board,023029,Pesson Addition Elementary School,86.77%,,Y,68.87%,446,387
+la,023,Iberia Parish School Board,023033,St. Charles Street Elementary School,88.12%,,Y,68.87%,261,230
+la,023,Iberia Parish School Board,023035,Sugarland Elementary School,88.89%,,Y,68.87%,351,312
+la,023,Iberia Parish School Board,023022,Westgate High School,75.74%,,Y,68.87%,1047,793
+la,024,Iberville Parish School Board,024003,Crescent Elementary/Junior High School,54.71%,,Y,68.17%,541,296
+la,024,Iberville Parish School Board,024019,Dorseyville Elementary School,84.26%,,Y,68.17%,502,423
+la,024,Iberville Parish School Board,024025,East Iberville Elementary/High School,72.01%,,Y,68.17%,743,535
+la,024,Iberville Parish School Board,024022,Iberville Elementary School,74.51%,,Y,68.17%,1232,918
+la,024,Iberville Parish School Board,024023,North Iberville Elementary/High School,75.64%,,Y,68.17%,275,208
+la,024,Iberville Parish School Board,024010,Plaquemine Senior High School,58.72%,,Y,68.17%,1410,828
+la,024,Iberville Parish School Board,024017,White Castle High School,67.56%,,Y,68.17%,299,202
+la,,IDEA Public Schools,,IDEA Bridge,,,Y,58.78%,494,
+la,,IDEA Public Schools,,IDEA Innovation,,,Y,58.78%,309,
+la,W1B,"Inspire Charter Academy, Inc.",W2B001,Willow Charter Academy,80.60%,,Y,84.78%,565,455
+la,F25,Inspire NOLA Charter Schools,WBC001,Alice Harte Elementary Charter School (F25),48.15%,,Y,64.76%,780,376
+la,F25,Inspire NOLA Charter Schools,WBV001,Dwight D. Eisenhower (WBV),66.82%,,Y,64.76%,705,471
+la,F25,Inspire NOLA Charter Schools,F25002,Edna Karr Secondary School (F25),49.95%,,Y,64.76%,1073,536
+la,F25,Inspire NOLA Charter Schools,WBF001,Eleanor McMain Secondary School,56.88%,,Y,64.76%,836,476
+la,,Inspire NOLA Charter Schools,,McDonogh #35 Senior High School,,,Y,74.03%,439,
+la,F25,Inspire NOLA Charter Schools,WBP001,McDonogh #42 Charter School,83.29%,,Y,64.76%,450,375
+la,F25,Inspire NOLA Charter Schools,F25003,Wilson Charter School (F25),65.59%,,Y,64.76%,705,462
+la,397,Institute for Academic Excellence,397001,Sophie B. Wright Inst. of Academic Excellence,62.85%,,Y,64.47%,515,324
+la,025,Jackson Parish School Board,025005,Jonesboro-Hodge High School,52.86%,,N,,280,148
+la,025,Jackson Parish School Board,025006,Jonesboro-Hodge Middle School,64.14%,,N,,237,152
+la,025,Jackson Parish School Board,025007,Quitman High School,31.65%,,N,,714,226
+la,025,Jackson Parish School Board,025008,Southside Elementary School,67.78%,,N,,360,244
+la,025,Jackson Parish School Board,025010,Weston High School,35.82%,,N,,670,240
+la,027,Jefferson Davis Parish School Board,027002,Elton Elementary School,47.99%,,Y,53.36%,273,131
+la,027,Jefferson Davis Parish School Board,027001,Elton High School,40.66%,,N,,247,100
+la,027,Jefferson Davis Parish School Board,027003,Fenton Elementary School,50.82%,,N,,122,62
+la,027,Jefferson Davis Parish School Board,027004,Hathaway High School,27.69%,,N,,,
+la,027,Jefferson Davis Parish School Board,027009,Jennings Elementary School,67.43%,,Y,53.36%,568,383
+la,027,Jefferson Davis Parish School Board,027006,Jennings High School,50.40%,,Y,55.32%,869,438
+la,027,Jefferson Davis Parish School Board,027010,Lacassine High School,26.61%,,N,,,
+la,027,Jefferson Davis Parish School Board,027011,Lake Arthur Elementary School,54.91%,,Y,55.32%,550,302
+la,027,Jefferson Davis Parish School Board,027012,Lake Arthur High School,44.24%,,Y,53.36%,425,188
+la,027,Jefferson Davis Parish School Board,027008,Ward Elementary School,69.31%,,Y,55.32%,518,359
+la,027,Jefferson Davis Parish School Board,027013,Welsh Elementary School,50.10%,,Y,55.32%,525,263
+la,027,Jefferson Davis Parish School Board,027014,Welsh High School,25.23%,,N,,,
+la,027,Jefferson Davis Parish School Board,027015,Welsh-Roanoke Junior High School,41.52%,,Y,53.36%,224,93
+la,026,Jefferson Parish Schools,026003,A.C. Alexander Elementary School,55.47%,,Y,56.25%,622,345
+la,026,Jefferson Parish Schools,026122,Airline Park Academy for Advanced Studies,7.20%,,Y,56.25%,375,27
+la,026,Jefferson Parish Schools,026008,Alice M. Birney Elementary School,53.35%,,Y,56.25%,671,358
+la,026,Jefferson Parish Schools,,Allen Ellender School,,,N,,,
+la,026,Jefferson Parish Schools,026009,Bissonet Plaza Elementary School,45.94%,,Y,56.25%,677,311
+la,026,Jefferson Parish Schools,026026,Bonella A. St. Ville Elementary School,74.77%,,Y,56.25%,440,329
+la,026,Jefferson Parish Schools,026010,Bonnabel Magnet Academy High School,43.27%,,N,,1285,556
+la,026,Jefferson Parish Schools,026013,Bridgedale Elementary School,58.44%,,Y,56.25%,462,270
+la,026,Jefferson Parish Schools,026088,Celerity Woodmere Charter School,75.67%,,Y,51.63%,374,283
+la,026,Jefferson Parish Schools,026089,Chateau Estates Elementary School,45.63%,,Y,56.25%,675,308
+la,026,Jefferson Parish Schools,026098,Congetta Trippe Janet Elementary School,52.51%,,Y,56.25%,657,345
+la,026,Jefferson Parish Schools,026022,East Jefferson High School,38.08%,,N,,1116,425
+la,026,Jefferson Parish Schools,026066,Ella C. Pittman Elementary School,59.90%,,Y,56.25%,581,348
+la,026,Jefferson Parish Schools,026020,Ella Dolhonde Elementary School,54.44%,,Y,56.25%,507,276
+la,026,Jefferson Parish Schools,026024,Ellender Middle School,55.38%,,Y,56.25%,558,309
+la,026,Jefferson Parish Schools,026027,Estelle Elementary School,64.01%,,Y,56.25%,778,498
+la,026,Jefferson Parish Schools,026029,Fisher Middle/High School,33.94%,,N,,492,167
+la,026,Jefferson Parish Schools,026021,Frederick Douglass Elementary School,67.32%,,Y,56.25%,306,206
+la,026,Jefferson Parish Schools,026084,G.T. Woods Elementary School,77.74%,,Y,56.25%,283,220
+la,026,Jefferson Parish Schools,026016,George Cox Elementary School,64.69%,,Y,56.25%,422,273
+la,026,Jefferson Parish Schools,026096,Gerarldine Boudreaux Elementary School,63.65%,,Y,56.25%,608,387
+la,026,Jefferson Parish Schools,026051,Grace King High School,32.36%,,N,,1341,434
+la,026,Jefferson Parish Schools,026031,Grand Isle High School,41.61%,,Y,56.25%,161,67
+la,026,Jefferson Parish Schools,026032,Green Park Elementary School,45.66%,,Y,56.25%,438,200
+la,026,Jefferson Parish Schools,026033,Greenlawn Terrace Elementary School,55.37%,,Y,56.25%,540,299
+la,026,Jefferson Parish Schools,026035,Gretna Middle School,62.12%,,Y,62.82%,631,392
+la,026,Jefferson Parish Schools,026108,Gretna No. 2 Academy for Advanced Studies,19.94%,,Y,56.25%,361,72
+la,026,Jefferson Parish Schools,026038,Harahan Elementary School,45.61%,,Y,56.25%,513,234
+la,026,Jefferson Parish Schools,026050,Harold Keller Elementary School,39.62%,,Y,56.25%,530,210
+la,026,Jefferson Parish Schools,026099,Harry S. Truman Middle School,54.19%,,Y,62.82%,567,307
+la,026,Jefferson Parish Schools,026042,Haynes Academy School for Advanced Studies,8.69%,,N,,,
+la,026,Jefferson Parish Schools,026043,Hazel Park/Hilda Knoff School,53.06%,,Y,56.25%,409,217
+la,026,Jefferson Parish Schools,026017,Helen Cox High School,49.05%,,N,,1056,518
+la,026,Jefferson Parish Schools,026030,Henry Ford Middle School,63.79%,,Y,62.82%,538,343
+la,026,Jefferson Parish Schools,026025,J.C. Ellis Elementary School,45.39%,,Y,56.25%,760,345
+la,026,Jefferson Parish Schools,026062,J.D. Meisler Middle School,43.65%,,N,,811,354
+la,026,Jefferson Parish Schools,026005,J.J. Audubon Elementary School,59.22%,,Y,56.25%,461,273
+la,026,Jefferson Parish Schools,026123,Jefferson Chamber Foundation Academy,50.43%,,N,,115,58
+la,026,Jefferson Parish Schools,026047,Jefferson Elementary School,60.96%,,Y,56.25%,374,228
+la,026,Jefferson Parish Schools,026118,John Clancy/Joseph Maggiore Elementary School,62.13%,,Y,56.25%,610,379
+la,026,Jefferson Parish Schools,026023,John Ehret High School,45.73%,,N,,2060,942
+la,026,Jefferson Parish Schools,026001,John Q. Adams Middle School,45.04%,,N,,806,363
+la,026,Jefferson Parish Schools,026094,Joshua Butler Elementary School,68.43%,,Y,56.25%,491,336
+la,026,Jefferson Parish Schools,026115,Judge Lionel R. Collins Elementary,78.52%,,Y,56.25%,419,329
+la,026,Jefferson Parish Schools,026058,L.H. Marrero Middle School,52.79%,,Y,56.25%,866,457
+la,026,Jefferson Parish Schools,026045,L.W. Higgins High School,52.97%,,N,,1246,660
+la,026,Jefferson Parish Schools,026111,L.W. Ruppel Academy for Advanced Studies,18.96%,,Y,51.63%,205,39
+la,026,Jefferson Parish Schools,026127,Laureate Academy Charter School,63.93%,,Y,56.25%,183,117
+la,026,Jefferson Parish Schools,026097,"Leo E. Kerner, Jr. Elementary School",39.02%,,Y,56.25%,510,199
+la,026,Jefferson Parish Schools,026117,Lincoln Elementary School for the Arts,74.42%,,Y,56.25%,563,419
+la,026,Jefferson Parish Schools,026056,Livaudais Middle School,55.01%,,N,,698,384
+la,026,Jefferson Parish Schools,026093,Lucille Cherbonnier/Norbert Rillieux Elementary School,77.81%,,Y,56.25%,302,235
+la,026,Jefferson Parish Schools,026069,Marie B. Riviere Elementary School,46.96%,,Y,56.25%,560,263
+la,026,Jefferson Parish Schools,026121,Marrero Academy for Advanced Studies,19.55%,,N,,,
+la,026,Jefferson Parish Schools,026112,Martyn Alternative School,76.34%,,Y,56.25%,93,71
+la,026,Jefferson Parish Schools,026061,McDonogh 26/Homedale Elementary School,70.28%,,Y,56.25%,286,201
+la,026,Jefferson Parish Schools,026063,Metairie Academy for Advanced Studies,7.45%,,Y,56.25%,376,28
+la,026,Jefferson Parish Schools,026012,Mildred S. Harris Elementary School,63.35%,,Y,56.25%,322,204
+la,026,Jefferson Parish Schools,026082,Myrtle C. Thibodeaux Elementary School,82.17%,,Y,56.25%,314,258
+la,026,Jefferson Parish Schools,026105,Patrick F. Taylor Science & Technology Academy,13.45%,,N,,,
+la,026,Jefferson Parish Schools,026087,Paul J Solis Elementary School,56.56%,,Y,56.25%,755,427
+la,026,Jefferson Parish Schools,026044,Phoebe Hearst School,54.60%,,Y,56.25%,663,362
+la,026,Jefferson Parish Schools,026129,Ralph J. Bunche Elementary,62.98%,,Y,56.25%,389,245
+la,026,Jefferson Parish Schools,26121,Ray St. Pierre Academy for Advanced Studies,19.55%,,Y,56.25%,353,69
+la,026,Jefferson Parish Schools,026068,Riverdale High School,32.50%,,N,,1126,366
+la,026,Jefferson Parish Schools,026100,Riverdale Middle School,43.13%,,N,,786,339
+la,026,Jefferson Parish Schools,026060,Rudolph Matas School,42.88%,,Y,56.25%,583,250
+la,026,Jefferson Parish Schools,26131,Ruppel Academie Francaise,0.00%,,Y,56.25%,,
+la,026,Jefferson Parish Schools,026036,Shirley Johnson/Gretna Park Elementary School,62.13%,,Y,56.25%,610,379
+la,026,Jefferson Parish Schools,026085,Stella Worley Middle School,70.13%,,Y,62.82%,471,330
+la,026,Jefferson Parish Schools,026039,T.H. Harris Middle School,52.23%,,N,,674,352
+la,026,Jefferson Parish Schools,026075,Terrytown Elementary School,59.97%,,Y,56.25%,582,349
+la,026,Jefferson Parish Schools,026070,Theodore Roosevelt Middle School,55.12%,,Y,62.82%,617,340
+la,026,Jefferson Parish Schools,026107,Thomas Jefferson Senior High School,15.50%,,N,,,
+la,026,Jefferson Parish Schools,026065,Vic A. Pitre Elementary School,80.15%,,Y,56.25%,393,315
+la,026,Jefferson Parish Schools,026073,Walter G. Schneckenburger Elem School,43.49%,,Y,56.25%,453,197
+la,026,Jefferson Parish Schools,026116,Washington Montessori,76.22%,,Y,56.25%,286,218
+la,026,Jefferson Parish Schools,026080,West Jefferson High School,52.64%,,N,,1345,708
+la,026,Jefferson Parish Schools,026103,Westbank Community School,76.67%,,Y,56.25%,90,69
+la,026,Jefferson Parish Schools,026040,William Hart Elementary School,65.32%,,Y,56.25%,346,226
+la,026,Jefferson Parish Schools,026083,Woodland West Elementary School,61.59%,,Y,56.25%,729,449
+la,F14,Jefferson RISE Charter School,F14002,Jefferson RISE Charter School,49.58%,,Y,49.58%,359,178
+la,398,Knowledge is Power Program (KIPP) N.O.,398001,KIPP Believe College Prep,75.09%,,Y,80.73%,676,508
+la,398,Knowledge is Power Program (KIPP) N.O.,398008,KIPP Booker T. Washington High School,70.78%,,Y,80.73%,391,277
+la,398,Knowledge is Power Program (KIPP) N.O.,398004,KIPP Central City Primary,85.14%,,Y,80.73%,968,824
+la,398,Knowledge is Power Program (KIPP) N.O.,398007,KIPP East Community Primary,77.58%,,Y,80.73%,518,402
+la,398,Knowledge is Power Program (KIPP) N.O.,398002,KIPP McDonogh 15 School for the Creative Arts,75.13%,,Y,80.73%,995,748
+la,398,Knowledge is Power Program (KIPP) N.O.,398006,KIPP New Orleans Leadership Academy,82.00%,,Y,80.73%,930,763
+la,398,Knowledge is Power Program (KIPP) N.O.,398005,KIPP Renaissance High School,65.05%,,Y,80.73%,562,366
+la,W6B,Lafayette Charter Foundation,W6B001,Acadiana Renaissance Charter Academy,17.46%,,N,,,
+la,W6B,Lafayette Charter Foundation,W7B001,Lafayette Renaissance Charter Academy,47.05%,,N,,863,406
+la,504,Lafayette Diocese,504002,Carencro Catholic Elementary School(C),9.49%,,N,,,
+la,504,Lafayette Diocese,504003,Cathedral Carmel School (C),1.14%,,N,,,
+la,504,Lafayette Diocese,504041,Catholic High School (C),5.10%,,N,,,
+la,504,Lafayette Diocese,504006,Hanson Memorial School (C),5.76%,,N,,,
+la,504,Lafayette Diocese,504007,Holy Family Catholic School (C),48.13%,,Y,66.44%,298,143
+la,504,Lafayette Diocese,504011,Maltrait Memorial School (C),5.31%,,N,,,
+la,504,Lafayette Diocese,504012,Mt. Carmel School (C),3.93%,,N,,,
+la,504,Lafayette Diocese,504014,Notre Dame High School (C),3.89%,,N,,,
+la,504,Lafayette Diocese,504015,Opelousas Catholic School (C),3.26%,,N,,,
+la,504,Lafayette Diocese,504016,Our Lady of Fatima School (C),1.25%,,N,,,
+la,504,Lafayette Diocese,504019,Our Mother of Peace Elementary School (C),6.61%,,N,,,
+la,504,Lafayette Diocese,504020,Rayne Catholic Elementary School (C),4.53%,,N,,,
+la,504,Lafayette Diocese,504021,Redemptorist Catholic School (C),10.67%,,N,,,
+la,504,Lafayette Diocese,504022,Sacred Heart School (C),3.43%,,N,,,
+la,504,Lafayette Diocese,504054,Saints Peter & Paul Catholic Elementary School,5.74%,,N,,,
+la,504,Lafayette Diocese,504044,St. Bernard School (C),6.00%,,N,,,
+la,504,Lafayette Diocese,504024,St. Cecilia School (C),1.04%,,N,,,
+la,504,Lafayette Diocese,504026,St. Edmund School (C),5.43%,,N,,,
+la,504,Lafayette Diocese,504027,St. Edward School (C),8.16%,,N,,,
+la,504,Lafayette Diocese,504028,St. Francis School (C),6.49%,,N,,,
+la,504,Lafayette Diocese,504029,St. Genevieve School (C),1.27%,,N,,,
+la,504,Lafayette Diocese,504030,St. Ignatius School (C),4.77%,,N,,,
+la,504,Lafayette Diocese,504031,St. John Elementary School (C),13.45%,,N,,,
+la,504,Lafayette Diocese,504035,St. Michael School (C),1.22%,,N,,,
+la,504,Lafayette Diocese,504052,St. Pius Elementary School,0.73%,,N,,,
+la,504,Lafayette Diocese,504046,St. Thomas More Catholic High School,0.88%,,N,,,
+la,504,Lafayette Diocese,504033,Sts. Leo-Seton School (C),3.89%,,N,,,
+la,504,Lafayette Diocese,504037,Teurlings Catholic High School(C),2.71%,,N,,,
+la,504,Lafayette Diocese,504040,Vermillion Catholic High School (C),2.46%,,N,,,
+la,028,Lafayette Parish School System,028001,Acadian Middle School,85.68%,,Y,61.38%,384,329
+la,028,Lafayette Parish School System,028002,Acadiana High School,57.77%,,Y,61.38%,1809,1045
+la,028,Lafayette Parish School System,028004,Alice N. Boucher Elementary School,87.65%,,Y,61.38%,737,646
+la,028,Lafayette Parish School System,028006,Broadmoor Elementary School,21.71%,,N,,,
+la,028,Lafayette Parish School System,028007,Broussard Middle School,58.89%,,Y,61.38%,557,328
+la,028,Lafayette Parish School System,028009,Carencro Heights Elementary School,79.31%,,Y,61.38%,609,483
+la,028,Lafayette Parish School System,028010,Carencro High School,65.11%,,Y,61.38%,1046,681
+la,028,Lafayette Parish School System,028008,Carencro Middle School,80.78%,,Y,61.38%,562,454
+la,028,Lafayette Parish School System,028047,Charles M Burke Elementary School,65.70%,,Y,61.38%,726,477
+la,028,Lafayette Parish School System,028054,David Thibodaux STEM Magnet Academy,20.78%,,N,,,
+la,028,Lafayette Parish School System,028013,Duson Elementary School,82.23%,,Y,61.38%,197,162
+la,028,Lafayette Parish School System,028022,Edgar Martin Middle School,41.31%,,Y,61.38%,610,252
+la,028,Lafayette Parish School System,028048,Ernest Gallet Elementary School,40.85%,,Y,61.38%,1006,411
+la,028,Lafayette Parish School System,028040,Evangeline Elementary School,80.43%,,Y,61.38%,603,485
+la,028,Lafayette Parish School System,028021,Green T Lindon Elementary School,40.35%,,Y,61.38%,1021,412
+la,028,Lafayette Parish School System,028014,J W Faulk Elementary School,93.62%,,Y,61.38%,392,367
+la,028,Lafayette Parish School System,028051,J. Wallace James Elementary School,47.69%,,Y,61.38%,929,443
+la,028,Lafayette Parish School System,028016,Judice Middle School,60.04%,,Y,61.38%,558,335
+la,028,Lafayette Parish School System,028012,Katharine Drexel Elementary School,61.70%,,Y,61.38%,684,422
+la,028,Lafayette Parish School System,028017,L Leo Judice Elementary School,40.22%,,Y,61.38%,363,146
+la,028,Lafayette Parish School System,028019,Lafayette High School,24.23%,,N,,,
+la,028,Lafayette Parish School System,028018,Lafayette Middle School,81.66%,,Y,61.38%,447,365
+la,028,Lafayette Parish School System,028049,Live Oak Elementary School,79.79%,,Y,61.38%,668,533
+la,028,Lafayette Parish School System,028003,LJ Alleman Middle School,43.86%,,Y,61.38%,1092,479
+la,028,Lafayette Parish School System,028023,Milton Elementary School,16.80%,,N,,,
+la,028,Lafayette Parish School System,028026,Myrtle Place Elementary School,52.16%,,Y,61.38%,347,181
+la,028,Lafayette Parish School System,028050,N.P. Moss Preparatory Academy,81.95%,,Y,61.38%,471,386
+la,028,Lafayette Parish School System,028027,Northside High School,82.93%,,Y,61.38%,627,520
+la,028,Lafayette Parish School System,028011,O Comeaux High School,41.86%,,Y,61.38%,1978,828
+la,028,Lafayette Parish School System,028028,Ossun Elementary School,78.48%,,Y,61.38%,697,547
+la,028,Lafayette Parish School System,028005,Paul Breaux Middle School,53.48%,,Y,61.38%,561,300
+la,028,Lafayette Parish School System,028029,Plantation Elementary School,49.33%,,Y,61.38%,600,296
+la,028,Lafayette Parish School System,028030,Prairie Elementary School,56.71%,,Y,61.38%,827,469
+la,028,Lafayette Parish School System,028039,Ridge Elementary School,59.30%,,Y,61.38%,602,357
+la,028,Lafayette Parish School System,028032,Scott Middle School,72.34%,,Y,61.38%,488,353
+la,028,Lafayette Parish School System,028024,SJ Montgomery Elementary School,69.87%,,Y,61.38%,614,429
+la,028,Lafayette Parish School System,028055,Southside High School,19.38%,,N,,,
+la,028,Lafayette Parish School System,028033,Truman Elementary School,81.68%,,Y,61.38%,475,388
+la,028,Lafayette Parish School System,028036,Westside Elementary School,84.95%,,Y,61.38%,432,367
+la,028,Lafayette Parish School System,028037,Woodvale Elementary School,42.41%,,Y,61.38%,613,260
+la,028,Lafayette Parish School System,028038,Youngsville Middle School,22.85%,,N,,,
+la,029,Lafourche Parish School Board,029001,Bayou Blue Elementary School,42.15%,,N,,752,317
+la,029,Lafourche Parish School Board,029038,Bayou Blue Middle School,41.72%,,N,,465,194
+la,029,Lafourche Parish School Board,029002,Bayou Boeuf Elementary School,36.03%,,N,,297,107
+la,029,Lafourche Parish School Board,029039,Bayou Community Academy Charter School,11.23%,,N,,,
+la,029,Lafourche Parish School Board,029003,Central Lafourche High School,32.83%,,N,,1316,432
+la,029,Lafourche Parish School Board,029004,Chackbay Elementary School,30.25%,,N,,367,111
+la,029,Lafourche Parish School Board,029005,Cut Off Elementary School,42.41%,,N,,474,201
+la,029,Lafourche Parish School Board,029006,East Thibodaux Middle School,56.31%,,Y,62.59%,284,160
+la,029,Lafourche Parish School Board,029007,Galliano Elementary School,47.54%,,Y,62.59%,422,201
+la,029,Lafourche Parish School Board,029010,Golden Meadow Lower Elementary School,58.26%,,Y,62.59%,213,124
+la,029,Lafourche Parish School Board,029009,Golden Meadow Middle School,46.18%,,Y,62.59%,384,177
+la,029,Lafourche Parish School Board,029011,Golden Meadow Upper Elementary School,54.32%,,Y,62.59%,211,115
+la,029,Lafourche Parish School Board,029015,Larose-Cut Off Middle School,35.88%,,N,,510,183
+la,029,Lafourche Parish School Board,029017,Lockport Lower Elementary School,40.68%,,N,,445,181
+la,029,Lafourche Parish School Board,029016,Lockport Middle School,42.59%,,N,,374,159
+la,029,Lafourche Parish School Board,029018,Lockport Upper Elementary School,40.66%,,N,,391,159
+la,029,Lafourche Parish School Board,029013,North Larose Elementary School,33.33%,,N,,285,95
+la,029,Lafourche Parish School Board,029021,Raceland Lower Elementary School,66.90%,,Y,62.59%,406,272
+la,029,Lafourche Parish School Board,029020,Raceland Middle School,53.25%,,Y,62.59%,316,168
+la,029,Lafourche Parish School Board,029022,Raceland Upper Elementary School,62.33%,,Y,62.59%,356,222
+la,029,Lafourche Parish School Board,029024,Sixth Ward Middle School,24.90%,,N,,,
+la,029,Lafourche Parish School Board,029026,South Lafourche High School,28.54%,,N,,,
+la,029,Lafourche Parish School Board,029014,South Larose Elementary School,45.88%,,N,,388,178
+la,029,Lafourche Parish School Board,029027,South Thibodaux Elementary School,65.43%,,Y,62.59%,403,264
+la,029,Lafourche Parish School Board,029023,St. Charles Elementary School,33.15%,,N,,184,61
+la,029,Lafourche Parish School Board,029028,Thibodaux Elementary School,63.55%,,Y,62.59%,600,381
+la,029,Lafourche Parish School Board,029029,Thibodaux High School,41.93%,,N,,1397,586
+la,029,Lafourche Parish School Board,029012,W.S. Lafargue Elementary School,66.08%,,Y,62.59%,372,246
+la,029,Lafourche Parish School Board,029030,West Thibodaux Middle School,53.79%,,Y,62.59%,406,218
+la,346,"Lake Charles Charter Academy Foundation, Inc.",346001,Lake Charles Charter Academy,52.19%,,Y,52.19%,866,452
+la,030,LaSalle Parish School Board,030001,Fellowship Elementary School,42.42%,,Y,49.96%,132,56
+la,030,LaSalle Parish School Board,030002,Goodpine Middle School,55.63%,,Y,49.96%,320,178
+la,030,LaSalle Parish School Board,030003,Jena Elementary School,57.53%,,Y,49.96%,365,210
+la,030,LaSalle Parish School Board,030004,Jena High School,40.70%,,Y,49.96%,489,199
+la,030,LaSalle Parish School Board,030005,Jena Junior High School,47.38%,,Y,49.96%,325,154
+la,030,LaSalle Parish School Board,030006,LaSalle High School,41.94%,,Y,49.96%,217,91
+la,030,LaSalle Parish School Board,030010,LaSalle Junior High School,54.14%,,Y,49.96%,181,98
+la,030,LaSalle Parish School Board,030007,Nebo Elementary School,55.13%,,Y,49.96%,156,86
+la,030,LaSalle Parish School Board,030008,Olla-Standard Elementary School,55.04%,,Y,49.96%,387,213
+la,989,Light City Christian Academy,989001,Light City Academy,67.74%,,Y,62.50%,32,22
+la,031,Lincoln Parish School Board,031020,Choudrant Elementary School,23.38%,,N,,,
+la,031,Lincoln Parish School Board,031003,Choudrant High School,20.39%,,N,,,
+la,031,Lincoln Parish School Board,031004,Cypress Springs Elementary School,58.80%,,Y,53.32%,517,304
+la,031,Lincoln Parish School Board,031005,Dubach School,61.86%,,Y,53.32%,215,133
+la,031,Lincoln Parish School Board,031006,Glen View Elementary School,55.88%,,Y,53.32%,578,323
+la,031,Lincoln Parish School Board,031008,Hillcrest Elementary School,69.38%,,Y,53.32%,320,222
+la,031,Lincoln Parish School Board,031009,I.A. Lewis Elementary School,65.53%,,Y,53.32%,293,192
+la,031,Lincoln Parish School Board,031010,Lincoln Center,0.00%,,N,,,
+la,031,Lincoln Parish School Board,031023,Lincoln Parish Early Childhood Center,44.16%,,Y,53.32%,274,121
+la,031,Lincoln Parish School Board,031012,Ruston Elementary School,61.36%,,Y,53.32%,352,216
+la,031,Lincoln Parish School Board,031013,Ruston High School,40.06%,,Y,53.32%,1278,512
+la,031,Lincoln Parish School Board,031018,Ruston Junior High School,52.48%,,Y,53.32%,564,296
+la,031,Lincoln Parish School Board,031014,Simsboro High School,57.14%,,Y,53.32%,588,336
+la,W33,Lincoln Preparatory School: A TMCF Collegiate Acad,W33001,Lincoln Preparatory School: A TMCF Collegiate Academy,59.95%,,Y,63.02%,457,274
+la,032,Livingston Parish School Board,032002,Albany High School,70.56%,,Y,58.34%,540,381
+la,032,Livingston Parish School Board,032001,Albany Lower Elementary School,73.56%,,Y,58.34%,503,370
+la,032,Livingston Parish School Board,032032,Albany Middle School,71.50%,,Y,58.34%,621,444
+la,032,Livingston Parish School Board,032039,Albany Upper Elementary School,70.00%,,Y,58.34%,320,224
+la,032,Livingston Parish School Board,032004,Denham Springs Elementary School,74.81%,,Y,58.34%,405,303
+la,032,Livingston Parish School Board,032042,Denham Springs Freshman High School,57.62%,,Y,58.34%,597,344
+la,032,Livingston Parish School Board,032005,Denham Springs High School,61.73%,,Y,58.34%,1518,937
+la,032,Livingston Parish School Board,032006,Denham Springs Junior High School,61.13%,,Y,58.34%,777,475
+la,032,Livingston Parish School Board,032007,Doyle Elementary School,59.14%,,Y,58.34%,602,356
+la,032,Livingston Parish School Board,032008,Doyle High School,51.39%,,Y,58.34%,646,332
+la,032,Livingston Parish School Board,032041,Eastside Elementary School,46.09%,,Y,58.34%,562,259
+la,032,Livingston Parish School Board,032028,French Settlement Elementary School,59.40%,,Y,58.34%,500,297
+la,032,Livingston Parish School Board,032009,French Settlement High School,52.22%,,Y,58.34%,383,200
+la,032,Livingston Parish School Board,032010,Freshwater Elementary School,52.27%,,Y,58.34%,352,184
+la,032,Livingston Parish School Board,032011,Frost School,69.83%,,Y,58.34%,358,250
+la,032,Livingston Parish School Board,032044,Gray's Creek Elementary School,65.85%,,Y,58.34%,533,351
+la,032,Livingston Parish School Board,032012,Holden High School,71.65%,,Y,58.34%,709,508
+la,032,Livingston Parish School Board,032048,Juban Parc Elementary School,49.58%,,Y,58.34%,478,237
+la,032,Livingston Parish School Board,032049,Juban Parc Junior High School,58.92%,,Y,58.34%,594,350
+la,032,Livingston Parish School Board,032031,Levi Milton Elementary School,48.90%,,Y,58.34%,681,333
+la,032,Livingston Parish School Board,032033,Lewis Vincent Elementary School,78.59%,,Y,58.34%,397,312
+la,032,Livingston Parish School Board,032013,Live Oak Elementary School,51.47%,,Y,58.34%,678,349
+la,032,Livingston Parish School Board,032014,Live Oak High School,33.88%,,Y,58.34%,1284,435
+la,032,Livingston Parish School Board,032050,Live Oak Junior High School,41.13%,,Y,58.34%,727,299
+la,032,Livingston Parish School Board,032015,Live Oak Middle School,36.70%,,Y,58.34%,327,120
+la,032,Livingston Parish School Board,032017,Maurepas School,52.76%,,Y,58.34%,417,220
+la,032,Livingston Parish School Board,032003,North Corbin Elementary School,68.36%,,Y,58.34%,610,417
+la,032,Livingston Parish School Board,032046,North Corbin Junior High School,52.02%,,Y,58.34%,667,347
+la,032,Livingston Parish School Board,032043,North Live Oak Elementary School,41.18%,,Y,58.34%,743,306
+la,032,Livingston Parish School Board,032018,Northside Elementary School,84.05%,,Y,58.34%,395,332
+la,032,Livingston Parish School Board,032019,Seventh Ward Elementary School,72.41%,,Y,58.34%,290,210
+la,032,Livingston Parish School Board,032047,South Fork Elementary School,58.66%,,Y,58.34%,629,369
+la,032,Livingston Parish School Board,032037,South Live Oak Elementary School,52.71%,,Y,58.34%,590,311
+la,032,Livingston Parish School Board,032040,South Walker Elementary School,55.93%,,Y,58.34%,708,396
+la,032,Livingston Parish School Board,032020,Southside Elementary School,87.76%,,Y,58.34%,384,337
+la,032,Livingston Parish School Board,032021,Southside Junior High School,80.96%,,Y,58.34%,415,336
+la,032,Livingston Parish School Board,032022,Springfield Elementary School,74.03%,,Y,58.34%,543,402
+la,032,Livingston Parish School Board,032023,Springfield High School,61.19%,,Y,58.34%,371,227
+la,032,Livingston Parish School Board,032038,Springfield Middle School,66.41%,,Y,58.34%,384,255
+la,032,Livingston Parish School Board,032026,Walker Elementary School,64.50%,,Y,58.34%,614,396
+la,032,Livingston Parish School Board,032025,Walker Freshman High School,52.75%,,Y,58.34%,436,230
+la,032,Livingston Parish School Board,032024,Walker High School,47.30%,,Y,58.34%,1112,526
+la,032,Livingston Parish School Board,032027,Westside Junior High School,54.40%,,Y,58.34%,796,433
+la,W7A,Louisiana Key Academy,W7A001,Louisiana Key Academy,63.33%,,Y,63.33%,300,190
+la,033,Madison Parish School Board,033002,Madison High School,94.72%,,Y,84.67%,416,394
+la,033,Madison Parish School Board,033001,Madison Middle School,90.06%,,Y,84.67%,186,168
+la,033,Madison Parish School Board,033003,Tallulah Elementary School,86.23%,,Y,84.67%,519,448
+la,033,Madison Parish School Board,033007,Wright Elementary School,90.99%,,Y,84.67%,249,227
+la,621,McMillians First Steps Child Care,621001,McMillian's FIRST Steps CDC/Academy,47.55%,,Y,80.62%,129,61
+la,065,Monroe City School Board,065006,Barkdull Faulk Elementary School,87.74%,,Y,70.59%,271,238
+la,065,Monroe City School Board,065010,Berg Jones Elementary School,88.55%,,Y,70.59%,363,321
+la,065,Monroe City School Board,065002,Carroll High School,75.24%,,Y,70.59%,498,375
+la,065,Monroe City School Board,065003,Carroll Junior High School,76.28%,,Y,70.59%,311,237
+la,065,Monroe City School Board,065004,Carver Elementary School,88.44%,,Y,70.59%,340,301
+la,065,Monroe City School Board,065007,Clara Hall Accelerated School,91.33%,,Y,70.59%,339,310
+la,065,Monroe City School Board,065024,Cypress Point Elementary School,71.66%,,Y,70.59%,439,315
+la,065,Monroe City School Board,065005,J.S. Clark Elementary School,60.90%,,Y,70.59%,544,331
+la,065,Monroe City School Board,065012,Lexington Elementary School,41.37%,,Y,70.59%,545,225
+la,065,Monroe City School Board,065026,Madison James Foster Elementary School,89.95%,,Y,70.59%,379,341
+la,065,Monroe City School Board,065009,"Martin Luther King, Jr. Middle School",78.41%,,Y,70.59%,290,227
+la,065,Monroe City School Board,065015,Minnie Ruffin Elementary School,78.33%,,Y,70.59%,502,393
+la,065,Monroe City School Board,065014,Neville High School,35.13%,,Y,70.59%,918,322
+la,065,Monroe City School Board,065011,Robert E. Lee Junior High School,43.10%,,Y,70.59%,468,202
+la,065,Monroe City School Board,065013,"Roy Neal Shelling, Sr. Elementary",83.45%,,Y,70.59%,410,342
+la,065,Monroe City School Board,065008,Sallie Humble Elementary School,41.35%,,Y,70.59%,611,253
+la,065,Monroe City School Board,065023,Sherrouse School,75.47%,,Y,70.59%,95,72
+la,065,Monroe City School Board,065028,Thomas Jefferson Elementary,83.77%,,Y,70.59%,246,206
+la,065,Monroe City School Board,065018,Wossman High School,69.87%,,Y,70.59%,586,409
+la,034,Morehouse Parish School Board,034002,Bastrop High School,69.97%,,Y,64.11%,1059,741
+la,034,Morehouse Parish School Board,034003,Beekman Charter School,40.07%,,Y,64.11%,965,387
+la,034,Morehouse Parish School Board,034010,Delta Junior High School,80.70%,,Y,64.11%,617,498
+la,034,Morehouse Parish School Board,034004,Morehouse Junior High School,83.44%,,Y,64.11%,782,653
+la,034,Morehouse Parish School Board,034023,Morehouse Magnet School,54.09%,,Y,64.11%,305,165
+la,035,Natchitoches Parish School Board,035005,East Natchitoches Elementary  & Middle School,65.73%,,Y,61.71%,396,260
+la,035,Natchitoches Parish School Board,035006,Fairview-Alpha Elementary  & Junior High School,69.52%,,Y,61.71%,261,181
+la,035,Natchitoches Parish School Board,035007,Goldonna Elementary & Junior High School,50.93%,,Y,61.71%,180,92
+la,035,Natchitoches Parish School Board,035012,L.P. Vaughn Elementary and Middle School,83.58%,,Y,61.71%,829,693
+la,035,Natchitoches Parish School Board,035026,Lakeview Junior-Senior High School,55.33%,,Y,61.71%,394,218
+la,035,Natchitoches Parish School Board,035021,M.R. Weaver Elementary School,70.76%,,Y,61.71%,375,265
+la,035,Natchitoches Parish School Board,035008,Marthaville Elementary/Jr. High School,48.87%,,Y,61.71%,286,140
+la,035,Natchitoches Parish School Board,035013,N.S.U. Elementary Lab School,6.90%,,N,,,
+la,035,Natchitoches Parish School Board,035014,N.S.U. Middle Lab School,10.92%,,N,,,
+la,035,Natchitoches Parish School Board,035009,Natchitoches Central High School,46.23%,,Y,61.71%,1261,583
+la,035,Natchitoches Parish School Board,035030,Natchitoches Central High School Annex,70.30%,,Y,61.71%,205,144
+la,035,Natchitoches Parish School Board,035010,Natchitoches Junior High School,74.66%,,Y,61.71%,422,315
+la,035,Natchitoches Parish School Board,035031,Natchitoches Magnet School,40.26%,,Y,61.71%,367,148
+la,035,Natchitoches Parish School Board,035017,Provencal Elementary & Junior High School,47.60%,,Y,61.71%,527,251
+la,300,New Beginnings Schools Foundation,300003,Lake Area New Tech Early College High School,57.01%,,Y,70.90%,677,386
+la,300,New Beginnings Schools Foundation,300001,Pierre A. Capdau Learning Academy,70.62%,,Y,70.90%,749,529
+la,L85,New Living Word Church Inc,664001,New Living Word School,73.33%,,Y,73.33%,60,44
+la,385,New Orleans College Preparatory Academies,385002,Cohen College Prep,44.95%,,Y,75.17%,336,151
+la,385,New Orleans College Preparatory Academies,385003,Lawrence D. Crocker College Prep,80.36%,,Y,75.17%,554,445
+la,321,New Vision Learning Academy,321001,New Vision Learning Academy,72.07%,,Y,72.32%,289,208
+la,W6A,"Northshore Charter Schools, Inc.",W6A001,Northshore Charter School,75.32%,,Y,69.49%,449,338
+la,538,"Opelousas Family Worship Center, Inc.",538001,Family Worship Christian Academy,52.65%,,N,,245,129
+la,036,Orleans Parish Schools,036161,Benjamin Franklin Elem. Math and Science,48.11%,,Y,57.57%,791,381
+la,036,Orleans Parish Schools,036043,Benjamin Franklin Senior High School,12.55%,,N,,,
+la,036,Orleans Parish Schools,361001,Crescent Leadership Academy,14.89%,,N,,94,14
+la,036,Orleans Parish Schools,036060,Edward Hynes Charter School,15.36%,,Y,57.57%,714,110
+la,036,Orleans Parish Schools,390001,James M. Singleton Charter School,85.51%,,Y,57.57%,452,387
+la,036,Orleans Parish Schools,036011,Mary Bethune Elementary Literature/Technology,57.95%,,Y,57.57%,672,389
+la,036,Orleans Parish Schools,W18001,Noble Minds,72.09%,,Y,90.32%,62,45
+la,036,Orleans Parish Schools,036149,Robert Russa Moton Charter School,62.93%,,Y,57.57%,458,288
+la,036,Orleans Parish Schools,036035,Warren Easton Senior High School,53.41%,,Y,57.57%,974,520
+la,037,Ouachita Parish School Board,037016,Boley Elementary School,56.31%,,Y,58.30%,228,128
+la,037,Ouachita Parish School Board,037054,Calhoun Elementary School,41.51%,,Y,62.38%,487,202
+la,037,Ouachita Parish School Board,037041,Calhoun Middle School,25.22%,,N,,,
+la,037,Ouachita Parish School Board,037003,Central Elementary School,32.80%,,Y,61.30%,426,140
+la,037,Ouachita Parish School Board,037004,Claiborne School,21.38%,,N,,,
+la,037,Ouachita Parish School Board,037006,Crosley Elementary School,48.03%,,Y,61.30%,218,105
+la,037,Ouachita Parish School Board,037007,Drew Elementary School,26.61%,,N,,,
+la,037,Ouachita Parish School Board,037058,East Ouachita Middle School,38.19%,,Y,61.30%,602,230
+la,037,Ouachita Parish School Board,037047,George Welch Elementary School,15.33%,,N,,,
+la,037,Ouachita Parish School Board,037053,Good Hope Middle School,27.76%,,N,,,
+la,037,Ouachita Parish School Board,037010,Highland Elementary School,47.35%,,N,,259,123
+la,037,Ouachita Parish School Board,037008,Jack Hayes Elementary School,53.27%,,Y,58.30%,617,329
+la,037,Ouachita Parish School Board,037011,Kiroli Elementary School,25.19%,,N,,,
+la,037,Ouachita Parish School Board,037012,Lakeshore School,48.90%,,Y,61.30%,603,295
+la,037,Ouachita Parish School Board,037013,Lenwil Elementary School,63.67%,,Y,58.30%,300,191
+la,037,Ouachita Parish School Board,037020,Ouachita Junior High School,51.78%,,Y,58.30%,434,225
+la,037,Ouachita Parish School Board,037019,Ouachita Parish High School,36.08%,,Y,58.30%,1149,415
+la,037,Ouachita Parish School Board,037022,Pinecrest Elementary/Middle School,24.03%,,N,,,
+la,037,Ouachita Parish School Board,037049,Richwood High School,65.31%,,Y,58.30%,505,330
+la,037,Ouachita Parish School Board,037056,Richwood Junior High School,73.41%,,Y,62.38%,420,308
+la,037,Ouachita Parish School Board,037027,Riser Elementary School,62.54%,,Y,58.30%,321,201
+la,037,Ouachita Parish School Board,037028,Riser Middle School,69.29%,,Y,61.30%,438,303
+la,037,Ouachita Parish School Board,037052,Riverbend Elementary School,74.41%,,Y,62.38%,334,249
+la,037,Ouachita Parish School Board,037029,Robinson Elementary School,81.32%,,Y,61.30%,422,343
+la,037,Ouachita Parish School Board,037030,Shady Grove Elementary School,78.65%,,Y,61.30%,303,238
+la,037,Ouachita Parish School Board,037031,Sterlington Elementary School,20.85%,,N,,,
+la,037,Ouachita Parish School Board,037032,Sterlington High School,15.40%,,N,,,
+la,037,Ouachita Parish School Board,037057,Sterlington Middle School,16.67%,,N,,,
+la,037,Ouachita Parish School Board,037050,Swartz Lower Elementary School,49.79%,,Y,61.30%,430,214
+la,037,Ouachita Parish School Board,037033,Swartz Upper Elementary School,46.42%,,Y,62.38%,403,187
+la,037,Ouachita Parish School Board,037035,Swayze Elementary School,84.55%,,Y,62.38%,249,211
+la,037,Ouachita Parish School Board,037036,West Monroe High School,26.78%,,N,,,
+la,037,Ouachita Parish School Board,037046,West Ouachita High School,19.75%,,N,,,
+la,037,Ouachita Parish School Board,037051,West Ridge Middle School,20.15%,,N,,,
+la,037,Ouachita Parish School Board,037038,Woodlawn Elementary School,36.91%,,Y,62.38%,579,214
+la,037,Ouachita Parish School Board,037039,Woodlawn Middle School,29.53%,,N,,,
+la,WAL,Outreach Community Development Corporation (OCDC),WAL001,JS Clark Leadership Academy,84.15%,,Y,79.82%,218,183
+la,389,Pelican Educational Foundation Inc,389002,Kenilworth Science and Technology Charter School,65.12%,,Y,65.50%,371,242
+la,038,Plaquemines Parish School Board,038001,Belle Chasse High School,21.27%,,N,,,
+la,038,Plaquemines Parish School Board,038002,Belle Chasse Middle School,29.63%,,N,,,
+la,038,Plaquemines Parish School Board,038010,Belle Chasse Primary School,36.41%,,N,,1104,402
+la,038,Plaquemines Parish School Board,038003,Boothville-Venice Elementary School,64.44%,,Y,63.10%,376,242
+la,038,Plaquemines Parish School Board,038006,Phoenix High School,78.82%,,Y,64.05%,194,153
+la,038,Plaquemines Parish School Board,038011,Plaquemines Parish Alternative School,80.00%,,Y,63.10%,44,35
+la,038,Plaquemines Parish School Board,038012,South Plaquemines Elementary School,71.88%,,Y,64.05%,223,160
+la,038,Plaquemines Parish School Board,038013,South Plaquemines High School,51.90%,,Y,64.05%,423,220
+la,039,Pointe Coupee Parish School Board,039003,Livonia High School,67.30%,,Y,63.02%,912,614
+la,039,Pointe Coupee Parish School Board,039012,Rosenwald Elementary School,93.74%,,Y,63.02%,436,409
+la,039,Pointe Coupee Parish School Board,039013,Rougon Elementary School,71.17%,,Y,63.02%,577,411
+la,039,Pointe Coupee Parish School Board,039008,Upper Pointe Coupee Elementary School,81.70%,,Y,63.02%,314,257
+la,039,Pointe Coupee Parish School Board,039010,Valverda Elementary School,67.23%,,Y,63.02%,614,413
+la,040,Rapides Parish School Board,040001,Acadian Elementary New Vision Academy,80.20%,,Y,56.46%,226,181
+la,040,Rapides Parish School Board,040002,Alexandria Middle Magnet School,66.60%,,Y,56.46%,342,228
+la,040,Rapides Parish School Board,040003,Alexandria Senior High School,23.28%,,N,,,
+la,040,Rapides Parish School Board,040045,Alma Redwine Elementary New Vision Academy,81.08%,,Y,56.46%,278,225
+la,040,Rapides Parish School Board,040018,Arthur F. Smith Middle Magnet School,67.18%,,Y,56.46%,310,208
+la,040,Rapides Parish School Board,040004,Ball Elementary School,41.13%,,Y,56.46%,390,160
+la,040,Rapides Parish School Board,040006,Bolton High School,46.81%,,Y,56.46%,628,294
+la,040,Rapides Parish School Board,040010,Buckeye Elementary School,34.69%,,N,,441,153
+la,040,Rapides Parish School Board,040011,Buckeye High School,18.91%,,N,,,
+la,040,Rapides Parish School Board,040065,Caroline Dormon Junior High School,15.41%,,N,,,
+la,040,Rapides Parish School Board,040038,Carter C. Raymond Elementary School,72.46%,,Y,56.46%,169,122
+la,040,Rapides Parish School Board,040012,Cherokee Elementary School,46.00%,,Y,56.46%,562,259
+la,040,Rapides Parish School Board,040017,D.F. Huddle Elementary New Vision Academy,83.81%,,Y,56.46%,240,201
+la,040,Rapides Parish School Board,040052,Forest Hill Elementary School,34.02%,,Y,56.46%,481,164
+la,040,Rapides Parish School Board,040014,Glenmora High School,44.92%,,Y,56.46%,698,314
+la,040,Rapides Parish School Board,040056,Hayden R. Lawrence Middle School,28.18%,,N,,,
+la,040,Rapides Parish School Board,040016,Horseshoe Drive Elementary New Vision Academy,72.63%,,Y,56.46%,345,251
+la,040,Rapides Parish School Board,040026,J.B. Nachman Elementary School,39.39%,,Y,56.46%,591,233
+la,040,Rapides Parish School Board,040005,J.I. Barron Sr. Elementary School,30.24%,,N,,969,293
+la,040,Rapides Parish School Board,040039,Julius Patrick Elementary School,86.64%,,Y,56.46%,184,159
+la,040,Rapides Parish School Board,040042,L.S. Rugg Elementary School,70.88%,,Y,56.46%,309,219
+la,040,Rapides Parish School Board,040044,Lessie Moore Elementary School,69.94%,,Y,56.46%,455,318
+la,040,Rapides Parish School Board,040009,Mabel Brasher Elementary School,77.78%,,Y,56.46%,334,260
+la,040,Rapides Parish School Board,040024,Martin Park Elementary School,71.94%,,Y,56.46%,407,293
+la,040,Rapides Parish School Board,040015,Mary Goff Elementary School,41.78%,,Y,56.46%,365,152
+la,040,Rapides Parish School Board,040027,North Bayou Rapides Elementary New Vision Academy,78.40%,,Y,56.46%,412,323
+la,040,Rapides Parish School Board,040055,Northwood High School,49.28%,,Y,56.46%,691,341
+la,040,Rapides Parish School Board,040028,Oak Hill High School,31.77%,,N,,768,244
+la,040,Rapides Parish School Board,040029,Paradise Elementary School,44.31%,,Y,56.46%,368,163
+la,040,Rapides Parish School Board,040030,Peabody Magnet High School,55.49%,,Y,56.46%,695,386
+la,040,Rapides Parish School Board,040031,Peabody Montessori Elementary School,28.82%,,N,,,
+la,040,Rapides Parish School Board,040061,Phoenix Magnet Elementary School,15.69%,,N,,,
+la,040,Rapides Parish School Board,040032,Pineville Elementary School,68.46%,,Y,56.46%,297,203
+la,040,Rapides Parish School Board,040033,Pineville High School,25.27%,,N,,,
+la,040,Rapides Parish School Board,040034,Pineville Junior High School,36.27%,,Y,56.46%,601,218
+la,040,Rapides Parish School Board,040035,Plainview High School,63.69%,,Y,56.46%,280,178
+la,040,Rapides Parish School Board,040036,Poland Junior High School,46.48%,,Y,56.46%,391,182
+la,040,Rapides Parish School Board,040037,Rapides High School,46.69%,,Y,56.46%,281,131
+la,040,Rapides Parish School Board,040054,Rapides Training Academy,7.46%,,N,,,
+la,040,Rapides Parish School Board,040040,Rosenthal Montessori Elementary School,45.83%,,Y,56.46%,396,181
+la,040,Rapides Parish School Board,040041,Ruby-Wise Elementary School,31.22%,,N,,426,133
+la,040,Rapides Parish School Board,040008,Scott M. Brame Middle School,38.95%,,Y,56.46%,847,330
+la,040,Rapides Parish School Board,040047,Tioga Elementary School,48.22%,,Y,56.46%,538,259
+la,040,Rapides Parish School Board,040048,Tioga High School,24.01%,,Y,56.46%,952,229
+la,040,Rapides Parish School Board,040049,Tioga Junior High School,43.24%,,Y,56.46%,553,239
+la,040,Rapides Parish School Board,040043,W.O. Hall Elementary School,89.02%,,Y,56.46%,180,160
+la,041,Red River Parish School Board,041010,Red River Elementary School,71.57%,,Y,64.93%,699,500
+la,041,Red River Parish School Board,041002,Red River High School,51.72%,,Y,64.93%,367,190
+la,041,Red River Parish School Board,041011,Red River Junior High School,65.88%,,Y,64.93%,314,207
+la,369,"ReNEW-Reinventing Education, Inc.",369005,ReNEW Accelerated High School,74.60%,,Y,87.50%,245,183
+la,369,"ReNEW-Reinventing Education, Inc.",369003,ReNEW Dolores T. Aaron Elementary,89.19%,,Y,87.50%,812,724
+la,369,"ReNEW-Reinventing Education, Inc.",369006,ReNew Schaumburg Elementary,84.07%,,Y,87.50%,804,676
+la,369,"ReNEW-Reinventing Education, Inc.",369002,ReNEW SciTech Academy at Laurel,83.53%,,Y,87.50%,1136,949
+la,369,"ReNEW-Reinventing Education, Inc.",036198,Rooted,48.72%,,Y,87.50%,90,44
+la,042,Richland Parish School Board,042003,Delhi Elementary School,93.01%,,Y,67.13%,146,136
+la,042,Richland Parish School Board,042001,Delhi High School,76.54%,,Y,67.13%,168,129
+la,042,Richland Parish School Board,042002,Delhi Middle School,86.42%,,Y,67.13%,190,164
+la,042,Richland Parish School Board,042004,Holly Ridge Elementary School,77.24%,,Y,67.13%,118,91
+la,042,Richland Parish School Board,042005,Mangham Elementary School,59.13%,,Y,67.13%,445,263
+la,042,Richland Parish School Board,042006,Mangham High School,44.98%,,Y,67.13%,265,119
+la,042,Richland Parish School Board,042007,Mangham Junior High School,57.28%,,Y,67.13%,230,132
+la,042,Richland Parish School Board,042010,Rayville Elementary School,86.26%,,Y,67.13%,341,294
+la,042,Richland Parish School Board,042008,Rayville High School,66.40%,,Y,67.13%,348,231
+la,042,Richland Parish School Board,042009,Rayville Junior High School,67.88%,,Y,67.13%,163,111
+la,042,Richland Parish School Board,042012,Start Elementary School,67.24%,,Y,67.13%,342,230
+la,W31,RSD-Friends of King,W31001,Dr. Martin Luther King Charter School for Sci/Tech,62.28%,,Y,67.21%,1026,639
+la,W31,RSD-Friends of King,W32001,Joseph A. Craig Charter School,63.78%,,Y,67.21%,377,240
+la,368,RSD-Morris Jeff Community School,368001,Morris Jeff Community School,32.24%,,N,,887,286
+la,385,RSD-New Orleans College Preparatory Academies,385001,Sylvanie Williams College Prep--,0.00%,,N,,,
+la,374,RSD-Success Preparatory Academy,036188,Bricolage Academy,1.36%,,N,,,
+la,043,Sabine Parish School Board,043001,Converse High School,44.93%,,Y,55.21%,542,244
+la,043,Sabine Parish School Board,043002,Ebarb School,52.24%,,Y,55.21%,288,150
+la,043,Sabine Parish School Board,043004,Florien High School,41.42%,,Y,55.21%,526,218
+la,043,Sabine Parish School Board,043005,Many Elementary School,80.03%,,Y,55.21%,639,511
+la,043,Sabine Parish School Board,043006,Many High School,33.23%,,Y,55.21%,348,116
+la,043,Sabine Parish School Board,043007,Many Junior High School,53.10%,,Y,55.21%,359,191
+la,043,Sabine Parish School Board,043008,Negreet High School,42.57%,,Y,55.21%,513,218
+la,043,Sabine Parish School Board,043010,Pleasant Hill High School,57.38%,,Y,55.21%,316,181
+la,043,Sabine Parish School Board,043011,Zwolle Elementary School,77.50%,,Y,55.21%,498,386
+la,043,Sabine Parish School Board,043012,Zwolle High School,49.10%,,Y,55.21%,320,157
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",506025,Academy of Our Lady (Girls) (C),7.96%,,N,,,
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",506051,Academy of the Sacred Heart (Girls) (C),1.69%,,N,,,
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",506002,Annunciation School (C),13.22%,,N,,,
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",506004,Archbishop Chapelle High School (Girls) (C),4.05%,,N,,,
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",506134,Archbishop Hannan High School (C),0.33%,,N,,,
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",506006,Archbishop Shaw Sr. High School (C),8.28%,,N,,,
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",506010,Cabrini High School (Girls) (C),5.93%,,N,,,
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",506012,Christ the King School (C),13.30%,,N,,,
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",506013,Christian Brothers School (Boys) (C),1.48%,,N,,,
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",556001,Concordia Lutheran School,26.37%,,N,,,
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",561001,Faith Lutheran School,26.88%,,N,,,
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",503002,Holy Cross Elementary School (C),12.90%,,N,,,
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",506014,Holy Rosary Academy (C),24.60%,,N,,,
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",503003,Holy Rosary School (C),11.43%,,N,,,
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",503004,Holy Savior School (C),9.87%,,N,,,
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",506026,Immaculate Conception School (C),10.82%,,N,,,
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",506029,Jesuit Senior High School (Boys) (C),2.60%,,N,,,
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",503005,Maria Immacolata School,26.01%,,N,,,
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",506154,"Mary, Queen of Peace Catholic School (C)",0.45%,,N,,,
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",334001,New Orleans Center for Creative Arts,2.56%,,N,,,
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",506036,Our Lady of Divine Providence School (C),27.75%,,N,,,
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",506039,Our Lady of Lourdes School (C),5.31%,,N,,,
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",506041,Our Lady of Perpetual Help School (C),71.23%,,Y,65.08%,206,147
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",506042,Our Lady of Perpetual Help School (C),5.98%,,N,,,
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",506044,Our Lady of Prompt Succor School (C),60.20%,,Y,65.08%,397,239
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",506043,Our Lady of Prompt Succor School (C),13.33%,,N,,,
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",506034,Our Lady of the Lake School (C),2.04%,,N,,,
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",506046,Pope John Paul II High School (C),4.98%,,N,,,
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",506048,Resurrection of Our Lord School (C),65.66%,,Y,65.08%,471,309
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",506049,Sacred Heart of Jesus School (C),28.71%,,N,,,
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",506055,St. Alphonsus School (C),74.14%,,Y,65.08%,231,171
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",506056,St. Andrew the Apostle School,7.54%,,N,,,
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",506057,St. Angela Merici School (C),5.45%,,N,,,
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",506058,St. Ann School (C),3.51%,,N,,,
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",506059,St. Anthony School (C),61.65%,,Y,65.08%,253,156
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",506061,St. Augustine Senior High School (C),33.80%,,N,,577,195
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",506159,St. Benedict the Moor,73.75%,,Y,65.08%,68,50
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",506062,St. Benilde School (C),6.09%,,N,,,
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",503007,St. Bernadette School (C),1.80%,,N,,,
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",506063,St. Catherine of Siena School (C),1.14%,,N,,,
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",506065,St. Charles Borromeo School (C),2.07%,,N,,,
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",506066,St. Charles Catholic High School (C),8.33%,,N,,,
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",506067,St. Christopher School (C),6.87%,,N,,,
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",506068,St. Clement of Rome School (C),3.46%,,N,,,
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",506069,St. Cletus School (C),10.56%,,N,,,
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",506071,St. Dominic School (C),2.16%,,N,,,
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",506072,St. Edward the Confessor School (C),6.11%,,N,,,
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",503008,St. Francis de Sales School (C),5.37%,,N,,,
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",506075,St. Francis Xavier School (C),4.33%,,N,,,
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",503009,St. Genevieve School (C),2.16%,,N,,,
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",503010,St. Gregory School (C),22.30%,,N,,,
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",506079,St. Joan of Arc School (C),62.50%,,Y,65.08%,185,116
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",506080,St. Joan of Arc School (C),14.78%,,N,,,
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",626001,St. John Lutheran School,42.17%,,N,,166,70
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",503012,St. Joseph Elementary School (C),3.71%,,N,,,
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",506122,St. Katharine Drexel Preparatory School (C),36.36%,,Y,65.08%,170,62
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",506087,St. Leo the Great School (C),75.00%,,Y,65.08%,277,208
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",506091,St. Margaret Mary School (C),6.02%,,N,,,
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",506094,St. Mary Magdalen School (C),12.95%,,N,,,
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",506095,St. Mary's Academy (Girls) (C),50.58%,,Y,65.08%,592,299
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",503013,St. Mary's School (C),9.45%,,N,,,
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",506097,St. Matthew the Apostle School (C),3.13%,,N,,,
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",506101,St. Paul's Senior High School (Boys) (C),0.78%,,N,,,
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",506104,St. Peter School (C),39.46%,,Y,65.08%,142,56
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",506103,St. Peter School (C),2.03%,,N,,,
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",506107,St. Philip Neri School (C),4.62%,,N,,,
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",506108,St. Pius X School (C),1.12%,,N,,,
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",506111,St. Rita School (C),54.38%,,Y,65.08%,215,117
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",506112,St. Rita School (C),2.93%,,N,,,
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",506114,St. Rosalie School (C),9.70%,,N,,,
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",506138,St. Scholastica Academy,1.45%,,N,,,
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",506116,St. Stephen School (C),54.82%,,Y,65.08%,198,109
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",503014,Vandebilt Catholic High School (C),2.61%,,N,,,
+la,506,"School Food and Nutrition Services of New Orleans, Inc.",506121,Visitation of Our Lady School (C),9.63%,,N,,,
+la,F16,"School For A New Millennium, Inc.",017110,Children's Charter School,87.17%,,Y,81.18%,186,162
+la,F13,"Shreveport Charter Foundation, Inc. (Caddo Parish)",F13001,Magnolia School of Excellence,50.35%,,Y,50.35%,1130,569
+la,371,"Shreveport Charter School, Inc.",371001,Linwood Public Charter School,87.54%,,Y,83.26%,962,842
+la,500,Shreveport Diocese,500005,Jesus Good Shepherd School (C),2.03%,,N,,,
+la,,Shreveport Diocese,,McKinney Byrd Academy Inc.,,,Y,76.74%,23,
+la,500,Shreveport Diocese,500008,Our Lady of Fatima School (C),65.00%,,Y,76.74%,226,147
+la,500,Shreveport Diocese,706001,Prevailing Faith Christian Academy,82.93%,,Y,76.74%,82,68
+la,500,Shreveport Diocese,500020,St. Joseph School (C),4.32%,,N,,,
+la,500,Shreveport Diocese,500011,The Cathedral School (C),4.57%,,N,,,
+la,F12,"South Louisiana Charter Foundation, Inc.",W3B001,Iberville Charter Academy,60.07%,,Y,63.29%,293,176
+la,F12,"South Louisiana Charter Foundation, Inc.",F12001,South Baton Rouge Charter,64.96%,,Y,63.29%,565,367
+la,WAK,Southwest Louisiana Charter Acad. Foundation Inc,W4B001,Lake Charles College Prep,43.16%,,Y,61.23%,448,193
+la,WAK,Southwest Louisiana Charter Acad. Foundation Inc,WAK001,Southwest Louisiana Charter School,57.17%,,Y,61.23%,661,378
+la,044,St Bernard Parish School Board,044025,Andrew Jackson Middle School,61.51%,,Y,60.49%,582,358
+la,044,St Bernard Parish School Board,044001,Arabi Elementary School,58.79%,,Y,60.49%,626,368
+la,044,St Bernard Parish School Board,044028,Arlene Meraux Elementary School,57.14%,,Y,60.49%,532,304
+la,044,St Bernard Parish School Board,044019,C.F. Rowley Alternative School,75.34%,,Y,60.49%,146,110
+la,044,St Bernard Parish School Board,044024,Chalmette Elementary School,62.68%,,Y,60.49%,560,351
+la,044,St Bernard Parish School Board,044006,Chalmette High School,43.92%,,N,,1808,794
+la,044,St Bernard Parish School Board,044008,J.F. Gauthier Elementary School,66.49%,,Y,60.49%,558,371
+la,044,St Bernard Parish School Board,044012,Joseph J. Davies Elementary School,49.52%,,Y,60.49%,725,359
+la,044,St Bernard Parish School Board,044027,Lacoste Elementary School,56.16%,,Y,60.49%,803,451
+la,044,St Bernard Parish School Board,044017,N.P. Trist Middle School,55.66%,,Y,60.49%,654,364
+la,044,St Bernard Parish School Board,044023,St. Bernard Middle School,64.26%,,Y,60.49%,305,196
+la,044,St Bernard Parish School Board,044021,W. Smith Jr. Elementary School,96.40%,,Y,60.49%,250,241
+la,045,St Charles Parish Public Schools,045014,Albert Cammon Middle School,43.00%,,N,,300,129
+la,045,St Charles Parish Public Schools,045001,Allemands Elementary School,40.49%,,N,,247,100
+la,045,St Charles Parish Public Schools,045003,Destrehan High School,22.86%,,N,,,
+la,045,St Charles Parish Public Schools,045028,East Bank Head Start,97.92%,,Y,99.63%,96,94
+la,045,St Charles Parish Public Schools,045025,Ethel Schoeffner Elementary School,31.70%,,N,,448,142
+la,045,St Charles Parish Public Schools,045029,Eual J. Landry Alternative Center,0.00%,,N,,,
+la,045,St Charles Parish Public Schools,045002,George Washington Carver Early Learning Center,98.87%,,Y,99.63%,177,175
+la,045,St Charles Parish Public Schools,045005,Hahnville High School,24.77%,,N,,,
+la,045,St Charles Parish Public Schools,045018,Harry M. Hurst Middle School,25.33%,,N,,,
+la,045,St Charles Parish Public Schools,045010,J.B. Martin Middle School,24.77%,,N,,,
+la,045,St Charles Parish Public Schools,045008,Lakewood Elementary School,23.18%,,N,,,
+la,045,St Charles Parish Public Schools,045009,Luling Elementary School,56.19%,,N,,630,354
+la,045,St Charles Parish Public Schools,045011,Mimosa Park Elementary School,26.72%,,N,,,
+la,045,St Charles Parish Public Schools,045023,New Sarpy Elementary School,30.05%,,N,,426,128
+la,045,St Charles Parish Public Schools,045013,Norco Elementary School 4-6,25.65%,,N,,,
+la,045,St Charles Parish Public Schools,045017,R.J. Vial Elementary School,41.53%,,N,,262,109
+la,045,St Charles Parish Public Schools,045006,R.K. Smith Middle School,50.87%,,N,,289,147
+la,045,St Charles Parish Public Schools,045015,St. Rose Elementary School,42.53%,,N,,663,282
+la,046,St Helena Parish School Board,046005,St. Helena Arts and Technology Academy,76.52%,,Y,76.41%,364,279
+la,046,St Helena Parish School Board,046002,St. Helena College and Career Academy,63.62%,,Y,76.41%,504,321
+la,046,St Helena Parish School Board,046010,St. Helena Early Learning Center,98.78%,,Y,76.41%,336,332
+la,047,St James Parish School Board,047001,Fifth Ward Elementary School,78.99%,,N,,138,109
+la,047,St James Parish School Board,047002,Gramercy Elementary School,55.43%,,Y,54.84%,608,337
+la,047,St James Parish School Board,047004,Lutcher High School,50.50%,,Y,54.84%,996,503
+la,047,St James Parish School Board,047006,Paulina Elementary School,48.91%,,Y,54.84%,687,336
+la,047,St James Parish School Board,047010,Sixth Ward Elementary School,73.62%,,Y,54.84%,345,254
+la,047,St James Parish School Board,047008,St. James High School,48.93%,,Y,54.84%,656,321
+la,047,St James Parish School Board,047011,Vacherie Elementary School,44.44%,,Y,54.84%,333,148
+la,048,St John the Baptist Parish School Board,048008,East St. John Elementary School,66.83%,,Y,63.59%,447,299
+la,048,St John the Baptist Parish School Board,048001,East St. John High School,50.71%,,Y,63.59%,1409,715
+la,048,St John the Baptist Parish School Board,048028,Emily C. Watkins Elementary,60.08%,,Y,63.59%,474,285
+la,048,St John the Baptist Parish School Board,048020,Fifth Ward Elementary School,73.78%,,Y,63.59%,455,336
+la,048,St John the Baptist Parish School Board,048025,Garyville/Mt. Airy Math & Science Magnet Schl.,71.62%,,Y,63.59%,508,364
+la,048,St John the Baptist Parish School Board,048024,John L. Ory Communications Magnet Elementary,26.19%,,Y,63.59%,446,117
+la,048,St John the Baptist Parish School Board,048021,Lake Pontchartrain Elementary School,59.94%,,Y,63.59%,754,452
+la,048,St John the Baptist Parish School Board,048006,LaPlace Elementary School,54.08%,,Y,63.59%,974,527
+la,048,St John the Baptist Parish School Board,048017,West St. John Elementary School (K-7),72.04%,,Y,63.59%,305,220
+la,048,St John the Baptist Parish School Board,048013,West St. John High School,51.04%,,Y,63.59%,207,106
+la,049,St Landry Parish School Board,049054,Arnaudville Elementary School,60.70%,,Y,69.30%,229,139
+la,049,St Landry Parish School Board,049052,Beau Chene High School,45.60%,,Y,69.30%,853,389
+la,049,St Landry Parish School Board,049003,Cankton Elementary School,69.68%,,Y,69.30%,597,416
+la,049,St Landry Parish School Board,049004,Central Middle School,68.03%,,Y,69.30%,366,249
+la,049,St Landry Parish School Board,049007,East Elementary School,69.80%,,Y,69.30%,298,208
+la,049,St Landry Parish School Board,049009,Eunice Elementary School,62.13%,,Y,69.30%,301,187
+la,049,St Landry Parish School Board,049010,Eunice High School,59.11%,,Y,69.30%,626,370
+la,049,St Landry Parish School Board,049011,Eunice Junior High School,70.72%,,Y,69.30%,362,256
+la,049,St Landry Parish School Board,049013,Glendale Elementary School,70.61%,,Y,69.30%,330,233
+la,049,St Landry Parish School Board,049014,Grand Coteau Elementary School,69.97%,,Y,69.30%,313,219
+la,049,St Landry Parish School Board,049015,Grand Prairie Elementary School,64.40%,,Y,69.30%,309,199
+la,049,St Landry Parish School Board,049016,Grolee Elementary School,86.88%,,Y,69.30%,404,351
+la,049,St Landry Parish School Board,049017,Highland Elementary School,83.72%,,Y,69.30%,172,144
+la,049,St Landry Parish School Board,049018,Krotz Springs Elementary School,48.03%,,Y,69.30%,279,134
+la,049,St Landry Parish School Board,049019,Lawtell Elementary School,72.05%,,Y,69.30%,787,567
+la,049,St Landry Parish School Board,049021,Leonville Elementary School,59.45%,,Y,69.30%,577,343
+la,049,St Landry Parish School Board,049058,Magnet Academy for Cultural Arts,54.58%,,Y,69.30%,306,167
+la,049,St Landry Parish School Board,049051,North Central High School,74.59%,,Y,69.30%,307,229
+la,049,St Landry Parish School Board,049029,Northeast Elementary School,90.83%,,Y,69.30%,436,396
+la,049,St Landry Parish School Board,049053,Northwest High School,72.95%,,Y,69.30%,562,410
+la,049,St Landry Parish School Board,049031,Opelousas Junior High School,91.53%,,Y,69.30%,425,389
+la,049,St Landry Parish School Board,049032,Opelousas Senior High School,75.00%,,Y,69.30%,708,531
+la,049,St Landry Parish School Board,049033,Palmetto Elementary School,71.88%,,Y,69.30%,256,184
+la,049,St Landry Parish School Board,049035,Park Vista Elementary School,67.51%,,Y,69.30%,868,586
+la,049,St Landry Parish School Board,049055,Plaisance Elementary School,73.43%,,Y,69.30%,207,152
+la,049,St Landry Parish School Board,049037,Port Barre Elementary School,62.10%,,Y,69.30%,533,331
+la,049,St Landry Parish School Board,049056,Port Barre High School,53.46%,,Y,69.30%,419,224
+la,049,St Landry Parish School Board,049038,Port Barre Middle School,63.66%,,Y,69.30%,388,247
+la,049,St Landry Parish School Board,049040,South Street Elementary School,91.26%,,Y,69.30%,366,334
+la,049,St Landry Parish School Board,049042,Sunset Elementary School,66.06%,,Y,69.30%,386,255
+la,049,St Landry Parish School Board,049044,Washington Elementary School,85.81%,,Y,69.30%,155,133
+la,050,St Martin Parish School Board,050001,Breaux Bridge Elementary School,79.24%,,Y,64.66%,501,397
+la,050,St Martin Parish School Board,050004,Breaux Bridge High School,58.12%,,Y,64.66%,850,494
+la,050,St Martin Parish School Board,050002,Breaux Bridge Junior High School,70.07%,,Y,64.66%,421,295
+la,050,St Martin Parish School Board,050003,Breaux Bridge Primary School,76.63%,,Y,64.66%,569,436
+la,050,St Martin Parish School Board,050005,Catahoula Elementary School,57.38%,,Y,64.66%,183,105
+la,050,St Martin Parish School Board,050008,Cecilia High School,54.99%,,Y,64.66%,782,430
+la,050,St Martin Parish School Board,050006,Cecilia Junior High School,52.41%,,Y,64.66%,561,294
+la,050,St Martin Parish School Board,050007,Cecilia Primary School,59.97%,,Y,64.66%,737,442
+la,050,St Martin Parish School Board,050012,Early Learning Center,80.38%,,Y,64.66%,367,295
+la,050,St Martin Parish School Board,050009,Parks Middle School,54.92%,,Y,64.66%,264,145
+la,050,St Martin Parish School Board,050010,Parks Primary School,58.06%,,Y,64.66%,422,245
+la,050,St Martin Parish School Board,050015,St. Martinville Junior High School,72.10%,,Y,64.66%,448,323
+la,050,St Martin Parish School Board,050016,St. Martinville Primary School,84.70%,,Y,64.66%,575,487
+la,050,St Martin Parish School Board,050017,St. Martinville Senior High School,66.52%,,Y,64.66%,690,459
+la,050,St Martin Parish School Board,050018,Stephensville Elementary School,37.40%,,Y,64.66%,131,49
+la,050,St Martin Parish School Board,050019,Teche Elementary School,57.32%,,Y,64.66%,628,360
+la,051,St Mary Parish School Board,051038,B. Edward Boudreaux Middle School,72.11%,,Y,62.43%,274,198
+la,051,St Mary Parish School Board,051003,Bayou Vista Elementary School,47.40%,,Y,62.43%,350,166
+la,051,St Mary Parish School Board,051004,Berwick Elementary School,52.79%,,Y,62.43%,506,267
+la,051,St Mary Parish School Board,051006,Berwick High School,28.02%,,N,,,
+la,051,St Mary Parish School Board,051005,Berwick Junior High School,36.96%,,N,,395,146
+la,051,St Mary Parish School Board,051007,Centerville High School,52.89%,,Y,62.43%,562,297
+la,051,St Mary Parish School Board,051011,Franklin Junior High School,79.81%,,Y,62.43%,230,184
+la,051,St Mary Parish School Board,051012,Franklin Senior High School,67.34%,,Y,62.43%,322,217
+la,051,St Mary Parish School Board,051028,Hattie A. Watts Elementary School,58.88%,,Y,62.43%,621,366
+la,051,St Mary Parish School Board,051001,J.S. Aucoin Elementary School,41.67%,,Y,62.43%,293,122
+la,051,St Mary Parish School Board,051019,Julia B. Maitland School,80.19%,,Y,62.43%,265,213
+la,051,St Mary Parish School Board,051018,LaGrange Elementary School,85.12%,,Y,62.43%,209,178
+la,051,St Mary Parish School Board,051035,M.E. Norman Elementary School,55.44%,,Y,62.43%,316,175
+la,051,St Mary Parish School Board,051021,Morgan City High School,41.51%,,Y,62.43%,710,295
+la,051,St Mary Parish School Board,051020,Morgan City Junior High School,50.20%,,Y,62.43%,496,249
+la,051,St Mary Parish School Board,051024,Patterson High School,43.40%,,Y,62.43%,459,199
+la,051,St Mary Parish School Board,051023,Patterson Junior High School,54.80%,,Y,62.43%,464,254
+la,051,St Mary Parish School Board,051040,Raintree Elementary School,80.58%,,Y,62.43%,481,388
+la,051,St Mary Parish School Board,051010,W.P. Foster Elementary School,80.18%,,Y,62.43%,323,259
+la,051,St Mary Parish School Board,051039,West St. Mary High School,58.93%,,Y,62.43%,341,201
+la,051,St Mary Parish School Board,051031,Wyandotte Elementary School,52.03%,,Y,62.43%,351,183
+la,052,St Tammany Parish School System,052001,Abita Springs Elementary School,32.48%,,N,,705,229
+la,052,St Tammany Parish School System,052002,Abita Springs Middle School,29.94%,,N,,,
+la,052,St Tammany Parish School System,052064,Abney Elementary Early Childhood Center,59.50%,,N,,279,166
+la,052,St Tammany Parish School System,052004,Alton Elementary School,67.15%,,N,,207,139
+la,052,St Tammany Parish School System,052005,Bayou Lacombe Middle School,58.24%,,N,,182,106
+la,052,St Tammany Parish School System,052040,Bayou Woods Elementary School,48.83%,,N,,426,208
+la,052,St Tammany Parish School System,052006,Bonne Ecole Elementary School,24.87%,,N,,,
+la,052,St Tammany Parish School System,052007,Boyet Junior High School,21.78%,,N,,,
+la,052,St Tammany Parish School System,052009,Carolyn Park Middle School,53.95%,,N,,291,157
+la,052,St Tammany Parish School System,052010,Chahta-Ima Elementary School,60.27%,,N,,292,176
+la,052,St Tammany Parish School System,052011,Clearwood Junior High School,26.63%,,N,,,
+la,052,St Tammany Parish School System,052012,Covington Elementary School,36.71%,,N,,602,221
+la,052,St Tammany Parish School System,052013,Covington High School,25.41%,,N,,,
+la,052,St Tammany Parish School System,052034,Creekside Junior High,39.84%,,N,,502,200
+la,052,St Tammany Parish School System,052049,Cypress Cove Elementary School,30.44%,,N,,703,214
+la,052,St Tammany Parish School System,052022,E.E. Lyon Elementary School,45.63%,,N,,618,282
+la,052,St Tammany Parish School System,052016,Fifth Ward Junior High School,35.76%,,N,,467,167
+la,052,St Tammany Parish School System,052017,Florida Avenue Elementary School,50.44%,,N,,569,287
+la,052,St Tammany Parish School System,052018,Folsom Elementary School,33.99%,,N,,456,155
+la,052,St Tammany Parish School System,052019,Folsom Junior High School,23.30%,,N,,,
+la,052,St Tammany Parish School System,052052,Fontainebleau High School,12.61%,,N,,,
+la,052,St Tammany Parish School System,052053,Fontainebleau Junior High School,18.44%,,N,,,
+la,052,St Tammany Parish School System,052008,Glynn H. Brock Elementary School,61.64%,,N,,318,196
+la,052,St Tammany Parish School System,052062,Henry Mayfield Elementary School,41.13%,,N,,780,321
+la,052,St Tammany Parish School System,052047,Honey Island Elementary School,27.29%,,N,,,
+la,052,St Tammany Parish School System,052063,Joseph B. Lancaster Elementary School,11.04%,,N,,,
+la,052,St Tammany Parish School System,052058,L.P. Monteleone Junior High School,20.99%,,N,,,
+la,052,St Tammany Parish School System,052057,Lake Harbor Middle School,12.15%,,N,,,
+la,052,St Tammany Parish School System,052061,Lakeshore High School,17.03%,,N,,,
+la,052,St Tammany Parish School System,052020,Lee Road Junior High School,26.14%,,N,,,
+la,052,St Tammany Parish School System,052021,Little Oak Middle School,25.12%,,N,,,
+la,052,St Tammany Parish School System,052059,Little Pearl Elementary School,48.18%,,N,,137,66
+la,052,St Tammany Parish School System,052023,Madisonville Elementary School,12.12%,,N,,,
+la,052,St Tammany Parish School System,052024,Madisonville Junior High School,10.12%,,N,,,
+la,052,St Tammany Parish School System,052056,Magnolia Trace Elementary School,12.50%,,N,,,
+la,052,St Tammany Parish School System,052025,Mandeville Elementary School,16.57%,,N,,,
+la,052,St Tammany Parish School System,052026,Mandeville High School,8.61%,,N,,,
+la,052,St Tammany Parish School System,052027,Mandeville Junior High School,11.55%,,N,,,
+la,052,St Tammany Parish School System,052028,Mandeville Middle School,10.03%,,N,,,
+la,052,St Tammany Parish School System,052060,Marigny Elementary School,15.71%,,N,,,
+la,052,St Tammany Parish School System,052039,Northshore High School,16.04%,,N,,,
+la,052,St Tammany Parish School System,052029,Pearl River High School,30.53%,,N,,714,218
+la,052,St Tammany Parish School System,052031,Pine View Middle School,40.94%,,N,,684,280
+la,052,St Tammany Parish School System,052050,Pontchartrain Elementary School,12.84%,,N,,,
+la,052,St Tammany Parish School System,052044,Riverside Elementary School,45.99%,,N,,426,196
+la,052,St Tammany Parish School System,052035,Salmen High School,44.43%,,N,,845,375
+la,052,St Tammany Parish School System,052036,Sixth Ward Elementary School,45.67%,,N,,335,153
+la,052,St Tammany Parish School System,052037,Slidell High School,27.91%,,N,,,
+la,052,St Tammany Parish School System,052038,Slidell Junior High School,40.13%,,N,,741,297
+la,052,St Tammany Parish School System,052033,St. Tammany Junior High School,47.92%,,N,,649,311
+la,052,St Tammany Parish School System,052051,Tchefuncte Middle School,10.78%,,N,,,
+la,052,St Tammany Parish School System,052003,W.L. Abney Elementary School,48.74%,,N,,872,425
+la,052,St Tammany Parish School System,052048,Whispering Forest Elementary School,30.30%,,N,,561,170
+la,052,St Tammany Parish School System,052032,William Pitcher Junior High School,35.35%,,N,,314,111
+la,052,St Tammany Parish School System,052045,Woodlake Elementary School,17.96%,,N,,,
+la,374,Success Preparatory Academy,374001,Success Preparatory Academy,77.45%,,Y,83.92%,429,332
+la,053,Tangipahoa Parish School Board,053001,Amite Elementary Magnet School,91.95%,,Y,71.42%,522,480
+la,053,Tangipahoa Parish School Board,053002,Amite High School,87.09%,,Y,71.42%,395,344
+la,053,Tangipahoa Parish School Board,053003,Champ Cooper Elementary School,53.21%,,Y,71.42%,624,332
+la,053,Tangipahoa Parish School Board,053004,Chesbrough Elementary School,78.07%,,Y,71.42%,383,299
+la,053,Tangipahoa Parish School Board,053025,D. C. Reeves Elementary School,65.90%,,Y,71.42%,698,460
+la,053,Tangipahoa Parish School Board,053010,Greenville Park Leadership Academy,94.73%,,Y,71.42%,588,557
+la,053,Tangipahoa Parish School Board,053039,Hammond Eastside Magnet,67.28%,,Y,71.42%,1186,798
+la,053,Tangipahoa Parish School Board,053009,Hammond High Magnet School,67.26%,,Y,71.42%,1408,947
+la,053,Tangipahoa Parish School Board,053037,Hammond Westside  Elementary Montessori School,77.42%,,Y,71.42%,1107,857
+la,053,Tangipahoa Parish School Board,053013,Independence  Magnet,94.03%,,Y,71.42%,335,315
+la,053,Tangipahoa Parish School Board,053011,Independence Elementary School,93.07%,,Y,71.42%,476,443
+la,053,Tangipahoa Parish School Board,053012,Independence High School,88.56%,,Y,71.42%,341,302
+la,053,Tangipahoa Parish School Board,053029,Jewel M. Sumner High School,61.29%,,Y,71.42%,434,266
+la,053,Tangipahoa Parish School Board,053051,Jewel M. Sumner Middle School,69.65%,,Y,71.42%,313,218
+la,053,Tangipahoa Parish School Board,053015,Kentwood High Magnet School,95.08%,,Y,71.42%,264,251
+la,053,Tangipahoa Parish School Board,053016,Loranger Elementary School,67.67%,,Y,71.42%,764,517
+la,053,Tangipahoa Parish School Board,053017,Loranger High School,53.02%,,Y,71.42%,645,342
+la,053,Tangipahoa Parish School Board,053040,Loranger Middle School,60.16%,,Y,71.42%,620,373
+la,053,Tangipahoa Parish School Board,053021,Lucille Nesom Memorial,83.89%,,Y,71.42%,453,380
+la,053,Tangipahoa Parish School Board,053031,Martha Vinyard Elementary School,63.73%,,Y,71.42%,703,448
+la,053,Tangipahoa Parish School Board,053018,Midway Elementary School,85.96%,,Y,71.42%,463,398
+la,053,Tangipahoa Parish School Board,053020,Natalbany Middle,87.53%,,Y,71.42%,425,372
+la,053,Tangipahoa Parish School Board,053014,O.W. Dillon Leadership Academy,96.77%,,Y,71.42%,371,359
+la,053,Tangipahoa Parish School Board,053034,Perrin Early Learning Center,71.22%,,Y,71.42%,417,297
+la,053,Tangipahoa Parish School Board,053024,Ponchatoula High School,48.58%,,Y,71.42%,1729,840
+la,053,Tangipahoa Parish School Board,053022,Ponchatoula Junior High School,60.72%,,Y,71.42%,723,439
+la,053,Tangipahoa Parish School Board,053026,Roseland Elementary Montessori School,68.07%,,Y,71.42%,451,307
+la,053,Tangipahoa Parish School Board,053027,Southeastern LA University Lab School,31.67%,,Y,71.42%,221,70
+la,053,Tangipahoa Parish School Board,053028,Spring Creek Elementary School,68.90%,,Y,71.42%,344,237
+la,053,Tangipahoa Parish School Board,053052,Tangipahoa Alternative Solutions Program,76.96%,,Y,71.42%,217,167
+la,053,Tangipahoa Parish School Board,053030,Tucker Memorial Elementary School,65.68%,,Y,71.42%,609,400
+la,053,Tangipahoa Parish School Board,053032,West Side Middle School,93.80%,,Y,71.42%,387,363
+la,053,Tangipahoa Parish School Board,053033,Woodland Park Elementary Magnet School,91.23%,,Y,71.42%,593,541
+la,054,Tensas Parish School Board,054005,Tensas Elementary School,70.15%,,Y,91.89%,212,149
+la,054,Tensas Parish School Board,054001,Tensas High School,66.29%,,Y,91.89%,244,162
+la,055,Terrebonne Parish School Board,055001,Acadian Elementary School,65.26%,,Y,62.82%,757,494
+la,055,Terrebonne Parish School Board,055002,Bayou Black Elementary School,59.36%,,Y,62.82%,189,112
+la,055,Terrebonne Parish School Board,055004,Bourg Elementary School,36.62%,,N,,467,171
+la,055,Terrebonne Parish School Board,055006,Broadmoor Elementary School,45.83%,,Y,62.82%,617,283
+la,055,Terrebonne Parish School Board,055007,Caldwell Middle School,62.36%,,Y,62.82%,321,200
+la,055,Terrebonne Parish School Board,055008,Coteau-Bayou Blue Elementary School,58.39%,,Y,62.82%,733,428
+la,055,Terrebonne Parish School Board,055009,Dularge Elementary School,63.51%,,Y,62.82%,357,227
+la,055,Terrebonne Parish School Board,055013,Ellender Memorial High School,57.84%,,Y,62.82%,938,543
+la,055,Terrebonne Parish School Board,055015,Evergreen Junior High School,45.71%,,N,,735,336
+la,055,Terrebonne Parish School Board,055016,Gibson Elementary School,69.78%,,Y,62.82%,162,113
+la,055,Terrebonne Parish School Board,055017,Grand Caillou Elementary School,75.47%,,Y,62.82%,497,375
+la,055,Terrebonne Parish School Board,055044,Grand Caillou Middle School,69.21%,,Y,62.82%,380,263
+la,055,Terrebonne Parish School Board,055005,H.L. Bourgeois High School,40.75%,,N,,1492,608
+la,055,Terrebonne Parish School Board,055019,Honduras Elementary School,77.95%,,Y,62.82%,324,253
+la,055,Terrebonne Parish School Board,055020,Houma Junior High School,43.30%,,N,,679,294
+la,055,Terrebonne Parish School Board,055021,Lacache Middle School,51.90%,,Y,62.82%,363,188
+la,055,Terrebonne Parish School Board,055022,Legion Park Elementary School,81.53%,,Y,62.82%,338,276
+la,055,Terrebonne Parish School Board,055023,Lisa Park School,48.11%,,Y,62.82%,666,320
+la,055,Terrebonne Parish School Board,055025,Montegut Elementary School,56.16%,,Y,62.82%,230,129
+la,055,Terrebonne Parish School Board,055026,Montegut Middle School,42.14%,,N,,560,236
+la,055,Terrebonne Parish School Board,055027,Mulberry Elementary School,23.35%,,N,,,
+la,055,Terrebonne Parish School Board,055028,Oaklawn Junior High School,67.68%,,Y,62.82%,441,298
+la,055,Terrebonne Parish School Board,055029,Oakshire Elementary School,51.74%,,Y,62.82%,724,375
+la,055,Terrebonne Parish School Board,055030,Pointe-aux-Chenes Elementary School,64.38%,,Y,62.82%,128,82
+la,055,Terrebonne Parish School Board,055032,School for Exceptional Children/TARC,61.54%,,Y,62.82%,35,22
+la,055,Terrebonne Parish School Board,055033,Schriever Elementary School,66.61%,,Y,62.82%,516,344
+la,055,Terrebonne Parish School Board,055034,South Terrebonne High School,33.02%,,N,,972,321
+la,055,Terrebonne Parish School Board,055035,Southdown Elementary School,79.12%,,Y,62.82%,401,317
+la,055,Terrebonne Parish School Board,055036,Terrebonne High School,43.60%,,N,,1270,554
+la,055,Terrebonne Parish School Board,055038,Upper Little Caillou Elementary School,55.90%,,Y,62.82%,525,293
+la,055,Terrebonne Parish School Board,055039,Village East Elementary School,72.85%,,Y,62.82%,427,311
+la,502,The Diocese of Baton Rouge Child Nutrition Program,502001,Ascension Diocesan Regional School (C),9.89%,,N,,,
+la,502,The Diocese of Baton Rouge Child Nutrition Program,502033,Catholic Elementary School of Pointe Coupee(C),8.73%,,N,,,
+la,502,The Diocese of Baton Rouge Child Nutrition Program,502003,Catholic High of Pointe Coupee (C),3.63%,,N,,,
+la,502,The Diocese of Baton Rouge Child Nutrition Program,502047,Cristo Rey Baton Rouge Franciscan High School (C),58.82%,,N,,68,40
+la,502,The Diocese of Baton Rouge Child Nutrition Program,502005,Holy Family School (C),7.16%,,N,,,
+la,502,The Diocese of Baton Rouge Child Nutrition Program,502006,Holy Ghost School (C),5.81%,,N,,,
+la,502,The Diocese of Baton Rouge Child Nutrition Program,502007,Mater Dolorosa School (C),40.68%,,N,,141,57
+la,502,The Diocese of Baton Rouge Child Nutrition Program,502008,Most Blessed Sacrament School (C),2.95%,,N,,,
+la,502,The Diocese of Baton Rouge Child Nutrition Program,502009,Our Lady of Mercy School (C),3.30%,,N,,,
+la,502,The Diocese of Baton Rouge Child Nutrition Program,502021,Redemptorist Elementary School (C),72.54%,,Y,63.09%,298,216
+la,502,The Diocese of Baton Rouge Child Nutrition Program,502013,Sacred Heart Elementary School (C),5.56%,,N,,,
+la,502,The Diocese of Baton Rouge Child Nutrition Program,502015,St. Aloysius School (C),2.06%,,N,,,
+la,502,The Diocese of Baton Rouge Child Nutrition Program,502016,St. Alphonsus School (C),4.96%,,N,,,
+la,502,The Diocese of Baton Rouge Child Nutrition Program,502018,St. Elizabeth School (C),13.79%,,N,,,
+la,502,The Diocese of Baton Rouge Child Nutrition Program,502019,St. Francis Xavier School (C),70.83%,,N,,192,136
+la,502,The Diocese of Baton Rouge Child Nutrition Program,502020,St. George School (C),1.38%,,N,,,
+la,502,The Diocese of Baton Rouge Child Nutrition Program,502040,St. Jean Vianney School (C),4.86%,,N,,,
+la,502,The Diocese of Baton Rouge Child Nutrition Program,502023,St. John Elementary School (C),9.65%,,N,,,
+la,502,The Diocese of Baton Rouge Child Nutrition Program,502024,St. John High School (C),8.76%,,N,,,
+la,502,The Diocese of Baton Rouge Child Nutrition Program,502046,St. John Primary (C),1.99%,,N,,,
+la,502,The Diocese of Baton Rouge Child Nutrition Program,502025,St. Joseph School (C),3.19%,,N,,,
+la,502,The Diocese of Baton Rouge Child Nutrition Program,502035,St. Jude School (C),1.77%,,N,,,
+la,502,The Diocese of Baton Rouge Child Nutrition Program,502004,St. Peter Chanel Interparochial School,4.09%,,N,,,
+la,502,The Diocese of Baton Rouge Child Nutrition Program,502029,St. Theresa of Avila School (C),1.73%,,N,,,
+la,502,The Diocese of Baton Rouge Child Nutrition Program,502039,St. Thomas Aquinas Diocesan Regional HS (C),7.80%,,N,,,
+la,502,The Diocese of Baton Rouge Child Nutrition Program,502030,St. Thomas More School (C),3.47%,,N,,,
+la,3C1,Thrive Academy,3C1001,Thrive Academy,63.40%,,Y,75.32%,154,98
+la,056,Union Parish School Board,056002,Downsville Charter School,43.72%,,Y,64.91%,414,181
+la,056,Union Parish School Board,056005,Farmerville Junior High School,0.00%,,N,,,
+la,056,Union Parish School Board,056003,Union Elementary School,77.81%,,Y,64.91%,784,610
+la,056,Union Parish School Board,056016,Union Parish 6th Grade Center,0.00%,,N,,,
+la,056,Union Parish School Board,056004,Union Parish High School,63.39%,,Y,64.91%,874,554
+la,345,"University View Academy, Inc. (FRM LA Connections)",345001,"University View Academy, Inc. (FRM LA Connections)",78.37%,,Y,83.33%,360,282
+la,057,Vermilion Parish School Board,057001,Abbeville High School,75.68%,,Y,60.69%,629,476
+la,057,Vermilion Parish School Board,057014,Cecil Picard Elementary School at Maurice,40.23%,,Y,60.69%,686,276
+la,057,Vermilion Parish School Board,057003,Dozier Elementary School,50.71%,,Y,60.69%,560,284
+la,057,Vermilion Parish School Board,057005,Eaton Park Elementary School,92.06%,,Y,60.69%,554,510
+la,057,Vermilion Parish School Board,057006,Erath High School,19.82%,,N,,,
+la,057,Vermilion Parish School Board,057024,Erath Middle School,46.75%,,Y,60.69%,462,216
+la,057,Vermilion Parish School Board,057007,Forked Island/E. Broussard Elem School,51.97%,,Y,60.69%,304,158
+la,057,Vermilion Parish School Board,057008,Gueydan High School,51.79%,,Y,60.69%,251,130
+la,057,Vermilion Parish School Board,057027,Indian Bayou Elementary School,43.66%,,Y,60.69%,213,93
+la,057,Vermilion Parish School Board,057023,J.H. Williams Middle School,84.75%,,Y,60.69%,577,489
+la,057,Vermilion Parish School Board,057010,James A. Herod Elementary School,93.16%,,Y,60.69%,453,422
+la,057,Vermilion Parish School Board,057017,Jesse Owens Elementary School,61.08%,,Y,60.69%,167,102
+la,057,Vermilion Parish School Board,057012,Kaplan Elementary School,62.46%,,Y,60.69%,594,371
+la,057,Vermilion Parish School Board,057013,Kaplan High School,44.40%,,Y,60.69%,500,222
+la,057,Vermilion Parish School Board,057029,Leblanc Elementary School,62.48%,,Y,60.69%,701,438
+la,057,Vermilion Parish School Board,057015,Meaux Elementary School,46.97%,,Y,60.69%,445,209
+la,057,Vermilion Parish School Board,057016,North Vermilion High School,21.52%,,N,,,
+la,057,Vermilion Parish School Board,057030,North Vermillion Middle School,42.75%,,Y,60.69%,559,239
+la,057,Vermilion Parish School Board,057019,Rene A. Rost Middle School,57.11%,,Y,60.69%,408,233
+la,057,Vermilion Parish School Board,057020,Seventh Ward Elementary School,70.63%,,Y,60.69%,252,178
+la,058,Vernon Parish School Board,058018,Anacoco Elementary School,33.46%,,N,,541,181
+la,058,Vernon Parish School Board,058001,Anacoco High School,21.53%,,N,,,
+la,058,Vernon Parish School Board,058002,East Leesville Elementary School,60.97%,,Y,59.23%,432,263
+la,058,Vernon Parish School Board,058003,Evans High School,45.06%,,N,,395,178
+la,058,Vernon Parish School Board,058004,Hicks High School,32.44%,,N,,373,121
+la,058,Vernon Parish School Board,058005,Hornbeck High School,30.73%,,N,,371,114
+la,058,Vernon Parish School Board,058006,Leesville High School,25.66%,,N,,,
+la,058,Vernon Parish School Board,058007,Leesville Junior High School,31.34%,,N,,402,126
+la,058,Vernon Parish School Board,058019,North Polk Elementary School,17.22%,,N,,,
+la,058,Vernon Parish School Board,058011,Parkway Elementary School,5.19%,,N,,,
+la,058,Vernon Parish School Board,058008,Pickering Elementary School,40.17%,,N,,361,145
+la,058,Vernon Parish School Board,058009,Pickering High School,30.76%,,N,,907,279
+la,058,Vernon Parish School Board,058010,Pitkin High School,42.20%,,N,,500,211
+la,058,Vernon Parish School Board,058016,Rosepine Elementary School,41.36%,,N,,895,370
+la,058,Vernon Parish School Board,058012,Rosepine High School,24.67%,,N,,,
+la,058,Vernon Parish School Board,058013,Simpson High School,29.30%,,N,,,
+la,058,Vernon Parish School Board,058014,Vernon Middle School,32.41%,,N,,395,128
+la,058,Vernon Parish School Board,058020,Vernon Parish Optional School,0.00%,,N,,,
+la,058,Vernon Parish School Board,058015,West Leesville Elementary School,57.21%,,Y,59.23%,402,230
+la,344,Voices for International Business & Education/dba International High School of New Orleans,344001,International High School,44.31%,,Y,49.33%,523,232
+la,059,Washington Parish School Board,059002,Enon Elementary School,50.74%,,Y,61.66%,270,137
+la,059,Washington Parish School Board,059003,Franklinton Elementary School,71.60%,,Y,61.66%,486,348
+la,059,Washington Parish School Board,059006,Franklinton High School,56.99%,,Y,61.66%,823,469
+la,059,Washington Parish School Board,059004,Franklinton Junior High School,64.09%,,Y,61.66%,646,414
+la,059,Washington Parish School Board,059005,Franklinton Primary School,72.41%,,Y,61.66%,551,399
+la,059,Washington Parish School Board,059007,Mt. Hermon School,61.49%,,Y,61.66%,496,305
+la,059,Washington Parish School Board,059008,Pine School,50.44%,,Y,61.66%,680,343
+la,059,Washington Parish School Board,059009,Thomas Elementary School,56.68%,,Y,61.66%,644,365
+la,059,Washington Parish School Board,059011,Varnado High School,63.43%,,Y,61.66%,361,229
+la,059,Washington Parish School Board,059013,Wesley Ray Elementary School,77.52%,,Y,61.66%,298,231
+la,060,Webster Parish School Board,060001,Brown Upper Elementary School,62.85%,,Y,62.66%,288,181
+la,060,Webster Parish School Board,060002,Browning Elementary School,67.32%,,Y,62.66%,355,239
+la,060,Webster Parish School Board,060008,Central Elementary School,54.97%,,Y,62.66%,553,304
+la,060,Webster Parish School Board,060005,Doyline High School,47.24%,,Y,47.68%,489,231
+la,060,Webster Parish School Board,060014,E.S. Richardson Elementary School,62.47%,,Y,62.66%,413,258
+la,060,Webster Parish School Board,060013,J.A. Phillips Middle School,63.96%,,Y,62.66%,333,213
+la,060,Webster Parish School Board,060010,J.L. Jones Elementary School,67.15%,,Y,62.66%,478,321
+la,060,Webster Parish School Board,060018,Lakeside Junior-Senior High School,42.12%,,Y,47.68%,482,203
+la,060,Webster Parish School Board,060012,Minden High School,46.54%,,Y,47.68%,810,377
+la,060,Webster Parish School Board,060019,North Webster High School,46.34%,,Y,47.68%,546,253
+la,060,Webster Parish School Board,060015,North Webster Junior High School,51.60%,,Y,47.68%,407,210
+la,060,Webster Parish School Board,060017,North Webster Lower Elementary School,53.07%,,Y,62.66%,179,95
+la,060,Webster Parish School Board,060004,North Webster Upper Elementary School,53.76%,,Y,62.66%,186,100
+la,060,Webster Parish School Board,060023,Webster Junior High School,55.74%,,Y,47.68%,366,204
+la,061,West Baton Rouge Parish School Board,061011,Brusly Elementary School,49.56%,,Y,63.18%,682,338
+la,061,West Baton Rouge Parish School Board,061001,Brusly High School,20.41%,,N,,,
+la,061,West Baton Rouge Parish School Board,061002,Brusly Middle School,31.88%,,N,,480,153
+la,,West Baton Rouge Parish School Board,,Caneview K-8 School,,,Y,63.18%,459,
+la,061,West Baton Rouge Parish School Board,061004,Cohn Elementary School,85.78%,,Y,63.18%,211,181
+la,061,West Baton Rouge Parish School Board,061006,Lukeville Upper Elementary School,40.71%,,Y,63.18%,452,184
+la,061,West Baton Rouge Parish School Board,061007,Port Allen Elementary School,86.44%,,Y,63.18%,376,325
+la,061,West Baton Rouge Parish School Board,061008,Port Allen High School,71.22%,,Y,63.18%,403,287
+la,061,West Baton Rouge Parish School Board,061009,Port Allen Middle School,83.01%,,Y,63.18%,206,171
+la,062,West Carroll Parish School Board,062001,Epps High School,76.04%,,Y,61.26%,313,238
+la,062,West Carroll Parish School Board,062003,Forest School,58.21%,,Y,61.26%,560,326
+la,062,West Carroll Parish School Board,062005,Kilbourne High School,55.80%,,Y,61.26%,319,178
+la,062,West Carroll Parish School Board,062014,Oak Grove Elementary School,58.79%,,Y,61.26%,478,281
+la,062,West Carroll Parish School Board,062006,Oak Grove High School,43.33%,,N,,475,206
+la,063,West Feliciana Parish School Board,063001,Bains Elementary School,43.73%,,Y,48.93%,606,265
+la,063,West Feliciana Parish School Board,063005,Bains Lower Elementary School,66.48%,,Y,48.93%,549,365
+la,063,West Feliciana Parish School Board,063003,West Feliciana High School,42.58%,,Y,48.93%,613,261
+la,063,West Feliciana Parish School Board,063006,West Feliciana Middle School,43.54%,,Y,48.93%,480,209
+la,064,Winn Parish School Board,064001,Atlanta High School,56.72%,,Y,66.80%,225,128
+la,064,Winn Parish School Board,064002,Calvin High School,33.10%,,Y,48.73%,293,97
+la,064,Winn Parish School Board,064003,Dodson High School,40.23%,,Y,48.73%,341,137
+la,064,Winn Parish School Board,064008,Winnfield Middle School,53.66%,,Y,48.73%,422,226
+la,064,Winn Parish School Board,064006,Winnfield Primary School,61.43%,,Y,66.80%,531,326
+la,064,Winn Parish School Board,064009,Winnfield Senior High School,42.36%,,Y,48.73%,358,152
+la,S28,Young Audiences of Louisiana,S28001,Young Audiences of Louisiana,50.40%,,Y,61.04%,942,475
