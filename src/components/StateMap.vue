@@ -43,12 +43,14 @@ components: {
   data() {
       return{
           isModalVisible: false,
-          statedata: {
-              ca: {}
-          },
           selected_state: null,
           states: us.STATES,
       }
+  },
+  computed: {
+    statedata() {
+        return this.$store.getters.get_states;
+    }
   },
   mounted(){
        this.createMap();
@@ -124,26 +126,6 @@ components: {
                             if(d.tagged == null){ return "lightgray" };
                             const p = d.tagged / d.projects.length;
                             return color3(p);
-                        })
-                        .on("mouseover", d => {
-                            const div = d3.select("#tooltip")
-                            div.transition().duration(200).style('opacity',.9);
-
-                            div	.html(
-                                `${d.name}` 
-                                + `<br> ${d.projects.length } Projects ` 
-                                + ((d.tagged==null)?"":`<br> ${d.tagged} have topics`)
-                                ).style("left", (d3.event.pageX + brigade_r) + "px")		
-                                .style("top", (d3.event.pageY - brigade_r) + "px");	
-                        })			
-                        .on("mouseout", d => {
-                            const div = d3.select("#tooltip")
-                            div.transition().duration(500).style('opacity',0);
-                        })
-                        .on("click", d => {
-                            d3.select("#tooltip").style("opacity",0);
-                            this.$router.push(`/brigade/${d.slug}`)
-                            // TODO load Brigade Detail  
                         }),
                     update => update.attr("name",d => d.name)
                         .attr("r", d => d.projects.length == 0?2:brigade_r)

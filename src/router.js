@@ -73,7 +73,9 @@ export default new Router({
             component: StateDetail,
             props: true,
             beforeEnter: (to, from, next) => {
-                store.dispatch("load_districts",to.params.state_code).then(next)
+                store.dispatch("load_states").then(
+                    () => { store.dispatch("load_districts",to.params.state_code).then(next) }
+                )
             }
         },
         {
