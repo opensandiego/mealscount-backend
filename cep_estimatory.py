@@ -87,7 +87,11 @@ Expected CSV File columns
             click.secho(STRATEGIES[s].__doc__)
         return
 
-    i = lambda x: int(x.replace(',',''))
+    def i(x):
+        try:
+            return int(x.replace(',',''))
+        except ValueError:
+            return 0
     schools = [r for r in csv.DictReader(codecs.open(cupc_csv_file)) if r['total_enrolled'] and i(r['total_enrolled']) > 0]
 
     # Reduce to target district if specified
@@ -152,7 +156,8 @@ Expected CSV File columns
     for s in districts[0].strategies:
         headers.append( "reimb: %s" % s.name )
         float_fmt.append(",.0f")
-    print( tabulate.tabulate(data,headers,tablefmt="pipe",floatfmt=float_fmt) )
+    
+    #print( tabulate.tabulate(data,headers,tablefmt="pipe",floatfmt=float_fmt) )
 
     click.secho("\n"+"="*100,bold=True)
 

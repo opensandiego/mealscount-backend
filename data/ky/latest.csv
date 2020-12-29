@@ -1,0 +1,1326 @@
+state,District Code,District Name,School Code,School Name,individual_isp,proxy_isp,participating_in_cep,claiming_isp,total_enrolled,total_eligible
+ky,10121,Adair County,1008,Adair County Elementary School,65.05%,,Y,60.79%,617,401
+ky,10121,Adair County,1007,Adair County High School,54.97%,,Y,60.79%,783,430
+ky,10121,Adair County,1002,Adair County Middle School,55.52%,,Y,60.79%,606,336
+ky,10121,Adair County,1009,Adair County Primary Center,68.59%,,Y,60.79%,639,438
+ky,10001,Allen County,1003,Allen County Intermediate Center,58.56%,,Y,52.03%,716,419
+ky,10001,Allen County,1000,Allen County Primary Center,60.16%,,Y,61.95%,1059,637
+ky,10001,Allen County,1001,Allen County-Scottsville High School,45.35%,,Y,52.03%,864,392
+ky,10001,Allen County,1002-0,James E Bazzell Middle School,52.24%,,Y,52.03%,469,245
+ky,10058,Anchorage Independent,1000-0,Anchorage Independent Public School,2.89%,,N,,,
+ky,10122,Anderson County,1006,Anderson County Early Childhood Center,48.93%,,Y,53.91%,388,190
+ky,10122,Anderson County,1004,Anderson County High School/Phoenix Academy,29.26%,,N,,,
+ky,10122,Anderson County,1001-0,Anderson County Middle School,36.32%,,N,,881,320
+ky,10122,Anderson County,1000-1,Emma B Ward Elementary School,35.70%,,N,,465,166
+ky,10122,Anderson County,1005,Robert B Turner Elementary School,36.02%,,N,,522,188
+ky,10122,Anderson County,1003-0,Saffell Street Elementary School,57.40%,,Y,53.91%,417,239
+ky,10243,Appalachian Challenge Academy,1000-2,Appalachian Challenge Academy,0.00%,,N,,,
+ky,10010,Ashland Independent,1005-0,AISD Head Start Preschool Ctr,78.92%,,Y,57.42%,223,176
+ky,10010,Ashland Independent,1006-0,Ashland Middle School,56.11%,,Y,57.42%,786,441
+ky,10010,Ashland Independent,1000-3,Charles Russell Elementary School,58.33%,,Y,57.42%,264,154
+ky,10010,Ashland Independent,1010,Crabbe Elementary School,87.18%,,Y,57.42%,273,238
+ky,10010,Ashland Independent,1004-0,Hager Elementary School,45.15%,,Y,57.42%,361,163
+ky,10010,Ashland Independent,1009-0,Oakview Elementary School,60.44%,,Y,57.42%,316,191
+ky,10010,Ashland Independent,1002-1,Paul G Blazer High School,47.31%,,Y,57.42%,875,414
+ky,10010,Ashland Independent,1008-0,Poage Elementary School,58.17%,,Y,57.42%,263,153
+ky,10134,Augusta Independent,1002-2,Augusta Independent School,59.34%,,Y,62.50%,303,180
+ky,10002,Ballard County,1002-3,Ballard County Elementary School,58.80%,,Y,54.48%,682,401
+ky,10002,Ballard County,1000-4,Ballard Memorial HS/Ballard County MS,49.92%,,Y,54.48%,645,322
+ky,10075,Barbourville Independent,1002-4,Barbourville City School,56.15%,,Y,57.79%,706,396
+ky,10096,Bardstown Independent,1004-1,Bardstown Early Child Pre Cnt,49.57%,,Y,52.79%,297,147
+ky,10096,Bardstown Independent,1003-1,Bardstown Elementary School,54.10%,,Y,52.79%,638,345
+ky,10096,Bardstown Independent,1000-5,Bardstown High School,45.70%,,N,,628,287
+ky,10096,Bardstown Independent,1002-5,Bardstown Middle School,52.24%,,Y,52.79%,577,301
+ky,10096,Bardstown Independent,1001-1,Bardstown Primary School,51.03%,,Y,52.79%,657,335
+ky,10003,Barren County,1000-6,Austin Tracy Elementary School,63.02%,,Y,53.86%,276,174
+ky,10003,Barren County,1004-2,Barren County High School – T.A.,43.43%,,Y,53.86%,1240,539
+ky,10003,Barren County,1008-1,Barren County Middle School,49.53%,,Y,53.86%,784,388
+ky,10003,Barren County,1010-0,College Street Campus,77.27%,,Y,53.86%,80,62
+ky,10003,Barren County,1011,Eastern Elementary School,54.66%,,Y,53.86%,391,214
+ky,10003,Barren County,1001-2,Hiseville Elementary School,68.38%,,Y,53.86%,254,174
+ky,10003,Barren County,1006-1,North Jackson Elementary,37.23%,,Y,53.86%,562,209
+ky,10003,Barren County,1007-0,Park City Elementary School,67.82%,,Y,53.86%,440,298
+ky,10003,Barren County,1002-6,Red Cross Elementary School,53.53%,,Y,53.86%,692,370
+ky,10003,Barren County,1005-1,Temple Hill Elementary School,56.91%,,Y,53.86%,311,177
+ky,10125,Bath County,1004-3,Bath County High School,59.52%,,Y,62.50%,543,323
+ky,10125,Bath County,1001-3,Bath County Middle School,63.13%,,Y,62.50%,468,295
+ky,10125,Bath County,1002-7,Crossroads Elementary School At-Risk,67.10%,,Y,62.50%,441,296
+ky,10125,Bath County,1003-2,Owingsville Elementary School Child Care,70.93%,,Y,62.50%,532,377
+ky,10125,Bath County,1006-2,Second Chance Academy,0.00%,,Y,62.50%,8,0
+ky,10070,Beechwood Independent,1000-7,Beechwood Elem/High School,0.00%,,N,,,
+ky,10126,Bell County,1006-3,Bell Central School Center,67.22%,,Y,62.50%,542,364
+ky,10126,Bell County,1008-2,Bell County High School,64.53%,,Y,62.50%,720,465
+ky,10126,Bell County,1007-1,Frakes School Center,77.04%,,Y,62.50%,133,102
+ky,10126,Bell County,1002-8,Lone Jack School Center,83.67%,,Y,62.50%,164,137
+ky,10126,Bell County,1003-3,Page School Center,71.82%,,Y,62.50%,335,241
+ky,10126,Bell County,1004-4,Right Fork School Center,81.13%,,Y,62.50%,176,143
+ky,10126,Bell County,1000-8,Yellow Creek School Center,81.56%,,Y,62.50%,678,553
+ky,10022,Bellevue Independent,1001-4,Bellevue High School,52.57%,,Y,59.31%,371,195
+ky,10022,Bellevue Independent,1000-9,Grandview Elementary School,58.12%,,Y,59.31%,408,237
+ky,10084,Berea Independent,1003-4,Berea Community Elementary/Middle/High,54.82%,,Y,54.82%,1173,643
+ky,10050,Bluegrass Challenge Academy,1000-10,Bluegrass Challenge Academy,0.00%,,N,,,
+ky,10128,Boone County,1019,AM Yealey Elementary School,37.76%,,N,,580,219
+ky,10128,Boone County,1009-1,Boone County High School,36.93%,,N,,1354,500
+ky,10128,Boone County,1003-5,Burlington Elementary School,38.62%,,N,,870,336
+ky,10128,Boone County,1024,Camp Ernst Middle School,23.66%,,N,,,
+ky,10128,Boone County,1008-3,Charles H Kelly Elementary School,30.70%,,N,,228,70
+ky,10128,Boone County,1002-9,Chester Goodridge Elementary School,36.85%,,N,,749,276
+ky,10128,Boone County,1016,Conner High School,21.27%,,N,,,
+ky,10128,Boone County,1022,Conner Middle School,23.86%,,N,,,
+ky,10128,Boone County,1027,Erpenbeck Elementary School,17.06%,,N,,,
+ky,10128,Boone County,1004-5,Florence Elementary School,62.31%,,Y,62.50%,971,605
+ky,10128,Boone County,1005-2,Gray Middle School,17.80%,,N,,,
+ky,10128,Boone County,1012,Hillard Collins Elementary School,75.00%,,Y,62.50%,852,639
+ky,10128,Boone County,1013,Larry A Ryle High School,20.40%,,N,,,
+ky,10128,Boone County,1015,Longbranch Elementary School,14.89%,,N,,,
+ky,10128,Boone County,1020,New Haven Elementary School,24.23%,,N,,,
+ky,10128,Boone County,1011-0,North Pointe Elementary School,16.97%,,N,,,
+ky,10128,Boone County,1025,Ockerman Elementary School,52.64%,,Y,62.50%,796,419
+ky,10128,Boone County,1018,Ockerman Middle School,25.93%,,N,,,
+ky,10128,Boone County,1000-11,Randall K Cooper High School,18.46%,,N,,,
+ky,10128,Boone County,1010-1,Rector A Jones Middle School,63.31%,,Y,62.50%,744,471
+ky,10128,Boone County,1014,Shirley Mann Elementary School,12.39%,,N,,,
+ky,10128,Boone County,1007-2,Stephens Elementary School,33.18%,,N,,660,219
+ky,10128,Boone County,1031,Thornwilde Elementary School,24.35%,,N,,,
+ky,10129,Bourbon County,1002-10,Bourbon Central Elementary School,58.42%,,Y,53.59%,553,323
+ky,10129,Bourbon County,1006-4,Bourbon County High School,44.47%,,Y,53.59%,798,355
+ky,10129,Bourbon County,1001-5,Bourbon County Middle School,46.00%,,Y,53.59%,660,304
+ky,10129,Bourbon County,1005-3,Bourbon County Preschool Head Start,75.55%,,Y,53.59%,251,190
+ky,10129,Bourbon County,1007-3,Cane Ridge Elementary School,56.69%,,Y,53.59%,479,272
+ky,10129,Bourbon County,1003-6,North Middletown Elementary School,60.76%,,Y,53.59%,159,97
+ky,10234,Bowling Green Independent,1009-2,Bowling Green High School,40.54%,,Y,52.30%,1229,498
+ky,10234,Bowling Green Independent,1007-4,Bowling Green Junior High,48.91%,,Y,52.30%,957,468
+ky,10234,Bowling Green Independent,1006-5,Dishman McGinnis Elementary School,85.21%,,Y,52.30%,502,428
+ky,10234,Bowling Green Independent,1008-4,Parker-Bennett-Curry School,83.75%,,Y,52.30%,301,252
+ky,10234,Bowling Green Independent,1010-2,Potter Gray Elementary,22.72%,,Y,52.30%,407,92
+ky,10234,Bowling Green Independent,1000-12,T C Cherry Elementary School,65.38%,,Y,52.30%,378,247
+ky,10234,Bowling Green Independent,1011-1,The Academy At 11th Street,73.68%,,Y,52.30%,65,48
+ky,10234,Bowling Green Independent,1004-6,W R McNeill Elementary School,28.50%,,Y,52.30%,417,119
+ky,10131,Boyd County,1000-13,Boyd Co Early Childhood Learning Ctr Nor,90.12%,,N,,81,73
+ky,10131,Boyd County,1006-6,Boyd Co Early Childhood Learning Ctr Sou,86.24%,,N,,109,94
+ky,10131,Boyd County,1010-3,Boyd County High School,45.94%,,Y,55.91%,870,400
+ky,10131,Boyd County,1002-11,Boyd County Middle School,47.45%,,Y,55.91%,721,342
+ky,10131,Boyd County,1004-7,Cannonsburg Elementary School,69.63%,,Y,55.91%,280,195
+ky,10131,Boyd County,1011-2,Catlettsburg Elementary School,69.58%,,Y,55.91%,283,197
+ky,10131,Boyd County,1007-5,Ponderosa Elementary School,45.99%,,Y,55.91%,381,175
+ky,10131,Boyd County,1012-0,Summit Elementary School,52.60%,,Y,55.91%,479,252
+ky,10131,Boyd County,1001-6,Boyd County Learning Center - The Heritage Building,0.00%,,Y,55.91%,191,0
+ky,10012,Boyle County,1000-14,Boyle County High School,33.45%,,N,,879,294
+ky,10012,Boyle County,1003-7,Boyle County Middle School,39.29%,,N,,649,255
+ky,10012,Boyle County,1005-4,Junction City Elementary School,61.94%,,Y,59.67%,391,242
+ky,10012,Boyle County,1006-7,Perryville Elementary School,51.12%,,Y,59.67%,281,144
+ky,10012,Boyle County,1001-7,Woodlawn Elementary School,34.91%,,N,,613,214
+ky,10014,Bracken County,1000-15,Bracken County High School,42.36%,,Y,54.02%,391,166
+ky,10014,Bracken County,1002-12,Bracken County Middle School,56.00%,,Y,54.02%,292,164
+ky,10014,Bracken County,1001-8,Taylor Elementary School,55.56%,,Y,54.02%,609,338
+ky,10016,Breathitt County,1009-3,Breathitt County Day Treatment Ctr Alt,0.00%,,N,,,
+ky,10016,Breathitt County,1002-13,Breathitt County High School,68.38%,,Y,62.50%,849,581
+ky,10016,Breathitt County,1007-6,Highland-Turner Elementary School,77.68%,,Y,62.50%,223,173
+ky,10016,Breathitt County,1004-8,L B J Elementary School,72.79%,,Y,62.50%,546,397
+ky,10016,Breathitt County,1008-5,Marie Roberts-Caney Elementary School,70.38%,,Y,62.50%,303,213
+ky,10016,Breathitt County,1003-8,Sebastian Middle School,70.21%,,N,,282,198
+ky,10017,Breckinridge County,1001-9,Ben Johnson Elementary School,51.87%,,Y,56.70%,261,135
+ky,10017,Breckinridge County,1003-9,Breckinridge County High School,46.88%,,Y,47.85%,836,392
+ky,10017,Breckinridge County,1002-14,Breckinridge County Middle School,50.24%,,Y,56.55%,626,315
+ky,10017,Breckinridge County,1000-16,Custer Elementary School,67.13%,,Y,62.50%,199,134
+ky,10017,Breckinridge County,1004-9,Hardinsburg Elementary School,56.93%,,Y,60.92%,476,271
+ky,10017,Breckinridge County,1005-5,Irvington Elementary School,60.59%,,Y,62.50%,381,231
+ky,10139,Bullitt County,1024-0,Bernheim Middle School,42.86%,,Y,54.55%,435,186
+ky,10139,Bullitt County,1013-0,Brooks Elementary School,59.34%,,Y,54.55%,489,290
+ky,10139,Bullitt County,1006-8,Bullitt Alternative Center,37.28%,,N,,169,63
+ky,10139,Bullitt County,1012-1,Bullitt Central High School,45.00%,,N,,1311,590
+ky,10139,Bullitt County,1018-0,Bullitt East High School,22.65%,,N,,,
+ky,10139,Bullitt County,1022-0,Bullitt Lick Middle School,54.71%,,Y,54.55%,526,288
+ky,10139,Bullitt County,1019-0,Cedar Grove Elementary,43.15%,,Y,54.55%,546,236
+ky,10139,Bullitt County,1002-15,Crossroads Elementary,49.81%,,Y,54.55%,543,270
+ky,10139,Bullitt County,1016-0,Eastside Middle School,19.71%,,N,,,
+ky,10139,Bullitt County,1014-0,Freedom Elementary School,34.89%,,N,,470,164
+ky,10139,Bullitt County,1005-6,Hebron Middle School,40.00%,,N,,470,188
+ky,10139,Bullitt County,1001-10,Lebanon Junction Elementary,55.70%,,Y,54.55%,404,225
+ky,10139,Bullitt County,1021,Maryville Elementary School,56.49%,,Y,54.55%,360,203
+ky,10139,Bullitt County,1025-0,Mt Washington Elementary,20.76%,,N,,,
+ky,10139,Bullitt County,1003-10,Mt Washington Middle School,32.85%,,N,,481,158
+ky,10139,Bullitt County,1000-17,Nichols Elementary,57.79%,,Y,54.55%,141,81
+ky,10139,Bullitt County,1004-10,North Bullitt High School,33.52%,,N,,1241,416
+ky,10139,Bullitt County,1008-6,Old Mill Elementary School,31.25%,,N,,512,160
+ky,10139,Bullitt County,1015-0,Overdale Elementary School,55.94%,,Y,54.55%,406,227
+ky,10139,Bullitt County,1023,Pleasant Grove Elementary School,25.54%,,N,,,
+ky,10139,Bullitt County,1011-3,Roby Elementary School,49.38%,,Y,54.55%,496,245
+ky,10139,Bullitt County,1007-7,Shepherdsville Elementary School,57.74%,,Y,54.55%,536,309
+ky,10139,Bullitt County,1017,Zoneton Middle School,46.67%,,Y,54.55%,438,204
+ky,10091,Burgin Independent,1000-18,Burgin Independent School,38.96%,,N,,539,210
+ky,10019,Butler County,1000-19,Butler County High School,51.38%,,Y,56.77%,652,335
+ky,10019,Butler County,1002-16,Butler County Learning Center,82.35%,,Y,56.77%,24,20
+ky,10019,Butler County,1001-11,Butler County Middle School,54.51%,,Y,56.77%,483,263
+ky,10019,Butler County,1005-7,Morgantown Elementary School,64.58%,,Y,56.77%,661,427
+ky,10019,Butler County,1004-11,North Butler Elementary,53.72%,,Y,56.77%,417,224
+ky,10140,Caldwell County,1002-17,Caldwell County Elementary School,55.94%,,Y,53.78%,486,272
+ky,10140,Caldwell County,1005-8,Caldwell County High School,42.71%,,Y,53.78%,608,260
+ky,10140,Caldwell County,1004-12,Caldwell County Middle School,49.28%,,Y,53.78%,428,211
+ky,10140,Caldwell County,1000-20,Caldwell County Primary School,63.99%,,Y,53.78%,607,388
+ky,10020,Calloway County,1000-21,Calloway Co Day Treatment/Calloway Co Alt Program,75.51%,,Y,45.33%,47,35
+ky,10020,Calloway County,1005-9,Calloway County High School,39.98%,,Y,45.33%,831,332
+ky,10020,Calloway County,1003-11,Calloway County Middle School,50.15%,,Y,54.03%,683,343
+ky,10020,Calloway County,1002-18,Calloway County Preschool Center,79.71%,,Y,54.03%,206,164
+ky,10020,Calloway County,1001-12,East Calloway Elementary School,62.88%,,Y,54.03%,307,193
+ky,10020,Calloway County,1006-9,North Calloway Elementary School,59.49%,,Y,54.03%,552,328
+ky,10020,Calloway County,1004-13,Southwest Calloway Elementary School,34.30%,,Y,54.03%,447,153
+ky,10143,Campbell County,1015-1,Campbell County Day Treatment Ctr Alt,91.89%,,Y,51.09%,34,31
+ky,10143,Campbell County,1003-12,Campbell County High School,29.77%,,N,,,
+ky,10143,Campbell County,1013-1,Campbell County Middle School,36.00%,,N,,1086,391
+ky,10143,Campbell County,1000-22,Campbell Ridge Elementary,39.65%,,N,,623,247
+ky,10143,Campbell County,1006-10,Crossroads Elementary School,50.33%,,Y,51.09%,742,373
+ky,10143,Campbell County,1005-10,Donald E Cline Elementary School,42.68%,,Y,51.09%,371,158
+ky,10143,Campbell County,1017-0,Grant's Lick Elementary School,27.07%,,N,,,
+ky,10143,Campbell County,1014-1,John W Reiley Elementary School,33.77%,,N,,456,154
+ky,10231,Campbellsville Independent,1003-13,Campbellsville Elementary,60.61%,,Y,62.50%,667,404
+ky,10231,Campbellsville Independent,1001-13,Campbellsville MS/Campbellsville HS,73.94%,,Y,62.50%,543,401
+ky,10146,Carlisle County,1002-19,Carlisle Cty MS/Carlisle Cty ES/Carlisle Cty HS,50.30%,,Y,51.03%,780,392
+ky,10026,Carroll County,1002-20,Carroll Co Alternative School,78.26%,,N,,23,18
+ky,10026,Carroll County,1008-7,Carroll County Childhood Development Center,97.56%,,Y,61.58%,205,200
+ky,10026,Carroll County,1000-23,Carroll County High School,46.25%,,Y,61.58%,609,282
+ky,10026,Carroll County,1003-14,Carroll County Middle School,62.62%,,Y,61.58%,420,263
+ky,10026,Carroll County,1007-8,Cartmell Elementary,62.40%,,Y,61.58%,492,307
+ky,10026,Carroll County,1004-14,Kathryn Winn Primary,62.42%,,Y,61.58%,471,294
+ky,10147,Carter County,1006-11,Carter City Elementary School,60.14%,,Y,60.08%,135,81
+ky,10147,Carter County,1004-15,East Carter County High School,49.71%,,Y,60.08%,680,338
+ky,10147,Carter County,1000-24,East Carter Middle School,54.45%,,Y,60.08%,566,308
+ky,10147,Carter County,1011-4,Heritage Elementary School,66.04%,,Y,60.08%,357,236
+ky,10147,Carter County,1009-4,Olive Hill Elementary School,65.27%,,Y,60.08%,437,285
+ky,10147,Carter County,1003-15,Prichard Elementary School,62.36%,,Y,60.08%,708,442
+ky,10147,Carter County,1002-21,Star Elementary School,53.28%,,Y,60.08%,135,72
+ky,10147,Carter County,1001-14,Tygart Creek Elementary School,67.65%,,Y,60.08%,394,267
+ky,10147,Carter County,1010-4,West Carter County High School,58.49%,,Y,60.08%,559,327
+ky,10147,Carter County,1008-8,West Carter Middle School,63.37%,,Y,60.08%,433,274
+ky,10027,Casey County,1009-5,Casey County High School,58.62%,,Y,62.50%,708,415
+ky,10027,Casey County,1008-9,Casey County Middle School,64.62%,,Y,62.50%,325,210
+ky,10027,Casey County,1000-25,Jones Park Elementary,72.15%,,Y,62.50%,413,298
+ky,10027,Casey County,1010-5,Liberty Elementary School,59.76%,,Y,62.50%,415,248
+ky,10027,Casey County,1004-16,Walnut Hill Elementary School,75.45%,,Y,62.50%,558,421
+ky,10038,Catholic School Bd Of Lexington,1015-2,Good Shepherd Elementary,9.88%,,N,,,
+ky,10038,Catholic School Bd Of Lexington,1006-12,Holy Family Elementary,11.35%,,N,,,
+ky,10038,Catholic School Bd Of Lexington,1005-11,Mary Queen Of Holy Rosary Elementary,15.37%,,N,,,
+ky,10038,Catholic School Bd Of Lexington,1017-1,Seton,5.12%,,N,,,
+ky,10038,Catholic School Bd Of Lexington,1013-2,St Agatha Academy Elementary,5.13%,,N,,,
+ky,10038,Catholic School Bd Of Lexington,1007-9,St John Elementary,4.79%,,N,,,
+ky,10038,Catholic School Bd Of Lexington,1008-10,St Leo Elementary,13.51%,,N,,,
+ky,10038,Catholic School Bd Of Lexington,1010-6,St Mark Elementary,16.67%,,N,,,
+ky,10073,Catholic School Bd. Of Covington,1007-10,Bishop Brossart High,5.91%,,N,,,
+ky,10073,Catholic School Bd. Of Covington,1028,Blessed Sacrament Elementary,2.74%,,N,,,
+ky,10073,Catholic School Bd. Of Covington,1017-2,Covington Catholic High,2.54%,,N,,,
+ky,10073,Catholic School Bd. Of Covington,1001-15,Covington Latin High,8.59%,,N,,,
+ky,10073,Catholic School Bd. Of Covington,1038,Holy Cross Elementary and High School,24.52%,,N,,,
+ky,10073,Catholic School Bd. Of Covington,1019-1,Holy Family Elementary,74.14%,,Y,60.07%,46,34
+ky,10073,Catholic School Bd. Of Covington,1018-1,Holy Trinity Elementary,64.71%,,Y,60.07%,109,71
+ky,10073,Catholic School Bd. Of Covington,1037,Holy Trinity Jr High School,56.41%,,N,,39,22
+ky,10073,Catholic School Bd. Of Covington,1005-12,Immaculate Heart Of Mary Elementary,2.58%,,N,,,
+ky,10073,Catholic School Bd. Of Covington,1000-26,Mary Queen Of Heaven Elementary,7.23%,,N,,,
+ky,10073,Catholic School Bd. Of Covington,1025-1,Newport Central Catholic HS,11.04%,,N,,,
+ky,10073,Catholic School Bd. Of Covington,1014-2,Prince Of Peace Elementary,14.89%,,N,,,
+ky,10073,Catholic School Bd. Of Covington,1016-1,St Agnes Elementary,4.37%,,N,,,
+ky,10073,Catholic School Bd. Of Covington,1010-7,St Augustine Elementary,26.19%,,N,,,
+ky,10073,Catholic School Bd. Of Covington,1027-0,St Augustine Elementary,54.93%,,Y,60.07%,128,70
+ky,10073,Catholic School Bd. Of Covington,1003-16,St Catherine Of Siena Elementary,2.92%,,N,,,
+ky,10073,Catholic School Bd. Of Covington,1023-0,St Cecilia Elementary,6.81%,,N,,,
+ky,10073,Catholic School Bd. Of Covington,1015-3,St Edward Elementary,8.47%,,N,,,
+ky,10073,Catholic School Bd. Of Covington,1033,St Henry Elementary,6.95%,,N,,,
+ky,10073,Catholic School Bd. Of Covington,1032,St Henry High School,3.72%,,N,,,
+ky,10073,Catholic School Bd. Of Covington,1029,St Joseph Elem-Crescent Spring,7.72%,,N,,,
+ky,10073,Catholic School Bd. Of Covington,1013-3,St Joseph Elementary-Cold Spring,3.07%,,N,,,
+ky,10073,Catholic School Bd. Of Covington,1006-13,St Mary Elementary,1.75%,,N,,,
+ky,10073,Catholic School Bd. Of Covington,1004-17,St Patrick's School,40.00%,,N,,200,80
+ky,10073,Catholic School Bd. Of Covington,1035,St Paul Elementary-Florence,3.26%,,N,,,
+ky,10073,Catholic School Bd. Of Covington,1002-22,St Peter and Paul Elementary,9.43%,,N,,,
+ky,10073,Catholic School Bd. Of Covington,1026,St Philip Elementary,12.68%,,N,,,
+ky,10073,Catholic School Bd. Of Covington,1011-5,St Pius X Elementary,3.44%,,N,,,
+ky,10073,Catholic School Bd. Of Covington,1031-0,St Therese Elementary,14.80%,,N,,,
+ky,10073,Catholic School Bd. Of Covington,1034,St Thomas Elementary,4.57%,,N,,,
+ky,10073,Catholic School Bd. Of Covington,1039,St. Timothy Elementary School,7.50%,,N,,,
+ky,10154,Catholic School Bd. Of Owensboro,1006-14,Christ The King Elementary,26.19%,,N,,,
+ky,10154,Catholic School Bd. Of Owensboro,1011-6,Holy Name Elementary,12.98%,,N,,,
+ky,10154,Catholic School Bd. Of Owensboro,1000-27,John Paul II Catholic School,16.04%,,N,,,
+ky,10154,Catholic School Bd. Of Owensboro,1016-2,Mary Carrico Memorial Elementary,0.00%,,N,,,
+ky,10154,Catholic School Bd. Of Owensboro,1010-8,Owensboro Catholic Elementary 4-6,8.36%,,N,,,
+ky,10154,Catholic School Bd. Of Owensboro,1002-23,Owensboro Catholic Elementary K-3,12.21%,,N,,,
+ky,10154,Catholic School Bd. Of Owensboro,1007-11,Owensboro Catholic High School,5.66%,,N,,,
+ky,10154,Catholic School Bd. Of Owensboro,1008-11,Owensboro Catholic Middle School,13.40%,,N,,,
+ky,10154,Catholic School Bd. Of Owensboro,1009-6,St Joseph Interparochial School,11.28%,,N,,,
+ky,10154,Catholic School Bd. Of Owensboro,1001-16,St Mary Elementary,7.95%,,N,,,
+ky,10154,Catholic School Bd. Of Owensboro,1005-13,St Mary Middle & High School,5.65%,,N,,,
+ky,10154,Catholic School Bd. Of Owensboro,1015-4,St Romuald Elementary,12.92%,,N,,,
+ky,10154,Catholic School Bd. Of Owensboro,1012-2,Sts Peter and Paul School,20.55%,,N,,,
+ky,10154,Catholic School Bd. Of Owensboro,1003-17,Trinity High School,17.60%,,N,,,
+ky,10124,Caverna Independent,1000-28,Caverna Elementary School,79.29%,,Y,62.50%,327,259
+ky,10124,Caverna Independent,1001-17,Caverna High School/Caverna Middle School,73.31%,,Y,62.50%,332,243
+ky,10148,Christian County,1021-0,Christian County Alternative School,80.56%,,Y,62.10%,104,84
+ky,10148,Christian County,1006-15,Christian County Day Treatment Ctr Alt,65.38%,,Y,62.10%,20,13
+ky,10148,Christian County,1010-9,Christian County High School,59.57%,,Y,62.10%,1228,732
+ky,10148,Christian County,1009-7,Christian County Middle School,63.36%,,Y,62.10%,664,421
+ky,10148,Christian County,1015-5,Crofton Elementary School,60.94%,,Y,62.10%,423,258
+ky,10148,Christian County,1014-3,Freedom Elementary,82.83%,,Y,62.10%,660,547
+ky,10148,Christian County,1012-3,Hopkinsville High School,51.53%,,Y,62.10%,1055,544
+ky,10148,Christian County,1005-14,Hopkinsville Middle School,57.14%,,Y,62.10%,566,323
+ky,10148,Christian County,1003-18,Indian Hills Elementary,72.98%,,Y,62.10%,518,378
+ky,10148,Christian County,1000-29,Martin Luther King Jr Elementary School,81.43%,,Y,62.10%,682,555
+ky,10148,Christian County,1016-3,Millbrooke Elementary School,47.00%,,Y,62.10%,760,357
+ky,10148,Christian County,1001-18,Pembroke Elementary School,57.09%,,Y,62.10%,781,446
+ky,10148,Christian County,1017-3,Sinking Fork Elementary School,60.36%,,Y,62.10%,473,286
+ky,10148,Christian County,1007-12,South Christian Elementary School,56.91%,,Y,62.10%,687,391
+ky,10149,Clark County,1045,Baker Intermediate School,54.49%,,Y,55.14%,830,452
+ky,10149,Clark County,1047,Campbell Jr. High School,48.67%,,Y,55.14%,852,415
+ky,10149,Clark County,1007-13,Clark County Preschool,82.85%,,Y,55.14%,271,225
+ky,10149,Clark County,1044,Conkwright Elementary,63.17%,,Y,55.14%,487,308
+ky,10149,Clark County,1003-19,George Rogers Clark High School,43.37%,,Y,55.14%,1512,656
+ky,10149,Clark County,1009-8,Phoenix Academy,80.00%,,Y,55.14%,48,38
+ky,10149,Clark County,1001-19,Shearer Elementary School,58.62%,,Y,55.14%,410,240
+ky,10149,Clark County,1000-30,Strode Station Elementary,55.01%,,Y,55.14%,522,287
+ky,10149,Clark County,1035-0,Willis H. Justice Elementary,59.91%,,Y,55.14%,456,273
+ky,10030,Clay County,1006-16,Big Creek Elementary,80.91%,,Y,62.50%,201,163
+ky,10030,Clay County,1007-14,Burning Springs Elementary,76.59%,,Y,62.50%,303,232
+ky,10030,Clay County,1005-15,Clay County High School,63.32%,,Y,62.50%,812,514
+ky,10030,Clay County,1012-4,Clay County Middle School,68.56%,,Y,62.50%,479,328
+ky,10030,Clay County,1010-10,Goose Rock Elementary,79.19%,,Y,62.50%,220,174
+ky,10030,Clay County,1011-7,Hacker Elementary School,63.28%,,Y,62.50%,310,196
+ky,10030,Clay County,1003-20,Manchester Elementary School,68.26%,,Y,62.50%,443,302
+ky,10030,Clay County,1002-24,Oneida Elementary School,78.63%,,Y,62.50%,121,95
+ky,10030,Clay County,1009-9,Paces Creek Elementary,79.43%,,Y,62.50%,295,234
+ky,10151,Clinton County,1004-18,Albany Elementary School,66.54%,,Y,62.50%,488,325
+ky,10151,Clinton County,1003-21,Clinton County Early Childhood Center,67.69%,,Y,62.50%,270,183
+ky,10151,Clinton County,1005-16,Clinton County High School,55.60%,,Y,62.50%,467,260
+ky,10151,Clinton County,1002-25,Clinton County Middle School,64.89%,,Y,62.50%,502,326
+ky,10138,Cloverport Independent,1002-26,Frederick Fraize Elementary\Middle\High School,57.40%,,Y,60.48%,372,214
+ky,10237,Corbin Independent,1004-19,Corbin Educational Center,92.31%,,Y,50.91%,35,32
+ky,10237,Corbin Independent,1002-27,Corbin Elementary,53.10%,,Y,50.91%,408,217
+ky,10237,Corbin Independent,1009-10,Corbin High School,40.26%,,Y,50.91%,899,362
+ky,10237,Corbin Independent,1010-11,Corbin Intermediate,50.90%,,N,,446,227
+ky,10237,Corbin Independent,1008-12,Corbin Middle School,48.59%,,Y,50.91%,700,340
+ky,10237,Corbin Independent,1007-15,Corbin Preschool,58.45%,,Y,50.91%,145,85
+ky,10237,Corbin Independent,1000-31,Corbin Primary,59.90%,,Y,50.91%,794,476
+ky,10237,Corbin Independent,1110,Corbin School of Innovation,0.00%,,Y,50.91%,93,0
+ky,10192,Covington Independent,1006-17,Biggs Early Childhood Education Ctr,58.33%,,Y,62.50%,445,260
+ky,10192,Covington Independent,1003-22,Glenn O Swing Elementary,76.79%,,Y,62.50%,454,349
+ky,10192,Covington Independent,1016-4,Holmes Campus,67.41%,,Y,62.50%,1499,1010
+ky,10192,Covington Independent,1015-6,John G Carlisle Elementary,78.15%,,Y,62.50%,312,244
+ky,10192,Covington Independent,1011-8,Latonia Elementary School,74.47%,,Y,62.50%,389,290
+ky,10192,Covington Independent,1010-12,Ninth District Elementary,81.64%,,Y,62.50%,395,322
+ky,10192,Covington Independent,1000-32,Sixth District Elementary School,78.91%,,Y,62.50%,418,330
+ky,10192,Covington Independent,1013-4,Transformational Learning Center,65.48%,,Y,62.50%,90,59
+ky,10031,Crittenden County,1004-20,Crittenden County Elementary School,51.71%,,Y,52.39%,695,359
+ky,10031,Crittenden County,1005-17,Crittenden Cty HS /Crittenden Cty MS,44.19%,,Y,52.39%,704,311
+ky,10152,Cumberland County,1000-33,Cumberland County Elementary School,66.21%,,Y,62.50%,428,283
+ky,10152,Cumberland County,1003-23,Cumberland County High School,61.03%,,Y,62.50%,258,157
+ky,10152,Cumberland County,1002-28,Cumberland County Middle School,64.71%,,Y,62.50%,207,134
+ky,10152,Cumberland County,1023-1,Burkesville Head Start,0.00%,,Y,62.50%,67,0
+ky,10133,Danville Independent,1003-24,Bate Middle School,55.67%,,Y,59.74%,406,226
+ky,10133,Danville Independent,1006-18,Danville High School,48.30%,,Y,59.74%,512,247
+ky,10133,Danville Independent,1007-16,Hogsett Elementary School,72.24%,,Y,59.74%,421,304
+ky,10133,Danville Independent,1002-29,Jennie Rogers Elementary School,59.74%,,N,,303,181
+ky,10133,Danville Independent,1005-18,Toliver Elementary School,55.13%,,Y,59.74%,586,323
+ky,10153,Daviess County,1010-13,Apollo High School,37.70%,,N,,1366,515
+ky,10153,Daviess County,1003-25,Audubon Elementary School,44.86%,,N,,486,218
+ky,10153,Daviess County,1023-2,College View Middle School,37.82%,,N,,891,337
+ky,10153,Daviess County,1013-5,Country Heights Elementary School,32.59%,,N,,491,160
+ky,10153,Daviess County,1005-19,Daviess County High School,27.37%,,N,,,
+ky,10153,Daviess County,1097,Daviess County Learning Center,0.00%,,N,,,
+ky,10153,Daviess County,1022-1,Daviess County Middle School,36.11%,,N,,839,303
+ky,10153,Daviess County,1006-19,Deer Park Elementary School,51.37%,,N,,619,318
+ky,10153,Daviess County,1008-13,East View Elementary School,50.73%,,N,,550,279
+ky,10153,Daviess County,1018-2,F T Burns Elementary School,57.22%,,N,,561,321
+ky,10153,Daviess County,1019-2,F T Burns Middle School,44.44%,,N,,873,388
+ky,10153,Daviess County,1024-1,Heritage Park High School,68.27%,,N,,208,142
+ky,10153,Daviess County,1002-30,Highland Elementary School,27.82%,,N,,,
+ky,10153,Daviess County,1012-5,Meadow Lands Elementary School,60.00%,,N,,460,276
+ky,10153,Daviess County,1011-9,Owensboro Treatment Center Alternative,0.00%,,N,,,
+ky,10153,Daviess County,1007-17,Sorgho Elementary School,43.95%,,N,,471,207
+ky,10153,Daviess County,1020-0,Southern Oaks Elementary School,43.70%,,N,,460,201
+ky,10153,Daviess County,1000-34,Tamarack Elementary School,51.74%,,N,,547,283
+ky,10153,Daviess County,1015-7,West Louisville Elementary School,43.24%,,N,,370,160
+ky,10153,Daviess County,1009-11,Whitesville Elementary School,33.90%,,N,,354,120
+ky,10177,Dawson Springs Independent,1005-20,Dawson Springs ES/Jr High/High School,62.27%,,Y,62.50%,627,390
+ky,10023,Dayton Independent,1000-35,Dayton High School,72.80%,,Y,62.50%,363,264
+ky,10023,Dayton Independent,1001-20,Lincoln Elementary School,77.50%,,Y,62.50%,582,451
+ky,10023,Dayton Independent,1005-21,NORTHERN KY COOP FOR ED SVRC,72.73%,,Y,62.50%,40,29
+ky,10077,East Bernstadt Independent,1000-36,East Bernstadt Elementary School,54.78%,,Y,55.62%,525,288
+ky,10034,Edmonson County,1006-20,Edmonson County 5/6 Center,51.99%,,Y,53.16%,270,140
+ky,10034,Edmonson County,1004-21,Edmonson County High School,47.91%,,Y,53.16%,558,267
+ky,10034,Edmonson County,1003-26,Edmonson County Middle School,50.16%,,Y,53.16%,298,149
+ky,10034,Edmonson County,1001-21,Kyrock Elementary School,64.02%,,Y,53.16%,322,206
+ky,10034,Edmonson County,1000-37,South Edmonson Elementary School,51.71%,,Y,53.16%,501,259
+ky,10170,Elizabethtown Independent,1004-22,Elizabethtown High School,34.75%,,N,,754,262
+ky,10170,Elizabethtown Independent,1006-21,Helmwood Heights Elementary School,58.62%,,Y,50.71%,406,238
+ky,10170,Elizabethtown Independent,1003-27,Morningside ES/Talton Stone MS,45.02%,,Y,50.71%,1024,461
+ky,10170,Elizabethtown Independent,1008-14,Panther Academy,57.94%,,Y,50.71%,233,135
+ky,10170,Elizabethtown Independent,1005-22,Valley View Education Center,85.19%,,Y,50.71%,27,23
+ky,10155,Elliott County,1002-31,Elliott County High School,65.16%,,Y,62.50%,491,320
+ky,10155,Elliott County,1001-22,Isonville Elementary School,70.21%,,Y,62.50%,78,55
+ky,10155,Elliott County,1000-38,Lakeside Elementary School,71.07%,,Y,62.50%,166,118
+ky,10155,Elliott County,1003-28,Sandy Hook Elementary School,66.92%,,Y,62.50%,276,185
+ky,10055,Eminence Independent,1000-39,Eminence Elementary School,50.62%,,Y,56.83%,410,208
+ky,10055,Eminence Independent,1001-23,Eminence High School/Eminence Middle School,43.96%,,Y,48.55%,414,182
+ky,10072,Erlanger-Elsmere Independent,1002-32,Arnett Elementary School,82.73%,,Y,59.53%,466,386
+ky,10072,Erlanger-Elsmere Independent,1004-23,Howell Elementary School,68.39%,,Y,59.53%,311,213
+ky,10072,Erlanger-Elsmere Independent,1003-29,Lindeman Elementary School,65.96%,,Y,59.53%,336,222
+ky,10072,Erlanger-Elsmere Independent,1005-23,Lloyd High School,53.02%,,Y,59.53%,615,326
+ky,10072,Erlanger-Elsmere Independent,1000-40,Miles Elementary School,54.81%,,Y,59.53%,278,152
+ky,10072,Erlanger-Elsmere Independent,1001-24,Tichenor Middle School,62.61%,,Y,59.53%,658,412
+ky,10035,Estill County,1005-24,Estill County Alternative School,100.00%,,Y,62.50%,25,25
+ky,10035,Estill County,1003-30,Estill County High School,58.36%,,Y,62.50%,671,392
+ky,10035,Estill County,1006-22,Estill County Middle School,61.67%,,Y,62.50%,515,318
+ky,10035,Estill County,1007-18,Estill Springs Elementary School,66.00%,,Y,62.50%,465,307
+ky,10035,Estill County,1000-41,South Irvine P-k Center,63.35%,,Y,62.50%,187,118
+ky,10035,Estill County,1001-25,West Irvine Elementary,69.94%,,Y,62.50%,512,358
+ky,10011,Fairview Independent,1001-26,Fairview Elementary School,65.65%,,Y,61.05%,332,218
+ky,10011,Fairview Independent,1002-33,Fairview High School,55.74%,,Y,61.05%,392,219
+ky,10064,Father Maloney's Boys Haven,1000-42,FMBH Dempsey Cottage,0.00%,,N,,,
+ky,10064,Father Maloney's Boys Haven,1001-27,FMBH Kelly Cottage,0.00%,,N,,,
+ky,10064,Father Maloney's Boys Haven,1002-34,Wachtel Cottage,0.00%,,N,,,
+ky,10037,Fayette County,1004-24,Arlington Elementary School,79.19%,,Y,61.70%,313,248
+ky,10037,Fayette County,1067,Ashland Elementary School,34.45%,,Y,61.70%,312,107
+ky,10037,Fayette County,1057,Athens-Chilesburg Elementary,14.74%,,N,,,
+ky,10037,Fayette County,1043,Beaumont Middle School,29.00%,,N,,,
+ky,10037,Fayette County,1177,Booker T Washington Elementary School,75.14%,,Y,61.70%,298,224
+ky,10037,Fayette County,1007-19,Bryan Station High School,53.02%,,Y,61.70%,1505,798
+ky,10037,Fayette County,1042,Bryan Station Middle School,50.00%,,Y,61.70%,722,361
+ky,10037,Fayette County,1008-15,Cardinal Valley Elementary School,72.15%,,Y,61.70%,631,455
+ky,10037,Fayette County,1094,Carter G. Woodson,50.72%,,Y,61.70%,230,117
+ky,10037,Fayette County,1060,Cassidy Elementary School,24.97%,,N,,,
+ky,10037,Fayette County,1071,Clays Mill Elementary School,23.91%,,N,,,
+ky,10037,Fayette County,1178,Coventry Oak Elementary,55.43%,,Y,61.70%,604,335
+ky,10037,Fayette County,1041,Crawford Middle School,69.74%,,Y,61.70%,732,510
+ky,10037,Fayette County,1024-2,Deep Springs Elementary School,66.25%,,Y,61.70%,550,364
+ky,10037,Fayette County,1006-23,Dixie Elementary Magnet School,52.06%,,Y,61.70%,588,306
+ky,10037,Fayette County,1072,Edythe Jones Hayes Middle School,28.73%,,N,,,
+ky,10037,Fayette County,1140,Fayette County Preschool Center,50.46%,,Y,61.70%,107,54
+ky,10037,Fayette County,1191,Frederick Douglas High School,46.95%,,Y,61.70%,1202,564
+ky,10037,Fayette County,1046,Garden Springs Elementary School,37.77%,,N,,466,176
+ky,10037,Fayette County,1179,Garrett Morgan Elementary,30.30%,,N,,736,223
+ky,10037,Fayette County,1018-3,Glendover Elementary School,32.66%,,Y,61.70%,629,205
+ky,10037,Fayette County,1005-25,Harrison Elementary School,86.36%,,Y,61.70%,263,227
+ky,10037,Fayette County,1044-0,Henry Clay High School,33.26%,,N,,2150,715
+ky,10037,Fayette County,1066,James Lane Allen Elementary School,66.60%,,Y,61.70%,508,338
+ky,10037,Fayette County,1051,Jessie M Clark Middle School,30.67%,,N,,1053,323
+ky,10037,Fayette County,1073,Julius Marks Elementary School,56.47%,,Y,51.94%,586,331
+ky,10037,Fayette County,1076,Lafayette High School,26.14%,,N,,,
+ky,10037,Fayette County,1074,Lansdowne Elementary School,61.29%,,Y,61.70%,581,356
+ky,10037,Fayette County,1025-2,Leestown Middle School,53.57%,,Y,61.70%,928,497
+ky,10037,Fayette County,1059,Lexington Day Treatment Center,79.52%,,Y,61.70%,81,64
+ky,10037,Fayette County,1053,Lexington Trade Magnet School,66.93%,,Y,61.70%,458,307
+ky,10037,Fayette County,1048,Liberty Elementary,31.43%,,N,,719,226
+ky,10037,Fayette County,1045-0,Madeline M Breckinridge Elem School,71.52%,,Y,61.70%,613,438
+ky,10037,Fayette County,1009-12,Martin L King Academy For Excellence Alt,67.72%,,Y,61.70%,284,192
+ky,10037,Fayette County,1016-5,Mary Todd Elementary School,74.70%,,Y,61.70%,515,385
+ky,10037,Fayette County,1049,Maxwell Spanish Immersion Elem School,18.69%,,N,,,
+ky,10037,Fayette County,1065,Meadowthorpe Elementary School,42.54%,,Y,61.70%,511,217
+ky,10037,Fayette County,1022-2,Millcreek Elementary School,69.78%,,Y,61.70%,578,403
+ky,10037,Fayette County,1061,Morton Middle School,34.39%,,N,,727,250
+ky,10037,Fayette County,1052,Northern Elementary School,66.60%,,Y,61.70%,499,332
+ky,10037,Fayette County,1064,Opportunity Middle College,40.00%,,Y,61.70%,99,40
+ky,10037,Fayette County,1063,Paul Laurence Dunbar High School,32.70%,,N,,1991,651
+ky,10037,Fayette County,1023-3,Picadome Elementary School,55.89%,,Y,61.70%,515,288
+ky,10037,Fayette County,1062,Rosa Parks Elementary School,6.29%,,N,,,
+ky,10037,Fayette County,1013-6,Russell Cave Elementary School,69.18%,,Y,61.70%,292,202
+ky,10037,Fayette County,1026-0,Sandersville Elementary,30.11%,,N,,568,171
+ky,10037,Fayette County,1054,Scapa At Bluegrass,5.78%,,N,,,
+ky,10037,Fayette County,1031-1,Southern Elementary School,58.17%,,Y,61.70%,570,332
+ky,10037,Fayette County,1032-0,Southern Middle School,42.88%,,Y,61.70%,838,359
+ky,10037,Fayette County,1030,Squires Elementary School,49.38%,,Y,51.94%,494,244
+ky,10037,Fayette County,1139,STEAM,30.89%,,N,,314,97
+ky,10037,Fayette County,1012-6,Stonewall Elementary School,22.82%,,N,,,
+ky,10037,Fayette County,1058,Tates Creek Elementary School,67.16%,,Y,61.70%,662,445
+ky,10037,Fayette County,1021-1,Tates Creek High School,45.36%,,Y,61.70%,1744,791
+ky,10037,Fayette County,1020-1,Tates Creek Middle School,50.59%,,Y,61.70%,793,401
+ky,10037,Fayette County,1047-0,The Learning Center at Linlee,60.12%,,Y,61.70%,189,114
+ky,10037,Fayette County,1093,The Stables,57.14%,,Y,61.70%,48,27
+ky,10037,Fayette County,1033-0,Veterans Park Elementary School,16.81%,,N,,,
+ky,10037,Fayette County,1029-0,Wellington Elementary,28.37%,,N,,,
+ky,10037,Fayette County,1034-0,William Wells Brown Elementary,87.10%,,Y,61.70%,321,280
+ky,10037,Fayette County,1019-3,Winburn Middle School,63.43%,,Y,61.70%,793,503
+ky,10037,Fayette County,1056,Yates Elementary School,72.75%,,Y,61.70%,468,340
+ky,10037,Fayette County,1198,Success Academy,0.00%,,Y,61.70%,41,0
+ky,10159,Fleming County,1000-43,E P Ward Elementary School,67.05%,,Y,59.59%,173,116
+ky,10159,Fleming County,1001-28,Ewing Elementary School,65.23%,,Y,59.59%,302,197
+ky,10159,Fleming County,1003-31,Fleming County High School,54.46%,,Y,59.59%,707,385
+ky,10159,Fleming County,1002-35,Flemingsburg Elementary School,59.61%,,Y,59.59%,557,332
+ky,10159,Fleming County,1005-26,Hillsboro Elementary School,54.84%,,Y,59.59%,186,102
+ky,10159,Fleming County,1004-25,Simons Middle School,64.16%,,Y,59.59%,332,213
+ky,10160,Floyd County,1013-7,Allen Elementary School,75.00%,,Y,62.50%,508,381
+ky,10160,Floyd County,1009-13,Betsy Layne Elementary School,76.91%,,Y,62.50%,647,498
+ky,10160,Floyd County,1012-7,Betsy Layne High School,63.85%,,Y,62.50%,358,229
+ky,10160,Floyd County,1015-8,Duff-Allen Central Elementary,69.97%,,Y,62.50%,626,438
+ky,10160,Floyd County,1032-1,Floyd Central High School,66.09%,,Y,62.50%,628,415
+ky,10160,Floyd County,1008-16,James D Adams Middle School,52.38%,,Y,62.50%,335,175
+ky,10160,Floyd County,1010-14,John M Stumbo Elementary School,78.50%,,Y,62.50%,356,279
+ky,10160,Floyd County,1005-27,May Valley Elementary School,66.29%,,Y,62.50%,332,220
+ky,10160,Floyd County,1014-4,Prestonsburg Elementary School,68.26%,,Y,62.50%,694,474
+ky,10160,Floyd County,1011-10,Prestonsburg High School,56.70%,,Y,62.50%,448,254
+ky,10160,Floyd County,1007-20,Renaissance Learning Center,90.63%,,Y,62.50%,39,35
+ky,10160,Floyd County,1017-4,South Floyd Elementary School,81.41%,,Y,62.50%,726,591
+ky,10041,Frankfort Independent,1000-44,Frankfort High School,57.49%,,Y,55.02%,247,142
+ky,10041,Frankfort Independent,1002-36,Second Street School,63.27%,,Y,55.02%,609,385
+ky,10162,Franklin County,1010-15,Bondurant Middle School,38.66%,,N,,701,271
+ky,10162,Franklin County,1006-24,Bridgeport Elementary School,50.75%,,Y,52.06%,465,236
+ky,10162,Franklin County,1000-45,Collins Lane,45.76%,,Y,52.06%,531,243
+ky,10162,Franklin County,1009-14,Early Learning Village,58.03%,,Y,52.06%,355,206
+ky,10162,Franklin County,1015-9,Elkhorn Elementary School,60.74%,,Y,52.06%,461,280
+ky,10162,Franklin County,1001-29,Elkhorn Middle School,49.54%,,N,,765,379
+ky,10162,Franklin County,1003-32,Franklin County High School,39.48%,,N,,998,394
+ky,10162,Franklin County,1014-5,Hearn Elementary,45.71%,,Y,52.06%,490,224
+ky,10162,Franklin County,1007-21,Peaks Mill Elementary,57.67%,,Y,52.06%,430,248
+ky,10162,Franklin County,1005-28,The Academy,75.81%,,N,,62,47
+ky,10162,Franklin County,1011-11,Western Hills High School,31.62%,,N,,816,258
+ky,10162,Franklin County,1013-8,Westridge Elementary,48.57%,,Y,52.06%,420,204
+ky,10028,Ft Campbell Dependent BOE,1015-10,Andre Lucas Elementary,0.54%,,N,,,
+ky,10028,Ft Campbell Dependent BOE,1006-25,Barkley Elementary,1.93%,,N,,,
+ky,10028,Ft Campbell Dependent BOE,1003-33,Barsanti Elementary,0.36%,,N,,,
+ky,10028,Ft Campbell Dependent BOE,1001-30,Ft Campbell High School,1.17%,,N,,,
+ky,10028,Ft Campbell Dependent BOE,1007-22,Mahaffey Middle School,1.22%,,N,,,
+ky,10028,Ft Campbell Dependent BOE,1062-0,Marshall Elementary,2.39%,,N,,,
+ky,10051,Ft Knox Community Schools BOE,1007-23,Ft Knox High School,0.00%,,N,,,
+ky,10051,Ft Knox Community Schools BOE,1004-26,Kingsolver Elementary,1.01%,,N,,,
+ky,10051,Ft Knox Community Schools BOE,1002-37,Scott Middle School,1.04%,,N,,,
+ky,10051,Ft Knox Community Schools BOE,1000-46,Van Voorhis Elementary School,1.26%,,N,,,
+ky,10163,Fulton County,1000-47,Fulton County Elementary & Middle School,69.51%,,Y,62.50%,468,325
+ky,10163,Fulton County,1004-27,Fulton County High School,58.76%,,Y,62.50%,171,100
+ky,10043,Fulton Independent,1000-48,Carr Elementary School,81.82%,,Y,62.50%,194,159
+ky,10043,Fulton Independent,1001-31,Fulton City High School,72.15%,,Y,62.50%,145,105
+ky,10164,Gallatin County,1002-38,Gallatin County High School,51.17%,,Y,62.50%,450,230
+ky,10164,Gallatin County,1000-49,Gallatin County Lower Elementary,66.95%,,Y,62.50%,453,303
+ky,10164,Gallatin County,1001-32,Gallatin Cty Upper Elementary/Gallatin Cty MS,65.43%,,Y,62.50%,697,456
+ky,10044,Garrard County,1006-26,Camp Dick Robinson Elementary School,45.32%,,Y,57.94%,525,238
+ky,10044,Garrard County,1004-28,Garrard County High School,43.97%,,Y,57.94%,735,323
+ky,10044,Garrard County,1002-39,Garrard Middle School,49.43%,,Y,57.94%,567,280
+ky,10044,Garrard County,1001-33,Lancaster Elementary School,62.52%,,Y,57.94%,480,300
+ky,10044,Garrard County,1005-29,Paint Lick Elementary School,51.43%,,Y,57.94%,332,171
+ky,10094,Gateway Juvenile Diversion Pro,1000-50,Gateway Juvenile Diversion Program,0.00%,,N,,,
+ky,10004,Glasgow Independent,1003-34,Glasgow High School,50.43%,,Y,57.86%,619,312
+ky,10004,Glasgow Independent,1007-24,Glasgow Middle School,52.27%,,Y,57.86%,467,244
+ky,10004,Glasgow Independent,1006-27,Happy Valley Learning Center,66.67%,,Y,57.86%,184,123
+ky,10004,Glasgow Independent,1000-51,Highland Elementary School,71.33%,,Y,57.86%,566,404
+ky,10004,Glasgow Independent,1004-29,South Green Elementary School,72.71%,,Y,57.86%,511,372
+ky,10165,Grant County,1002-40,Crittenden-Mt Zion Elementary,57.94%,,Y,57.96%,545,316
+ky,10165,Grant County,1004-30,Dry Ridge Elementary,55.51%,,Y,57.96%,471,261
+ky,10165,Grant County,1006-28,Grant County High School,51.36%,,Y,57.96%,1022,525
+ky,10165,Grant County,1000-52,Grant County Middle School,54.87%,,Y,57.96%,895,491
+ky,10165,Grant County,1001-34,Mason-Corinth Elementary,66.67%,,Y,57.96%,317,211
+ky,10165,Grant County,1003-35,Sherman Elementary School,67.98%,,Y,57.96%,432,294
+ky,10166,Graves County,1009-15,Fancy Farm Elementary School,37.84%,,Y,50.23%,220,83
+ky,10166,Graves County,1004-31,Farmington Elementary School,52.72%,,Y,50.23%,283,149
+ky,10166,Graves County,1000-53,Gateway Academy High School,79.25%,,Y,50.23%,47,37
+ky,10166,Graves County,1006-29,Graves County Central Elementary,57.65%,,Y,50.23%,516,297
+ky,10166,Graves County,1005-30,Graves County High School,42.05%,,Y,50.23%,1196,503
+ky,10166,Graves County,1003-36,Graves County Middle School,47.27%,,Y,50.23%,581,275
+ky,10166,Graves County,1011-12,Lowes Elementary School,61.13%,,Y,50.23%,274,167
+ky,10166,Graves County,1010-16,Sedalia Elementary School,50.13%,,Y,50.23%,400,201
+ky,10166,Graves County,1001-35,Symsonia Elementary School,48.14%,,Y,50.23%,326,157
+ky,10166,Graves County,1008-17,Wingo Elementary School,63.40%,,Y,50.23%,453,287
+ky,10167,Grayson County,1006-30,Caneyville Elementary School,62.66%,,Y,59.54%,391,245
+ky,10167,Grayson County,1001-36,Clarkson Elementary School,56.80%,,Y,59.54%,669,380
+ky,10167,Grayson County,1005-31,Grayson County High School,56.72%,,Y,59.54%,1303,739
+ky,10167,Grayson County,1002-41,Grayson County Middle School,62.82%,,Y,59.54%,987,620
+ky,10167,Grayson County,1003-37,H W Wilkey Elementary School,66.26%,,Y,59.54%,575,381
+ky,10167,Grayson County,1000-54,Oran P Lawler Elementary School,53.02%,,Y,59.54%,430,228
+ky,10047,Green County,1003-38,Green County Area Tech Center,94.12%,,Y,56.48%,24,23
+ky,10047,Green County,1000-55,Green County High School,51.14%,,Y,56.48%,476,243
+ky,10047,Green County,1008-18,Green County Intermediate School,54.28%,,Y,56.48%,370,201
+ky,10047,Green County,1001-37,Green County Middle School,52.94%,,Y,56.48%,361,191
+ky,10047,Green County,1002-42,Green County Primary School,56.85%,,Y,56.48%,460,262
+ky,10168,Greenup County,1001-38,Argillite Elementary School,62.87%,,Y,60.41%,257,162
+ky,10168,Greenup County,1000-56,Greenup County High School,54.30%,,Y,60.41%,765,415
+ky,10168,Greenup County,1004-32,Greysbranch Elementary School,53.62%,,Y,60.41%,375,201
+ky,10168,Greenup County,1002-43,McKell Elementary School,62.69%,,Y,60.41%,524,328
+ky,10168,Greenup County,1007-25,McKell Middle School,49.32%,,Y,60.41%,362,179
+ky,10168,Greenup County,1006-31,Wurtland Elementary School,73.42%,,Y,60.41%,246,181
+ky,10168,Greenup County,1008-19,Wurtland Middle School,63.11%,,Y,60.41%,328,207
+ky,10049,Hancock County,1004-33,Hancock County High School,35.07%,,N,,519,182
+ky,10049,Hancock County,1000-57,Hancock County Middle School,39.90%,,N,,411,164
+ky,10049,Hancock County,1003-39,North Hancock Elementary School,46.45%,,N,,577,268
+ky,10049,Hancock County,1002-44,South Hancock Elementary School,44.63%,,N,,242,108
+ky,10171,Hardin County,1010-17,Bluegrass Middle School,48.25%,,Y,52.16%,519,250
+ky,10171,Hardin County,1027-1,Cecilia Valley Elementary,54.01%,,Y,52.16%,296,160
+ky,10171,Hardin County,1023-4,Central Hardin High School,38.11%,,N,,1842,702
+ky,10171,Hardin County,1066-0,College View Campus,60.48%,,Y,52.16%,218,132
+ky,10171,Hardin County,1009-16,Creekside Elementary School,46.86%,,Y,52.16%,488,229
+ky,10171,Hardin County,1001-39,East Hardin Middle School,37.04%,,N,,810,300
+ky,10171,Hardin County,1021-2,G C Burkhead Elementary School,43.00%,,Y,52.16%,841,362
+ky,10171,Hardin County,1018-4,Heartland Elementary School,44.01%,,Y,52.16%,695,306
+ky,10171,Hardin County,1015-11,James T Alton Middle School,52.19%,,N,,661,345
+ky,10171,Hardin County,1003-40,John Hardin High School,45.50%,,N,,844,384
+ky,10171,Hardin County,1019-4,Lakewood Elementary School,45.26%,,Y,52.16%,588,266
+ky,10171,Hardin County,1020-2,Lincoln Trail Elementary School,38.80%,,N,,500,194
+ky,10171,Hardin County,1008-20,Meadow View Elementary School,52.84%,,Y,52.16%,510,269
+ky,10171,Hardin County,1000-58,New Highland Elementary School,54.48%,,Y,52.16%,702,382
+ky,10171,Hardin County,1005-32,North Hardin High School,52.50%,,N,,1537,807
+ky,10171,Hardin County,1007-26,North Middle School,59.19%,,Y,52.16%,574,340
+ky,10171,Hardin County,1016-6,North Park Elementary School,54.91%,,Y,52.16%,731,401
+ky,10171,Hardin County,1017-5,Radcliff Elementary  School,60.85%,,Y,52.16%,470,286
+ky,10171,Hardin County,1011-13,Rineyville Elementary School,49.45%,,N,,641,317
+ky,10171,Hardin County,1013-9,Vine Grove Elementary School,56.27%,,Y,43.53%,510,287
+ky,10171,Hardin County,1022-3,West Hardin Middle School,44.85%,,Y,52.16%,574,257
+ky,10171,Hardin County,1014-6,Woodland Elementary School,58.58%,,Y,52.16%,423,248
+ky,10173,Harlan County,1011-14,Black Mountain Elementary School,88.12%,,Y,62.50%,320,282
+ky,10173,Harlan County,1002-45,Cawood Elementary School,90.77%,,Y,62.50%,259,235
+ky,10173,Harlan County,1007-27,Cumberland Elementary School,80.70%,,Y,62.50%,540,436
+ky,10173,Harlan County,1008-21,Evarts Elementary School,83.25%,,Y,62.50%,408,340
+ky,10173,Harlan County,1000-59,Green Hills Elementary School,80.54%,,Y,62.50%,147,118
+ky,10173,Harlan County,1012-8,Harlan County High School,75.34%,,Y,62.50%,1053,793
+ky,10173,Harlan County,1006-32,James A Cawood Elementary,85.33%,,Y,62.50%,384,328
+ky,10173,Harlan County,1003-41,Rosspoint Elementary School,66.84%,,Y,62.50%,410,274
+ky,10173,Harlan County,1014-7,Wallins Elementary School,79.09%,,Y,62.50%,425,336
+ky,10053,Harlan Independent,1001-40,Harlan Elementary School/Harlan High School,53.24%,,Y,59.73%,701,373
+ky,10053,Harlan Independent,1000-60,Sunshine School,51.92%,,Y,59.73%,116,60
+ky,10174,Harrison County,1002-46,Eastside Elementary School,57.33%,,Y,53.16%,372,213
+ky,10174,Harrison County,1008-22,Harrison County High School,41.35%,,Y,53.16%,882,365
+ky,10174,Harrison County,1006-33,Harrison County Middle School,47.50%,,Y,53.16%,710,337
+ky,10174,Harrison County,1003-42,Northside Elementary School,63.91%,,Y,53.16%,359,229
+ky,10174,Harrison County,1007-28,Second Chance Program Alternative School,68.18%,,Y,53.16%,73,50
+ky,10174,Harrison County,1005-33,Southside Elementary School,57.25%,,Y,53.16%,393,225
+ky,10174,Harrison County,1000-61,Westside Elementary School,56.36%,,Y,53.16%,364,205
+ky,10054,Hart County,1005-34,Bonnieville Elementary School,63.75%,,Y,62.50%,298,190
+ky,10054,Hart County,1006-34,Cub Run Elementary School,53.36%,,Y,62.50%,226,121
+ky,10054,Hart County,1004-34,Hart County High School,56.38%,,Y,62.50%,655,369
+ky,10054,Hart County,1003-43,Legrande Elementary School,53.85%,,Y,62.50%,338,182
+ky,10054,Hart County,1000-62,Memorial Elementary School,67.66%,,Y,62.50%,352,238
+ky,10054,Hart County,1001-41,Munfordville Elementary School,60.60%,,Y,62.50%,530,321
+ky,10054,Hart County,1002-47,Raider Challenge Academy,100.00%,,Y,62.50%,7,7
+ky,10221,Hazard Independent,1003-44,Hazard High School,50.61%,,Y,57.19%,324,164
+ky,10221,Hazard Independent,1004-35,Hazard Middle School,57.02%,,Y,57.19%,251,143
+ky,10221,Hazard Independent,1001-42,Roy G Eversole Elementary School,62.53%,,Y,57.19%,434,271
+ky,10175,Henderson County,1006-35,A B Chandler Elementary School,57.14%,,Y,57.15%,315,180
+ky,10175,Henderson County,1004-36,Bend Gate Elementary School,64.62%,,Y,57.15%,489,316
+ky,10175,Henderson County,1005-35,Cairo Elementary School,55.30%,,Y,57.15%,302,167
+ky,10175,Henderson County,1011-15,Central Academy,84.72%,,Y,57.15%,216,183
+ky,10175,Henderson County,1001-43,East Heights Elementary School,55.64%,,Y,57.15%,550,306
+ky,10175,Henderson County,1013-10,Henderson County High School,44.63%,,Y,57.15%,1974,881
+ky,10175,Henderson County,1007-29,Henderson County North Middle School,56.13%,,Y,57.15%,791,444
+ky,10175,Henderson County,1009-17,Henderson County South Middle School,51.67%,,Y,57.15%,778,402
+ky,10175,Henderson County,1003-45,Jefferson Elementary School,82.30%,,Y,57.15%,356,293
+ky,10175,Henderson County,1000-63,Niagara Elementary School,35.86%,,Y,57.15%,290,104
+ky,10175,Henderson County,1010-18,South Heights Elementary School,86.49%,,Y,57.15%,518,448
+ky,10175,Henderson County,1012-9,Spottsville Elementary School,44.95%,,Y,57.15%,436,196
+ky,10175,Henderson County,1014-8,Thelma B. Johnson Early Learning Center,76.08%,,Y,57.15%,464,353
+ky,10176,Henry County,1000-64,Campbellsburg Elementary School,45.48%,,Y,56.50%,369,168
+ky,10176,Henry County,1005-36,Eastern Elementary School,64.36%,,Y,56.50%,200,129
+ky,10176,Henry County,1001-44,Henry County High School,46.47%,,Y,47.52%,708,329
+ky,10176,Henry County,1003-46,Henry County Middle School,49.13%,,Y,47.52%,460,226
+ky,10176,Henry County,1002-48,New Castle Elementary School/Early Childhood Center,59.48%,,Y,56.50%,477,284
+ky,10056,Hickman County,1000-65,Hickman County Elementary School,58.11%,,Y,55.92%,444,258
+ky,10056,Hickman County,1001-45,Hickman County High School,50.32%,,Y,55.92%,316,159
+ky,10063,Home Of The Innocents,1000-66,Home Of The Innocents,0.00%,,N,,,
+ky,10214,Hope Hill Youth Services,1000-67,Hope Hill Childrens Home,0.00%,,N,,,
+ky,10057,Hopkins County,1004-37,Browning Springs Middle School,60.41%,,Y,54.49%,442,267
+ky,10057,Hopkins County,1013-11,Earlington Elementary School,69.35%,,Y,54.49%,372,258
+ky,10057,Hopkins County,1002-49,Grapevine Elementary School,64.83%,,Y,54.49%,327,212
+ky,10057,Hopkins County,1012-10,Hanson Elementary School,39.42%,,Y,54.49%,553,218
+ky,10057,Hopkins County,1016-7,Hopkins County Central High School,52.75%,,Y,54.49%,836,441
+ky,10057,Hopkins County,1015-12,James Madison Middle School,43.77%,,Y,54.49%,546,239
+ky,10057,Hopkins County,1007-30,Jesse Stuart Elementary School,66.36%,,Y,54.49%,550,365
+ky,10057,Hopkins County,1014-9,Madisonville North Hopkins High School,41.37%,,Y,54.49%,967,400
+ky,10057,Hopkins County,1009-18,Pride Elementary School,63.13%,,Y,54.49%,480,303
+ky,10057,Hopkins County,1018-5,South Hopkins Middle School,57.75%,,Y,54.49%,400,231
+ky,10057,Hopkins County,1011-16,Southside Elementary School,63.98%,,Y,54.49%,447,286
+ky,10057,Hopkins County,1006-36,West Broadway Elementary School/ADT,55.58%,,Y,54.49%,403,224
+ky,10057,Hopkins County,1003-47,West Hopkins School,56.03%,,Y,54.49%,423,237
+ky,10057,Hopkins County,1052-0,Hopkins County Schools Academy,0.00%,,Y,62.50%,32,0
+ky,10178,Jackson County,1004-38,Jackson County High School,72.09%,,Y,62.50%,553,399
+ky,10178,Jackson County,1000-68,Jackson County Middle School,63.12%,,Y,62.50%,457,288
+ky,10178,Jackson County,1006-37,McKee Elementary School,63.98%,,Y,62.50%,359,230
+ky,10178,Jackson County,1001-46,Sand Gap Elementary School,63.60%,,Y,62.50%,253,161
+ky,10178,Jackson County,1005-37,Tyner Elementary School,69.71%,,Y,62.50%,503,351
+ky,10137,Jackson Independent,1000-69,Jackson City School,52.20%,,Y,60.06%,338,176
+ky,10185,Jefferson County Public Schools,1031-2,Alex R. Kennedy Elementary School,58.56%,,Y,62.33%,398,233
+ky,10185,Jefferson County Public Schools,1069,Atherton High School,30.14%,,Y,62.33%,1437,433
+ky,10185,Jefferson County Public Schools,1025-3,Atkinson Academy,90.22%,,Y,62.33%,350,316
+ky,10185,Jefferson County Public Schools,1179-0,At-Risk Semple Elementary,85.59%,,Y,62.33%,557,477
+ky,10185,Jefferson County Public Schools,1094-0,At-Risk Shelby Traditional Academy,79.73%,,Y,62.33%,764,609
+ky,10185,Jefferson County Public Schools,1131,Auburndale Elementary School,69.93%,,Y,62.33%,607,424
+ky,10185,Jefferson County Public Schools,1004-39,Audubon Traditional Elem,27.09%,,N,,,
+ky,10185,Jefferson County Public Schools,1132,Ballard High,31.30%,,Y,62.33%,1870,585
+ky,10185,Jefferson County Public Schools,1117,Barret Traditional Middle,20.85%,,N,,,
+ky,10185,Jefferson County Public Schools,1095,Bates Elementary,40.83%,,Y,62.33%,566,231
+ky,10185,Jefferson County Public Schools,1029-1,Blake Elementary,72.01%,,Y,62.33%,499,359
+ky,10185,Jefferson County Public Schools,1111,Bloom Elementary,30.95%,,Y,62.33%,557,172
+ky,10185,Jefferson County Public Schools,1050,Blue Lick Elementary,73.17%,,Y,62.33%,544,398
+ky,10185,Jefferson County Public Schools,1110-0,Bowen Elementary,33.84%,,Y,62.33%,729,247
+ky,10185,Jefferson County Public Schools,1026-1,Brandeis Elementary,31.46%,,Y,62.33%,536,169
+ky,10185,Jefferson County Public Schools,1147,Breckinridge Metropolitan High,81.76%,,Y,62.33%,160,131
+ky,10185,Jefferson County Public Schools,1012-11,Breckinridge/Franklin Elementary,78.21%,,Y,62.33%,477,373
+ky,10185,Jefferson County Public Schools,1036,Brown School,20.51%,,N,,,
+ky,10185,Jefferson County Public Schools,1019-5,Butler Traditional High School,42.25%,,Y,62.33%,1652,698
+ky,10185,Jefferson County Public Schools,1020-3,Byck Elementary,90.24%,,Y,62.33%,395,356
+ky,10185,Jefferson County Public Schools,1014-10,Camp Taylor Elementary,71.81%,,Y,62.33%,508,365
+ky,10185,Jefferson County Public Schools,1030-0,Cane Run Elementary,82.93%,,Y,62.33%,458,380
+ky,10185,Jefferson County Public Schools,1127,Carrithers Middle School,54.52%,,Y,62.33%,676,369
+ky,10185,Jefferson County Public Schools,1073-0,Carter/Duvalle,58.14%,,Y,62.33%,970,564
+ky,10185,Jefferson County Public Schools,1137,Center At Riverport,100.00%,,Y,62.33%,85,85
+ky,10185,Jefferson County Public Schools,1055,Central High School,65.92%,,Y,62.33%,1234,813
+ky,10185,Jefferson County Public Schools,1170,Chancey Elementary,47.14%,,Y,62.33%,635,299
+ky,10185,Jefferson County Public Schools,1074-0,Chenoweth Elementary School,44.02%,,Y,62.33%,535,236
+ky,10185,Jefferson County Public Schools,1143,Child Care South Park Tapp,76.34%,,Y,62.33%,137,105
+ky,10185,Jefferson County Public Schools,1185,Child Care Westport Tapp,77.61%,,Y,62.33%,161,125
+ky,10185,Jefferson County Public Schools,1078,Churchill Park Rehab,59.76%,,Y,62.33%,134,80
+ky,10185,Jefferson County Public Schools,1034-1,Cochran Elementary,81.20%,,Y,62.33%,336,273
+ky,10185,Jefferson County Public Schools,1023-5,Cochrane Elementary,65.15%,,Y,62.33%,466,304
+ky,10185,Jefferson County Public Schools,1054-0,Coleridge-Taylor Elementary,69.66%,,Y,62.33%,496,346
+ky,10185,Jefferson County Public Schools,1133,Conway Middle School,68.49%,,Y,62.33%,824,564
+ky,10185,Jefferson County Public Schools,1107,Coral Ridge Elementary,63.82%,,Y,62.33%,552,352
+ky,10185,Jefferson County Public Schools,1121,Crosby Middle School,35.48%,,Y,62.33%,1093,388
+ky,10185,Jefferson County Public Schools,1160,Crums Lane Elementary,83.01%,,Y,62.33%,416,345
+ky,10185,Jefferson County Public Schools,1048-0,Dawson Orman Ed Ctr,88.52%,,Y,62.33%,256,227
+ky,10185,Jefferson County Public Schools,1003-48,Dixie Elementary,76.32%,,Y,62.33%,432,330
+ky,10185,Jefferson County Public Schools,1138,Doss High,70.91%,,Y,62.33%,985,698
+ky,10185,Jefferson County Public Schools,1113,Dunn Elementary School,25.94%,,N,,,
+ky,10185,Jefferson County Public Schools,1008-23,DuPont Manual High,14.19%,,N,,,
+ky,10185,Jefferson County Public Schools,1566,Early Childhood Center at PCC,0.00%,,N,,,
+ky,10185,Jefferson County Public Schools,1150,Eastern High,24.83%,,N,,,
+ky,10185,Jefferson County Public Schools,1175,Eisenhower Elementary School,46.88%,,Y,62.33%,591,277
+ky,10185,Jefferson County Public Schools,1105,Engelhard Elementary,88.65%,,Y,62.33%,353,313
+ky,10185,Jefferson County Public Schools,1000-70,Fairdale Elementary School,63.48%,,Y,62.33%,579,368
+ky,10185,Jefferson County Public Schools,1142,Fairdale High School Mca,60.20%,,Y,62.33%,1286,774
+ky,10185,Jefferson County Public Schools,1039-0,Farmer Elementary,35.09%,,Y,62.33%,772,271
+ky,10185,Jefferson County Public Schools,1162,Farnsley Middle,55.00%,,Y,62.33%,1086,597
+ky,10185,Jefferson County Public Schools,1100,Fern Creek Elementary School,57.99%,,Y,62.33%,643,373
+ky,10185,Jefferson County Public Schools,1140-0,Fern Creek Traditional High,53.48%,,Y,62.33%,1699,909
+ky,10185,Jefferson County Public Schools,1149,Field Elementary,51.90%,,Y,62.33%,412,214
+ky,10185,Jefferson County Public Schools,1153,Foster Traditional Academy,75.26%,,Y,62.33%,523,394
+ky,10185,Jefferson County Public Schools,1056-0,Frayser Elementary,89.30%,,Y,62.33%,346,309
+ky,10185,Jefferson County Public Schools,1281,George Unsled Early Childhood Learning Center,87.84%,,Y,62.33%,385,338
+ky,10185,Jefferson County Public Schools,1151,Gilmore Lane Elementary,75.65%,,Y,62.33%,333,252
+ky,10185,Jefferson County Public Schools,1071-0,Goldsmith Elementary,69.08%,,Y,62.33%,609,421
+ky,10185,Jefferson County Public Schools,1118,Greathouse Shryock Traditional,18.18%,,N,,,
+ky,10185,Jefferson County Public Schools,1038-0,Greenwood Elementary School,71.12%,,Y,62.33%,486,346
+ky,10185,Jefferson County Public Schools,1154,Gutermuth Elementary,81.06%,,Y,62.33%,392,318
+ky,10185,Jefferson County Public Schools,1081,Hartstern Elementary,63.54%,,Y,62.33%,466,296
+ky,10185,Jefferson County Public Schools,1159,Hawthorne Elementary,49.24%,,Y,62.33%,460,227
+ky,10185,Jefferson County Public Schools,1152,Hazelwood Elementary School,87.23%,,Y,62.33%,526,459
+ky,10185,Jefferson County Public Schools,1006-38,Heuser Hearing and Language Academy,43.24%,,Y,62.33%,37,16
+ky,10185,Jefferson County Public Schools,1156,Highland  Middle School,64.74%,,Y,62.33%,880,570
+ky,10185,Jefferson County Public Schools,1010-19,Hite Elementary School,26.29%,,Y,62.33%,477,125
+ky,10185,Jefferson County Public Schools,1166,Indian Trail Elementary,75.85%,,Y,62.33%,522,396
+ky,10185,Jefferson County Public Schools,1033-1,Iroquois High,78.38%,,Y,62.33%,1148,900
+ky,10185,Jefferson County Public Schools,1075,Jacob Elementary,89.21%,,Y,62.33%,594,530
+ky,10185,Jefferson County Public Schools,1035-1,Jaeger Education Center,73.27%,,Y,62.33%,364,267
+ky,10185,Jefferson County Public Schools,1013-12,Jefferson County Traditional Middle,27.14%,,N,,,
+ky,10185,Jefferson County Public Schools,1028-0,Jeffersontown Elementary,52.19%,,Y,62.33%,708,370
+ky,10185,Jefferson County Public Schools,1141,Jeffersontown High School,49.95%,,Y,62.33%,960,480
+ky,10185,Jefferson County Public Schools,1116,Johnson Traditional Middle,44.41%,,Y,62.33%,878,390
+ky,10185,Jefferson County Public Schools,1091,Johnsontown Road Elementary,72.43%,,Y,62.33%,328,238
+ky,10185,Jefferson County Public Schools,1093-0,Kammerer Middle,45.04%,,Y,62.33%,975,439
+ky,10185,Jefferson County Public Schools,1167,Kennedy Elementary Montessori,61.60%,,Y,62.33%,600,370
+ky,10185,Jefferson County Public Schools,1043-0,Kenwood Elementary,73.86%,,Y,62.33%,566,418
+ky,10185,Jefferson County Public Schools,1158,Kerrick Elementary School,71.28%,,Y,62.33%,433,309
+ky,10185,Jefferson County Public Schools,1171,King Elementary,90.82%,,Y,62.33%,409,371
+ky,10185,Jefferson County Public Schools,1168,Klondike Elementary,65.13%,,Y,62.33%,460,300
+ky,10185,Jefferson County Public Schools,1103,Knight Middle School,67.44%,,Y,62.33%,443,299
+ky,10185,Jefferson County Public Schools,1096,Lassiter Middle School,71.20%,,Y,62.33%,1028,732
+ky,10185,Jefferson County Public Schools,1129,Laukhuf Elementary,49.79%,,Y,62.33%,500,249
+ky,10185,Jefferson County Public Schools,1051-0,Layne Elementary,68.11%,,Y,62.33%,368,251
+ky,10185,Jefferson County Public Schools,1161,Liberty High School,81.68%,,Y,62.33%,148,121
+ky,10185,Jefferson County Public Schools,1102,Lincoln Elementary Performing Arts,39.22%,,Y,62.33%,569,223
+ky,10185,Jefferson County Public Schools,1172,Louisville Male High School,24.84%,,N,,,
+ky,10185,Jefferson County Public Schools,1157,Lowe Elementary School,25.45%,,N,,,
+ky,10185,Jefferson County Public Schools,1178-0,Luhr Elementary,61.05%,,Y,62.33%,475,290
+ky,10185,Jefferson County Public Schools,1011-17,Maupin Elementary,92.81%,,Y,62.33%,350,325
+ky,10185,Jefferson County Public Schools,1112,Mcferran Preparatory Academy,85.25%,,Y,62.33%,971,828
+ky,10185,Jefferson County Public Schools,1148,Medora Elementary,53.33%,,Y,62.33%,461,246
+ky,10185,Jefferson County Public Schools,1097-0,Meyzeek Middle School,42.87%,,Y,62.33%,1091,468
+ky,10185,Jefferson County Public Schools,1066-1,Middletown Elementary,38.92%,,Y,62.33%,567,221
+ky,10185,Jefferson County Public Schools,1125,Mill Creek Elementary,74.85%,,Y,62.33%,504,377
+ky,10185,Jefferson County Public Schools,1062-1,Minor Daniels Academy,82.57%,,Y,62.33%,233,192
+ky,10185,Jefferson County Public Schools,1046-0,Minors Lane Elementary,82.01%,,Y,62.33%,402,330
+ky,10185,Jefferson County Public Schools,1134,Moore Traditional School,62.80%,,Y,62.33%,2253,1415
+ky,10185,Jefferson County Public Schools,1076-0,Myers Middle School,64.47%,,Y,62.33%,673,434
+ky,10185,Jefferson County Public Schools,1128,Newburg Middle School,59.98%,,Y,62.33%,1060,636
+ky,10185,Jefferson County Public Schools,1009-19,Noe Middle,43.06%,,Y,62.33%,1340,577
+ky,10185,Jefferson County Public Schools,1658,Norton Commons Elementary,25.15%,,N,,,
+ky,10185,Jefferson County Public Schools,1045-1,Norton Elementary School,18.43%,,N,,,
+ky,10185,Jefferson County Public Schools,1181,Okolona Elementary School,77.97%,,Y,62.33%,350,273
+ky,10185,Jefferson County Public Schools,1079,Olmsted North,77.83%,,Y,62.33%,611,476
+ky,10185,Jefferson County Public Schools,1085,Olmsted South,76.99%,,Y,62.33%,724,557
+ky,10185,Jefferson County Public Schools,1086,Pleasure Ridge Park High,51.02%,,Y,62.33%,1543,787
+ky,10185,Jefferson County Public Schools,1027-2,Portland Elementary,85.86%,,Y,62.33%,269,231
+ky,10185,Jefferson County Public Schools,1174,Price Elementary,80.94%,,Y,62.33%,399,323
+ky,10185,Jefferson County Public Schools,1089,Ramsey Middle School,49.12%,,Y,62.33%,1061,521
+ky,10185,Jefferson County Public Schools,1060-0,Rangeland Elementary,79.12%,,Y,62.33%,420,332
+ky,10185,Jefferson County Public Schools,1155,Roosevelt Perry Elementary,94.21%,,Y,62.33%,248,234
+ky,10185,Jefferson County Public Schools,1120,Rutherford Elementary,78.75%,,Y,62.33%,485,382
+ky,10185,Jefferson County Public Schools,1098,Sanders Elementary,70.43%,,Y,62.33%,439,309
+ky,10185,Jefferson County Public Schools,1024-3,Schaffner Elementary,30.99%,,Y,62.33%,588,182
+ky,10185,Jefferson County Public Schools,1164,Seneca Binet School,66.67%,,Y,62.33%,1208,805
+ky,10185,Jefferson County Public Schools,1082,Shacklette Elementary,73.51%,,Y,62.33%,419,308
+ky,10185,Jefferson County Public Schools,1124,Slaughter Elementary,76.31%,,Y,62.33%,467,356
+ky,10185,Jefferson County Public Schools,1088,Smyrna Elementary,62.47%,,Y,62.33%,528,330
+ky,10185,Jefferson County Public Schools,1183,Southern High School,61.87%,,Y,62.33%,1248,772
+ky,10185,Jefferson County Public Schools,1087,St Matthews Elementary,42.91%,,Y,62.33%,552,237
+ky,10185,Jefferson County Public Schools,1104,Stonestreet Elementary,60.67%,,Y,62.33%,456,277
+ky,10185,Jefferson County Public Schools,1059-0,Stopher Elementary,10.57%,,N,,,
+ky,10185,Jefferson County Public Schools,1032-2,Stuart Middle,77.16%,,Y,62.33%,1246,961
+ky,10185,Jefferson County Public Schools,1126,The Academy @ Shawnee,74.73%,,Y,62.33%,561,419
+ky,10185,Jefferson County Public Schools,1109,Thomas Jefferson Middle,73.68%,,Y,62.33%,1080,796
+ky,10185,Jefferson County Public Schools,1044-1,Trunnell Elementary,74.48%,,Y,62.33%,510,380
+ky,10185,Jefferson County Public Schools,1122,Tully Elementary,31.25%,,Y,62.33%,762,238
+ky,10185,Jefferson County Public Schools,1053-0,Valley Traditional High,70.68%,,Y,62.33%,977,691
+ky,10185,Jefferson County Public Schools,1070,Waggener High School,64.42%,,Y,62.33%,903,582
+ky,10185,Jefferson County Public Schools,1021-3,Waller Environmental,84.73%,,Y,62.33%,131,111
+ky,10185,Jefferson County Public Schools,1136,Watson Lane Elementary,79.88%,,Y,62.33%,332,265
+ky,10185,Jefferson County Public Schools,1169,Watterson Elementary,66.25%,,Y,62.33%,510,338
+ky,10185,Jefferson County Public Schools,1173,Wellington Elementary,75.26%,,Y,62.33%,416,313
+ky,10185,Jefferson County Public Schools,1067-0,Western High School,70.90%,,Y,62.33%,668,474
+ky,10185,Jefferson County Public Schools,1114,Western Middle,59.02%,,Y,62.33%,611,361
+ky,10185,Jefferson County Public Schools,1182,Westport Middle School,55.64%,,Y,62.33%,1277,711
+ky,10185,Jefferson County Public Schools,1108,Wheatley Elementary,90.93%,,Y,62.33%,326,296
+ky,10185,Jefferson County Public Schools,1177-0,Wheeler Elementary,28.74%,,Y,62.33%,650,187
+ky,10185,Jefferson County Public Schools,1017-6,Wilder Elementary,43.76%,,Y,62.33%,537,235
+ky,10185,Jefferson County Public Schools,1084,Wilkerson Elementary,64.80%,,Y,62.33%,484,314
+ky,10185,Jefferson County Public Schools,1135,Wilt Elementary,49.22%,,Y,62.33%,518,255
+ky,10185,Jefferson County Public Schools,1072-0,Young Elementary,81.32%,,Y,62.33%,413,336
+ky,10185,Jefferson County Public Schools,1186,Zachary Taylor Elementary,66.67%,,Y,62.33%,435,290
+ky,10080,Jenkins Independent,1004-40,Burdine Elementary School,82.90%,,Y,62.50%,203,168
+ky,10080,Jenkins Independent,1001-47,Jenkins Middle High,74.44%,,Y,62.50%,238,177
+ky,10188,Jessamine County,1009-20,Brookside Elementary School,54.36%,,Y,53.05%,550,299
+ky,10188,Jessamine County,1003-49,East Jessamine High School,44.46%,,N,,1010,449
+ky,10188,Jessamine County,1011-18,East Jessamine Middle School,54.12%,,Y,53.05%,929,503
+ky,10188,Jessamine County,1008-24,Hattie C Warner Elementary School,58.14%,,Y,53.05%,536,312
+ky,10188,Jessamine County,1002-50,Jessamine Early Learning Village,54.96%,,Y,53.05%,1025,563
+ky,10188,Jessamine County,1001-48,Nicholasville Elementary School,59.10%,,Y,53.05%,423,250
+ky,10188,Jessamine County,1020-4,Red Oak Elementary,50.71%,,Y,53.05%,568,288
+ky,10188,Jessamine County,1005-38,Rosenwald Dunbar Elementary School,42.64%,,Y,53.05%,566,241
+ky,10188,Jessamine County,1006-39,The Providence School,81.82%,,Y,53.05%,138,113
+ky,10188,Jessamine County,1010-20,West Jessamine High School,33.90%,,N,,1233,418
+ky,10188,Jessamine County,1007-31,West Jessamine Middle School,39.40%,,Y,53.05%,988,389
+ky,10188,Jessamine County,1000-71,Wilmore Elementary School,42.10%,,Y,53.05%,528,222
+ky,12243,John Paul II Academy,0001,John Paul II Academy,13.19%,,N,,,
+ky,10068,Johnson County,1000-72,Central Elementary School,69.80%,,Y,61.83%,417,291
+ky,10068,Johnson County,1002-51,Flat Gap Elementary School,69.23%,,Y,61.83%,257,178
+ky,10068,Johnson County,1011-19,Highland Elementary School,55.58%,,Y,61.83%,494,275
+ky,10068,Johnson County,1001-49,Johnson Central High School,54.30%,,Y,61.83%,1125,611
+ky,10068,Johnson County,1008-25,Johnson County Middle School,58.26%,,Y,61.83%,546,318
+ky,10068,Johnson County,1005-39,Porter Elementary School,60.96%,,Y,61.83%,380,232
+ky,10068,Johnson County,1003-50,W R Castle Memorial Elementary School,63.86%,,Y,61.83%,396,253
+ky,10193,Kenton County,1018-6,Beechgrove Elementary School,47.28%,,Y,44.80%,736,348
+ky,10193,Kenton County,1020-5,Dixie Heights High School,30.06%,,N,,1437,432
+ky,10193,Kenton County,1002-52,Ft Wright Elementary School,45.47%,,Y,44.94%,500,227
+ky,10193,Kenton County,1008-26,James A Caywood Elementary School,50.08%,,Y,44.94%,624,312
+ky,10193,Kenton County,1014-11,Kenton Elementary School,33.13%,,N,,640,212
+ky,10193,Kenton County,1019-6,Piner Elementary School,39.12%,,N,,363,142
+ky,10193,Kenton County,1021-4,R C Hinsdale Elementary School,16.01%,,N,,,
+ky,10193,Kenton County,1015-13,River Ridge Elementary School,44.04%,,Y,44.80%,1049,462
+ky,10193,Kenton County,1009-21,Ryland Heights Elementary School,33.27%,,N,,568,189
+ky,10193,Kenton County,1012-12,Scott High School,33.26%,,N,,932,310
+ky,10193,Kenton County,1005-40,Simon Kenton High School,27.45%,,N,,,
+ky,10193,Kenton County,1036-0,Summit View Academy,34.13%,,N,,1459,498
+ky,10193,Kenton County,1017-7,Taylor Mill Elementary School,40.23%,,Y,44.80%,619,249
+ky,10193,Kenton County,1007-32,Turkey Foot Middle School,32.46%,,N,,1103,358
+ky,10193,Kenton County,1006-40,Twenhofel Middle School,30.37%,,N,,787,239
+ky,10193,Kenton County,1016-8,White's Tower Elementary School,39.07%,,Y,44.94%,631,247
+ky,10193,Kenton County,1011-20,Woodland Middle School,36.83%,,Y,44.94%,668,246
+ky,10195,Knott County,1001-50,Beaver Creek Elementary School,83.00%,,Y,62.50%,228,189
+ky,10195,Knott County,1002-53,Carr Creek Elementary School,70.36%,,Y,62.50%,374,263
+ky,10195,Knott County,1006-41,Cordia School,75.62%,,Y,62.50%,163,123
+ky,10195,Knott County,1011-21,Emmalena Elementary School,71.20%,,Y,62.50%,185,132
+ky,10195,Knott County,1008-27,Hindman Elementary School,65.23%,,Y,62.50%,509,332
+ky,10195,Knott County,1012-13,Jones Fork Elementary School,73.38%,,Y,62.50%,150,110
+ky,10195,Knott County,1000-73,Knott County Central High School,60.72%,,Y,62.50%,566,344
+ky,10076,Knox County,1005-41,Central Elementary School,80.04%,,Y,62.50%,465,372
+ky,10076,Knox County,1003-51,Dewitt Elementary School,91.16%,,Y,62.50%,152,139
+ky,10076,Knox County,1011-22,Flat Lick Elementary School,82.67%,,Y,62.50%,228,188
+ky,10076,Knox County,1015-14,G R Hampton Elementary School,76.22%,,Y,62.50%,277,211
+ky,10076,Knox County,1010-21,Girdler Elementary School,79.79%,,Y,62.50%,380,303
+ky,10076,Knox County,1014-12,Jesse D Lay Elementary School,55.49%,,Y,62.50%,351,195
+ky,10076,Knox County,1004-41,Knox Central High School,68.14%,,Y,62.50%,772,526
+ky,10076,Knox County,1007-33,Knox County Middle School,80.07%,,Y,62.50%,535,428
+ky,10076,Knox County,1008-28,Lynn Camp Elementary,83.54%,,Y,62.50%,612,511
+ky,10076,Knox County,1000-74,Lynn Camp Schools,82.37%,,Y,62.50%,577,475
+ky,10197,Larue County,1000-75,Abraham Lincoln Elementary School,49.63%,,Y,47.54%,518,257
+ky,10197,Larue County,1001-51,Hodgenville Elementary School,57.73%,,Y,47.54%,561,324
+ky,10197,Larue County,1008-29,Larue County High School,42.60%,,Y,47.54%,716,305
+ky,10197,Larue County,1003-52,Larue County Middle School,48.45%,,Y,47.54%,603,292
+ky,10198,Laurel County,1002-54,Bush Elementary School,45.92%,,Y,62.30%,532,244
+ky,10198,Laurel County,1005-42,Camp Ground Elementary School,76.04%,,Y,62.30%,319,243
+ky,10198,Laurel County,1021-5,Cold Hill Elementary School,52.43%,,Y,62.30%,279,146
+ky,10198,Laurel County,1007-34,Colony Elementary School,73.98%,,Y,62.30%,374,277
+ky,10198,Laurel County,1012-14,Hazel Green Elementary School,83.28%,,Y,62.30%,316,263
+ky,10198,Laurel County,1016-9,Hunter Hills Elementary School,82.39%,,Y,62.30%,627,517
+ky,10198,Laurel County,1006-42,Johnson Elementary School,64.26%,,Y,62.30%,316,203
+ky,10198,Laurel County,1013-13,Keavy Elementary School,73.01%,,Y,62.30%,281,205
+ky,10198,Laurel County,1008-30,Laurel County Day Treatment Center,88.64%,,Y,62.30%,49,43
+ky,10198,Laurel County,1014-13,London Elementary School,75.75%,,Y,62.30%,576,436
+ky,10198,Laurel County,1001-52,North Laurel High School,60.93%,,Y,62.30%,1375,838
+ky,10198,Laurel County,1000-76,North Laurel Middle School,61.57%,,Y,62.30%,991,610
+ky,10198,Laurel County,1003-53,South Laurel High School,59.64%,,Y,62.30%,1224,730
+ky,10198,Laurel County,1010-22,South Laurel Middle School,64.85%,,Y,62.30%,986,639
+ky,10198,Laurel County,1017-8,Sublimity Elementary School,58.38%,,Y,62.30%,337,197
+ky,10198,Laurel County,1009-22,Wyan-Pine Grove Elementary,68.96%,,Y,62.30%,500,345
+ky,10199,Lawrence County,1004-42,Blaine Elementary School,78.13%,,Y,62.50%,203,159
+ky,10199,Lawrence County,1005-43,Fallsburg Elementary School,68.77%,,Y,62.50%,266,183
+ky,10199,Lawrence County,1001-53,Lawrence County High School,59.79%,,Y,62.50%,680,407
+ky,10199,Lawrence County,1003-54,Louisa East Elementary School,64.91%,,Y,62.50%,595,386
+ky,10199,Lawrence County,1006-43,Louisa Middle School,63.88%,,Y,62.50%,437,279
+ky,10199,Lawrence County,1002-55,Louisa West Elementary School,68.92%,,Y,62.50%,336,232
+ky,10079,Lee County,1003-55,Lee County Elementary School,81.44%,,Y,62.50%,409,333
+ky,10079,Lee County,1020-6,Lee County Middle High School,68.50%,,Y,62.50%,504,345
+ky,10200,Leslie County,1000-77,Hayes Lewis Elementary School,63.08%,,Y,62.50%,126,79
+ky,10200,Leslie County,1005-44,Leslie County HS,64.68%,,Y,62.50%,463,299
+ky,10200,Leslie County,1004-43,Mountain View Elementary,71.46%,,Y,62.50%,466,333
+ky,10200,Leslie County,1002-56,Stinnett Elementary School,72.07%,,Y,62.50%,358,258
+ky,10200,Leslie County,1003-56,W B Muncy Elementary School,71.43%,,Y,62.50%,222,159
+ky,10201,Letcher County,1004-44,Arlie Boggs Elementary School,70.95%,,Y,62.50%,130,92
+ky,10201,Letcher County,1010-23,Cowan Elementary School,74.05%,,Y,62.50%,328,243
+ky,10201,Letcher County,1012-15,Fleming Neon Middle School,64.36%,,Y,62.50%,192,124
+ky,10201,Letcher County,1008-31,Letcher County Central High School,65.53%,,Y,62.50%,846,554
+ky,10201,Letcher County,1000-78,Letcher County Education Ctr,81.82%,,Y,62.50%,9,7
+ky,10201,Letcher County,1005-45,Letcher ES/Letcher MS,76.14%,,Y,62.50%,460,350
+ky,10201,Letcher County,1002-57,Martha Jane Potter Elementary School,66.67%,,Y,62.50%,399,266
+ky,10201,Letcher County,1001-54,West Whitesburg ES/Whitesburg MS,61.35%,,Y,62.50%,678,416
+ky,10081,Lewis County,1005-46,Garrison Elementary School,66.89%,,Y,62.50%,311,208
+ky,10081,Lewis County,1006-44,Laurel Elementary School,59.30%,,Y,62.50%,96,57
+ky,10081,Lewis County,1003-57,Lewis County Central Elementary School,67.54%,,Y,62.50%,503,340
+ky,10081,Lewis County,1004-45,Lewis County High School,54.67%,,Y,62.50%,707,387
+ky,10081,Lewis County,1000-79,Lewis County Middle School,62.47%,,Y,62.50%,403,252
+ky,10081,Lewis County,1002-58,Tollesboro Elementary School,62.34%,,Y,62.50%,310,193
+ky,10202,Lincoln County,1009-23,Crab Orchard Elementary School,73.65%,,Y,61.47%,277,204
+ky,10202,Lincoln County,1011-23,Highland Elementary School,63.67%,,Y,61.47%,272,173
+ky,10202,Lincoln County,1004-46,Hustonville Elementary School,56.39%,,Y,61.47%,480,271
+ky,10202,Lincoln County,1010-24,Lincoln County High School,47.81%,,Y,61.47%,1030,492
+ky,10202,Lincoln County,1001-55,Lincoln County Middle School,55.32%,,Y,61.47%,892,493
+ky,10202,Lincoln County,1002-59,Mckinney Elementary School,70.39%,,N,,152,107
+ky,10202,Lincoln County,1005-47,Stanford Elementary School,63.06%,,Y,61.47%,691,436
+ky,10202,Lincoln County,1008-32,Waynesburg Elementary School,75.89%,,Y,61.47%,311,236
+ky,10082,Livingston County,1003-58,Livingston Central HS,50.73%,,Y,57.08%,341,173
+ky,10082,Livingston County,1005-48,North Livingston ES/Livingston County MS,56.43%,,Y,57.08%,459,259
+ky,10082,Livingston County,1001-56,South Livingston Elementary School,63.04%,,Y,57.08%,414,261
+ky,10203,Logan County,1001-57,Adairville Elementary School,50.51%,,Y,48.44%,396,200
+ky,10203,Logan County,1000-80,Auburn Elementary School,45.32%,,Y,48.44%,759,344
+ky,10203,Logan County,1006-45,Chandlers Elementary School,58.23%,,Y,48.44%,486,283
+ky,10203,Logan County,1002-60,Lewisburg Elementary School,47.25%,,Y,48.44%,527,249
+ky,10203,Logan County,1004-47,Logan County High School,40.71%,,N,,1093,445
+ky,10203,Logan County,1005-49,Olmstead Elementary School,42.42%,,Y,48.44%,429,182
+ky,10194,Ludlow Independent,1000-81,Mary A Goetz Elementary School/Ludlow High School,60.92%,,Y,61.82%,859,523
+ky,10204,Lyon County,1002-61,Lyon Cty ES/Lyon Cty MS/Lyon Cty HS,42.23%,,Y,50.84%,952,402
+ky,10205,Madison County,1018-7,B Michael Caudill Middle School,34.58%,,Y,45.23%,642,222
+ky,10205,Madison County,1006-46,Bellevue Learning Center,90.91%,,Y,45.23%,22,20
+ky,10205,Madison County,1004-48,Clark Moores Middle School,53.24%,,Y,45.23%,524,279
+ky,10205,Madison County,1009-24,Daniel Boone Elementary School,49.58%,,Y,45.23%,480,238
+ky,10205,Madison County,1023-6,Farristown Middle School,38.77%,,Y,45.23%,472,183
+ky,10205,Madison County,1001-58,Foley Middle School,43.84%,,Y,45.23%,463,203
+ky,10205,Madison County,1012-16,Glenn R Marshall Elementary School,53.32%,,Y,45.23%,339,181
+ky,10205,Madison County,1014-14,Kingston Elementary School,61.48%,,Y,45.23%,514,316
+ky,10205,Madison County,1000-82,Kirksville Elementary School,58.89%,,Y,45.23%,579,341
+ky,10205,Madison County,1007-35,Kit Carson Elementary School,38.61%,,Y,45.23%,588,227
+ky,10205,Madison County,1021-6,Madison Central High School,39.04%,,Y,45.23%,1957,764
+ky,10205,Madison County,1102-0,Madison Kindergarten Academy,52.45%,,Y,45.23%,368,193
+ky,10205,Madison County,1010-25,Madison Middle School,54.10%,,Y,45.23%,488,264
+ky,10205,Madison County,1013-14,Madison Southern High School,39.68%,,Y,45.23%,1187,471
+ky,10205,Madison County,1011-24,Shannon Johnson Elementary School,42.93%,,Y,45.23%,622,267
+ky,10205,Madison County,1017-9,Silver Creek Elementary School,48.50%,,Y,45.23%,501,243
+ky,10205,Madison County,1002-62,Waco Elementary School,55.35%,,Y,45.23%,486,269
+ky,10205,Madison County,1005-50,White Hall Elementary School,33.84%,,Y,45.23%,415,140
+ky,10205,Madison County,1175-0,Boonesborough Elementary,0.00%,,Y,45.23%,346,0
+ky,10085,Magoffin County,1025-4,Herald Whitaker middle school,67.56%,,Y,62.50%,465,314
+ky,10085,Magoffin County,1007-36,Magoffin County High School,68.14%,,Y,62.50%,610,416
+ky,10085,Magoffin County,1001-59,North Magoffin Elementary,61.92%,,Y,62.50%,444,275
+ky,10085,Magoffin County,1002-63,Salyersville Grade School,75.31%,,Y,62.50%,448,337
+ky,10085,Magoffin County,1000-83,South Magoffin Elementary,64.89%,,Y,62.50%,205,133
+ky,10206,Marion County,1003-59,Calvary Elementary School,48.51%,,Y,53.14%,218,106
+ky,10206,Marion County,1007-37,Glasscock Elementary School,67.35%,,Y,53.14%,489,329
+ky,10206,Marion County,1004-49,Lebanon Elementary School,63.04%,,Y,53.14%,406,256
+ky,10206,Marion County,1000-84,Marion County High School,39.72%,,Y,53.14%,746,296
+ky,10206,Marion County,1002-64,Marion County Knights Academy,49.40%,,Y,53.14%,491,243
+ky,10206,Marion County,1001-60,Marion County Middle School,53.67%,,Y,53.14%,512,275
+ky,10206,Marion County,1005-51,West Marion Elementary School,43.95%,,Y,53.14%,439,193
+ky,10086,Marshall County,1002-65,Benton Elementary School,50.45%,,Y,45.38%,548,276
+ky,10086,Marshall County,1009-25,Calvert City Elementary School,56.35%,,Y,45.38%,314,177
+ky,10086,Marshall County,1003-60,Central Elementary School,46.05%,,Y,45.38%,523,241
+ky,10086,Marshall County,1006-47,Jonathan Elementary School,63.16%,,Y,45.38%,236,149
+ky,10086,Marshall County,1011-25,Marshall County High School,36.74%,,Y,45.38%,1304,479
+ky,10086,Marshall County,1004-50,North Marshall Middle School,37.63%,,Y,45.38%,550,207
+ky,10086,Marshall County,1000-85,Sharpe Elementary School,42.56%,,Y,45.38%,324,138
+ky,10086,Marshall County,1001-61,South Marshall Elementary School,64.09%,,Y,45.38%,320,205
+ky,10086,Marshall County,1010-26,South Marshall Middle School,45.24%,,Y,45.38%,506,229
+ky,10207,Martin County,1005-52,Eden Elementary School,75.96%,,Y,62.50%,395,300
+ky,10207,Martin County,1002-66,Inez Elementary School,67.81%,,Y,62.50%,289,196
+ky,10207,Martin County,1008-33,Martin County MS,69.13%,,Y,62.50%,413,286
+ky,10207,Martin County,1006-48,Sheldon Clark High School,66.92%,,Y,62.50%,551,369
+ky,10207,Martin County,1003-61,Warfield Elementary School,83.38%,,Y,62.50%,331,276
+ky,10181,Maryhurst,1004-51,Maryhurst Euphrasia Program,0.00%,,N,,,
+ky,10181,Maryhurst,1003-62,Maryhurst Rosehaven,0.00%,,N,,,
+ky,10181,Maryhurst,1006-49,Maryhurst Rose's Cottage,0.00%,,N,,,
+ky,10181,Maryhurst,1005-53,Maryhurst Sophie's Cottage,0.00%,,N,,,
+ky,10181,Maryhurst,1000-86,Maryhurst Treasure Home,0.00%,,N,,,
+ky,10087,Mason County,1004-52,Charles Straub Elementary School,60.20%,,Y,55.88%,714,430
+ky,10087,Mason County,1005-54,Mason County High School,50.13%,,Y,55.88%,733,367
+ky,10087,Mason County,1002-67,Mason County Intermediate School,59.39%,,Y,55.88%,639,380
+ky,10087,Mason County,1000-87,Mason County Middle School,51.26%,,Y,55.88%,636,326
+ky,10046,Mayfield Independent,1002-68,Mayfield Elementary School,76.16%,,Y,62.50%,958,730
+ky,10046,Mayfield Independent,1000-88,Mayfield High School,60.44%,,Y,62.50%,479,290
+ky,10046,Mayfield Independent,1003-63,Mayfield Middle School,66.07%,,Y,62.50%,533,352
+ky,10088,McCracken County,1013-15,Concord Elementary School,38.07%,,Y,42.11%,667,254
+ky,10088,McCracken County,1011-26,Heath Elementary School,42.23%,,Y,42.11%,439,185
+ky,10088,McCracken County,1018-8,Heath Middle School/MOCS,45.33%,,Y,42.11%,602,273
+ky,10088,McCracken County,1014-15,Hendron Lone Oak Elementary School,47.24%,,Y,42.11%,481,227
+ky,10088,McCracken County,1002-69,Lone Oak Elementary School,46.50%,,Y,42.11%,558,259
+ky,10088,McCracken County,1017-10,Lone Oak Intermediate,39.96%,,Y,42.11%,489,195
+ky,10088,McCracken County,1001-62,Lone Oak Middle School,37.47%,,Y,42.11%,777,291
+ky,10088,McCracken County,1016-10,McCracken County High School,33.84%,,Y,42.11%,1939,656
+ky,10088,McCracken County,1006-50,Reidland Elementary School,62.06%,,Y,42.11%,579,359
+ky,10088,McCracken County,1019-7,Reidland Middle School/Reidland Intermediate School,51.46%,,Y,42.11%,565,291
+ky,10089,McCreary County,1005-55,McCreary Central High School,68.56%,,Y,62.50%,755,518
+ky,10089,McCreary County,1008-34,McCreary County Middle School,76.13%,,Y,62.50%,484,368
+ky,10089,McCreary County,1007-38,Pine Knot Elementary Building 1,77.52%,,Y,62.50%,637,494
+ky,10089,McCreary County,1000-89,Pine Knot Elementary Building 2,73.40%,,Y,62.50%,360,264
+ky,10089,McCreary County,1003-64,Whitley City Elementary School,76.15%,,Y,62.50%,676,515
+ky,10210,McLean County,1005-56,Calhoun Elementary School,53.95%,,N,,367,198
+ky,10210,McLean County,1001-63,Livermore Elementary School,67.25%,,N,,284,191
+ky,10210,McLean County,1000-90,Marie Gatton Phillips Elementary,63.43%,,N,,134,85
+ky,10210,McLean County,1002-70,McLean County High School,41.13%,,N,,479,197
+ky,10210,McLean County,1003-65,McLean County Middle School,49.71%,,N,,340,169
+ky,10090,Meade County,1004-53,Brandenburg Primary School,49.38%,,Y,44.45%,831,410
+ky,10090,Meade County,1000-91,David T Wilson Elementary,39.62%,,Y,44.45%,501,198
+ky,10090,Meade County,1005-57,Ekron Elementary School,46.55%,,Y,44.45%,362,169
+ky,10090,Meade County,1002-71,Flaherty Elementary School,55.59%,,Y,44.45%,316,176
+ky,10090,Meade County,1006-51,Flaherty Primary School,50.00%,,Y,44.45%,400,200
+ky,10090,Meade County,1011-27,Meade County High School,38.51%,,Y,44.45%,1525,587
+ky,10090,Meade County,1012-17,Payneville Elementary School,42.92%,,Y,44.45%,236,101
+ky,10090,Meade County,1008-35,Stuart Pepper Middle School,44.32%,,Y,44.45%,783,347
+ky,10211,Menifee County,1003-66,Botts Elementary School,66.67%,,Y,62.50%,205,137
+ky,10211,Menifee County,1004-54,Menifee County High School,38.14%,,Y,62.50%,524,200
+ky,10211,Menifee County,1002-72,Menifee Elementary School,71.23%,,Y,62.50%,266,189
+ky,10212,Mercer County,1008-36,Kenneth D King Middle School,47.63%,,Y,50.81%,604,288
+ky,10212,Mercer County,1005-58,Mercer Central/Day Treatment,82.50%,,Y,50.81%,61,50
+ky,10212,Mercer County,1010-27,Mercer County Elementary School,59.11%,,Y,50.81%,773,457
+ky,10212,Mercer County,1004-55,Mercer County Intermediate School,54.02%,,Y,50.81%,644,348
+ky,10212,Mercer County,1000-92,Mercer County Senior High School,36.78%,,Y,50.81%,760,280
+ky,10092,Metcalfe County,1009-26,Metcalfe County Elementary,70.65%,,Y,62.50%,818,578
+ky,10092,Metcalfe County,1004-56,Metcalfe County High School,51.88%,,Y,62.50%,507,263
+ky,10092,Metcalfe County,1001-64,Metcalfe County Middle School,59.94%,,Y,62.50%,348,209
+ky,10006,Middlesboro Independent,1000-93,Middlesboro Central School,58.97%,,Y,62.50%,35,21
+ky,10006,Middlesboro Independent,1006-52,Middlesboro Elementary School,54.78%,,Y,62.50%,458,251
+ky,10006,Middlesboro Independent,1003-67,Middlesboro High School,65.76%,,Y,62.50%,357,235
+ky,10006,Middlesboro Independent,1001-65,Middlesboro Middle School,74.74%,,Y,62.50%,326,244
+ky,10213,Monroe County,1005-59,Gamaliel Elementary,68.05%,,Y,60.30%,266,181
+ky,10213,Monroe County,1001-66,Joe Harrison Carter,51.74%,,Y,60.30%,259,134
+ky,10213,Monroe County,1003-68,Monroe Co High,54.11%,,Y,60.30%,560,303
+ky,10213,Monroe County,1002-73,Monroe Co Middle,60.27%,,Y,60.30%,438,264
+ky,10213,Monroe County,1000-94,Tompkinsville Elem,68.87%,,Y,60.30%,424,292
+ky,10215,Montgomery County,1004-57,Camargo Elementary School,69.67%,,Y,55.81%,521,363
+ky,10215,Montgomery County,1007-39,Mapleton Elementary School,57.71%,,Y,55.81%,761,439
+ky,10215,Montgomery County,1009-27,McNabb Middle School,54.03%,,Y,55.81%,657,355
+ky,10215,Montgomery County,1002-74,Montgomery County Early Learning Center,64.15%,,N,,159,102
+ky,10215,Montgomery County,1006-53,Montgomery County High School,48.23%,,Y,55.81%,1354,653
+ky,10215,Montgomery County,1012-18,Montgomery County Intermediate School,55.21%,,Y,55.81%,748,413
+ky,10215,Montgomery County,1010-28,Mount Sterling Elementary School,59.28%,,Y,55.81%,661,392
+ky,10095,Morgan County,1007-40,East Valley Elementary School,72.46%,,Y,62.50%,130,94
+ky,10095,Morgan County,1005-60,Ezel Elementary School,75.59%,,Y,62.50%,119,90
+ky,10095,Morgan County,1003-69,Morgan Central Elementary School,68.79%,,Y,62.50%,308,212
+ky,10095,Morgan County,1010-29,Morgan County High School,59.61%,,Y,62.50%,566,337
+ky,10095,Morgan County,1006-54,Morgan County Middle School,62.14%,,Y,62.50%,477,296
+ky,10095,Morgan County,1000-95,Wrigley Elementary Sch,68.97%,,Y,62.50%,306,211
+ky,10216,Muhlenberg County,1013-16,Bremen Elementary School,53.03%,,Y,53.21%,428,227
+ky,10216,Muhlenberg County,1004-58,Central City Elementary,69.63%,,Y,53.21%,432,301
+ky,10216,Muhlenberg County,1017-11,Greenville Elementary School,54.21%,,Y,53.21%,554,300
+ky,10216,Muhlenberg County,1000-96,Longest Elementary,52.93%,,Y,53.21%,445,236
+ky,10216,Muhlenberg County,1018-9,Muhlenberg County High School - East,48.07%,,Y,53.21%,716,344
+ky,10216,Muhlenberg County,1009-28,Muhlenberg County High School - West,40.56%,,Y,53.21%,642,260
+ky,10216,Muhlenberg County,1003-70,Muhlenberg North Middle,57.43%,,Y,53.21%,670,385
+ky,10216,Muhlenberg County,1005-61,Muhlenberg South Elementary,67.50%,,Y,53.21%,525,354
+ky,10216,Muhlenberg County,1001-67,Muhlenberg South Middle School,51.89%,,Y,53.21%,482,250
+ky,10141,Murray Independent,1004-59,Murray Elementary School,40.68%,,N,,531,216
+ky,10141,Murray Independent,1005-62,Murray High School,28.63%,,N,,,
+ky,10141,Murray Independent,1006-55,Murray Middle School,34.98%,,N,,606,212
+ky,10141,Murray Independent,1000-97,Murray Preschool Head Start,71.88%,,Y,62.50%,16,12
+ky,10141,Murray Independent,1003-71,Ruby Simpson Head Start,59.38%,,Y,62.50%,20,12
+ky,10141,Murray Independent,1002-75,Willis Center Head Start,78.79%,,Y,62.50%,19,15
+ky,10141,Murray Independent,1038-1,Judy Whitten Early Childhood Center,0.00%,,Y,62.50%,29,0
+ky,10067,Nativity Academy Of St. Boniface,1000-98,Nativity Academy At St Boniface,64.77%,,Y,62.50%,88,57
+ky,10217,Nelson County,1010-30,Bloomfield Elementary School,47.55%,,Y,50.25%,319,152
+ky,10217,Nelson County,1008-37,Bloomfield Middle School,36.01%,,N,,386,139
+ky,10217,Nelson County,1002-76,Boston School,44.38%,,Y,50.25%,337,150
+ky,10217,Nelson County,1013-17,Coxs Creek Elementary School,35.29%,,N,,493,174
+ky,10217,Nelson County,1012-19,Foster Heights Elementary School,44.53%,,Y,48.10%,651,290
+ky,10217,Nelson County,1006-56,Nelson County Early Learning Center,53.85%,,Y,50.25%,316,170
+ky,10217,Nelson County,1001-68,Nelson County High School,39.92%,,N,,789,315
+ky,10217,Nelson County,1005-63,New Horizons Prog At Nelson HS,73.44%,,Y,50.25%,102,75
+ky,10217,Nelson County,1007-41,Old Kentucky Home Middle School,44.25%,,Y,48.10%,351,155
+ky,10217,Nelson County,1004-60,The New Haven School,50.47%,,Y,50.25%,339,171
+ky,10217,Nelson County,1014-16,Thomas Nelson High School,29.14%,,N,,,
+ky,10024,Newport Independent,1006-57,Newport High School,76.34%,,Y,62.50%,597,456
+ky,10024,Newport Independent,1005-64,Newport Intermediate School,86.30%,,Y,62.50%,492,425
+ky,10024,Newport Independent,1001-69,Newport Primary School,82.91%,,Y,62.50%,440,365
+ky,10097,Nicholas County,1000-99,Nicholas County Elementary School,67.84%,,Y,62.50%,657,446
+ky,10097,Nicholas County,1001-70,Nicholas County High School,56.42%,,Y,62.50%,465,262
+ky,12242,Notre Dame Academy,0001-0,Notre Dame Academy,10.93%,,N,,,
+ky,10013,Office of Teaching and Learning,1011-28,KSB,24.24%,,Y,48.45%,71,17
+ky,10013,Office of Teaching and Learning,1000-100,KSD,55.14%,,Y,48.45%,90,50
+ky,10218,Ohio County,1009-29,Beaver Dam Elementary School,65.91%,,Y,61.68%,609,401
+ky,10218,Ohio County,1010-31,Fordsville Elementary School,68.03%,,Y,61.68%,255,173
+ky,10218,Ohio County,1003-72,Horse Branch Elementary School,76.64%,,Y,61.68%,208,159
+ky,10218,Ohio County,1005-65,Ohio County High School,51.26%,,Y,61.68%,1071,549
+ky,10218,Ohio County,1001-71,Ohio County Middle School,53.38%,,Y,61.68%,729,389
+ky,10218,Ohio County,1007-42,Render Center,82.22%,,Y,61.68%,117,96
+ky,10218,Ohio County,1011-29,Southern Elementary School,56.50%,,Y,61.68%,340,192
+ky,10218,Ohio County,1004-61,Wayland Alexander Elementary School,61.52%,,Y,61.68%,638,392
+ky,10218,Ohio County,1006-58,Western Elementary School,72.41%,,Y,61.68%,328,238
+ky,10098,Oldham County,1016-11,Buckner Elementary School,12.59%,,N,,,
+ky,10098,Oldham County,1020-7,Camden Station Elementary School,18.93%,,N,,,
+ky,10098,Oldham County,1013-18,Centerfield Elementary School,22.22%,,N,,,
+ky,10098,Oldham County,1007-43,Crestwood Elementary School,23.82%,,N,,,
+ky,10098,Oldham County,1010-32,East Oldham Middle School,11.41%,,N,,,
+ky,10098,Oldham County,1001-72,Goshen At Hillcrest Elementary School,5.38%,,N,,,
+ky,10098,Oldham County,1017-12,Harmony Elementary School,9.59%,,N,,,
+ky,10098,Oldham County,1023-7,Kenwood Station Elementary School,9.92%,,N,,,
+ky,10098,Oldham County,1022-4,Lagrange Elementary School,47.67%,,Y,41.76%,455,217
+ky,10098,Oldham County,1000-101,Locust Grove Elementary School,18.36%,,N,,,
+ky,10098,Oldham County,1004-62,North Oldham High School,6.12%,,N,,,
+ky,10098,Oldham County,1003-73,North Oldham Middle School,6.16%,,N,,,
+ky,10098,Oldham County,1015-15,Oldham County HS/Buckner Alternative HS,19.46%,,N,,,
+ky,10098,Oldham County,1005-66,Oldham County Middle School,25.50%,,N,,,
+ky,10098,Oldham County,1011-30,Oldham County Preschool,39.53%,,N,,253,100
+ky,10098,Oldham County,1006-59,South Oldham High School,11.98%,,N,,,
+ky,10098,Oldham County,1024-4,South Oldham Middle School,17.04%,,N,,,
+ky,10219,Owen County,1003-74,Maurice Bowling Middle School,51.16%,,Y,55.24%,592,303
+ky,10219,Owen County,1002-77,Owen County High School,49.82%,,Y,55.24%,591,294
+ky,10219,Owen County,1000-102,Owen County Lower Elementary,62.90%,,Y,55.24%,480,302
+ky,10219,Owen County,1001-73,Owen County Upper Elementary,60.29%,,Y,55.24%,265,160
+ky,10033,Owensboro Independent,1016-12,Cravens Elementary School,81.23%,,Y,62.50%,331,269
+ky,10033,Owensboro Independent,1001-74,Estes Elementary School,83.23%,,Y,62.50%,540,449
+ky,10033,Owensboro Independent,1013-19,Foust Elementary School,99.47%,,Y,62.50%,437,435
+ky,10033,Owensboro Independent,1004-63,Gateway Academy,95.52%,,Y,62.50%,76,73
+ky,10033,Owensboro Independent,1017-13,Hager Preschool,76.98%,,Y,62.50%,267,206
+ky,10033,Owensboro Independent,1005-67,Newton Parrish Elementary School,58.45%,,Y,62.50%,519,303
+ky,10033,Owensboro Independent,1015-16,Owensboro High School,53.21%,,Y,62.50%,1135,604
+ky,10033,Owensboro Independent,1055-0,Owensboro Innovation Academy,42.60%,,Y,62.50%,276,118
+ky,10033,Owensboro Independent,1010-33,Owensboro Middle School North,62.67%,,Y,62.50%,724,454
+ky,10033,Owensboro Independent,1012-20,Owensboro Middle School South,72.27%,,Y,62.50%,407,294
+ky,10033,Owensboro Independent,1008-38,Sutton Elementary School,36.48%,,Y,62.50%,495,181
+ky,10099,Owsley County,1002-78,Owsley County Elementary School,77.63%,,Y,62.50%,408,317
+ky,10099,Owsley County,1000-103,Owsley County High School,73.95%,,Y,62.50%,387,286
+ky,10209,Paducah Independent,1007-44,Choices Alternative School,84.62%,,Y,62.50%,53,45
+ky,10209,Paducah Independent,1001-75,Clark Elementary School,45.50%,,Y,62.50%,612,278
+ky,10209,Paducah Independent,1008-39,McNabb Elementary School,84.28%,,Y,62.50%,374,315
+ky,10209,Paducah Independent,1003-75,Morgan Elementary School,81.91%,,Y,62.50%,407,333
+ky,10209,Paducah Independent,1041-0,Paducah Head Start,88.62%,,Y,62.50%,280,248
+ky,10209,Paducah Independent,1006-60,Paducah Middle School,61.06%,,Y,62.50%,646,394
+ky,10209,Paducah Independent,1009-30,Paducah Tilghman High School,51.50%,,Y,62.50%,749,386
+ky,10069,Paintsville Independent,1000-104,Paintsville Elementary School,43.11%,,N,,392,169
+ky,10069,Paintsville Independent,1002-79,Paintsville High School,33.69%,,N,,374,126
+ky,10009,Paris Independent,1002-80,Paris Elementary School,77.46%,,Y,62.50%,357,277
+ky,10009,Paris Independent,1017-14,Paris Middle/High School,53.60%,,Y,62.50%,347,186
+ky,10220,Pendleton County,1001-76,Northern Elementary School,52.05%,,Y,56.23%,540,281
+ky,10220,Pendleton County,1000-105,Pendleton County High School,47.97%,,Y,56.23%,748,359
+ky,10220,Pendleton County,1002-81,Phillip Sharp Middle School,53.13%,,Y,56.23%,534,284
+ky,10220,Pendleton County,1003-76,Southern Elementary School,68.09%,,Y,56.23%,579,394
+ky,10101,Perry County,1081-0,Buckhorn Children's Center,100.00%,,Y,62.50%,29,29
+ky,10101,Perry County,1004-64,Buckhorn School,77.74%,,Y,62.50%,310,241
+ky,10101,Perry County,1048-1,East Perry Elementary,58.10%,,Y,62.50%,809,470
+ky,10101,Perry County,1009-31,Leatherwood Elementary School,71.70%,,Y,62.50%,159,114
+ky,10101,Perry County,1010-34,Perry County Central HS/Alternative HS,60.85%,,Y,62.50%,843,513
+ky,10101,Perry County,1003-77,Robert W Combs Elementary School,70.49%,,Y,62.50%,427,301
+ky,10101,Perry County,1002-82,Robinson Elementary School,63.47%,,Y,62.50%,271,172
+ky,10101,Perry County,1007-45,Viper Elementary School,63.20%,,Y,62.50%,269,170
+ky,10101,Perry County,1000-106,West Perry Elementary,76.32%,,Y,62.50%,853,651
+ky,10222,Pike County,1001-77,Belfry Elementary School,63.28%,,Y,62.50%,615,389
+ky,10222,Pike County,1031-3,Belfry High School,46.55%,,Y,62.50%,584,272
+ky,10222,Pike County,1019-8,Belfry Middle School,53.66%,,Y,62.50%,407,218
+ky,10222,Pike County,1016-13,Bevins Elementary School,78.14%,,Y,62.50%,237,185
+ky,10222,Pike County,1030-1,Dorton Elementary School,69.57%,,Y,62.50%,284,198
+ky,10222,Pike County,1017-15,East Ridge High School,63.58%,,Y,62.50%,477,303
+ky,10222,Pike County,1002-83,Elkhorn City Elementary School,71.40%,,Y,62.50%,468,334
+ky,10222,Pike County,1007-46,Feds Creek Elementary School,80.10%,,Y,62.50%,190,152
+ky,10222,Pike County,1004-65,Johns Creek Elementary School,67.16%,,Y,62.50%,735,494
+ky,10222,Pike County,1014-17,Kimper Elementary School,76.97%,,Y,62.50%,151,116
+ky,10222,Pike County,1022-5,Millard School,75.04%,,Y,62.50%,675,507
+ky,10222,Pike County,1023-8,Mullins Elementary School,63.84%,,Y,62.50%,774,494
+ky,10222,Pike County,1011-31,Northpoint Academy,90.00%,,Y,62.50%,103,93
+ky,10222,Pike County,1009-32,Phelps Elementary School,74.70%,,Y,62.50%,413,309
+ky,10222,Pike County,1025-5,Phelps High School,63.90%,,Y,62.50%,305,195
+ky,10222,Pike County,1000-107,Pike County Central High School,57.41%,,Y,62.50%,619,355
+ky,10222,Pike County,1027-3,Shelby Valley High School,61.34%,,Y,62.50%,540,331
+ky,10222,Pike County,1034-2,Valley Elementary School,67.80%,,Y,62.50%,908,616
+ky,10102,Pikeville Independent,1000-108,Pikeville Elementary School,38.35%,,N,,665,255
+ky,10102,Pikeville Independent,1001-78,Pikeville High School,27.85%,,N,,,
+ky,10127,Pineville Independent,1004-66,Pineville Elementary/Middle/High school,64.38%,,Y,62.50%,590,380
+ky,10223,Powell County,1003-78,Bowen Elementary School,71.37%,,Y,62.50%,256,183
+ky,10223,Powell County,1002-84,Clay City Elementary School,75.79%,,Y,62.50%,507,384
+ky,10223,Powell County,1016-14,Powell County Academy,90.48%,,Y,62.50%,20,18
+ky,10223,Powell County,1001-79,Powell County High School,57.10%,,Y,62.50%,651,372
+ky,10223,Powell County,1004-67,Powell County Middle School,61.55%,,Y,62.50%,532,327
+ky,10223,Powell County,1000-109,Stanton Elementary School,61.29%,,Y,62.50%,388,238
+ky,10104,Pulaski County,1016-15,Burnside Elementary School,86.15%,,Y,61.71%,419,361
+ky,10104,Pulaski County,1011-32,Eubank Elementary School,79.82%,,Y,61.71%,338,270
+ky,10104,Pulaski County,1006-61,Memorial Education Center,50.50%,,Y,61.71%,309,156
+ky,10104,Pulaski County,1015-17,Nancy Elementary School,68.16%,,Y,61.71%,411,280
+ky,10104,Pulaski County,1003-79,Northern Elementary School,61.33%,,Y,61.71%,476,292
+ky,10104,Pulaski County,1013-20,Northern Middle School,58.55%,,Y,61.71%,869,509
+ky,10104,Pulaski County,1004-68,Oak Hill Elementary School,50.18%,,Y,61.71%,520,261
+ky,10104,Pulaski County,1073-1,Pulaski County Day Treatment,81.13%,,Y,61.71%,57,46
+ky,10104,Pulaski County,1002-85,Pulaski County High School,51.07%,,Y,61.71%,1195,610
+ky,10104,Pulaski County,1014-18,Pulaski Elementary School,58.77%,,Y,61.71%,612,360
+ky,10104,Pulaski County,1008-40,Shopville Elementary School,68.15%,,Y,61.71%,355,242
+ky,10104,Pulaski County,1005-68,Southern Elementary School,68.96%,,Y,61.71%,681,470
+ky,10104,Pulaski County,1010-35,Southern Middle School,62.15%,,Y,61.71%,1073,667
+ky,10104,Pulaski County,1009-33,Southwestern High School,54.63%,,Y,61.71%,1282,700
+ky,10048,Raceland-Worthington Independent,1003-80,Campbell Elementary School,49.67%,,N,,306,152
+ky,10048,Raceland-Worthington Independent,1002-86,Raceland-worthington High School,36.86%,,N,,472,174
+ky,10048,Raceland-Worthington Independent,1004-69,Worthington Elementary School,53.75%,,N,,240,129
+ky,10130,Ramey-Estep Homes Inc.,1000-110,Ramey Estep High School,0.00%,,N,,,
+ky,10029,Red Bird Missions,1000-111,Red Bird Mission Elementary,69.16%,,Y,62.50%,192,133
+ky,10226,Robertson County,1001-80,Robertson County,56.93%,,Y,59.80%,398,227
+ky,10106,Rockcastle County,1005-69,Brodhead Elementary School,65.36%,,Y,62.50%,439,287
+ky,10106,Rockcastle County,1001-81,Mt Vernon Elementary,64.31%,,Y,62.50%,645,415
+ky,10106,Rockcastle County,1004-70,Rockcastle County High School,56.04%,,Y,62.50%,828,464
+ky,10106,Rockcastle County,1002-87,Rockcastle County Middle School,63.02%,,Y,62.50%,651,410
+ky,10106,Rockcastle County,1006-62,Roundstone Elementary School,64.86%,,Y,62.50%,269,174
+ky,10228,Rowan County,1011-33,Bluegrass Discovery Academy,100.00%,,Y,56.41%,35,35
+ky,10228,Rowan County,1001-82,Clearfield Elementary School,76.63%,,Y,56.41%,335,257
+ky,10228,Rowan County,1006-63,McBrayer Elementary School,50.64%,,Y,56.41%,523,265
+ky,10228,Rowan County,1007-47,Rodburn Elementary School,67.79%,,Y,56.41%,442,300
+ky,10228,Rowan County,1008-41,Rowan County Middle School,52.50%,,Y,56.41%,788,414
+ky,10228,Rowan County,1000-112,Rowan County Preschool Center,56.58%,,Y,56.41%,220,124
+ky,10228,Rowan County,1010-36,Rowan County Senior High School,46.30%,,Y,56.41%,917,425
+ky,10228,Rowan County,1003-81,Tilden Hogge Elementary School,55.98%,,Y,56.41%,220,123
+ky,10108,Russell County,1006-64,Jamestown Elementary School,69.14%,,Y,62.50%,524,362
+ky,10108,Russell County,1003-82,Russell County High School,57.68%,,Y,62.50%,874,504
+ky,10108,Russell County,1004-71,Russell County Middle School,59.52%,,Y,62.50%,662,394
+ky,10108,Russell County,1002-88,Russell Springs Elementary School,71.06%,,Y,62.50%,668,475
+ky,10108,Russell County,1000-113,Salem Elementary School,68.29%,,Y,62.50%,451,308
+ky,10169,Russell Independent,1002-89,Russell High School,30.54%,,N,,632,193
+ky,10169,Russell Independent,1003-83,Russell Middle School,38.75%,,N,,529,205
+ky,10169,Russell Independent,1004-72,Russell Primary School,45.82%,,N,,622,285
+ky,10169,Russell Independent,1000-114,Russell-McDowell Intermediate School,39.53%,,N,,511,202
+ky,10083,Russellville Independent,1002-90,R E Stevenson Elementary School,69.78%,,Y,62.50%,548,382
+ky,10083,Russellville Independent,1000-115,Russellville Junior/Senior High School,61.38%,,Y,62.50%,508,312
+ky,10225,Science Hill Independent,1000-116,Science Hill Elementary School,53.86%,,Y,53.86%,414,223
+ky,10229,Scott County,1007-48,Anne Mason Elementary School,42.93%,,Y,43.04%,493,212
+ky,10229,Scott County,1025-6,Cardinal Academy,65.14%,,Y,43.04%,85,55
+ky,10229,Scott County,1006-65,Eastern Elementary School,33.77%,,N,,533,180
+ky,10229,Scott County,1014-19,Garth Elementary School,59.12%,,Y,43.04%,374,221
+ky,10229,Scott County,1002-91,Georgetown Middle School,53.42%,,Y,43.04%,570,304
+ky,10229,Scott County,1017-16,Lemons Mill Elementary School,29.59%,,N,,,
+ky,10229,Scott County,1012-21,Northern Elementary School,32.68%,,N,,407,133
+ky,10229,Scott County,1011-34,Royal Spring Middle School,30.44%,,N,,900,274
+ky,10229,Scott County,1004-73,Scott County High School,29.16%,,N,,,
+ky,10229,Scott County,1000-117,Scott County Middle School,30.74%,,N,,784,241
+ky,10229,Scott County,1005-70,Scott County Preschool,53.66%,,Y,43.04%,345,185
+ky,10229,Scott County,1013-21,Southern Elementary School,59.57%,,Y,43.04%,559,333
+ky,10229,Scott County,1010-37,Stamping Ground Elementary School,42.48%,,Y,43.04%,422,179
+ky,10229,Scott County,1001-83,Western Elementary School,29.35%,,N,,,
+ky,10229,Scott County,1038-2,Creekside Elementary,0.00%,,Y,43.04%,519,0
+ky,10109,Shelby County,1006-66,Clear Creek Elementary,36.12%,,Y,48.59%,578,209
+ky,10109,Shelby County,1005-71,Heritage Elementary School,37.47%,,Y,48.59%,492,184
+ky,10109,Shelby County,1008-42,Martha Layne Collins High School,29.05%,,N,,,
+ky,10109,Shelby County,1024-5,Northside Early Childhood Center,53.81%,,Y,48.59%,373,201
+ky,10109,Shelby County,1010-38,Painted Stone Elementary,33.65%,,Y,48.59%,414,139
+ky,10109,Shelby County,1002-92,Shelby County East Middle School,45.30%,,Y,48.59%,456,207
+ky,10109,Shelby County,1001-84,Shelby County High School,36.68%,,N,,1273,467
+ky,10109,Shelby County,1009-34,Shelby County West Middle School,40.44%,,Y,48.59%,423,171
+ky,10109,Shelby County,1003-84,Simpsonville Elementary,35.51%,,Y,48.59%,425,151
+ky,10109,Shelby County,1012-22,Southside Elementary School,50.96%,,Y,48.59%,396,202
+ky,10109,Shelby County,1007-49,Wright Elementary,49.90%,,Y,48.59%,460,230
+ky,10109,Shelby County,1056-1,Marnel C. Moorman School,0.00%,,Y,48.59%,638,0
+ky,10145,Silver Grove Independent,1001-85,Silver Grove School,62.44%,,N,,197,123
+ky,10230,Simpson County,1000-118,Franklin Elementary School,58.54%,,Y,50.72%,368,215
+ky,10230,Simpson County,1004-74,Franklin-Simpson High School,41.81%,,Y,50.72%,906,379
+ky,10230,Simpson County,1003-85,Franklin-Simpson Middle School,47.91%,,Y,50.72%,665,319
+ky,10230,Simpson County,1005-72,Learning Opportunities Center Alt Sch,69.44%,,Y,50.72%,66,46
+ky,10230,Simpson County,1001-86,Lincoln Elementary School,53.80%,,Y,50.72%,466,251
+ky,10230,Simpson County,1002-93,Simpson Elementary School,51.88%,,Y,50.72%,668,347
+ky,10105,Somerset Independent,1002-94,Hopkins Elementary School,66.41%,,Y,60.31%,645,428
+ky,10105,Somerset Independent,1000-119,Meece Middle School,56.66%,,Y,60.31%,490,278
+ky,10105,Somerset Independent,1004-75,Somerset High School,47.11%,,Y,60.31%,528,249
+ky,10025,Southgate Independent,1000-120,Southgate Public School,58.96%,,Y,59.57%,188,111
+ky,10110,Spencer County,1004-76,Spencer County Elementary School,32.85%,,N,,764,251
+ky,10110,Spencer County,1003-86,Spencer County High School,30.78%,,N,,900,277
+ky,10110,Spencer County,1001-87,Spencer County Middle School,31.22%,,N,,695,217
+ky,10110,Spencer County,1002-95,Taylorsville Elementary School,48.34%,,N,,664,321
+ky,12234,St. Nicholas Academy,0001-1,St. Nicholas Academy,33.54%,,N,,328,110
+ky,12235,St. Rita Catholic School,0001-2,Saint Rita Catholic School,41.94%,,N,,310,130
+ky,10187,Sunrise Children's Services,1004-77,Crossroads Treatment Center,0.00%,,N,,,
+ky,10187,Sunrise Children's Services,1008-43,Cumberland Adventure Program,0.00%,,N,,,
+ky,10187,Sunrise Children's Services,1006-67,Glen Dale Center,0.00%,,N,,,
+ky,10187,Sunrise Children's Services,1000-121,Morehead Center,0.00%,,N,,,
+ky,10187,Sunrise Children's Services,1003-87,Spring Meadows,0.00%,,N,,,
+ky,10187,Sunrise Children's Services,1005-73,Woodlawn Center,0.00%,,N,,,
+ky,10111,Taylor County,1002-96,Taylor County Elementary School,55.27%,,Y,49.91%,1243,687
+ky,10111,Taylor County,1000-122,Taylor County High School,43.67%,,Y,49.91%,829,362
+ky,10111,Taylor County,1001-88,Taylor County Middle School,47.57%,,Y,49.91%,637,303
+ky,10232,Todd County,1004-78,Horizons High School,75.76%,,Y,57.17%,32,24
+ky,10232,Todd County,1001-89,North Todd Elementary School,55.65%,,Y,57.17%,438,244
+ky,10232,Todd County,1002-97,South Todd Elementary School,56.77%,,Y,57.17%,546,310
+ky,10232,Todd County,1000-123,Todd County Central High School,44.87%,,Y,46.78%,528,237
+ky,10232,Todd County,1003-88,Todd County Middle School,51.82%,,Y,57.17%,476,247
+ky,10112,Trigg County,1001-90,Harbor Academy,90.91%,,Y,48.98%,12,11
+ky,10112,Trigg County,1002-98,Trigg County High School,39.83%,,Y,48.98%,628,250
+ky,10112,Trigg County,1006-68,Trigg County Preschool,57.27%,,Y,48.98%,104,60
+ky,10112,Trigg County,1007-50,Trigg Cty MS/Primary /Intermediate,50.51%,,Y,48.98%,1418,716
+ky,10233,Trimble County,1003-89,Bedford Elementary School,51.41%,,Y,53.89%,421,216
+ky,10233,Trimble County,1001-91,Milton Elementary School,48.63%,,Y,53.89%,234,114
+ky,10233,Trimble County,1000-124,Trimble County High School,40.36%,,N,,555,224
+ky,10113,Union County,1008-44,Morganfield Elementary School,59.57%,,Y,54.54%,381,227
+ky,10113,Union County,1002-99,Sturgis Elementary School,58.01%,,Y,54.54%,366,212
+ky,10113,Union County,1007-51,Union County High School,47.70%,,Y,54.54%,803,383
+ky,10113,Union County,1001-92,Union County Middle School,55.16%,,Y,54.54%,454,250
+ky,10113,Union County,1009-35,Uniontown Elementary School,54.01%,,Y,54.54%,189,102
+ky,10183,Uspiritus,1000-125,Brooklawn Youth Services,0.00%,,N,,,
+ky,10183,Uspiritus,1002-100,Uspiritus Bellewood Campus,0.00%,,N,,,
+ky,10008,Walton-Verona Independent,1000-126,Walton-Verona Elementary School,34.61%,,N,,653,226
+ky,10008,Walton-Verona Independent,1001-93,Walton-Verona MS/HS,27.91%,,N,,,
+ky,10114,Warren County,1020-8,Alvaton Elementary,45.20%,,Y,59.24%,760,344
+ky,10114,Warren County,1025-7,Briarwood Elementary School,48.62%,,Y,59.24%,766,372
+ky,10114,Warren County,1006-69,Bristow Elementary,55.73%,,Y,59.24%,615,343
+ky,10114,Warren County,1019-9,Cumberland Trace Elementary,36.73%,,N,,599,220
+ky,10114,Warren County,1007-52,Drakes Creek Middle School,37.01%,,N,,635,235
+ky,10114,Warren County,1005-74,Greenwood High School,33.28%,,N,,1211,403
+ky,10114,Warren County,1023-9,Henry F Moss Middle School,72.06%,,Y,59.24%,580,418
+ky,10114,Warren County,1033-2,Jody Richards Elementary,24.58%,,N,,,
+ky,10114,Warren County,1008-45,Lighthouse Academy,60.76%,,Y,59.24%,123,75
+ky,10114,Warren County,1004-79,Lost River Elementary,71.67%,,Y,59.24%,613,439
+ky,10114,Warren County,1013-22,North Warren Elementary,45.48%,,Y,59.24%,450,205
+ky,10114,Warren County,1022-6,Oakland Elementary,67.79%,,Y,59.24%,363,246
+ky,10114,Warren County,1024-6,Plano Elementary,28.55%,,N,,,
+ky,10114,Warren County,1014-20,Rich Pond Elementary,26.27%,,N,,,
+ky,10114,Warren County,1021-7,Richardsville Elementary,63.86%,,Y,59.24%,452,289
+ky,10114,Warren County,1030-2,Rockfield Elementary,51.12%,,Y,59.24%,658,336
+ky,10114,Warren County,1031-4,South Warren High School,20.64%,,N,,,
+ky,10114,Warren County,1012-23,South Warren Middle School,20.35%,,N,,,
+ky,10114,Warren County,1027-4,Warren Central High School,64.43%,,Y,59.24%,1130,728
+ky,10114,Warren County,1028-1,Warren East High School,44.04%,,Y,59.24%,896,395
+ky,10114,Warren County,1029-2,Warren East Middle School,53.46%,,Y,59.24%,508,272
+ky,10114,Warren County,1017-17,Warren Elementary,78.89%,,Y,59.24%,628,495
+ky,10114,Warren County,1001-94,William H Natcher Elementary,57.29%,,Y,59.24%,703,403
+ky,10114,Warren County,1060-1,Jennings Creek Elementary,0.00%,,Y,59.24%,744,0
+ky,10235,Washington County,1004-80,North Washington Elementary School,52.58%,,Y,53.79%,557,293
+ky,10235,Washington County,1001-95,Washington County Elementary/Middle/Commander Academy,57.49%,,Y,53.79%,638,367
+ky,10235,Washington County,1017-18,Washington County High School,40.00%,,Y,53.79%,534,214
+ky,10236,Wayne County,1008-46,Bell Elementary School,73.33%,,Y,62.50%,425,312
+ky,10236,Wayne County,1026-2,Monticello Elementary School,68.97%,,Y,62.50%,678,468
+ky,10236,Wayne County,1005-75,Walker Early Learning Center,76.09%,,Y,62.50%,417,317
+ky,10236,Wayne County,1003-90,Wayne County High School,58.53%,,Y,62.50%,942,551
+ky,10236,Wayne County,1009-36,Wayne County Middle School,66.20%,,Y,62.50%,685,453
+ky,10116,Webster County,1004-81,Clay Elementary School,49.17%,,Y,58.27%,222,109
+ky,10116,Webster County,1001-96,Providence Elementary School,72.22%,,Y,58.27%,295,213
+ky,10116,Webster County,1005-76,Sebree Elementary School,71.00%,,Y,58.27%,400,284
+ky,10116,Webster County,1006-70,Webster County High School/MS/Dixon Elementary School,46.12%,,Y,58.27%,1309,604
+ky,10172,West Point Independent,1000-127,West Point Elementary School,57.85%,,Y,62.50%,137,79
+ky,10238,Whitley County,1006-71,Boston Elementary School,78.30%,,Y,62.50%,208,163
+ky,10238,Whitley County,1003-91,Oak Grove Elementary School,67.96%,,Y,62.50%,696,473
+ky,10238,Whitley County,1011-35,Pleasant View Elementary School,82.13%,,Y,62.50%,293,241
+ky,10238,Whitley County,1001-97,Whitley Central Intermediate School,71.71%,,Y,62.50%,461,331
+ky,10238,Whitley County,1004-82,Whitley County Central Primary School,74.54%,,Y,62.50%,478,356
+ky,10238,Whitley County,1012-24,Whitley County East Elementary School,82.76%,,Y,62.50%,288,238
+ky,10238,Whitley County,1002-101,Whitley County High School,70.45%,,Y,62.50%,970,683
+ky,10238,Whitley County,1007-53,Whitley County Middle School,77.44%,,Y,62.50%,612,474
+ky,10238,Whitley County,1005-77,Whitley County North Elementary School,83.38%,,Y,62.50%,365,304
+ky,10118,Williamsburg Independent,1000-128,Williamsburg City Sch/Williamsburg Ctr of Progressive Ed,66.50%,,Y,62.50%,819,545
+ky,10045,Williamstown Independent,1006-72,Williamstown Indep Elem/Jr High/High School,62.49%,,Y,62.50%,958,599
+ky,10119,Wolfe County,1001-98,Campton Elementary School,79.60%,,Y,62.50%,363,289
+ky,10119,Wolfe County,1000-129,Red River Valley Elementary School,77.62%,,Y,62.50%,132,102
+ky,10119,Wolfe County,1002-102,Rogers Elementary School,64.29%,,Y,62.50%,142,91
+ky,10119,Wolfe County,1004-83,Wolfe County High School,76.63%,,Y,62.50%,400,307
+ky,10119,Wolfe County,1003-92,Wolfe County Middle School,75.90%,,Y,62.50%,191,145
+ky,10119,Wolfe County,1032-3,Dessie Scott School,0.00%,,Y,62.50%,41,0
+ky,10120,Woodford County,1004-84,Huntertown Elementary School,37.50%,,N,,440,165
+ky,10120,Woodford County,1000-130,Northside Elementary School,44.76%,,N,,382,171
+ky,10120,Woodford County,1003-93,Safe Harbor Academy,67.16%,,N,,67,45
+ky,10120,Woodford County,1001-99,Simmons Elementary School,62.01%,,N,,437,271
+ky,10120,Woodford County,1005-78,Southside Elementary School,37.00%,,N,,627,232
+ky,10120,Woodford County,1002-103,Woodford County High School,28.95%,,N,,,
+ky,10120,Woodford County,1007-54,Woodford County Middle School,36.67%,,N,,900,330

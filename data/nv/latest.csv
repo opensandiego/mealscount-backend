@@ -1,0 +1,356 @@
+state,District Code,District Name,School Code,School Name,individual_isp,proxy_isp,participating_in_cep,claiming_isp,total_enrolled,total_eligible
+nv,013-201,Carson City School District,,Bordewich Bray RE,34.68%,,N,,,
+nv,013-301,Carson City School District,-0,Carson MS,30.83%,,N,,,
+nv,013-209,Carson City School District,-1,Empire ES,49.56%,,N,,,
+nv,013-204,Carson City School District,-2,Fremont ES,36.19%,,Y,40.80%,527,191
+nv,013-211,Carson City School District,-3,MarkTwain ES,42.59%,,Y,42.29%,629,268
+nv,013-903,Carson City School District,-4,Pioneer Alternative HS,51.01%,,Y,47.67%,172,88
+nv,001-205,Churchill County School District,-5,Best ES,36.96%,,N,,,
+nv,001-206,Churchill County School District,-6,Lahontan ES,36.32%,,N,,,
+nv,001-202,Churchill County School District,-7,Northside Early ES,35.64%,,N,,,
+nv,002-364,Clark County School District,-8,100 Academy  MS,45.45%,,Y,75.00%,148,67
+nv,002-093,Clark County School District,-9,100 Academy ES,50.94%,,Y,79.43%,350,178
+nv,002-131,Clark County School District,-10,Adams ES,30.20%,,Y,40.14%,501,151
+nv,002-231,Clark County School District,-11,Adcock ES,40.25%,,Y,58.57%,642,258
+nv,002-288,Clark County School District,-12,Agassi ES,49.35%,,N,,,
+nv,002-617,Clark County School District,-13,Agassi SEC,38.89%,,N,,,
+nv,002-095,Clark County School District,-14,Bailey ES,43.17%,,Y,60.93%,988,427
+nv,002-357,Clark County School District,-15,Bailey MS,46.96%,,Y,64.51%,1330,625
+nv,002-406,Clark County School District,-16,Basic HS,43.14%,,Y,43.14%,2494,1076
+nv,002-280,Clark County School District,-17,"Bass, John C. ES",39.23%,,Y,40.64%,673,264
+nv,002-108,Clark County School District,-18,"Beatty, John R. ES",33.89%,,Y,40.14%,655,222
+nv,002-248,Clark County School District,-19,Beckley ES,50.25%,,Y,62.51%,939,472
+nv,002-236,Clark County School District,-20,Bell ES,56.13%,,Y,73.17%,928,521
+nv,002-292,Clark County School District,-21,Bennett ES,43.93%,,Y,62.21%,344,151
+nv,002-070,Clark County School District,-22,"Berkley, Shelley ES",41.91%,,Y,40.64%,754,316
+nv,002-271,Clark County School District,-23,"Bilbray, James H. ES",27.01%,,Y,42.09%,733,198
+nv,002-930,Clark County School District,-24,Biltmore Cont,61.73%,,N,,,
+nv,002-101,Clark County School District,-25,Blue Diamond ES,25.71%,,Y,40.53%,35,9
+nv,002-211,Clark County School District,-26,Booker ES,53.86%,,Y,75.60%,500,269
+nv,002-159,Clark County School District,-27,Bowler Joseph ES,31.60%,,Y,48.47%,522,165
+nv,002-307,Clark County School District,-28,Bridger MS,41.01%,,Y,66.18%,1428,586
+nv,002-306,Clark County School District,-29,Brinley MS,44.07%,,Y,65.89%,1026,452
+nv,002-319,Clark County School District,-30,Brown JHS,31.95%,,Y,42.28%,1032,330
+nv,002-147,Clark County School District,-31,Bruner ES,32.78%,,Y,59.34%,664,218
+nv,002-163,Clark County School District,-32,Bunker ES,40.03%,,Y,58.93%,801,321
+nv,002-313,Clark County School District,-33,Burkholder MS,31.50%,,Y,50.93%,648,204
+nv,002-225,Clark County School District,-34,Cahlan ES,60.84%,,Y,79.15%,796,484
+nv,002-155,Clark County School District,-35,Cambeiro ES,63.69%,,Y,74.53%,640,408
+nv,002-316,Clark County School District,-36,Cannon MS,35.71%,,Y,57.17%,983,351
+nv,002-429,Clark County School District,-37,Canyon Springs HS,37.43%,,Y,60.85%,2595,971
+nv,002-171,Clark County School District,-38,"Carl, Kay ES",41.15%,,Y,40.53%,836,344
+nv,002-219,Clark County School District,-39,Carson ES,44.04%,,Y,67.96%,387,170
+nv,002-304,Clark County School District,-40,Cashman MS,35.48%,,Y,60.51%,1537,545
+nv,002-607,Clark County School District,-41,Centennial HS,29.35%,,Y,40.60%,2954,867
+nv,002-409,Clark County School District,-42,Chaparral HS,35.39%,,Y,58.44%,2252,797
+nv,002-415,Clark County School District,-43,Cheyenne HS,51.52%,,Y,51.52%,2005,1033
+nv,002-414,Clark County School District,-44,Cimarron Memorial HS,50.20%,,Y,50.20%,2504,1257
+nv,002-401,Clark County School District,-45,Clark HS,47.27%,,Y,47.27%,3201,1513
+nv,002-165,Clark County School District,-46,Cortez ES,54.98%,,Y,70.28%,757,416
+nv,002-335,Clark County School District,-47,Cortney MS,39.43%,,Y,58.53%,1295,511
+nv,002-932,Clark County School District,-48,Cowan Behavior,34.71%,,Y,80.00%,215,75
+nv,002-293,Clark County School District,-49,Cox Clyde ES,45.83%,,Y,65.89%,815,374
+nv,002-126,Clark County School District,-50,"Cox, David M. ES",29.56%,,Y,40.21%,663,196
+nv,002-180,Clark County School District,-51,Cozine ES,36.43%,,Y,52.34%,663,242
+nv,002-223,Clark County School District,-52,Craig ES,59.67%,,Y,76.44%,730,436
+nv,002-342,Clark County School District,-53,"Cram, Brian & Teri MS",37.16%,,Y,42.00%,1593,592
+nv,002-205,Clark County School District,-54,Crestwood ES,40.60%,,Y,63.64%,748,304
+nv,002-233,Clark County School District,-55,Culley ES,49.78%,,Y,64.68%,838,417
+nv,002-125,Clark County School District,-56,Cunningham ES,50.62%,,Y,68.22%,796,403
+nv,002-130,Clark County School District,-57,Dailey ES,45.62%,,Y,66.45%,772,352
+nv,002-172,Clark County School District,-58,"Darnell, Marshall ES",37.66%,,Y,40.48%,640,241
+nv,002-220,Clark County School District,-59,Dearing ES,55.31%,,Y,75.26%,881,487
+nv,002-269,Clark County School District,-60,Decker ES,42.26%,,Y,60.19%,741,313
+nv,002-430,Clark County School District,-61,Del Sol HS,35.16%,,Y,40.22%,2256,793
+nv,002-124,Clark County School District,-62,Derfelt ES,34.35%,,Y,48.71%,622,214
+nv,002-609,Clark County School District,-63,Desert Pines HS,36.09%,,Y,61.52%,2744,990
+nv,002-955,Clark County School District,-64,Desert Rose Alternative HS,32.38%,,N,,,
+nv,02-955,Clark County School District,-65,Desert Rose HS,67.80%,,Y,67.80%,469,318
+nv,002-106,Clark County School District,-66,Deskin ES,30.21%,,Y,53.98%,591,179
+nv,002-300,Clark County School District,-67,Detwiler ES,54.09%,,Y,77.78%,729,394
+nv,002-085,Clark County School District,-68,Diaz ES,58.24%,,Y,71.77%,719,419
+nv,002-094,Clark County School District,-69,Dickens ES,32.13%,,Y,50.13%,756,243
+nv,002-263,Clark County School District,-70,Diskin ES,37.10%,,Y,53.03%,692,257
+nv,002-266,Clark County School District,-71,Dondero ES,40.57%,,Y,59.81%,821,333
+nv,002-111,Clark County School District,-72,"Dooley, John ES",33.03%,,Y,40.69%,442,146
+nv,002-076,Clark County School District,-73,Duncan ES,35.89%,,Y,52.27%,660,237
+nv,002-212,Clark County School District,-74,Earl Ira ES,48.96%,,Y,66.19%,766,375
+nv,002-296,Clark County School District,-75,"Earl, Marion B. ES",48.23%,,Y,40.53%,707,341
+nv,002-227,Clark County School District,-76,Early Childhood,66.15%,,Y,66.15%,65,43
+nv,002-267,Clark County School District,-77,Edwards ES,42.03%,,Y,65.40%,708,298
+nv,002-118,Clark County School District,-78,"Eisenberg, Dorothy ES",51.24%,,Y,51.24%,564,289
+nv,002-410,Clark County School District,-79,Eldorado HS,30.66%,,Y,49.01%,2026,621
+nv,002-366,Clark County School District,-80,Eldorado Middle,33.05%,,N,,,
+nv,002-164,Clark County School District,-81,Elizondo ES,38.62%,,Y,52.74%,639,247
+nv,002-257,Clark County School District,-82,Ferron ES,40.96%,,Y,55.85%,650,266
+nv,002-352,Clark County School District,-83,Findlay MS,33.13%,,Y,51.22%,1273,422
+nv,002-143,Clark County School District,-84,Fitzgerald ES,59.88%,,Y,80.50%,477,286
+nv,002-119,Clark County School District,-85,Fong ES,45.39%,,Y,67.54%,844,383
+nv,002-308,Clark County School District,-86,Fremont MS,49.00%,,Y,67.46%,836,410
+nv,002-268,Clark County School District,-87,French ES,31.84%,,Y,55.71%,569,181
+nv,002-240,Clark County School District,-88,Fyfe ES,49.91%,,N,,,
+nv,002-302,Clark County School District,-89,Garside JHS,37.34%,,Y,63.82%,1263,472
+nv,002-181,Clark County School District,-90,Gehring ES,33.28%,,N,,,
+nv,002-310,Clark County School District,-91,Gibson MS,36.38%,,Y,57.41%,1268,461
+nv,002-120,Clark County School District,-92,"Gibson, James I. ES",32.77%,,Y,40.28%,528,173
+nv,002-153,Clark County School District,-93,Goldfarb ES,33.16%,,Y,40.21%,829,275
+nv,002-102,Clark County School District,-94,Goodsprings ES,60.00%,,Y,60.00%,30,18
+nv,002-275,Clark County School District,-95,Gragson ES,52.17%,,Y,74.27%,820,428
+nv,002-278,Clark County School District,-96,Gray ES,38.74%,,Y,61.84%,477,185
+nv,002-208,Clark County School District,-97,Griffith ES,42.84%,,Y,63.64%,627,269
+nv,002-317,Clark County School District,-98,Guinn MS,33.02%,,Y,42.00%,1231,406
+nv,002-161,Clark County School District,-99,"Guy, Addeliar D. III ES",52.67%,,Y,52.67%,543,286
+nv,002-207,Clark County School District,-100,Hancock ES,46.79%,,Y,63.11%,610,285
+nv,002-261,Clark County School District,-101,Harmon ES,43.80%,,Y,63.41%,716,314
+nv,002-346,Clark County School District,-102,Harney MS,31.87%,,Y,44.40%,1772,565
+nv,002-262,Clark County School District,-103,Harris ES,43.97%,,Y,54.71%,658,289
+nv,002-199,Clark County School District,-104,Hayden ES,34.96%,,Y,54.46%,628,220
+nv,002-168,Clark County School District,-105,"Hayes, Keith & Karen ES",49.43%,,Y,40.13%,700,346
+nv,002-129,Clark County School District,-106,Herr ES,38.14%,,Y,62.40%,726,277
+nv,002-209,Clark County School District,-107,Herron ES,58.25%,,Y,72.43%,856,499
+nv,002-210,Clark County School District,-108,Hewetson ES,60.31%,,Y,74.90%,972,586
+nv,002-195,Clark County School District,-109,Hickey ES,54.45%,,Y,66.24%,779,424
+nv,002-122,Clark County School District,-110,Hill ES,32.28%,,Y,40.31%,595,192
+nv,002-297,Clark County School District,-111,Hinman ES,42.14%,,Y,63.20%,481,203
+nv,002-202,Clark County School District,-112,"Hoggard, Mabel ES",49.89%,,Y,49.89%,447,223
+nv,002-273,Clark County School District,-113,Hollingsworth ES,66.53%,,Y,73.90%,636,423
+nv,002-187,Clark County School District,-114,Hummel ES,30.21%,,Y,51.63%,734,222
+nv,002-303,Clark County School District,-115,Hyde Park MS,38.83%,,Y,44.40%,1602,622
+nv,002-252,Clark County School District,-116,Indian Springs ES,39.45%,,Y,41.85%,114,45
+nv,002-604,Clark County School District,-117,Indian Springs HS,38.57%,,Y,41.85%,70,27
+nv,002-336,Clark County School District,-118,Indian Springs MS,46.58%,,Y,40.42%,73,34
+nv,002-092,Clark County School District,-119,Innovations ES,37.40%,,Y,61.78%,505,189
+nv,002-363,Clark County School District,-120,Innovations SEC,33.25%,,Y,58.67%,300,100
+nv,002-123,Clark County School District,-121,Jacobson ES,32.55%,,Y,49.09%,548,178
+nv,002-196,Clark County School District,-122,Jeffers ES,54.21%,,Y,77.50%,791,429
+nv,002-407,Clark County School District,-123,Jeffrey Behavior,54.92%,,N,,,
+nv,002-356,Clark County School District,-124,Jerome Mack MS,43.34%,,Y,66.38%,1276,553
+nv,002-359,Clark County School District,-125,Johnston MS,35.49%,,Y,61.67%,1234,438
+nv,002-135,Clark County School District,-126,Jydstrup ES,35.06%,,Y,58.30%,693,243
+nv,002-133,Clark County School District,-127,"Kahre, Marc ES",49.19%,,Y,49.19%,492,242
+nv,002-134,Clark County School District,-128,Katz ES,38.97%,,Y,58.21%,670,261
+nv,002-079,Clark County School District,-129,Keller  ES,49.81%,,Y,67.90%,648,323
+nv,002-332,Clark County School District,-130,Keller MS,39.86%,,Y,58.81%,1289,514
+nv,002-226,Clark County School District,-131,Kelly ES,75.48%,,Y,94.20%,345,260
+nv,002-107,Clark County School District,-132,"Kim, Frank ES",50.87%,,Y,50.87%,517,263
+nv,002-105,Clark County School District,-133,King Martin ES,56.60%,,Y,72.29%,516,292
+nv,002-105,Clark County School District,-134,"King, Martin Luther ES",72.29%,,Y,72.29%,326,236
+nv,002-237,Clark County School District,-135,Lake ES,51.19%,,Y,66.55%,870,445
+nv,002-321,Clark County School District,-136,Laughlin JSHS,34.21%,,Y,54.86%,370,127
+nv,002-222,Clark County School District,-137,Lincoln ES,52.99%,,Y,72.10%,803,426
+nv,002-270,Clark County School District,-138,Long ES,48.72%,,Y,67.36%,861,419
+nv,002-144,Clark County School District,-139,Lowman ES,62.70%,,Y,75.39%,837,525
+nv,002-117,Clark County School District,-140,Lunt  ES,62.30%,,Y,72.61%,628,391
+nv,002-115,Clark County School District,-141,Lynch ES,62.95%,,Y,82.87%,648,408
+nv,002-277,Clark County School District,-142,"Mack, Nate ES",37.40%,,Y,40.23%,623,233
+nv,002-217,Clark County School District,-143,Mackey ES,31.88%,,Y,40.28%,542,173
+nv,002-213,Clark County School District,-144,Manch ES,64.93%,,Y,77.28%,898,583
+nv,002-311,Clark County School District,-145,Martin MS,38.82%,,Y,63.67%,1525,592
+nv,002-281,Clark County School District,-146,Martinez ES,65.58%,,Y,82.04%,746,489
+nv,002-073,Clark County School District,-147,Marzano Academy at Lomie G. Heard,52.32%,,Y,52.32%,711,372
+nv,002-234,Clark County School District,-148,McCall ES,56.11%,,Y,80.37%,382,214
+nv,002-249,Clark County School District,-149,McCaw ES,39.70%,,N,,,
+nv,002-298,Clark County School District,-150,"McDoniel, Estes M. ES",42.52%,,Y,40.31%,555,236
+nv,002-113,Clark County School District,-151,McMillan ES,43.41%,,Y,63.90%,615,267
+nv,002-218,Clark County School District,-152,McWilliams ES,50.91%,,Y,70.72%,823,419
+nv,002-112,Clark County School District,-153,Mendoza ES,35.71%,,Y,57.31%,848,303
+nv,002-917,Clark County School District,-154,Miley Achvmt ES,53.85%,,Y,80.00%,45,24
+nv,002-916,Clark County School District,-155,Miley Achvmt SEC,38.36%,,Y,71.43%,84,32
+nv,002-215,Clark County School District,-156,"Miller, John, F. ES",61.54%,,Y,61.54%,130,80
+nv,002-957,Clark County School District,-157,Mission HS,63.27%,,Y,63.27%,49,31
+nv,002-250,Clark County School District,-158,"Mitchell, Andrew ES",29.21%,,Y,42.28%,380,111
+nv,002-424,Clark County School District,-159,Mojave HS,34.29%,,Y,52.64%,2333,800
+nv,002-333,Clark County School District,-160,Molasky JHS,32.85%,,Y,57.05%,1057,347
+nv,002-343,Clark County School District,-161,Monaco MS,48.15%,,Y,70.30%,1330,640
+nv,002-282,Clark County School District,-162,Moore ES,52.21%,,Y,74.24%,695,363
+nv,002-934,Clark County School District,-163,Morris Behavior,49.40%,,N,,,
+nv,002-228,Clark County School District,-164,Mountain View ES,46.78%,,Y,65.05%,641,300
+nv,002-170,Clark County School District,-165,"Neal, Joseph M. ES",39.72%,,Y,40.42%,647,257
+nv,002-146,Clark County School District,-166,"Newton, Ulis ES",33.66%,,Y,40.31%,710,239
+nv,002-322,Clark County School District,-167,OCallaghan MS,32.77%,,N,,,
+nv,002-312,Clark County School District,-168,Orr MS,52.82%,,Y,78.72%,1034,546
+nv,002-232,Clark County School District,-169,Paradise ES,58.20%,,Y,74.27%,517,301
+nv,002-216,Clark County School District,-170,Park ES,53.85%,,Y,69.72%,743,400
+nv,002-110,Clark County School District,-171,Parson ES,35.65%,,Y,65.12%,387,138
+nv,002-091,Clark County School District,-172,Perkins Claude ES,37.09%,,Y,59.17%,654,243
+nv,002-289,Clark County School District,-173,Petersen ES,66.10%,,Y,82.92%,1013,670
+nv,002-933,Clark County School District,-174,Peterson Behavior,36.23%,,Y,69.40%,183,66
+nv,002-244,Clark County School District,-175,Pittman ES,49.06%,,Y,68.72%,601,295
+nv,002-253,Clark County School District,-176,Priest ES,35.61%,,Y,58.43%,765,272
+nv,002-087,Clark County School District,-177,Rainbow Dreams,44.49%,,Y,77.27%,220,98
+nv,002-367,Clark County School District,-178,Rainbow Dreams MS,84.62%,,Y,84.62%,78,66
+nv,002-403,Clark County School District,-179,Rancho HS,31.43%,,Y,40.60%,3218,1011
+nv,002-235,Clark County School District,-180,Red Rock ES,50.71%,,Y,69.35%,783,397
+nv,002-295,Clark County School District,-181,Reed ES,55.52%,,Y,72.07%,777,431
+nv,002-104,Clark County School District,-182,Reid ES,80.00%,,Y,70.37%,27,22
+nv,002-150,Clark County School District,-183,"Roberts, Aggie ES",38.51%,,Y,40.31%,683,263
+nv,002-315,Clark County School District,-184,Robison MS,42.83%,,Y,65.02%,1292,553
+nv,002-203,Clark County School District,-185,Ronnow ES,46.95%,,Y,70.69%,771,362
+nv,002-201,Clark County School District,-186,Ronzone ES,55.31%,,Y,74.03%,901,498
+nv,002-096,Clark County School District,-187,Roundy ES,56.50%,,Y,73.73%,830,469
+nv,002-221,Clark County School District,-188,Rowe ES,48.12%,,Y,69.49%,708,341
+nv,002-128,Clark County School District,-189,Rundle ES,45.44%,,Y,67.58%,799,363
+nv,002-291,Clark County School District,-190,Sandy Valley ES,43.90%,,Y,57.25%,138,61
+nv,002-320,Clark County School District,-191,Sandy Valley MS,33.82%,,Y,48.13%,160,54
+nv,002-328,Clark County School District,-192,Sawyer MS,30.21%,,Y,42.09%,1220,369
+nv,002-188,Clark County School District,-193,"Scherkenbach, William & Mary ES",31.65%,,Y,40.53%,613,194
+nv,002-086,Clark County School District,-194,Scott ES,33.83%,,Y,57.32%,656,222
+nv,002-345,Clark County School District,-195,Sedway MS,42.51%,,Y,60.42%,1319,561
+nv,002-251,Clark County School District,-196,Sewell ES,47.40%,,Y,64.96%,645,306
+nv,002-421,Clark County School District,-197,Silverado HS,29.76%,,Y,40.22%,2204,656
+nv,002-189,Clark County School District,-198,"Simmons, Eva G. ES",43.11%,,Y,40.48%,689,297
+nv,002-284,Clark County School District,-199,Smith Hal ES,52.36%,,Y,77.57%,945,495
+nv,002-264,Clark County School District,-200,Smith Helen ES,35.04%,,Y,50.91%,552,193
+nv,002-305,Clark County School District,-201,Smith MS,48.02%,,Y,67.58%,981,471
+nv,002-175,Clark County School District,-202,Snyder ES,47.89%,,N,,,
+nv,002-074,Clark County School District,-203,"Snyder, William ES",68.20%,,Y,68.20%,846,577
+nv,002-928,Clark County School District,-204,South Cont JSHS,39.29%,,N,,,
+nv,002-908,Clark County School District,-205,Southwest Behavio,38.68%,,N,,,
+nv,002-204,Clark County School District,-206,Squires ES,59.61%,,Y,73.02%,708,422
+nv,002-294,Clark County School District,-207,Stanford ES,39.49%,,Y,55.88%,655,259
+nv,002-071,Clark County School District,-208,"Stevens, Josh ES",45.89%,,Y,41.73%,985,452
+nv,002-910,Clark County School District,-209,"Stewart, Helen J.",52.45%,,Y,52.45%,143,75
+nv,002-241,Clark County School District,-210,Sunrise Acres ES,69.98%,,Y,80.58%,793,555
+nv,002-434,Clark County School District,-211,Sunrise Mountain HS,35.89%,,Y,58.94%,2445,878
+nv,002-325,Clark County School District,-212,Swainston MS,34.45%,,Y,54.20%,1048,361
+nv,002-191,Clark County School District,-213,Tartan ES,34.03%,,Y,59.74%,549,187
+nv,002-260,Clark County School District,-214,Tate ES,54.33%,,Y,72.41%,870,473
+nv,002-254,Clark County School District,-215,Taylor Robert ES,50.98%,,Y,80.15%,675,344
+nv,002-192,Clark County School District,-216,Thiriot ES,45.56%,,Y,61.37%,717,327
+nv,002-239,Clark County School District,-217,Thomas ES,63.18%,,Y,79.20%,923,583
+nv,002-239,Clark County School District,-218,"Thompson, Sandra Lee ES",36.97%,,Y,79.20%,633,234
+nv,002-139,Clark County School District,-219,Thorpe ES,32.12%,,Y,55.44%,561,180
+nv,002-290,Clark County School District,-220,Tobler ES,45.61%,,Y,66.15%,514,234
+nv,002-265,Clark County School District,-221,"Tomiyasu, Bill Y. ES",46.95%,,Y,40.69%,541,254
+nv,002-127,Clark County School District,-222,Treem ES,30.56%,,Y,40.30%,568,174
+nv,002-082,Clark County School District,-223,"Triggs, Vincent L. ES",31.06%,,Y,40.13%,718,223
+nv,002-243,Clark County School District,-224,Twin Lakes ES,44.84%,,Y,64.18%,550,247
+nv,002-214,Clark County School District,-225,Ullom ES,51.38%,,Y,67.02%,658,338
+nv,002-404,Clark County School District,-226,Valley HS,33.15%,,Y,54.43%,2675,887
+nv,002-911,Clark County School District,-227,Variety ‐ Secondary,50.43%,,Y,50.43%,117,59
+nv,002-935,Clark County School District,-228,Variety School ES,44.12%,,Y,54.84%,31,14
+nv,002-245,Clark County School District,-229,Vegas Verdes ES,49.73%,,Y,62.76%,733,365
+nv,002-301,Clark County School District,-230,Von Tobel MS,47.86%,,Y,70.76%,1204,576
+nv,002-258,Clark County School District,-231,Ward Gene ES,53.64%,,Y,71.61%,715,384
+nv,002-238,Clark County School District,-232,Warren ES,49.34%,,Y,70.76%,749,370
+nv,002-247,Clark County School District,-233,Wasden ES,46.39%,,Y,63.96%,616,286
+nv,002-929,Clark County School District,-234,Washington Cont JHS,59.48%,,Y,76.47%,289,172
+nv,002-177,Clark County School District,-235,Watson ES,32.90%,,Y,53.04%,707,233
+nv,002-259,Clark County School District,-236,Wengert ES,41.63%,,Y,58.83%,651,271
+nv,002-089,Clark County School District,-237,West Prep Acad ES,44.03%,,Y,62.81%,449,198
+nv,002-330,Clark County School District,-238,West Prep Sec SEC,49.12%,,Y,68.98%,1544,758
+nv,002-405,Clark County School District,-239,Western HS,33.45%,,Y,57.48%,2681,897
+nv,002-256,Clark County School District,-240,Whitney ES,54.46%,,Y,75.15%,491,267
+nv,002-142,Clark County School District,-241,"Wiener, Louis ES",43.25%,,Y,40.23%,585,253
+nv,002-149,Clark County School District,-242,Wilhelm ES,38.85%,,Y,60.82%,656,255
+nv,002-242,Clark County School District,-243,Williams Tom ES,55.37%,,Y,70.02%,834,462
+nv,002-224,Clark County School District,-244,Williams Wendell ES,72.27%,,Y,86.70%,376,272
+nv,002-152,Clark County School District,-245,Wolfe ES,31.55%,,Y,56.04%,530,167
+nv,002-314,Clark County School District,-246,Woodbury MS,40.85%,,N,,,
+nv,002-116,Clark County School District,-247,Woolley ES,51.96%,,Y,68.63%,800,416
+nv,002-121,Clark County School District,-248,Wynn ES,59.87%,,Y,75.00%,924,553
+nv,046-100,Democracy Prep Academy,-249,Agassi ES,67.56%,,Y,62.71%,450,304
+nv,046-300,Democracy Prep Academy,-250,Agassi HS,52.48%,,Y,62.71%,202,106
+nv,046-200,Democracy Prep Academy,-251,Agassi MS,62.33%,,Y,62.71%,292,182
+nv,003-205,Douglas County School District,-252,Meneley ES,30.09%,,N,,,
+nv,022-129,Duckwater Shoshone Elementary School,-253,Duckwater Shoshone ES,38.89%,,N,,,
+nv,004-206,Elko County School District,-254,Owyhee ES,51.43%,,Y,66.06%,205,105
+nv,004-604,Elko County School District,-255,Owyhee HS,50.94%,,Y,66.06%,71,36
+nv,004-506,Elko County School District,-256,Owyhee JHS,40.00%,,Y,66.06%,54,22
+nv,004-204,Elko County School District,-257,Southside ES,45.74%,,Y,45.74%,645,295
+nv,043-100,Futuro Academy,-258,Futuro,52.33%,,Y,52.33%,258,135
+nv,007-203,Humboldt County School District,-259,McDermitt ES,70.00%,,Y,69.35%,71,50
+nv,007-601,Humboldt County School District,-260,McDermitt HS,63.41%,,Y,69.35%,31,20
+nv,007-302,Humboldt County School District,-261,McDermitt JHS,61.90%,,Y,69.35%,22,14
+nv,007-201,Humboldt County School District,-262,Sonoma Heights ES,33.16%,,N,,,
+nv,007-202,Humboldt County School District,-263,Winnemucca GS,37.98%,,N,,,
+nv,010-205,Lyon County School District,-264,Silver Stage ES,41.95%,,Y,59.16%,404,169
+nv,010-605,Lyon County School District,-265,Silver Stage HS,35.87%,,N,,,
+nv,010-304,Lyon County School District,-266,Silver Stage MS,52.66%,,Y,52.91%,319,168
+nv,010-210,Lyon County School District,-267,Sutro ES,32.41%,,N,,,
+nv,010-202,Lyon County School District,-268,Yerington ES,35.40%,,N,,,
+nv,010-603,Lyon County School District,-269,Yerington ES,53.05%,,Y,52.91%,573,304
+nv,010-302,Lyon County School District,-270,Yerington IS,34.69%,,N,,,
+nv,049-433,Mater Academy of Las Vegas,-271,Bonanza Campus,55.49%,,Y,55.49%,910,505
+nv,049-432,Mater Academy of Las Vegas,-272,Mountain Vista,57.03%,,Y,57.03%,782,446
+nv,044-437,Mater Academy of Northern Nevada,-273,Mater Academy of Northern NV,58.57%,,Y,58.57%,251,147
+nv,011-201,Mineral County School District,-274,Hawthorne  ES,36.95%,,Y,42.59%,301,111
+nv,011-203,Mineral County School District,-275,Hawthorne MS,47.14%,,Y,42.59%,70,33
+nv,011-202,Mineral County School District,-276,Schurz ES,63.27%,,Y,67.80%,59,37
+nv,102-100,Nevada Prep Academy,-277,Nevada Prep,69.05%,,Y,69.05%,126,87
+nv,101-101,Nevada Rise Academy ,-278,Nevada Rise,71.20%,,Y,71.20%,125,89
+nv,012-106,Nye County School Disrict,-279,Amargosa Vly ES,49.59%,,Y,56.80%,113,56
+nv,012-316,Nye County School Disrict,-280,Amargosa Vly MS,47.54%,,Y,56.80%,51,24
+nv,012-201,Nye County School Disrict,-281,Beatty ES,36.51%,,Y,56.80%,62,23
+nv,012-601,Nye County School Disrict,-282,Beatty HS,32.35%,,Y,56.80%,104,34
+nv,012-311,Nye County School Disrict,-283,Beatty MS,38.10%,,Y,56.80%,29,11
+nv,012-301,Nye County School Disrict,-284,Clarke MS,44.73%,,Y,56.80%,964,431
+nv,012-210,Nye County School Disrict,-285,Floyd ES,46.51%,,Y,56.80%,562,261
+nv,012-105,Nye County School Disrict,-286,Gabbs Elementary,63.16%,,Y,56.80%,19,12
+nv,012-602,Nye County School Disrict,-287,Gabbs HS,30.77%,,Y,56.80%,12,4
+nv,012-315,Nye County School Disrict,-288,Gabbs Middle,66.67%,,Y,56.80%,6,4
+nv,012-207,Nye County School Disrict,-289,Hafen ES,43.21%,,Y,56.80%,397,172
+nv,012-108,Nye County School Disrict,-290,Johnson ES,62.96%,,Y,56.80%,498,314
+nv,012-102,Nye County School Disrict,-291,Manse ES,54.75%,,Y,56.80%,522,286
+nv,012-206,Nye County School Disrict,-292,Mount Charleston Elementary ,,,Y,56.80%,,
+nv,012-604,Nye County School Disrict,-293,Pahrump Vly HS,37.64%,,Y,56.80%,1162,437
+nv,012-609,Nye County School Disrict,-294,Pathways Elementary,83.33%,,Y,56.80%,6,5
+nv,012-606,Nye County School Disrict,-295,Pathways High,69.54%,,Y,56.80%,174,121
+nv,012-607,Nye County School Disrict,-296,Pathways Middle,71.59%,,Y,56.80%,88,63
+nv,012-103,Nye County School Disrict,-297,Round Mountain Elementary ,13.33%,,Y,56.80%,135,18
+nv,012-605,Nye County School Disrict,-298,Round Mountain High,11.94%,,Y,56.80%,67,8
+nv,012-313,Nye County School Disrict,-299,Round Mountain Middle,13.70%,,Y,56.80%,73,10
+nv,012-202,Nye County School Disrict,-300,Tonopah Elementary,34.05%,,Y,56.80%,185,63
+nv,012-603,Nye County School Disrict,-301,Tonopah High,42.50%,,Y,56.80%,120,51
+nv,012-312,Nye County School Disrict,-302,Tonopah Middle School,39.56%,,Y,56.80%,91,36
+nv,014-101,Pershing County School District,-303,Imlay ES,53.85%,,N,,,
+nv,014-201,Pershing County School District,-304,Lovelock ES,32.53%,,N,,,
+nv,072-416,Quest Academy,-305,Northwest Campus,53.31%,,Y,53.31%,484,258
+nv,016-260,Washoe County School District,-306,Alice Smith ES,32.26%,,Y,58.00%,768,248
+nv,016-266,Washoe County School District,-307,Allen ES,48.27%,,Y,58.00%,527,254
+nv,016-201,Washoe County School District,-308,Anderson ES,55.53%,,Y,58.00%,442,245
+nv,016-278,Washoe County School District,-309,Bailey Charter ES,45.31%,,Y,58.00%,266,121
+nv,016-275,Washoe County School District,-310,Bennett ES,41.95%,,Y,58.00%,533,224
+nv,016-208,Washoe County School District,-311,Booth ES,55.02%,,Y,58.00%,404,222
+nv,016-214,Washoe County School District,-312,Cannan ES,51.06%,,Y,58.00%,479,245
+nv,016-301,Washoe County School District,-313,Clayton MS,30.39%,,N,,,
+nv,016-215,Washoe County School District,-314,Corbett ES,44.84%,,Y,58.00%,503,226
+nv,016-268,Washoe County School District,-315,Desert Heights ES,47.19%,,Y,58.00%,543,256
+nv,016-321,Washoe County School District,-316,Desert Skies MS,51.05%,,Y,51.05%,1050,536
+nv,016-306,Washoe County School District,-317,Dilworth MS,36.36%,,Y,58.00%,702,255
+nv,016-258,Washoe County School District,-318,Dodson ES,32.52%,,Y,58.00%,445,145
+nv,016-223,Washoe County School District,-319,Drake ES,32.87%,,Y,58.00%,284,93
+nv,016-204,Washoe County School District,-320,Duncan ES,53.90%,,Y,58.00%,416,224
+nv,016-239,Washoe County School District,-321,Dunn ES,30.19%,,N,,,
+nv,016-203,Washoe County School District,-322,Elmcrest ES,38.12%,,Y,58.00%,364,139
+nv,016-224,Washoe County School District,-323,Greenbrae ES,33.33%,,Y,58.00%,374,125
+nv,016-504,Washoe County School District,-324,Hug HS,40.33%,,Y,58.00%,1445,583
+nv,016-604,Washoe County School District,-325,I Can Do Anything,30.89%,,N,,,
+nv,016-232,Washoe County School District,-326,Lemmon Valley ES ,42.02%,,Y,58.00%,614,258
+nv,016-227,Washoe County School District,-327,Lincoln Park ES,42.59%,,Y,58.00%,357,152
+nv,016-202,Washoe County School District,-328,Loder ES,50.09%,,Y,58.00%,538,269
+nv,016-281,Washoe County School District,-329,Mariposa Charter Academy,38.87%,,Y,58.00%,211,82
+nv,016-273,Washoe County School District,-330,Mathews ES,46.85%,,Y,58.00%,564,264
+nv,016-222,Washoe County School District,-331,Maxwell ES,35.28%,,Y,58.00%,519,183
+nv,016-228,Washoe County School District,-332,Mitchell ES,57.94%,,Y,58.00%,364,211
+nv,016-211,Washoe County School District,-333,Mount Rose ES,31.52%,,N,,,
+nv,016-237,Washoe County School District,-334,Natchez ES,59.38%,,Y,58.00%,132,78
+nv,016-240,Washoe County School District,-335,Palmer ES,37.99%,,Y,58.00%,508,193
+nv,016-911,Washoe County School District,-336,Picollo Elementary ,56.73%,,Y,58.00%,104,59
+nv,016-221,Washoe County School District,-337,Risley ES,40.25%,,Y,58.00%,478,192
+nv,016-605,Washoe County School District,-338,Sierra Nevada Academy,32.72%,,N,,,
+nv,016-225,Washoe County School District,-339,Smith Kate ES,44.73%,,Y,58.00%,319,143
+nv,016-218,Washoe County School District,-340,Smithridge ES,43.19%,,Y,58.00%,672,290
+nv,016-307,Washoe County School District,-341,Sparks MS,34.75%,,Y,58.00%,790,275
+nv,016-219,Washoe County School District,-342,Stead Elementary ,46.81%,,Y,58.00%,705,330
+nv,016-234,Washoe County School District,-343,Sun Valley ES,41.60%,,Y,58.00%,658,274
+nv,016-305,Washoe County School District,-344,Traner MS,44.50%,,Y,58.00%,794,353
+nv,016-917,Washoe County School District,-345,Turning Point ,65.00%,,Y,58.00%,40,26
+nv,016-304,Washoe County School District,-346,Vaughn MS,33.28%,,Y,58.00%,592,197
+nv,016-220,Washoe County School District,-347,Veterans Mem ES,48.89%,,Y,58.00%,404,198
+nv,016-231,Washoe County School District,-348,Vista,48.21%,,Y,58.00%,371,179
+nv,016-205,Washoe County School District,-349,Warner ES,47.15%,,Y,58.00%,399,188
+nv,016-506,Washoe County School District,-350,Washoe Innovations HS,43.33%,,N,,,
+nv,016-507,Washoe County School District,-351,Washoe Inspire,36.89%,,Y,58.00%,164,60
+nv,017-201,White Pine County School District,-352,Norman ES,31.90%,,N,,,
+nv,017-903,White Pine County School District,-353,Steptoe Vly HS,61.11%,,N,,,

@@ -2,7 +2,7 @@ version: '3'
 services:
   app:
     build: ./
-    command: sh -c "flask run --host=0.0.0.0 --port=5000"
+    command: sh -c "./generate_state_json.sh && flask run --host=0.0.0.0 --port=5000"
     ports:
       - "5000:5000"
     environment:
@@ -10,7 +10,13 @@ services:
       - FLASK_APP=server.py
     working_dir: /code/
     volumes:
-      - ./data/:/code/data/:cached
-# switch to entire local folder to do dev
-# but you need to npm build on your local folder, not docker container
-#      - ./:/code/:cached
+      - ./:/code/:cached
+    depends_on:
+      - build
+
+  build:
+    image: node
+    working_dir: /code/
+    command: sh -c "npm install . && npm run watch"
+    volumes:
+      - ./:/code/:cached

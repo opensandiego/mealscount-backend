@@ -5,10 +5,12 @@
   "scripts": {
     "watch": "webpack --watch",
     "build": "webpack",
-    "postinstall": "webpack && python cep_estimatory.py data/ca/latest.csv --output-folder dist/static/ca/",
+    "generate_dist": "./generate_state_json.sh",
+    "post-install": "webpack && npm run generate_dist",
     "local_dev": "concurrently \"npm run watch\" \"FLASK_ENV=development venv/bin/python server.py\"",
     "docker_dev": "concurrently \"npm run watch\" \"gunicorn server:app\"",
-    "start": "webpack-dev-server --config ./webpack.config.js --mode development"
+    "start": "webpack-dev-server --config ./webpack.config.js --mode development",
+    "clean": "rm -rf dist/ && rm -rf node_modules/"
   },
   "author": "Nikolaj Baer",
   "license": "MIT",

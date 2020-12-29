@@ -3,6 +3,7 @@ from abc import ABC,abstractmethod
 # Shortcut to deal with commas in integers from csv
 def i(x):
     if type(x) != str: return int(x)
+    if x.strip() == '': return 0
     return int(float(x.replace(',','')))
 
 # Free Rate from CEP Estimator

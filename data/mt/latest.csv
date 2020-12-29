@@ -1,0 +1,805 @@
+state,District Code,District Name,School Code,School Name,individual_isp,proxy_isp,participating_in_cep,claiming_isp,total_enrolled,total_eligible
+mt,861,Absarokee Public Schools,1775,Absarokee 6-8,4.76%,*,N,,,
+mt,861,Absarokee Public Schools,1126,Absarokee High School,6.98%,*,N,,,
+mt,861,Absarokee Public Schools,1125,Absarokee School,14.94%,*,N,,,
+mt,577,Alberton K-12 Schools,1730,Alberton 7-8,75.00%,,Y,42.55%,16,12
+mt,577,Alberton K-12 Schools,766,Alberton High School,50.00%,,Y,42.55%,42,21
+mt,577,Alberton K-12 Schools,765,Alberton School,54.22%,,Y,42.55%,83,45
+mt,536,Alder-Upper Ruby Elem,719,Alder School,16.00%,*,N,,,
+mt,236,Anaconda Public Schools,1589,Anaconda Jr High School,27.27%,*,N,,,
+mt,236,Anaconda Public Schools,326,Anaconda Sr High School,22.85%,*,N,,,
+mt,236,Anaconda Public Schools,322,Fred Moodry Intermediate,40.29%,*,N,,340,137
+mt,236,Anaconda Public Schools,321,Lincoln Primary,40.15%,,Y,44.29%,269,108
+mt,366,Anderson Elementary,1703,Anderson 7-8,2.38%,*,N,,,
+mt,366,Anderson Elementary,488,Anderson School,2.55%,*,N,,,
+mt,474,Arlee Public Schools,1640,Arlee 7-8,41.67%,,Y,49.78%,72,30
+mt,474,Arlee Public Schools,628,Arlee Elementary,49.22%,,Y,49.78%,258,127
+mt,474,Arlee Public Schools,629,Arlee High School,34.43%,,Y,49.78%,122,42
+mt,1215,Arrowhead Elementary,1821,Arrowhead 7-8,36.36%,*,N,,11,4
+mt,1215,Arrowhead Elementary,1564,Arrowhead School,42.59%,*,N,,54,23
+mt,800,Ashland Elementary,1763,Ashland 7-8,69.23%,,Y,76.81%,13,9
+mt,800,Ashland Elementary,1043,Ashland School,67.19%,,Y,76.81%,64,43
+mt,498,Auchard Creek Elementary,671,Auchard Creek School,0.00%,*,N,,,
+mt,503,Augusta Public Schools,1722,Augusta 7-8,0.00%,*,N,,,
+mt,503,Augusta Public Schools,676,Augusta Elementary School,20.00%,*,N,,,
+mt,503,Augusta Public Schools,677,Augusta High School,17.24%,*,N,,,
+mt,6613,AWARE,100027,Cedar Street Home,0.00%,*,N,,,
+mt,6613,AWARE,100022,Clark Fork Home,0.00%,*,N,,,
+mt,6613,AWARE,100023,Gold Creek Group Home,0.00%,*,N,,,
+mt,6613,AWARE,100021,Lost Creek Group Home,0.00%,*,N,,,
+mt,6613,AWARE,100024,Mt Powell Group Home,0.00%,*,N,,,
+mt,6613,AWARE,100026,Pintlar Group Home,0.00%,*,N,,,
+mt,6613,AWARE,100025,Washoe House,0.00%,*,N,,,
+mt,1218,Ayers Elementary,1580,Ayers School,0.00%,*,N,,,
+mt,785,Bainville K-12 Schools,1760,Bainville 7-8,6.45%,*,N,,,
+mt,785,Bainville K-12 Schools,1028,Bainville High School,4.44%,*,N,,,
+mt,785,Bainville K-12 Schools,1027,Bainville School,6.67%,*,N,,,
+mt,244,Baker K-12 Schools,332,Baker 7-8,9.68%,*,N,,,
+mt,244,Baker K-12 Schools,335,Baker High School,9.38%,*,N,,,
+mt,244,Baker K-12 Schools,333,Lincoln School,9.02%,*,N,,,
+mt,244,Baker K-12 Schools,1466,Longfellow School,9.93%,*,N,,,
+mt,76,Belfry K-12 Schools,1675,Belfry 7-8,0.00%,,Y,43.94%,7,0
+mt,76,Belfry K-12 Schools,103,Belfry High School,30.00%,,Y,43.94%,20,6
+mt,76,Belfry K-12 Schools,102,Belfry School,58.97%,,Y,43.94%,39,23
+mt,368,Belgrade Public Schools,491,Belgrade High School,12.25%,*,N,,,
+mt,368,Belgrade Public Schools,1575,Belgrade Middle School,16.23%,*,N,,,
+mt,368,Belgrade Public Schools,490,Heck/Quaw Elementary,18.14%,*,N,,,
+mt,368,Belgrade Public Schools,1833,Ridge View Elementary,14.77%,*,N,,,
+mt,368,Belgrade Public Schools,1846,Saddle Peak Elementary,19.30%,*,N,,,
+mt,112,Belt Public Schools,1678,Belt 7-8,15.69%,*,N,,,
+mt,112,Belt Public Schools,169,Belt High School,15.58%,*,N,,,
+mt,112,Belt Public Schools,168,Belt School,17.31%,*,N,,,
+mt,138,Big Sandy Public Schools,1607,Big Sandy 7-8,14.29%,*,N,,,
+mt,138,Big Sandy Public Schools,195,Big Sandy High School,23.64%,*,N,,,
+mt,138,Big Sandy Public Schools,197,F E Miley School,25.49%,*,N,,,
+mt,1239,Big Sky K-12 Schools,1837,Lone Peak High School,0.00%,*,N,,,
+mt,1239,Big Sky K-12 Schools,1817,Ophir 7-8,0.96%,*,N,,,
+mt,1239,Big Sky K-12 Schools,497,Ophir Elementary School,1.69%,*,N,,,
+mt,865,Big Timber Elementary,1776,Big Timber 7-8,10.84%,*,N,,,
+mt,865,Big Timber Elementary,1129,Big Timber School,18.62%,*,N,,,
+mt,331,Bigfork Public Schools,1660,Bigfork 7-8,23.85%,*,N,,,
+mt,331,Bigfork Public Schools,442,Bigfork Elementary,18.34%,*,N,,,
+mt,331,Bigfork Public Schools,443,Bigfork High School,15.91%,*,N,,,
+mt,9050,Billings Central H S,9028,Billings Central Catholic HS,4.68%,*,N,,,
+mt,9050,Billings Central H S,9365,St Francis Intermediate,0.00%,*,N,,,
+mt,9050,Billings Central H S,9209,St Francis Primary K-2,0.00%,*,N,,,
+mt,9050,Billings Central H S,9363,St Francis Upper 6-8,0.00%,*,N,,,
+mt,966,Billings Public Schools,1597,Alkali Creek School,18.67%,*,N,,,
+mt,966,Billings Public Schools,1585,Arrowhead School,6.85%,*,N,,,
+mt,966,Billings Public Schools,1559,Beartooth School,27.68%,*,N,,,
+mt,966,Billings Public Schools,1853,Ben Steele Middle School,9.48%,*,N,,,
+mt,966,Billings Public Schools,1272,Bench School,46.11%,*,N,,360,166
+mt,966,Billings Public Schools,1638,Big Sky Elementary,31.72%,*,N,,413,131
+mt,966,Billings Public Schools,1250,Billings Sr High School,26.05%,*,N,,,
+mt,966,Billings Public Schools,1251,Billings West High School,13.25%,*,N,,,
+mt,966,Billings Public Schools,1471,Bitterroot School,26.40%,*,N,,,
+mt,966,Billings Public Schools,1307,Boulder School,9.74%,*,N,,,
+mt,966,Billings Public Schools,1255,Broadwater School,46.34%,*,N,,369,171
+mt,966,Billings Public Schools,1256,Burlington School,29.60%,*,N,,,
+mt,966,Billings Public Schools,1631,Castle Rock Middle School,19.59%,*,N,,,
+mt,966,Billings Public Schools,1308,Central Heights School,32.52%,*,N,,286,93
+mt,966,Billings Public Schools,1639,Eagle Cliffs Elementary,16.13%,*,N,,,
+mt,966,Billings Public Schools,1260,Highland School,24.71%,*,N,,,
+mt,966,Billings Public Schools,1632,Lewis & Clark Middle School,29.12%,*,N,,,
+mt,966,Billings Public Schools,1262,McKinley School,53.40%,,Y,62.99%,309,165
+mt,966,Billings Public Schools,1439,Meadowlark School,21.38%,*,N,,,
+mt,966,Billings Public Schools,1851,Medicine Crow Middle School,31.24%,*,N,,621,194
+mt,966,Billings Public Schools,1263,Miles Avenue School,35.96%,*,N,,267,96
+mt,966,Billings Public Schools,1275,Newman School,63.68%,,Y,62.99%,212,135
+mt,966,Billings Public Schools,1265,Orchard School,57.62%,,Y,62.99%,328,189
+mt,966,Billings Public Schools,1266,Poly Drive School,16.91%,*,N,,,
+mt,966,Billings Public Schools,1480,Ponderosa School,59.93%,,Y,62.99%,292,175
+mt,966,Billings Public Schools,1645,Riverside Middle School,49.17%,*,N,,543,267
+mt,966,Billings Public Schools,1268,Rose Park School,34.60%,*,N,,263,91
+mt,966,Billings Public Schools,1584,Sandstone School,28.61%,*,N,,,
+mt,966,Billings Public Schools,1628,Skyview High School,17.04%,*,N,,,
+mt,966,Billings Public Schools,1270,Washington School,61.45%,,Y,62.99%,275,169
+mt,966,Billings Public Schools,1646,Will James Middle School,21.44%,*,N,,,
+mt,9256,Blessed Trinity Schl,9330,Holy Spirit Catholic School,0.00%,*,N,,,
+mt,968,Blue Creek Elementary,1278,Blue Creek School,11.33%,*,N,,,
+mt,590,Bonner Elementary,1734,Bonner 7-8,32.43%,*,N,,74,24
+mt,590,Bonner Elementary,794,Bonner School,37.45%,*,N,,267,100
+mt,456,Boulder Elementary,609,Basin School,33.33%,*,N,,21,7
+mt,456,Boulder Elementary,1714,Boulder 7-8,39.73%,*,N,,73,29
+mt,456,Boulder Elementary,610,Boulder Elementary School,32.48%,*,N,,117,38
+mt,456,Boulder Elementary,611,Jefferson High School,15.56%,*,N,,,
+mt,425,Box Elder Public Schools,1710,Box Elder 7-8,53.57%,,Y,64.42%,56,30
+mt,425,Box Elder Public Schools,571,Box Elder High School,52.43%,,Y,64.42%,103,54
+mt,425,Box Elder Public Schools,570,Box Elder School,59.49%,,Y,64.42%,237,141
+mt,350,Bozeman Public Schools,1463,Chief Joseph Middle School,9.80%,*,N,,,
+mt,350,Bozeman Public Schools,1813,Emily Dickinson School,10.55%,*,N,,,
+mt,350,Bozeman Public Schools,468,Hawthorne School,4.52%,*,N,,,
+mt,350,Bozeman Public Schools,1839,Hyalite Elementary,13.43%,*,N,,,
+mt,350,Bozeman Public Schools,469,Irving School,27.17%,*,N,,,
+mt,350,Bozeman Public Schools,470,Longfellow School,4.17%,*,N,,,
+mt,350,Bozeman Public Schools,1847,Meadowlark Elementary,7.25%,*,N,,,
+mt,350,Bozeman Public Schools,467,Morning Star School,3.19%,*,N,,,
+mt,350,Bozeman Public Schools,1822,Sacajawea Middle School,8.47%,*,N,,,
+mt,350,Bozeman Public Schools,471,Whittier School,23.73%,*,N,,,
+mt,59,Bridger K-12 Schools,1672,Bridger 7-8,29.17%,*,N,,,
+mt,59,Bridger K-12 Schools,85,Bridger Elementary School,19.63%,*,N,,,
+mt,59,Bridger K-12 Schools,86,Bridger High School,25.93%,*,N,,,
+mt,705,Broadus Public Schools,1751,Broadus 7-8,13.16%,*,N,,,
+mt,705,Broadus Public Schools,930,Broadus School,9.28%,*,N,,,
+mt,705,Broadus Public Schools,931,Powder River Co Dist High,12.12%,*,N,,,
+mt,978,Broadview Public Schools,1793,Broadview 7-8,17.39%,*,N,,,
+mt,978,Broadview Public Schools,1293,Broadview High School,15.79%,*,N,,,
+mt,978,Broadview Public Schools,1292,Broadview School,12.66%,*,N,,,
+mt,783,Brockton Public Schools,1759,Barbara Gilligan 7-8,79.17%,,Y,76.92%,24,19
+mt,783,Brockton Public Schools,1025,Barbara Gilligan School,73.42%,,Y,76.92%,79,58
+mt,783,Brockton Public Schools,1026,Brockton High School,67.65%,,Y,76.92%,34,23
+mt,400,Browning Public Schools,537,Babb School,30.43%,,Y,67.48%,23,7
+mt,400,Browning Public Schools,1840,Browning Elementary,73.67%,,Y,67.48%,300,221
+mt,400,Browning Public Schools,543,Browning High School,62.02%,,Y,67.48%,603,374
+mt,400,Browning Public Schools,1613,Browning Middle School,65.09%,,Y,67.48%,232,151
+mt,400,Browning Public Schools,100003,De La Salle Blackfeet School,0.00%,,Y,67.48%,77,0
+mt,400,Browning Public Schools,538,KW-VC Elementary,71.93%,,Y,67.48%,342,246
+mt,400,Browning Public Schools,539,Napi School,70.30%,,Y,67.48%,431,303
+mt,840,Butte Public Schools,1103,Butte High School,21.11%,*,N,,,
+mt,840,Butte Public Schools,9849,Central Elem School,0.00%,*,N,,,
+mt,840,Butte Public Schools,1641,East Middle School,31.05%,*,N,,641,199
+mt,840,Butte Public Schools,1085,Emerson School,41.06%,*,N,,436,179
+mt,840,Butte Public Schools,1528,Hillcrest School,18.27%,*,N,,,
+mt,840,Butte Public Schools,1095,Kennedy School,60.98%,,Y,62.20%,246,150
+mt,840,Butte Public Schools,1569,Margaret Leary School,34.55%,*,N,,385,133
+mt,840,Butte Public Schools,1642,West Elementary School,42.27%,,Y,50.57%,511,216
+mt,840,Butte Public Schools,1101,Whittier School,27.19%,*,N,,,
+mt,969,Canyon Creek Elementary,1790,Canyon Creek 7-8,16.28%,*,N,,,
+mt,969,Canyon Creek Elementary,1279,Canyon Creek School,13.27%,*,N,,,
+mt,9936,Cascade Co Reg Youth Home,100051,Cascade Co Reg Youth Serv Cntr,0.00%,*,N,,,
+mt,101,Cascade Public Schools,1661,Cascade 7-8,18.37%,*,N,,,
+mt,101,Cascade Public Schools,157,Cascade High School,13.92%,*,N,,,
+mt,101,Cascade Public Schools,158,Cascade School,18.99%,*,N,,,
+mt,317,Cayuse Prairie Elementary,1695,Cayuse Prairie 7-8,17.65%,*,N,,,
+mt,317,Cayuse Prairie Elementary,429,Cayuse Prairie School,18.27%,*,N,,,
+mt,104,Centerville Public Schls,1677,Centerville 6-8,22.58%,*,N,,,
+mt,104,Centerville Public Schls,161,Centerville High School,15.00%,*,N,,,
+mt,104,Centerville Public Schls,160,Centerville School,26.96%,*,N,,,
+mt,1205,Charlo Public Schools,1602,Charlo 7-8,16.67%,*,N,,,
+mt,1205,Charlo Public Schools,635,Charlo Elementary,27.74%,*,N,,,
+mt,1205,Charlo Public Schools,636,Charlo High School,20.00%,*,N,,,
+mt,1236,Chester-Joplin-Inverness PS,1723,Chester-Joplin-Inverness 7-8,25.00%,*,N,,,
+mt,1236,Chester-Joplin-Inverness PS,687,Chester-Joplin-Inverness HS,10.00%,*,N,,,
+mt,1236,Chester-Joplin-Inverness PS,684,Chester-Joplin-Inverness Schl,15.57%,*,N,,,
+mt,1236,Chester-Joplin-Inverness PS,1849,Cool Spring Colony School,0.00%,*,N,,,
+mt,1236,Chester-Joplin-Inverness PS,1830,Sage Creek Elementary,0.00%,*,N,,,
+mt,28,Chinook Public Schools,1798,Chinook 7-8,12.00%,*,N,,,
+mt,28,Chinook Public Schools,47,Chinook High School,21.82%,*,N,,,
+mt,28,Chinook Public Schools,1828,Hartland Elementary School,0.00%,*,N,,,
+mt,28,Chinook Public Schools,46,Meadowlark School,13.50%,*,N,,,
+mt,883,Choteau Public Schools,1777,Choteau 7-8,17.02%,*,N,,,
+mt,883,Choteau Public Schools,1148,Choteau High School,15.83%,*,N,,,
+mt,883,Choteau Public Schools,1147,Choteau School,25.14%,*,N,,,
+mt,548,Circle Public Schools,1406,Bo Peep School,6.00%,*,N,,,
+mt,548,Circle Public Schools,733,Circle High School,11.67%,*,N,,,
+mt,548,Circle Public Schools,1800,Redwater 7-8,6.06%,*,N,,,
+mt,548,Circle Public Schools,732,Redwater School,9.80%,*,N,,,
+mt,452,Clancy Elementary,1713,Clancy 7-8,12.50%,*,N,,,
+mt,452,Clancy Elementary,606,Clancy School,14.83%,*,N,,,
+mt,595,Clinton Elementary,1738,Clinton 7-8,27.91%,*,N,,,
+mt,595,Clinton Elementary,799,Clinton School,34.27%,*,N,,143,49
+mt,796,Colstrip Public Schools,1040,Colstrip High School,14.19%,*,N,,,
+mt,796,Colstrip Public Schools,1609,Frank Brattin Middle Schl,21.19%,*,N,,,
+mt,796,Colstrip Public Schools,1603,Pine Butte Elementary Sch,18.63%,*,N,,,
+mt,313,Columbia Falls Pub Schls,425,Columbia Falls High Schl,21.92%,*,N,,,
+mt,313,Columbia Falls Pub Schls,419,Columbia Falls Jr HS,26.45%,*,N,,,
+mt,313,Columbia Falls Pub Schls,418,Glacier Gateway Elem,35.86%,*,N,,502,180
+mt,313,Columbia Falls Pub Schls,1571,Ruder Elementary,27.74%,*,N,,,
+mt,848,Columbus Public Schools,1111,Columbus Elem School,18.24%,*,N,,,
+mt,848,Columbus Public Schools,1112,Columbus High School,12.44%,*,N,,,
+mt,848,Columbus Public Schools,1772,Columbus Middle School,12.79%,*,N,,,
+mt,6675,"Commun,Counsel.& Corr.Ser Inc",100028,Discovery House,0.00%,*,N,,,
+mt,674,Conrad Public Schools,893,Conrad High School,11.48%,*,N,,,
+mt,674,Conrad Public Schools,1546,Meadowlark School,21.82%,*,N,,,
+mt,674,Conrad Public Schools,1803,Utterback 4-6,17.27%,*,N,,,
+mt,674,Conrad Public Schools,1540,Utterback 7-8,17.07%,*,N,,,
+mt,731,Corvallis K-12 Schools,1558,Corvallis 7-8,18.93%,*,N,,,
+mt,731,Corvallis K-12 Schools,964,Corvallis High School,13.27%,*,N,,,
+mt,731,Corvallis K-12 Schools,963,Edna Thomas School,21.72%,*,N,,,
+mt,731,Corvallis K-12 Schools,1557,Quentin Brown Primary K-4,22.32%,*,N,,,
+mt,778,Culbertson Public Schools,1758,Culbertson 7-8,41.86%,*,N,,43,18
+mt,778,Culbertson Public Schools,1018,Culbertson High School,13.89%,*,N,,,
+mt,778,Culbertson Public Schools,1017,Culbertson School,26.85%,*,N,,,
+mt,975,Custer K-12 Schools,1792,Custer 7-8,17.65%,*,N,,,
+mt,975,Custer K-12 Schools,1289,Custer High School,19.05%,*,N,,,
+mt,975,Custer K-12 Schools,1288,Custer School,18.37%,*,N,,,
+mt,402,Cut Bank Public Schools,545,Anna Jeffries Elementary,44.72%,*,N,,123,55
+mt,402,Cut Bank Public Schools,547,Cut Bank High School,29.70%,*,N,,,
+mt,402,Cut Bank Public Schools,544,Cut Bank Middle School,38.73%,*,N,,173,67
+mt,402,Cut Bank Public Schools,1810,Glacier Elementary School,0.00%,*,N,,,
+mt,402,Cut Bank Public Schools,546,H C Davis Elementary,44.58%,*,N,,240,107
+mt,402,Cut Bank Public Schools,1844,Horizon Elementary,0.00%,*,N,,,
+mt,402,Cut Bank Public Schools,1842,Zenith Elementary,0.00%,*,N,,,
+mt,740,Darby K-12 Schools,1608,Darby 7-8,18.37%,*,N,,,
+mt,740,Darby K-12 Schools,974,Darby High School,23.42%,*,N,,,
+mt,740,Darby K-12 Schools,973,Darby School,35.76%,,Y,50.26%,165,59
+mt,712,Deer Lodge Elementary,937,E F Duvall 7-8,25.29%,*,N,,,
+mt,712,Deer Lodge Elementary,939,O D Speer School,33.63%,*,N,,339,114
+mt,712,Deer Lodge Elementary,953,Powell County High School,19.27%,*,N,,,
+mt,307,Deer Park Elementary,1693,Deer Park 7-8,19.23%,*,N,,,
+mt,307,Deer Park Elementary,409,Deer Park School,15.57%,*,N,,,
+mt,281,Denton Public Schools,1690,Denton 7-8,0.00%,*,N,,,
+mt,281,Denton Public Schools,381,Denton High School,11.11%,*,N,,,
+mt,281,Denton Public Schools,380,Denton School,9.52%,*,N,,,
+mt,9034,Dept of Corrections-Youth,9935,Pine Hills Youth Corr Facil El,0.00%,*,N,,,
+mt,9034,Dept of Corrections-Youth,9415,Pine Hills Youth Corr Facil HS,51.35%,*,N,,37,19
+mt,592,DeSmet Elementary,1736,DeSmet 7-8,55.56%,,Y,52.00%,27,15
+mt,592,DeSmet Elementary,796,DeSmet School,42.17%,,Y,52.00%,83,35
+mt,5,Dillon Elementary,23,Beaverhead Co High School,14.72%,*,N,,,
+mt,5,Dillon Elementary,8,Dillon Middle School,18.85%,*,N,,,
+mt,5,Dillon Elementary,1525,Parkview School,21.80%,*,N,,,
+mt,809,Dixon Elementary,1824,Dixon 7-8,55.56%,,Y,71.43%,9,5
+mt,809,Dixon Elementary,1052,Dixon Elementary,56.41%,,Y,71.43%,39,22
+mt,648,Dodson K-12,1745,Dodson 7-8,42.11%,,Y,67.44%,19,8
+mt,648,Dodson K-12,863,Dodson High School,33.33%,,Y,67.44%,27,9
+mt,648,Dodson K-12,862,Dodson School,35.71%,,Y,67.44%,42,15
+mt,419,Drummond Public Schools,1709,Drummond 7-8,19.05%,*,N,,,
+mt,419,Drummond Public Schools,564,Drummond High School,27.54%,*,N,,,
+mt,419,Drummond Public Schools,563,Drummond School,15.38%,*,N,,,
+mt,671,Dupuyer Elementary,9348,Birch Creek Colony School,0.00%,*,N,,,
+mt,1235,Dutton/Brady K-12 Schools,1156,Dutton/Brady Elementary,36.17%,*,N,,47,17
+mt,1235,Dutton/Brady K-12 Schools,1157,Dutton/Brady High School,21.43%,*,N,,,
+mt,1235,Dutton/Brady K-12 Schools,1750,Dutton/Brady Middle School,52.94%,*,N,,17,9
+mt,1235,Dutton/Brady K-12 Schools,1852,Pondera Colony School,0.00%,*,N,,,
+mt,404,East Glacier Park Elem,548,East Glacier Park School,32.08%,,Y,47.27%,53,17
+mt,1240,East Helena Public Schools,1720,East Valley Middle School,21.48%,*,N,,,
+mt,1240,East Helena Public Schools,1636,Eastgate School,34.57%,*,N,,188,65
+mt,1240,East Helena Public Schools,1857,Prickly Pear Elem,28.57%,*,N,,,
+mt,1240,East Helena Public Schools,1465,Radley Elementary School,27.18%,*,N,,,
+mt,87,Ekalaka Public Schools,133,Carter County High School,10.53%,*,N,,,
+mt,87,Ekalaka Public Schools,1676,Ekalaka 7-8,5.56%,*,N,,,
+mt,87,Ekalaka Public Schools,118,Ekalaka Elementary School,12.86%,*,N,,,
+mt,972,Elder Grove Elementary,1791,Elder Grove 7-8,11.98%,*,N,,,
+mt,972,Elder Grove Elementary,1285,Elder Grove School,13.51%,*,N,,,
+mt,719,Elliston Elementary,947,Elliston School,41.18%,*,N,,17,7
+mt,981,Elysian Elementary,1831,Elysian Middle School,19.44%,*,N,,,
+mt,981,Elysian Elementary,1295,Elysian School,16.43%,*,N,,,
+mt,546,Ennis K-12 Schools,1728,Ennis 7-8,0.00%,*,N,,,
+mt,546,Ennis K-12 Schools,731,Ennis High School,5.22%,*,N,,,
+mt,546,Ennis K-12 Schools,729,Ennis School,13.30%,*,N,,,
+mt,527,Eureka Public Schools,710,Eureka Elementary School,29.17%,*,N,,,
+mt,527,Eureka Public Schools,1724,Eureka Middle School 5-8,28.57%,*,N,,,
+mt,527,Eureka Public Schools,711,Lincoln Co High School,19.55%,*,N,,,
+mt,339,Evergreen Elementary,453,East Evergreen School,55.85%,,Y,60.42%,410,229
+mt,339,Evergreen Elementary,452,Evergreen Junior High,46.58%,,Y,50.61%,322,150
+mt,890,Fairfield Public Schools,1778,Fairfield 7-8,20.75%,*,N,,,
+mt,890,Fairfield Public Schools,1154,Fairfield Elementary School,15.29%,*,N,,,
+mt,890,Fairfield Public Schools,1155,Fairfield High School,16.07%,*,N,,,
+mt,750,Fairview Public Schools,1755,Fairview 7-8,4.44%,*,N,,,
+mt,750,Fairview Public Schools,987,Fairview High School,7.76%,*,N,,,
+mt,750,Fairview Public Schools,986,Fairview School,27.61%,*,N,,,
+mt,743,Florence-Carlton K-12 Schls,1606,Florence-Carlton 7-8,13.43%,*,N,,,
+mt,743,Florence-Carlton K-12 Schls,976,Florence-Carlton El Schl,19.68%,*,N,,,
+mt,743,Florence-Carlton K-12 Schls,977,Florence-Carlton HS,10.08%,*,N,,,
+mt,790,Forsyth Public Schools,1535,Forsyth 7-8,15.56%,*,N,,,
+mt,790,Forsyth Public Schools,1033,Forsyth Elementary School,20.10%,*,N,,,
+mt,790,Forsyth Public Schools,1034,Forsyth High School,9.09%,*,N,,,
+mt,133,Fort Benton Public Schls,191,Fort Benton 7-8,9.30%,*,N,,,
+mt,133,Fort Benton Public Schls,192,Fort Benton High School,14.29%,*,N,,,
+mt,133,Fort Benton Public Schls,190,Fort Benton School,21.43%,*,N,,,
+mt,529,Fortine Elementary,1841,Fortine 7-8,50.00%,,Y,50.00%,8,4
+mt,529,Fortine Elementary,712,Fortine School,32.43%,*,N,,74,24
+mt,927,Frazer Public Schools,1783,Frazer 7-8,82.14%,,Y,76.32%,28,23
+mt,927,Frazer Public Schools,1205,Frazer Elementary,79.03%,,Y,76.32%,62,49
+mt,927,Frazer Public Schools,1208,Frazer High School,62.50%,,Y,76.32%,24,15
+mt,599,Frenchtown K-12 Schools,1741,Frenchtown 7-8,16.88%,*,N,,,
+mt,599,Frenchtown K-12 Schools,802,Frenchtown Elementary School,21.53%,*,N,,,
+mt,599,Frenchtown K-12 Schools,803,Frenchtown High School,13.60%,*,N,,,
+mt,599,Frenchtown K-12 Schools,1845,Frenchtown Intermediate School,26.72%,*,N,,,
+mt,787,Froid Public Schools,1761,Froid 7-8,0.00%,*,N,,,
+mt,787,Froid Public Schools,1029,Froid Elementary School,15.63%,*,N,,,
+mt,787,Froid Public Schools,1030,Froid High School,0.00%,*,N,,,
+mt,72,Fromberg K-12,99,Fromberg High School,44.19%,,Y,42.64%,43,19
+mt,72,Fromberg K-12,1674,Fromberg Middle School,48.28%,,Y,42.64%,29,14
+mt,72,Fromberg K-12,98,Fromberg School,35.09%,,Y,42.64%,57,20
+mt,774,Frontier Elementary,1757,Frontier 7-8,34.78%,,Y,41.55%,23,8
+mt,774,Frontier Elementary,1411,Frontier School,31.20%,,Y,41.55%,125,39
+mt,364,Gallatin Gateway Elem,1702,Gallatin Gateway 7-8,6.25%,*,N,,,
+mt,364,Gallatin Gateway Elem,486,Gallatin Gateway School,7.58%,*,N,,,
+mt,614,Gardiner Public Schools,1743,Gardiner 7-8,4.00%,*,N,,,
+mt,614,Gardiner Public Schools,824,Gardiner High School,3.23%,*,N,,,
+mt,614,Gardiner Public Schools,825,Gardiner School,6.41%,*,N,,,
+mt,154,Geraldine Public Schools,1682,Geraldine 7-8,16.67%,*,N,,,
+mt,154,Geraldine Public Schools,214,Geraldine High School,11.11%,*,N,,,
+mt,154,Geraldine Public Schools,213,Geraldine School,15.15%,*,N,,,
+mt,472,Geyser Public Schools,1718,Geyser 7-8,0.00%,*,N,,,
+mt,472,Geyser Public Schools,627,Geyser High School,0.00%,*,N,,,
+mt,472,Geyser Public Schools,626,Geyser School,4.55%,*,N,,,
+mt,9679,GF Childrens Rcvg Home,100047,Gt Falls Child Rcvg Home,0.00%,*,N,,,
+mt,1217,Gildford Colony Elem,1578,Gildford Colony School,0.00%,*,N,,,
+mt,926,Glasgow K-12 Schools,1204,Glasgow High School,18.43%,*,N,,,
+mt,926,Glasgow K-12 Schools,1618,Glasgow Middle School,22.38%,*,N,,,
+mt,926,Glasgow K-12 Schools,1198,Irle Elementary School,28.17%,*,N,,,
+mt,206,Glendive Public Schools,284,Dawson High School,12.24%,*,N,,,
+mt,206,Glendive Public Schools,280,Jefferson School,22.78%,*,N,,,
+mt,206,Glendive Public Schools,281,Lincoln School,17.74%,*,N,,,
+mt,206,Glendive Public Schools,1685,Washington Middle School,19.74%,*,N,,,
+mt,896,Golden Ridge Elementary,1160,Golden Ridge School,0.00%,*,N,,,
+mt,268,Grass Range Public Schls,1795,Grass Range 7-8,0.00%,*,N,,,
+mt,268,Grass Range Public Schls,368,Grass Range High School,11.76%,*,N,,,
+mt,268,Grass Range Public Schls,367,Grass Range School,14.89%,*,N,,,
+mt,9979,Great Falls Cent Cath HS,9976,Great Falls Cent Cath HS,10.45%,*,N,,,
+mt,98,Great Falls Public Schls,1464,C M Russell High School,18.01%,*,N,,,
+mt,98,Great Falls Public Schls,1408,Chief Joseph School,32.18%,*,N,,376,121
+mt,98,Great Falls Public Schls,1633,East Middle School,39.46%,*,N,,816,322
+mt,98,Great Falls Public Schls,1855,Giant Springs Elementary,41.76%,,Y,58.56%,431,180
+mt,98,Great Falls Public Schls,134,Great Falls High School,25.80%,*,N,,,
+mt,98,Great Falls Public Schls,141,Lewis & Clark School,33.25%,*,N,,409,136
+mt,98,Great Falls Public Schls,142,Lincoln School,28.89%,*,N,,,
+mt,98,Great Falls Public Schls,143,Longfellow School,87.37%,,Y,58.56%,285,249
+mt,98,Great Falls Public Schls,1405,Loy School,2.61%,*,N,,,
+mt,98,Great Falls Public Schls,146,Meadow Lark School,6.29%,*,N,,,
+mt,98,Great Falls Public Schls,147,Morningside School,33.69%,*,N,,279,94
+mt,98,Great Falls Public Schls,1530,Mountain View School,43.21%,,Y,58.56%,449,194
+mt,98,Great Falls Public Schls,1634,North Middle School,20.41%,*,N,,,
+mt,98,Great Falls Public Schls,148,Riverview School,23.31%,*,N,,,
+mt,98,Great Falls Public Schls,1419,Sacajawea School,19.91%,*,N,,,
+mt,98,Great Falls Public Schls,151,Sunnyside School,40.33%,,Y,58.56%,424,171
+mt,98,Great Falls Public Schls,152,Valley View School,35.62%,*,N,,365,130
+mt,98,Great Falls Public Schls,1624,West Elementary,51.79%,,Y,58.56%,419,217
+mt,98,Great Falls Public Schls,154,Whittier School,79.57%,,Y,58.56%,230,183
+mt,900,Greenfield Elementary,1814,Greenfield 7-8,10.53%,*,N,,,
+mt,900,Greenfield Elementary,1165,Greenfield School,5.13%,*,N,,,
+mt,735,Hamilton K-12 Schools,1533,Daly School,34.15%,*,N,,328,112
+mt,735,Hamilton K-12 Schools,1084,Hamilton High School,18.07%,*,N,,,
+mt,735,Hamilton K-12 Schools,1427,Hamilton Middle School,26.42%,*,N,,,
+mt,735,Hamilton K-12 Schools,969,Washington School,36.90%,*,N,,252,93
+mt,23,Hardin Public Schools,33,Crow Agency School,77.29%,,Y,62.33%,317,245
+mt,23,Hardin Public Schools,1315,Fort Smith School,54.05%,,Y,62.33%,37,20
+mt,23,Hardin Public Schools,37,Hardin High School,48.28%,,Y,62.33%,495,239
+mt,23,Hardin Public Schools,32,Hardin Intermediate,66.34%,,Y,62.33%,309,205
+mt,23,Hardin Public Schools,36,Hardin Middle School,62.93%,,Y,62.33%,437,275
+mt,23,Hardin Public Schools,31,Hardin Primary,61.51%,,Y,62.33%,304,187
+mt,30,Harlem Public Schools,1643,Harlem 7-8,51.16%,,Y,57.83%,86,44
+mt,30,Harlem Public Schools,48,Harlem Elementary School,51.82%,,Y,57.83%,357,185
+mt,30,Harlem Public Schools,49,Harlem High School,39.88%,,Y,57.83%,163,65
+mt,946,Harlowton Public Schools,1230,Harlowton High School,15.63%,*,N,,,
+mt,946,Harlowton Public Schools,1787,Hillcrest 7-8,31.25%,*,N,,32,10
+mt,946,Harlowton Public Schools,1228,Hillcrest School,19.02%,*,N,,,
+mt,543,Harrison K-12 Schools,1727,Harrison 7-8,16.67%,*,N,,,
+mt,543,Harrison K-12 Schools,727,Harrison High School,32.26%,*,N,,31,10
+mt,543,Harrison K-12 Schools,726,Harrison School,15.91%,*,N,,,
+mt,427,Havre Public Schools,1450,Havre High School,20.50%,*,N,,,
+mt,427,Havre Public Schools,1451,Havre Middle School,28.29%,*,N,,,
+mt,427,Havre Public Schools,574,Highland Park School,38.74%,,Y,43.13%,302,117
+mt,427,Havre Public Schools,577,Lincoln-McKinley School,35.98%,*,N,,264,95
+mt,427,Havre Public Schools,572,Sunnyside School,33.33%,*,N,,273,91
+mt,1213,Hays-Lodge Pole K-12 Schls,1659,Hays-Lodge Pole 7-8,77.78%,,Y,81.61%,54,42
+mt,1213,Hays-Lodge Pole K-12 Schls,1551,Hays-Lodge Pole High Sch,64.94%,,Y,81.61%,77,50
+mt,1213,Hays-Lodge Pole K-12 Schls,72,Lodge Pole School,75.47%,,Y,81.61%,106,80
+mt,1226,Heart Butte K-12 Schools,1748,Heart Butte 6-8,83.33%,,Y,87.15%,30,25
+mt,1226,Heart Butte K-12 Schools,886,Heart Butte Elementary,88.04%,,Y,87.15%,92,81
+mt,1226,Heart Butte K-12 Schools,1656,Heart Butte High School,87.72%,,Y,87.15%,57,50
+mt,487,Helena Public Schools,655,Broadwater School,39.08%,*,N,,284,111
+mt,487,Helena Public Schools,657,Bryant School,64.40%,,Y,55.78%,250,161
+mt,487,Helena Public Schools,1615,C R Anderson Middle Schl,18.24%,*,N,,,
+mt,487,Helena Public Schools,1547,Capital High School,11.96%,*,N,,,
+mt,487,Helena Public Schools,654,Central School,33.98%,,Y,55.78%,256,87
+mt,487,Helena Public Schools,1582,Four Georgians School,20.63%,*,N,,,
+mt,487,Helena Public Schools,656,Hawthorne School,18.93%,*,N,,,
+mt,487,Helena Public Schools,661,Helena High School,16.26%,*,N,,,
+mt,487,Helena Public Schools,1614,Helena Middle School,30.86%,*,N,,713,220
+mt,487,Helena Public Schools,651,Jefferson School,10.58%,*,N,,,
+mt,487,Helena Public Schools,1461,Jim Darcy School,16.05%,*,N,,,
+mt,487,Helena Public Schools,662,Kessler Elementary School,25.56%,*,N,,,
+mt,487,Helena Public Schools,1478,Rossiter School,26.46%,*,N,,,
+mt,487,Helena Public Schools,1477,Smith School,29.91%,*,N,,,
+mt,487,Helena Public Schools,663,Warren School,25.60%,*,N,,,
+mt,586,Hellgate Elementary,1859,Hellgate El Intermediate,18.91%,*,N,,,
+mt,586,Hellgate Elementary,1573,Hellgate Elem Lower Grades,21.13%,*,N,,,
+mt,586,Hellgate Elementary,1801,Hellgate Middle School,17.32%,*,N,,,
+mt,146,Highwood Public Schools,205,Highwood High School,10.00%,*,N,,,
+mt,146,Highwood Public Schools,1681,Highwood Middle School,6.06%,*,N,,,
+mt,146,Highwood Public Schools,204,Highwood School,3.17%,*,N,,,
+mt,932,Hinsdale Public Schools,1784,Hinsdale 7-8,30.77%,*,N,,13,4
+mt,932,Hinsdale Public Schools,1213,Hinsdale High School,8.70%,*,N,,,
+mt,932,Hinsdale Public Schools,1212,Hinsdale School,17.14%,*,N,,,
+mt,469,Hobson K-12 Schools,1717,Hobson 6-8,22.73%,*,N,,,
+mt,469,Hobson K-12 Schools,623,Hobson High School,11.36%,*,N,,,
+mt,469,Hobson K-12 Schools,622,Hobson School,13.79%,*,N,,,
+mt,815,Hot Springs K-12,1766,Hot Springs 7-8,22.22%,,Y,40.85%,27,6
+mt,815,Hot Springs K-12,1058,Hot Springs High School,24.64%,,Y,40.85%,69,17
+mt,815,Hot Springs K-12,1057,Hot Springs School,47.06%,,Y,40.85%,85,40
+mt,983,Huntley Project K-12 Schls,1616,Huntley Project 7-8,30.23%,*,N,,129,39
+mt,983,Huntley Project K-12 Schls,1296,Huntley Project Elem K-6,30.66%,*,N,,411,126
+mt,983,Huntley Project K-12 Schls,1298,Huntley Project High Schl,24.17%,*,N,,,
+mt,923,Hysham K-12 Schools,1782,Hysham 7-8,0.00%,*,N,,,
+mt,923,Hysham K-12 Schools,1194,Hysham High School,23.08%,*,N,,,
+mt,923,Hysham K-12 Schools,1193,Hysham School,19.05%,*,N,,,
+mt,989,Independent Elementary,1304,Independent School,11.69%,*,N,,,
+mt,9668,Intermountain Childrens Home,9979,Intermountain Childrens Home,13.33%,*,N,,,
+mt,9668,Intermountain Childrens Home,100046,Providence Home,0.00%,*,N,,,
+mt,60,Joliet Public Schools,1635,Joliet 7-8,14.04%,*,N,,,
+mt,60,Joliet Public Schools,88,Joliet High School,8.65%,*,N,,,
+mt,60,Joliet Public Schools,87,Joliet School,18.32%,*,N,,,
+mt,377,Jordan Public Schools,534,Garfield Co Dist HS,4.44%,*,N,,,
+mt,377,Jordan Public Schools,1705,Jordan 7-8,4.55%,*,N,,,
+mt,377,Jordan Public Schools,500,Jordan Elementary School,11.54%,*,N,,,
+mt,948,Judith Gap Public Schools,1788,Judith Gap 7-8,40.00%,*,N,,5,2
+mt,948,Judith Gap Public Schools,1233,Judith Gap High School,33.33%,*,N,,6,2
+mt,948,Judith Gap Public Schools,1232,Judith Gap School,8.33%,*,N,,,
+mt,9658,"Kairos Youth Services, Inc",100029,Evergreen Youth Home,0.00%,*,N,,,
+mt,9658,"Kairos Youth Services, Inc",100030,Missouri River Youth Shelter Care,0.00%,*,N,,,
+mt,9658,"Kairos Youth Services, Inc",100031,Portage Place Youth Home,0.00%,*,N,,,
+mt,311,Kalispell Public Schools,415,Cornelius Hedges School,34.24%,*,N,,330,113
+mt,311,Kalispell Public Schools,412,Edgerton School,23.09%,*,N,,,
+mt,311,Kalispell Public Schools,414,Elrod School,36.09%,*,N,,230,83
+mt,311,Kalispell Public Schools,1802,Fair-Mont-Egan 7-8,10.00%,*,N,,,
+mt,311,Kalispell Public Schools,410,Fair-Mont-Egan School,13.43%,*,N,,,
+mt,311,Kalispell Public Schools,462,Flathead High School,20.93%,*,N,,,
+mt,311,Kalispell Public Schools,1835,Glacier High School,15.56%,*,N,,,
+mt,311,Kalispell Public Schools,1696,Helena Flats 7-8,12.82%,*,N,,,
+mt,311,Kalispell Public Schools,432,Helena Flats School,22.56%,*,N,,,
+mt,311,Kalispell Public Schools,1858,Jeannette Rankin Elementary Sc,28.86%,*,N,,,
+mt,311,Kalispell Public Schools,1509,Kalispell Middle School,21.86%,*,N,,,
+mt,311,Kalispell Public Schools,416,Lillian Peterson School,31.87%,*,N,,386,123
+mt,311,Kalispell Public Schools,413,Russell School,29.46%,*,N,,241,71
+mt,311,Kalispell Public Schools,444,Smith Valley 7-8,20.83%,*,N,,,
+mt,311,Kalispell Public Schools,436,Smith Valley Primary Schl,29.14%,*,N,,,
+mt,323,Kila Elementary,1818,Kila 7-8,34.38%,*,N,,32,11
+mt,323,Kila Elementary,435,Kila School,30.00%,*,N,,160,48
+mt,272,King Colony Elementary,371,King Colony School,0.00%,*,N,,,
+mt,187,Kinsey Elementary,259,Kinsey School,18.03%,*,N,,,
+mt,173,Kircher Elementary,240,Kircher School,19.05%,*,N,,,
+mt,768,Lambert Public Schools,1756,Lambert 7-8,0.00%,*,N,,,
+mt,768,Lambert Public Schools,1006,Lambert High School,0.00%,*,N,,,
+mt,768,Lambert Public Schools,1005,Lambert School,5.63%,*,N,,,
+mt,792,Lame Deer Public Schools,1626,Lame Deer 7-8,86.46%,,Y,82.82%,96,83
+mt,792,Lame Deer Public Schools,1816,Lame Deer High School,68.66%,,Y,82.82%,134,92
+mt,792,Lame Deer Public Schools,1035,Lame Deer School,86.02%,,Y,82.82%,322,277
+mt,970,Laurel Public Schools,1280,Fred W Graff School,23.18%,*,N,,,
+mt,970,Laurel Public Schools,1284,Laurel High School,11.52%,*,N,,,
+mt,970,Laurel Public Schools,1620,Laurel Middle School,21.22%,*,N,,,
+mt,970,Laurel Public Schools,1282,West School,25.61%,*,N,,,
+mt,411,Lavina K-12 Schools,1707,Lavina 7-8,11.11%,*,N,,,
+mt,411,Lavina K-12 Schools,556,Lavina High School,36.84%,*,N,,19,7
+mt,411,Lavina K-12 Schools,555,Lavina School,9.76%,*,N,,,
+mt,258,Lewistown Public Schools,358,Fergus High School,13.58%,*,N,,,
+mt,258,Lewistown Public Schools,357,Garfield School,21.29%,*,N,,,
+mt,258,Lewistown Public Schools,355,Highland Park School,22.89%,*,N,,,
+mt,258,Lewistown Public Schools,356,Lewis & Clark School,21.71%,*,N,,,
+mt,258,Lewistown Public Schools,1410,Lewistown 7-8,16.29%,*,N,,,
+mt,522,Libby K-12 Schools,1526,Libby Elementary School,39.55%,*,N,,670,265
+mt,522,Libby K-12 Schools,705,Libby High School,32.59%,*,N,,316,103
+mt,522,Libby K-12 Schools,704,Libby Middle School,37.97%,*,N,,187,71
+mt,9,Lima K-12 Schools,1667,Lima 6-8,50.00%,*,N,,12,6
+mt,9,Lima K-12 Schools,10,Lima High School,31.58%,*,N,,19,6
+mt,9,Lima K-12 Schools,11,Lima School,12.12%,*,N,,,
+mt,1221,Lincoln K-12 Schools,1721,Lincoln 7-8,31.25%,,Y,43.65%,16,5
+mt,1221,Lincoln K-12 Schools,675,Lincoln Elementary School,42.22%,,Y,43.65%,90,38
+mt,1221,Lincoln K-12 Schools,1610,Lincoln High School,26.09%,,Y,43.65%,46,12
+mt,613,Livingston Public Schools,822,B A Winans School,22.83%,*,N,,,
+mt,613,Livingston Public Schools,817,East Side School,23.24%,*,N,,,
+mt,613,Livingston Public Schools,823,Park High School,11.45%,*,N,,,
+mt,613,Livingston Public Schools,1490,Sleeping Giant Middle Sch,16.61%,*,N,,,
+mt,1241,Lockwood Public Schools,1560,Lockwood Intermediate,33.59%,*,N,,390,131
+mt,1241,Lockwood Public Schools,1647,Lockwood Middle School,30.49%,*,N,,387,118
+mt,1241,Lockwood Public Schools,1276,Lockwood Primary,32.49%,*,N,,397,129
+mt,25,Lodge Grass Public Schls,1669,Lodge Grass 7-8,82.35%,,Y,81.50%,68,56
+mt,25,Lodge Grass Public Schls,40,Lodge Grass High School,69.33%,,Y,81.50%,163,113
+mt,25,Lodge Grass Public Schls,39,Lodge Grass School,84.13%,,Y,81.50%,189,159
+mt,588,Lolo Elementary,792,Lolo Elementary,25.83%,*,N,,,
+mt,588,Lolo Elementary,1587,Lolo Middle School,25.44%,*,N,,,
+mt,741,Lone Rock Elementary,1827,Lone Rock Middle School,23.94%,*,N,,,
+mt,741,Lone Rock Elementary,975,Lone Rock School,36.64%,*,N,,131,48
+mt,9021,Loyola-Sacred Heart High,9040,Loyola-Sacred Heart H S,3.31%,*,N,,,
+mt,9021,Loyola-Sacred Heart High,9453,St Joseph School,0.00%,*,N,,,
+mt,941,Lustre Elementary,9320,Lustre Christian H S,3.85%,*,N,,,
+mt,941,Lustre Elementary,1223,Lustre School,11.32%,*,N,,,
+mt,1231,Luther Elementary,91,Luther School,6.67%,*,N,,,
+mt,659,Malta K-12 Schools,1505,Malta 6-7-8,19.09%,*,N,,,
+mt,659,Malta K-12 Schools,875,Malta High School,11.85%,*,N,,,
+mt,659,Malta K-12 Schools,1504,Malta K-5,19.30%,*,N,,,
+mt,9199,Manhattan Christian High,498,Amsterdam School,3.92%,*,N,,,
+mt,9199,Manhattan Christian High,9027,Manhattan Christian H S,2.13%,*,N,,,
+mt,9199,Manhattan Christian High,9338,Manhattan Christian Schl,0.00%,*,N,,,
+mt,348,Manhattan Public Schools,1699,Manhattan 5-8,10.71%,*,N,,,
+mt,348,Manhattan Public Schools,464,Manhattan Elem,10.87%,*,N,,,
+mt,348,Manhattan Public Schools,465,Manhattan H S,5.04%,*,N,,,
+mt,341,Marion Elementary,1697,Marion 7-8,21.43%,*,N,,,
+mt,341,Marion Elementary,455,Marion School,40.00%,*,N,,115,46
+mt,822,Medicine Lake K-12 Schools,1662,Medicine Lake 7-8,27.27%,*,N,,,
+mt,822,Medicine Lake K-12 Schools,1065,Medicine Lake High School,24.00%,*,N,,,
+mt,822,Medicine Lake K-12 Schools,1064,Medicine Lake School,21.21%,*,N,,,
+mt,607,Melstone Public Schools,1742,Melstone 6-8,27.78%,*,N,,,
+mt,607,Melstone Public Schools,813,Melstone High School,13.79%,*,N,,,
+mt,607,Melstone Public Schools,812,Melstone School,21.74%,*,N,,,
+mt,172,Miles City Public Schools,266,Custer Co District High,10.22%,*,N,,,
+mt,172,Miles City Public Schools,234,Garfield School,38.79%,*,N,,214,83
+mt,172,Miles City Public Schools,1579,Highland Park School,22.36%,*,N,,,
+mt,172,Miles City Public Schools,1561,Jefferson School,31.18%,*,N,,170,53
+mt,172,Miles City Public Schools,236,Lincoln School,12.20%,*,N,,,
+mt,172,Miles City Public Schools,238,Washington 7-8,12.50%,*,N,,,
+mt,583,Missoula Co Public Schls,1592,Big Sky High School,22.40%,*,N,,,
+mt,583,Missoula Co Public Schls,1819,Chief Charlo School,24.11%,*,N,,,
+mt,583,Missoula Co Public Schls,773,Franklin School,45.96%,*,N,,322,148
+mt,583,Missoula Co Public Schls,787,Hawthorne School,43.22%,*,N,,435,188
+mt,583,Missoula Co Public Schls,1432,Hellgate High School,21.17%,*,N,,,
+mt,583,Missoula Co Public Schls,1443,Jeannette Rankin El,14.75%,*,N,,,
+mt,583,Missoula Co Public Schls,1856,Jeannette Rankin El,25.00%,*,N,,,
+mt,583,Missoula Co Public Schls,774,Lewis & Clark School,17.96%,*,N,,,
+mt,583,Missoula Co Public Schls,775,Lowell School,54.95%,*,N,,313,172
+mt,583,Missoula Co Public Schls,1491,Meadow Hill Middle School,25.98%,*,N,,,
+mt,583,Missoula Co Public Schls,776,Paxson School,24.11%,*,N,,,
+mt,583,Missoula Co Public Schls,1486,Porter Middle School,35.88%,*,N,,563,202
+mt,583,Missoula Co Public Schls,785,Rattlesnake Elementary School,12.35%,*,N,,,
+mt,583,Missoula Co Public Schls,778,Russell School,45.52%,*,N,,402,183
+mt,583,Missoula Co Public Schls,1434,Seeley-Swan High School,15.73%,*,N,,,
+mt,583,Missoula Co Public Schls,1433,Sentinel High School,19.22%,*,N,,,
+mt,583,Missoula Co Public Schls,779,Washington Middle School,17.96%,*,N,,,
+mt,9660,Missoula Youth Homes,100036,Dennis Radtke Home for Boys,0.00%,*,N,,,
+mt,9660,Missoula Youth Homes,100035,Flathead Youth Home,0.00%,*,N,,,
+mt,9660,Missoula Youth Homes,100032,Jan Shaw Home for Girls,0.00%,*,N,,,
+mt,9660,Missoula Youth Homes,100034,Linda Massa Youth Home,0.00%,*,N,,,
+mt,9660,Missoula Youth Homes,100033,Margaret Stuart Youth Home,0.00%,*,N,,,
+mt,9660,Missoula Youth Homes,100037,Shirley Miller Attention Home,0.00%,*,N,,,
+mt,9660,Missoula Youth Homes,100038,Susan Talbot Boys Home,0.00%,*,N,,,
+mt,9660,Missoula Youth Homes,100039,Susan Talbot Home for Girls,0.00%,*,N,,,
+mt,9660,Missoula Youth Homes,100040,Tom Roy Group Home,0.00%,*,N,,,
+mt,363,Monforton Elementary,1701,Monforton 6-8,9.82%,*,N,,,
+mt,363,Monforton Elementary,1601,Monforton Primary,7.53%,*,N,,,
+mt,363,Monforton Elementary,485,Monforton School,6.25%,*,N,,,
+mt,9258,Mont Sch for Deaf & Blind,9368,MT Sch For Deaf & Blnd El,63.64%,,Y,62.50%,11,7
+mt,9258,Mont Sch for Deaf & Blind,9371,MT Sch For Deaf & Blnd HS,33.33%,,Y,62.50%,12,4
+mt,9258,Mont Sch for Deaf & Blind,100240,MT Sch For Deaf & Blnd RCCI,0.00%,*,N,,,
+mt,6556,Montana Air National Guard,100014,University of Montana - Western,0.00%,*,N,,,
+mt,460,Montana City Elementary,1715,Montana City Middle Schl,3.51%,*,N,,,
+mt,460,Montana City Elementary,614,Montana City School,4.17%,*,N,,,
+mt,273,Moore Public Schools,1688,Moore 6-8,22.22%,*,N,,,
+mt,273,Moore Public Schools,373,Moore High School,16.00%,*,N,,,
+mt,273,Moore Public Schools,372,Moore School,19.44%,*,N,,,
+mt,976,Morin Elementary,1290,Morin School,71.74%,,Y,78.00%,46,33
+mt,937,Nashua K-12 Schools,1786,Nashua 7-8,16.67%,*,N,,,
+mt,937,Nashua K-12 Schools,1219,Nashua High School,15.15%,*,N,,,
+mt,937,Nashua K-12 Schools,1218,Nashua School,23.73%,*,N,,,
+mt,9993,Nkwusm School,9981,Nkwusm,0.00%,,Y,75.00%,41,0
+mt,9028,North Cheyenne Trib Schools,9369,Northern Cheyenne Trib El,78.57%,,Y,75.15%,98,77
+mt,9028,North Cheyenne Trib Schools,9370,Northern Cheyenne Trib HS,71.74%,,Y,75.15%,46,33
+mt,9028,North Cheyenne Trib Schools,9946,Northern Cheyenne Tribal 7-8,68.00%,,Y,75.15%,25,17
+mt,1234,North Star Public Schools,588,North Star 7-8,17.24%,*,N,,,
+mt,1234,North Star Public Schools,591,North Star High School,15.38%,*,N,,,
+mt,1234,North Star Public Schools,1536,North Star School,23.58%,*,N,,,
+mt,811,Noxon Public Schools,1765,Noxon 7-8,27.27%,*,N,,,
+mt,811,Noxon Public Schools,1055,Noxon High School,22.54%,*,N,,,
+mt,811,Noxon Public Schools,1054,Noxon School,32.41%,,Y,49.40%,108,35
+mt,342,Olney-Bissell Elementary,1698,Bissell 7-8,0.00%,*,N,,,
+mt,342,Olney-Bissell Elementary,457,Bissell School,30.36%,*,N,,56,17
+mt,935,Opheim K-12 Schools,1785,Opheim 7-8,0.00%,*,N,,,
+mt,935,Opheim K-12 Schools,1215,Opheim High School,8.33%,*,N,,,
+mt,935,Opheim K-12 Schools,1214,Opheim School,10.00%,*,N,,,
+mt,9180,Our Lady Of Lourdes Schl,9325,Our Lady of Lourdes Schl,0.00%,*,N,,,
+mt,846,Park City Public Schools,1771,Park City 7-8,11.54%,*,N,,,
+mt,846,Park City Public Schools,1110,Park City High School,13.68%,*,N,,,
+mt,846,Park City Public Schools,1109,Park City School,16.05%,*,N,,,
+mt,416,Philipsburg K-12 Schools,565,Granite High School,7.41%,*,N,,,
+mt,416,Philipsburg K-12 Schools,1708,Philipsburg 7-8,20.00%,*,N,,,
+mt,416,Philipsburg K-12 Schools,560,Philipsburg School,15.56%,*,N,,,
+mt,803,Plains Public Schools,1627,Plains 7-8,18.67%,*,N,,,
+mt,803,Plains Public Schools,1045,Plains Elementary School,32.66%,*,N,,248,81
+mt,803,Plains Public Schools,1046,Plains High School,19.12%,*,N,,,
+mt,828,Plentywood K-12 Schools,1768,Plentywood 7-8,3.57%,*,N,,,
+mt,828,Plentywood K-12 Schools,1071,Plentywood High School,4.30%,*,N,,,
+mt,828,Plentywood K-12 Schools,1070,Plentywood School,11.11%,*,N,,,
+mt,256,Plevna K-12 Schools,1687,Plevna 7-8,7.14%,*,N,,,
+mt,256,Plevna K-12 Schools,352,Plevna High School,12.50%,*,N,,,
+mt,256,Plevna K-12 Schools,351,Plevna School,22.97%,*,N,,,
+mt,478,Polson Public Schools,632,Cherry Valley School,49.11%,*,N,,281,138
+mt,478,Polson Public Schools,1495,Linderman School,44.32%,*,N,,361,160
+mt,478,Polson Public Schools,633,Polson High School,23.44%,*,N,,,
+mt,478,Polson Public Schools,1498,Polson Middle School,37.11%,*,N,,574,213
+mt,776,Poplar Public Schools,1014,Poplar 5-6 School,67.44%,,Y,65.79%,172,116
+mt,776,Poplar Public Schools,1550,Poplar 7-8,66.91%,,Y,65.79%,136,91
+mt,776,Poplar Public Schools,1016,Poplar High School,60.27%,,Y,65.79%,224,135
+mt,776,Poplar Public Schools,1015,Poplar School,66.92%,,Y,65.79%,396,265
+mt,589,Potomac Elementary,1733,Potomac 7-8,23.81%,*,N,,,
+mt,589,Potomac Elementary,793,Potomac School,17.14%,*,N,,,
+mt,894,Power Public Schools,1780,Power 7-8,13.33%,*,N,,,
+mt,894,Power Public Schools,1159,Power High School,11.11%,*,N,,,
+mt,894,Power Public Schools,1158,Power School,6.90%,*,N,,,
+mt,21,Pryor Public Schools,27,Arrow Creek Elem School,72.09%,,Y,67.77%,43,31
+mt,21,Pryor Public Schools,1553,Plenty Coups High School,63.33%,,Y,67.77%,60,38
+mt,21,Pryor Public Schools,1668,Pryor 7-8,72.22%,,Y,67.77%,18,13
+mt,842,Ramsay Elementary,1770,Ramsay 7-8,8.33%,*,N,,,
+mt,842,Ramsay Elementary,1105,Ramsay School,15.08%,*,N,,,
+mt,858,Rapelje Public Schools,1774,Rapelje 7-8,0.00%,*,N,,,
+mt,858,Rapelje Public Schools,1123,Rapelje High School,10.53%,*,N,,,
+mt,858,Rapelje Public Schools,1122,Rapelje School,7.41%,*,N,,,
+mt,754,Rau Elementary,990,Rau School,18.00%,*,N,,,
+mt,56,Red Lodge Public Schools,1542,Mountain View School,16.67%,*,N,,,
+mt,56,Red Lodge Public Schools,84,Red Lodge High School,10.34%,*,N,,,
+mt,56,Red Lodge Public Schools,1637,Roosevelt Junior High,9.91%,*,N,,,
+mt,850,Reed Point Public Schools,1773,Reed Point 7-8,12.50%,*,N,,,
+mt,850,Reed Point Public Schools,1113,Reed Point Elementary,15.15%,*,N,,,
+mt,850,Reed Point Public Schools,1114,Reed Point High School,11.11%,*,N,,,
+mt,228,Richey Public Schools,1686,Richey 7-8,12.50%,*,N,,,
+mt,228,Richey Public Schools,311,Richey High School,0.00%,*,N,,,
+mt,228,Richey Public Schools,310,Richey School,8.33%,*,N,,,
+mt,69,Roberts K-12 Schools,1673,Roberts 7-8,23.53%,*,N,,,
+mt,69,Roberts K-12 Schools,96,Roberts High School,26.32%,*,N,,,
+mt,69,Roberts K-12 Schools,95,Roberts School,27.78%,*,N,,,
+mt,1207,Rocky Boy Public Schools,1711,Rocky Boy 7-8,54.44%,,Y,64.51%,90,49
+mt,1207,Rocky Boy Public Schools,1807,Rocky Boy High School,75.00%,,Y,64.51%,124,93
+mt,1207,Rocky Boy Public Schools,579,Rocky Boy School,57.10%,,Y,64.51%,366,209
+mt,6530,Rocky Mtn Partner for Child,100013,Rosemary Gallagher Children's Home,0.00%,*,N,,,
+mt,6530,Rocky Mtn Partner for Child,100012,Sunrise Children's Home,0.00%,*,N,,,
+mt,1200,Ronan Public Schools,639,K William Harvey Elem,47.49%,,Y,50.91%,419,199
+mt,1200,Ronan Public Schools,638,Pablo Elementary,68.37%,,Y,50.91%,215,147
+mt,1200,Ronan Public Schools,640,Ronan High School,35.38%,,Y,50.91%,325,115
+mt,1200,Ronan Public Schools,1519,Ronan Middle School,47.32%,,Y,50.91%,503,238
+mt,795,Rosebud Public Schools,1762,Rosebud 7-8,100.00%,*,N,,1,1
+mt,795,Rosebud Public Schools,1038,Rosebud High School,46.15%,*,N,,13,6
+mt,795,Rosebud Public Schools,1470,Rosebud School,15.79%,*,N,,,
+mt,605,Roundup Public Schools,1644,Roundup 7-8,30.43%,*,N,,92,28
+mt,605,Roundup Public Schools,809,Roundup Elementary,28.57%,*,N,,,
+mt,605,Roundup Public Schools,811,Roundup H S,25.32%,*,N,,,
+mt,280,Roy K-12 Schools,1689,Roy 6-8,0.00%,*,N,,,
+mt,280,Roy K-12 Schools,379,Roy High School,6.67%,*,N,,,
+mt,280,Roy K-12 Schools,378,Roy School,6.25%,*,N,,,
+mt,407,Ryegate K-12 Schools,1706,Ryegate 7-8,40.00%,,Y,50.75%,5,2
+mt,407,Ryegate K-12 Schools,551,Ryegate High School,20.00%,,Y,50.75%,10,2
+mt,407,Ryegate K-12 Schools,550,Ryegate School,25.00%,,Y,50.75%,40,10
+mt,657,Saco Public Schools,1746,Saco 7-8,42.86%,*,N,,7,3
+mt,657,Saco Public Schools,873,Saco High School,17.65%,*,N,,,
+mt,657,Saco Public Schools,872,Saco School,12.90%,*,N,,,
+mt,9187,Sacred Heart School,9331,Sacred Heart Elem,0.00%,*,N,,,
+mt,9187,Sacred Heart School,9948,Sacred Heart Jr High,0.00%,*,N,,,
+mt,747,Savage Public Schools,1754,Savage 7-8,16.67%,*,N,,,
+mt,747,Savage Public Schools,983,Savage High School,14.81%,*,N,,,
+mt,747,Savage Public Schools,982,Savage School,8.70%,*,N,,,
+mt,194,Scobey K-12 Schools,1650,Scobey 7-8,4.88%,*,N,,,
+mt,194,Scobey K-12 Schools,268,Scobey High School,4.76%,*,N,,,
+mt,194,Scobey K-12 Schools,267,Scobey School,7.79%,*,N,,,
+mt,597,Seeley Lake Elementary,1740,Seeley Lake 7-8,41.86%,*,N,,43,18
+mt,597,Seeley Lake Elementary,801,Seeley Lake Elementary,36.42%,*,N,,151,55
+mt,910,Shelby Public Schools,1832,Cam Rose School,0.00%,*,N,,,
+mt,910,Shelby Public Schools,1175,Shelby 7-8,23.21%,*,N,,,
+mt,910,Shelby Public Schools,1176,Shelby Elementary School,30.62%,*,N,,258,79
+mt,910,Shelby Public Schools,1178,Shelby High School,17.54%,*,N,,,
+mt,985,Shepherd Public Schools,1300,Shepherd Elementary,25.00%,*,N,,,
+mt,985,Shepherd Public Schools,1301,Shepherd High School,13.49%,*,N,,,
+mt,985,Shepherd Public Schools,1794,Shepherd Middle School,22.56%,*,N,,,
+mt,537,Sheridan Public Schools,1725,Sheridan 7-8,16.13%,*,N,,,
+mt,537,Sheridan Public Schools,721,Sheridan Elementary Schl,9.68%,*,N,,,
+mt,537,Sheridan Public Schools,722,Sheridan High School,8.77%,*,N,,,
+mt,1227,Shields Valley Pub Schls,1797,Shields Valley 7-8,7.41%,*,N,,,
+mt,1227,Shields Valley Pub Schls,1665,Shields Valley Elementary,18.42%,*,N,,,
+mt,1227,Shields Valley Pub Schls,1666,Shields Valley High Schl,16.95%,*,N,,,
+mt,9751,Shodair Specialty Hosp,9977,Shodair Specialty Hosp,46.15%,*,N,,52,24
+mt,746,Sidney Public Schools,979,Central Elementary,13.43%,*,N,,,
+mt,746,Sidney Public Schools,981,Sidney High School,8.09%,*,N,,,
+mt,746,Sidney Public Schools,1619,Sidney Middle School,10.42%,*,N,,,
+mt,746,Sidney Public Schools,1446,West Side Elementary,14.14%,*,N,,,
+mt,327,Somers Elementary,439,Lakeside Elementary School,20.42%,*,N,,,
+mt,327,Somers Elementary,1799,Somers Middle School,15.31%,*,N,,,
+mt,481,St Ignatius K-12 Schools,642,St Ignatius Elementary School,53.28%,,Y,51.83%,274,146
+mt,481,St Ignatius K-12 Schools,643,St Ignatius High School,37.12%,,Y,51.83%,132,49
+mt,481,St Ignatius K-12 Schools,1719,St Ignatius Middle School,52.73%,,Y,51.83%,110,58
+mt,9203,St Jude Thaddeus School,9247,St Jude Thaddeus School,0.00%,*,N,,,
+mt,9222,St Labre Schools,100239,Pretty Eagle Catholic Academy Preschool,0.00%,,Y,59.67%,15,0
+mt,9222,St Labre Schools,9410,Pretty Eagle Cthlc Schl,0.00%,,Y,59.67%,162,0
+mt,9222,St Labre Schools,9321,St Charles Mission School,0.00%,,Y,59.67%,97,0
+mt,9222,St Labre Schools,9059,St Labre High School,48.18%,,Y,59.67%,137,66
+mt,9222,St Labre Schools,9353,St Labre School,0.00%,,Y,59.67%,226,0
+mt,9214,St Mary's School,9249,St Mary's School,0.00%,*,N,,,
+mt,9196,St Matthew School,9367,St Matthew School,0.00%,*,N,,,
+mt,9176,St Paul Mission Schl,9323,St Paul Mission School,0.00%,,Y,82.82%,62,0
+mt,582,St Regis K-12 Schools,1732,St Regis 7-8,33.33%,,Y,51.81%,21,7
+mt,582,St Regis K-12 Schools,771,St Regis High School,30.95%,,Y,51.81%,42,13
+mt,582,St Regis K-12 Schools,770,St Regis School,37.72%,,Y,51.81%,114,43
+mt,464,Stanford K-12 Schools,1716,Stanford 7-8,21.43%,*,N,,,
+mt,464,Stanford K-12 Schools,618,Stanford High School,6.67%,*,N,,,
+mt,464,Stanford K-12 Schools,617,Stanford School,12.50%,*,N,,,
+mt,464,Stanford K-12 Schools,1617,Surprise Creek School,0.00%,*,N,,,
+mt,732,Stevensville Public Schls,1577,Stevensville 7-8,24.22%,*,N,,,
+mt,732,Stevensville Public Schls,966,Stevensville High School,15.25%,*,N,,,
+mt,732,Stevensville Public Schls,965,Stevensville K-6,23.05%,*,N,,,
+mt,1225,Sun River Valley Pub Schls,173,Fort Shaw Elem School,16.67%,*,N,,,
+mt,1225,Sun River Valley Pub Schls,174,Simms High School,16.84%,*,N,,,
+mt,1225,Sun River Valley Pub Schls,1538,Sun River Middle School,17.31%,*,N,,,
+mt,903,Sunburst K-12 Schools,1781,Sunburst  7 - 8,20.00%,*,N,,,
+mt,903,Sunburst K-12 Schools,1167,Sunburst Elementary,20.48%,*,N,,,
+mt,903,Sunburst K-12 Schools,1168,Sunburst High School,11.32%,*,N,,,
+mt,579,Superior K-12 Schools,1731,Superior 7-8,46.15%,,Y,41.46%,52,24
+mt,579,Superior K-12 Schools,767,Superior Elementary,49.69%,,Y,41.46%,161,80
+mt,579,Superior K-12 Schools,768,Superior High School,44.59%,,Y,41.46%,74,33
+mt,309,Swan River Elementary,1694,Swan River 7-8,5.71%,*,N,,,
+mt,309,Swan River Elementary,411,Swan River School,25.00%,*,N,,,
+mt,882,Sweet Grass County HS,1130,Sweet Grass Co High Schl,14.65%,*,N,,,
+mt,593,Target Range Elementary,1737,Target Range 7-8,18.94%,*,N,,,
+mt,593,Target Range Elementary,797,Target Range School,21.64%,*,N,,,
+mt,726,Terry K-12 Schools,958,Terry High School,31.43%,*,N,,35,11
+mt,726,Terry K-12 Schools,1752,Terry Middle School,25.00%,*,N,,,
+mt,726,Terry K-12 Schools,954,Terry School,24.10%,*,N,,,
+mt,804,Thompson Falls Pub Schls,1764,Thompson Falls 7-8,30.43%,*,N,,69,21
+mt,804,Thompson Falls Pub Schls,1047,Thompson Falls Elem Schl,32.88%,*,N,,219,72
+mt,804,Thompson Falls Pub Schls,1048,Thompson Falls High Schl,20.13%,*,N,,,
+mt,360,Three Forks Public Schls,1658,Three Forks 7-8,10.38%,*,N,,,
+mt,360,Three Forks Public Schls,482,Three Forks Elem School,17.58%,*,N,,,
+mt,360,Three Forks Public Schls,483,Three Forks High School,9.18%,*,N,,,
+mt,55,Townsend K-12 Schools,81,Broadwater High School,16.26%,*,N,,,
+mt,55,Townsend K-12 Schools,76,Cecelia Hazelton School,21.49%,*,N,,,
+mt,55,Townsend K-12 Schools,1671,Townsend 7-8,18.56%,*,N,,,
+mt,534,Trego Elementary,717,Trego School,75.00%,,Y,92.31%,8,6
+mt,9245,Trinity Lutheran School,9366,Trinity Lutheran School,0.00%,*,N,,,
+mt,807,Trout Creek Elementary,1820,Trout Creek 7-8,12.50%,,Y,47.27%,8,1
+mt,807,Trout Creek Elementary,1050,Trout Creek School,42.11%,,Y,47.27%,57,24
+mt,519,Troy Public Schools,1663,Troy 7-8,55.77%,,Y,46.90%,52,29
+mt,519,Troy Public Schools,697,Troy High School,31.45%,,Y,46.90%,124,39
+mt,519,Troy Public Schools,696,W F Morrison School,49.01%,,Y,46.90%,202,99
+mt,44,Turner Public Schools,1670,Turner 7-8,8.33%,*,N,,,
+mt,44,Turner Public Schools,70,Turner High School,0.00%,*,N,,,
+mt,44,Turner Public Schools,69,Turner School,11.54%,*,N,,,
+mt,540,Twin Bridges K-12 Schools,1726,Twin Bridges 7-8,10.00%,*,N,,,
+mt,540,Twin Bridges K-12 Schools,724,Twin Bridges High School,10.96%,*,N,,,
+mt,540,Twin Bridges K-12 Schools,723,Twin Bridges School,11.88%,*,N,,,
+mt,9396,Two Eagle River Schools,9405,Two Eagle River High Schl,68.75%,,Y,70.89%,80,55
+mt,9396,Two Eagle River Schools,9951,Two Eagle River School,0.00%,*,N,,,
+mt,9396,Two Eagle River Schools,,Two Eagle River School,0.00%,,Y,66.67%,13,0
+mt,131,Ulm Elementary,1655,Fairhaven Colony,0.00%,*,N,,,
+mt,131,Ulm Elementary,1680,Ulm Junior High,19.05%,*,N,,,
+mt,131,Ulm Elementary,188,Ulm School,19.35%,*,N,,,
+mt,679,Valier Public Schools,1749,Valier 7-8,20.83%,*,N,,,
+mt,679,Valier Public Schools,899,Valier High School,15.22%,*,N,,,
+mt,679,Valier Public Schools,898,Valier School,20.59%,*,N,,,
+mt,483,Valley View Elementary,645,Valley View School,21.05%,*,N,,,
+mt,127,Vaughn Elementary,1679,Vaughn 7-8,17.86%,,Y,70.00%,28,5
+mt,127,Vaughn Elementary,183,Vaughn School,45.67%,,Y,47.24%,127,58
+mt,738,Victor K-12 Schools,972,Victor High School,29.00%,,Y,51.71%,100,29
+mt,738,Victor K-12 Schools,1753,Victor Middle School,37.50%,,Y,51.71%,56,21
+mt,738,Victor K-12 Schools,971,Victor School,56.07%,,Y,51.71%,107,60
+mt,1184,West Valley Elementary,1692,West Valley Middle School,12.34%,*,N,,,
+mt,1184,West Valley Elementary,1305,West Valley School,13.95%,*,N,,,
+mt,374,West Yellowstone K-12 Schls,1704,West Yellowstone 7-8,15.56%,*,N,,,
+mt,374,West Yellowstone K-12 Schls,496,West Yellowstone HS,8.97%,*,N,,,
+mt,374,West Yellowstone K-12 Schls,495,West Yellowstone School,15.06%,*,N,,,
+mt,819,Westby K-12 Schools,1767,Westby 7-8,0.00%,*,N,,,
+mt,819,Westby K-12 Schools,1062,Westby High School,0.00%,*,N,,,
+mt,819,Westby K-12 Schools,1061,Westby School,20.00%,*,N,,,
+mt,570,White Sul Spgs Pub Schls,1729,White Sulphur Springs 7-8,12.90%,*,N,,,
+mt,570,White Sul Spgs Pub Schls,758,White Sulphur Springs El,26.23%,*,N,,,
+mt,570,White Sul Spgs Pub Schls,759,White Sulphur Springs HS,26.47%,*,N,,,
+mt,335,Whitefish Public Schools,1500,L A Muldown School,17.45%,*,N,,,
+mt,335,Whitefish Public Schools,448,Whitefish High School,10.16%,*,N,,,
+mt,335,Whitefish Public Schools,1598,Whitefish Middle 5-8,15.13%,*,N,,,
+mt,453,Whitehall Public Schools,1570,Whitehall 6-8,27.62%,*,N,,,
+mt,453,Whitehall Public Schools,607,Whitehall Elementary,28.57%,*,N,,,
+mt,453,Whitehall Public Schools,608,Whitehall High School,17.69%,*,N,,,
+mt,663,Whitewater K-12 Schools,1747,Whitewater 6-8,14.29%,*,N,,,
+mt,663,Whitewater K-12 Schools,879,Whitewater High School,0.00%,*,N,,,
+mt,663,Whitewater K-12 Schools,878,Whitewater School,10.71%,*,N,,,
+mt,964,Wibaux K-12 Schools,1789,Wibaux 7-8,0.00%,*,N,,,
+mt,964,Wibaux K-12 Schools,1238,Wibaux Elementary School,8.25%,*,N,,,
+mt,964,Wibaux K-12 Schools,1239,Wibaux High School,2.78%,*,N,,,
+mt,354,Willow Creek Public Schls,1700,Willow Creek 7-8,36.36%,*,N,,11,4
+mt,354,Willow Creek Public Schls,477,Willow Creek High School,11.11%,*,N,,,
+mt,354,Willow Creek Public Schls,476,Willow Creek School,17.95%,*,N,,,
+mt,291,Winifred K-12 Schools,1691,Winifred 6-8,12.50%,*,N,,,
+mt,291,Winifred K-12 Schools,392,Winifred High School,23.08%,*,N,,,
+mt,291,Winifred K-12 Schools,391,Winifred School,12.24%,*,N,,,
+mt,642,Winnett K-12 Schools,1744,Winnett 7-8,14.29%,*,N,,,
+mt,642,Winnett K-12 Schools,853,Winnett High School,4.17%,*,N,,,
+mt,642,Winnett K-12 Schools,852,Winnett School,7.89%,*,N,,,
+mt,495,Wolf Creek Elementary,668,Wolf Creek School,0.00%,*,N,,,
+mt,781,Wolf Point Public Schools,1022,Northside School,67.23%,,Y,61.12%,177,119
+mt,781,Wolf Point Public Schools,1020,Southside School,68.21%,,Y,61.12%,280,191
+mt,781,Wolf Point Public Schools,1532,Wolf Point 7-8,58.33%,,Y,61.12%,120,70
+mt,781,Wolf Point Public Schools,1023,Wolf Point High School,48.10%,,Y,61.12%,210,101
+mt,26,Wyola Elementary,1583,Wyola 7-8,55.17%,,Y,73.55%,29,16
+mt,26,Wyola Elementary,41,Wyola School,63.64%,,Y,73.55%,55,35
+mt,9980,Yellowstone Academy HS,1850,Yellowstone Academy 7-8,47.73%,,Y,66.07%,44,21
+mt,9980,Yellowstone Academy HS,1456,Yellowstone Academy Elem,72.73%,,Y,66.07%,22,16
+mt,9980,Yellowstone Academy HS,9913,Yellowstone Academy HS,61.36%,,Y,66.07%,44,27
+mt,9980,Yellowstone Academy HS,100052,Yellowstone Academy RCCI,0.00%,*,N,,,
+mt,9994,"Youth Dynamics, Inc.",100057,Big Sky Youth Home,0.00%,*,N,,,
+mt,9994,"Youth Dynamics, Inc.",100058,Choices,0.00%,*,N,,,
+mt,9994,"Youth Dynamics, Inc.",100062,"Greater Gallatin Day Treatment Center, Bozeman",0.00%,*,N,,,
+mt,9994,"Youth Dynamics, Inc.",100056,Lewis & Clark Group Home,0.00%,*,N,,,
+mt,9994,"Youth Dynamics, Inc.",100060,New Beginnings,0.00%,*,N,,,
+mt,9994,"Youth Dynamics, Inc.",100059,New Journey,0.00%,*,N,,,
+mt,9994,"Youth Dynamics, Inc.",100281,North Skyline Youth Home,0.00%,*,N,,,
+mt,9994,"Youth Dynamics, Inc.",100061,Opportunity Home,0.00%,*,N,,,
+mt,9994,"Youth Dynamics, Inc.",100055,Rimview Group Home,0.00%,*,N,,,
+mt,9994,"Youth Dynamics, Inc.",100054,Rivers Edge Group Home,0.00%,*,N,,,
+mt,9994,"Youth Dynamics, Inc.",100053,Star Group Home,0.00%,*,N,,,
+mt,9854,Youth Services Center,100050,Youth Services Center,0.00%,*,N,,,
+mt,34,Zurich Elementary,56,Zurich School,20.00%,*,N,,,

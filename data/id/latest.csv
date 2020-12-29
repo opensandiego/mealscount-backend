@@ -1,0 +1,167 @@
+state,District Code,District Name,School Code,School Name,individual_isp,proxy_isp,participating_in_cep,claiming_isp,total_enrolled,total_eligible
+id,381,American Falls S.D. #381,491,American Falls Alternative Academy,43.24%,*,N,43.24%,37,16
+id,381,American Falls S.D. #381,101,Hillcrest Elementary School,33.70%,*,N,,457,154
+id,381,American Falls S.D. #381,102,Intermediate School,36.13%,*,N,,238,86
+id,33,Bear Lake County S.D. #033,402,Bear Lake Clover Creek School,50.00%,,Y,51.20%,15,8
+id,55,Blackfoot S.D. #055,106,Donald D. Stalker Elementary School,44.40%,,Y,48.16%,275,122
+id,55,Blackfoot S.D. #055,101-0,Fort Hall Elementary School,65.31%,,Y,48.16%,157,103
+id,55,Blackfoot S.D. #055,104,I T Stoddard Elementary School,31.60%,*,N,,405,128
+id,55,Blackfoot S.D. #055,491-0,Independence Alternate High,43.75%,,Y,48.16%,180,79
+id,55,Blackfoot S.D. #055,112,Lillian Vallely,66.67%,,Y,60.00%,25,17
+id,1,Boise S. D. #001,T01,ASCENT,34.38%,,Y,44.00%,32,11
+id,1,Boise S. D. #001,665,Cynthia Mann Elementary School,22.19%,*,N,,374,83
+id,1,Boise S. D. #001,2,Fairmont Junior High School,31.59%,*,N,,785,248
+id,1,Boise S. D. #001,675,Frank Church High School,45.32%,,Y,44.00%,489,222
+id,1,Boise S. D. #001,303,Garfield Elementary School,48.30%,,Y,44.00%,368,178
+id,1,Boise S. D. #001,674,Grace Jordan Elementary,35.32%,*,N,,504,178
+id,1,Boise S. D. #001,308,Hawthorne Elementary School,39.88%,,Y,44.00%,340,136
+id,1,Boise S. D. #001,307,Hillcrest Elementary School,41.13%,,Y,44.00%,352,145
+id,1,Boise S. D. #001,510,Horizon Elementary School,33.90%,*,N,,587,199
+id,1,Boise S. D. #001,317,Jefferson Elementary School,54.15%,,Y,44.00%,276,149
+id,1,Boise S. D. #001,325,Koelsch Elementary School,47.24%,,Y,44.00%,383,181
+id,1,Boise S. D. #001,319,Lowell Elementary School,21.85%,*,N,,325,71
+id,1,Boise S. D. #001,9003,Marion Pritchett Memorial School,65.22%,,Y,44.00%,14,9
+id,1,Boise S. D. #001,324,Monroe Elementary School,26.71%,*,N,,322,86
+id,1,Boise S. D. #001,673,Morley Nelson Elementary,40.18%,,Y,44.00%,561,225
+id,1,Boise S. D. #001,322,Mountain View Elementary School,29.29%,*,N,,338,99
+id,1,Boise S. D. #001,313,Owyhee Elementary School,26.19%,*,N,,210,55
+id,1,Boise S. D. #001,310,Pierce Park Elementary School,21.38%,*,N,,318,68
+id,1,Boise S. D. #001,5,South Junior High School,32.82%,*,N,,652,214
+id,1,Boise S. D. #001,320,Valley View Elementary School,25.81%,*,N,,403,104
+id,1,Boise S. D. #001,306,Whitney Elementary School,41.68%,,Y,44.00%,622,259
+id,1,Boise S. D. #001,327,Whittier Elementary School,35.32%,,Y,44.00%,516,182
+id,1,Boise S. D. #001,321,William Howard Taft Elementary School,55.90%,,Y,44.00%,328,183
+id,93,Bonneville Jt. S.D. #93,105,Falls Valley Elementary School,33.60%,*,N,,497,167
+id,93,Bonneville Jt. S.D. #93,491-1,Lincoln High School (Alt),41.44%,*,N,,111,46
+id,93,Bonneville Jt. S.D. #93,107,Tiebreaker Elementary School,32.78%,*,N,,479,157
+id,101,Boundary County S.D.,102-0,Naples Elementary School,31.40%,,Y,51.94%,122,38
+id,101,Boundary County S.D.,103,Valley View Elementary School,31.09%,*,N,,431,134
+id,365,Bruneau-Grand View Jt SD #365,102-1,Grand View Elementary School,33.78%,*,N,,74,25
+id,412,Buhl S.D. #412,179,Buhl Middle School,26.85%,*,N,,324,87
+id,412,Buhl S.D. #412,101-1,Popplewell Elementary School,32.55%,*,N,,593,193
+id,412,Buhl S.D. #412,1403,Wakapa Academy,37.14%,*,N,,35,13
+id,132,Caldwell S.D.   #132,301,Caldwell Senior High School,27.31%,,Y,44.65%,1399,382
+id,132,Caldwell S.D.   #132,491-2,Canyon Springs High School,49.00%,,Y,44.65%,345,169
+id,132,Caldwell S.D.   #132,987,Indian Creek Academy,55.56%,*,N,,45,25
+id,132,Caldwell S.D.   #132,202,Jefferson Middle School,36.86%,,Y,44.65%,699,258
+id,132,Caldwell S.D.   #132,106-0,Lewis & Clark Elementary,42.07%,,Y,44.65%,521,219
+id,132,Caldwell S.D.   #132,104-0,Lincoln Elementary School,55.05%,,Y,44.65%,426,235
+id,132,Caldwell S.D.   #132,103-0,Sacajawea Elementary School,50.11%,,Y,44.65%,523,262
+id,132,Caldwell S.D.   #132,601,Syringa Middle School,39.79%,,Y,44.65%,711,283
+id,132,Caldwell S.D.   #132,101-2,Van Buren Elementary School,41.77%,,Y,44.65%,642,268
+id,132,Caldwell S.D.   #132,102-2,Washington Elementary School,44.49%,,Y,44.65%,554,246
+id,132,Caldwell S.D.   #132,105-0,Wilson Elementary School,40.67%,,Y,44.65%,607,247
+id,555,Canyon-Owyhee School Service Agency,3,COSSA Daycare,100.00%,*,N,,,
+id,555,Canyon-Owyhee School Service Agency,1,COSSA High School,39.83%,,Y,32.00%,132,53
+id,151,Cassia County Jt. S.D.   #151,990,Cassia Jr-Sr High School Alternative,32.19%,*,N,,146,47
+id,823,Chief Tahgee Elementary Academy,101-3,Chief Tahgee Elementary,62.64%,,Y,60.00%,85,53
+id,271,Coeur D'Alene S.D.   #271,101-4,Borah Elementary School,48.39%,*,N,,372,180
+id,271,Coeur D'Alene S.D.   #271,104-1,Fernan Elementary School,35.41%,*,N,,466,165
+id,271,Coeur D'Alene S.D.   #271,602,Lakes Middle School,30.79%,*,N,,682,210
+id,271,Coeur D'Alene S.D.   #271,491-3,Venture High School,32.12%,*,N,,137,44
+id,271,Coeur D'Alene S.D.   #271,108,Winton Elementary School,37.33%,*,N,,501,187
+id,1503,Coeur D'Alene Tribal School,P01,Coeur D'Alene Tribal School,55.34%,,Y,59.75%,98,54
+id,13,Council S.D.  #013,501,Council Jr - Sr High School,31.09%,*,N,,119,37
+id,221,Emmett S.D.   #221,491-4,Black Canyon Alternative School,45.71%,*,N,,70,32
+id,221,Emmett S.D.   #221,105-1,Kenneth Carberry Intermediate,31.33%,*,N,,565,177
+id,221,Emmett S.D.   #221,603,Ola School,50.00%,*,N,,16,8
+id,826,"Future Public Charter School, Inc.",1410,Future Public School,36.56%,*,N,,227,83
+id,71,Garden Valley S.D.   #071,102-3,Lowman School,71.43%,*,N,,7,5
+id,231,Gooding Jt. S.D   #231,101-5,Gooding Elementary School,22.36%,,Y,38.92%,513,115
+id,415,Hansen S.D.   #415,101-6,Hansen Elementary School,31.89%,*,N,,185,59
+id,821,Heritage Academy Inc.,1-0,Heritage Academy,36.93%,,Y,36.43%,166,61
+id,370,Homedale Jt. S.D.   #370,101-7,Homedale Elementary School,33.40%,*,N,,467,156
+id,73,Horseshoe Bend S.D.   #073,101-8,Horseshoe Bend Elementary,38.60%,*,N,,114,44
+id,91,Idaho Falls S.D.   #091,113,A H Bush Elementary School,47.73%,*,N,,419,200
+id,91,Idaho Falls S.D.   #091,115,Dora Erickson Elementary School,49.37%,*,N,,399,197
+id,91,Idaho Falls S.D.   #091,491-5,Emerson High School,36.87%,*,N,,179,66
+id,91,Idaho Falls S.D.   #091,101-9,Ethel Boyes Elementary School,32.69%,*,N,,520,170
+id,91,Idaho Falls S.D.   #091,119,Foxhollow Elementary School,33.48%,*,N,,454,152
+id,91,Idaho Falls S.D.   #091,106-1,Hawthorne Elementary School,45.34%,*,N,,397,180
+id,91,Idaho Falls S.D.   #091,107-0,Linden Park Elementary School,45.87%,*,N,,412,189
+id,91,Idaho Falls S.D.   #091,112-0,Temple View Elementary School,33.10%,*,N,,423,140
+id,91,Idaho Falls S.D.   #091,102-4,Theresa Bunker Elementary,39.16%,*,N,,286,112
+id,961,Idaho School for the Deaf and Blind  #961,SS1,Idaho School for the Deaf & Blind,30.21%,*,N,,96,29
+id,251,Jefferson Jt. S.D.   #251,491-6,Jefferson Alternative High,35.00%,*,N,,60,21
+id,304,Kamiah Jt. S.D.   #304,101-10,Kamiah Elementary School,39.82%,,Y,40.56%,445,177
+id,304,Kamiah Jt. S.D.   #304,401,Kamiah High School,22.97%,*,N,,148,34
+id,304,Kamiah Jt. S.D.   #304,601-0,Kamiah Middle School,35.12%,*,N,,168,59
+id,391,Kellogg S.D.   #391,103-1,Pinehurst Elementary School,43.84%,*,N,,463,203
+id,84,Lake Pend Oreille S.D.   #084,101-11,Farmin Stidwell Elementary School,32.21%,*,N,,593,191
+id,272,Lakeland S.D.   #272,491-7,Mountainview Alternative High,31.63%,*,N,,98,31
+id,272,Lakeland S.D.   #272,102-5,Spirit Lake Elementary School,30.90%,*,N,,343,106
+id,341,Lapwai S.D.   #341,101-12,Lapwai Elementary School,43.25%,*,N,,252,109
+id,341,Lapwai S.D.   #341,501-0,Lapwai Jr - Sr High School,32.44%,*,N,,262,85
+id,340,Lewiston S.D.   #340,104-2,McGhee Elementary School,31.60%,*,N,,326,103
+id,340,Lewiston S.D.   #340,106-2,Whitman Elementary School,32.71%,*,N,,431,141
+id,433,Midvale S.D.   #433,491-8,Midvale Alternative School,36.36%,,Y,60.00%,16,6
+id,331,Minidoka County S.D.   #331,492,Mount Harrison Senior High School,36.06%,*,N,,208,75
+id,281,Moscow S.D.   #281,491-9,Paradise Creek Regional High School,40.00%,*,N,,20,8
+id,281,Moscow S.D.   #281,102-6,West Park Elementary School,30.43%,*,N,,207,63
+id,193,Mountain Home S.D.   #193,492-0,Bennett Mountain High School,44.44%,*,N,,108,48
+id,193,Mountain Home S.D.   #193,103-2,East Elementary School,38.61%,*,N,,417,161
+id,193,Mountain Home S.D.   #193,105-2,West Elementary School,30.35%,*,N,,481,146
+id,244,Mountain View S.D. #244,601-1,Clearwater Valley Elementary,36.36%,*,N,,187,68
+id,392,Mullan S.D.   #392,101-13,Mullan Schools,39.60%,,Y,48.48%,101,40
+id,131,Nampa S.D.   #131,114,Centennial Elementary School,45.56%,*,N,,496,226
+id,131,Nampa S.D.   #131,113-0,Central Elementary,54.04%,,Y,60.00%,376,203
+id,131,Nampa S.D.   #131,122,Endeavor Elementary,43.86%,*,N,,513,225
+id,131,Nampa S.D.   #131,101-14,Greenhurst Elementary School,32.11%,*,N,,299,96
+id,131,Nampa S.D.   #131,115-0,Iowa Elementary,41.58%,*,N,,505,210
+id,131,Nampa S.D.   #131,106-3,Nampa Early Childhood Learning Center,36.36%,*,N,,176,64
+id,131,Nampa S.D.   #131,116,Sherman Elementary,56.16%,,Y,58.12%,479,269
+id,131,Nampa S.D.   #131,118,Snake River Elementary,49.50%,*,N,,402,199
+id,131,Nampa S.D.   #131,1394,Treasure Valley Leadership Academy,31.91%,*,N,,47,15
+id,131,Nampa S.D.   #131,495,Union High School,41.06%,*,N,,151,62
+id,131,Nampa S.D.   #131,201,West Middle School,37.84%,*,N,,740,280
+id,131,Nampa S.D.   #131,123,Willow Creek Elementary School,35.33%,*,N,,569,201
+id,171,Orofino Jt. S.D.   #171,105-3,Peck Elementary School,41.67%,*,N,,24,10
+id,137,Parma S.D.   #137,101-15,Maxine Johnson Elementary,35.22%,*,N,,389,137
+id,371,Payette S.D.   #371,603-0,McCain Middle School,40.21%,,Y,40.84%,372,150
+id,371,Payette S.D.   #371,401-0,Payette High School,26.65%,,Y,40.84%,438,117
+id,371,Payette S.D.   #371,103-3,Payette Primary School,44.47%,,Y,40.84%,498,221
+id,371,Payette S.D.   #371,102-7,Westside Elementary School,37.97%,,Y,40.84%,241,92
+id,44,Plummer-Worley Jt. S.D.   #044,102-8,Lakeside Elementary School,44.12%,,Y,53.23%,202,89
+id,44,Plummer-Worley Jt. S.D.   #044,401-1,Lakeside Middle-High School,26.51%,,Y,43.23%,171,45
+id,25,Pocatello S.D.  #025,104-3,Claude A. Wilcox Elementary School,39.35%,*,N,,554,218
+id,25,Pocatello S.D.  #025,103-4,Greenacres Elementary School,37.80%,*,N,,291,110
+id,25,Pocatello S.D.  #025,203,Irving Middle School,30.09%,*,N,,638,192
+id,25,Pocatello S.D.  #025,105-4,Jefferson Elementary School,51.72%,*,N,,406,210
+id,25,Pocatello S.D.  #025,106-4,Lewis & Clark Elementary School,47.25%,*,N,,527,249
+id,25,Pocatello S.D.  #025,108C,Lincoln Headstart,38.41%,*,N,,164,63
+id,25,Pocatello S.D.  #025,116-0,New Horizon Center,45.20%,*,N,,177,80
+id,25,Pocatello S.D.  #025,118-0,Rulon M Ellis Elementary School,30.97%,*,N,,423,131
+id,25,Pocatello S.D.  #025,110,Tendoy Elementary School,42.75%,*,N,,255,109
+id,25,Pocatello S.D.  #025,112-1,Washington Elementary School,42.20%,*,N,,218,92
+id,273,Post Falls S.D.   #273,491-10,New Visions Alternative,31.18%,*,N,,186,58
+id,273,Post Falls S.D.   #273,103-5,Ponderosa Elementary School,31.16%,*,N,,430,134
+id,291,Salmon S.D.   #291,103-6,Salmon Pioneer Primary School,32.65%,*,N,,343,112
+id,1511,Sho-Ban Tribal School,P01-0,Sho-Ban Tribal School,37.93%,*,N,,87,33
+id,312,Shoshone S.D.   #312,491-11,High Desert High School,45.00%,,Y,39.28%,22,10
+id,312,Shoshone S.D.   #312,101-16,Shoshone Elementary School,26.22%,,Y,43.46%,243,64
+id,41,St. Maries Jt. S.D.   #041,601-2,Upriver Elem-Jr. High School,41.33%,*,N,,75,31
+id,411,Twin Falls S.D.   #411,109,Bickel Elementary School,51.95%,,Y,40.43%,259,135
+id,411,Twin Falls S.D.   #411,101-17,Harrison Elementary School,41.21%,,Y,46.79%,478,197
+id,411,Twin Falls S.D.   #411,104-4,I B Perrine Elementary School,44.13%,,Y,43.34%,567,250
+id,411,Twin Falls S.D.   #411,102-9,Lincoln Elementary School,38.46%,,Y,41.28%,486,187
+id,411,Twin Falls S.D.   #411,491-12,Magic Valley Alternative High,36.26%,,Y,40.67%,177,64
+id,411,Twin Falls S.D.   #411,103-7,Morningside Elementary School,35.89%,,Y,44.77%,534,192
+id,411,Twin Falls S.D.   #411,106-5,Oregon Trail Elementary School,32.79%,,Y,40.43%,615,202
+id,411,Twin Falls S.D.   #411,203-0,South Hills Middle School,32.51%,,Y,40.91%,596,194
+id,411,Twin Falls S.D.   #411,492-1,Twin Falls Bridge Academy,38.46%,,Y,54.71%,93,36
+id,139,Vallivue S.D.   #139,492-2,Rivervue Middle School,45.45%,,Y,56.47%,68,31
+id,139,Vallivue S.D.   #139,1397,Skyway Elementary School,31.67%,*,N,,761,241
+id,139,Vallivue S.D.   #139,491-13,Vallivue Academy,31.97%,,Y,48.00%,124,40
+id,393,Wallace S.D.   #393,601-3,Silver Hills Elementary School,46.04%,*,N,,278,128
+id,431,Weiser S.D.   #431,104-5,Pioneer Primary School,31.42%,*,N,,452,142
+id,2,West Ada S.D.   #002,1145,Crossroads Middle School,34.48%,*,N,,145,50
+id,2,West Ada S.D.   #002,592,Desert Sage Elementary School,32.02%,,Y,32.21%,620,199
+id,2,West Ada S.D.   #002,328,Frontier Elementary School,31.79%,,Y,32.20%,319,101
+id,2,West Ada S.D.   #002,337,Gateway School of Language & Culture,32.21%,*,N,,267,86
+id,2,West Ada S.D.   #002,336,Meridian Elementary School,38.52%,,Y,40.57%,478,184
+id,2,West Ada S.D.   #002,335,Ustick Elementary School,35.76%,*,N,,467,167
+id,83,West Bonner County S.D. #083,116-1,Idaho Hill Elementary School,33.64%,*,N,,110,37
+id,83,West Bonner County S.D. #083,108-0,Priest River Elementary School,31.54%,*,N,,390,123
+id,133,Wilder S.D.   #133,101-18,Wilder Elementary School,47.02%,,Y,51.25%,459,216
+id,133,Wilder S.D.   #133,601-4,Wilder Middle/High School,31.58%,*,N,,228,72
+id,133,Wilder S.D.   #133,P01-1,Wilder Preschool,35.29%,*,N,,17,6

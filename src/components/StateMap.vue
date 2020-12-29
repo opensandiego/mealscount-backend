@@ -43,12 +43,14 @@ components: {
   data() {
       return{
           isModalVisible: false,
-          statedata: {
-              ca: {}
-          },
           selected_state: null,
           states: us.STATES,
       }
+  },
+  computed: {
+    statedata() {
+        return this.$store.getters.get_states;
+    }
   },
   mounted(){
        this.createMap();
@@ -74,16 +76,7 @@ components: {
                 .data(topojson.feature(usa_topojson, usa_topojson.objects.states).features)
                 .enter().append("path")
                   .attr("d", path)
-                  .attr("fill", d => {
-                       const state = us.lookup(d.id)     
-                       if (this.statedata[state.abbr.toLowerCase()]){
-                           return "#4AAB4F"
-                       }else{
-                           return "gray"
-                       }
-                  }
-
-                  )
+                  .attr("fill", "#4AAB4F")
                   .attr("name", d=> d.name)
                   .on("click", d => {
                             d3.select("#tooltip").style("opacity",0);
@@ -133,26 +126,6 @@ components: {
                             if(d.tagged == null){ return "lightgray" };
                             const p = d.tagged / d.projects.length;
                             return color3(p);
-                        })
-                        .on("mouseover", d => {
-                            const div = d3.select("#tooltip")
-                            div.transition().duration(200).style('opacity',.9);
-
-                            div	.html(
-                                `${d.name}` 
-                                + `<br> ${d.projects.length } Projects ` 
-                                + ((d.tagged==null)?"":`<br> ${d.tagged} have topics`)
-                                ).style("left", (d3.event.pageX + brigade_r) + "px")		
-                                .style("top", (d3.event.pageY - brigade_r) + "px");	
-                        })			
-                        .on("mouseout", d => {
-                            const div = d3.select("#tooltip")
-                            div.transition().duration(500).style('opacity',0);
-                        })
-                        .on("click", d => {
-                            d3.select("#tooltip").style("opacity",0);
-                            this.$router.push(`/brigade/${d.slug}`)
-                            // TODO load Brigade Detail  
                         }),
                     update => update.attr("name",d => d.name)
                         .attr("r", d => d.projects.length == 0?2:brigade_r)

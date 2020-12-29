@@ -16,6 +16,7 @@ export default new Vuex.Store({
     },
     mutations: {
         set_district_list(state, district_list) {
+            console.log("Setting district list", district_list,state.states)
             const state_info = state.states[district_list.state];
             state_info.districts = district_list.list
             Vue.set(state.states, district_list.state, state_info);
@@ -49,6 +50,9 @@ export default new Vuex.Store({
         get_states: state => {
             return state.states;
         },
+        get_state: (state) => (code) => {
+            return state.states[code];
+        },
         selected_district: state => {
             return state.selected_district;
         },
@@ -57,7 +61,10 @@ export default new Vuex.Store({
         },
     },
     actions: {
-        load_states({ commit, dispatch }) {
+        load_states({ state, commit, dispatch }) {
+            if(Object.keys(state.states).length != 0){
+                return
+            }
             const url = `/api/states/`;
             axios.get(url).then(resp => {
                 for (var k in resp.data) {
