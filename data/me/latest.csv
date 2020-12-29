@@ -54,15 +54,15 @@ me,217,Harmony Public Schools,218,Harmony Elementary,38.33%,,Y,,60,23
 me,1011,Indian Township,1012,Indian Township School,51.80%,,Y,,139,72
 me,237,Jonesboro Public Schools,238,Jonesboro Elementary School,35.00%,*,N,,60,21
 me,239,Jonesport Public Schools,240,Jonesport Elementary School,34.23%,*,N,,111,38
-me,,Kingman Elementary School-EUT,,Kingman Elementary School,,,Y,,,
+me,kingman-elementary-school-eut,Kingman Elementary School-EUT,,Kingman Elementary School,,,Y,,,
 me,250,Lewiston Public Schools,251,Farwell Elementary School,45.27%,,Y,,444,201
 me,250,Lewiston Public Schools,255,Lewiston High School,44.10%,,Y,,1474,650
 me,250,Lewiston Public Schools,257,Lewiston Middle School,52.91%,,Y,,807,427
 me,250,Lewiston Public Schools,254,Montello School,65.41%,,Y,,717,469
 me,250,Lewiston Public Schools,260,Raymond A. Geiger Elementary School,45.36%,,Y,,679,308
-me,250,Lewiston Public Schools,,Robert V  Connors Elementary School,,,Y,,,
+me,250,Lewiston Public Schools,-0,Robert V  Connors Elementary School,,,Y,,,
 me,250,Lewiston Public Schools,256,Thomas J McMahon Elementary Sch,51.54%,,Y,,716,369
-me,,Limestone Public Schools,,Limestone Community School,,,Y,,,
+me,limestone-public-schools,Limestone Public Schools,-1,Limestone Community School,,,Y,,,
 me,277,Machias Public Schools,279,Machias Memorial High School,31.40%,*,N,,121,38
 me,277,Machias Public Schools,278,Rose M Gaffney School,39.70%,*,N,,335,133
 me,1412,Machiasport Public Schools,1000,Fort O'Brien School,50.00%,*,N,,46,23
@@ -76,7 +76,7 @@ me,298,Millinocket Public Schools,301,Stearns Jr-Sr High School,33.09%,*,N,,269,
 me,798,MSAD 46,799,Dexter Regional High School,36.66%,*,N,,311,114
 me,798,MSAD 46,805,Ridge View Community School,46.04%,*,N,,619,285
 me,994,MSAD 76,995,Swans Island Elementary School,14.30%,*,N,,,
-me,,Opportunity Training Center,,Opportunity Training Center,,,Y,,,
+me,opportunity-training-center,Opportunity Training Center,-2,Opportunity Training Center,,,Y,,,
 me,349,Pembroke Public Schools,350,Pembroke Elementary School,38.67%,*,N,,75,29
 me,353,Perry Public Schools,354,Perry Elementary School,31.37%,*,N,,102,32
 me,1013,Pleasant Point,1014,Beatrice Rafferty School,54.61%,,Y,,141,77
@@ -160,7 +160,7 @@ me,646,RSU 17/MSAD 17,655,Oxford Hills Middle School,29.70%,*,N,,,
 me,646,RSU 17/MSAD 17,660,Paris Elementary School,38.97%,,Y,,426,166
 me,646,RSU 17/MSAD 17,657,Waterford Memorial School,39.39%,,Y,,99,39
 me,1458,RSU 19,822,Nokomis Regional High School,28.65%,*,N,,,
-me,,RSU 19,,Somerset Elementary School,,,Y,,,
+me,rsu-19,RSU 19,-3,Somerset Elementary School,,,Y,,,
 me,1459,RSU 20,885,Searsport District High School,29.53%,*,N,,,
 me,1459,RSU 20,884,Searsport District Middle School,41.18%,*,N,,234,96
 me,1459,RSU 20,886,Searsport Elementary,41.45%,*,N,,569,236

@@ -84,8 +84,8 @@ il,15-016-001P-00,Archdiocese of Chicago,10827,Annunciata School,16.09%,*,N,,174
 il,15-016-001P-00,Archdiocese of Chicago,50949,Ascension,5.92%,*,N,,439,26
 il,15-016-001P-00,Archdiocese of Chicago,10733,Augustus Tolton Catholic Academy,0.00%,,Y,63.73%,192,0
 il,15-016-001P-00,Archdiocese of Chicago,10923,Bridgeport Catholic - S Campus,7.91%,*,N,,253,20
-il,15-016-001P-00,Catalyst Schools,68203,Catalyst Charter - Maria ES,0.00%,,Y,69.28%,1041,0
-il,15-016-001P-00,Catalyst Schools,59074,Catalyst Circle Rock Elem School,0.00%,,Y,69.28%,505,0
+il,15-016-001P-00,Archdiocese of Chicago,68203,Catalyst Charter - Maria ES,0.00%,,Y,69.28%,1041,0
+il,15-016-001P-00,Archdiocese of Chicago,59074,Catalyst Circle Rock Elem School,0.00%,,Y,69.28%,505,0
 il,15-016-001P-00,Archdiocese of Chicago,10946,Children of Peace School,24.70%,*,N,,166,41
 il,15-016-001P-00,Archdiocese of Chicago,15139,Christ Our Savior Catholic School,41.29%,*,N,,155,64
 il,15-016-001P-00,Archdiocese of Chicago,42372,Christ the King,1.07%,*,N,,374,4
@@ -1083,7 +1083,7 @@ il,15-016-2990-25,City of Chicago SD 299,12152,Morrill Elem Math & Sci School,0.
 il,15-016-2990-25,City of Chicago SD 299,12371,Morton Elem Career Academy,0.00%,,Y,62.82%,356,0
 il,15-016-2990-25,City of Chicago SD 299,12155,Mount Greenwood Elem School,0.00%,,Y,62.82%,1109,0
 il,15-016-2990-25,City of Chicago SD 299,12156,Mount Vernon Elem School,0.00%,,Y,62.82%,251,0
-il,15-016-2990-25,Chicago Education Partnership,73367,Moving Everest Charter School,0.00%,,Y,81.04%,269,0
+il,15-016-2990-25,City of Chicago SD 299,73367,Moving Everest Charter School,0.00%,,Y,81.04%,269,0
 il,15-016-2990-25,City of Chicago SD 299,12157,Mozart Elem School,0.00%,,Y,62.82%,703,0
 il,15-016-2990-25,City of Chicago SD 299,12158,Murphy Elem School,0.00%,,Y,62.82%,561,0
 il,15-016-2990-25,City of Chicago SD 299,12159,Murray Elem Language Academy,0.00%,,Y,62.82%,503,0
@@ -1491,7 +1491,7 @@ il,13-014-0620-02,Damiansville SD 62,10637,Damiansville Elem School,26.25%,*,N,,
 il,54-092-1180-24,Danville CCSD 118,14855,Danville High School,0.00%,,Y,67.71%,1221,0
 il,54-092-1180-24,Danville CCSD 118,14861,Edison Elem School,0.00%,,Y,67.71%,235,0
 il,54-092-1180-24,Danville CCSD 118,14862,Garfield Elem School,0.00%,,Y,67.71%,211,0
-il,54-092-1180-24,Danville CCSD 118,,Kenneth D Bailey Academy,,,Y,67.71%,79,
+il,54-092-1180-24,Danville CCSD 118,-0,Kenneth D Bailey Academy,,,Y,67.71%,79,
 il,54-092-1180-24,Danville CCSD 118,14863,Liberty Elem School,0.00%,,Y,67.71%,208,0
 il,54-092-1180-24,Danville CCSD 118,14866,Mark Denman Elementary School,0.00%,,Y,67.71%,676,0
 il,54-092-1180-24,Danville CCSD 118,14865,Meade Park Elem School,0.00%,,Y,67.71%,336,0
@@ -1510,14 +1510,14 @@ il,39-055-0610-25,Decatur SD 61,13883,Dennis Elem School,0.00%,,Y,70.51%,483,0
 il,39-055-0610-25,Decatur SD 61,13884,Durfee Magnet Elementary,0.00%,,Y,70.51%,321,0
 il,39-055-0610-25,Decatur SD 61,13876,Eisenhower High School,0.00%,,Y,70.51%,943,0
 il,39-055-0610-25,Decatur SD 61,13885,Enterprise Elem School,0.00%,,Y,70.51%,259,0
-il,39-055-0610-25,Decatur SD 61,,Futures Unlimited,,,Y,70.51%,96,
+il,39-055-0610-25,Decatur SD 61,-1,Futures Unlimited,,,Y,70.51%,96,
 il,39-055-0610-25,Decatur SD 61,13888,Garfield Montessori School,0.00%,,Y,70.51%,353,0
 il,39-055-0610-25,Decatur SD 61,54778,Hope Academy,0.00%,,Y,70.51%,489,0
 il,39-055-0610-25,Decatur SD 61,13898,Johns Hill Magnet School,0.00%,,Y,70.51%,463,0
 il,39-055-0610-25,Decatur SD 61,13877,MacArthur High School,0.00%,,Y,70.51%,1047,0
 il,39-055-0610-25,Decatur SD 61,13887,Mary W French Academy,0.00%,,Y,70.51%,291,0
 il,39-055-0610-25,Decatur SD 61,13897,Michael E Baum Elem School,0.00%,,Y,70.51%,311,0
-il,39-055-0610-25,Decatur SD 61,,Milligan Academy Rssp,,,Y,70.51%,57,
+il,39-055-0610-25,Decatur SD 61,-2,Milligan Academy Rssp,,,Y,70.51%,57,
 il,39-055-0610-25,Decatur SD 61,13890,Muffley Elem School,0.00%,,Y,70.51%,369,0
 il,39-055-0610-25,Decatur SD 61,13891,Oak Grove Accelerated School,0.00%,,Y,70.51%,279,0
 il,39-055-0610-25,Decatur SD 61,13892,Parsons Accelerated School,0.00%,,Y,70.51%,311,0
@@ -1665,7 +1665,7 @@ il,50-082-1890-22,East St Louis SD 189,61142,Wyvetter Younge Alternative Center 
 il,65-108-5045-51,Easter Seal Society Metro Chgo,15085,Easter Seal Society Metro Chgo,0.00%,,Y,70.61%,118,0
 il,65-108-5045-51,Easter Seal Society Metro Chgo,44610,Easter Seals Therapeutic-South,0.00%,,Y,70.61%,105,0
 il,65-108-5045-51,Easter Seal Society Metro Chgo,63091,Easterseals Acad - Machesney Park ,0.00%,,Y,70.61%,90,0
-il,11-015-8010-60,Eastern IL Area of Spec Educ,,Adult LIFE Academy,,,Y,71.07%,38,
+il,11-015-8010-60,Eastern IL Area of Spec Educ,-3,Adult LIFE Academy,,,Y,71.07%,38,
 il,11-015-8010-60,Eastern IL Area of Spec Educ,10128,Fresh Start Treatment & Learning,55.74%,,Y,71.07%,69,38
 il,11-015-8010-60,Eastern IL Area of Spec Educ,10491,LIFE Academy,51.95%,,Y,71.07%,28,15
 il,11-015-8010-60,Eastern IL Area of Spec Educ,10493,Treatment & Learning Center,75.38%,,Y,71.07%,75,57
@@ -1850,13 +1850,13 @@ il,08-089-1450-22,Freeport SD 145,10325,Blackhawk Elem School,0.00%,,Y,64.90%,26
 il,08-089-1450-22,Freeport SD 145,10330,Carl Sandburg Middle Sch,0.00%,,Y,64.90%,578,0
 il,08-089-1450-22,Freeport SD 145,10326,Center Elem School,0.00%,,Y,64.90%,335,0
 il,08-089-1450-22,Freeport SD 145,10328,Empire Elem School,0.00%,,Y,64.90%,273,0
-il,08-089-1450-22,Freeport SD 145,,Freeport Alternative High Sch,,,Y,63.46%,52,
+il,08-089-1450-22,Freeport SD 145,-4,Freeport Alternative High Sch,,,Y,63.46%,52,
 il,08-089-1450-22,Freeport SD 145,10323,Freeport High School,0.00%,,Y,64.90%,1169,0
 il,08-089-1450-22,Freeport SD 145,10324,Freeport Middle School,0.00%,,Y,64.90%,551,0
 il,08-089-1450-22,Freeport SD 145,10331,Jones Farrar International Baccalaureate World School,0.00%,,Y,64.90%,277,0
 il,08-089-1450-22,Freeport SD 145,10327,Lincoln-Douglas Elementary School,0.00%,,Y,64.90%,278,0
-il,08-089-1450-22,Freeport SD 145,,RAP Elizabeth,,,Y,67.57%,19,
-il,08-089-1450-22,Freeport SD 145,,RAP Freeport,,,Y,67.57%,18,
+il,08-089-1450-22,Freeport SD 145,-5,RAP Elizabeth,,,Y,67.57%,19,
+il,08-089-1450-22,Freeport SD 145,-6,RAP Freeport,,,Y,67.57%,18,
 il,08-089-1450-22,Freeport SD 145,10329,Taylor Park Elem School,0.00%,,Y,64.90%,243,0
 il,04-101-2050-AB,Galapagos Rockford Charter Sch,62854,Galapagos Rockford Charter Sch,0.00%,,Y,68.42%,304,0
 il,20-083-0010-26,Galatia CUSD 1,12870,Galatia Elem School,51.16%,,Y,51.95%,219,112
@@ -2328,16 +2328,16 @@ il,12-051-0200-26,Lawrence County CUD 20,10601,Lawrenceville High School,36.88%,
 il,12-051-0200-26,Lawrence County CUD 20,48554,Parkside Elementary School,46.95%,*,N,,573,269
 il,12-051-0200-26,Lawrence County CUD 20,10602,Parkview Jr High School,41.18%,*,N,,255,105
 il,15-016-899S-19,Lawrence Hall Youth Services,11796,Lawrence Hall Youth Services,0.00%,*,N,,86,0
-il,,LEARN Charter Schools,,LEARN 10 Charter School,,,Y,67.92%,152,
-il,,LEARN Charter Schools,,LEARN Charter 9 Campus in Waukegan,,,Y,67.92%,385,
-il,,LEARN Charter Schools,,LEARN Charter Excel Campus,,,Y,67.92%,412,
-il,,LEARN Charter Schools,,LEARN Charter Sch 6 North Chicago Campus,,,Y,67.92%,451,
-il,,LEARN Charter Schools,,LEARN Chtr - 7th Campus,,,Y,67.92%,296,
-il,,LEARN Charter Schools,,LEARN Chtr - Butler,,,Y,67.92%,581,
-il,,LEARN Charter Schools,,LEARN Chtr - Hunter Perkins Campus,,,Y,67.92%,497,
-il,,LEARN Charter Schools,,LEARN Chtr - Middle School,,,Y,67.92%,282,
-il,,LEARN Charter Schools,,LEARN Chtr - South Chicago Campus,,,Y,67.92%,425,
-il,,LEARN Charter Schools,,LEARN Chtr-Campbell Campus,,,Y,67.92%,384,
+il,learn-charter-schools,LEARN Charter Schools,-7,LEARN 10 Charter School,,,Y,67.92%,152,
+il,learn-charter-schools,LEARN Charter Schools,-8,LEARN Charter 9 Campus in Waukegan,,,Y,67.92%,385,
+il,learn-charter-schools,LEARN Charter Schools,-9,LEARN Charter Excel Campus,,,Y,67.92%,412,
+il,learn-charter-schools,LEARN Charter Schools,-10,LEARN Charter Sch 6 North Chicago Campus,,,Y,67.92%,451,
+il,learn-charter-schools,LEARN Charter Schools,-11,LEARN Chtr - 7th Campus,,,Y,67.92%,296,
+il,learn-charter-schools,LEARN Charter Schools,-12,LEARN Chtr - Butler,,,Y,67.92%,581,
+il,learn-charter-schools,LEARN Charter Schools,-13,LEARN Chtr - Hunter Perkins Campus,,,Y,67.92%,497,
+il,learn-charter-schools,LEARN Charter Schools,-14,LEARN Chtr - Middle School,,,Y,67.92%,282,
+il,learn-charter-schools,LEARN Charter Schools,-15,LEARN Chtr - South Chicago Campus,,,Y,67.92%,425,
+il,learn-charter-schools,LEARN Charter Schools,-16,LEARN Chtr-Campbell Campus,,,Y,67.92%,384,
 il,50-082-0090-26,Lebanon CUSD 9,14552,Lebanon Elem School,43.81%,*,N,,299,131
 il,50-082-0090-26,Lebanon CUSD 9,14550,Lebanon High School,22.18%,*,N,,266,59
 il,47-000-0000-00,Lee/Ogle/Whiteside ROE,59295,Nachusa Campus School,0.00%,,Y,45.83%,40,0
@@ -2989,7 +2989,7 @@ il,48-072-1500-25,Peoria SD 150,14417,Roosevelt Magnet School,68.91%,,Y,69.50%,5
 il,48-072-1500-25,Peoria SD 150,14402,Sterling Middle School,58.50%,,Y,69.50%,397,232
 il,48-072-1500-25,Peoria SD 150,14424,Thomas Jefferson Primary School,56.41%,,Y,69.50%,436,246
 il,48-072-1500-25,Peoria SD 150,14410,Trewyn K-8 School,92.29%,*,N,,350,323
-il,48-072-1500-25,Peoria SD 150,,Trewyn Primary School,,,Y,69.50%,391,
+il,48-072-1500-25,Peoria SD 150,-17,Trewyn Primary School,,,Y,69.50%,391,
 il,48-072-1500-25,Peoria SD 150,14430,Valeska Hinton Early Ch Ed Ctr,74.94%,,Y,69.50%,524,393
 il,48-072-1500-25,Peoria SD 150,14403,Von Steuben Middle School,54.27%,,Y,69.50%,273,148
 il,48-072-1500-25,Peoria SD 150,14413,Washington Gifted School,18.33%,,Y,69.50%,298,55
@@ -3522,8 +3522,8 @@ il,31-045-057P-00,Special Education Services,55500,Hillside Academy East,0.00%,,
 il,31-045-057P-00,Special Education Services,73422,Menta Acad Chicago South,0.00%,,Y,74.73%,93,0
 il,31-045-057P-00,Special Education Services,73423,Menta Acad Cornerstone Taylorville,0.00%,,Y,74.73%,75,0
 il,31-045-057P-00,Special Education Services,74502,Menta Academy Belleville,0.00%,,Y,74.73%,64,0
-il,31-045-057P-00,Special Education Services,,Menta Academy Hillside,,,Y,74.73%,96,
-il,31-045-057P-00,Special Education Services,,Menta Academy Midway,,,Y,74.73%,38,
+il,31-045-057P-00,Special Education Services,-18,Menta Academy Hillside,,,Y,74.73%,96,
+il,31-045-057P-00,Special Education Services,-19,Menta Academy Midway,,,Y,74.73%,38,
 il,31-045-057P-00,Special Education Services,53254,Menta Academy North,0.00%,,Y,74.73%,53,0
 il,31-045-057P-00,Special Education Services,73424,Menta Academy Oak Park,0.00%,,Y,74.73%,66,0
 il,31-045-057P-00,Special Education Services,66699,Midstate Cornerstone Academy,0.00%,,Y,74.73%,46,0
@@ -3743,7 +3743,7 @@ il,15-016-422P-00,The Thresholds,57712,Thresholds Young Adult Program,0.00%,*,N,
 il,09-010-1300-04,Thomasboro CCSD 130,10394,Thomasboro Grade School,45.75%,*,N,,153,70
 il,21-028-1740-26,Thompsonville CUSD 174,58725,Thompsonville Grade  School,0.00%,,Y,52.17%,247,0
 il,21-028-1740-26,Thompsonville CUSD 174,58724,Thompsonville High School,0.00%,,Y,52.17%,98,0
-il,07-016-2150-17,Thornton Fractional Twp HSD 215,,Center for Academics and Technology,,,Y,50.10%,77,
+il,07-016-2150-17,Thornton Fractional Twp HSD 215,-20,Center for Academics and Technology,,,Y,50.10%,77,
 il,07-016-2150-17,Thornton Fractional Twp HSD 215,11617,Thornton Fractnl No High School,0.00%,,Y,50.10%,1394,0
 il,07-016-2150-17,Thornton Fractional Twp HSD 215,11618,Thornton Fractnl So High School,0.00%,,Y,50.10%,1881,0
 il,07-016-1540-02,Thornton SD 154,11477,Wolcott School,38.66%,*,N,,238,92

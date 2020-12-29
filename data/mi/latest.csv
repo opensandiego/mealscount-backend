@@ -216,9 +216,9 @@ mi,9010,Bay City School District,5463,McAlear-Sawden Elem. School,36.81%,,Y,59.5
 mi,9010,Bay City School District,4361,Washington Elementary School,88.12%,,Y,59.58%,345,304
 mi,9010,Bay City School District,2467,Western Middle School,24.89%,,N,,888,221
 mi,9901,Bay-Arenac Community High School,5453,Bay-Arenac Community High School,80.65%,,Y,80.65%,186,150
-mi,9000,Bay-Arenac ISD,7276,Detention Center,60.00%,,N,,5,3
-mi,9000,Bay-Arenac ISD,8913,LLC--Arenac Campus,36.00%,,N,,25,9
-mi,9000,Bay-Arenac ISD,8912,LLC---Bay Campus,31.71%,,N,,82,26
+mi,9000,Bay City School District,7276,Detention Center,60.00%,,N,,5,3
+mi,9000,Bay City School District,8913,LLC--Arenac Campus,36.00%,,N,,25,9
+mi,9000,Bay City School District,8912,LLC---Bay Campus,31.71%,,N,,82,26
 mi,37040,Beal City Public Schools,5862,Beal City Elementary School,26.54%,,N,,324,86
 mi,37040,Beal City Public Schools,235,Beal City High School,19.13%,,N,,366,70
 mi,51020,Bear Lake Schools,6035,Bear Lake Elementary School,60.58%,,N,,137,83
@@ -1783,9 +1783,9 @@ mi,39010,Kalamazoo Public Schools,4558,Winchell Elementary School,28.08%,,Y,61.3
 mi,39010,Kalamazoo Public Schools,2819,Woods Lake Elementary:A Magnet Center For The Arts,71.82%,,Y,61.38%,628,451
 mi,39010,Kalamazoo Public Schools,4600,Woodward School for Technology and Research,81.13%,,Y,61.38%,212,172
 mi,39906,Kalamazoo Public Schools,9913,Youth Advancement Academy,76.19%,,Y,61.38%,21,16
-mi,39000,Kalamazoo RESA,7288,Kalamazoo RESA West Campus-Young Adult Program,31.89%,,N,,185,59
-mi,39000,Kalamazoo RESA,349,WoodsEdge Learning Center,40.77%,,N,,260,106
-mi,39000,Kalamazoo RESA,7290,Youth Center School,84.44%,,N,,90,76
+mi,39000,Kalamazoo Public Schools,7288,Kalamazoo RESA West Campus-Young Adult Program,31.89%,,N,,185,59
+mi,39000,Kalamazoo Public Schools,349,WoodsEdge Learning Center,40.77%,,N,,260,106
+mi,39000,Kalamazoo Public Schools,7290,Youth Center School,84.44%,,N,,90,76
 mi,51045,Kaleva Norman Dickson School District,392,Brethren High School,59.57%,,N,,141,84
 mi,51045,Kaleva Norman Dickson School District,8746,Brethren Middle School,54.74%,,N,,95,52
 mi,51045,Kaleva Norman Dickson School District,9989,KND Elementary,66.91%,,N,,272,182
@@ -1842,13 +1842,13 @@ mi,63907,Keys Grace Academy,8464,Great Lakes Academy,85.53%,,Y,75.29%,152,130
 mi,82942,Keys Grace Academy,8637,Hope Academy,85.77%,,Y,75.29%,513,440
 mi,63938,Keys Grace Academy,3508,Keys Grace Academy,93.24%,,N,,148,138
 mi,63938,Keys Grace Academy,2807,Keys Grace Academy,86.73%,,Y,75.29%,324,281
-mi,63938,Keys Grace Academy,,Loyola High School,,,Y,75.29%,132,
+mi,63938,Keys Grace Academy,-0,Loyola High School,,,Y,75.29%,132,
 mi,63938,Keys Grace Academy,2329,New Paradigm College Prep,86.42%,,Y,75.29%,81,70
 mi,63938,Keys Grace Academy,5675,New Paradigm Glazer Academy,88.78%,,Y,75.29%,205,182
 mi,63938,Keys Grace Academy,3725,New Paradigm Loving Academy,95.87%,,Y,75.29%,121,116
 mi,63938,Keys Grace Academy,2073,The James and Grace Lee Boggs School,49.64%,,Y,75.29%,137,68
 mi,63938,Keys Grace Academy,378,University Yes Academy,81.36%,,Y,75.29%,531,432
-mi,63938,Keys Grace Academy,,Westside Christian Academy,,,Y,75.29%,116,
+mi,63938,Keys Grace Academy,-1,Westside Christian Academy,,,Y,75.29%,116,
 mi,82976,Keystone Academy,9306,Keystone Academy,30.72%,,N,,752,231
 mi,63934,Kingsbury Country Day School,2065,Kingsbury Country Day School,12.67%,,N,,292,37
 mi,28090,Kingsley Area Schools,5896,Kingsley Area Elementary School,45.55%,,N,,584,266
@@ -2009,11 +2009,11 @@ mi,33100,Leslie Public Schools,4602,Woodworth Elementary School,41.18%,,N,,442,1
 mi,63920,Life Skills Center of Pontiac,9458,Life Skills Center of Pontiac,79.34%,,N,,121,96
 mi,23900,LifeTech Academy,2154,LifeTech Academy,52.43%,,N,,185,97
 mi,47900,Light of the World Academy,2707,Light of the World Academy,16.22%,,N,,222,36
-mi,41922,Lighthouse Academy,3050,Lighthouse Academy - Eagle Village,95.00%,,N,,60,57
-mi,41922,Lighthouse Academy,3545,Lighthouse Academy - Round Lake,73.33%,,N,,15,11
-mi,41922,Lighthouse Academy,1525,Lighthouse Academy - St. Johns,100.00%,,N,,17,17
-mi,41922,Lighthouse Academy,3055,Lighthouse Academy - The Pier,56.52%,,N,,23,13
-mi,41922,Lighthouse Academy,1536,Lighthouse Academy - Waalkes,66.04%,,N,,53,35
+mi,41922,Grand Rapids Public Schools,3050,Lighthouse Academy - Eagle Village,95.00%,,N,,60,57
+mi,41922,Grand Rapids Public Schools,3545,Lighthouse Academy - Round Lake,73.33%,,N,,15,11
+mi,41922,Grand Rapids Public Schools,1525,Lighthouse Academy - St. Johns,100.00%,,N,,17,17
+mi,41922,Grand Rapids Public Schools,3055,Lighthouse Academy - The Pier,56.52%,,N,,23,13
+mi,41922,Grand Rapids Public Schools,1536,Lighthouse Academy - Waalkes,66.04%,,N,,53,35
 mi,63939,Lighthouse Connections Academy,3366,Lighthouse Connections Academy,60.18%,,N,,452,272
 mi,81070,Lincoln Consolidated School District,308,Bishop Elementary School,45.30%,,N,,457,207
 mi,81070,Lincoln Consolidated School District,2186,Brick Elementary School,51.49%,,Y,51.49%,503,259
@@ -2152,7 +2152,7 @@ mi,13110,Marshall Public Schools,9245,Walters Elementary,30.39%,,N,,362,110
 mi,82910,"Martin Luther King, Jr. Education Center Academy",7425,"Martin Luther King, Jr. Education Center Academy",78.02%,,Y,78.02%,414,323
 mi,3060,Martin Public Schools,2402,Martin High School,36.33%,,N,,278,101
 mi,3060,Martin Public Schools,6034,Robert D. Brandon Elem. School,50.93%,,N,,322,164
-mi,82924,Marvin L. Winans Academy of Performing Arts,3104,Marvin L. Winans Academy Middle School,78.03%,,N,,173,135
+mi,82924,Detroit Public Schools Community District,3104,Marvin L. Winans Academy Middle School,78.03%,,N,,173,135
 mi,74100,Marysville Public Schools,2419,Gardens Elementary School,19.54%,,N,,481,94
 mi,74100,Marysville Public Schools,2416,Marysville High School,20.91%,,N,,861,180
 mi,74100,Marysville Public Schools,2414,Marysville Middle School,28.50%,,N,,642,183
@@ -2291,8 +2291,8 @@ mi,61180,Montague Area Public Schools,664,Montague Area Childhood Center,51.72%,
 mi,61180,Montague Area Public Schools,2596,Montague High School,33.63%,,N,,446,150
 mi,61180,Montague Area Public Schools,2673,Nellie B. Chisholm Middle School,36.80%,,N,,356,131
 mi,61180,Montague Area Public Schools,3139,Oehrli Elementary School,43.26%,,N,,527,228
-mi,59000,Montcalm Area ISD,1813,Early College at Montcalm Community College,38.89%,,N,,90,35
-mi,59000,Montcalm Area ISD,9238,ISD/Local Center Programs,43.18%,,N,,88,38
+mi,59000,Greenville Public Schools,1813,Early College at Montcalm Community College,38.89%,,N,,90,35
+mi,59000,Greenville Public Schools,9238,ISD/Local Center Programs,43.18%,,N,,88,38
 mi,25260,Montrose Community Schools,543,Carter Elementary School,53.64%,,N,,535,287
 mi,25260,Montrose Community Schools,1671,Hill-McCloy High School,33.42%,,N,,404,135
 mi,25260,Montrose Community Schools,6956,Kuehn-Haven Middle School,46.68%,,N,,407,190
@@ -2423,7 +2423,7 @@ mi,82390,Northville Public Schools,9171,Ridge Wood Elementary School,4.85%,,N,,4
 mi,82390,Northville Public Schools,6592,Silver Springs Elementary School,12.69%,,N,,394,50
 mi,82390,Northville Public Schools,7964,Thornton Creek Elementary School,2.94%,,N,,511,15
 mi,82390,Northville Public Schools,6593,Winchester Elementary School,2.75%,,N,,510,14
-mi,38901,Northwest Community Schools,8659,Da Vinci Institute (K-8),75.00%,,Y,44.66%,216,162
+mi,38901,Da Vinci Institute,8659,Da Vinci Institute (K-8),75.00%,,Y,44.66%,216,162
 mi,38140,Northwest Community Schools,8571,Northwest Alternative High School,61.36%,,Y,44.66%,88,54
 mi,38140,Northwest Community Schools,2966,Northwest Early Elementary School,50.11%,,Y,44.66%,896,449
 mi,38140,Northwest Community Schools,6116,Northwest Elementary School,46.74%,,Y,44.66%,798,373
@@ -3075,13 +3075,13 @@ mi,75080,Three Rivers Community Schools,3301,Ruth Hoppin School,44.93%,,N,,276,1
 mi,75080,Three Rivers Community Schools,4181,Three Rivers High School,37.07%,,N,,661,245
 mi,75080,Three Rivers Community Schools,6272,Three Rivers Middle School,48.43%,,N,,605,293
 mi,61902,Timberland Academy,8490,Timberland Academy,85.76%,,Y,85.76%,674,578
-mi,82933,Timbuktu Academy,8572,Timbuktu Academy,91.97%,,N,,411,378
+mi,82933,Barack Obama Leadership Academy,8572,Timbuktu Academy,91.97%,,N,,411,378
 mi,82754,Tipton Academy,2870,Tipton Academy - 4-8,54.51%,,N,,233,127
 mi,82754,Tipton Academy,1734,Tipton Academy - PK-3,54.75%,,N,,263,144
-mi,28000,Traverse Bay Area ISD,7492,Life Skills Center,30.30%,,N,,132,40
-mi,28000,Traverse Bay Area ISD,6145,TBA Career Tech Center,0.00%,,N,,3,0
-mi,28000,Traverse Bay Area ISD,9748,TBA ISD Oak Park Special Education,32.91%,,N,,79,26
-mi,28000,Traverse Bay Area ISD,9783,TBA ISD Traverse Heights,21.33%,,N,,75,16
+mi,28000,Kingsley Area Schools,7492,Life Skills Center,30.30%,,N,,132,40
+mi,28000,Kingsley Area Schools,6145,TBA Career Tech Center,0.00%,,N,,3,0
+mi,28000,Kingsley Area Schools,9748,TBA ISD Oak Park Special Education,32.91%,,N,,79,26
+mi,28000,Kingsley Area Schools,9783,TBA ISD Traverse Heights,21.33%,,N,,75,16
 mi,28010,Traverse City Area Public Schools,7461,Blair Elementary School,59.40%,,Y,65.53%,234,139
 mi,28010,Traverse City Area Public Schools,599,Central Grade School,36.82%,,N,,622,229
 mi,28010,Traverse City Area Public Schools,4200,Central High School,22.46%,,N,,1389,312

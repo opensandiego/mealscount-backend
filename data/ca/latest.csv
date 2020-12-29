@@ -3463,8 +3463,8 @@ ca,05829,Inyo County Office of Education,30232,Barrio Action-El Serreno,89.66%,*
 ca,05829,Inyo County Office of Education,35606,CCEO Lennox YouthBuild,,,N,,174,
 ca,05829,Inyo County Office of Education,26354,Coalition for Responsible Community Development Academy,87.50%,,Y,48.76%,52,46
 ca,05829,Inyo County Office of Education,26372,College Bridge Academy,100.00%,*,N,,150,150
-ca,05829,Inyo County Office of Education,26372,College Bridge Academy Compton,,,Y,48.76%,90,
-ca,05829,Inyo County Office of Education,30232,College Bridge Academy El Sereno,,,Y,48.76%,44,
+ca,05829,Inyo County Office of Education,26372-0,College Bridge Academy Compton,,,Y,48.76%,90,
+ca,05829,Inyo County Office of Education,30232-0,College Bridge Academy El Sereno,,,Y,48.76%,44,
 ca,05829,Inyo County Office of Education,30233,College Bridge Academy Inglewood,,,Y,48.76%,55,
 ca,05829,Inyo County Office of Education,26369,College Bridge Academy Watts,,,Y,48.76%,100,
 ca,05829,Inyo County Office of Education,26370,Entre Nous,85.00%,,Y,48.76%,32,27
@@ -3474,7 +3474,7 @@ ca,05829,Inyo County Office of Education,32776,Heartland Coalition YouthBuild,96
 ca,05829,Inyo County Office of Education,26350,Home Sweet HomeYouthBuild,100.00%,,Y,48.76%,18,18
 ca,05829,Inyo County Office of Education,34331,Jill Kinmont Boothe School,,,N,,254,
 ca,05829,Inyo County Office of Education,26344,LA CAUSA YouthBuild,92.19%,,Y,48.76%,76,70
-ca,05829,Inyo County Office of Education,26350,Mary B Henry Academy,,,Y,48.76%,43,
+ca,05829,Inyo County Office of Education,26350-0,Mary B Henry Academy,,,Y,48.76%,43,
 ca,05829,Inyo County Office of Education,26371,Pico Union Tech,93.33%,*,N,,81,76
 ca,05829,Inyo County Office of Education,26526,R.U.T.H. YouthBuild,89.36%,,Y,48.76%,39,35
 ca,05829,Inyo County Office of Education,26367,Rising Stars Business Academy,,,Y,41.18%,85,
@@ -3482,12 +3482,12 @@ ca,05829,Inyo County Office of Education,26374,Saito High School,94.26%,*,N,,83,
 ca,05829,Inyo County Office of Education,30229,San Bernardino Site @ Inland Empire YB,,,N,,36,
 ca,05829,Inyo County Office of Education,26609,San Gabriel Conservation Corps,86.96%,,Y,48.76%,27,23
 ca,05829,Inyo County Office of Education,26348,San Gabriel Valley Conservation CORPS YouthBuild,95.45%,,Y,48.76%,60,57
-ca,05829,Inyo County Office of Education,30233,Shelter 37,98.39%,*,N,,81,80
-ca,05829,Inyo County Office of Education,26371,The Education Corps Pico Union Tech,,,Y,48.76%,64,
-ca,05829,Inyo County Office of Education,26374,The Education Corps Saito High School,,,Y,48.76%,75,
+ca,05829,Inyo County Office of Education,30233-0,Shelter 37,98.39%,*,N,,81,80
+ca,05829,Inyo County Office of Education,26371-0,The Education Corps Pico Union Tech,,,Y,48.76%,64,
+ca,05829,Inyo County Office of Education,26374-0,The Education Corps Saito High School,,,Y,48.76%,75,
 ca,05829,Inyo County Office of Education,35611,Whittier YouthBuild,,,N,,358,
 ca,05829,Inyo County Office of Education,26363,Youth Justice Coalition,91.55%,,Y,48.76%,68,62
-ca,05829,Inyo County Office of Education,26369,Youth Opportunities High School,96.04%,*,N,,605,581
+ca,05829,Inyo County Office of Education,26369-0,Youth Opportunities High School,96.04%,*,N,,605,581
 ca,05829,Inyo County Office of Education,33845,YouthBuild-Hollywood,89.66%,*,N,,93,83
 ca,02115,IRVINE UNIFIED SCHOOL DISTRICT,30736506100838,Alderwood Elementary                                            ,8.15%,*,N,,810,66
 ca,02115,IRVINE UNIFIED SCHOOL DISTRICT,30736500133389,Beacon Park,7.68%,*,N,,950,73
@@ -6926,15 +6926,15 @@ ca,03050,Porterville Unified School District,54755236114193,Monte Vista Elementa
 ca,03050,Porterville Unified School District,5664,Olive Preschool,,,Y,62.50%,99,
 ca,03050,Porterville Unified School District,54755236054258,Olive Street Elementary                                         ,71.87%,,Y,62.50%,703,505
 ca,03050,Porterville Unified School District,54755236054266,Pioneer Middle                                                  ,61.34%,,Y,62.50%,819,502
-ca,03050,Porterville Unified School District,14631,Plano Avenue Preschool,59.81%,*,N,,133,80
-ca,03050,Porterville Unified School District,5664,PORTERVILLE CHILDRENS CENTER,35.35%,*,N,,35,12
+ca,03050,Porterville Unified School District,14631-0,Plano Avenue Preschool,59.81%,*,N,,133,80
+ca,03050,Porterville Unified School District,5664-0,PORTERVILLE CHILDRENS CENTER,35.35%,*,N,,35,12
 ca,03050,Porterville Unified School District,54755235434113,Porterville High                                                ,47.33%,,Y,62.50%,1912,905
 ca,03050,Porterville Unified School District,11709,Porterville Learning Center CBI II,45.45%,,Y,62.50%,11,5
 ca,03050,Porterville Unified School District,14112,PORTERVILLE LEARNING COMPLEX,31.40%,,Y,62.50%,86,27
 ca,03050,Porterville Unified School District,14084,PORTERVILLE LEARNING COMPLEX - CBI 1,40.00%,,Y,62.50%,10,4
 ca,03050,Porterville Unified School District,10791,PORTERVILLE LEARNING COMPLEX II,20.00%,,Y,62.50%,15,3
 ca,03050,Porterville Unified School District,54755230137968,Porterville Military Academy,66.05%,,Y,62.50%,162,107
-ca,03050,Porterville Unified School District,14624,Porterville Unified Special Ed. Preschool,50.00%,*,N,,1566,783
+ca,03050,Porterville Unified School District,14624-0,Porterville Unified Special Ed. Preschool,50.00%,*,N,,1566,783
 ca,03050,Porterville Unified School District,54755235430350,Prospect Education Center                                       ,60.00%,,Y,62.50%,106,64
 ca,03050,Porterville Unified School District,27253,PUSD Migrant Ed. Preschool,100.00%,,Y,62.50%,18,18
 ca,03050,Porterville Unified School District,54755236054274,Roche Elementary                                                ,75.98%,,Y,62.50%,387,294

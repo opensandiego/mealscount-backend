@@ -1,7 +1,7 @@
 state,District Code,District Name,School Code,School Name,individual_isp,proxy_isp,participating_in_cep,claiming_isp,total_enrolled,total_eligible
 nj,8006010,ACADEMY CHARTER HS,2881,ACAD CHARTER HS,45.45%,,N,,187,85
 nj,08006032,Academy for Urban Leadership CS,806032901,Academy for Urban Leadership,,,Y,40.56%,400,
-nj,08006032,Academy for Urban Leadership CS,806032901,Academy for Urban Leadership Middle School,,,Y,40.56%,200,
+nj,08006032,Academy for Urban Leadership CS,806032901-0,Academy for Urban Leadership Middle School,,,Y,40.56%,200,
 nj,8006110,ACHIEVE COMMUNITY CHARTER SCHOOL,12801,Achieve Community Charter School,50.68%,,N,,219,111
 nj,8007895,ACHIEVERS EARLY COLLEGE PREP CS,12701,Achievers Early College Prep Charter School,48.57%,,N,,70,34
 nj,809277,ARCHWAY PROGRAMS,489,ARCHWAY LOWER SCHOOL,15.00%,,Y,42.92%,80,12

@@ -127,8 +127,8 @@ oh,43687,Bucyrus City,4184,Bucyrus High School,34.60%,,N,,656,227
 oh,50880,Butler Technology & Career Development Schoo,15165,Bioscience Center,39.48%,,N,,309,122
 oh,50880,Butler Technology & Career Development Schoo,658,Butler Tech School of the Arts,35.71%,,N,,140,50
 oh,50880,Butler Technology & Career Development Schoo,659,Natural Science Center,36.03%,,N,,136,49
-oh,43695,Cambridge City SD,,Cambridge Intermediate,,,Y,47.42%,445,
-oh,43695,Cambridge City SD,,Cambridge Primary,,,Y,50.97%,573,
+oh,43695,Cambridge City SD,-0,Cambridge Intermediate,,,Y,47.42%,445,
+oh,43695,Cambridge City SD,-1,Cambridge Primary,,,Y,50.97%,573,
 oh,43703,Campbell City SD,29579,Campbell Elementary School,69.78%,,Y,62.50%,695,485
 oh,43703,Campbell City SD,24190,Memorial High School,54.00%,,Y,62.50%,400,216
 oh,46946,Canal Winchester,118158,Canal Winchester Middle School,31.01%,,N,,1006,312
@@ -158,7 +158,7 @@ oh,43711,Canton City SD,42549,Youtz Elementary School,72.06%,,Y,62.50%,315,227
 oh,13255,Canton College Preparatory School,13255,Canton College Preparatory School,72.68%,,Y,62.50%,183,133
 oh,49833,Canton Local School District,43430,Faircrest Memorial Middle School,42.86%,,Y,43.06%,576,247
 oh,49833,Canton Local School District,61804,Walker Elementary School,44.35%,,Y,43.06%,699,310
-oh,8063,Cascade Career Prep High School,,Cascade Career Prep High School,,,Y,55.45%,101,
+oh,8063,Cascade Career Prep High School,-2,Cascade Career Prep High School,,,Y,55.45%,101,
 oh,58693,CCMT Catholic School,58693,CCMT Catholic-Rosary Cathedral,52.17%,,Y,60.43%,195,102
 oh,58693,CCMT Catholic School,2000058586,"CCMT School, Queen of Apostles Campus Annex",66.23%,,Y,60.43%,174,115
 oh,9164,Central Academy of Ohio,9164,Central Academy of Ohio,57.50%,,Y,57.50%,120,69
@@ -169,12 +169,12 @@ oh,14061,Chapelside Cleveland Academy,14061,Chapelside Cleveland Academy,64.07%,
 oh,45294,Chesapeake Union,40303,Chesapeake Elementary School,32.04%,,N,,515,165
 oh,45294,Chesapeake Union,9373,Chesapeake Middle School,32.30%,,N,,452,146
 oh,43745,Chillicothe City Sd,398,Allen Elementary School,55.17%,,N,,638,352
-oh,43745,Chillicothe City SD,6296,Chillicothe High School,50.53%,,Y,48.23%,1316,665
-oh,43745,Chillicothe City SD,37234,Chillicothe Intermediate School,62.80%,,Y,48.23%,820,515
-oh,43745,Chillicothe City SD,25841,Chillicothe Primary School,65.02%,,Y,48.23%,606,394
-oh,43745,Chillicothe City SD,17354,Mt Logan Early Childhood Center,39.83%,,Y,48.23%,118,47
-oh,43745,Chillicothe City SD,66225,Ross County Board of MR&DD,29.90%,,Y,48.23%,97,29
-oh,43745,Chillicothe City SD,138222,Ross-Pike ESC,54.84%,,Y,48.23%,31,17
+oh,43745,Chillicothe City Sd,6296,Chillicothe High School,50.53%,,Y,48.23%,1316,665
+oh,43745,Chillicothe City Sd,37234,Chillicothe Intermediate School,62.80%,,Y,48.23%,820,515
+oh,43745,Chillicothe City Sd,25841,Chillicothe Primary School,65.02%,,Y,48.23%,606,394
+oh,43745,Chillicothe City Sd,17354,Mt Logan Early Childhood Center,39.83%,,Y,48.23%,118,47
+oh,43745,Chillicothe City Sd,66225,Ross County Board of MR&DD,29.90%,,Y,48.23%,97,29
+oh,43745,Chillicothe City Sd,138222,Ross-Pike ESC,54.84%,,Y,48.23%,31,17
 oh,133512,Cincinnati College Preparatory Academy,133512,Cincinnati College Preparatory Academy,68.66%,,Y,62.50%,970,666
 oh,43752,Cincinnati Public Schools,145581,Academy for Multilingual Immersion Studies,50.47%,,Y,62.50%,531,268
 oh,43752,Cincinnati Public Schools,94623,Academy Of World Languages Elementary School,55.58%,,Y,62.50%,538,299
@@ -191,7 +191,7 @@ oh,43752,Cincinnati Public Schools,5025,Dater Montessori Elementary School,23.22
 oh,43752,Cincinnati Public Schools,24927,Ethel M Taylor Academy,98.40%,,Y,62.50%,376,370
 oh,43752,Cincinnati Public Schools,16519,Evanston Academy,82.85%,,Y,62.50%,344,285
 oh,43752,Cincinnati Public Schools,8698,Frederick Douglass Elementary School,91.86%,,Y,62.50%,344,316
-oh,43752,Cincinnati Public Schools,,Gamble Montessori Elementary School,,,Y,62.50%,106,
+oh,43752,Cincinnati Public Schools,-3,Gamble Montessori Elementary School,,,Y,62.50%,106,
 oh,43752,Cincinnati Public Schools,15818,George Hays-Jennie Porter Elementary,88.61%,,Y,62.50%,360,319
 oh,43752,Cincinnati Public Schools,15529,Hartwell Elementary School,50.36%,,Y,62.50%,562,283
 oh,43752,Cincinnati Public Schools,17111,Hughes Center High School,61.05%,,Y,62.50%,937,572
@@ -210,7 +210,7 @@ oh,43752,Cincinnati Public Schools,147280,Rees E Price Elementary,91.14%,,Y,62.5
 oh,43752,Cincinnati Public Schools,16990,Rising Stars Academy Ezzard Charles,59.26%,,Y,62.50%,27,16
 oh,43752,Cincinnati Public Schools,16107,Rising Stars Academy on Harrison,57.55%,,N,,106,61
 oh,43752,Cincinnati Public Schools,16106,Rising Stars Academy on Vine,45.10%,,Y,62.50%,204,92
-oh,43752,Cincinnati Public Schools,,Rising Stars at Aiken New Tech/College Hill,,,Y,62.50%,15,
+oh,43752,Cincinnati Public Schools,-4,Rising Stars at Aiken New Tech/College Hill,,,Y,62.50%,15,
 oh,43752,Cincinnati Public Schools,145722,Riverview East Academy,67.48%,,Y,62.50%,612,413
 oh,43752,Cincinnati Public Schools,36830,Robert A Taft  Information Technology High School,80.72%,,Y,62.50%,638,515
 oh,43752,Cincinnati Public Schools,32086,Roberts Paideia Academy,54.32%,,Y,62.50%,821,446
@@ -279,13 +279,13 @@ oh,52522,Cleveland Catholic Diocese,56242,St Rocco,55.70%,,Y,58.85%,158,88
 oh,52522,Cleveland Catholic Diocese,56267,St Stanislaus,63.78%,,Y,58.85%,185,118
 oh,52522,Cleveland Catholic Diocese,56283,St Thomas Aquinas,64.44%,,Y,58.85%,180,116
 oh,43786,Cleveland City School District,224,Adlai Stevenson Elementary School,83.76%,,Y,62.50%,468,392
-oh,43786,Cleveland City School District,,Albert B Hart,,,Y,62.50%,187,
+oh,43786,Cleveland City School District,-5,Albert B Hart,,,Y,62.50%,187,
 oh,43786,Cleveland City School District,331,Alfred A Benesch Elementary School,100.00%,,Y,62.50%,279,279
 oh,43786,Cleveland City School District,489,Almira Elementary School,85.13%,,Y,62.50%,511,435
 oh,43786,Cleveland City School District,729,Andrew J Rickoff Elementary School,92.42%,,Y,62.50%,475,439
 oh,43786,Cleveland City School District,828,Anton Grdina Elementary School,97.34%,,Y,62.50%,376,366
 oh,43786,Cleveland City School District,1040,Artemus Ward,79.08%,,Y,62.50%,502,397
-oh,43786,Cleveland City School District,,Bard Early College Cleveland,,,Y,62.50%,410,
+oh,43786,Cleveland City School District,-6,Bard Early College Cleveland,,,Y,62.50%,410,
 oh,43786,Cleveland City School District,2378,Benjamin Franklin Elementary School,71.54%,,Y,62.50%,622,445
 oh,43786,Cleveland City School District,3137,Bolton Elementary School,100.00%,,Y,62.50%,293,293
 oh,43786,Cleveland City School District,3772,Brooklawn Elementary School,62.50%,,N,,264,165
@@ -298,12 +298,12 @@ oh,43786,Cleveland City School District,5900,Charles Dickens Elementary School,1
 oh,43786,Cleveland City School District,5942,Charles W Eliot Middle School,71.83%,,N,,323,232
 oh,43786,Cleveland City School District,6353,Clara E Westropp Elementary School,79.20%,,Y,62.50%,375,297
 oh,43786,Cleveland City School District,6429,Clark Elementary School,87.82%,,Y,62.50%,591,519
-oh,43786,Cleveland City School District,,Cleveland High School for the Digital Arts,,,Y,62.50%,422,
+oh,43786,Cleveland City School District,-7,Cleveland High School for the Digital Arts,,,Y,62.50%,422,
 oh,43786,Cleveland City School District,64576,Cleveland School Of The Arts High School,43.78%,,Y,62.50%,466,204
 oh,43786,Cleveland City School District,6940,Collinwood High School,85.41%,,Y,62.50%,233,199
 oh,43786,Cleveland City School District,8060,Daniel E Morgan School,98.78%,,Y,62.50%,246,243
 oh,43786,Cleveland City School District,8383,Denison Elementary School,84.33%,,Y,62.50%,268,226
-oh,43786,Cleveland City School District,,Design Lab @ Health campus,,,Y,62.50%,233,
+oh,43786,Cleveland City School District,-8,Design Lab @ Health campus,,,Y,62.50%,233,
 oh,43786,Cleveland City School District,8490,Dike School of Arts,83.81%,,Y,62.50%,352,295
 oh,43786,Cleveland City School District,9285,Douglas MacArthur,65.11%,,Y,62.50%,321,209
 oh,43786,Cleveland City School District,8987,East Clark Elementary School,91.36%,,Y,62.50%,220,201
@@ -348,7 +348,7 @@ oh,43786,Cleveland City School District,24687,Miles Elementary School,96.51%,,Y,
 oh,43786,Cleveland City School District,24695,Miles Park School,96.68%,,Y,62.50%,482,466
 oh,43786,Cleveland City School District,25650,Mound Elementary School,100.00%,,Y,62.50%,391,391
 oh,43786,Cleveland City School District,26443,Nathan Hale School,93.04%,,Y,62.50%,546,508
-oh,43786,Cleveland City School District,,New Technology West,,,Y,62.50%,264,
+oh,43786,Cleveland City School District,-9,New Technology West,,,Y,62.50%,264,
 oh,43786,Cleveland City School District,27102,Newton D Baker School,73.86%,,Y,62.50%,528,390
 oh,43786,Cleveland City School District,28589,Oliver H Perry Elementary School,85.92%,,Y,62.50%,284,244
 oh,43786,Cleveland City School District,28720,Orchard School,87.04%,,Y,62.50%,486,423
@@ -379,7 +379,7 @@ oh,930,Cleveland Entrepreneurship Preparatory Scho,930,Cleveland Entrepreneurshi
 oh,43794,Cleveland Heights-University Heights,3251,Boulevard Elementary School,58.68%,,Y,46.94%,288,169
 oh,43794,Cleveland Heights-University Heights,4804,Canterbury Elementary School,37.50%,,Y,46.94%,392,147
 oh,43794,Cleveland Heights-University Heights,15842,Cleveland Heights High School,42.34%,,Y,46.94%,1592,674
-oh,43794,Cleveland Heights-University Heights,,Delisle Options Ctr,,,Y,46.94%,113,
+oh,43794,Cleveland Heights-University Heights,-10,Delisle Options Ctr,,,Y,46.94%,113,
 oh,43794,Cleveland Heights-University Heights,10967,Fairfax Elementary School,46.75%,,Y,46.94%,338,158
 oh,43794,Cleveland Heights-University Heights,2352,Lauree P Gearity Elementary School,40.56%,,Y,46.94%,392,159
 oh,43794,Cleveland Heights-University Heights,25411,Monticello Middle School,51.79%,,Y,46.94%,558,289
@@ -559,12 +559,12 @@ oh,43844,Dayton City SD,4952,Louise Troy Elementary School,84.00%,,Y,62.50%,450,
 oh,43844,Dayton City SD,23986,Meadowdale High School,68.06%,,Y,62.50%,576,392
 oh,43844,Dayton City SD,23978,Meadowdale PreK-8 School,71.67%,,N,,360,258
 oh,43844,Dayton City SD,12112,River's Edge Montessori Elementary School,51.26%,,Y,62.50%,593,304
-oh,43844,Dayton City SD,,Roosevelt Elementary School,,,Y,62.50%,341,
+oh,43844,Dayton City SD,-11,Roosevelt Elementary School,,,Y,62.50%,341,
 oh,43844,Dayton City SD,15038,Rosa Parks Early Learning Center (PreK),62.67%,,Y,62.50%,300,188
 oh,43844,Dayton City SD,10811,Ruskin Elementary School,63.78%,,Y,62.50%,555,354
 oh,43844,Dayton City SD,36152,Stivers School for the Arts (7-12),27.40%,,Y,62.50%,865,237
 oh,43844,Dayton City SD,6841,Thurgood Marshall High School,61.00%,,Y,62.50%,618,377
-oh,43844,Dayton City SD,,Valerie Elementary School,,,Y,62.50%,360,
+oh,43844,Dayton City SD,-12,Valerie Elementary School,,,Y,62.50%,360,
 oh,43844,Dayton City SD,18119,Westwood Elementary School,81.99%,,Y,62.50%,361,296
 oh,43844,Dayton City SD,41921,Wogaman Middle School,79.48%,,Y,62.50%,307,244
 oh,43844,Dayton City SD,133603,WOW PreK-8 School @ Residence Park,81.23%,,N,,341,277
@@ -699,7 +699,7 @@ oh,44040,Garfield Heights,13136,Garfield Heights High School,39.21%,,N,,1191,467
 oh,44040,Garfield Heights,13144,Garfield Heights Middle School,49.63%,,Y,58.85%,808,401
 oh,44040,Garfield Heights,22574,Maple Leaf Intermediate Elementary School,59.32%,,Y,58.85%,499,296
 oh,44040,Garfield Heights,41335,William Foster Elementary School,51.80%,,Y,58.85%,693,359
-oh,813,Gem City Career Prep High School,,Gem City Career Prep High School,,,Y,42.86%,112,
+oh,813,Gem City Career Prep High School,-13,Gem City Career Prep High School,,,Y,42.86%,112,
 oh,58503,Gesu Ele Sch,58503,Gesu Ele Sch,85.33%,,N,,334,285
 oh,44065,Girard City SD,13482,Girard Sr High School,34.75%,,N,,846,294
 oh,44065,Girard City SD,9159,Prospect Elementary School,42.58%,,N,,944,402
@@ -790,7 +790,7 @@ oh,48082,Indian Lake,19653,Indian Lake Elementary,37.57%,,N,,543,204
 oh,50286,Indian Valley,24588,Midvale Elementary School,32.71%,,N,,428,140
 oh,16811,Inspire Elementary,16811,Inspire Elementary,51.22%,,Y,50.00%,41,21
 oh,905,Interactive Media & Construction,200001402,Interactive Media and Construction IMAC,79.55%,,Y,62.50%,44,35
-oh,133215,"Intergenerational School, The",,"Intergenerational School, The",,,Y,41.22%,245,
+oh,133215,"Intergenerational School, The",-14,"Intergenerational School, The",,,Y,41.22%,245,
 oh,143172,International Acad Of Columbus,143172,International Acad Of Columbus,52.80%,,Y,60.44%,286,151
 oh,133835,Invictus High School,133835,Invictus High School,83.05%,,Y,56.60%,118,98
 oh,133835,Invictus High School,90133835,Invictus Lee Rd. Campus,85.57%,,Y,56.60%,201,172
@@ -844,9 +844,9 @@ oh,50195,Liberty Local SD,14803,William S Guy Middle School,62.24%,,N,,580,361
 oh,47977,Licking County ESC,15319,Phoenix Central,50.00%,,Y,50.00%,64,32
 oh,8282,Life Skills Center of Columbus North,8282,Life Skills Center of Columbus North,36.63%,,N,,101,37
 oh,664,Life Skills Center of Columbus Southeast,664,Life Skills Center of Columbus Southeast,40.91%,,N,,110,45
-oh,813,Life Skills Center of Dayton,813,Life Skills Center of Dayton,41.96%,,N,,112,47
-oh,142919,Life Skills Center of Elyria,142919,Life Skills Center of Elyria,78.32%,,N,,143,112
-oh,8063,Life Skills Center of North Akron,8063,Life Skills Center of North Akron,55.45%,,N,,101,56
+oh,813,Gem City Career Prep High School,813,Life Skills Center of Dayton,41.96%,,N,,112,47
+oh,142919,Black River Career Prep High School,142919,Life Skills Center of Elyria,78.32%,,N,,143,112
+oh,8063,Cascade Career Prep High School,8063,Life Skills Center of North Akron,55.45%,,N,,101,56
 oh,149302,Life Skills Center Of Toledo,149302,Life Skills Center Of Toledo,60.83%,,N,,120,73
 oh,133785,Life Skills Ctr Of Cincinnati,133785,Life Skills Ctr Of Cincinnati,49.00%,,N,,100,49
 oh,133389,Lighthouse Community Sch Inc,133389,Lighthouse Community Sch Inc,81.03%,,Y,52.00%,50,41
@@ -1128,10 +1128,10 @@ oh,44669,Portsmouth City SD,15198,East Portsmouth Elementary,70.35%,,Y,62.50%,19
 oh,44669,Portsmouth City SD,140350,Portsmouth Elementary,71.66%,,Y,62.50%,928,665
 oh,44669,Portsmouth City SD,30569,Portsmouth High School,52.43%,,Y,62.50%,637,334
 oh,44669,Portsmouth City SD,125484,Vern Riffe School,38.36%,,N,,73,28
-oh,44677,Princeton City SD,,Heritage Hill Elementary School,,,Y,53.19%,518,
-oh,44677,Princeton City SD,,Lincoln Heights Elementary School,,,Y,53.19%,274,
+oh,44677,Princeton City SD,-15,Heritage Hill Elementary School,,,Y,53.19%,518,
+oh,44677,Princeton City SD,-16,Lincoln Heights Elementary School,,,Y,53.19%,274,
 oh,143479,Puritas Community School,143479,Puritas Community School,50.25%,,Y,50.25%,201,101
-oh,133785,Queen City Career Prep High School,,Queen City Career Prep High School,,,Y,50.00%,100,
+oh,133785,Life Skills Ctr Of Cincinnati,-17,Queen City Career Prep High School,,,Y,50.00%,100,
 oh,44685,Ravenna City SD,3905,Brown Middle School,51.91%,,Y,52.24%,470,244
 oh,44685,Ravenna City SD,16147,Carlin Elementary School,53.67%,,Y,52.24%,259,139
 oh,44685,Ravenna City SD,31104,Ravenna High School,48.22%,,Y,52.24%,562,271
@@ -1177,7 +1177,7 @@ oh,47308,Rolling Hills,85084,Meadowbrook Middle School,33.25%,,N,,388,129
 oh,47308,Rolling Hills,96396,Secrest Elementary School,38.46%,,Y,42.45%,181,70
 oh,476,Saint Martin de Porres High School,476,Saint Martin de Porres High School,49.73%,,N,,370,184
 oh,44735,Salem City SD,4119,Buckeye Elementary School,49.45%,,Y,49.45%,455,225
-oh,44735,Salem City SD,,Reilly Elementary School,,,Y,43.33%,352,
+oh,44735,Salem City SD,-18,Reilly Elementary School,,,Y,43.33%,352,
 oh,44743,Sandusky City SD,15040,Hancock Elementary School,54.18%,,Y,46.03%,323,175
 oh,44743,Sandusky City SD,24901,Mills Elementary School,58.36%,,Y,46.03%,305,178
 oh,44743,Sandusky City SD,28662,Ontario Elementary School,52.63%,,Y,46.03%,399,210
@@ -1207,7 +1207,7 @@ oh,44784,Sidney City SD,29298,Parkwood Elementary School,55.56%,,N,,54,30
 oh,44784,Sidney City SD,34561,Sidney High School,33.93%,,N,,1070,363
 oh,44784,Sidney City SD,43018,Sidney Middle School,44.88%,,N,,849,381
 oh,44784,Sidney City SD,41145,Whittier Elementary School,40.82%,,N,,294,120
-oh,149302,Skyway Career Prep High School,,Skyway Career Prep High School,,,Y,60.83%,120,
+oh,149302,Life Skills Center Of Toledo,-19,Skyway Career Prep High School,,,Y,60.83%,120,
 oh,16812,SMART Academy,16812,SMART Academy,58.70%,,N,,46,27
 oh,16829,South Columbus Preparatory Academy,16829,South Columbus Preparatory Academy,37.35%,,N,,166,62
 oh,47951,South Point,4317,Burlington Elementary School,48.14%,,Y,46.72%,349,168
@@ -1263,7 +1263,7 @@ oh,58941,St Gerard,58941,St Gerard,55.14%,,N,,185,102
 oh,60384,St John Lutheran,60384,St John Lutheran,43.75%,,N,,160,70
 oh,59626,St Joseph The Provider,59626,St Joseph The Provider,52.12%,,N,,165,86
 oh,55228,St Lawrence,55228,St Lawrence,50.57%,,Y,51.00%,348,176
-oh,60004,St Nicholas,,St Nicholas,,,Y,62.50%,178,
+oh,60004,St Nicholas,-20,St Nicholas,,,Y,62.50%,178,
 oh,55657,St William,55657,St William,35.74%,,N,,249,89
 oh,59717,St. Peter,59717,St Peter,44.93%,,Y,45.00%,138,62
 oh,855,Stambaugh Charter Academy,855,Stambaugh Charter Academy,86.70%,,Y,62.50%,421,365
@@ -1273,7 +1273,7 @@ oh,142901,Stark High School,142901,Stark High School,59.46%,,Y,56.76%,111,66
 oh,12627,STEAM Academy of Akron,12627,STEAM Academy of Akron,87.50%,,Y,62.50%,160,140
 oh,12644,STEAM Academy of Warren,12644,STEAM Academy of Warren,82.04%,,Y,62.50%,167,137
 oh,13147,STEAM Academy of Warrensville Heights,13147,STEAM Academy of Warrensville Heights,52.08%,,Y,52.08%,192,100
-oh,13148,Stepstone Academy,,Stepstone Academy,,,Y,62.50%,107,
+oh,13148,Stepstone Academy,-21,Stepstone Academy,,,Y,62.50%,107,
 oh,44826,Steubenville City SD,32433,East Garfield Elementary School,100.00%,,Y,56.03%,401,401
 oh,44826,Steubenville City SD,15180,Harding Middle School,58.23%,,Y,56.03%,668,389
 oh,44826,Steubenville City SD,36020,Steubenville High School,51.77%,,Y,56.03%,593,307
@@ -1476,7 +1476,7 @@ oh,45070,Whitehall City SD,32698,Rosemore Middle School,52.92%,,Y,54.36%,667,353
 oh,45070,Whitehall City SD,41020,Whitehall Yearling High School,46.95%,,Y,54.36%,786,369
 oh,509,Whitehall Prepartory and Fitness Academy,509,Whitehall Prepartory and Fitness Academy,63.11%,,N,,244,154
 oh,222,Wildwood Environmental Academy,222,Wildwood Environmental Elementary,45.59%,,N,,136,62
-oh,222,Wildwood Environmental Academy,222,Wildwood Environmental High School,31.22%,,N,,221,69
+oh,222,Wildwood Environmental Academy,222-0,Wildwood Environmental High School,31.22%,,N,,221,69
 oh,45096,Willard City SD,5439,Central Elementary School,41.87%,,N,,621,260
 oh,45096,Willard City SD,31559,Richmond Elementary School,39.45%,,N,,365,144
 oh,45096,Willard City SD,58933,St Francis Xavier,35.58%,,N,,104,37

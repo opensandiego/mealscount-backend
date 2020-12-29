@@ -139,7 +139,7 @@ ar,4304000,Cabot School District,4304014,Stagecoach Elementary School,18.46%,,N,
 ar,4304000,Cabot School District,4304009,Ward Central Elementary School,30.02%,,N,,553,166
 ar,4304000,Cabot School District,4304006,Westside Elementary School,31.89%,,N,,417,133
 ar,4901000,Caddo Hills School District,4901001,Caddo Hills Elementary School,51.38%,,N,,325,167
-ar,4901000,Caddo Hills School District       ,4901003,Caddo Hills High School,37.40%,,N,,262,98
+ar,4901000,Caddo Hills School District,4901003,Caddo Hills High School,37.40%,,N,,262,98
 ar,3301000,Calico Rock School District,3301001,Calico Rock Elementary School,38.24%,,N,,204,78
 ar,3301000,Calico Rock School District,3301002,Calico Rock High School,24.07%,,N,,162,39
 ar,5204000,Camden Fairview School District,5204021,Camden Fairview Elementary School,51.56%,,N,,448,231
@@ -158,7 +158,7 @@ ar,1702000,Cedarville School District,1702008,Cedarville Elementary School,37.55
 ar,1702000,Cedarville School District,1702009,Cedarville High School,24.32%,,N,,259,63
 ar,1702000,Cedarville School District,1702010,Cedarville Middle School,38.68%,,N,,243,94
 ar,5502000,Centerpoint School District,5502010,Centerpoint High School,32.07%,,N,,527,169
-ar,5502000,Centerpoint School District ,5502011,Centerpoint Elementary School,38.04%,,N,,489,186
+ar,5502000,Centerpoint School District,5502011,Centerpoint Elementary School,38.04%,,N,,489,186
 ar,2402000,Charleston School District,2402006,Charleston Elementary School,30.10%,,N,,515,155
 ar,2402000,Charleston School District,2402007,Charleston High School,23.46%,,N,,439,103
 ar,4802000,Clarendon School District,4802008,Clarendon Elementary School,49.82%,,Y,57.57%,303,151
@@ -388,8 +388,8 @@ ar,2807000,Greene County Technical School District,2807009,Greene County Tech Jr
 ar,2807000,Greene County Technical School District,2807007,Greene County Tech Middle School,22.89%,,N,,546,125
 ar,2807000,Greene County Technical School District,2807010,Greene County Tech Primary School,27.79%,,N,,547,152
 ar,7204000,Greenland Elementary School,7204027,Greenland Elementary School,34.21%,,N,,266,91
-ar,7204000,Greenland High School,7204028,Greenland High School,24.58%,,N,,236,58
-ar,7204000,Greenland Middle School,7204029,Greenland Middle School,31.50%,,N,,273,86
+ar,7204000,Greenland Elementary School,7204028,Greenland High School,24.58%,,N,,236,58
+ar,7204000,Greenland Elementary School,7204029,Greenland Middle School,31.50%,,N,,273,86
 ar,6602000,Greenwood School District,6602045,East Hills Middle School,14.97%,,N,,588,88
 ar,6602000,Greenwood School District,6602046,East Pointe Elementary School,20.99%,,N,,710,149
 ar,6602000,Greenwood School District,6602047,Greenwood Freshman Center,12.94%,,N,,309,40
@@ -500,7 +500,7 @@ ar,1608000,Jonesboro School District,1608022,Micro Society Magnet School,71.56%,
 ar,1608000,Jonesboro School District,1608703,The Academies of Jonesboro,35.31%,,Y,53.46%,1066,376
 ar,1608000,Jonesboro School District,1608019,Visual/Perform Art Magnet School,36.58%,,Y,53.46%,712,260
 ar,7003000,Junction City Elementary,7003027,Junction City Elementary School,38.84%,,N,,242,94
-ar,7003000,Junction City High School,7003028,Junction City High School,34.02%,,N,,244,83
+ar,7003000,Junction City Elementary,7003028,Junction City High School,34.02%,,N,,244,83
 ar,5440700,KIPP Delta Public Schools,5440705,KIPP Blytheville College Preparatory School,46.91%,,Y,60.87%,81,38
 ar,5440700,KIPP Delta Public Schools,5440706,KIPP Blytheville Collegiate High School,38.79%,,Y,60.87%,165,64
 ar,5440700,KIPP Delta Public Schools,5440702,KIPP Delta College Preparatory School,60.10%,,Y,60.87%,208,125
@@ -862,7 +862,7 @@ ar,5805000,Russellville School District,0508021,Sequoyah Elementary School,22.69
 ar,2502000,Salem School District,2502005,Salem Elementary School,34.57%,,N,,460,159
 ar,2502000,Salem School District,2502006,Salem High School,26.09%,,N,,391,102
 ar,6060700,Scholarmade Achievment Place,6060701,Ivy Hill Academy,67.66%,,Y,67.66%,155,105
-ar,6060700,Scholarmade Achievment Place,,Nichols Intermediate ,,,Y,67.66%,114,
+ar,6060700,Scholarmade Achievment Place,-0,Nichols Intermediate ,,,Y,67.66%,114,
 ar,4204000,Scranton School District,4204016,Scranton Elementary School,29.71%,,N,,239,71
 ar,4204000,Scranton School District,4204019,Scranton High School,22.99%,,N,,187,43
 ar,6502000,Searcy County School District,6502001, Leslie Intermediate School,32.29%,,N,,192,62

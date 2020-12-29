@@ -1979,12 +1979,12 @@ ny,142201040000,North Collins CSD,142201040002,North Collins Elementary School,3
 ny,142201040000,North Collins CSD,142201040001,North Collins Junior-Senior HS,27.78%,,N,,288,80
 ny,10623060000,North Colonie CSD,10605880063,Achievements,19.17%,,N,,120,23
 ny,10623060000,North Colonie CSD,10623060002,Blue Creek School,21.79%,,N,,491,107
-ny,10623060000,North Colonie CSD,800000057185,Boces-Alb Career Tech - Albany,0.00%,,N,,47,0
+ny,10623060000,North Colonie CSD,800000057185-0,Boces-Alb Career Tech - Albany,0.00%,,N,,47,0
 ny,10623060000,North Colonie CSD,10623060003,Boght Hills School,9.31%,,N,,580,54
 ny,10623060000,North Colonie CSD,10623060004,Forts Ferry School,19.85%,,N,,534,106
 ny,10623060000,North Colonie CSD,10623060006,Latham Ridge School,18.30%,,N,,541,99
 ny,10623060000,North Colonie CSD,10623060007,Loudonville School,9.28%,,N,,334,31
-ny,10623060000,North Colonie CSD,800000055408,Maywood School,0.00%,,N,,114,0
+ny,10623060000,North Colonie CSD,800000055408-0,Maywood School,0.00%,,N,,114,0
 ny,10623060000,North Colonie CSD,10623060010,Shaker High School,16.67%,,N,,2021,337
 ny,10623060000,North Colonie CSD,10623060009,Shaker Junior High School,18.38%,,N,,887,163
 ny,10623060000,North Colonie CSD,10623060008,Southgate School,16.48%,,N,,449,74
@@ -2380,14 +2380,14 @@ ny,300000010000,NYC Chancellor's Office,320900010327,Comp Model Sch Project MS 3
 ny,300000010000,NYC Chancellor's Office,331300861066,Compass Charter School,22.54%,,Y,62.50%,338,76
 ny,300000010000,NYC Chancellor's Office,353100011470,Concord High School,73.45%,,Y,62.50%,160,118
 ny,300000010000,NYC Chancellor's Office,320700010359,Concourse Village Elementary School,68.29%,,Y,62.50%,372,254
-ny,300000010000,NYC Chancellor's Office,800000083765,Coney Island Prep Charter ES,,,Y,62.50%,317,
-ny,300000010000,NYC Chancellor's Office,800000076614,Coney Island Prep Charter HS,,,Y,62.50%,341,
+ny,300000010000,NYC Chancellor's Office,800000083765-0,Coney Island Prep Charter ES,,,Y,62.50%,317,
+ny,300000010000,NYC Chancellor's Office,800000076614-0,Coney Island Prep Charter HS,,,Y,62.50%,341,
 ny,300000010000,NYC Chancellor's Office,310100149439,Connelly Ctr Education/Holy Child MS,38.04%,,Y,62.50%,91,35
 ny,300000010000,NYC Chancellor's Office,331400010577,Conselyea Preparatory School,42.83%,,Y,62.50%,488,209
 ny,300000010000,NYC Chancellor's Office,321100010189,Cornerstone Acad For Social Action,72.70%,,Y,62.50%,515,374
 ny,300000010000,NYC Chancellor's Office,321100010462,Cornerstone Acad-Social Action-Ms,64.45%,,Y,62.50%,264,170
 ny,300000010000,NYC Chancellor's Office,342400010311,Corona Arts And Sciences Academy,82.65%,,Y,62.50%,869,718
-ny,300000010000,NYC Chancellor's Office,310300145259,Corpus Christi School,,,Y,62.50%,177,
+ny,300000010000,NYC Chancellor's Office,310300145259-0,Corpus Christi School,,,Y,62.50%,177,
 ny,300000010000,NYC Chancellor's Office,321000010447,Creston Academy,83.11%,,Y,62.50%,467,388
 ny,300000010000,NYC Chancellor's Office,321000011524,Crotona International High School,67.66%,,Y,62.50%,350,237
 ny,300000010000,NYC Chancellor's Office,353100011047,Csi HS-International Studies,28.34%,,Y,62.50%,578,164
@@ -2431,7 +2431,7 @@ ny,300000010000,NYC Chancellor's Office,310100010364,Earth School,43.43%,,Y,62.5
 ny,300000010000,NYC Chancellor's Office,321200011271,East Bronx Academy For The Future,82.76%,,Y,62.50%,677,560
 ny,300000010000,NYC Chancellor's Office,331800011673,East Brooklyn Community High School,69.90%,,Y,62.50%,188,131
 ny,300000010000,NYC Chancellor's Office,343000010329,East Elmhurst Community School,71.21%,,Y,62.50%,457,325
-ny,300000010000,NYC Chancellor's Office,310400861046,East Harlem Scholars Academy Cs Ii,,,Y,62.50%,511,
+ny,300000010000,NYC Chancellor's Office,310400861046-0,East Harlem Scholars Academy Cs Ii,,,Y,62.50%,511,
 ny,300000010000,NYC Chancellor's Office,331900010677,East New York Elementary-Excellence,86.24%,,Y,62.50%,534,461
 ny,300000010000,NYC Chancellor's Office,331900011409,East New York Family Academy,67.81%,,Y,62.50%,548,372
 ny,300000010000,NYC Chancellor's Office,331900010678,East New York Middle Sch-Excellence,81.06%,,Y,62.50%,264,214
@@ -3053,7 +3053,7 @@ ny,300000010000,NYC Chancellor's Office,310100011292,Orchard Collegiate Academy,
 ny,300000010000,NYC Chancellor's Office,332200011611,Origins High School,67.54%,,Y,62.50%,441,298
 ny,300000010000,NYC Chancellor's Office,343000125964,Our Lady Of Fatima School,,,Y,62.50%,331,
 ny,300000010000,NYC Chancellor's Office,342800127163,Our Lady Of Mercy Catholic Academy,4.05%,,Y,62.50%,311,13
-ny,300000010000,NYC Chancellor's Office,321000145383,Our Lady Of Mt Carmel School,,,Y,62.50%,146,
+ny,300000010000,NYC Chancellor's Office,321000145383-0,Our Lady Of Mt Carmel School,,,Y,62.50%,146,
 ny,300000010000,NYC Chancellor's Office,332000126106,Our Lady Of Perpetual Help Catholic,18.42%,,Y,62.50%,214,39
 ny,300000010000,NYC Chancellor's Office,342700125970,Our Lady Of Perpetual Help Catholic,12.72%,,Y,62.50%,360,46
 ny,300000010000,NYC Chancellor's Office,342400125973,Our Lady Of Sorrows Catholic Academy,14.07%,,Y,62.50%,280,39
@@ -4071,7 +4071,7 @@ ny,300000010000,NYC Chancellor's Office,321000145313,St John School,16.06%,,Y,62
 ny,300000010000,NYC Chancellor's Office,342700100026,St John'S Lutheran School Pre-K,45.15%,,Y,62.50%,29,13
 ny,300000010000,NYC Chancellor's Office,320800145324,St Joseph School For The Deaf,26.03%,,Y,62.50%,65,17
 ny,300000010000,NYC Chancellor's Office,331500126058,St Joseph The Worker Catholic Acad,5.45%,,Y,62.50%,185,10
-ny,300000010000,NYC Chancellor's Office,310200145326,St Joseph'S School-Yorkville,,,Y,62.50%,371,
+ny,300000010000,NYC Chancellor's Office,310200145326-0,St Joseph'S School-Yorkville,,,Y,62.50%,371,
 ny,300000010000,NYC Chancellor's Office,342400125941,St Leo Catholic Academy,19.60%,,Y,62.50%,336,66
 ny,300000010000,NYC Chancellor's Office,321000145344,St Margaret Of Cortona School,,,Y,62.50%,245,
 ny,300000010000,NYC Chancellor's Office,332200126077,St Mark Catholic Academy,,,Y,62.50%,336,
@@ -4475,7 +4475,7 @@ ny,280504060000,Plainview-Old Bethpage CSD,280504060010,Plainview-Old Bethpage/J
 ny,280504060000,Plainview-Old Bethpage CSD,280504060015,Stratford Road School,7.43%,,N,,552,41
 ny,91200010000,Plattsburgh City SD,91200010003,Arthur P Momot Elementary School,67.47%,,Y,44.52%,402,271
 ny,91200010000,Plattsburgh City SD,91200010001,Bailey Avenue School,49.36%,,Y,44.52%,251,124
-ny,91200010000,Plattsburgh City SD,91200100001,John W Harrold Ed Center,67.15%,,N,,137,92
+ny,91200010000,Plattsburgh City SD,91200100001-0,John W Harrold Ed Center,67.15%,,N,,137,92
 ny,91200010000,Plattsburgh City SD,91200010004,Oak Street School,40.00%,,Y,44.52%,244,98
 ny,91200010000,Plattsburgh City SD,91200010006,Plattsburgh Senior High School,41.26%,,Y,44.52%,581,240
 ny,91200010000,Plattsburgh City SD,91200010005,Stafford Middle School,46.54%,,Y,44.52%,424,197
@@ -4544,7 +4544,7 @@ ny,131701060000,Red Hook CSD,131701060004,Linden Avenue Middle School,19.59%,,N,
 ny,131701060000,Red Hook CSD,131701060008,Mill Road-Primary Grades,14.30%,,N,,790,113
 ny,131701060000,Red Hook CSD,131701060002,Red Hook Senior High School,14.89%,,N,,705,105
 ny,580901020000,Remsenburg-Speonk UFSD,580901020001,Remsenburg-Speonk Elementary Sch,12.33%,,N,,146,18
-ny,260501861067,Renaissance Academy Charter-Arts,260501861067,Renaissance Academy Charter-Arts,,,Y,73.90%,484,
+ny,260501861067,Renaissance Academy Charter-Arts,260501861067-0,Renaissance Academy Charter-Arts,,,Y,73.90%,484,
 ny,343000860822,Renaissance Charter School,343000860822,Renaissance Charter School,47.21%,,Y,47.01%,610,288
 ny,491200010000,Rensselaer City SD,491200010000,Rensselaer City SD,53.67%,,Y,62.68%,1177,632
 ny,131801040000,Rhinebeck CSD,131801040003,Bulkeley Middle School,14.06%,,N,,256,36
@@ -4911,7 +4911,7 @@ ny,331700997089,St Francis De Sales-Deaf-Brooklyn,331700997089,St Francis De Sal
 ny,141604136402,St Francis High School,141604136402,St Francis High School,7.92%,,N,,480,38
 ny,140203136273,St Gregory The Great School,140203136273,St Gregory The Great School,3.70%,,N,,459,17
 ny,511101155007,St James School,511101155007,St James School,35.82%,,N,,67,24
-ny,31502185486,St James School,31502185486,St James School,19.87%,,N,,151,30
+ny,31502185486,St James School,31502185486-0,St James School,19.87%,,N,,151,30
 ny,400701325766,St John Lutheran School,400701325766,St John Lutheran School,12.57%,,N,,167,21
 ny,142601136418,St John The Baptist School,142601136418,St John The Baptist School,9.22%,,N,,358,33
 ny,140101136379,St John The Baptist School,140101136379,St John The Baptist School,16.79%,,N,,131,22
@@ -5013,7 +5013,7 @@ ny,421800010000,Syracuse City SD,421800010006,Van Duyn Elementary School,76.32%,
 ny,421800010000,Syracuse City SD,421800010043,Webster Elementary School,77.69%,,Y,74.51%,638,496
 ny,100501040000,Taconic Hills CSD,100501040000,Taconic Hills CSD,41.53%,,Y,49.18%,1245,517
 ny,500402225047,Talmud Torah Bobov,500402226307,Congregation Divrei Chaim,70.25%,,Y,75.50%,147,103
-ny,500402225047,Talmud Torah Bobov,500402226190,Congregation Yeshuos Moshe Viznitz,67.97%,,N,,153,104
+ny,500402225047,Talmud Torah Bobov,500402226190-0,Congregation Yeshuos Moshe Viznitz,67.97%,,N,,153,104
 ny,500402225047,Talmud Torah Bobov,500402225047,Talmud Torah Bobov,72.26%,,Y,75.50%,415,300
 ny,500402225047,Talmud Torah Bobov,500402226400,Talmud Torah Bobov-Girls,70.28%,,Y,75.50%,486,342
 ny,500402226272,Talmud Torah Darkei Avos - Monsey,500402226272,Talmud Torah Darkei Avos - Monsey,59.62%,,Y,64.52%,103,61

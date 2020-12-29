@@ -37,7 +37,7 @@ dc,1,District of Columbia Public Schools,,Bard High School Early College DC,,,Y,
 dc,1,District of Columbia Public Schools,205,Barnard Elementary School,40.15%,,Y,58.05%,672,270
 dc,1,District of Columbia Public Schools,206,Beers Elementary School,48.06%,,Y,58.05%,512,246
 dc,1,District of Columbia Public Schools,402,Benjamin Banneker High School,19.17%,,N,,480,92
-dc,1,District of Columbia Public Schools,,Boone Elementary School,,,Y,58.05%,426,
+dc,1,District of Columbia Public Schools,-0,Boone Elementary School,,,Y,58.05%,426,
 dc,1,District of Columbia Public Schools,212,Brent Elementary School,3.67%,,N,,,
 dc,1,District of Columbia Public Schools,213,Brightwood Education Campus,33.00%,,Y,40.79%,799,264
 dc,1,District of Columbia Public Schools,347,Brookland Middle School,48.47%,,Y,58.05%,262,127
@@ -71,7 +71,7 @@ dc,1,District of Columbia Public Schools,258,Hearst Elementary School,5.76%,,N,,
 dc,1,District of Columbia Public Schools,249,Hendley Elementary School,85.79%,,Y,58.05%,435,373
 dc,1,District of Columbia Public Schools,251,Houston Elementary School,61.19%,,Y,58.05%,285,174
 dc,1,District of Columbia Public Schools,252,Hyde-Addison Elementary School @ Meyer,10.68%,,N,,,
-dc,1,District of Columbia Public Schools,,Ida B. Wells Middle School,,,Y,42.39%,225,
+dc,1,District of Columbia Public Schools,-1,Ida B. Wells Middle School,,,Y,42.39%,225,
 dc,1,District of Columbia Public Schools,339,J.O. Wilson Elementary School,42.71%,,Y,58.05%,520,222
 dc,1,District of Columbia Public Schools,254,Janney Elementary School,0.93%,,N,,,
 dc,1,District of Columbia Public Schools,433,Jefferson Middle School Academy,56.09%,,Y,58.05%,332,186
@@ -158,8 +158,8 @@ dc,120,Friendship PCS,1164,Friendship PCS - Technology Preparatory High School,4
 dc,120,Friendship PCS,1124,Friendship PCS - Technology Preparatory Middle School,62.77%,,Y,57.86%,137,86
 dc,120,Friendship PCS,365,Friendship PCS - Woodridge Elementary School,44.09%,,Y,57.86%,279,123
 dc,120,Friendship PCS,366,Friendship PCS - Woodridge Middle School,33.18%,,Y,57.86%,223,74
-dc,120,Friendship PCS,,Ideal Elementary,,,Y,57.89%,,
-dc,120,Friendship PCS,,Ideal Middle,,,Y,57.89%,,
+dc,120,Friendship PCS,-2,Ideal Elementary,,,Y,57.89%,,
+dc,120,Friendship PCS,-3,Ideal Middle,,,Y,57.89%,,
 dc,180,Harmony DC PCS,245,Harmony DC PCS - School of Excellence,53.64%,,Y,57.28%,47,25
 dc,121,Hope Community PCS,131,Hope Community PCS - Lamond,44.81%,,Y,51.71%,270,121
 dc,121,Hope Community PCS,114,Hope Community PCS - Tolson,55.77%,,Y,51.71%,459,256
@@ -168,24 +168,24 @@ dc,126,IDEA PCS,163,IDEA PCS,51.94%,,Y,51.94%,200,104
 dc,127,Ideal Academy PCS,134,Ideal Academy PCS,53.47%,,N,,245,131
 dc,173,Ingenuity Prep PCS,200,Ingenuity Prep PCS,59.81%,,Y,70.33%,364,218
 dc,186,Kingsman Academy PCS,267,Kingsman Academy PCS,69.06%,,Y,69.06%,231,160
-dc,129,Kipp Academy PCS,,Honor Academy,,,Y,67.89%,,
-dc,129,Kipp Academy PCS,,Somerset College Prep,,,Y,67.89%,,
-dc,129,KIPP DC PCS,116,KIPP DC - AIM Academy PCS,51.03%,,Y,53.17%,390,199
-dc,129,KIPP DC PCS,236,KIPP DC - Arts and Technology Academy PCS,52.34%,,Y,53.17%,342,179
-dc,129,KIPP DC PCS,1123,KIPP DC - College Preparatory Academy PCS,39.50%,,Y,53.17%,795,314
-dc,129,KIPP DC PCS,209,KIPP DC - Connect Academy PCS,45.06%,,Y,53.17%,324,146
-dc,129,KIPP DC PCS,1122,KIPP DC - Discover Academy PCS,60.28%,,Y,53.17%,355,214
-dc,129,KIPP DC PCS,1129,KIPP DC - Grow Academy PCS,43.79%,,Y,53.17%,322,141
-dc,129,KIPP DC PCS,3071,KIPP DC - Heights Academy PCS,57.76%,,Y,53.17%,464,268
-dc,129,KIPP DC PCS,189,KIPP DC - KEY Academy PCS,40.65%,,Y,53.17%,337,137
-dc,129,KIPP DC PCS,190,KIPP DC - Lead Academy PCS,43.10%,,Y,53.17%,406,175
-dc,129,KIPP DC PCS,132,KIPP DC - LEAP Academy PCS,52.28%,,Y,53.17%,197,103
-dc,129,KIPP DC PCS,242,KIPP DC - Northeast Academy PCS,43.03%,,Y,53.17%,323,139
-dc,129,KIPP DC PCS,1121,KIPP DC - Promise Academy PCS,51.45%,,Y,53.17%,519,267
-dc,129,KIPP DC PCS,237,KIPP DC - Quest Academy PCS,52.83%,,Y,53.17%,407,215
-dc,129,KIPP DC PCS,214,KIPP DC - Spring Academy PCS,48.18%,,Y,53.17%,413,199
-dc,129,KIPP DC PCS,243,KIPP DC - Valor Academy PCS,50.60%,,Y,53.17%,334,169
-dc,129,KIPP DC PCS,121,KIPP DC - WILL Academy PCS,40.84%,,Y,53.17%,333,136
+dc,129,Kipp Academy PCS,-4,Honor Academy,,,Y,67.89%,,
+dc,129,Kipp Academy PCS,-5,Somerset College Prep,,,Y,67.89%,,
+dc,129,Kipp Academy PCS,116,KIPP DC - AIM Academy PCS,51.03%,,Y,53.17%,390,199
+dc,129,Kipp Academy PCS,236,KIPP DC - Arts and Technology Academy PCS,52.34%,,Y,53.17%,342,179
+dc,129,Kipp Academy PCS,1123,KIPP DC - College Preparatory Academy PCS,39.50%,,Y,53.17%,795,314
+dc,129,Kipp Academy PCS,209,KIPP DC - Connect Academy PCS,45.06%,,Y,53.17%,324,146
+dc,129,Kipp Academy PCS,1122,KIPP DC - Discover Academy PCS,60.28%,,Y,53.17%,355,214
+dc,129,Kipp Academy PCS,1129,KIPP DC - Grow Academy PCS,43.79%,,Y,53.17%,322,141
+dc,129,Kipp Academy PCS,3071,KIPP DC - Heights Academy PCS,57.76%,,Y,53.17%,464,268
+dc,129,Kipp Academy PCS,189,KIPP DC - KEY Academy PCS,40.65%,,Y,53.17%,337,137
+dc,129,Kipp Academy PCS,190,KIPP DC - Lead Academy PCS,43.10%,,Y,53.17%,406,175
+dc,129,Kipp Academy PCS,132,KIPP DC - LEAP Academy PCS,52.28%,,Y,53.17%,197,103
+dc,129,Kipp Academy PCS,242,KIPP DC - Northeast Academy PCS,43.03%,,Y,53.17%,323,139
+dc,129,Kipp Academy PCS,1121,KIPP DC - Promise Academy PCS,51.45%,,Y,53.17%,519,267
+dc,129,Kipp Academy PCS,237,KIPP DC - Quest Academy PCS,52.83%,,Y,53.17%,407,215
+dc,129,Kipp Academy PCS,214,KIPP DC - Spring Academy PCS,48.18%,,Y,53.17%,413,199
+dc,129,Kipp Academy PCS,243,KIPP DC - Valor Academy PCS,50.60%,,Y,53.17%,334,169
+dc,129,Kipp Academy PCS,121,KIPP DC - WILL Academy PCS,40.84%,,Y,53.17%,333,136
 dc,172,LAYC,104,LAYC Career Academcy PCS,37.25%,,Y,37.25%,99,37
 dc,132,Mary McLeod Bethune Day Academy PCS,135,Mary McLeod Bethune Day Academy PCS,44.31%,,Y,60.83%,411,182
 dc,133,Maya Angelou PCS,101,Maya Angelou PCS - High School,75.91%,,Y,75.91%,219,166

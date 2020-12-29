@@ -21,7 +21,7 @@ ak,501,Anchorage School District,50140,Gruening Middle School,7.27%,,N,,,
 ak,501,Anchorage School District,50150,Chugiack Elementary,12.27%,,N,,,
 ak,501,Anchorage School District,50160,Chugiack High School,10.98%,,N,,,
 ak,501,Anchorage School District,50170,College Gate Elementary,34.44%,,Y,46.61%,357,123
-ak,501,Anchorage School District,50170,Creekside Park Elementary,47.62%,,Y,46.61%,497,237
+ak,501,Anchorage School District,50170-0,Creekside Park Elementary,47.62%,,Y,46.61%,497,237
 ak,501,Anchorage School District,50190,Denali Montessori Elementary,33.41%,,N,,428,143
 ak,501,Anchorage School District,50200,Dimond High School,16.38%,,N,,,
 ak,501,Anchorage School District,50210,Eagle River Elementary,19.95%,,N,,,
@@ -137,7 +137,7 @@ ak,1401,Delta-Greely School District,140030,Delta Senior High School,28.24%,,N,,
 ak,1401,Delta-Greely School District,140090,Gerstle River School,100.00%,,N,,29,29
 ak,1401,Delta-Greely School District,140100,Delta Junior High School,24.11%,,N,,,
 ak,1501,Dillingham City School District,150020,Dillingham Elementary,59.60%,,Y,67.79%,242,144
-ak,1501,Dillingham City School District,150020,Dillingham Middle/High School,58.79%,,Y,67.79%,230,135
+ak,1501,Dillingham City School District,150020-0,Dillingham Middle/High School,58.79%,,Y,67.79%,230,135
 ak,1601,Fairbanks Northstar Borough School District,160010,Pearl Creek Elementary,13.99%,,N,,,
 ak,1601,Fairbanks Northstar Borough School District,160020,Barnette Magnet School,16.35%,,N,,,
 ak,1601,Fairbanks Northstar Borough School District,160050,Denali Elementary,31.91%,,N,,329,105
@@ -284,7 +284,7 @@ ak,3001,Lake and Peninsula Borough School District,300090,Newhalen School,80.72%
 ak,3001,Lake and Peninsula Borough School District,300100,Nondalton School,66.66%,,Y,59.35%,26,17
 ak,3001,Lake and Peninsula Borough School District,300110,Tanalian School,16.66%,,Y,59.35%,63,10
 ak,3001,Lake and Peninsula Borough School District,300120,Perryville School ,43.33%,,Y,59.35%,26,11
-ak,3001,Lake and Peninsula Borough School District,300120,Pilot Point School,33.33%,,Y,59.35%,13,4
+ak,3001,Lake and Peninsula Borough School District,300120-0,Pilot Point School,33.33%,,Y,59.35%,13,4
 ak,3001,Lake and Peninsula Borough School District,300140,Meshik School,68.18%,,Y,59.35%,28,19
 ak,3001,Lake and Peninsula Borough School District,300220,Levelock School,68.00%,,Y,59.35%,22,15
 ak,3101,Lower Kuskokwim School District,310030,Joann A. Alexie Memorial School,81.65%,,Y,68.13%,109,89
@@ -395,7 +395,7 @@ ak,3701,Northwest Arctic Borough School District,370090,Napaaqtugmiut School,63.
 ak,3701,Northwest Arctic Borough School District,370100,Aqqaluk High/Noorvik Elementary,75.12%,,Y,66.35%,201,151
 ak,3701,Northwest Arctic Borough School District,370110,Shungnak School,55.22%,,Y,66.35%,67,37
 ak,3701,Northwest Arctic Borough School District,370150,Kotzebue Middle/High School,60.86%,,Y,66.35%,322,196
-ak,3701,Northwest Arctic Borough School District,370210,Davis-Ramoth School,78.98%,,Y,66.35%,357,282
+ak,3701,Northwest Arctic Borough School District,370210-0,Davis-Ramoth School,78.98%,,Y,66.35%,357,282
 ak,3901,Petersburg City School District,390010,Rea C. Stedman Elementary,28.82%,,N,,,
 ak,3901,Petersburg City School District,390020,Petersburg High School,41.22%,,N,,131,54
 ak,3901,Petersburg City School District,390030,Mitkof Middle School,32.03%,,N,,103,33

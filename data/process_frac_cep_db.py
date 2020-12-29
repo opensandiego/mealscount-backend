@@ -1,4 +1,4 @@
-import csv,argparse,us.states,os,os.path
+import csv,argparse,us.states,os,os.path,re
 
 COL_MAP = [
     "state",
@@ -59,7 +59,26 @@ def write_schools(rows):
         with open(os.path.join(state,"latest.csv"),'w') as csv_out:
             latest = csv.DictWriter(csv_out,fieldnames=rows[0].keys())
             latest.writeheader()
+            school_codes = {} # We need to ensure this is unique!
+            district_codes = {}
             for school in states[state]:
+                if school['School Code'] in school_codes:
+                    i = school_codes[school['School Code']]
+                    school_codes[school['School Code']] = i + 1
+                    school['School Code'] = '%s-%i' % (school['School Code'],i)
+                else:
+                    school_codes.setdefault(school['School Code'],0)
+
+                # Also we have to ensure all district names / code pairs are unique
+                # (there are duplicate codes for different names in the source file from frac)
+                if school['District Code'].strip() == '':
+                    school['District Code'] = re.sub(r'[^a-z0-9_\-]+','-',school['District Name'].lower())
+                if school['District Code'] in district_codes and \
+                   school['District Name'] !=  district_codes[school['District Code']]:
+                    school['District Name'] = district_codes[school['District Code']]
+                else:
+                    district_codes.setdefault(school['District Code'], school['District Name'])
+
                 latest.writerow(school)
 
     # TODO

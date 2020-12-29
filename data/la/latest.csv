@@ -28,7 +28,7 @@ la,001,Acadia Parish School Board,001025,South Rayne Elementary School,82.40%,,Y
 la,F21,Advocates for Science & Mathematics Ed Inc,3AP003,Celerity Dalton Charter School,75.32%,,Y,72.65%,323,243
 la,F21,Advocates for Science & Mathematics Ed Inc,3AP001,Celerity Lanier Charter School,84.08%,,Y,72.65%,278,234
 la,F21,Advocates for Science & Mathematics Ed Inc,F21003,New Orleans Charter Science and Mathematics HS,41.39%,,Y,72.65%,485,201
-la,,Advocates for Science & Mathematics Ed Inc,,Redesign Schools Louisiana,,,Y,77.40%,208,
+la,advocates-for-science-mathematics-ed-inc,Advocates for Science & Mathematics Ed Inc,,Redesign Schools Louisiana,,,Y,77.40%,208,
 la,F02,"Algiers Charter School Association, Inc.",395005,Lord Beaconsfield Landry-Oliver Perry Walker High,73.30%,,Y,69.55%,995,729
 la,F02,"Algiers Charter School Association, Inc.",395001,Martin Behrman Elementary School,70.69%,,Y,69.55%,739,522
 la,002,Allen Parish School Board,002001,Elizabeth High School,29.13%,,N,,,
@@ -43,7 +43,7 @@ la,002,Allen Parish School Board,002008,Oberlin Elementary School,54.52%,,Y,62.0
 la,002,Allen Parish School Board,002009,Oberlin High School,45.27%,,N,,259,117
 la,002,Allen Parish School Board,002010,Reeves High School,29.73%,,N,,,
 la,373,Arise Academy,373001,Arise Academy,85.89%,,Y,72.56%,503,432
-la,,Arise Academy,,Homer A. Plessy Community School,,,Y,72.56%,377,
+la,arise-academy,Arise Academy,-0,Homer A. Plessy Community School,,,Y,72.56%,377,
 la,373,Arise Academy,373002,Mildred Osborne Charter School,76.15%,,Y,72.56%,501,382
 la,003,Ascension Parish School Board,003022,Ascension Head Start,100.00%,,Y,62.67%,113,113
 la,003,Ascension Parish School Board,003026,Central Middle School,26.23%,,N,,,
@@ -83,7 +83,7 @@ la,004,Assumption Parish School Board,004007,Napoleonville Middle School,51.67%,
 la,004,Assumption Parish School Board,004008,Napoleonville Primary School,57.57%,,Y,59.01%,469,270
 la,004,Assumption Parish School Board,004009,Pierre Part Middle School,31.62%,,Y,59.01%,253,80
 la,004,Assumption Parish School Board,004010,Pierre Part Primary School,36.72%,,N,,354,130
-la,,Athlos Academy of Jefferson,,Athlos Academy of Jefferson,,,Y,57.50%,967,
+la,athlos-academy-of-jefferson,Athlos Academy of Jefferson,-1,Athlos Academy of Jefferson,,,Y,57.50%,967,
 la,005,Avoyelles Parish School Board,005018,Avoyelles High School,53.65%,,Y,63.53%,613,329
 la,005,Avoyelles Parish School Board,005003,Bunkie Elementary School,79.63%,,Y,63.53%,330,263
 la,005,Avoyelles Parish School Board,005004,Bunkie High School,54.84%,,Y,63.53%,554,304
@@ -133,7 +133,7 @@ la,008,Bossier Parish School Board,008014,Curtis Elementary School,28.54%,,N,,,
 la,008,Bossier Parish School Board,008044,Elm Grove Elementary School,43.39%,,Y,56.54%,382,166
 la,008,Bossier Parish School Board,008015,Elm Grove Middle School,26.45%,,N,,,
 la,008,Bossier Parish School Board,008016,Greenacres Middle School,44.15%,,Y,56.54%,757,334
-la,,Bossier Parish School Board,,Haughton Elementary,,,Y,56.54%,574,
+la,bossier-parish-school-board,Bossier Parish School Board,-2,Haughton Elementary,,,Y,56.54%,574,
 la,008,Bossier Parish School Board,008017,Haughton High School,22.46%,,N,,,
 la,008,Bossier Parish School Board,008025,Haughton Middle School,30.95%,,N,,953,295
 la,008,Bossier Parish School Board,008045,Kingston Elementary School,13.96%,,N,,,
@@ -304,7 +304,7 @@ la,014,Claiborne Parish School Board,014011,Summerfield High School,43.02%,,Y,63
 la,382,Collegiate Academies,WJ5001,Collegiate Baton Rouge,57.72%,,Y,70.64%,260,150
 la,382,Collegiate Academies,382002,G.W. Carver Collegiate Academy,64.48%,,Y,70.64%,762,491
 la,382,Collegiate Academies,382004,Livingston Collegiate,69.61%,,Y,70.64%,480,334
-la,,Collegiate Academies,,Opportunites Academy,,,Y,70.64%,50,
+la,collegiate-academies,Collegiate Academies,-3,Opportunites Academy,,,Y,70.64%,50,
 la,382,Collegiate Academies,WBU001,Rosenwald Collegiate Academy,43.11%,,Y,70.64%,169,73
 la,382,Collegiate Academies,382001,Sci Academy,61.73%,,Y,70.64%,585,361
 la,364,Community Leaders Advocating Student Success,364001,Fannie C Williams Charter School,73.81%,,Y,80.56%,571,421
@@ -330,7 +330,7 @@ la,016,DeSoto Parish School Board,016014,North DeSoto Elementary School PK-2,35.
 la,016,DeSoto Parish School Board,016012,North DeSoto High School,27.80%,,Y,47.94%,651,181
 la,016,DeSoto Parish School Board,016017,North DeSoto Middle School 6-8,35.70%,,Y,48.73%,563,201
 la,016,DeSoto Parish School Board,016010,Stanley High School,37.53%,,Y,48.73%,413,155
-la,,East Baton Rouge Parish School System,,Advantage Charter Academy,,,Y,74.03%,593,
+la,east-baton-rouge-parish-school-system,East Baton Rouge Parish School System,-4,Advantage Charter Academy,,,Y,74.03%,593,
 la,017,East Baton Rouge Parish School System,017001,Arlington Preparatory Academy,66.67%,,Y,76.50%,84,56
 la,017,East Baton Rouge Parish School System,017002,Audubon Elementary School,82.06%,,Y,76.50%,574,471
 la,017,East Baton Rouge Parish School System,017084,B. R. Foreign Language Acad. Immersion Magnet,45.89%,,Y,76.50%,231,106
@@ -419,9 +419,9 @@ la,F22,Einstein Charter School,F22003,Einstein Charter High School @ Sarah Towle
 la,F22,Einstein Charter School,F22004,Einstein Charter Middle at Sarah Towles Reed,54.75%,,Y,75.02%,394,216
 la,F22,Einstein Charter School,F22001,Einstein Charter School at Sherwood Forest,70.66%,,Y,75.02%,504,356
 la,F22,Einstein Charter School,F22002,Einstein Charter School at Village D'Lest,63.66%,,Y,75.02%,464,295
-la,,"Elan Academy, Inc.",,"Elan Academy, Inc.",,,Y,41.73%,139,
+la,elan-academy-inc-,"Elan Academy, Inc.",-5,"Elan Academy, Inc.",,,Y,41.73%,139,
 la,F27,Encore Academy,F27001,Encore Academy,69.66%,,Y,71.57%,605,421
-la,,Evangelical Lutheran Church in America,,Concordia Lutheran School,,,Y,56.94%,72,
+la,evangelical-lutheran-church-in-america,Evangelical Lutheran Church in America,-6,Concordia Lutheran School,,,Y,56.94%,72,
 la,020,Evangeline Parish School Board,020001,Basile High School,44.17%,,Y,59.58%,446,197
 la,020,Evangeline Parish School Board,020002,Bayou Chicot Elementary School,48.10%,,Y,59.58%,765,368
 la,020,Evangeline Parish School Board,020004,Chataignier Elementary School,65.00%,,Y,59.58%,340,221
@@ -468,7 +468,7 @@ la,F09,Helix Network Of Educational Choices,F09001,Mentorship Academy of Digital
 la,702,Hosanna Christian Academy,702001,Hosanna Christian Academy (AG),65.42%,,Y,65.42%,506,331
 la,023,Iberia Parish School Board,023900,Alternative Center for Education,89.55%,,Y,68.87%,67,60
 la,023,Iberia Parish School Board,023001,Anderson Middle School,87.11%,,Y,68.87%,380,331
-la,,Iberia Parish School Board,,Belle Place Elementary School,,,Y,68.87%,,
+la,iberia-parish-school-board,Iberia Parish School Board,-7,Belle Place Elementary School,,,Y,68.87%,,
 la,023,Iberia Parish School Board,023036,Belle Place Middle School,57.79%,,Y,68.87%,398,230
 la,023,Iberia Parish School Board,023072,Caneview Elementary School,64.66%,,Y,68.87%,532,344
 la,023,Iberia Parish School Board,023005,Center Street Elementary School,73.97%,,Y,68.87%,438,324
@@ -497,14 +497,14 @@ la,024,Iberville Parish School Board,024022,Iberville Elementary School,74.51%,,
 la,024,Iberville Parish School Board,024023,North Iberville Elementary/High School,75.64%,,Y,68.17%,275,208
 la,024,Iberville Parish School Board,024010,Plaquemine Senior High School,58.72%,,Y,68.17%,1410,828
 la,024,Iberville Parish School Board,024017,White Castle High School,67.56%,,Y,68.17%,299,202
-la,,IDEA Public Schools,,IDEA Bridge,,,Y,58.78%,494,
-la,,IDEA Public Schools,,IDEA Innovation,,,Y,58.78%,309,
-la,W1B,"Inspire Charter Academy, Inc.",W2B001,Willow Charter Academy,80.60%,,Y,84.78%,565,455
+la,idea-public-schools,IDEA Public Schools,-8,IDEA Bridge,,,Y,58.78%,494,
+la,idea-public-schools,IDEA Public Schools,-9,IDEA Innovation,,,Y,58.78%,309,
+la,W1B,East Baton Rouge Parish School System,W2B001,Willow Charter Academy,80.60%,,Y,84.78%,565,455
 la,F25,Inspire NOLA Charter Schools,WBC001,Alice Harte Elementary Charter School (F25),48.15%,,Y,64.76%,780,376
 la,F25,Inspire NOLA Charter Schools,WBV001,Dwight D. Eisenhower (WBV),66.82%,,Y,64.76%,705,471
 la,F25,Inspire NOLA Charter Schools,F25002,Edna Karr Secondary School (F25),49.95%,,Y,64.76%,1073,536
 la,F25,Inspire NOLA Charter Schools,WBF001,Eleanor McMain Secondary School,56.88%,,Y,64.76%,836,476
-la,,Inspire NOLA Charter Schools,,McDonogh #35 Senior High School,,,Y,74.03%,439,
+la,inspire-nola-charter-schools,Inspire NOLA Charter Schools,-10,McDonogh #35 Senior High School,,,Y,74.03%,439,
 la,F25,Inspire NOLA Charter Schools,WBP001,McDonogh #42 Charter School,83.29%,,Y,64.76%,450,375
 la,F25,Inspire NOLA Charter Schools,F25003,Wilson Charter School (F25),65.59%,,Y,64.76%,705,462
 la,397,Institute for Academic Excellence,397001,Sophie B. Wright Inst. of Academic Excellence,62.85%,,Y,64.47%,515,324
@@ -529,7 +529,7 @@ la,027,Jefferson Davis Parish School Board,027015,Welsh-Roanoke Junior High Scho
 la,026,Jefferson Parish Schools,026003,A.C. Alexander Elementary School,55.47%,,Y,56.25%,622,345
 la,026,Jefferson Parish Schools,026122,Airline Park Academy for Advanced Studies,7.20%,,Y,56.25%,375,27
 la,026,Jefferson Parish Schools,026008,Alice M. Birney Elementary School,53.35%,,Y,56.25%,671,358
-la,026,Jefferson Parish Schools,,Allen Ellender School,,,N,,,
+la,026,Jefferson Parish Schools,-11,Allen Ellender School,,,N,,,
 la,026,Jefferson Parish Schools,026009,Bissonet Plaza Elementary School,45.94%,,Y,56.25%,677,311
 la,026,Jefferson Parish Schools,026026,Bonella A. St. Ville Elementary School,74.77%,,Y,56.25%,440,329
 la,026,Jefferson Parish Schools,026010,Bonnabel Magnet Academy High School,43.27%,,N,,1285,556
@@ -964,7 +964,7 @@ la,042,Richland Parish School Board,042012,Start Elementary School,67.24%,,Y,67.
 la,W31,RSD-Friends of King,W31001,Dr. Martin Luther King Charter School for Sci/Tech,62.28%,,Y,67.21%,1026,639
 la,W31,RSD-Friends of King,W32001,Joseph A. Craig Charter School,63.78%,,Y,67.21%,377,240
 la,368,RSD-Morris Jeff Community School,368001,Morris Jeff Community School,32.24%,,N,,887,286
-la,385,RSD-New Orleans College Preparatory Academies,385001,Sylvanie Williams College Prep--,0.00%,,N,,,
+la,385,New Orleans College Preparatory Academies,385001,Sylvanie Williams College Prep--,0.00%,,N,,,
 la,374,RSD-Success Preparatory Academy,036188,Bricolage Academy,1.36%,,N,,,
 la,043,Sabine Parish School Board,043001,Converse High School,44.93%,,Y,55.21%,542,244
 la,043,Sabine Parish School Board,043002,Ebarb School,52.24%,,Y,55.21%,288,150
@@ -976,85 +976,85 @@ la,043,Sabine Parish School Board,043008,Negreet High School,42.57%,,Y,55.21%,51
 la,043,Sabine Parish School Board,043010,Pleasant Hill High School,57.38%,,Y,55.21%,316,181
 la,043,Sabine Parish School Board,043011,Zwolle Elementary School,77.50%,,Y,55.21%,498,386
 la,043,Sabine Parish School Board,043012,Zwolle High School,49.10%,,Y,55.21%,320,157
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",506025,Academy of Our Lady (Girls) (C),7.96%,,N,,,
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",506051,Academy of the Sacred Heart (Girls) (C),1.69%,,N,,,
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",506002,Annunciation School (C),13.22%,,N,,,
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",506004,Archbishop Chapelle High School (Girls) (C),4.05%,,N,,,
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",506134,Archbishop Hannan High School (C),0.33%,,N,,,
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",506006,Archbishop Shaw Sr. High School (C),8.28%,,N,,,
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",506010,Cabrini High School (Girls) (C),5.93%,,N,,,
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",506012,Christ the King School (C),13.30%,,N,,,
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",506013,Christian Brothers School (Boys) (C),1.48%,,N,,,
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",556001,Concordia Lutheran School,26.37%,,N,,,
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",561001,Faith Lutheran School,26.88%,,N,,,
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",503002,Holy Cross Elementary School (C),12.90%,,N,,,
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",506014,Holy Rosary Academy (C),24.60%,,N,,,
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",503003,Holy Rosary School (C),11.43%,,N,,,
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",503004,Holy Savior School (C),9.87%,,N,,,
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",506026,Immaculate Conception School (C),10.82%,,N,,,
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",506029,Jesuit Senior High School (Boys) (C),2.60%,,N,,,
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",503005,Maria Immacolata School,26.01%,,N,,,
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",506154,"Mary, Queen of Peace Catholic School (C)",0.45%,,N,,,
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",334001,New Orleans Center for Creative Arts,2.56%,,N,,,
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",506036,Our Lady of Divine Providence School (C),27.75%,,N,,,
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",506039,Our Lady of Lourdes School (C),5.31%,,N,,,
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",506041,Our Lady of Perpetual Help School (C),71.23%,,Y,65.08%,206,147
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",506042,Our Lady of Perpetual Help School (C),5.98%,,N,,,
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",506044,Our Lady of Prompt Succor School (C),60.20%,,Y,65.08%,397,239
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",506043,Our Lady of Prompt Succor School (C),13.33%,,N,,,
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",506034,Our Lady of the Lake School (C),2.04%,,N,,,
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",506046,Pope John Paul II High School (C),4.98%,,N,,,
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",506048,Resurrection of Our Lord School (C),65.66%,,Y,65.08%,471,309
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",506049,Sacred Heart of Jesus School (C),28.71%,,N,,,
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",506055,St. Alphonsus School (C),74.14%,,Y,65.08%,231,171
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",506056,St. Andrew the Apostle School,7.54%,,N,,,
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",506057,St. Angela Merici School (C),5.45%,,N,,,
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",506058,St. Ann School (C),3.51%,,N,,,
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",506059,St. Anthony School (C),61.65%,,Y,65.08%,253,156
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",506061,St. Augustine Senior High School (C),33.80%,,N,,577,195
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",506159,St. Benedict the Moor,73.75%,,Y,65.08%,68,50
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",506062,St. Benilde School (C),6.09%,,N,,,
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",503007,St. Bernadette School (C),1.80%,,N,,,
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",506063,St. Catherine of Siena School (C),1.14%,,N,,,
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",506065,St. Charles Borromeo School (C),2.07%,,N,,,
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",506066,St. Charles Catholic High School (C),8.33%,,N,,,
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",506067,St. Christopher School (C),6.87%,,N,,,
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",506068,St. Clement of Rome School (C),3.46%,,N,,,
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",506069,St. Cletus School (C),10.56%,,N,,,
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",506071,St. Dominic School (C),2.16%,,N,,,
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",506072,St. Edward the Confessor School (C),6.11%,,N,,,
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",503008,St. Francis de Sales School (C),5.37%,,N,,,
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",506075,St. Francis Xavier School (C),4.33%,,N,,,
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",503009,St. Genevieve School (C),2.16%,,N,,,
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",503010,St. Gregory School (C),22.30%,,N,,,
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",506079,St. Joan of Arc School (C),62.50%,,Y,65.08%,185,116
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",506080,St. Joan of Arc School (C),14.78%,,N,,,
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",626001,St. John Lutheran School,42.17%,,N,,166,70
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",503012,St. Joseph Elementary School (C),3.71%,,N,,,
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",506122,St. Katharine Drexel Preparatory School (C),36.36%,,Y,65.08%,170,62
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",506087,St. Leo the Great School (C),75.00%,,Y,65.08%,277,208
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",506091,St. Margaret Mary School (C),6.02%,,N,,,
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",506094,St. Mary Magdalen School (C),12.95%,,N,,,
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",506095,St. Mary's Academy (Girls) (C),50.58%,,Y,65.08%,592,299
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",503013,St. Mary's School (C),9.45%,,N,,,
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",506097,St. Matthew the Apostle School (C),3.13%,,N,,,
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",506101,St. Paul's Senior High School (Boys) (C),0.78%,,N,,,
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",506104,St. Peter School (C),39.46%,,Y,65.08%,142,56
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",506103,St. Peter School (C),2.03%,,N,,,
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",506107,St. Philip Neri School (C),4.62%,,N,,,
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",506108,St. Pius X School (C),1.12%,,N,,,
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",506111,St. Rita School (C),54.38%,,Y,65.08%,215,117
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",506112,St. Rita School (C),2.93%,,N,,,
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",506114,St. Rosalie School (C),9.70%,,N,,,
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",506138,St. Scholastica Academy,1.45%,,N,,,
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",506116,St. Stephen School (C),54.82%,,Y,65.08%,198,109
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",503014,Vandebilt Catholic High School (C),2.61%,,N,,,
-la,506,"School Food and Nutrition Services of New Orleans, Inc.",506121,Visitation of Our Lady School (C),9.63%,,N,,,
+la,506,Good Shepherd Nativity Mission School,506025,Academy of Our Lady (Girls) (C),7.96%,,N,,,
+la,506,Good Shepherd Nativity Mission School,506051,Academy of the Sacred Heart (Girls) (C),1.69%,,N,,,
+la,506,Good Shepherd Nativity Mission School,506002,Annunciation School (C),13.22%,,N,,,
+la,506,Good Shepherd Nativity Mission School,506004,Archbishop Chapelle High School (Girls) (C),4.05%,,N,,,
+la,506,Good Shepherd Nativity Mission School,506134,Archbishop Hannan High School (C),0.33%,,N,,,
+la,506,Good Shepherd Nativity Mission School,506006,Archbishop Shaw Sr. High School (C),8.28%,,N,,,
+la,506,Good Shepherd Nativity Mission School,506010,Cabrini High School (Girls) (C),5.93%,,N,,,
+la,506,Good Shepherd Nativity Mission School,506012,Christ the King School (C),13.30%,,N,,,
+la,506,Good Shepherd Nativity Mission School,506013,Christian Brothers School (Boys) (C),1.48%,,N,,,
+la,506,Good Shepherd Nativity Mission School,556001,Concordia Lutheran School,26.37%,,N,,,
+la,506,Good Shepherd Nativity Mission School,561001,Faith Lutheran School,26.88%,,N,,,
+la,506,Good Shepherd Nativity Mission School,503002,Holy Cross Elementary School (C),12.90%,,N,,,
+la,506,Good Shepherd Nativity Mission School,506014,Holy Rosary Academy (C),24.60%,,N,,,
+la,506,Good Shepherd Nativity Mission School,503003,Holy Rosary School (C),11.43%,,N,,,
+la,506,Good Shepherd Nativity Mission School,503004,Holy Savior School (C),9.87%,,N,,,
+la,506,Good Shepherd Nativity Mission School,506026,Immaculate Conception School (C),10.82%,,N,,,
+la,506,Good Shepherd Nativity Mission School,506029,Jesuit Senior High School (Boys) (C),2.60%,,N,,,
+la,506,Good Shepherd Nativity Mission School,503005,Maria Immacolata School,26.01%,,N,,,
+la,506,Good Shepherd Nativity Mission School,506154,"Mary, Queen of Peace Catholic School (C)",0.45%,,N,,,
+la,506,Good Shepherd Nativity Mission School,334001,New Orleans Center for Creative Arts,2.56%,,N,,,
+la,506,Good Shepherd Nativity Mission School,506036,Our Lady of Divine Providence School (C),27.75%,,N,,,
+la,506,Good Shepherd Nativity Mission School,506039,Our Lady of Lourdes School (C),5.31%,,N,,,
+la,506,Good Shepherd Nativity Mission School,506041,Our Lady of Perpetual Help School (C),71.23%,,Y,65.08%,206,147
+la,506,Good Shepherd Nativity Mission School,506042,Our Lady of Perpetual Help School (C),5.98%,,N,,,
+la,506,Good Shepherd Nativity Mission School,506044,Our Lady of Prompt Succor School (C),60.20%,,Y,65.08%,397,239
+la,506,Good Shepherd Nativity Mission School,506043,Our Lady of Prompt Succor School (C),13.33%,,N,,,
+la,506,Good Shepherd Nativity Mission School,506034,Our Lady of the Lake School (C),2.04%,,N,,,
+la,506,Good Shepherd Nativity Mission School,506046,Pope John Paul II High School (C),4.98%,,N,,,
+la,506,Good Shepherd Nativity Mission School,506048,Resurrection of Our Lord School (C),65.66%,,Y,65.08%,471,309
+la,506,Good Shepherd Nativity Mission School,506049,Sacred Heart of Jesus School (C),28.71%,,N,,,
+la,506,Good Shepherd Nativity Mission School,506055,St. Alphonsus School (C),74.14%,,Y,65.08%,231,171
+la,506,Good Shepherd Nativity Mission School,506056,St. Andrew the Apostle School,7.54%,,N,,,
+la,506,Good Shepherd Nativity Mission School,506057,St. Angela Merici School (C),5.45%,,N,,,
+la,506,Good Shepherd Nativity Mission School,506058,St. Ann School (C),3.51%,,N,,,
+la,506,Good Shepherd Nativity Mission School,506059,St. Anthony School (C),61.65%,,Y,65.08%,253,156
+la,506,Good Shepherd Nativity Mission School,506061,St. Augustine Senior High School (C),33.80%,,N,,577,195
+la,506,Good Shepherd Nativity Mission School,506159,St. Benedict the Moor,73.75%,,Y,65.08%,68,50
+la,506,Good Shepherd Nativity Mission School,506062,St. Benilde School (C),6.09%,,N,,,
+la,506,Good Shepherd Nativity Mission School,503007,St. Bernadette School (C),1.80%,,N,,,
+la,506,Good Shepherd Nativity Mission School,506063,St. Catherine of Siena School (C),1.14%,,N,,,
+la,506,Good Shepherd Nativity Mission School,506065,St. Charles Borromeo School (C),2.07%,,N,,,
+la,506,Good Shepherd Nativity Mission School,506066,St. Charles Catholic High School (C),8.33%,,N,,,
+la,506,Good Shepherd Nativity Mission School,506067,St. Christopher School (C),6.87%,,N,,,
+la,506,Good Shepherd Nativity Mission School,506068,St. Clement of Rome School (C),3.46%,,N,,,
+la,506,Good Shepherd Nativity Mission School,506069,St. Cletus School (C),10.56%,,N,,,
+la,506,Good Shepherd Nativity Mission School,506071,St. Dominic School (C),2.16%,,N,,,
+la,506,Good Shepherd Nativity Mission School,506072,St. Edward the Confessor School (C),6.11%,,N,,,
+la,506,Good Shepherd Nativity Mission School,503008,St. Francis de Sales School (C),5.37%,,N,,,
+la,506,Good Shepherd Nativity Mission School,506075,St. Francis Xavier School (C),4.33%,,N,,,
+la,506,Good Shepherd Nativity Mission School,503009,St. Genevieve School (C),2.16%,,N,,,
+la,506,Good Shepherd Nativity Mission School,503010,St. Gregory School (C),22.30%,,N,,,
+la,506,Good Shepherd Nativity Mission School,506079,St. Joan of Arc School (C),62.50%,,Y,65.08%,185,116
+la,506,Good Shepherd Nativity Mission School,506080,St. Joan of Arc School (C),14.78%,,N,,,
+la,506,Good Shepherd Nativity Mission School,626001,St. John Lutheran School,42.17%,,N,,166,70
+la,506,Good Shepherd Nativity Mission School,503012,St. Joseph Elementary School (C),3.71%,,N,,,
+la,506,Good Shepherd Nativity Mission School,506122,St. Katharine Drexel Preparatory School (C),36.36%,,Y,65.08%,170,62
+la,506,Good Shepherd Nativity Mission School,506087,St. Leo the Great School (C),75.00%,,Y,65.08%,277,208
+la,506,Good Shepherd Nativity Mission School,506091,St. Margaret Mary School (C),6.02%,,N,,,
+la,506,Good Shepherd Nativity Mission School,506094,St. Mary Magdalen School (C),12.95%,,N,,,
+la,506,Good Shepherd Nativity Mission School,506095,St. Mary's Academy (Girls) (C),50.58%,,Y,65.08%,592,299
+la,506,Good Shepherd Nativity Mission School,503013,St. Mary's School (C),9.45%,,N,,,
+la,506,Good Shepherd Nativity Mission School,506097,St. Matthew the Apostle School (C),3.13%,,N,,,
+la,506,Good Shepherd Nativity Mission School,506101,St. Paul's Senior High School (Boys) (C),0.78%,,N,,,
+la,506,Good Shepherd Nativity Mission School,506104,St. Peter School (C),39.46%,,Y,65.08%,142,56
+la,506,Good Shepherd Nativity Mission School,506103,St. Peter School (C),2.03%,,N,,,
+la,506,Good Shepherd Nativity Mission School,506107,St. Philip Neri School (C),4.62%,,N,,,
+la,506,Good Shepherd Nativity Mission School,506108,St. Pius X School (C),1.12%,,N,,,
+la,506,Good Shepherd Nativity Mission School,506111,St. Rita School (C),54.38%,,Y,65.08%,215,117
+la,506,Good Shepherd Nativity Mission School,506112,St. Rita School (C),2.93%,,N,,,
+la,506,Good Shepherd Nativity Mission School,506114,St. Rosalie School (C),9.70%,,N,,,
+la,506,Good Shepherd Nativity Mission School,506138,St. Scholastica Academy,1.45%,,N,,,
+la,506,Good Shepherd Nativity Mission School,506116,St. Stephen School (C),54.82%,,Y,65.08%,198,109
+la,506,Good Shepherd Nativity Mission School,503014,Vandebilt Catholic High School (C),2.61%,,N,,,
+la,506,Good Shepherd Nativity Mission School,506121,Visitation of Our Lady School (C),9.63%,,N,,,
 la,F16,"School For A New Millennium, Inc.",017110,Children's Charter School,87.17%,,Y,81.18%,186,162
 la,F13,"Shreveport Charter Foundation, Inc. (Caddo Parish)",F13001,Magnolia School of Excellence,50.35%,,Y,50.35%,1130,569
 la,371,"Shreveport Charter School, Inc.",371001,Linwood Public Charter School,87.54%,,Y,83.26%,962,842
 la,500,Shreveport Diocese,500005,Jesus Good Shepherd School (C),2.03%,,N,,,
-la,,Shreveport Diocese,,McKinney Byrd Academy Inc.,,,Y,76.74%,23,
+la,shreveport-diocese,Shreveport Diocese,-12,McKinney Byrd Academy Inc.,,,Y,76.74%,23,
 la,500,Shreveport Diocese,500008,Our Lady of Fatima School (C),65.00%,,Y,76.74%,226,147
 la,500,Shreveport Diocese,706001,Prevailing Faith Christian Academy,82.93%,,Y,76.74%,82,68
 la,500,Shreveport Diocese,500020,St. Joseph School (C),4.32%,,N,,,
@@ -1236,7 +1236,7 @@ la,052,St Tammany Parish School System,052003,W.L. Abney Elementary School,48.74
 la,052,St Tammany Parish School System,052048,Whispering Forest Elementary School,30.30%,,N,,561,170
 la,052,St Tammany Parish School System,052032,William Pitcher Junior High School,35.35%,,N,,314,111
 la,052,St Tammany Parish School System,052045,Woodlake Elementary School,17.96%,,N,,,
-la,374,Success Preparatory Academy,374001,Success Preparatory Academy,77.45%,,Y,83.92%,429,332
+la,374,RSD-Success Preparatory Academy,374001,Success Preparatory Academy,77.45%,,Y,83.92%,429,332
 la,053,Tangipahoa Parish School Board,053001,Amite Elementary Magnet School,91.95%,,Y,71.42%,522,480
 la,053,Tangipahoa Parish School Board,053002,Amite High School,87.09%,,Y,71.42%,395,344
 la,053,Tangipahoa Parish School Board,053003,Champ Cooper Elementary School,53.21%,,Y,71.42%,624,332
@@ -1403,7 +1403,7 @@ la,060,Webster Parish School Board,060023,Webster Junior High School,55.74%,,Y,4
 la,061,West Baton Rouge Parish School Board,061011,Brusly Elementary School,49.56%,,Y,63.18%,682,338
 la,061,West Baton Rouge Parish School Board,061001,Brusly High School,20.41%,,N,,,
 la,061,West Baton Rouge Parish School Board,061002,Brusly Middle School,31.88%,,N,,480,153
-la,,West Baton Rouge Parish School Board,,Caneview K-8 School,,,Y,63.18%,459,
+la,west-baton-rouge-parish-school-board,West Baton Rouge Parish School Board,-13,Caneview K-8 School,,,Y,63.18%,459,
 la,061,West Baton Rouge Parish School Board,061004,Cohn Elementary School,85.78%,,Y,63.18%,211,181
 la,061,West Baton Rouge Parish School Board,061006,Lukeville Upper Elementary School,40.71%,,Y,63.18%,452,184
 la,061,West Baton Rouge Parish School Board,061007,Port Allen Elementary School,86.44%,,Y,63.18%,376,325

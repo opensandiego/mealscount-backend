@@ -8,18 +8,18 @@ in,5265,Alexandria Community School Corp,5041,Alexandria-Monroe High School,34.4
 in,5265,Alexandria Community School Corp,5065,Alexandria-Monroe Intermediate School,41.80%,,N,,445,186
 in,9065,Allegiant Preparatory Academy,1002,Allegiant Preparatory Academy,88.89%,,Y,80.56%,34,30
 in,9915,Alternatives in Education,5903,Marion Academy,63.46%,,N,,59,37
-in,,Ambassador Christian Academy,,Ambassador Christian Academy,,,Y,68.54%,,
-in,5275,Anderson Community School Corp,,Anderson Career Campus at District 26,,,Y,61.65%,135,
+in,ambassador-christian-academy,Ambassador Christian Academy,-0,Ambassador Christian Academy,,,Y,68.54%,,
+in,5275,Anderson Community School Corp,-1,Anderson Career Campus at District 26,,,Y,61.65%,135,
 in,5275,Anderson Community School Corp,5142,Anderson Elementary School,69.24%,,Y,61.65%,595,412
 in,5275,Anderson Community School Corp,4945,Anderson High School,53.85%,,Y,61.65%,1698,914
-in,5275,Anderson Community School Corp,,Anderson Intermediate,,,Y,61.64%,,
+in,5275,Anderson Community School Corp,-2,Anderson Intermediate,,,Y,61.64%,,
 in,5275,Anderson Community School Corp,4906,Compass,86.90%,,Y,61.65%,88,76
 in,5275,Anderson Community School Corp,5102,East Side Elementary School,75.92%,,Y,61.65%,516,392
 in,5275,Anderson Community School Corp,4953,Edgewood Elementary School,69.75%,,Y,61.65%,312,218
 in,5275,Anderson Community School Corp,5146,Erskine Elementary,68.92%,,Y,61.65%,626,431
 in,5275,Anderson Community School Corp,5076,Highland Junior High,63.97%,,Y,61.65%,1470,940
 in,5275,Anderson Community School Corp,C211,Holy Cross North Campus,81.75%,,Y,61.65%,137,112
-in,5275,Anderson Community School Corp,,Holy Cross South Campus,,,Y,61.65%,197,
+in,5275,Anderson Community School Corp,-3,Holy Cross South Campus,,,Y,61.65%,197,
 in,5275,Anderson Community School Corp,5023,Southview Elementary School,60.00%,,Y,61.65%,255,153
 in,5275,Anderson Community School Corp,4977,Tenth Street Elementary School,82.85%,,Y,61.65%,511,423
 in,5275,Anderson Community School Corp,5033,Valley Grove Elementary School,81.55%,,Y,61.65%,511,417
@@ -60,8 +60,8 @@ in,3695,Brownstown Central Community School Corporation,3107,Brownstown Central 
 in,3695,Brownstown Central Community School Corporation,3129,Brownstown Elementary School,33.48%,,N,,684,229
 in,9725,Canaan Community Academy,3312,Canaan Community Academy,42.86%,,Y,50.49%,114,49
 in,6340,Cannelton City Schools,6733,Cannelton Elem. & High School,55.48%,,Y,54.58%,169,94
-in,6340,Cannelton City Schools,,Myers Grade School,,,Y,54.58%,79,
-in,6340,Cannelton City Schools,,William Bennett Early Learning Center,,,Y,54.58%,36,
+in,6340,Cannelton City Schools,-4,Myers Grade School,,,Y,54.58%,79,
+in,6340,Cannelton City Schools,-5,William Bennett Early Learning Center,,,Y,54.58%,36,
 in,K206,Cardinal Ritter High School,C650,St Michael-St Gabriel the Archangels Elementary,39.30%,,N,,341,134
 in,K397,Career Academy,7562,Success Academy,55.71%,,Y,61.00%,629,350
 in,2650,Caston School Corporation,2157,Caston Elementary,36.51%,,N,,315,115
@@ -75,7 +75,7 @@ in,K121,Children & Family Services,B562,Southwest Indiana Regional Youth Village
 in,9380,Christel House Academy,5874,Christel House Academy South,58.97%,,Y,67.12%,649,383
 in,9380,Christel House Academy,5871,Christel House Academy West,64.64%,,Y,67.12%,367,237
 in,9150,Circle City Prep Charter School,1126,Circle City Prep Charter School,73.28%,,Y,63.95%,116,85
-in,,"City Baptist Schools, Hammond",,City Baptist School,,,Y,51.18%,215,
+in,city-baptist-schools-hammond,"City Baptist Schools, Hammond",-6,City Baptist School,,,Y,51.18%,215,
 in,4145,Clark-Pleasant Community Schools,3429,Break-O-Day Elementary School,35.37%,,N,,458,162
 in,4145,Clark-Pleasant Community Schools,3401,Clark Elementary School,31.93%,,N,,667,213
 in,4145,Clark-Pleasant Community Schools,3430,Pleasant Crossing Elementary School,33.24%,,N,,725,241
@@ -84,7 +84,7 @@ in,4145,Clark-Pleasant Community Schools,3425,Whiteland Elementary School,32.43%
 in,1000,Clarksville Community School Corp,845,Clarksville Elementary,51.89%,,Y,41.71%,556,289
 in,1000,Clarksville Community School Corp,833,Clarksville High School,58.88%,,Y,41.71%,301,177
 in,1000,Clarksville Community School Corp,851,Clarksville Middle School,48.35%,,Y,41.71%,390,189
-in,1000,Clarksville Community School Corp,,Renaissance Academy,,,Y,41.71%,147,
+in,1000,Clarksville Community School Corp,-7,Renaissance Academy,,,Y,41.71%,147,
 in,1125,Clay Community Schools,895,Clay City Elementary School,34.54%,,N,,359,124
 in,1125,Clay Community Schools,941,East Side Elementary School,53.73%,,Y,55.57%,249,134
 in,1125,Clay Community Schools,942,Forest Park Elementary School,58.97%,,Y,55.57%,296,175
@@ -135,7 +135,7 @@ in,755,Delphi Community School Corp,641,Delphi Community Elementary School,45.91
 in,9795,Dr. Robert H. Faulkner Academy,2411,Faulkner Academy,61.11%,,N,,90,55
 in,9950,Dugger Union Community School Corp,7952,Dugger Union Community School,55.42%,,Y,58.02%,439,243
 in,6470,Duneland School Corporation,6941,Yost Elementary School,32.55%,,N,,384,125
-in,255,East Allen County Schools,,East Allen Elementary ,,,Y,43.02%,125,
+in,255,East Allen County Schools,-8,East Allen Elementary ,,,Y,43.02%,125,
 in,255,East Allen County Schools,281,Heritage Elementary School,47.11%,,Y,58.66%,538,253
 in,255,East Allen County Schools,81,Heritage Jr.-Sr. High School,42.67%,,Y,43.02%,777,332
 in,255,East Allen County Schools,305,New Haven Intermediate School,48.41%,,Y,58.66%,429,208
@@ -183,12 +183,12 @@ in,K396,Eman Schools,B160,Eman Main Campus,38.64%,,N,,176,68
 in,5910,Eminence Community Schools,6327,Eminence Elementary School,35.95%,,N,,153,55
 in,K202,Emmaus Lutheran School,C680,Emmaus Lutheran School,86.36%,,N,,22,19
 in,9365,Enlace Academy,5667,Enlace Academy,62.82%,,N,,468,294
-in,7995,Evansville-Vanderburgh Schools,,Academy for Innovative Studies - Diamond,,,Y,63.76%,359,
+in,7995,Evansville-Vanderburgh Schools,-9,Academy for Innovative Studies - Diamond,,,Y,63.76%,359,
 in,7995,Evansville-Vanderburgh Schools,8237,Bosse High School,52.56%,,N,,763,401
 in,7995,Evansville-Vanderburgh Schools,8261,Caze Elementary School,70.20%,,Y,63.76%,479,336
 in,7995,Evansville-Vanderburgh Schools,8265,Cedar Hall Community School,76.34%,,Y,63.76%,549,419
 in,7995,Evansville-Vanderburgh Schools,8241,Central High School,32.01%,,N,,1109,355
-in,7995,Evansville-Vanderburgh Schools,,Culver Family Learning Center,,,Y,63.76%,187,
+in,7995,Evansville-Vanderburgh Schools,-10,Culver Family Learning Center,,,Y,63.76%,187,
 in,7995,Evansville-Vanderburgh Schools,8376,Daniel Wertz Elementary School,44.28%,,Y,63.76%,339,150
 in,7995,Evansville-Vanderburgh Schools,8285,Delaware Elementary School,72.71%,,Y,63.76%,443,322
 in,7995,Evansville-Vanderburgh Schools,8289,Dexter Elementary School,63.84%,,Y,63.76%,401,256
@@ -205,7 +205,7 @@ in,7995,Evansville-Vanderburgh Schools,8251,Lincoln Elementary School,68.00%,,Y,
 in,7995,Evansville-Vanderburgh Schools,8329,Lodge Elementary School,68.60%,,Y,63.76%,371,255
 in,7995,Evansville-Vanderburgh Schools,8339,McGary Middle School,62.03%,,Y,63.76%,312,194
 in,7995,Evansville-Vanderburgh Schools,8349,Plaza Park Middle School,37.03%,,N,,686,254
-in,7995,Evansville-Vanderburgh Schools,,R.A.M.P.,,,Y,63.76%,,
+in,7995,Evansville-Vanderburgh Schools,-11,R.A.M.P.,,,Y,63.76%,,
 in,7995,Evansville-Vanderburgh Schools,8321,Stockwell Elementary School,53.86%,,Y,63.76%,549,296
 in,7995,Evansville-Vanderburgh Schools,8357,Stringtown Elementary School,42.06%,,Y,63.76%,382,161
 in,7995,Evansville-Vanderburgh Schools,8361,Tekoppel Elementary School,52.94%,,Y,63.76%,477,253
@@ -222,14 +222,14 @@ in,2395,Fayette County School Corp,1917,Maplewood Elementary,69.55%,,Y,62.25%,39
 in,370,Flat Rock-Hawcreek School Corp,409,Hope Elementary,30.11%,,N,,465,140
 in,235,Fort Wayne Community Schools,137,Abbett Elementary,78.87%,,Y,54.18%,492,388
 in,235,Fort Wayne Community Schools,141,Adams Elementary,75.35%,,Y,54.18%,289,218
-in,235,Fort Wayne Community Schools,,Anthis Career Center,,,Y,50.96%,188,
+in,235,Fort Wayne Community Schools,-12,Anthis Career Center,,,Y,50.96%,188,
 in,235,Fort Wayne Community Schools,275,Arlington Elementary,38.69%,,Y,50.96%,464,180
 in,235,Fort Wayne Community Schools,107,Blackhawk Middle School,34.57%,,Y,54.18%,797,276
 in,235,Fort Wayne Community Schools,149,Bloomingdale Elementary,73.24%,,Y,54.18%,362,265
 in,235,Fort Wayne Community Schools,153,Brentwood Elementary,57.46%,,Y,50.96%,505,290
 in,235,Fort Wayne Community Schools,151,Bunche Early Childhood Center,32.17%,,Y,50.96%,231,74
-in,235,Fort Wayne Community Schools,,Center for Academic Success at Anthis,,,Y,54.18%,49,
-in,235,Fort Wayne Community Schools,,Center for Academic Success at Nebraska,,,Y,54.18%,134,
+in,235,Fort Wayne Community Schools,-13,Center for Academic Success at Anthis,,,Y,54.18%,49,
+in,235,Fort Wayne Community Schools,-14,Center for Academic Success at Nebraska,,,Y,54.18%,134,
 in,235,Fort Wayne Community Schools,154,Croninger Elementary,17.13%,,Y,50.96%,639,109
 in,235,Fort Wayne Community Schools,136,Fairfield Elementary,69.34%,,Y,54.18%,573,397
 in,235,Fort Wayne Community Schools,157,Forest Park Elementary,65.75%,,Y,54.18%,587,386
@@ -282,19 +282,19 @@ in,5310,Franklin Twp Comm School Corp,5203,Lillie Idella Kitley Elementary Schoo
 in,5245,Frankton-Lapel Community Schools,5009,Frankton Elementary School,34.30%,,N,,898,308
 in,7605,Fremont Community Schools,7881,Fremont Elementary School,31.68%,,N,,404,128
 in,1820,Garrett-Keyser-Butler Community School Corporation,1329,Ober Elementary School,47.35%,,N,,490,232
-in,4690,Gary Community School Corporation,,Bailly School,,,Y,66.13%,370,
+in,4690,Gary Community School Corporation,-15,Bailly School,,,Y,66.13%,370,
 in,4690,Gary Community School Corporation,4121,Banneker at Marquette,0.68%,,Y,66.13%,733,5
 in,4690,Gary Community School Corporation,4057,"Bethune, Mary Early CDC",99.38%,,Y,66.13%,339,337
 in,4690,Gary Community School Corporation,4061,Beveridge School,83.27%,,Y,66.13%,644,536
 in,4690,Gary Community School Corporation,4086,Frankie Woods-McCullough Academy for Girls,83.52%,,Y,66.13%,298,249
-in,4690,Gary Community School Corporation,,Gary Middle School,,,Y,66.13%,1000,
+in,4690,Gary Community School Corporation,-16,Gary Middle School,,,Y,66.13%,1000,
 in,4690,Gary Community School Corporation,4155,Glen Park Academy for Excellence in Learning,84.70%,,Y,66.13%,450,381
 in,4690,Gary Community School Corporation,4033,Roosevelt Career/Technical Academy,92.75%,,Y,66.13%,400,371
 in,4690,Gary Community School Corporation,4163,West Side Leadership/ Military Academy,72.16%,,Y,66.13%,550,397
 in,4690,Gary Community School Corporation,4169,Williams Elementary School,86.81%,,Y,66.13%,558,484
 in,9535,Gary Lighthouse Charter School,4130,GLCS-Primary,58.89%,,Y,62.68%,343,202
-in,9535,Gary Lighthouse Charter School,,Northwest Indiana College Prep Academy,,,Y,62.68%,498,
-in,9535,Gary Lighthouse Charter School,,Upper Academy,,,Y,62.68%,435,
+in,9535,Gary Lighthouse Charter School,-17,Northwest Indiana College Prep Academy,,,Y,62.68%,498,
+in,9535,Gary Lighthouse Charter School,-18,Upper Academy,,,Y,62.68%,435,
 in,K288,Gibault Inc,D725,Gibault School for Boys,68.18%,,N,,110,75
 in,9975,Global Preparatory Academy,1112,Global Preparatory Academy,62.42%,,Y,53.84%,439,274
 in,2315,Goshen Community Schools,1829,Chamberlain Elementary School,42.90%,,Y,46.96%,334,143
@@ -399,23 +399,23 @@ in,5385,Indianapolis Public Schools,5498,315 Cold Spring School,62.91%,,Y,62.74%
 in,5385,Indianapolis Public Schools,5668,327 Center for Inquiry III,35.90%,,Y,62.74%,517,186
 in,5385,Indianapolis Public Schools,5546,346 Daniel Webster School 46,68.83%,,Y,62.74%,439,302
 in,5385,Indianapolis Public Schools,5556,356 Frances W Parker School 56,66.76%,,Y,62.74%,358,239
-in,5385,Indianapolis Public Schools,,359 Merle Sidener Gifted Academy,,,Y,62.74%,368,
+in,5385,Indianapolis Public Schools,-19,359 Merle Sidener Gifted Academy,,,Y,62.74%,368,
 in,5385,Indianapolis Public Schools,5567,367 Stephen Collins Foster School 67,69.29%,,Y,62.74%,668,463
 in,5385,Indianapolis Public Schools,5538,370 Center for Inquiry IV,24.32%,,Y,62.74%,360,88
 in,5385,Indianapolis Public Schools,5659,384  Center for Inquiry at School 84,6.58%,,Y,62.74%,445,29
 in,5385,Indianapolis Public Schools,5591,391  Rousseau McClellan School 91,65.87%,,Y,62.74%,549,362
-in,5385,Indianapolis Public Schools,,498  New Horizons School,,,Y,62.74%,139,
+in,5385,Indianapolis Public Schools,-20,498  New Horizons School,,,Y,62.74%,139,
 in,5385,Indianapolis Public Schools,5601,501  H L Harshman School,71.11%,,Y,62.74%,524,373
 in,5385,Indianapolis Public Schools,5466,522 Arlington Middle School,77.63%,,Y,62.74%,459,356
 in,5385,Indianapolis Public Schools,5516,523 Northwest Middle School,59.80%,,Y,62.74%,594,355
-in,5385,Indianapolis Public Schools,,528 Longfellow Magnet Middle School 28,,,Y,62.74%,436,
-in,5385,Indianapolis Public Schools,,714 Shortridge School,,,Y,62.74%,1039,
+in,5385,Indianapolis Public Schools,-21,528 Longfellow Magnet Middle School 28,,,Y,62.74%,436,
+in,5385,Indianapolis Public Schools,-22,714 Shortridge School,,,Y,62.74%,1039,
 in,5385,Indianapolis Public Schools,5469,716 Arsenal Technical High School,0.58%,,Y,62.74%,2456,14
 in,5385,Indianapolis Public Schools,5474,718 Crispus Attucks HS,0.56%,,Y,62.47%,1074,6
 in,5385,Indianapolis Public Schools,5643,721  George Washington Community HS,0.53%,,Y,62.74%,735,4
-in,5385,Indianapolis Public Schools,,795 SYF Simon Youth Academy,,,Y,62.74%,40,
+in,5385,Indianapolis Public Schools,-23,795 SYF Simon Youth Academy,,,Y,62.74%,40,
 in,9735,Inspire Academy,1518,Inspire Academy,64.85%,,Y,63.08%,193,125
-in,,Invent Learning Hub,,Invent Learning Hub,,,Y,86.78%,,
+in,invent-learning-hub,Invent Learning Hub,-24,Invent Learning Hub,,,Y,86.78%,,
 in,6900,Jac-Cen-Del Community School Corp,7203,Jac-Cen-Del Elementary,31.97%,,N,,463,148
 in,3945,Jay County School Corporation,3287,East Elementary School,39.18%,,N,,416,163
 in,3945,Jay County School Corporation,3273,General Shanks Elem. School,39.26%,,N,,377,148
@@ -435,7 +435,7 @@ in,3785,Kankakee Valley School Corp,3184,DeMotte Elementary School,32.55%,,N,,68
 in,3785,Kankakee Valley School Corp,3197,Wheatfield Elementary School,36.05%,,N,,344,124
 in,9115,Kindezi Academy,1118,Kindezi Academy,78.19%,,Y,84.36%,319,249
 in,9400,KIPP Indy Public Schools,5860,KIPP Indy College Prep,75.74%,,Y,69.29%,257,195
-in,9400,KIPP Indy Public Schools,,KIPP Indy Legacy High,,,Y,69.29%,120,
+in,9400,KIPP Indy Public Schools,-25,KIPP Indy Legacy High,,,Y,69.29%,120,
 in,9400,KIPP Indy Public Schools,5741,KIPP Indy Unite,83.70%,,Y,75.00%,444,372
 in,7525,Knox Community School Corp,7845,Knox Community Elementary School,44.34%,,N,,715,317
 in,7525,Knox Community School Corp,7833,Knox High School,34.21%,,N,,573,196
@@ -444,7 +444,7 @@ in,3500,Kokomo School Corporation,2945,Bon Air Elementary School,81.93%,,Y,59.74
 in,3500,Kokomo School Corporation,2951,Bon Air Middle School,81.44%,,Y,59.74%,269,219
 in,3500,Kokomo School Corporation,2947,Boulevard Elementary School,45.70%,,Y,59.74%,376,172
 in,3500,Kokomo School Corporation,2955,Central Middle School,46.77%,,Y,59.74%,523,245
-in,3500,Kokomo School Corporation,,Darrough Chapel Head Start Center,,,Y,59.74%,285,
+in,3500,Kokomo School Corporation,-26,Darrough Chapel Head Start Center,,,Y,59.74%,285,
 in,3500,Kokomo School Corporation,2961,Elwood Haynes Elementary School,70.91%,,Y,59.74%,514,364
 in,3500,Kokomo School Corporation,3013,Kokomo High-South Campus School,45.28%,,N,,1599,724
 in,3500,Kokomo School Corporation,2969,Lafayette Park Elementary School,51.72%,,Y,59.74%,496,257
@@ -475,7 +475,7 @@ in,7855,Lafayette School Corporation,8077,Tecumseh Junior High School,45.77%,,N,
 in,7855,Lafayette School Corporation,8104,Thomas Miller Elementary School,83.83%,,N,,402,337
 in,7855,Lafayette School Corporation,8117,Vinton Elementary School,60.85%,,N,,493,300
 in,4650,Lake Ridge Schools,3869,Calumet High School,61.50%,,Y,65.69%,607,373
-in,4650,Lake Ridge Schools,,Education Center,,,Y,65.69%,134,
+in,4650,Lake Ridge Schools,-27,Education Center,,,Y,65.69%,134,
 in,4650,Lake Ridge Schools,3889,Hosford Park Elementary,71.10%,,N,,301,214
 in,4650,Lake Ridge Schools,3893,Lake Ridge Middle School,69.43%,,Y,65.69%,423,294
 in,4650,Lake Ridge Schools,3885,Longfellow Elementary School,66.81%,,Y,65.69%,462,309
@@ -489,7 +489,7 @@ in,1620,Lawrenceburg Community School Corp,1217,Central Elementary School,33.19%
 in,1620,Lawrenceburg Community School Corp,1210,Lawrenceburg Primary School,42.52%,,N,,428,182
 in,665,Lebanon Community School,565,Harney Elementary School,36.97%,,N,,541,200
 in,665,Lebanon Community School,569,Stokes Elementary School,54.05%,,N,,444,240
-in,,Legacy Learning Center,,Legacy Learning Center,,,Y,66.67%,,
+in,legacy-learning-center,Legacy Learning Center,-28,Legacy Learning Center,,,Y,66.67%,,
 in,815,Lewis Cass Schools,695,Lewis Cass Elementary School,32.89%,,N,,678,223
 in,K401,Liberty Christian School,C226,Liberty Christian Elementary,41.89%,,N,,265,111
 in,1895,Liberty-Perry Community Schools,1381,Selma Elementary School,45.30%,,N,,574,260
@@ -583,8 +583,8 @@ in,5300,MSD of Decatur Twp,5189,West Newton Elementary School,33.99%,,N,,665,226
 in,5330,MSD of Lawrence Township,5277,Belzer Middle School,47.55%,,N,,1182,562
 in,5330,MSD of Lawrence Township,5281,Brook Park Elementary School,70.41%,,Y,61.76%,646,455
 in,5330,MSD of Lawrence Township,5285,Crestview Elementary School,42.42%,,Y,61.76%,625,265
-in,5330,MSD of Lawrence Township,,ELC Brook Park,,,Y,61.76%,377,
-in,5330,MSD of Lawrence Township,,ELC Winding Ridge,,,Y,61.76%,357,
+in,5330,MSD of Lawrence Township,-29,ELC Brook Park,,,Y,61.76%,377,
+in,5330,MSD of Lawrence Township,-30,ELC Winding Ridge,,,Y,61.76%,357,
 in,5330,MSD of Lawrence Township,5291,Fall Creek Valley Middle School,40.80%,,N,,1380,563
 in,5330,MSD of Lawrence Township,5289,Harrison Hill Elementary School,59.44%,,Y,61.76%,766,455
 in,5330,MSD of Lawrence Township,5293,Indian Creek Elementary School,53.40%,,Y,61.76%,726,388
@@ -632,7 +632,7 @@ in,8115,MSD of Warren County,8733,Pine Village Elem. School,33.33%,,N,,162,54
 in,8115,MSD of Warren County,8744,Warren Central Elementary School,36.75%,,N,,400,147
 in,8115,MSD of Warren County,8729,Williamsport Elementary School,35.43%,,N,,223,79
 in,5360,MSD of Warren Township,5391,Brookview Elementary School,56.71%,,Y,59.70%,524,297
-in,5360,MSD of Warren Township,,Creston Junior High School,,,Y,59.70%,1216,
+in,5360,MSD of Warren Township,-31,Creston Junior High School,,,Y,59.70%,1216,
 in,5360,MSD of Warren Township,5369,Eastridge Elementary School,52.35%,,Y,59.70%,425,222
 in,5360,MSD of Warren Township,5373,Grassy Creek Elementary School,49.23%,,Y,59.70%,452,223
 in,5360,MSD of Warren Township,5370,Hawthorne Elementary School,58.62%,,Y,59.70%,393,230
@@ -640,10 +640,10 @@ in,5360,MSD of Warren Township,5375,Lakeside Elementary School,65.73%,,Y,59.70%,
 in,5360,MSD of Warren Township,5397,Liberty Park Elementary,53.52%,,Y,59.70%,491,263
 in,5360,MSD of Warren Township,5377,Lowell Elementary School,57.76%,,Y,59.70%,510,295
 in,5360,MSD of Warren Township,5386,Pleasant Run Elementary School,54.07%,,Y,59.70%,520,281
-in,5360,MSD of Warren Township,,Raymond Park Middle School,,,Y,59.70%,1247,
-in,5360,MSD of Warren Township,,Stonybrook Junior High School,,,Y,59.70%,1185,
+in,5360,MSD of Warren Township,-32,Raymond Park Middle School,,,Y,59.70%,1247,
+in,5360,MSD of Warren Township,-33,Stonybrook Junior High School,,,Y,59.70%,1185,
 in,5360,MSD of Warren Township,5389,Sunny Heights School,62.82%,,Y,59.70%,465,292
-in,5360,MSD of Warren Township,,The Renaissance School,,,Y,59.70%,198,
+in,5360,MSD of Warren Township,-34,The Renaissance School,,,Y,59.70%,198,
 in,5360,MSD of Warren Township,5361,Warren Central High School,49.91%,,Y,59.70%,3403,1698
 in,5360,MSD of Warren Township,5395,Warren Early Childhood Center,74.77%,,Y,59.70%,328,245
 in,5370,MSD of Washington Township,5406,Crooked Creek Elementary,38.46%,,N,,663,255
@@ -658,7 +658,7 @@ in,5370,MSD of Washington Township,5430,Spring Mill Elementary School,42.63%,,N,
 in,5370,MSD of Washington Township,5448,Westlane Middle School,41.16%,,N,,911,375
 in,5375,MSD of Wayne Township,5219,Ben Davis 9th Grade Center,45.28%,,Y,55.09%,1184,536
 in,5375,MSD of Wayne Township,5213,Ben Davis High School,36.34%,,Y,55.09%,2727,991
-in,5375,MSD of Wayne Township,,Ben Davis University High School,,,Y,55.09%,371,
+in,5375,MSD of Wayne Township,-35,Ben Davis University High School,,,Y,55.09%,371,
 in,5375,MSD of Wayne Township,5446,Bridgeport Elementary School,47.24%,,Y,55.09%,770,364
 in,5375,MSD of Wayne Township,5227,Chapel Glen Elementary,66.44%,,Y,55.09%,868,577
 in,5375,MSD of Wayne Township,5221,Chapel Hill 7th & 8th Grade Center,38.28%,,Y,55.09%,1306,500
@@ -755,7 +755,7 @@ in,K142,Our Lady of Grace School,C025,Our Lady of Grace School,36.55%,,N,,145,53
 in,6155,Paoli Community School Corporation,6581,Paoli Jr.-Sr. High School,34.04%,,N,,658,224
 in,6155,Paoli Community School Corporation,6587,Throop Elementary School,41.84%,,Y,46.04%,738,309
 in,9680,Paramount School of Excellence,139,Paramount Community Heights,0.66%,,Y,68.75%,92,1
-in,9680,Paramount School of Excellence,,Paramount Englewood,,,Y,83.10%,100,
+in,9680,Paramount School of Excellence,-36,Paramount Englewood,,,Y,83.10%,100,
 in,9680,Paramount School of Excellence,5508,Paramount School of Excellence,0.66%,,Y,70.83%,722,5
 in,7175,Penn-Harris-Madison School Corp,7323,Disney Elementary,36.74%,,N,,509,187
 in,7175,Penn-Harris-Madison School Corp,7365,Elsie Rogers Elementary,44.19%,,N,,353,156
@@ -783,7 +783,7 @@ in,5635,Peru Community Schools,6085,Peru High School,37.82%,,Y,45.09%,610,231
 in,5635,Peru Community Schools,6089,Peru Jr. High School,39.41%,,Y,45.09%,334,132
 in,9925,Phalen Academy,5496,George & Veronica Phalen Academy,54.75%,,Y,66.93%,220,120
 in,9925,Phalen Academy,4894,James & Rosemary Phalen Leadership Academy,42.80%,,Y,73.28%,263,113
-in,9925,Phalen Academy,,PLA @ George H. Fisher - School 93,,,Y,63.37%,465,
+in,9925,Phalen Academy,-37,PLA @ George H. Fisher - School 93,,,Y,63.37%,465,
 in,6445,Pike County School Corp,6809,Petersburg Elementary School,39.36%,,N,,437,172
 in,6445,Pike County School Corp,6808,Winslow Elementary School,39.79%,,N,,284,113
 in,9085,pilotED School,1006,pilotED Schools Bethel Park,0.82%,,Y,77.50%,97,1
@@ -815,9 +815,9 @@ in,6835,Randolph Eastern School Corp,7164,North Side Elementary School,50.10%,,N
 in,6835,Randolph Eastern School Corp,7161,Union City Community Jr.-Sr. High School,32.08%,,N,,371,119
 in,6805,Randolph Southern School Corp,7113,Randolph Southern Elementary,49.00%,,N,,251,123
 in,6805,Randolph Southern School Corp,7121,Randolph Southern Jr-Sr High,33.20%,,N,,244,81
-in,,"Renaissance Charter School, Inc.",,Emma Donnan Middle School,,,Y,61.06%,268,
-in,,"Renaissance Charter School, Inc.",,Emmerich Manual High School,,,Y,61.06%,557,
-in,,"Renaissance Charter School, Inc.",,TC Howe Community High School,,,Y,61.06%,494,
+in,renaissance-charter-school-inc-,"Renaissance Charter School, Inc.",-38,Emma Donnan Middle School,,,Y,61.06%,268,
+in,renaissance-charter-school-inc-,"Renaissance Charter School, Inc.",-39,Emmerich Manual High School,,,Y,61.06%,557,
+in,renaissance-charter-school-inc-,"Renaissance Charter School, Inc.",-40,TC Howe Community High School,,,Y,61.06%,494,
 in,3815,Rensselaer Central School Corp,3213,Rensselaer Central Primary School,37.74%,,N,,416,157
 in,3815,Rensselaer Central School Corp,3205,Van Rensselaer Elem. School,39.51%,,N,,329,130
 in,5705,Richland Bean Blossom Community School Corporation,6144,EECC Kindergarten,41.80%,,N,,122,51
@@ -852,7 +852,7 @@ in,4670,School City of East Chicago,3963,J.L. Block Jr. High School,74.32%,,Y,89
 in,4670,School City of East Chicago,3945,Lincoln Elementary School,87.95%,,Y,89.85%,292,257
 in,4670,School City of East Chicago,3953,McKinley Elementary School,70.13%,,Y,89.85%,619,434
 in,4670,School City of East Chicago,3961,Washington Elementary School,76.03%,,Y,89.85%,617,469
-in,4710,School City of Hammond,,Area Career Center,,,Y,56.08%,388,
+in,4710,School City of Hammond,-41,Area Career Center,,,Y,56.08%,388,
 in,4710,School City of Hammond,4411,Clark Middle/High School,53.41%,,Y,56.08%,1304,696
 in,4710,School City of Hammond,4447,Columbia Elementary School,69.88%,,N,,259,181
 in,4710,School City of Hammond,4449,Edison Elementary School,57.45%,,Y,56.08%,648,372
@@ -892,7 +892,7 @@ in,4760,School City of Whiting,4356,Whiting Middle School,34.13%,,N,,293,100
 in,4720,School Town of Highland,4285,Johnston (Judith Morton) Elem School,34.51%,,N,,426,147
 in,4720,School Town of Highland,4290,Merkley (Mildred) Elem School,31.83%,,N,,289,92
 in,7230,Scott Co School Dist #1,7630,Austin Elementary School,44.99%,,Y,42.78%,650,292
-in,7230,Scott Co School Dist #1,,Austin High School,,,Y,42.78%,633,
+in,7230,Scott Co School Dist #1,-42,Austin High School,,,Y,42.78%,633,
 in,7255,Scott County School Dist #2,7633,Johnson Elementary School,52.01%,,N,,298,155
 in,7255,Scott County School Dist #2,7637,Lexington Elementary,34.85%,,N,,198,69
 in,7255,Scott County School Dist #2,7649,Scottsburg Elementary,47.62%,,N,,483,230
@@ -911,7 +911,7 @@ in,7365,Shelbyville Central Schools,7733,Loper Elementary School,39.01%,,N,,687,
 in,7365,Shelbyville Central Schools,7721,Shelbyville Junior High School,36.70%,,N,,951,349
 in,7365,Shelbyville Central Schools,7729,T.A. Hendricks Elementary School,47.19%,,N,,693,327
 in,3435,Shenandoah School Corporation,2815,Shenandoah Elementary School,35.21%,,N,,622,219
-in,,Shepherd Community Inc.,,Shepherd Community Center,,,Y,76.67%,155,
+in,shepherd-community-inc-,Shepherd Community Inc.,-43,Shepherd Community Center,,,Y,76.67%,155,
 in,3055,Sheridan Community Schools,2465,Sheridan Elementary School,37.12%,,N,,493,183
 in,5520,Shoals Community School Corp,5989,Shoals Community Elem. School,46.94%,,N,,294,138
 in,9760,Smith Academy for Excellence,242,Smith Academy for Excellence,69.01%,,Y,64.18%,67,46
@@ -1048,7 +1048,7 @@ in,9095,URBAN ACT Academy,9094,URBAN ACT Academy,85.19%,,Y,65.81%,328,279
 in,6560,Valparaiso Community Schools,6891,Central Elementary,42.47%,,N,,146,62
 in,6560,Valparaiso Community Schools,6893,Flint Lake Elementary School,37.31%,,N,,469,175
 in,6560,Valparaiso Community Schools,6888,Thomas Jefferson Elementary School,35.93%,,N,,231,83
-in,9575,Victory College Prep,5523,Sloan Avenue,72.76%,,Y,74.37%,833,606
+in,9575,Indianapolis Lighthouse Charter School,5523,Sloan Avenue,72.76%,,Y,74.37%,833,606
 in,8030,Vigo County School Corp,8497,Consolidated Elementary School,39.24%,,N,,344,135
 in,8030,Vigo County School Corp,8505,Davis Park Elementary School,80.62%,,N,,325,262
 in,8030,Vigo County School Corp,8509,Deming Elementary School,72.58%,,N,,299,217
