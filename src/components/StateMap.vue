@@ -18,7 +18,7 @@
         <div>
             <div class="row">
                 <div v-for="state in states" v-bind:key="state.abbr" class="col-sm-3">
-                    <router-link class="text-muted" v-if="statedata[state.abbr.toLowerCase()] != undefined" v-bind:to="'/explore/' + state.abbr">{{ state.name }}</router-link>
+                    <router-link class="text-muted" v-if="statedata[state.abbr.toLowerCase()] != undefined" v-bind:to="'/explore/' + state.abbr.toLowerCase()">{{ state.name }}</router-link>
                     <a class="text-muted" href="#" @click="selected_state = state; showModal()" v-else>{{ state.name }}</a>
                 </div>
             </div>

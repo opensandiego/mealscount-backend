@@ -14,10 +14,10 @@
             <input type="number" v-model="school.total_eligible" />
         </td>
         <td>
-            <input type="number" v-model="school.daily_breakfast_served" />
+            <input type="number" v-model="school.daily_breakfast_served" min="0" required />
         </td>
         <td>
-            <input type="number" v-model="school.daily_lunch_served" />
+            <input type="number" v-model="school.daily_lunch_served" min="0" required />
         </td>
         <td>
             <input type="checkbox" v-model="school.active" />

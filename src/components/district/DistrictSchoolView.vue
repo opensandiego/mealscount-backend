@@ -8,27 +8,27 @@
                 @click="set_sort('grouping')">Recommended Grouping <img v-bind:src="image.qmark"></th>
             <th scope="col" @click="set_sort('school_code')">School Code</th>
             <th scope="col" @click="set_sort('school_name')">School Name</th>
-            <th scope="col" v-tooltip title="School type is based on CALPADS UPC file designations">School Type <img v-bind:src="image.qmark"></th>
+            <th scope="col" v-tooltip title="School type is based on FRAC CEP file designations">School Type <img v-bind:src="image.qmark"></th>
             <th v-tooltip
-                title="Pre-loaded data is based on the publicly available CALPADS UPC file. Please edit with your updated enrollment data."
+                title="Pre-loaded data is based on the publicly available FRAC CEP file. Please edit with your updated enrollment data."
                 scope="col" 
                 @click="set_sort('total_enrolled')">Total Enrolled <img v-bind:src="image.qmark"></th>
             <th v-tooltip 
-                title="Pre-loaded data is based on the publicly available CALPADS UPC file (CalFresh/SNAP & CalWORKs direct certification only). Please edit with your updated, unduplicated count of all directly certified and categorically eligible students"
+                title="Pre-loaded data is based on the publicly available FRAC CEP file. Please edit with your updated, de-duplicated count of all directly certified and categorically eligible students"
                 scope="col" 
                 @click="set_sort('total_eligible')" >
                 Total Eligible <sup>2</sup> <img v-bind:src="image.qmark"></th>
             <th v-tooltip 
-                title="Pre-loaded data is based on April 2019 ADP. Please edit based on your projected ADP." 
+                title="Please edit based on your projected ADP." 
                 scope="col">
                 Breakfast Avg Daily Participation (ADP)
-                <sup>3</sup> <img v-bind:src="image.qmark">
+                <img v-bind:src="image.qmark">
             </th>
             <th v-tooltip 
-                title="Pre-loaded data is based on April 2019 ADP. Please edit based on your projected ADP." 
+                title="Please edit based on your projected ADP." 
                 scope="col">
                 Lunch Avg Daily Participation (ADP)
-                <sup>3</sup> <img v-bind:src="image.qmark">
+                <img v-bind:src="image.qmark">
             </th>
             <th v-tooltip 
                 title="Indicates whether a given school is run through the grouping calculation. Uncheck the box to exclude a given school from the grouping calculation." 
