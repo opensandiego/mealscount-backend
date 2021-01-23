@@ -45,8 +45,8 @@ class CEPSchool(object):
             self.total_eligible = self.total_enrolled
 
         if data.get("daily_breakfast_served",""):
-            self.bfast_served = int(float(data.get("daily_breakfast_served")))
-            self.lunch_served = int(float(data.get("daily_lunch_served")))
+            self.bfast_served = int(float(data.get("daily_breakfast_served") or 0))
+            self.lunch_served = int(float(data.get("daily_lunch_served") or 0))
         else:
             self.bfast_served = None #int(self.total_enrolled * BREAKFAST_EST_PARTICIPATION[0])
             self.lunch_served = None #int(self.total_enrolled * LUNCH_EST_PARTICIPATION[0])
