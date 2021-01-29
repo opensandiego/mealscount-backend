@@ -1,0 +1,27 @@
+{
+    "agency":{
+        "name":"California Department of Education",
+        "cep_website":"https://www.cde.ca.gov/ls/nu/sn/cep.asp",
+        "cep_phone":[],
+        "cep_email":[]
+    },
+    "organizations":[
+        {
+            "name":"Nourish CA",
+            "website":"https://nourishca.org/",
+            "phone":[],
+            "email":[],
+            "cep_email":[],
+            "cep_phone":[]
+        },
+        {
+            "name":"San Diego Hunger Coalition",
+            "website":"https://www.sandiegohungercoalition.org/",
+            "phone":[],
+            "email":[],
+            "cep_email":[],
+            "cep_phone":[]
+        }    
+    ],
+    "additional":null
+}

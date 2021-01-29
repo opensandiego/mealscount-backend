@@ -8,10 +8,21 @@
           <strong>ALSO NOTE that to see accurate estimates you MUST
             import the latest data for your district!</strong>
         </div>
+
         <div class="row">
             <h1 class="col-sm-6">{{ state.name }}</h1>
             <div class="district-filter col-sm-2 offset-sm-4 "><input type="text" placeholder="Filter Districts" v-model="district_filter" /></div>
             <div class="col-sm-12" v-html="state.about"></div>
+
+           <div class="col-sm-12 mb-3 mt-3 " v-if="state.faq != null || state.contact != null">
+               <router-link
+                 class="btn btn-primary"
+                 :to="{name:'faq-state', params: {state_code:state.state_code} }"
+                 >
+                 FAQs and Contact Information for {{ state.name }}
+               </router-link>
+           </div>
+
         </div>
         <div class="row">
             <table  @mouseover="hover = true" @mouseleave="hover = false" class="table col-sm district-table">
