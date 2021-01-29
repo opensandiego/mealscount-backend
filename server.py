@@ -166,6 +166,7 @@ def district(state,code):
 #    district.evaluate_strategies()
     return jsonify(district.as_dict())
 
+# TODO set aggressive cache header
 @app.route('/api/states/', methods=['GET'])
 def states():
     states = {} # keyed by lowercase abbr (e.g. "ca"), with "name", "district_data", "about"
@@ -176,9 +177,15 @@ def states():
         if os.path.exists(os.path.join(DATA_FOLDER,state)):
             state_info = us.states.lookup(state)
             if state_info:
-                s = { "name":state_info.name, "fips":state_info.fips }
+                s = { "name":state_info.name, "fips":state_info.fips, "state_code": state }
                 if os.path.exists(os.path.join(DATA_FOLDER,state,"about.html")):
                     s["about"] = open(os.path.join(DATA_FOLDER,state,"about.html")).read()[:1024]
+                if os.path.exists(os.path.join(DATA_FOLDER,state,"faq.html")):
+                    s["faq"] = open(os.path.join(DATA_FOLDER,state,"faq.html")).read()[:1024]
+                if os.path.exists(os.path.join(DATA_FOLDER,state,"contact.json")):
+                    try:
+                        s["contact"] = json.loads(open(os.path.join(DATA_FOLDER,state,"contact.json")).read())
+                    except ValueError: pass
                 # District data is loaded through /api/districts/state/
                 if os.path.exists(os.path.join(STATIC_FOLDER,state,"districts.json")):
                     s["district_list"] = os.path.join("/static/",state,"districts.json")
