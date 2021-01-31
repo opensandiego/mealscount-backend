@@ -13,6 +13,7 @@ import base64
 
 import csv,codecs,os,os.path
 from strategies.base import CEPDistrict,CEPSchool
+from strategies.naive import CustomGroupsCEPStrategy
 from cep_estimatory import parse_strategy,add_strategies
 
 # If we have specified AWS keys, this is where we will tell the client where
@@ -153,6 +154,46 @@ def optimize():
         "timestamp":str(datetime.datetime.now()),
         "time": time.time() - t0
     }
+    return result
+
+@app.route("/api/districts/calculate/", methods=['POST'])
+def calculate():
+    d_obj = request.json
+    schools = d_obj["schools"]
+    district = CEPDistrict(d_obj["name"],d_obj["code"],reimbursement_rates=d_obj["rates"])
+
+    state = d_obj["state_code"]
+
+    # TODO consolidate with optimize() above
+    i = 1 
+    groupings = {}
+    for row in schools:
+        # Expecting { school_code: {active, daily_breakfast_served,daily_lunch_served,total_eligible,total_enrolled }}
+        # TODO rework how we initialize CEPSchool
+        if not row.get("school_code",None) or not row.get("total_enrolled",None):
+            continue
+        row["School Name"] = row.get("school_name","School %i"%i)
+        row["School Code"] = row.get("school_code","school-%i"%i)
+        row["School Type"] = row.get("school_type","")
+        row['include_in_mealscount'] = row.get('active','true') and 'true' or 'false'
+        i += 1
+        school = CEPSchool(row)
+        district.add_school(school)
+        groupings.setdefault(row.get('grouping',None),[])
+        groupings[row.get('grouping')].append(school.code)
+
+    # We direct this into the custom groups strategy which doesn't actually
+    # do any optimization
+
+    custom = CustomGroupsCEPStrategy(params={},name="Custom Grouping")
+    custom.groupings = groupings # not really official way to set this
+    district.strategies.append(custom)
+    district.run_strategies()
+    district.evaluate_strategies()
+
+    result = district.as_dict()
+    result["state_code"] = state
+
     return result
 
 @app.route('/api/districts/<regex("[a-z]{2}"):state>/<regex("[a-zA-Z0-9]+"):code>/', methods=['POST'])

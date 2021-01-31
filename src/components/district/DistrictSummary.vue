@@ -41,8 +41,7 @@
               </table>
             </dd>
             <dd v-else>
-              <p v-if="district.schools.length > 0"><button class="btn btn-primary" v-on:click="$emit('calculate')">Calculate Grouping</button> to see reimbursement estimate.</p>
-              <p v-else>Click "Edit" to add schools, then "Submit" to calculate grouping recommendation</p>
+              <p>To view reimbursements, please enter in your Average Daily Participation numbers.</p>
             </dd>
           <dt>Federal Reimbursement Rates</dt>
           <dd>
@@ -62,6 +61,7 @@ export default {
     props: ["district","schoolDays","editMode"],
     computed: {
         best_strategy(){
+          console.log("computing best strategy for district summary")
           if(this.district.strategies != undefined){
               return this.district.strategies[this.district.best_index];
           }else{

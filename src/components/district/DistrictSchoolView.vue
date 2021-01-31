@@ -1,4 +1,5 @@
 <template>
+  <div>
      <table class="table col-sm school-table">
         <thead class="thead-dark">
           <tr id="district-table-header">
@@ -23,12 +24,18 @@
                 scope="col">
                 Breakfast Avg Daily Participation (ADP)
                 <img v-bind:src="image.qmark">
+                <div v-if="editMode">
+                  <button @click="toggle_adp_modal(true)">Set as % enrolled</button>
+                </div>
             </th>
             <th v-tooltip 
                 title="Please edit based on your projected ADP." 
                 scope="col">
                 Lunch Avg Daily Participation (ADP)
                 <img v-bind:src="image.qmark">
+                <div v-if="editMode">
+                  <button @click="toggle_adp_modal(true)">Set as % enrolled</button>
+                </div>
             </th>
             <th v-tooltip 
                 title="Indicates whether a given school is run through the grouping calculation. Uncheck the box to exclude a given school from the grouping calculation." 
@@ -47,6 +54,7 @@
             v-for="school in ordered_schools" 
             v-bind:key="school.school_code" 
             v-bind:school="school"
+            v-bind:group_numbers="group_numbers"
             @remove="remove_school(school)"
           />
           <AddSchoolRow 
@@ -61,7 +69,9 @@
             v-bind:school="school"  
             v-bind:group="best_group_index[school.school_code]" 
             v-bind:reimbursement="reimbursement_index[school.school_code]"
+            v-bind:group_numbers="group_numbers"
             v-bind:color="color_for(school)"
+            @recalculate="$emit('recalculate')"
           />
         </tbody>
         <tbody v-else>
@@ -80,11 +90,17 @@
             <td colspan="7"><button v-on:click="add_school" class="btn btn-primary">Add</button></td>
           </tr> -->
       </table>   
+      <SetADPModal id="set_adp_modal"
+        v-show="show_adp_set_modal"
+        @close="toggle_adp_modal(false)"
+        @apply="apply_adp_modal" />
+  </div>
 </template>
 
 <script>
 import SchoolRow from "./SchoolRow.vue"
 import SchoolRowEdit from "./SchoolRowEdit.vue"
+import SetADPModal from "./SetADPModal.vue"
 import AddSchoolRow from "./AddSchoolRow.vue"
 import QUESTION from '../../assets/qmark.png'
 import * as chroma from 'chroma-js'
@@ -96,12 +112,14 @@ export default {
       image: {qmark: QUESTION},
       sort_col: "grouping",
       sort_desc: false,
+      show_adp_set_modal: false,
     }
   },
   components: {
     SchoolRow,
     SchoolRowEdit,
-    AddSchoolRow
+    AddSchoolRow,
+    SetADPModal,
   },
   computed: {
     ordered_schools() {
@@ -121,7 +139,14 @@ export default {
     colorScale(){
       // See options here https://gka.github.io/chroma.js/#scale-correctlightness
       return chroma.scale('Set3').domain([0,Object.keys(this.best_group_index).length]); 
-    }
+    },
+    group_numbers(){
+      const groups = {} 
+      this.schools.forEach(s=>{
+        if(groups[s.grouping] == undefined){ groups[s.grouping] = 1 }
+      })
+      return Object.keys(groups).map( k => Number(k))
+    },
   },
   methods:{
     set_sort(col) {
@@ -153,7 +178,17 @@ export default {
         const i = this.schools.indexOf(school);
         this.schools.splice(i,1)
       }
-    }
+    },
+    apply_adp_modal(adp){
+      this.schools.forEach( s => {
+        s.daily_breakfast_served = Math.round((adp.breakfast/100) * s.total_enrolled);
+        s.daily_lunch_served = Math.round((adp.lunch/100) * s.total_enrolled);
+      })
+      this.show_adp_set_modal = false
+    },
+    toggle_adp_modal(show){
+      this.show_adp_set_modal = show
+    },
   }
 }
 </script>

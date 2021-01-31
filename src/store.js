@@ -119,6 +119,14 @@ export default new Vuex.Store({
                 }
             });
         },
+        calculate_district({ commit, dispatch }, district) {
+            const url = `/api/districts/calculate/`; 
+            axios.post(url, district).then(resp => {
+                const d = resp.data;
+                console.log("Calculated district to",d);
+                commit("set_edited_district", d)
+            });
+        },
         poll_for_results({ commit, dispatch }, target) {
             axios.get(target.url).then(resp => {
                 console.log("results received at ", target.url);
