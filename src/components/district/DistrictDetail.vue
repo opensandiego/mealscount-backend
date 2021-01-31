@@ -17,7 +17,11 @@
           </h1>
       </div>
 
-      <DistrictSummary v-bind:district="district" v-bind:schoolDays="schoolDays" v-bind:editMode="editMode" v-on:calculate="submit" />
+      <DistrictSummary 
+        v-bind:district="district" 
+        v-bind:schoolDays="schoolDays" 
+        v-bind:editMode="editMode" 
+      />
 
       <!-- <ScenarioControl /> -->
     </div>
@@ -112,7 +116,15 @@
           </div>
       </div>
       <div class="row px-1">
-          <DistrictSchoolView class="col-sm-12" v-bind:schools="district.schools" v-bind:best_group_index="best_group_index" v-bind:reimbursement_index="reimbursement_index" v-bind:editMode="editMode" @toggleEdit="toggleEdit" />
+          <DistrictSchoolView 
+            class="col-sm-12" 
+            v-bind:schools="district.schools" 
+            v-bind:best_group_index="best_group_index" 
+            v-bind:reimbursement_index="reimbursement_index" 
+            v-bind:editMode="editMode" 
+            @toggleEdit="toggleEdit" 
+            @recalculate="recalculate"
+            />
       </div>
       <div class="row">
         <div class="col-sm">
@@ -266,6 +278,10 @@ export default {
       }
       this.editMode = false
       this.$store.dispatch("run_district",this.district);
+      this.showLoading = true
+    },
+    recalculate(){
+      this.$store.dispatch("calculate_district",this.district);
       this.showLoading = true
     },
     reload(){

@@ -4,7 +4,12 @@
             v-bind:key="school.code"
             v-bind:style="rowBgStyle"
           >
-        <td v-if="group != null">{{ group }}</td>
+        <td v-if="group != null">
+            <select v-model="school.grouping" @change="$emit('recalculate')">
+                <option :value="group">{{ group }} *</option>
+                <option v-for="g in group_numbers" :value="g" v-bind:key="g">{{ g }}</option>
+            </select>
+        </td>
         <td v-else v-tooltip title="Schools marked in group 0 are not included in the grouping calculation" >0</td>
         <td>{{ school.school_code }}</td>
         <td>{{ school.school_name }}</td>
@@ -29,12 +34,12 @@
 <script>
 
 export default {
-    props: ['school','group','color','reimbursement'],
+    props: ['school','group','color','reimbursement','group_numbers'],
     computed: {
         rowBgStyle(){ 
             return { backgroundColor: this.color };
         }
-    }
+    },
 }
 </script>
 
