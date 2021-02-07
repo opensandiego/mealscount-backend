@@ -5,8 +5,5 @@ WORKDIR /code
 COPY *requirements.txt /code/
 RUN pip install -r requirements.txt
 COPY . /code/
-
-FROM base AS release
-RUN for d in `ls data`; do python cep_estimatory.py data/$d/latest.csv --output-folder dist/static/$d/; done;
-
+RUN ./generate_state_json.sh
 CMD python /code/server.py --host=0.0.0.0
