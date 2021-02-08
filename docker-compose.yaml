@@ -2,7 +2,7 @@ version: '3'
 services:
   app:
     build: ./
-    command: sh -c "./generate_state_json.sh && flask run --host=0.0.0.0 --port=5000"
+    command: sh -c "python generate_state_json.py && flask run --host=0.0.0.0 --port=5000"
     ports:
       - "5000:5000"
     environment:
@@ -17,6 +17,6 @@ services:
   build:
     image: node
     working_dir: /code/
-    command: sh -c "npm install . && npm run watch"
+    command: sh -c "npm install . && npm run build && npm run watch"
     volumes:
       - ./:/code/:cached

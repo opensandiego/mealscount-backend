@@ -5,5 +5,5 @@ WORKDIR /code
 COPY *requirements.txt /code/
 RUN pip install -r requirements.txt
 COPY . /code/
-RUN ./generate_state_json.sh
+RUN python generate_state_json.py
 CMD python /code/server.py --host=0.0.0.0
