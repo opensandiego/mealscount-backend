@@ -1,5 +1,5 @@
 # MealsCount
-MealsCount is a tool created by [Open San Diego](https://opensandiego.org) in partnership with [California Food Policy Action](https://cfpa.org) and the [San Diego Hunger Coalition](https://www.sandiegohungercoalition.org), to help school districts maximize their reimbursements when participating in the [USDA's Community Eligibility Provision (CEP](https://www.fns.usda.gov/school-meals/community-eligibility-provision).
+MealsCount is a tool created by [Open San Diego](https://opensandiego.org) in partnership with [Nourish CA](https://nourishca.org) (formerly CFPA) and the [San Diego Hunger Coalition](https://www.sandiegohungercoalition.org), to help school districts maximize their reimbursements when participating in the [USDA's Community Eligibility Provision (CEP](https://www.fns.usda.gov/school-meals/community-eligibility-provision).
 
 # What is the Community Eligibility Provision?
 The USDA's Community Eligibility Provision (CEP) is a program whereby the federal government provides free and reduced cost meals *without filling out any paperwork*. This eliminates the burden on families in applying, as well as the stigma of students receiving food aid. Hungry students don't learn, so ensuring every student gets the nutrition they need increases the effectiveness of our education system.

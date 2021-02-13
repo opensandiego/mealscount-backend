@@ -80,7 +80,7 @@
                 <a href="https://opensandiego.org">Open San Diego</a>
               </li>
               <li>
-                <a href="https://www.cfpa.net">CFPA</a>
+                <a href="https://www.nourishca.org">Nourish California</a>
               </li>
               <li>
                 <a href="https://www.sandiegohungercoalition.org/">SD Hunger</a>
