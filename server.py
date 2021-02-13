@@ -205,6 +205,7 @@ def district(state,code):
 #    add_strategies(district,"OneToOne","OneGroup","Exhaustive","Binning")
 #    district.run_strategies() 
 #    district.evaluate_strategies()
+
     return jsonify(district.as_dict())
 
 # TODO set aggressive cache header
@@ -260,6 +261,13 @@ if "DYNO" in os.environ:
         urlparts = urlparse(request.url)
         if urlparts.netloc != 'www.mealscount.com':
             return redirect('https://www.mealscount.com/', code=301)
+
+# Allow all origins for integration with Excel Add-On
+# from https://stackoverflow.com/a/59906139
+@app.after_request
+def after_request(response):
+    response.headers.add('Access-Control-Allow-Origin', '*')
+    return response
 
 if __name__ == '__main__':
     app.run()
