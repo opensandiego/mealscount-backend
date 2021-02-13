@@ -154,8 +154,8 @@
             <a target="_blank" href="https://opensandiego.org"
               ><img class="logo" v-bind:src="logos.openSD_logo"
             /></a>
-            <a target="_blank" href="https://www.cfpa.net">
-              <img class="logo" v-bind:src="logos.cfpa_logo" />
+            <a target="_blank" href="https://www.nourishca.org">
+              <img class="logo" v-bind:src="logos.nourishca_logo" />
             </a>
             <a target="_blank" href="https://www.sandiegohungercoalition.org/">
               <img class="logo" v-bind:src="logos.hunger_logo" />
@@ -196,7 +196,7 @@
 </template>
 
 <script>
-import CFPALogo from "../assets/cfpalogo.png";
+import NourishCALogo from "../assets/nourishca_logo.png";
 import OPENSD from "../assets/openSD.jpeg";
 import HUNGER from "../assets/hunger.jpg";
 import HOMEPAGE_HERO from "../assets/homepage_hero.jpg";
@@ -215,7 +215,7 @@ import FANCYW from "../assets/white-line-underline.png"
 export default {
   data() {
     return {
-      logos: { cfpa_logo: CFPALogo, openSD_logo: OPENSD, hunger_logo: HUNGER },
+      logos: { nourishca_logo: NourishCALogo, openSD_logo: OPENSD, hunger_logo: HUNGER },
       icons: {
         locate: LOCATE_ICON,
         inputdata: INPUTDATA_ICON,
