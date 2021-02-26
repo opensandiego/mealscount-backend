@@ -143,6 +143,14 @@ class CEPGroup(object):
     @property
     def paid_lunch_rate(self): return self.district.fed_reimbursement_rates['paid_lunch']
 
+    def school_state_reimbursement(self,school):
+        if not self.district.state_funding: return 0
+        pass # TODO calculate the state reimbursement based on this school and the district's state funding class
+
+    def est_state_reimbursement(self):
+        if not self.district.state_funding: return 0
+        pass # Todo aggregate state reimbursement
+
     def school_reimbursement(self,school):
         if not self.cep_eligible: return 0
         result = school.bfast_served * self.free_breakfast_rate * self.free_rate + \
@@ -219,7 +227,7 @@ class CEPGroup(object):
         } 
 
 class CEPDistrict(object):
-    def __init__(self,name,code,reimbursement_rates=None,sfa_certified=False):
+    def __init__(self,name,code,reimbursement_rates=None,sfa_certified=False,state_funding=None):
         self.name = name
         self.code = code
         self._schools = [] 
@@ -228,6 +236,8 @@ class CEPDistrict(object):
         self.anticipated_rate_change = 0.02
         self.strategies = []
         self.best_strategy = None
+
+        self.state_funding = state_funding 
 
         # **Note** there might be a nuance with free_bfast. Ask Heidi
         # make this an input or parameter; will change per district and year-over-year
@@ -379,3 +389,7 @@ class BaseCEPStrategy(ABC):
             #         "few schools  We can provide a more accurate estimate with your district's specific meals data."
         }  # low , high, basis
 
+
+class AbstractStateFunding(object):
+    def get_funding(self,school):
+        return 0

@@ -12,7 +12,7 @@
                 <a :href="'tel:'+phone">{{ phone }}</a>
             </p>
             <p v-for="email in contact.agency.cep_email" v-bind:key="email">
-                <a :href="'mailto:'+email">{{ email }}</a>
+                <a :href="'mailto:'+email[1]">{{ email[0] }} ( {{ email[1] }} )</a>
             </p>
     </div>
 

@@ -1,5 +1,10 @@
 <template>
   <div>
+    <div class="flex-column text-center alert-warning py-1 small">
+          <strong>Reminder</strong> - Download your data <strong>BEFORE April 1st 2021</strong>! All student data must be current as of <strong>April 1</strong> of the year prior to implementing the CEP.
+          <!--<a target="_blank" href="https://www.fns.usda.gov/cn/covid-19-cep-deadlines-waiver">learn more &raquo;</a>-->
+    </div>
+
     <nav class="navbar navbar-expand-lg d-flex align-items-center">
       <div class="p-2">
         <router-link class="logo" to="/">
@@ -35,11 +40,6 @@
         </div>
       </div>
     </nav>
-
-    <!--
-    <div class="flex-column text-center alert-info py-1">
-            CEP Application for 20-21 School Year is now August 31st! <a target="_blank" href="https://www.fns.usda.gov/cn/covid-19-cep-deadlines-waiver">learn more &raquo;</a>
-    </div>-->
 
     <router-view></router-view>
 

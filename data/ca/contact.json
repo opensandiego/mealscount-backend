@@ -2,8 +2,8 @@
     "agency":{
         "name":"California Department of Education",
         "cep_website":"https://www.cde.ca.gov/ls/nu/sn/cep.asp",
-        "cep_phone":[],
-        "cep_email":[]
+        "cep_phone":["800-952-5609"],
+        "cep_email":[ ["Jeremy Partsch, SNP Unit Office Technician","jpartsch@cde.ca.gov"]]
     },
     "organizations":[
         {
