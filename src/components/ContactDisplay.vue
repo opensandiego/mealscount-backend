@@ -5,18 +5,22 @@
             <h4>State</h4>
             <p>
                 <a target="_blank" :href="contact.agency.cep_website">
-                    {{ contact.agency.name }}
+                    State Website <span v-if="contact.agency.name">{{ contact.agency.name }}</span>
                 </a>
             </p>
+        </div>
+        <div v-if="contact.agency.cep_phone">
             <p v-for="phone in contact.agency.cep_phone" v-bind:key="phone">
                 <a :href="'tel:'+phone">{{ phone }}</a>
             </p>
+        </div>
+        <div v-if="contact.agency.cep_email">
             <p v-for="email in contact.agency.cep_email" v-bind:key="email">
                 <a :href="'mailto:'+email[1]">{{ email[0] }} ( {{ email[1] }} )</a>
             </p>
-    </div>
+        </div>
 
-        <div v-if="contact.organizations.length > 0">
+        <div v-if="contact.organizations && contact.organizations.length > 0">
             <h4 >Organizations</h4>
             <ul>
                 <li v-for="org in contact.organizations" v-bind:key="org.name">

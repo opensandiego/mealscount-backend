@@ -95,7 +95,7 @@ export default new Router({
             props: true,
             beforeEnter: (to, from, next) => {
                 store.dispatch("new_district",to.params.state_code).then(
-                    () => { store.dispatch("update_scenario_list").then(next) }
+                    () => { store.dispatch("load_district_data").then(next) }
                 )
             }
         },
@@ -106,7 +106,7 @@ export default new Router({
             props: true,
             beforeEnter: (to, from, next) => {
                 store.dispatch("load_district",{state:to.params.state_code,code:to.params.district_code}).then(
-                    () => { store.dispatch("update_scenario_list").then(next) }
+                    () => { store.dispatch("load_district_data").then(next) }
                 )
             }
         },
