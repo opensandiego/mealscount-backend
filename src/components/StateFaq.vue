@@ -1,5 +1,5 @@
 <template>
- <section class="container mt-5">
+ <section class="container mt-5" v-if="state">
     <router-link :to="{name:'faq'}">&laquo; Back to FAQ</router-link>
 
     <h1 class="headline text-center mb-4">Meals Count FAQ - {{ state.name }}</h1>
