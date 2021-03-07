@@ -23,7 +23,6 @@
         v-bind:editMode="editMode" 
       />
 
-      <!-- <ScenarioControl /> -->
     </div>
 
     <div class="container">
@@ -70,21 +69,22 @@
                   v-on:click="submit"
                 >Submit</button>
 
-                <span class="optimize_badge badge badge-secondary" v-if="'optimization_info'in district">Optimized on {{ district.optimization_info.timestamp }} in {{ district.optimization_info.time.toFixed(2) }}s</span>
-                <span v-if="edited" class="badge badge-primary" >edited</span>
-
-          </div>
-          <div class="col-sm-6 text-right">
-            <!--
                 <button
+                  v-if="history.length > 1"
                   class="btn btn-primary"
                   type="button"
                   data-toggle="button"
                   aria-pressed="true"
                   autocomplete="off"
-                  v-on:click="openScenarioModal"
-                >Load / Save Scenario</button>
-            -->
+                  v-on:click="openHistoryModal"
+                >History</button>
+
+                <span class="optimize_badge badge badge-secondary" v-if="'optimization_info'in district">Optimized on {{ district.optimization_info.timestamp }} in {{ district.optimization_info.time.toFixed(2) }}s</span>
+                <span class="optimize_badge badge badge-secondary" v-else-if="district.revision">Manually adjusted</span>
+                <span v-if="edited && district.revision != undefined" class="badge badge-primary" >edited rev #{{district.revision}} </span>
+
+          </div>
+          <div class="col-sm-6 text-right">
                 <button
                   class="btn btn-primary"
                   type="button"
@@ -143,7 +143,7 @@
     <LoadingModal v-if="showLoading" />
     <ExportModal v-if="showExport" v-bind:district="district" @close="closeExportModal" v-bind:grouping_index="best_group_index" v-bind:reimbursement_index="reimbursement_index" />
     <ImportModal v-if="showImport" v-bind:district="district" @close="closeImportModal"  />
-    <ScenarioModal v-if="showScenarioModal" v-bind:district="district" @close="closeScenarioModal" />
+    <HistoryModal v-if="showHistoryModal" v-bind:state_code="state_code" v-bind:district_code="district_code" v-bind:schoolDays="schoolDays" v-bind:current_revision="district.revision" @close="closeHistoryModal"  />
     <DistrictDetailFirstTimeModal v-if="showFirstTimeModal" v-bind:district="district" @close="closeFirstTimeModal" />
   </section>
 </template>
@@ -151,25 +151,25 @@
 <script>
 import * as _ from "lodash";
 import DistrictSummary from "./DistrictSummary.vue"
-import ScenarioModal from "./ScenarioModal.vue"
 import DistrictSchoolView from "./DistrictSchoolView.vue"
 import DistrictGroupView from "./DistrictGroupView.vue"
 import ExportModal from "./ExportModal.vue"
 import ImportModal from "./ImportModal.vue"
 import LoadingModal from "./LoadingModal.vue"
 import DistrictDetailFirstTimeModal from "./DistrictDetailFirstTimeModal.vue"
+import HistoryModal from "./HistoryModal.vue"
 
 // TODO "404" if no district?
 // TODO break this down into little components...
 export default {
   components: {
     DistrictSummary,
-    ScenarioModal,
     DistrictSchoolView,
     ExportModal,
     DistrictDetailFirstTimeModal,
     ImportModal,
     LoadingModal,
+    HistoryModal,
   },
   props: ["state_code", "district_code"],
   data() {
@@ -179,10 +179,10 @@ export default {
       viewMode: "table", // or "group"
       schoolDays: 180,
       showExport: false,
-      showScenarioModal: false,
       showFirstTimeModal: false,
       showImport: false,
       showLoading: false,
+      showHistoryModal: false,
     }
   },
   mounted(){
@@ -255,6 +255,9 @@ export default {
         }
       });
       return rt_index;
+    },
+    history(){
+      return this.$store.getters.get_history(this.state_code,this.district_code)
     }
   },
   watch: {
@@ -285,11 +288,10 @@ export default {
       this.showLoading = true
     },
     reload(){
-      this.$store.dispatch("load_district",{code:this.district.code,state:this.district.state_code});
-      this.edited = false
-    },
-    save_scenario(){
-      // todo pop up scenario modal
+      this.$store.dispatch("clear_district_data",this.district).then( () => {
+        this.$store.dispatch("load_district",{code:this.district.code,state:this.district.state_code});
+        this.edited = false
+      })
     },
     export_to_csv(){
       // todo figure out how to export to CSV
@@ -319,18 +321,18 @@ export default {
     closeImportModal(){
       this.showImport = false;
     },
-    closeScenarioModal(){
-      this.showScenarioModal = false;
-    },
-    openScenarioModal(){
-      this.showScenarioModal = true;
-    },
     closeFirstTimeModal(){
       this.showFirstTimeModal = false;
     },
     openFirstTimeModal(){
       this.showFirstTimeModal = true;
     },
+    openHistoryModal(){
+      this.showHistoryModal = true;
+    },
+    closeHistoryModal(){
+      this.showHistoryModal = false
+    }
   },
 };
 </script>

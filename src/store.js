@@ -12,7 +12,8 @@ export default new Vuex.Store({
     state: {
         states: {},
         selected_district: null,
-        scenarios: [],
+        history: [],
+        district_data: {},
     },
     mutations: {
         set_district_list(state, district_list) {
@@ -22,25 +23,59 @@ export default new Vuex.Store({
             Vue.set(state.states, district_list.state, state_info);
         },
         set_district(state, district) {
-            console.log("setting district", district)
+            // These are the "raw" districts loaded from the server
+            // if we have saved data for the district raw data, then prefill that now
+            if( state.district_data  && 
+                state.district_data[district.state_code] != undefined && 
+                state.district_data[district.state_code][district.code] != undefined){ 
+                    const d = state.district_data[district.state_code][district.code]
+                    district.schools.forEach( s => {
+                        if( d[s.school_code] != undefined ){
+                            const s1 = d[s.school_code]
+                            s.total_enrolled = s1.total_enrolled
+                            s.total_eligible = s1.total_eligible
+                            s.daily_breakfast_served = s1.daily_breakfast_served
+                            s.daily_lunch_served = s1.daily_lunch_served
+                        }
+                    })
+                // load school numbers
+            }
             state.selected_district = district;
-            //const d = _.filter(state.states[district.state_code].districts, d => d.code == district.code)[0];
-            //Vue.set(d, 'data', district);
         },
         set_edited_district(state, district) {
+            // These have been edited. We want to preserve our history here
+            // rcord history
+            district.revision = state.history.length + 1
+            district.revised_at = new Date()
+            state.history.push( district )
+
+            // update district_data for this district
+            if( state.district_data[district.state_code] == undefined){
+                state.district_data[district.state_code] = {}
+            }
+            const d = {}
+            district.schools.forEach( s => {
+                d[s.school_code] = {
+                    total_enrolled:s.total_enrolled, 
+                    total_eligible: s.total_eligible, 
+                    daily_breakfast_served: s.daily_breakfast_served,
+                    daily_lunch_served: s.daily_lunch_served,
+                }
+            })
+            console.log("preserving district data",district.state_code,district.code,d)
+            state.district_data[district.state_code][district.code]  = d
+
             state.selected_district = district
         },
         set_states(state, data) {
             state.states = data;
         },
-        set_scenarios(state, scenarios) {
-            state.scenarios = scenarios;
+        set_district_data(state,district_data){
+            state.district_data = district_data;
         },
-        add_scenario(state, scenario) {
-            state.scenarios.push(scenario)
-        },
-        remove_scenario(state, i) {
-            state.scenarios.splice(i, 1)
+        clear_district_data(state, district){
+            if(state.district_data[district.state_code] == undefined){ return }
+            delete state.district_data[district.state_code][district.code]
         }
     },
     getters: {
@@ -56,8 +91,8 @@ export default new Vuex.Store({
         selected_district: state => {
             return state.selected_district;
         },
-        get_scenarios: state => {
-            return state.scenarios;
+        get_history: (state) => (state_code,district_code) => {
+            return state.history.filter( d => d.code == district_code && d.state_code == state_code )
         },
     },
     actions: {
@@ -116,6 +151,7 @@ export default new Vuex.Store({
                     // If not async
                     console.log("Updated optimization with",d);
                     commit("set_edited_district", d)
+                    dispatch('save_district_data')
                 }
             });
         },
@@ -125,6 +161,7 @@ export default new Vuex.Store({
                 const d = resp.data;
                 console.log("Calculated district to",d);
                 commit("set_edited_district", d)
+                dispatch('save_district_data')
             });
         },
         poll_for_results({ commit, dispatch }, target) {
@@ -144,30 +181,28 @@ export default new Vuex.Store({
                 }
             })
         },
-        save_scenario({ state, commit, dispatch }, scenario) {
-            commit("add_scenario", scenario)
-            dispatch("save_scenarios")
+        save_district_data({ state,commit }) {                
+            localStorage.setItem("district_data", JSON.stringify(state.district_data));
         },
-        delete_scenario({ state, commit, dispatch }, i) {
-            commit("remove_scenario", i);
-            dispatch("save_scenarios")
-        },
-        save_scenarios({ state }) {
-            localStorage.setItem("scenarios", JSON.stringify(state.scenarios));
-        },
-        load_scenario({ state, commit, dispatch }, i) {
-            commit("set_district", state.scenarios[i].district);
-        },
-        update_scenario_list({ commit, dispatch }) {
-            if (localStorage.getItem('scenarios')) {
+        load_district_data({ commit, dispatch }) {
+            if (localStorage.getItem('district_data')) {
                 try {
-                    const scenarios = JSON.parse(localStorage.getItem('scenarios'));
-                    commit("set_scenarios", scenarios);
+                    const district_data = JSON.parse(localStorage.getItem('district_data'));
+                    commit("set_district_data", district_data);
                 } catch (e) {
-                    console.error("issue loading scenarios", e);
-                    localStorage.removeItem("scenarios");
+                    console.error("issue loading district_data", e);
+                    localStorage.removeItem("district_data");
                 }
             }
+        },
+        clear_district_data( {commit,dispatch}, district) {
+            commit("clear_district_data",district ) 
+            dispatch("save_district_data")
+        },
+        load_district_revision( {state,commit }, district_revision){
+            const revisions = state.history.filter( d => d.revision == district_revision)
+            if( revisions.length == 0){ alert("Unable to find Revision " + district_revision)}
+            commit("set_district", revisions[0])
         }
     }
 })
