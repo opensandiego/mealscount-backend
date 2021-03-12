@@ -123,6 +123,3 @@ class StrategyTestCase(unittest.TestCase,CEPTestMixin):
 
             # TODO how does a strategy define its expected result?
 
-
-
-

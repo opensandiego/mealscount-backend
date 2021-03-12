@@ -110,7 +110,7 @@
                   aria-pressed="true"
                   autocomplete="off"
                   v-on:click="reload"
-                >Reload Original</button>
+                >Start Over</button>
 
                <a href="#" @click="openFirstTimeModal">help</a>
           </div>
@@ -137,9 +137,6 @@
       </div>
 
     </div>  
-    <div class="overlay">
-      Please wait, optimization is running...
-    </div>
     <LoadingModal v-if="showLoading" />
     <ExportModal v-if="showExport" v-bind:district="district" @close="closeExportModal" v-bind:grouping_index="best_group_index" v-bind:reimbursement_index="reimbursement_index" />
     <ImportModal v-if="showImport" v-bind:district="district" @close="closeImportModal"  />
@@ -288,10 +285,12 @@ export default {
       this.showLoading = true
     },
     reload(){
-      this.$store.dispatch("clear_district_data",this.district).then( () => {
-        this.$store.dispatch("load_district",{code:this.district.code,state:this.district.state_code});
-        this.edited = false
-      })
+      if(confirm("Are you sure you want to reload the original data without any ADP numbers?")){
+        this.$store.dispatch("clear_district_data",this.district).then( () => {
+          this.$store.dispatch("load_district",{code:this.district.code,state:this.district.state_code});
+          this.edited = false
+        })
+      }
     },
     export_to_csv(){
       // todo figure out how to export to CSV
