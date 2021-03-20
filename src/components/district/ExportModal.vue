@@ -75,11 +75,10 @@ export default {
         "daily_breakfast_served",
         "daily_lunch_served",
         "included_in_optimization",
+        "sfa_certified",
+        "hhfka_sixty",
+        "severe_need",
         "estimated_school_reimbursement",
-        "free_lunch_rate",
-        "paid_lunch_rate",
-        "free_bkfst_rate",
-        "paid_bkfst_rate",
       ].join(',') + '\n'
 
       let i = 0;
@@ -95,11 +94,10 @@ export default {
             s.daily_breakfast_served,
             s.daily_lunch_served,
             s.active,
+            this.district.sfa_certified,
+            this.district.hhfka_sixty,
+            s.severe_need,
             (s.school_code in this.reimbursement_index)?this.reimbursement_index[s.school_code]:'',
-            i == 0 ? this.district.rates.free_lunch : "",
-            i == 0 ? this.district.rates.paid_lunch : "",
-            i == 0 ? this.district.rates.free_bfast : "",
-            i == 0 ? this.district.rates.paid_bfast : "",
           ].join(',') + "\n"
           i += 1
       })

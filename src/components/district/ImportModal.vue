@@ -123,11 +123,13 @@ export default {
         return
       }
       try{
-            if( rows[0].free_lunch_rate != undefined){
-              district.rates.free_lunch = Number(rows[0].free_lunch_rate);
-              district.rates.paid_lunch = Number(rows[0].paid_lunch_rate);
-              district.rates.free_bfast = Number(rows[0].free_bkfst_rate);
-              district.rates.paid_bfast = Number(rows[0].paid_bkfst_rate);
+            if( rows[0].sfa_certified != undefined){
+              district.sfa_certified = Boolean(rows[0].sfa_certified);
+            }
+            if( rows[0].hhfka_sixty != undefined){
+              district.hhfka_sixty = rows[0].hhfka_sixty;
+            }else{ 
+              district.hhfka_sixty = "more";
             }
             district.schools = [];
             rows.forEach( row => {
