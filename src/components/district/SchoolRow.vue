@@ -30,7 +30,16 @@
         <td>
             {{  ((school.total_eligible / school.total_enrolled)>=0.4)?"✔️":""  }}
         </td> 
-        <td class="text-right"> {{ reimbursement|toUSD }}</td>
+        <td class="text-right">
+            <span class="school_reimb">{{ reimbursement|toUSD }}</span>
+            <div class="rate_detail">
+                <strong>Site Reimbursement Rates</strong><br>
+                Free Breakfast: {{ school.rates.free_bfast | toUSDc }}<br>
+                Paid Breakfast: {{ school.rates.paid_bfast | toUSDc }}<br>
+                Free Lunch: {{ school.rates.free_lunch | toUSDc }}<br>
+                Paid Lunch: {{ school.rates.paid_lunch | toUSDc }}
+            </div>
+        </td>
     </tr>
 </template>
 
@@ -49,5 +58,15 @@ export default {
 <style scoped>
     .excluded {
         color: #aaa;
+    }
+    .rate_detail { display:none; }
+    .school_reimb { cursor: pointer; }
+    .school_reimb:hover + .rate_detail {
+        position: absolute;
+        right: 0px;
+        background-color: white;
+        border: solid 1px black;
+        padding: 8px;
+        display: block;
     }
 </style>

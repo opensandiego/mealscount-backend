@@ -24,6 +24,18 @@ export function toUSDx(value) {
     return formatter.format(value); // in MealsCount, we are not concerned with the cents
 };
 
+export function toUSDc(value){
+    if (typeof value !== "number") {
+        return value;
+    }
+    var formatter = new Intl.NumberFormat('en-US', {
+        style: 'currency',
+        currency: 'USD',
+        minimumFractionDigits: 2
+    });
+    return formatter.format(value); // except when showing rates..
+}
+
 export function toCount(value){
     if (typeof value !== "number") {
         return value;
