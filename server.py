@@ -57,7 +57,7 @@ def get_district(state,code,district_params):
         # TODO check for updated row data in district_params!
         school = CEPSchool(row)
         if district == None:
-            district = CEPDistrict(school.district,school.district_code)
+            district = CEPDistrict(school.district,school.district_code,state=state)
         district.add_school(school)
 
     return district
@@ -121,9 +121,8 @@ def optimize_async():
 def optimize():
     d_obj = request.json
     schools = d_obj["schools"]
-    district = CEPDistrict(d_obj["name"],d_obj["code"],reimbursement_rates=d_obj["rates"])
-
     state = d_obj["state_code"]
+    district = CEPDistrict(d_obj["name"],d_obj["code"],state=state,sfa_certified=d_obj["sfa_certified"],hhfka_sixty=d_obj["hhfka_sixty"])
 
     i = 1 
     for row in schools:
@@ -160,9 +159,8 @@ def optimize():
 def calculate():
     d_obj = request.json
     schools = d_obj["schools"]
-    district = CEPDistrict(d_obj["name"],d_obj["code"],reimbursement_rates=d_obj["rates"])
-
     state = d_obj["state_code"]
+    district = CEPDistrict(d_obj["name"],d_obj["code"],state=state,sfa_certified=d_obj["sfa_certified"],hhfka_sixty=d_obj["hhfka_sixty"])
 
     # TODO consolidate with optimize() above
     i = 1 

@@ -1,4 +1,5 @@
 from abc import ABC,abstractmethod
+from enum import Enum
 
 # Shortcut to deal with commas in integers from csv
 def i(x):
@@ -22,7 +23,6 @@ LUNCH_EST_PARTICIPATION = (0.5998,0.9285)
 EST_BFAST_INCREASE = 1.02 # TODO verify
 EST_LUNCH_INCREASE = 1.02 # TODO verify
 
-
 class CEPSchool(object):
     def __init__(self,data):
         # TODO move these explicit column names to 
@@ -37,6 +37,7 @@ class CEPSchool(object):
         self.direct_cert = i(data.get('direct_cert',0))
         self.frpm = i(data.get('unduplicated_frpm',0))
         self.total_eligible = i(data.get('total_eligible',self.direct_cert ))
+        self.severe_need = bool(data.get('severe_need',False))
 
         # NOTE based upon California data, total eligible is "direct_cert", but still in progress!
         #i(data.get('unduplicated_frpm',0)) # (self.foster + self.homeless + self.migrant + self.direct_cert)
@@ -56,11 +57,14 @@ class CEPSchool(object):
         else:
             self.isp = round(self.total_eligible / float(self.total_enrolled), 4)
 
+    def set_rates(self,district):
+        self.rates = CEPRate(district.state,district.sfa_certified,district.hhfka_sixty,self.severe_need)
+
     def __repr__(self):
         return "%s %s" % (self.name,self.code)
 
-    def as_dict(self):
-        return {
+    def as_dict(self,district=None):
+        obj = {
             'school_code': self.code,
             'school_name': self.name,
             'school_type': self.school_type,
@@ -70,7 +74,12 @@ class CEPSchool(object):
             "daily_lunch_served": self.lunch_served,
             'isp': self.isp,
             'active': self.active,
+            'severe_need': self.severe_need,
         }
+        if district:
+            self.set_rates(district)
+            obj["rates"] = self.rates.as_dict()
+        return obj
 
 class CEPGroup(object):
     def __init__(self,district,group_name,schools):
@@ -134,29 +143,20 @@ class CEPGroup(object):
     @property
     def paid_daily_lunch_served(self): return self.daily_lunch_served * self.paid_rate
 
-    @property
-    def free_breakfast_rate(self): return self.district.fed_reimbursement_rates['free_bfast']
-    @property
-    def paid_breakfast_rate(self): return self.district.fed_reimbursement_rates['paid_bfast']
-    @property
-    def free_lunch_rate(self): return self.district.fed_reimbursement_rates['free_lunch']
-    @property
-    def paid_lunch_rate(self): return self.district.fed_reimbursement_rates['paid_lunch']
-
     def school_state_reimbursement(self,school):
-        if not self.district.state_funding: return 0
-        pass # TODO calculate the state reimbursement based on this school and the district's state funding class
+        return 0  # TODO calculate the state reimbursement based on this school and the district's state funding class
 
     def est_state_reimbursement(self):
-        if not self.district.state_funding: return 0
-        pass # Todo aggregate state reimbursement
+        return 0 # Todo aggregate state reimbursement
 
-    def school_reimbursement(self,school):
+    def school_reimbursement(self,school): 
+        ''' Calculate a school's reimbursement given this group's isp free_rate and paid_rate percentages'''
         if not self.cep_eligible: return 0
-        result = school.bfast_served * self.free_breakfast_rate * self.free_rate + \
-               school.bfast_served * self.paid_breakfast_rate * self.paid_rate + \
-               school.lunch_served * self.free_lunch_rate * self.free_rate + \
-               school.lunch_served * self.paid_lunch_rate  * self.paid_rate
+        school.set_rates(self.district)
+        result = school.bfast_served * school.rates.free_breakfast_rate * self.free_rate + \
+               school.bfast_served * school.rates.paid_breakfast_rate * self.paid_rate + \
+               school.lunch_served * school.rates.free_lunch_rate * self.free_rate + \
+               school.lunch_served * school.rates.paid_lunch_rate * self.paid_rate
         if self.district.sfa_certified:
             result += school.lunch_served * 0.07
         return round(result,2)
@@ -164,43 +164,7 @@ class CEPGroup(object):
     def est_reimbursement(self):
         '''basic estimate for daily reimbursement based on the given meal participation estimates
         '''
-
         return sum([self.school_reimbursement(s) for s in self.schools])
-
-#        if not self.cep_eligible:
-#            return 0 
-#
-#        result = self.free_daily_breakfast_served * self.free_breakfast_rate + \
-#                 self.paid_daily_breakfast_served * self.paid_breakfast_rate + \
-#                 self.free_daily_lunch_served * self.free_lunch_rate + \
-#                 self.paid_daily_lunch_served * self.paid_lunch_rate 
-#        
-#        if self.district.sfa_certified:
-#            result += self.daily_lunch_served * 0.06
-#
-#        return result
-#
-#        # TODO Identify federal reimbursement rates per this District (see CEP Estimator XLS file)
-#        bfast_re = (self.free_rate * self.district.fed_reimbursement_rates['free_bfast'] +
-#                    self.paid_rate * self.district.fed_reimbursement_rates['paid_bfast'])
-#        lunch_re = (self.free_rate * self.district.fed_reimbursement_rates['free_lunch'] +
-#                    self.paid_rate * self.district.fed_reimbursement_rates['paid_lunch'])
-#
-#        eligible_breakfast_low = sum([s.bfast_served_low for s in self.schools])
-#        eligible_lunch_low = sum([s.lunch_served_low for s in self.schools]) 
-#        eligible_breakfast_high = sum([s.bfast_served_high for s in self.schools])
-#        eligible_lunch_high = sum([s.lunch_served_high for s in self.schools])
-# 
-#        if self.district.sfa_certified:
-#            return {
-#                "low": eligible_breakfast_low * (bfast_re + .06) + eligible_lunch_low * (lunch_re + 0.06),
-#                "high": eligible_breakfast_high * (bfast_re + .06) + eligible_lunch_high * (lunch_re + 0.06)
-#            }
-#        else:
-#            return {
-#                "low": eligible_breakfast_low * bfast_re + eligible_lunch_low * lunch_re,
-#                "high": eligible_breakfast_high * bfast_re + eligible_lunch_high * lunch_re
-#            }
 
     def __repr__(self):
         if self.isp == None:
@@ -227,24 +191,18 @@ class CEPGroup(object):
         } 
 
 class CEPDistrict(object):
-    def __init__(self,name,code,reimbursement_rates=None,sfa_certified=False,state_funding=None):
+    def __init__(self,name,code,sfa_certified=False,hhfka_sixty="more",state="ca"):
         self.name = name
         self.code = code
         self._schools = [] 
         self.groups = []
         self.sfa_certified = sfa_certified # TODO provide as input
+        self.hhfka_sixty = hhfka_sixty # Expect "less","more" or "max"
+        assert( hhfka_sixty in ("less","more","max") ) 
         self.anticipated_rate_change = 0.02
         self.strategies = []
         self.best_strategy = None
-
-        self.state_funding = state_funding 
-
-        # **Note** there might be a nuance with free_bfast. Ask Heidi
-        # make this an input or parameter; will change per district and year-over-year
-        if reimbursement_rates:
-            self.fed_reimbursement_rates = reimbursement_rates
-        else:
-            self.fed_reimbursement_rates = {'free_lunch': 3.41, 'paid_lunch': 0.32, 'free_bfast': 1.84, 'paid_bfast': 0.31}
+        self.state = state
 
     def __lt__(self,other_district):
         return self.total_enrolled < other_district.total_enrolled
@@ -307,12 +265,13 @@ class CEPDistrict(object):
             "total_enrolled": self.total_enrolled,
             "overall_isp": self.overall_isp,
             "school_count": len(self.schools),
+            "sfa_certified": self.sfa_certified,
+            "hhfka_sixty": self.hhfka_sixty,
             "best_strategy": self.best_strategy and self.best_strategy.name or None,
             "est_reimbursement": self.best_strategy and self.best_strategy.reimbursement or 0.0,
-            'rates': self.fed_reimbursement_rates,
         }
         if include_schools:
-            result["schools"] = [ s.as_dict() for s in self._schools]
+            result["schools"] = [ s.as_dict(self) for s in self._schools]
         if include_strategies and self.strategies:
             result["strategies"] = [ s.as_dict() for s in self.strategies ]
             result["best_index"] = self.strategies.index(self.best_strategy)
@@ -393,3 +352,75 @@ class BaseCEPStrategy(ABC):
 class AbstractStateFunding(object):
     def get_funding(self,school):
         return 0
+
+# Rates Updated for 2021-2022
+class CEPRate(object):
+    def __init__(self,state,sfa_certified,hhfka_sixty,severe_need):
+        state = state.upper()
+        ## ALASKA ##
+        if state == "AK":
+            # Lunch
+            if hhfka_sixty == "less":
+                self.free_lunch_rate = 5.70
+                self.paid_lunch_rate = 0.54
+            elif hhfka_sixty == "more":
+                self.free_lunch_rate = 5.72
+                self.paid_lunch_rate = 0.56
+            else:  #max
+                self.free_lunch_rate = 5.94
+                self.paid_lunch_rate = 0.65
+            # Breakfast 
+            if not severe_need:
+                self.free_breakfast_rate = 3.03
+                self.paid_breakfast_rate = 0.49
+            else:
+                self.free_breakfast_rate = 3.64 
+                self.paid_breakfast_rate = 0.49
+
+        ## Puerto Rico, Guam, Hawaii, Virgin Islands ##
+        elif state in ("PR","GM","HI","VI"):
+            # Lunch
+            if hhfka_sixty == "less":
+                self.free_lunch_rate = 4.11 
+                self.paid_lunch_rate = 0.39
+            elif hhfka_sixty == "more":
+                self.free_lunch_rate = 4.13
+                self.paid_lunch_rate = 0.41
+            else:  #max
+                self.free_lunch_rate = 4.30
+                self.paid_lunch_rate = 0.47
+            # Breakfast 
+            if not severe_need:
+                self.free_breakfast_rate = 2.21 
+                self.paid_breakfast_rate = 0.37
+            else:
+                self.free_breakfast_rate = 2.64 
+                self.paid_breakfast_rate = 0.37
+
+        ## Contiguous 48 ##
+        else:
+            # Lunch
+            if hhfka_sixty == "less":
+                self.free_lunch_rate = 3.51
+                self.paid_lunch_rate = 0.33
+            elif hhfka_sixty == "more":
+                self.free_lunch_rate = 3.53
+                self.paid_lunch_rate = 0.35
+            else:  #max
+                self.free_lunch_rate = 3.68
+                self.paid_lunch_rate = 0.41
+            # Breakfast 
+            if not severe_need:
+                self.free_breakfast_rate = 1.89 
+                self.paid_breakfast_rate = 0.32
+            else:
+                self.free_breakfast_rate = 2.26 
+                self.paid_breakfast_rate = 0.32
+
+    def as_dict(self):
+        return {
+            "free_bfast": self.free_breakfast_rate,
+            "paid_bfast": self.paid_breakfast_rate,
+            "free_lunch": self.free_lunch_rate,
+            "paid_lunch": self.paid_lunch_rate,
+        }

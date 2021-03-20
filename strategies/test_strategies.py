@@ -1,6 +1,6 @@
 from . import STRATEGIES
 import unittest
-from .base import CEPDistrict,CEPSchool,CEPGroup
+from .base import CEPDistrict,CEPSchool,CEPGroup,CEPRate
 
 SCHOOL_DATA_COLS = ["District Code","School Name","School Code",\
                     "foster","homeless","migrant","direct_cert",\
@@ -79,6 +79,17 @@ class CEPTestCase(unittest.TestCase,CEPTestMixin):
         self.assertAlmostEqual(g.free_rate,0.72)
         self.assertAlmostEqual(g.paid_rate,0.28)
 
+    def test_rate_determination(self):
+        # State, SFA, 60%, Severe Need 
+        r = CEPRate("ak",True,"more",True)
+        self.assertEqual(r.paid_lunch_rate,0.56)
+        self.assertEqual(r.free_breakfast_rate,3.64)
+        r = CEPRate("ny",True,"less",False)
+        self.assertEqual(r.free_breakfast_rate,1.89)
+        self.assertEqual(r.paid_lunch_rate,0.33)
+        r = CEPRate("tx",True,"max",True)
+        self.assertEqual(r.paid_breakfast_rate,0.32)
+        self.assertEqual(r.free_lunch_rate,3.68)
     
     def test_group(self):
         district = self.create_default_districts()

@@ -324,7 +324,13 @@ class GreedyLPStrategy(BaseCEPStrategy):
         """
         # Prepare data structures
         df    = pd.DataFrame(list(map(lambda x: x.as_dict(), district.schools)))
-        rates = district.fed_reimbursement_rates
+        district.schools[0].set_rates(district)
+        rates = {
+            "free_bfast": district.schools[0].rates.free_breakfast_rate,
+            "paid_bfast": district.schools[0].rates.paid_breakfast_rate,
+            "free_lunch": district.schools[0].rates.free_lunch_rate,
+            "paid_lunch": district.schools[0].rates.paid_lunch_rate,
+        }
         
         # Drop schools with duplicate school codes
         df = df.iloc[df['school_code'].drop_duplicates().index]\

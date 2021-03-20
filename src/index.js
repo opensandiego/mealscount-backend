@@ -6,7 +6,7 @@ import Vue from 'vue';
 import App from './components/App.vue'
 import store from './store.js';
 import router from './router.js';
-import { toUSD, toCount, toUSDx } from './filters.js';
+import { toUSD, toCount, toUSDx, toUSDc } from './filters.js';
 import { VTooltip, VPopover, VClosePopover } from 'v-tooltip'
 
 import VueGtag from "vue-gtag";
@@ -24,6 +24,7 @@ if(body.dataset.analyticsId){
 // Register global filters
 Vue.filter('toUSD', toUSD);
 Vue.filter('toUSDx', toUSDx);
+Vue.filter('toUSDc', toUSDc );
 Vue.filter('toCount', toCount );
 
 Vue.use(VTooltip)
