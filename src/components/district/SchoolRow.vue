@@ -32,7 +32,7 @@
         </td> 
         <td class="text-right">
             <span class="school_reimb">{{ reimbursement|toUSD }}</span>
-            <div class="rate_detail">
+            <div v-if="school.rates != null" class="rate_detail">
                 <strong>Site Reimbursement Rates</strong><br>
                 Free Breakfast: {{ school.rates.free_bfast | toUSDc }}<br>
                 Paid Breakfast: {{ school.rates.paid_bfast | toUSDc }}<br>
