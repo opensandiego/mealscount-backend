@@ -146,6 +146,7 @@ export default {
                 }
             })
             self.showComplete = true
+            alert("Imported " + district.schools.length + " Schools")
           }catch(error){
             alert(error.message);
           }
