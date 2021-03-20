@@ -23,6 +23,12 @@ class CEPTestCase(unittest.TestCase):
         self.assertEqual(obj["hhfka_sixty"],"less")
 
 
+    def test_lambda(self):
+        from lambda_function import test_run
+        import datetime
+        sobj = oceanside()
+        test_run(sobj,datetime.datetime.now())
+
 # Mostly accurate, severe need is not accurate
 def oceanside():
     return {

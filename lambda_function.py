@@ -8,6 +8,7 @@ import os,datetime,json,time
 import zipfile
 from io import BytesIO
 import base64
+import sys
 
 import boto3,botocore
 
@@ -36,7 +37,7 @@ def lambda_handler(event, context, local_output=False):
     key = d_obj["key"]
 
     schools = d_obj["schools"]
-    district = CEPDistrict(d_obj["name"],d_obj["code"],reimbursement_rates=d_obj["rates"])
+    district = CEPDistrict(d_obj["name"],d_obj["code"],state=d_obj["state_code"])
 
     state = d_obj["state_code"]
 
@@ -88,12 +89,7 @@ def lambda_handler(event, context, local_output=False):
             ACL='public-read',
         )
 
-if __name__ == "__main__":
-    # For Local Testing
-    import sys
-    n = datetime.datetime.now()
-    with open(sys.argv[1]) as f:
-        event = json.loads(f.read())
+def test_run(event,n):
         event["key"] = "test/%i/%02i/%02i/%02i%02i%02i-%s.json" % (
             n.year,n.month,n.day,n.hour,n.minute,n.second,event["code"]
         )
@@ -106,4 +102,13 @@ if __name__ == "__main__":
                 with zipfile.ZipFile(mf,mode='w',compression=zipfile.ZIP_BZIP2) as zf:
                     zf.writestr('data.json', json.dumps(event))
                 event = {"zipped": base64.b64encode(mf.getvalue()) }
+
         lambda_handler(event,TestContext(),local_output="AWS_ACCESS_KEY_ID" not in os.environ)
+
+if __name__ == "__main__":
+    # For Local Testing
+    n = datetime.datetime.now()
+    with open(sys.argv[1]) as f:
+        event = json.loads(f.read())
+        test_run(event,n)
+
