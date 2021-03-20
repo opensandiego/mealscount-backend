@@ -10,20 +10,15 @@ import json
 
 #### CLI ####
 
-def parse_districts(school_data,strategies,rates=None):
+def parse_districts(school_data,strategies,state):
     districts = {}
-    if rates:
-        rates = dict(zip(
-            ('free_lunch','paid_lunch','free_bfast','paid_bfast'),
-            [float(x) for x in rates.split(',')],
-        ))
     for row in school_data:
         if not row.get("included_in_optimization",True):
             continue
         school = CEPSchool(row)
         district_name,district_code = row.get('District Name',row.get('district_name','Default')),row.get('District Code',row.get('district_code','1'))
         if district_name not in districts:
-            district = CEPDistrict(district_name,district_code,reimbursement_rates=rates)
+            district = CEPDistrict(district_name,district_code,reimbursement_rates=rates,state=state)
             for s in strategies:
                 StrategyClass,params,strategy_name = s
                 district.strategies.append( StrategyClass(params,name=strategy_name) )
@@ -55,7 +50,7 @@ def add_strategies(district,*strategies):
 @click.option("--output-folder",default=None,help="Folder to output per-district json and district overview json for website")
 @click.option("--evaluate-by",default="reimbursement",help="Optimize by reimbursement or coverage")
 @click.option("--investigate",default=False,is_flag=True,help="Stop before exiting in a shell to investigate results")
-@click.option("--rates", default=None, help="Rates specified as freelunch,paidlunch,freebkfst,paidbkfst, e.g. '3.31,0.31,2.14,0.31' ")
+@click.option("--state",default="ca",help="State code")
 @click.argument("cupc_csv_file",nargs=1)
 @click.argument("strategies",nargs=-1)
 def cli(    cupc_csv_file,
@@ -69,7 +64,7 @@ def cli(    cupc_csv_file,
             output_csv=None,
             output_folder=None,
             investigate=False,
-            rates=None,
+            state="ca",
             evaluate_by="reimbursement" ):
     """CEP Estimator - runs strategies for grouping School Districts into optimial CEP coverage
 
@@ -103,7 +98,7 @@ Expected CSV File columns
     
     strategies = [parse_strategy(s) for s in strategies]
 
-    districts = parse_districts(schools,strategies = strategies,rates=rates)
+    districts = parse_districts(schools,strategies = strategies,state=state)
 
     print("Districts with 10 or less schools: %0.0f%%" % (len([d for d in districts if len(d.schools) <= 10])/float(len(districts)) * 100))
 
