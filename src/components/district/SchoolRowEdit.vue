@@ -20,9 +20,12 @@
             <input type="number" v-model="school.daily_lunch_served" min="0" required />
         </td>
         <td>
-            <input type="checkbox" v-model="school.active" />
+            <input type="checkbox" v-model="school.severe_need" />
         </td>
         <td>
+            <input type="checkbox" v-model="school.active" />
+        </td>
+         <td>
             {{ ( (school.total_eligible / school.total_enrolled) * 100).toFixed(1) }}%
         </td>
         <td>

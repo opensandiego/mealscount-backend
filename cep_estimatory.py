@@ -18,7 +18,7 @@ def parse_districts(school_data,strategies,state):
         school = CEPSchool(row)
         district_name,district_code = row.get('District Name',row.get('district_name','Default')),row.get('District Code',row.get('district_code','1'))
         if district_name not in districts:
-            district = CEPDistrict(district_name,district_code,reimbursement_rates=rates,state=state)
+            district = CEPDistrict(district_name,district_code,state=state)
             for s in strategies:
                 StrategyClass,params,strategy_name = s
                 district.strategies.append( StrategyClass(params,name=strategy_name) )

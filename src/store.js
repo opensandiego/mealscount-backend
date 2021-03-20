@@ -36,6 +36,7 @@ export default new Vuex.Store({
                             s.total_eligible = s1.total_eligible
                             s.daily_breakfast_served = s1.daily_breakfast_served
                             s.daily_lunch_served = s1.daily_lunch_served
+                            s.severe_need = s1.severe_need
                         }
                     })
                 // load school numbers
@@ -60,6 +61,7 @@ export default new Vuex.Store({
                     total_eligible: s.total_eligible, 
                     daily_breakfast_served: s.daily_breakfast_served,
                     daily_lunch_served: s.daily_lunch_served,
+                    severe_need: s.severe_need,
                 }
             })
             console.log("preserving district data",district.state_code,district.code,d)

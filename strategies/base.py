@@ -63,8 +63,8 @@ class CEPSchool(object):
     def __repr__(self):
         return "%s %s" % (self.name,self.code)
 
-    def as_dict(self):
-        return {
+    def as_dict(self,district=None):
+        obj = {
             'school_code': self.code,
             'school_name': self.name,
             'school_type': self.school_type,
@@ -74,8 +74,12 @@ class CEPSchool(object):
             "daily_lunch_served": self.lunch_served,
             'isp': self.isp,
             'active': self.active,
-            'sever_need': self.severe_need,
+            'severe_need': self.severe_need,
         }
+        if district:
+            self.set_rates(district)
+            obj["rates"] = self.rates.as_dict()
+        return obj
 
 class CEPGroup(object):
     def __init__(self,district,group_name,schools):
@@ -267,7 +271,7 @@ class CEPDistrict(object):
             "est_reimbursement": self.best_strategy and self.best_strategy.reimbursement or 0.0,
         }
         if include_schools:
-            result["schools"] = [ s.as_dict() for s in self._schools]
+            result["schools"] = [ s.as_dict(self) for s in self._schools]
         if include_strategies and self.strategies:
             result["strategies"] = [ s.as_dict() for s in self.strategies ]
             result["best_index"] = self.strategies.index(self.best_strategy)
@@ -351,7 +355,7 @@ class AbstractStateFunding(object):
 
 # Rates Updated for 2021-2022
 class CEPRate(object):
-   def __init__(self,state,sfa_certified,hhfka_sixty,severe_need):
+    def __init__(self,state,sfa_certified,hhfka_sixty,severe_need):
         state = state.upper()
         ## ALASKA ##
         if state == "AK":
@@ -412,3 +416,11 @@ class CEPRate(object):
             else:
                 self.free_breakfast_rate = 2.26 
                 self.paid_breakfast_rate = 0.32
+
+    def as_dict(self):
+        return {
+            "free_bfast": self.free_breakfast_rate,
+            "paid_bfast": self.paid_breakfast_rate,
+            "free_lunch": self.free_lunch_rate,
+            "paid_lunch": self.paid_lunch_rate,
+        }

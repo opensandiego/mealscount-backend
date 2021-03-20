@@ -299,21 +299,6 @@ export default {
     import_from_file(){
       this.showImport = true; 
     },
-    daily_reimbursement_by_school ( school_code ){
-      if(this.district_form.reimbursement_rates == null){
-        return "";
-      }
-      return "?"
-
-      // TODO - how do we determine group rate for this school?
-      // if group ISP < 0.4, $0
-      // if group ISP < 0.625, paid rate
-      // else free rate
-      const s = this.school_form[school_code];
-      const v = ( s.daily_breakfast_served * this.district_form.reimbursement_rates.free_bfast ) 
-                 + ( s.daily_lunch_served * this.district_form.reimbursement_rates.free_lunch )
-      return v;
-    },
     closeExportModal(){
       this.showExport = false;
     },

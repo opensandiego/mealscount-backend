@@ -38,10 +38,14 @@
                 </div>
             </th>
             <th v-tooltip 
+                title="Severe Need" 
+                scope="col" 
+                >Severe Need</th>
+            <th v-tooltip 
                 title="Indicates whether a given school is run through the grouping calculation. Uncheck the box to exclude a given school from the grouping calculation." 
                 scope="col" 
                 @click="set_sort('active')">Included in Optimization <img v-bind:src="image.qmark"></th>
-            <th v-tooltip 
+             <th v-tooltip 
                 title="Estimated ISP based upon listed numbers of total eligible / total enrolled" scope="col" @click="set_sort('isp')">Estimated School ISP <img v-bind:src="image.qmark"></th>
             <th v-tooltip 
                 title="Indicates whether a given school is eligible for CEP (at or above the 40% ISP threshold) without grouping." 

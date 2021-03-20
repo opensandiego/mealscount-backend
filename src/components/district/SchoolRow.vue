@@ -19,6 +19,9 @@
         <td>{{ school.daily_breakfast_served | toCount }}</td>
         <td>{{ school.daily_lunch_served | toCount }}</td>
         <td>
+            <span v-if="school.severe_need">✔️</span>
+        </td>
+        <td>
             <span v-if="school.active">✔️</span>
         </td>
         <td>

@@ -122,8 +122,7 @@ def optimize():
     d_obj = request.json
     schools = d_obj["schools"]
     state = d_obj["state_code"]
-    district = CEPDistrict(d_obj["name"],d_obj["code"],state=state)
-
+    district = CEPDistrict(d_obj["name"],d_obj["code"],state=state,sfa_certified=d_obj["sfa_certified"],hhfka_sixty=d_obj["hhfka_sixty"])
 
     i = 1 
     for row in schools:
@@ -161,7 +160,7 @@ def calculate():
     d_obj = request.json
     schools = d_obj["schools"]
     state = d_obj["state_code"]
-    district = CEPDistrict(d_obj["name"],d_obj["code"],state=state)
+    district = CEPDistrict(d_obj["name"],d_obj["code"],state=state,sfa_certified=d_obj["sfa_certified"],hhfka_sixty=d_obj["hhfka_sixty"])
 
     # TODO consolidate with optimize() above
     i = 1 

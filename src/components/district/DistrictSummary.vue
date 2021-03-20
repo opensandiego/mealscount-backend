@@ -43,15 +43,25 @@
             <dd v-else>
               <p>To view reimbursements, please enter in your Average Daily Participation numbers.</p>
             </dd>
-          <dt>Federal Reimbursement Rates</dt>
-          <dd>
-            <ul v-if="district.rates">
-              <li>Lunch (free) <span v-if="editMode"><input v-model.number="district.rates.free_lunch" ></span><span v-else>{{ district.rates.free_lunch | toUSDx }}</span>  </li>
-              <li>Lunch (paid) <span v-if="editMode"><input v-model.number="district.rates.paid_lunch" ></span><span v-else>{{ district.rates.paid_lunch | toUSDx }}</span>  </li>
-              <li>Breakfast (free)  <span v-if="editMode"><input v-model.number="district.rates.free_bfast" ></span><span v-else>{{ district.rates.free_bfast | toUSDx }}</span>  </li>
-              <li>Breakfast (paid)  <span v-if="editMode"><input v-model.number="district.rates.paid_bfast" ></span><span v-else>{{ district.rates.paid_bfast | toUSDx }}</span>  </li>
-            </ul>
-          </dd>
+          <dt>Determining Rates</dt>
+          <div>
+            <div>
+              SFA Certified 
+              <span v-if="editMode"><input v-model="district.sfa_certified" type="checkbox" /></span>
+              <span v-else-if="district.sfa_certified">Yes</span>
+              <span v-else>No</span>
+            </div>
+            <div>
+              <span v-if="editMode">
+                <select v-model="district.hhfka_sixty">
+                  <option value="less">Less than 60%</option>
+                  <option value="more">More than 60%</option>
+                  <option value="max">Maximum</option>
+                </select>
+              </span>
+              <span v-else>HHFKA 60%: {{ district.hhfka_sixty}}</span>
+            </div>
+          </div>
         </dl>
       </div>
 </template>
