@@ -46,20 +46,35 @@
           <dt>Determining Rates</dt>
           <div>
             <div>
-              SFA Certified 
-              <span v-if="editMode"><input v-model="district.sfa_certified" type="checkbox" /></span>
-              <span v-else-if="district.sfa_certified">Yes</span>
-              <span v-else>No</span>
+              <strong>SFA Certified</strong> 
+              <p>
+                Is your menu certified for the additional 7 cents?              
+                <span v-if="editMode"><input v-model="district.sfa_certified" type="checkbox" /></span>
+                <span v-else-if="district.sfa_certified">
+                  <strong>Yes</strong>
+                </span>
+                <span v-else>
+                  <strong>No</strong>
+                </span>
+              </p>
             </div>
             <div>
-              <span v-if="editMode">
-                <select v-model="district.hhfka_sixty">
-                  <option value="less">Less than 60%</option>
-                  <option value="more">More than 60%</option>
-                  <option value="max">Maximum</option>
-                </select>
-              </span>
-              <span v-else>HHFKA 60%: {{ district.hhfka_sixty}}</span>
+              <strong>NSLA 60%+ Rate</strong>
+              <p>
+                Were at least 60% of lunches served to students who qualify for free and reduced-price meals in the second preceding school year?
+                <span v-if="editMode">
+                  <select v-model="district.hhfka_sixty">
+                    <option value="less">Less than 60%</option>
+                    <option value="more">More than 60%</option>
+                    <option value="max">Maximum</option>
+                  </select>
+                </span>
+                <span v-else>
+                  <strong v-if="district.hhfka_sixty == 'less'">Less than 60%</strong>
+                  <strong v-else-if="district.hhfka_sixty == 'more'">More than 60%</strong>
+                  <strong v-else-if="district.hhfka_sixty == 'max'">Maximum Reimbursement</strong>
+                </span>
+                </p>
             </div>
           </div>
         </dl>
