@@ -1,8 +1,9 @@
 <template>
   <div>
     <div class="flex-column text-center alert-warning py-1 small">
-          <strong>Reminder</strong> - Download your data <strong>BEFORE April 1st 2021</strong>! All student data must be current as of <strong>April 1</strong> of the year prior to implementing the CEP.
+          <!--<strong>Reminder</strong> - Download your data <strong>BEFORE April 1st 2021</strong>! All student data must be current as of <strong>April 1</strong> of the year prior to implementing the CEP. -->
           <!--<a target="_blank" href="https://www.fns.usda.gov/cn/covid-19-cep-deadlines-waiver">learn more &raquo;</a>-->
+          <strong>Updated</strong> - CEP Deadlines Have Been Extended, make sure you download your data by June 30th! <router-link to="/faq">Learn More</router-link>!
     </div>
 
     <nav class="navbar navbar-expand-lg d-flex align-items-center">
