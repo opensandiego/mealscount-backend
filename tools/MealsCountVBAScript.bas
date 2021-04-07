@@ -1,7 +1,7 @@
 Attribute VB_Name = "MealsCount"
 ' Meals Count VBA Grouping Connector
 ' Requires https://github.com/VBA-tools/VBA-JSON
-' As well as Microsoft Scripting Runtime
+' And https://github.com/VBA-tools/VBA-Dictionary/releases
 ' Expects a range of cells called "MealsCountSchools"
 ' In the order
 ' Name,total enrolled, total eligible, breakfast adp, lunch adp, severe neeed, grouping
@@ -14,10 +14,10 @@ Public Sub GetGroupingsFromMealsCount()
     Dim Countdown As Integer
     
     Set Schools = New Collection
-    Set DistrictJson = New Scripting.Dictionary
+    Set DistrictJson = New Dictionary
     
     On Error Resume Next
-    Set SchoolRange = Sheets("MealsCount Import").Range("MealsCountSchools")
+    Set SchoolRange = Sheets("3. MEALSCOUNT IMPORT").Range("MealsCountSchools")
     If Err = 1004 Then
         MsgBox "School cells must be in a Named Range called MealsCountSchools"
         Exit Sub
@@ -31,7 +31,7 @@ Public Sub GetGroupingsFromMealsCount()
 
     For Each Row In SchoolRange.Rows
         If Not IsEmpty(Row.Cells(1, 1).Value) Then
-            Set School = New Scripting.Dictionary
+            Set School = New Dictionary
             School.Add "school_name", Row.Cells(1, 1).Value
             School.Add "school_code", Row.Cells(1, 1).Value
             School.Add "total_enrolled", Row.Cells(1, 2).Value
@@ -66,7 +66,7 @@ Public Sub GetGroupingsFromMealsCount()
                 Set Result = JsonConverter.ParseJson(PollRequest.responseText)
                 Set Groupings = Result("strategies")(Result("best_index") + 1)("groups")
                 num = 0
-                Set SchoolGroupMap = New Scripting.Dictionary
+                Set SchoolGroupMap = New Dictionary
                 For Each Group In Groupings:
                     num = num + 1
                     For Each SchoolName In Group("school_codes")
