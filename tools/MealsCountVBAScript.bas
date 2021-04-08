@@ -16,17 +16,33 @@ Public Sub GetGroupingsFromMealsCount()
     Set Schools = New Collection
     Set DistrictJson = New Dictionary
     
+
     On Error Resume Next
-    Set SchoolRange = Sheets("3. MEALSCOUNT IMPORT").Range("MealsCountSchools")
+    Set SchoolRange = Range("MealsCountSchools")
     If Err = 1004 Then
         MsgBox "School cells must be in a Named Range called MealsCountSchools"
         Exit Sub
     End If
     
+    Set StateRange = Range("MealsCountState")
+    State = "ca"
+    If Err = 1004 Then
+    Else
+        State = StateRange.Cells(1, 1).Value
+    End If
     
-    DistrictJson.Add "state_code", "ca"
-    DistrictJson.Add "code", "12345"
-    DistrictJson.Add "name", "Test District"
+    Set DistrictRange = Range("MealsCountDistrict")
+    DistrictName = "DistrictName"
+    DistrictCode = "DistrictCode"
+    If Err = 1004 Then
+    Else
+        DistrictName = DistrictRange.Cells(1, 1).Value
+        DistrictCode = DistrictRange.Cells(2, 1).Value
+    End If
+    
+    DistrictJson.Add "state_code", State
+    DistrictJson.Add "code", DistrictCode
+    DistrictJson.Add "name", DistrictName
     DistrictJson.Add "schools", Schools
 
     For Each Row In SchoolRange.Rows
@@ -67,16 +83,21 @@ Public Sub GetGroupingsFromMealsCount()
                 Set Groupings = Result("strategies")(Result("best_index") + 1)("groups")
                 num = 0
                 Set SchoolGroupMap = New Dictionary
+                Set GroupDict = New Dictionary
                 For Each Group In Groupings:
                     num = num + 1
+                    GroupDict.Add num, Group
                     For Each SchoolName In Group("school_codes")
                         SchoolGroupMap.Add SchoolName, num
                     Next
                 Next
                 For Each Row In SchoolRange.Rows
                     SchoolName = Row.Cells(1, 1).Value
-                    If SchoolGroupMap.Exists(SchoolName) Then
+                    
+                    Set Group = GroupDict(SchoolGroupMap(SchoolName))
+                    If Not SchoolName Like "[]" And SchoolGroupMap.Exists(SchoolName) Then
                         Row.Cells(1, 7).Value = SchoolGroupMap(SchoolName)
+                        Row.Cells(1, 8).Value = Group("isp")
                     End If
                 Next
                 MsgBox "Groupings Updated!"

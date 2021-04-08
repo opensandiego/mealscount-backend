@@ -116,6 +116,9 @@
               <li>
                 <router-link to="/algorithms">About Algorithms</router-link>
               </li>
+              <li>
+                <router-link to="/integrating-with-excel">Integrating With Microsoft Excel</router-link>
+              </li>
             </ul>
           </div>
           <div class="col-12 col-md-4">
