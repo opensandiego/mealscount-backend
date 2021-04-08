@@ -11,6 +11,7 @@ import Algorithms from './components/Algorithms.vue'
 import Faq from "./components/Faq.vue";
 import StateFaq from "./components/StateFaq.vue";
 import Help from "./components/Help.vue";
+import ExcelIntegration from "./components/ExcelIntegration.vue";
 import Vue from 'vue';
 import VTooltip from 'v-tooltip'
 import Router from 'vue-router';
@@ -63,6 +64,11 @@ export default new Router({
             path: '/help', 
             name: 'help',
             component: Help,
+        },    
+        {
+            path: '/integrating-with-excel', 
+            name: 'excel',
+            component: ExcelIntegration,
         },    
         {
             path: '/contact', 
