@@ -67,16 +67,20 @@ Public Sub GetGroupingsFromMealsCount()
                 Set Groupings = Result("strategies")(Result("best_index") + 1)("groups")
                 num = 0
                 Set SchoolGroupMap = New Dictionary
+                Set GroupDict = New Dictionary
                 For Each Group In Groupings:
                     num = num + 1
+                    GroupDict.Add num, Group
                     For Each SchoolName In Group("school_codes")
                         SchoolGroupMap.Add SchoolName, num
                     Next
                 Next
                 For Each Row In SchoolRange.Rows
                     SchoolName = Row.Cells(1, 1).Value
+                    Set Group = GroupDict(SchoolGroupMap(SchoolName))
                     If SchoolGroupMap.Exists(SchoolName) Then
                         Row.Cells(1, 7).Value = SchoolGroupMap(SchoolName)
+                        Row.Cells(1, 8).Value = Group("isp")
                     End If
                 Next
                 MsgBox "Groupings Updated!"
