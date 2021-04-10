@@ -24,6 +24,7 @@ Public Sub GetGroupingsFromMealsCount()
         Exit Sub
     End If
     
+    On Error Resume Next
     Set StateRange = Range("MealsCountState")
     State = "ca"
     If Err = 1004 Then
@@ -31,13 +32,16 @@ Public Sub GetGroupingsFromMealsCount()
         State = StateRange.Cells(1, 1).Value
     End If
     
+    On Error Resume Next
     Set DistrictRange = Range("MealsCountDistrict")
     DistrictName = "DistrictName"
     DistrictCode = "DistrictCode"
     If Err = 1004 Then
     Else
-        DistrictName = DistrictRange.Cells(1, 1).Value
-        DistrictCode = DistrictRange.Cells(2, 1).Value
+        If Not IsEmpty(DistrictRange.Cells(1, 1)) Then
+            DistrictName = DistrictRange.Cells(1, 1).Value
+            DistrictCode = DistrictRange.Cells(1, 1).Value
+        End If
     End If
     
     DistrictJson.Add "state_code", State
@@ -60,55 +64,50 @@ Public Sub GetGroupingsFromMealsCount()
     Next
 
     ' MsgBox JsonConverter.ConvertToJson(DistrictJson)
-
-    With CreateObject("MSXML2.XMLHTTP")
-        .Open "POST", "https://www.mealscount.com/api/districts/optimize-async/", False
-        .setRequestHeader "Content-Type", "application/json"
-        .send JsonConverter.ConvertToJson(DistrictJson)
-        Set Result = JsonConverter.ParseJson(.responseText)
-        PollUrl = Result("results_url")
+    
+    Dim MealsCountClient As New WebClient
+    Dim Response As WebResponse
+    Dim Options As Dictionary
         
-        MsgBox "Schools sent to MealsCount.com, waiting for grouping result"
+    Set Response = MealsCountClient.PostJson("https://www.mealscount.com/api/districts/optimize-async/", DistrictJson, Options)
+    PollUrl = Response.Data("results_url")
         
-        Countdown = 60
-        Do While Not Result.Exists("code")
-            Application.Wait (Now + TimeValue("0:00:5"))
-            Countdown = Countdown - 1
-            
-            Set PollRequest = CreateObject("MSXML2.XMLHTTP")
-            PollRequest.Open "GET", PollUrl, False
-            PollRequest.send ""
-            If PollRequest.Status = 200 Then
-                Set Result = JsonConverter.ParseJson(PollRequest.responseText)
-                Set Groupings = Result("strategies")(Result("best_index") + 1)("groups")
-                num = 0
-                Set SchoolGroupMap = New Dictionary
-                Set GroupDict = New Dictionary
-                For Each Group In Groupings:
-                    num = num + 1
-                    GroupDict.Add num, Group
-                    For Each SchoolName In Group("school_codes")
-                        SchoolGroupMap.Add SchoolName, num
-                    Next
+    MsgBox "Schools sent to MealsCount.com, waiting for grouping result"
+        
+    Countdown = 60
+    Do While Not Result.Exists("code")
+        Application.Wait (Now + TimeValue("0:00:5"))
+        Countdown = Countdown - 1
+        
+        Set Response = MealsCountClient.GetJson(PollUrl)
+        If Response.StatusCode = 200 Then
+            Set Result = Response.Data
+            Set Groupings = Result("strategies")(Result("best_index") + 1)("groups")
+            num = 0
+            Set SchoolGroupMap = New Dictionary
+            Set GroupDict = New Dictionary
+            For Each Group In Groupings:
+                num = num + 1
+                GroupDict.Add num, Group
+                For Each SchoolName In Group("school_codes")
+                    SchoolGroupMap.Add SchoolName, num
                 Next
-                For Each Row In SchoolRange.Rows
-                    SchoolName = Row.Cells(1, 1).Value
-                    
-                    Set Group = GroupDict(SchoolGroupMap(SchoolName))
-                    If Not SchoolName Like "[]" And SchoolGroupMap.Exists(SchoolName) Then
-                        Row.Cells(1, 7).Value = SchoolGroupMap(SchoolName)
-                        Row.Cells(1, 8).Value = Group("isp")
-                    End If
-                Next
-                MsgBox "Groupings Updated!"
-                Exit Sub
-            End If
-        Loop
-        
-        MsgBox "Sorry, there was an error getting results. Please try again or contact us at mealscount.com/contact"
-        
-        .abort
-    End With
+            Next
+            For Each Row In SchoolRange.Rows
+                SchoolName = Row.Cells(1, 1).Value
+                
+                Set Group = GroupDict(SchoolGroupMap(SchoolName))
+                If Not SchoolName Like "[]" And SchoolGroupMap.Exists(SchoolName) Then
+                    Row.Cells(1, 7).Value = SchoolGroupMap(SchoolName)
+                    Row.Cells(1, 8).Value = Group("isp")
+                End If
+            Next
+            MsgBox "Groupings Updated!"
+            Exit Sub
+        End If
+    Loop
+    
+    MsgBox "Sorry, there was an error getting results. Please try again or contact us at mealscount.com/contact"
 
 End Sub
 

@@ -29,23 +29,23 @@
 
     <h3>Step 2: Download required files</h3>
 
-    <p>Meals Count VBA requires two additional open source VBA files to help it communicate with the website. 
-        Please download JsonConverter.bas and Dictionary.cls from the following links:</p>
+    <p>Meals Count VBA requires the open source <a href="http://vba-tools.github.io/VBA-Web/">VBA Tools</a> to help it communicate with the website. 
+        Please download the latest release from the following links:</p>
     
     <ul>
-        <li><a target="_blank" href="https://github.com/VBA-tools/VBA-JSON/releases">Download the latest Source Code zip release and extract JsonConverter.bas</a></li>
-        <li><a target="_blank" href="https://github.com/VBA-tools/VBA-Dictionary/releases">Download the latest Source Code zip release and extract Dictionary.cls</a></li>
+        <li><a target="_blank" href="https://github.com/VBA-tools/VBA-Web/releases">Download the latest release zip</a></li>
     </ul>
 
     <h3>Step 3: Import the files</h3>
 
-    <p>Once you have downloaded and extracted <em>JsonConverter.bas</em> and <em>Dictionary.cls</em>, open up the Visual Basic editor
-    by going to the <strong>Developer</strong> tab and clicking <strong>Visual Basic</strong>.
-    </p>
-    <p>In the Visual Basic Editor, go to <strong>File &gt; Import File</strong> and import <em>JsonConverter.bas</em>, <em>Dictionary.cls</em> and <em>MealsCountVBAScript.bas</em>
-    one by one (order does not matter)</p>
+    <p>Once you have downloaded and extracted VBA-Web, use either the <em>VBA-Web Blank</em> or the <em>VBA-Web Installer</em> sheets to install the necessary
+    components in your sheet. You will only need the <strong>VBA-Web</strong> and <strong>VBA-Dictionary</strong> default components.</p>
 
-    <h3>Step 4: Create the "MealsCount Import" sheet and named range</h3>
+    <p>Note you will need to enable macros, as well as go to Developer->Macro Security and check "Trust Access to the VBA Project Model" if you want to use the installer.</p>
+
+    <p>In the Visual Basic Editor, go to <strong>File &gt; Import File</strong> and import <em>MealsCountVBAScript.bas</em>. You should also see modules installed from VBA-Tools.</p>
+
+    <h3>Step 4: Create a MealsCount Import sheet and named range</h3>
 
     <p>To work, the VBA script requires a  Named Range that is 8 columns wide called "MealsCountSchools". </p>
 
