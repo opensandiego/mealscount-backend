@@ -70,6 +70,10 @@ def optimize_async():
 
     # Generate a key to publish the resulting file to
     event = request.json
+
+    if not event:
+        return {"error":"Invalid JSON data, please ensure all data fields are active"}
+
     n = datetime.datetime.now()
     key = "data/%i/%02i/%02i/%s-%s.json" % (
         n.year,n.month,n.day,
@@ -120,6 +124,10 @@ def optimize_async():
 @app.route("/api/districts/optimize/", methods=['POST'])
 def optimize():
     d_obj = request.json
+
+    if not d_obj:
+        return {"error":"Invalid JSON data, please ensure all data fields are active"}
+
     schools = d_obj["schools"]
     state = d_obj["state_code"]
     district = CEPDistrict(
@@ -167,6 +175,10 @@ def optimize():
 @app.route("/api/districts/calculate/", methods=['POST'])
 def calculate():
     d_obj = request.json
+
+    if not d_obj:
+        return {"error":"Invalid JSON data, please ensure all data fields are active"}
+
     schools = d_obj["schools"]
     state = d_obj["state_code"]
     district = CEPDistrict(

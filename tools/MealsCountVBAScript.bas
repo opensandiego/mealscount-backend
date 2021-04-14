@@ -80,6 +80,12 @@ Public Sub GetGroupingsFromMealsCount()
         Countdown = Countdown - 1
         
         Set Response = MealsCountClient.GetJson(PollUrl)
+
+        If Response.StatusCode = 400 Then
+            MsgBox "Error Encountered, please make sure all Meals Count Columns are defined"
+            Exit Sub
+        End If
+
         If Response.StatusCode = 200 Then
             Set Result = Response.Data
             Set Groupings = Result("strategies")(Result("best_index") + 1)("groups")
