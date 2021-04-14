@@ -122,7 +122,13 @@ def optimize():
     d_obj = request.json
     schools = d_obj["schools"]
     state = d_obj["state_code"]
-    district = CEPDistrict(d_obj["name"],d_obj["code"],state=state,sfa_certified=d_obj["sfa_certified"],hhfka_sixty=d_obj["hhfka_sixty"])
+    district = CEPDistrict(
+        d_obj.get("name","DistrictName"),
+        d_obj.get("code","DistrictCode"),
+        state=state,
+        sfa_certified=d_obj["sfa_certified"],
+        hhfka_sixty=d_obj["hhfka_sixty"]
+    )
 
     i = 1 
     for row in schools:
@@ -136,6 +142,9 @@ def optimize():
         row['include_in_mealscount'] = row.get('active','true') and 'true' or 'false'
         i += 1
         district.add_school(CEPSchool(row))
+
+    if not district.schools:
+        return {"error":"No schools provided"}
 
     # TODO allow this as a param
     add_strategies(
@@ -160,7 +169,13 @@ def calculate():
     d_obj = request.json
     schools = d_obj["schools"]
     state = d_obj["state_code"]
-    district = CEPDistrict(d_obj["name"],d_obj["code"],state=state,sfa_certified=d_obj["sfa_certified"],hhfka_sixty=d_obj["hhfka_sixty"])
+    district = CEPDistrict(
+        d_obj.get("name","DistrictName"),
+        d_obj.get("code","DistrictCode"),
+        state=state,
+        sfa_certified=d_obj["sfa_certified"],
+        hhfka_sixty=d_obj["hhfka_sixty"]
+    )
 
     # TODO consolidate with optimize() above
     i = 1 
@@ -179,6 +194,10 @@ def calculate():
         district.add_school(school)
         groupings.setdefault(row.get('grouping',None),[])
         groupings[row.get('grouping')].append(school.code)
+
+    # CONSIDER district validate
+    if not district.schools:
+        return {"error":"No schools provided"}
 
     # We direct this into the custom groups strategy which doesn't actually
     # do any optimization

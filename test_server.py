@@ -2,6 +2,7 @@ import unittest
 import json
 import server
 import pytest
+import copy
 from server import app 
 
 @pytest.fixture
@@ -29,9 +30,27 @@ class CEPTestCase(unittest.TestCase):
         sobj = oceanside()
         test_run(sobj,datetime.datetime.now())
 
+    def test_no_district_name(self):
+        sobj = oceanside()
+        del sobj["name"]
+        result = self.client.post('/api/districts/optimize/', json = sobj)
+
+    def test_no_schools(self):
+        # empty school list
+        sobj = oceanside()
+        sobj["schools"] = []
+        result = self.client.post('/api/districts/optimize/', json = sobj)
+
+    def test_bad_total_enrolled_field(self):
+        sobj = oceanside()
+        sobj["schools"][1]['total_enrolled'] = "NA"
+        result = self.client.post('/api/districts/optimize/', json = sobj)
+
+                
+
 # Mostly accurate, severe need is not accurate
 def oceanside():
-    return {
+    return copy.deepcopy({
     "name":"Oceanside Unified School District",
     "code":"02494",
     "total_enrolled":17990,
@@ -56,4 +75,5 @@ def oceanside():
         {"school_code":"37735696038855","school_name":"Libby Elementary","school_type":"n/a","total_enrolled":500,"total_eligible":222,"daily_breakfast_served":75,"daily_lunch_served":275,"isp":0.444,"active":True,"grouping":None,"severe_need":True}
     ],
     "state_code": "ca"
-}
+    })
+
