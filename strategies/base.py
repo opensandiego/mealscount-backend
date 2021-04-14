@@ -5,7 +5,10 @@ from enum import Enum
 def i(x):
     if type(x) != str: return int(x)
     if x.strip() == '': return 0
-    return int(float(x.replace(',','')))
+    try:
+        return int(float(x.replace(',','')))
+    except ValueError:
+        return 0
 
 # Free Rate from CEP Estimator
 # IF(E11*1.6>=1,1,IF(E11<0.4,0,E11*1.6))
@@ -215,6 +218,8 @@ class CEPDistrict(object):
         return [ s for s in self._schools if s.active ]
 
     def run_strategies(self):
+        if not self.schools: 
+            return
         for s in self.strategies:
             s.create_groups(self)
 
@@ -222,8 +227,7 @@ class CEPDistrict(object):
         best = None
         for s in self.strategies:
             if s.groups == None:
-                import code; code.interact(local=locals())
-            assert(s.groups != None)
+                continue
             # TODO evaluate on total reimbursement, not students_covered
             if evaluate_by == "reimbursement":
                 if best == None or s.reimbursement > best.reimbursement: 
