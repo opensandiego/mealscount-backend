@@ -46,6 +46,11 @@ class CEPTestCase(unittest.TestCase):
         sobj["schools"][1]['total_enrolled'] = "NA"
         result = self.client.post('/api/districts/optimize/', json = sobj)
 
+    def test_broken_json(self):
+        sobj = oceanside()
+        result = self.client.post('/api/districts/optimize/', data = "{Broken JSON}")
+        self.assertEqual(result.status_code,200)
+        self.assertTrue("error" in result.json)
                 
 
 # Mostly accurate, severe need is not accurate
