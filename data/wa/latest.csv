@@ -1,975 +1,950 @@
 state,District Code,District Name,School Code,School Name,individual_isp,proxy_isp,participating_in_cep,claiming_isp,total_enrolled,total_eligible
-wa,159885,Aberdeen School District,662627,Aberdeen High School,38.04%,,Y,47.19%,858,326
-wa,159885,Aberdeen School District,660734,AJ West Elementary,58.39%,,Y,47.19%,411,240
-wa,159885,Aberdeen School District,660729,Central Park Elementary,30.43%,,Y,47.19%,161,49
-wa,159885,Aberdeen School District,660727,Harbor High School,49.47%,,Y,47.19%,95,47
-wa,159885,Aberdeen School District,659099,Hopkins PreSchool,60.00%,,Y,47.19%,120,72
-wa,159885,Aberdeen School District,660731,McDermoth Elementary,48.69%,,Y,47.19%,382,186
-wa,159885,Aberdeen School District,660728,Miller Junior High School,42.86%,,Y,47.19%,462,198
-wa,159885,Aberdeen School District,660730,Robert Gray Elementary,54.02%,,Y,47.19%,348,188
-wa,159885,Aberdeen School District,664405,Stevens Elementary,55.94%,,Y,47.19%,547,306
-wa,159979,Anacortes School District,,Cap Sante High School,31.25%,*,N,,,
-wa,159297,Arlington School District,-0,Weston High School,35.93%,*,N,,,
-wa,159935,Auburn School District,-1,Alpac Elementary School,30.83%,*,N,,,
-wa,159935,Auburn School District,-2,Auburn Senior High School,31.73%,*,N,,,
-wa,159935,Auburn School District,-3,Cascade Middle School,36.99%,*,N,,,
-wa,159935,Auburn School District,-4,Chinook Elementary School,41.61%,*,N,,,
-wa,159935,Auburn School District,-5,Dick Scobee Elementary School,52.09%,*,N,,,
-wa,159935,Auburn School District,-6,Gildo Rey Elementary School,38.01%,*,N,,,
-wa,159935,Auburn School District,-7,Lea Hill Elementary School,61.98%,*,N,,,
-wa,159935,Auburn School District,-8,Olympic Middle School,41.64%,*,N,,,
-wa,159935,Auburn School District,-9,Pioneer Elementary School,54.14%,*,N,,,
-wa,159935,Auburn School District,-10,Rainier Middle School,30.90%,*,N,,,
-wa,159935,Auburn School District,-11,Terminal Park Elementary School,43.11%,*,N,,,
-wa,159935,Auburn School District,-12,Washington Elementary School,55.21%,*,N,,,
-wa,159935,Auburn School District,-13,West Auburn Senior High School,42.12%,*,N,,,
-wa,159932,Bellevue School District,-14,Lake Hills Elementary,36.03%,*,N,,,
-wa,159942,Bellingham School District,664118,Alderwood Elementary,49.64%,,Y,50.65%,280,139
-wa,159942,Bellingham School District,-15,Birchwood Elementary School,35.22%,*,N,,,
-wa,159942,Bellingham School District,-16,Carl Cozier Elementary School,38.64%,*,N,,,
-wa,159942,Bellingham School District,665367,Cordata Elementary,48.32%,,Y,50.65%,411,199
-wa,159942,Bellingham School District,-17,Options High School,40.10%,*,N,,,
-wa,159942,Bellingham School District,-18,Roosevelt Elementary School,31.03%,*,N,,,
-wa,159942,Bellingham School District,-19,Shuksan Middle School,37.24%,*,N,,,
-wa,100022,Bethel School District,-20,Acceleration Academy,38.20%,*,N,,,
-wa,100022,Bethel School District,-21,Bethel Middle School,31.42%,*,N,,,
-wa,100022,Bethel School District,-22,Camas Prairie Elementary,31.93%,*,N,,,
-wa,100022,Bethel School District,-23,Cedarcrest Middle School,30.25%,*,N,,,
-wa,100022,Bethel School District,-24,Centennial Elementary Bethel,37.72%,*,N,,,
-wa,100022,Bethel School District,-25,Challenger High School,38.81%,*,N,,,
-wa,100022,Bethel School District,-26,Chester H Thompson Elementary,38.22%,*,N,,,
-wa,100022,Bethel School District,-27,Evergreen Elementary,31.43%,*,N,,,
-wa,100022,Bethel School District,-28,Naches Trail Elementary,31.40%,*,N,,,
-wa,100022,Bethel School District,-29,Rocky Ridge Elementary,34.99%,*,N,,,
-wa,100022,Bethel School District,-30,Roy Elementary,38.61%,*,N,,,
-wa,100022,Bethel School District,-31,Shining Mountain Elementary,35.88%,*,N,,,
-wa,100022,Bethel School District,-32,Spanaway Elementary,41.30%,*,N,,,
-wa,100022,Bethel School District,-33,Spanaway Middle School,34.88%,*,N,,,
-wa,159529,Blaine School District,-34,Blaine Elementary School,30.44%,*,N,,,
-wa,160001,Boistfort School District,-35,Boistfort Elem,33.96%,*,N,,,
-wa,159944,Bremerton School District,661460,Armin Jahr Elementary,49.88%,,Y,50.83%,421,210
-wa,159944,Bremerton School District,-36,Bremerton High School,36.05%,*,N,,,
-wa,159944,Bremerton School District,-37,Crownhill Elementary School,43.77%,*,N,,,
-wa,159944,Bremerton School District,-38,Kitsap Lake Elementary,32.52%,*,N,,,
-wa,159944,Bremerton School District,-39,Mountain View Middle School,43.71%,*,N,,,
-wa,159944,Bremerton School District,-40,Naval Avenue Elementary School,40.79%,*,N,,,
-wa,159944,Bremerton School District,-41,Renaissance Alternative High School,53.13%,*,N,,,
-wa,159944,Bremerton School District,-42,View Ridge Elementary Arts Academy,47.44%,*,N,,,
-wa,159944,Bremerton School District,661466,West Hills STEM,50.00%,,Y,52.30%,610,305
-wa,159434,Brewster School District,661832,Brewster Elementary,47.51%,,Y,47.51%,482,229
-wa,159434,Brewster School District,661833,Brewster High School/Middle School,41.09%,,Y,41.09%,460,189
-wa,159342,Bridgeport School District,659058,Bridgeport Elementary,60.36%,,Y,56.49%,386,233
-wa,159342,Bridgeport School District,665483,Bridgeport High School,51.23%,,Y,56.49%,244,125
-wa,159342,Bridgeport School District,665482,Bridgeport Middle School,55.65%,,Y,56.49%,248,138
-wa,160000,Brinnon School District,-43,Brinnon Elementary,51.72%,*,N,,,
-wa,159210,Burlington-Edison School District,-44,Allen Elementary,62.85%,*,N,,,
-wa,159210,Burlington-Edison School District,-45,Lucille Umbarger Elementary,40.22%,*,N,,,
-wa,159210,Burlington-Edison School District,-46,West View Elementary,36.86%,*,N,,,
-wa,159333,Cape Flattery School District,-47,Clallam Bay High & Elementary,51.72%,*,N,,,
-wa,159333,Cape Flattery School District,-48,Neah Bay Elementary School,47.45%,*,N,,,
-wa,159333,Cape Flattery School District,-49,Neah Bay Junior/ Senior High School,48.89%,*,N,,,
-wa,159469,Castle Rock School District,-50,Castle Rock Elementary,37.59%,*,N,,,
-wa,159469,Castle Rock School District,-51,Castle Rock Middle School,32.71%,*,N,,,
-wa,159956,Central Kitsap School District,-52,Esquire Hills Elementary,31.46%,*,N,,,
-wa,159956,Central Kitsap School District,-53,Adams Elementary,31.83%,*,N,,,
-wa,159956,Central Kitsap School District,-54,Bowdish Middle School,32.05%,*,N,,,
-wa,159956,Central Kitsap School District,-55,Broadway Elementary,47.59%,*,N,,,
-wa,159956,Central Kitsap School District,-56,Greenacres Elementary,32.12%,*,N,,,
-wa,159956,Central Kitsap School District,-57,McDonald Elementary School,31.19%,*,N,,,
-wa,159956,Central Kitsap School District,-58,Mica Peak High School,33.99%,*,N,,,
-wa,159956,Central Kitsap School District,-59,North Pines Middle School,47.36%,*,N,,,
-wa,159956,Central Kitsap School District,-60,Opportunity Elementary,50.17%,*,N,,,
-wa,159956,Central Kitsap School District,-61,Progress Elementary School,41.33%,*,N,,,
-wa,159956,Central Kitsap School District,-62,University Elementary School,31.82%,*,N,,,
-wa,160060,Centralia School District,664722,Centralia High School,45.61%,,Y,55.37%,1026,468
-wa,160060,Centralia School District,661789,Centralia Middle School,57.11%,,Y,55.37%,492,281
-wa,160060,Centralia School District,661792,Edison Elementary School,57.06%,,Y,55.37%,347,198
-wa,160060,Centralia School District,661790,Ford's Prairie Elementary School,60.16%,,Y,55.37%,379,228
-wa,160060,Centralia School District,665066,Futurus High School,62.00%,,Y,55.37%,50,31
-wa,160060,Centralia School District,664592,Jefferson Lincoln Elementary,64.18%,,Y,55.37%,388,249
-wa,160060,Centralia School District,661791,Oakview Elementary School,58.73%,,Y,55.37%,441,259
-wa,160060,Centralia School District,663735,Washington Elementary School,59.33%,,Y,55.37%,386,229
-wa,159249,Chehalis School District,-63,Chehalis Middle School,32.01%,*,N,,,
-wa,159249,Chehalis School District,-64,James W Lintott Elementary School,33.52%,*,N,,,
-wa,159249,Chehalis School District,-65,Lewis County Alternative School,61.54%,*,N,,,
-wa,159249,Chehalis School District,-66,Orin C Smith Elementary School,33.95%,*,N,,,
-wa,159243,Cheney School District,-67,Betz Elementary,32.22%,*,N,,,
-wa,159243,Cheney School District,-68,Salnave Elementary,39.20%,*,N,,,
-wa,159243,Cheney School District,-69,Sunset Elementary,52.15%,*,N,,,
-wa,159243,Cheney School District,-70,Three Springs High School,45.28%,*,N,,,
-wa,159243,Cheney School District,-71,Westwood Middle School,35.28%,*,N,,,
-wa,159382,Chewelah School District,-72,Chewelah Alternative Educational Programs,40.30%,*,N,,,
-wa,159382,Chewelah School District,-73,Gess Elementary,41.90%,*,N,,,
-wa,159382,Chewelah School District,-74,Jenkins Junior/Senior High,30.94%,*,N,,,
-wa,159347,Chimacum School District,-75,Chimacum Creek Primary School,39.05%,*,N,,,
-wa,159347,Chimacum School District,-76,Chimacum Elementary School,36.41%,*,N,,,
-wa,159347,Chimacum School District,-77,Chimacum Middle School,32.67%,*,N,,,
-wa,159197,Clarkston School District,-78,Grantham Elementary,62.17%,*,N,,,
-wa,159197,Clarkston School District,-79,Highland Elementary,52.43%,*,N,,,
-wa,159197,Clarkston School District,-80,Lincoln Middle School,41.61%,*,N,,,
-wa,159197,Clarkston School District,-81,Parkway Elementary,44.71%,*,N,,,
-wa,160031,Clover Park School District,-82,Clover Park Early Learning Program,84.71%,*,N,,,
-wa,160031,Clover Park School District,-83,Clover Park High School,49.26%,*,N,,,
-wa,160031,Clover Park School District,665877,Custer Elementary,54.55%,,Y,60.65%,319,174
-wa,160031,Clover Park School District,-84,Dower Elementary School,53.70%,,N,,337,181
-wa,160031,Clover Park School District,683621,Four Heroes Elementary,54.96%,,Y,60.65%,685,376
-wa,160031,Clover Park School District,-85,Hudtloff Middle School,39.86%,*,N,,,
-wa,160031,Clover Park School District,-86,Lake Louise Elementary School,47.50%,,N,,364,173
-wa,160031,Clover Park School District,665878,Lakeview Hope Academy,61.85%,,Y,60.65%,650,402
-wa,160031,Clover Park School District,-87,Lochburn Middle School,60.19%,*,N,,,
-wa,160031,Clover Park School District,663100,Park Lodge Elementary,52.83%,,Y,60.65%,424,224
-wa,160031,Clover Park School District,661994,Tillicum Elementary,75.07%,,Y,60.65%,349,262
-wa,160031,Clover Park School District,661995,Tyee Park Elementary,63.31%,,Y,60.65%,417,264
-wa,159502,College Place School District,-88,Davis Elementary,34.80%,*,N,,,
-wa,159502,College Place School District,-89,John Sager Middle School,35.75%,*,N,,,
-wa,159425,Columbia (Stevens) School District,-90,Columbia High And Elementary,45.93%,*,N,,,
-wa,159950,Columbia (Walla Walla) School District,-91,Columbia Elementary,36.39%,*,N,,,
-wa,159950,Columbia (Walla Walla) School District,-92,Columbia Middle School,33.92%,*,N,,,
-wa,159414,Colville School District,-93,Colville Junior High School,34.77%,*,N,,,
-wa,159414,Colville School District,-94,Fort Colville Elementary,38.57%,*,N,,,
-wa,159414,Colville School District,-95,Hofstetter Elementary,38.29%,*,N,,,
-wa,159414,Colville School District,-96,Panorama School,50.43%,*,N,,,
-wa,159422,Concrete School District,660531,Concrete Elementary School,53.07%,,Y,50.62%,291,154
-wa,159422,Concrete School District,660533,Concrete High School,43.20%,,Y,50.62%,195,84
-wa,159459,Crescent School District,-97,Crescent School,30.84%,*,N,,,
-wa,159899,Creston School District,-98,Creston Elementary,36.59%,*,N,,,
-wa,159308,Curlew School District,661501,Curlew Elementary & High School,36.36%,,Y,48.65%,185,67
-wa,159353,Cusick School District,-99,Bess Herian Elementary,41.28%,*,N,,,
-wa,159353,Cusick School District,-100,Cusick Jr Sr High School,35.90%,*,N,,,
-wa,159311,Darrington School District,-101,Darrington Elementary School,40.07%,*,N,,,
-wa,159456,Dayton School District,661308,Dayton Elementary,44.83%,,Y,45.32%,203,91
-wa,159456,Dayton School District,-102,Dayton High School,30.17%,*,N,,,
-wa,159383,Deer Park School District,-103,Arcadia Elementary,32.57%,*,N,,,
-wa,159383,Deer Park School District,-104,Deer Park Early Learning Center,87.65%,*,N,,,
-wa,159383,Deer Park School District,-105,Deer Park Elementary,32.91%,*,N,,,
-wa,159383,Deer Park School District,-106,Deer Park Middle School,30.52%,*,N,,,
-wa,159867,Dixie School District,662026,Dixie Elementary School,46.43%,,Y,46.43%,28,13
-wa,159332,East Valley School District (Spokane),-107,East Farms School,39.18%,*,N,,,
-wa,159332,East Valley School District (Spokane),-108,East Valley Middle School,40.56%,*,N,,,
-wa,159332,East Valley School District (Spokane),-109,Otis Orchards School,41.23%,*,N,,,
-wa,159332,East Valley School District (Spokane),-110,Trent School,66.90%,*,N,,,
-wa,159332,East Valley School District (Spokane),-111,Trentwood School,44.81%,*,N,,,
-wa,159901,East Valley School District (Yakima),-112,East Valley Central Middle School,36.36%,*,N,,,
-wa,159901,East Valley School District (Yakima),-113,East Valley Elementary,41.14%,*,N,,,
-wa,159901,East Valley School District (Yakima),-114,East Valley High School,33.45%,*,N,,,
-wa,159901,East Valley School District (Yakima),-115,Moxee Elementary,32.24%,*,N,,,
-wa,159901,East Valley School District (Yakima),-116,Terrace Heights Elementary,37.11%,*,N,,,
-wa,159244,Eastmont School District,-117,Clovis Point,44.94%,*,N,,,
-wa,159244,Eastmont School District,-118,Eastmont Junior High,40.58%,*,N,,,
-wa,159244,Eastmont School District,-119,Eastmont Senior High,33.08%,*,N,,,
-wa,159244,Eastmont School District,-120,Grant Elementary School,32.19%,*,N,,,
-wa,159244,Eastmont School District,-121,Kenroy Elementary,37.18%,*,N,,,
-wa,159244,Eastmont School District,-122,Lee Elementary,49.11%,*,N,,,
-wa,159244,Eastmont School District,660459,Rock Island Elementary,55.56%,,Y,55.56%,225,125
-wa,159244,Eastmont School District,-123,Sterling School,39.50%,*,N,,,
-wa,159394,Easton School District,661734,Easton School,41.03%,,Y,48.70%,115,47
-wa,159397,Eatonville School District,-124,Columbia Crest A-STEM Academy,31.19%,*,N,,,
-wa,159949,Edmonds School District,-125,Cedar Valley Community School,43.01%,*,N,,,
-wa,159949,Edmonds School District,-126,Cedar Way Elementary,30.48%,*,N,,,
-wa,159949,Edmonds School District,-127,College Place Elementary,40.42%,*,N,,,
-wa,159949,Edmonds School District,-128,Mountlake Terrace Elementary,31.97%,*,N,,,
-wa,159949,Edmonds School District,-129,Scriber Lake High School,32.31%,*,N,,,
-wa,159948,Ellensburg School District,-130,Mt. Stuart Elementary,36.71%,*,N,,,
-wa,159417,Elma School District,662586,East Grays Harbor High School,74.42%,,Y,45.26%,43,32
-wa,159417,Elma School District,660757,Elma Elementary School,48.19%,,Y,45.26%,662,319
-wa,159417,Elma School District,660759,Elma High School,39.76%,,Y,45.26%,410,163
-wa,159417,Elma School District,660758,Elma Middle School,42.26%,,Y,45.26%,310,131
-wa,159384,Endicott School District,-131,Endicott/St John Elem and Middle,43.52%,*,N,,,
-wa,159561,Entiat School District,-132,Entiat Middle and High School,36.36%,*,N,,,
-wa,159561,Entiat School District,-133,Paul Rumburg Elementary,32.39%,*,N,,,
-wa,159954,Enumclaw School District,-134,JJ Smith Elementary,71.17%,*,N,,,
-wa,159961,Ephrata School District,-135,Columbia Ridge Elementary,40.09%,*,N,,,
-wa,159961,Ephrata School District,-136,Ephrata High School,30.45%,*,N,,,
-wa,159961,Ephrata School District,-137,Ephrata Middle School,33.94%,*,N,,,
-wa,159961,Ephrata School District,-138,Grant Elementary,32.49%,*,N,,,
-wa,159961,Ephrata School District,-139,Parkway School,39.70%,*,N,,,
-wa,159873,Everett School District,-140,Emerson Elementary School,32.56%,*,N,,,
-wa,159873,Everett School District,-141,Evergreen Middle School,34.86%,*,N,,,
-wa,159873,Everett School District,-142,Garfield Elementary School,45.82%,*,N,,,
-wa,159873,Everett School District,-143,Hawthorne Elementary School - Everett,60.24%,*,N,,,
-wa,159873,Everett School District,-144,Jackson Elementary School,41.99%,*,N,,,
-wa,159873,Everett School District,-145,Lowell Elementary - Everett,45.19%,*,N,,,
-wa,159873,Everett School District,-146,Madison Elementary,46.67%,*,N,,,
-wa,159873,Everett School District,-147,North Middle School,42.36%,*,N,,,
-wa,159873,Everett School District,663741,Sequoia High School,36.32%,,Y,47.69%,195,71
-wa,159873,Everett School District,-148,Silver Lake Elementary - Everett,32.44%,*,N,,,
-wa,159505,Evergreen School District (Clark),-149,49th Street Academy,38.68%,*,N,,,
-wa,159505,Evergreen School District (Clark),-150,Burton Elementary School,39.47%,*,N,,,
-wa,159505,Evergreen School District (Clark),-151,Cascade Middle School,37.50%,*,N,,,
-wa,159505,Evergreen School District (Clark),-152,Covington Middle School,40.26%,*,N,,,
-wa,159505,Evergreen School District (Clark),-153,Crestline Elementary School,41.77%,*,N,,,
-wa,159505,Evergreen School District (Clark),-154,Ellsworth Elementary School,32.34%,*,N,,,
-wa,159505,Evergreen School District (Clark),-155,Endeavour Elementary School,36.17%,*,N,,,
-wa,159505,Evergreen School District (Clark),-156,Fircrest Elementary School,36.55%,*,N,,,
-wa,159505,Evergreen School District (Clark),-157,Hearthwood Elementary School,35.38%,*,N,,,
-wa,159505,Evergreen School District (Clark),-158,Heritage High School,31.30%,*,N,,,
-wa,159505,Evergreen School District (Clark),-159,Image Elementary School,36.67%,*,N,,,
-wa,159505,Evergreen School District (Clark),-160,Legacy High School,38.96%,*,N,,,
-wa,159505,Evergreen School District (Clark),-161,Marrion Elementary School,40.19%,*,N,,,
-wa,159505,Evergreen School District (Clark),-162,Mill Plain Elementary School,36.36%,*,N,,,
-wa,159505,Evergreen School District (Clark),-163,Orchards Elementary School,42.60%,*,N,,,
-wa,159505,Evergreen School District (Clark),-164,Riverview Elementary School,33.33%,*,N,,,
-wa,159505,Evergreen School District (Clark),-165,Sifton Elementary School,34.15%,*,N,,,
-wa,159505,Evergreen School District (Clark),-166,Silver Star Elementary School,34.76%,*,N,,,
-wa,159505,Evergreen School District (Clark),-167,Wyeast Middle School,35.31%,*,N,,,
-wa,159505,Evergreen School District (Clark),661553,Evergreen School,51.43%,,Y,54.29%,35,18
-wa,159922,Federal Way School District,-168,Adelaide Elementary School,35.56%,*,N,,,
-wa,159922,Federal Way School District,-169,Enterprise Elementary School,38.95%,*,N,,,
-wa,159922,Federal Way School District,-170,Federal Way High School,33.71%,*,N,,,
-wa,159922,Federal Way School District,682258,Federal Way Open Doors,47.06%,,Y,54.19%,267,126
-wa,159922,Federal Way School District,-171,Illahee Middle School,34.92%,*,N,,,
-wa,159922,Federal Way School District,-172,Kilo Middle School,31.68%,*,N,,,
-wa,159922,Federal Way School District,-173,Lake Dolloff Elementary School,41.83%,*,N,,,
-wa,159922,Federal Way School District,663396,Lake Grove Elementary,50.00%,,Y,54.72%,390,195
-wa,159922,Federal Way School District,-174,Lakeland Elementary School,33.18%,*,N,,,
-wa,159922,Federal Way School District,-175,Lakota Middle School,31.79%,*,N,,,
-wa,159922,Federal Way School District,663397,Mark Twain Elementary,63.65%,,Y,54.72%,509,324
-wa,159922,Federal Way School District,663398,Mirror Lake Elementary,54.12%,,Y,54.12%,473,256
-wa,159922,Federal Way School District,-176,Nautilus K-8 School,30.04%,*,N,,,
-wa,159922,Federal Way School District,663399,Olympic View Elementary,52.24%,,Y,52.24%,446,233
-wa,159922,Federal Way School District,665318,Panther Lake Elementary,53.57%,,Y,53.57%,448,240
-wa,159922,Federal Way School District,665319,Rainier View Elementary,46.25%,,Y,54.92%,488,226
-wa,159922,Federal Way School District,-177,Sacajawea Middle School,40.82%,*,N,,,
-wa,159922,Federal Way School District,-178,Sequoyah Middle School,43.51%,*,N,,,
-wa,159922,Federal Way School District,664044,Silver Lake Elementary,47.15%,,Y,51.36%,442,208
-wa,159922,Federal Way School District,-179,Star Lake Elementary School,33.57%,*,N,,,
-wa,159922,Federal Way School District,663400,Sunnycrest Elementary,59.11%,,Y,59.11%,582,344
-wa,159922,Federal Way School District,-180,TAFA at Saghalie,31.65%,*,N,,,
-wa,159922,Federal Way School District,-181,Todd Beamer High School,31.19%,*,N,,,
-wa,159922,Federal Way School District,-182,Totem Middle School,41.00%,*,N,,,
-wa,159922,Federal Way School District,664601,Truman High School,51.09%,,Y,54.19%,91,46
-wa,159922,Federal Way School District,-183,Twin Lakes Elementary School,38.99%,*,N,,,
-wa,159922,Federal Way School District,-184,Valhalla Elementary School,34.37%,*,N,,,
-wa,159922,Federal Way School District,663402,Wildwood Elementary,50.00%,,Y,54.72%,574,287
-wa,159289,Ferndale School District,-185,Central Elementary,33.25%,*,N,,,
-wa,159289,Ferndale School District,-186,Eagleridge Elementary,34.25%,*,N,,,
-wa,159289,Ferndale School District,-187,Horizon Middle School,30.40%,*,N,,,
-wa,159294,Fife School District,-188,Endeavour Intermediate,33.72%,*,N,,,
-wa,159898,Finley School District,684881,Finley ECEAP,100.00%,,Y,51.98%,37,37
-wa,159898,Finley School District,661121,Finley Elementary School,45.99%,,Y,51.98%,392,180
-wa,159898,Finley School District,661122,Finley Middle School,41.00%,,Y,41.50%,200,82
-wa,159898,Finley School District,-189,River View High School,38.13%,*,N,,,
-wa,159976,Franklin Pierce School District,663369,Brookdale Elementary,52.63%,,Y,49.77%,494,260
-wa,159976,Franklin Pierce School District,662031,Central Avenue Elementary,36.15%,,Y,49.77%,462,167
-wa,159976,Franklin Pierce School District,663368,Christensen Elementary,61.80%,,Y,49.77%,466,288
-wa,159976,Franklin Pierce School District,662033,Collins Elementary,35.51%,,Y,49.77%,490,174
-wa,159976,Franklin Pierce School District,662460,Early Learning Center,66.28%,,Y,49.77%,341,226
-wa,159976,Franklin Pierce School District,663753,Elmhurst Elementary,52.03%,,Y,49.77%,419,218
-wa,159976,Franklin Pierce School District,665207,Ford Middle School,45.12%,,Y,49.77%,1015,458
-wa,159976,Franklin Pierce School District,665254,Franklin Pierce High School,33.33%,,Y,49.77%,1124,375
-wa,159976,Franklin Pierce School District,662041,GATES Alternative High School,62.50%,,Y,49.77%,128,80
-wa,159976,Franklin Pierce School District,663370,Harvard Elementary,52.34%,,Y,49.77%,447,234
-wa,159976,Franklin Pierce School District,678931,James Sales Elementary,56.76%,,Y,49.77%,444,252
-wa,159976,Franklin Pierce School District,665206,Keithley Middle School,55.85%,,Y,49.77%,881,492
-wa,159976,Franklin Pierce School District,663367,Midland Elementary,57.55%,,Y,49.77%,556,320
-wa,159976,Franklin Pierce School District,663594,Washington High School,46.72%,,Y,49.77%,944,441
-wa,159546,Garfield School District,-190,Garfield Elementary,40.70%,*,N,,,
-wa,159546,Garfield School District,-191,Garfield Middle School,33.33%,*,N,,,
-wa,159378,Glenwood School District,-192,Glenwood Elementary,50.00%,*,N,,,
-wa,159378,Glenwood School District,-193,Glenwood Secondary,31.37%,*,N,,,
-wa,159446,Goldendale School District,-194,Goldendale Middle School,47.24%,*,N,,,
-wa,159446,Goldendale School District,-195,Goldendale Primary School,46.57%,*,N,,,
-wa,159314,Grand Coulee Dam School District,-196,Lake Roosevelt Elementary ,52.23%,*,N,,,
-wa,159314,Grand Coulee Dam School District,-197,Lake Roosevelt Jr/Sr High School,41.03%,*,N,,,
-wa,159911,Grandview School District,662251,Arthur H. Smith Elementary,60.73%,,Y,58.23%,629,382
-wa,159911,Grandview School District,685347,Contract Learning Center,48.65%,,Y,49.95%,37,18
-wa,159911,Grandview School District,663436,Grandview High School,50.00%,,Y,49.95%,948,474
-wa,159911,Grandview School District,662252,Grandview Middle School,52.48%,,Y,52.48%,867,455
-wa,159911,Grandview School District,662249,Harriet Thompson Elementary,54.81%,,Y,58.23%,624,342
-wa,159911,Grandview School District,662250,McClure Elementary,61.54%,,Y,58.23%,660,406
-wa,159916,Granger School District,664734,Granger ECEAP,100.00%,,Y,71.68%,75,75
-wa,159916,Granger School District,664892,Granger High School,64.16%,,Y,71.68%,381,244
-wa,159916,Granger School District,662631,Granger Middle School,67.90%,,Y,71.68%,466,316
-wa,159916,Granger School District,659270,Roosevelt Elementary,71.21%,,Y,71.68%,568,404
-wa,159365,Granite Falls School District,-198,Crossroads High School,40.26%,*,N,,,
-wa,159365,Granite Falls School District,-199,Granite Falls Open Doors,42.31%,*,N,,,
-wa,159365,Granite Falls School District,-200,Mountain Way Elementary,30.91%,*,N,,,
-wa,159538,Grapeview School District,-201,Grapeview Elementary & Middle School,31.82%,*,N,,,
-wa,160335,Green Dot Public Schools Rainier Valley,684960,Rainier Valley Leadership Academy,66.27%,,Y,66.27%,249,165
-wa,159917,Harrington Public Schools,662019,Harrington Elementary,45.16%,,Y,42.47%,97,44
-wa,159917,Harrington Public Schools,662021,Harrington High School,33.38%,,Y,42.47%,27,9
-wa,159917,Harrington Public Schools,662020,Harrington Middle School,40.91%,,Y,42.47%,22,9
-wa,159915,Highland School District,-202,Highland High School,53.65%,*,N,,,
-wa,159915,Highland School District,-203,Highland Junior High School,55.67%,*,N,,,
-wa,159915,Highland School District,-204,Marcus Whitman-Cowiche Elementary,55.62%,*,N,,,
-wa,159915,Highland School District,-205,Tieton Intermediate School,62.18%,*,N,,,
-wa,159928,Highline School District,665506,Beverly Park Elementary,48.91%,,Y,55.75%,461,225
-wa,159928,Highline School District,-206,Bow Lake Elementary,41.37%,*,N,,,
-wa,159928,Highline School District,-207,Cascade Middle School,42.39%,*,N,,,
-wa,159928,Highline School District,-208,Cedarhurst Elementary,35.19%,*,N,,,
-wa,159928,Highline School District,-209,Chinook Middle School,42.97%,*,N,,,
-wa,159928,Highline School District,-210,Evergreen High School,38.32%,*,N,,,
-wa,159928,Highline School District,-211,Hazel Valley Elementary,41.75%,*,N,,,
-wa,159928,Highline School District,-212,Hilltop Elementary,41.29%,*,N,,,
-wa,159928,Highline School District,665201,Madrona Elementary,59.53%,,Y,59.53%,635,378
-wa,159928,Highline School District,-213,McMicken Heights Elementary,40.21%,*,N,,,
-wa,159928,Highline School District,660505,Midway Elementary,57.57%,,Y,57.66%,662,381
-wa,159928,Highline School District,665505,Mount View Elementary,57.46%,,Y,57.66%,681,391
-wa,159928,Highline School District,664459,New Start High School,57.72%,,Y,57.14%,140,81
-wa,159928,Highline School District,-214,Pacific Middle School,32.74%,*,N,,,
-wa,159928,Highline School District,-215,Parkside Elementary,32.86%,*,N,,,
-wa,159928,Highline School District,-216,Puget Sound High School,38.89%,*,N,,,
-wa,159928,Highline School District,660853,Seahurst Elementary School,64.38%,,Y,50.32%,465,299
-wa,159928,Highline School District,-217,Southern Heights Elementary,35.04%,*,N,,,
-wa,159928,Highline School District,-218,Sylvester Middle School,37.68%,*,N,,,
-wa,159928,Highline School District,-219,Tyee High School,40.18%,*,N,,,
-wa,159928,Highline School District,660857,Valley View Elementary,87.05%,,Y,57.66%,289,252
-wa,159928,Highline School District,665494,White Center Heights Elementary,62.08%,,Y,55.23%,746,463
-wa,159388,Hood Canal School District,661822,Hood Canal Elementary School,58.96%,,Y,55.80%,212,125
-wa,159388,Hood Canal School District,685323,Hood Canal Middle School,49.53%,,Y,55.80%,107,53
-wa,159893,Hoquiam School District,663372,Central Elementary School,54.10%,,Y,56.16%,244,132
-wa,159893,Hoquiam School District,660740,Emerson Elementary School,53.75%,,Y,56.16%,240,129
-wa,159893,Hoquiam School District,-220,Hoquiam High School,43.33%,,N,,,
-wa,159893,Hoquiam School District,-221,Hoquiam Homelink School,52.17%,*,N,,,
-wa,159893,Hoquiam School District,660743,Hoquiam Middle School,43.33%,,Y,43.33%,360,156
-wa,159893,Hoquiam School District,660741,Lincoln Elementary School,59.74%,,Y,56.16%,303,181
-wa,160348,Impact Public Schools,-222,Impact | Puget Sound Elementary,34.83%,*,N,,,
-wa,159307,Inchelium School District,664985,Inchelium School District,66.35%,,Y,66.35%,211,140
-wa,158999,Kahlotus School District,661525,Kahlotus Elementary,44.68%,,Y,56.25%,28,13
-wa,158999,Kahlotus School District,661526,Kahlotus Jr/Sr High School,44.68%,,Y,56.25%,20,9
-wa,159495,Keller School District,661500,Keller Elementary School,66.67%,,Y,66.67%,27,18
-wa,159957,Kelso School District,-223,Barnes Elementary,50.94%,*,N,,,
-wa,159957,Kelso School District,-224,Beacon Hill Elementary,32.67%,*,N,,,
-wa,159957,Kelso School District,-225,Butler Acres Elementary,33.50%,*,N,,,
-wa,159957,Kelso School District,-226,Catlin Elementary,47.99%,*,N,,,
-wa,159957,Kelso School District,-227,Coweeman Middle School,41.03%,*,N,,,
-wa,159957,Kelso School District,-228,Huntington Middle School,40.64%,*,N,,,
-wa,159957,Kelso School District,-229,Kelso High School,31.19%,*,N,,,
-wa,159957,Kelso School District,-230,Wallace Elementary,62.27%,*,N,,,
-wa,159891,Kennewick School District,665516,Amistad Elementary,86.70%,,Y,59.72%,581,504
-wa,159891,Kennewick School District,663381,Canyon View Elementary,48.25%,,Y,59.72%,504,243
-wa,159891,Kennewick School District,-231,Cascade Elementary School,30.38%,*,N,,,
-wa,159891,Kennewick School District,665517,Eastgate Elementary,68.93%,,Y,59.72%,573,395
-wa,159891,Kennewick School District,661128,Edison Elementary ,59.52%,,Y,59.72%,404,240
-wa,159891,Kennewick School District,685117,Fuerza Elementary,51.61%,,Y,59.72%,563,291
-wa,159891,Kennewick School District,664337,Hawthorne Elementary,52.73%,,Y,59.72%,383,202
-wa,159891,Kennewick School District,665546,Highlands Middle School,63.39%,,Y,59.72%,832,527
-wa,159891,Kennewick School District,-232,Horse Heaven Hills Middle School,34.82%,*,N,,,
-wa,159891,Kennewick School District,665612,Kennewick High School,50.94%,,Y,59.72%,1620,825
-wa,159891,Kennewick School District,664550,Legacy High School,57.83%,,Y,59.72%,183,106
-wa,159891,Kennewick School District,663382,Lincoln Elementary ,38.59%,,Y,59.72%,503,194
-wa,159891,Kennewick School District,665519,Park Middle School,74.82%,,Y,59.72%,651,487
-wa,159891,Kennewick School District,664142,Phoenix High School,50.00%,,Y,59.72%,54,27
-wa,159891,Kennewick School District,661132,Southgate Elementary,37.06%,,Y,59.72%,456,169
-wa,159891,Kennewick School District,-233,Southridge High School,31.54%,*,N,,,
-wa,159891,Kennewick School District,663963,Vista Elementary,51.14%,,Y,59.72%,426,218
-wa,159891,Kennewick School District,663101,Washington Elementary ,55.91%,,Y,59.72%,490,274
-wa,159891,Kennewick School District,661136,Westgate Elementary,73.68%,,Y,59.72%,516,380
-wa,159941,Kent School District,-234,Cedar Heights Middle School,30.48%,*,N,,,
-wa,159941,Kent School District,-235,East Hill Elementary School,55.54%,,N,,596,331
-wa,159941,Kent School District,-236,George T. Daniel Elementary School,59.73%,,N,,591,353
-wa,159941,Kent School District,-237,Kent Elementary School,53.04%,,N,,740,392
-wa,159941,Kent School District,-238,Kent Phoenix Academy,32.59%,*,N,,,
-wa,159941,Kent School District,-239,Kent-Meridian High School,38.81%,*,N,,,
-wa,159941,Kent School District,-240,Meadow Ridge Elementary School,45.19%,*,N,,,
-wa,159941,Kent School District,-241,Meeker Middle School,33.96%,*,N,,,
-wa,159941,Kent School District,-242,Meridian Middle School,30.32%,*,N,,,
-wa,159941,Kent School District,-243,Mill Creek Middle School,46.14%,*,N,,,
-wa,159941,Kent School District,-244,Millennium Elementary School,44.14%,*,N,,,
-wa,159941,Kent School District,-245,Neely O Brien Elementary School,50.70%,*,N,,,
-wa,159941,Kent School District,-246,Panther Lake Elementary School,39.91%,*,N,,,
-wa,159941,Kent School District,-247,Park Orchard Elementary School,61.25%,,N,,591,362
-wa,159941,Kent School District,-248,Pine Tree Elementary School,48.37%,*,N,,,
-wa,159941,Kent School District,-249,Scenic Hill Elementary School,60.76%,,N,,632,384
-wa,159941,Kent School District,-250,Springbrook Elementary School,47.79%,*,N,,,
-wa,159392,Kettle Falls School District,-251,Kettle Falls Elementary School,37.67%,*,N,,,
-wa,159392,Kettle Falls School District,-252,Kettle Falls High School,35.29%,*,N,,,
-wa,159392,Kettle Falls School District,-253,Kettle Falls Middle School,40.00%,*,N,,,
-wa,159897,Kiona-Benton City School District,664322,Kiona Benton Elementary,53.01%,,Y,54.20%,701,372
-wa,159897,Kiona-Benton City School District,661145,Kiona Benton High School,47.10%,,Y,54.20%,395,186
-wa,159897,Kiona-Benton City School District,661146,Kiona Benton Middle School,57.51%,,Y,54.20%,321,185
-wa,159375,Klickitat School District,661751,Klickitat Elementary School,55.56%,,Y,35.16%,69,38
-wa,159375,Klickitat School District,661752,Klickitat High School,32.00%,,Y,35.16%,22,7
-wa,159318,La Conner School District,-254,La Conner Elementary,51.83%,*,N,,,
-wa,159318,La Conner School District,-255,La Conner High School,36.00%,*,N,,,
-wa,159318,La Conner School District,-256,La Conner Middle,47.13%,*,N,,,
-wa,159670,Lake Chelan School District,-257,Chelan High School,30.37%,*,N,,,
-wa,159670,Lake Chelan School District,-258,Chelan Middle School,39.08%,*,N,,,
-wa,159670,Lake Chelan School District,-259,Chelan School of Innovation,48.57%,*,N,,,
-wa,159670,Lake Chelan School District,-260,Lake Chelan Preschool,50.77%,*,N,,,
-wa,159670,Lake Chelan School District,-261,Morgen Owings Elementary School,41.78%,*,N,,,
-wa,159385,Lake Quinault School District,664538,Lake Quinault ECEAP/Preschool,100.00%,,Y,61.78%,16,16
-wa,159385,Lake Quinault School District,660761,Lake Quinault Elementary,60.22%,,Y,61.78%,93,56
-wa,159385,Lake Quinault School District,660762,Lake Quinault Middle/High,56.10%,,Y,61.78%,82,46
-wa,159276,Lake Stevens School District,-262,Early Learning Center,35.93%,*,N,,,
-wa,159350,Lakewood School District,-263,English Crossing Elementary,31.31%,*,N,,,
-wa,159350,Lakewood School District,-264,Lakewood Elementary School,34.44%,*,N,,,
-wa,159449,Lamont School District,-265,Lamont Middle School,55.56%,*,N,,,
-wa,159444,Lind School District,661112,Lind Elementary School,70.87%,,Y,70.87%,103,73
-wa,159444,Lind School District,-266,Lind-Ritzville High School,48.00%,*,N,,,
-wa,159444,Lind School District,-267,Lind-Ritzville Middle School,56.00%,*,N,,,
-wa,159910,Longview School District,-268,Broadway Learning Center,54.05%,*,N,,,
-wa,159910,Longview School District,-269,Cascade Middle School,44.37%,*,N,,,
-wa,159910,Longview School District,-270,Columbia Heights Elementary,37.43%,*,N,,,
-wa,159910,Longview School District,-271,Columbia Valley Garden Elem Schl,35.19%,*,N,,,
-wa,159910,Longview School District,-272,Kessler Elementary School,63.88%,*,N,,,
-wa,159910,Longview School District,-273,Mint Valley Elementary,55.22%,*,N,,,
-wa,159910,Longview School District,-274,Monticello Middle School,58.30%,*,N,,,
-wa,159910,Longview School District,-275,Mt. Solo Middle School,33.49%,*,N,,,
-wa,159910,Longview School District,-276,Northlake Elementary School,51.84%,*,N,,,
-wa,159910,Longview School District,-277,Olympic Elementary School,54.68%,*,N,,,
-wa,159910,Longview School District,-278,R A Long High School,41.10%,*,N,,,
-wa,159910,Longview School District,-279,Robert Gray Elementary,30.46%,*,N,,,
-wa,159910,Longview School District,-280,Saint Helens Elementary,63.59%,*,N,,,
-wa,159587,Loon Lake School District,663155,Loon Lake Elementary School,59.20%,,Y,62.60%,123,73
-wa,159398,Lummi Indian Business Council,662431,Lummi Indian Business Council,51.06%,,Y,51.06%,282,144
-wa,100135,Lyle School District,-281,Dallesport Elementary,44.03%,*,N,,,
-wa,100135,Lyle School District,-282,Lyle High School,36.62%,*,N,,,
-wa,100135,Lyle School District,-283,Lyle Middle School,51.85%,*,N,,,
-wa,159909,Mabton School District,662247,Artz-Fox Elementary School,71.49%,,Y,66.94%,505,361
-wa,159909,Mabton School District,662248,Mabton Jr/Sr High School,60.34%,,Y,66.94%,348,210
-wa,159492,Mansfield School District,-284,Mansfield Elem and High School,41.94%,*,N,,,
-wa,159489,Manson School District,-285,Manson Elementary,39.68%,*,N,,,
-wa,159489,Manson School District,-286,Manson High School,39.27%,*,N,,,
-wa,159489,Manson School District,-287,Manson Middle School,42.18%,*,N,,,
-wa,159858,Mary M Knight School District,684428,Mary M Knight School District,48.99%,,Y,48.99%,149,73
-wa,159430,Mary Walker School District,661557,Mary Walker High,36.65%,,Y,46.14%,179,66
-wa,159430,Mary Walker School District,664808,Parent Partnership,33.33%,,Y,46.14%,6,2
-wa,159430,Mary Walker School District,-288,Springdale Elementary,63.68%,,N,,200,127
-wa,159430,Mary Walker School District,-289,Springdale Middle School,47.00%,,N,,104,49
-wa,159972,Marysville School District,-290,Cascade Elementary,30.96%,*,N,,,
-wa,159972,Marysville School District,-291,Cedarcrest School,30.14%,*,N,,,
-wa,159972,Marysville School District,-292,ECEAP,93.56%,*,N,,,
-wa,159972,Marysville School District,-293,Liberty Elementary,45.77%,*,N,,,
-wa,159972,Marysville School District,-294,Marshall Elementary,30.98%,*,N,,,
-wa,159972,Marysville School District,-295,Marysville Middle School,32.17%,*,N,,,
-wa,159972,Marysville School District,-296,Quil Ceda Tulalip Elementary,37.67%,*,N,,,
-wa,159972,Marysville School District,-297,Shoultes Elementary,32.56%,*,N,,,
-wa,159381,McCleary School District,661368,McCleary Elementary,33.97%,,Y,42.05%,371,126
-wa,100144,Mead School District,-298,Mead Alternative High School,41.58%,*,N,,,
-wa,100144,Mead School District,-299,Shiloh Hills Elementary,53.71%,*,N,,,
-wa,100145,Medical Lake School District,-300,Hallett Elementary,30.36%,*,N,,,
-wa,159539,Mill A School District,660724,Mill A Elementary School,46.88%,,Y,43.18%,31,15
-wa,159539,Mill A School District,684987,Pacific Crest Innovation Academy,7.69%,,Y,43.18%,13,1
-wa,159326,Monroe School District,-301,Frank Wagner Elementary,33.06%,*,N,,,
-wa,159384,Endicott School District,-302,Morton Elementary School,38.07%,*,N,,,
-wa,159384,Endicott School District,-303,Morton Junior-Senior High,36.42%,*,N,,,
-wa,159949,Edmonds School District,-304,Chief Moses Middle School,40.92%,*,N,,,
-wa,159949,Edmonds School District,-305,Endeavor Middle School ,71.86%,*,N,,,
-wa,159949,Edmonds School District,-306,Frontier Middle School,37.09%,*,N,,,
-wa,159949,Edmonds School District,-307,Garden Heights Elementary,33.33%,*,N,,,
-wa,159949,Edmonds School District,-308,Knolls Vista Elementary,54.18%,*,N,,,
-wa,159949,Edmonds School District,-309,Lakeview Terrace Elementary,36.53%,*,N,,,
-wa,159949,Edmonds School District,-310,Larson Heights Elementary,69.07%,*,N,,,
-wa,159949,Edmonds School District,-311,Longview Elementary,48.03%,*,N,,,
-wa,159949,Edmonds School District,-312,Midway Elementary,49.38%,*,N,,,
-wa,159949,Edmonds School District,-313,Moses Lake High School,35.62%,*,N,,,
-wa,159949,Edmonds School District,-314,North Elementary,66.44%,*,N,,,
-wa,159949,Edmonds School District,-315,Park Orchard Elementary School ,42.08%,*,N,,,
-wa,159949,Edmonds School District,-316,Peninsula Elementary,45.60%,*,N,,,
-wa,159478,Mossyrock School District,-317,Mossyrock Academy,45.45%,*,N,,,
-wa,159478,Mossyrock School District,-318,Mossyrock Elementary School,49.03%,*,N,,,
-wa,159478,Mossyrock School District,-319,Mossyrock Jr./Sr. High School,36.56%,*,N,,,
-wa,159188,Mount Adams School District,662295,Harrah Elementary,63.10%,,Y,57.91%,580,366
-wa,159188,Mount Adams School District,663335,Mount Adams Middle,55.64%,,Y,57.91%,133,74
-wa,159188,Mount Adams School District,662297,White Swan High School,46.38%,,Y,57.91%,235,109
-wa,159526,Mount Baker School District,-320,Acme Elementary,31.49%,*,N,,,
-wa,159526,Mount Baker School District,-321,Kendall Elementary,50.48%,*,N,,,
-wa,159526,Mount Baker School District,-322,Mount Baker Junior High,39.87%,*,N,,,
-wa,159974,Mount Vernon School District,-323,Centennial Elementary School ,56.03%,*,N,,,
-wa,159974,Mount Vernon School District,-324,Jefferson Elementary,43.84%,*,N,,,
-wa,159974,Mount Vernon School District,-325,La Venture Middle School,56.54%,*,N,,,
-wa,159974,Mount Vernon School District,-326,Lincoln Elementary School,44.81%,*,N,,,
-wa,159974,Mount Vernon School District,-327,Little Mountain Elementary,40.71%,*,N,,,
-wa,159974,Mount Vernon School District,-328,Madison Elementary,43.09%,*,N,,,
-wa,159974,Mount Vernon School District,-329,Mount Baker Middle School,44.32%,*,N,,,
-wa,159974,Mount Vernon School District,-330,Mount Vernon High School,39.78%,*,N,,,
-wa,159974,Mount Vernon School District,-331,Washington Elementary School,60.05%,*,N,,,
-wa,160060,Centralia School District,-332,ACES High School,43.20%,*,N,,,
-wa,160060,Centralia School District,-333,Challenger Elementary,43.21%,*,N,,,
-wa,160060,Centralia School District,-334,Discovery Elementary,38.07%,*,N,,,
-wa,160060,Centralia School District,-335,ECEAP,97.47%,*,N,,,
-wa,160060,Centralia School District,-336,Explorer Middle School,34.65%,*,N,,,
-wa,160060,Centralia School District,-337,Fairmount Elementary,36.05%,*,N,,,
-wa,160060,Centralia School District,-338,Horizon Elementary,46.87%,*,N,,,
-wa,160060,Centralia School District,-339,Lake Stickney Elementary School,32.68%,*,N,,,
-wa,160060,Centralia School District,-340,Mariner High School,32.19%,*,N,,,
-wa,160060,Centralia School District,-341,Odyssey Elementary,33.45%,*,N,,,
-wa,160060,Centralia School District,-342,Olivia Park Elementary,39.62%,*,N,,,
-wa,160060,Centralia School District,-343,Pathfinder Kindergarten Center,30.46%,*,N,,,
-wa,160060,Centralia School District,-344,Voyager Middle School,35.25%,*,N,,,
-wa,159374,Naselle-Grays River Valley School District,-345,Naselle Elementary,31.76%,*,N,,,
-wa,159374,Naselle-Grays River Valley School District,-346,Naselle Jr Sr High Schools,41.42%,*,N,,,
-wa,159635,Nespelem School District,661823,Nespelem Elementary School,65.38%,,Y,93.38%,136,89
-wa,159422,Concrete School District,-347,Sadie Halstead Middle School,43.91%,*,N,,,
-wa,159422,Concrete School District,-348,Stratton Elementary,45.29%,*,N,,,
-wa,159527,Nooksack Valley School District,-349,Everson Elementary,37.46%,*,N,,,
-wa,159527,Nooksack Valley School District,-350,Nooksack Valley Middle School,32.79%,*,N,,,
-wa,159527,Nooksack Valley School District,-351,Sumas Elementary,36.99%,*,N,,,
-wa,159336,North Beach School District,-352,North Beach Junior High School,55.32%,*,N,,,
-wa,159336,North Beach School District,-353,North Beach Senior High School,44.16%,*,N,,,
-wa,159336,North Beach School District,-354,Ocean Shores Elementary,44.63%,*,N,,,
-wa,159336,North Beach School District,-355,Pacific Beach Elementary School,53.55%,*,N,,,
-wa,159285,North Franklin School District,-356,Basin City Elem,58.06%,*,N,,,
-wa,159285,North Franklin School District,-357,Connell Elem,57.32%,*,N,,,
-wa,159285,North Franklin School District,-358,Connell High School,48.85%,*,N,,,
-wa,159285,North Franklin School District,-359,Mesa Elem,50.79%,*,N,,,
-wa,159285,North Franklin School District,-360,Palouse Junction High School,70.37%,*,N,,,
-wa,159285,North Franklin School District,-361,Robert L Olds Junior High School,57.57%,*,N,,,
-wa,159504,North Mason School District,661820,Belfair Elementary School,41.52%,,Y,41.00%,493,205
-wa,159504,North Mason School District,664603,Hawkins Middle School,32.87%,,Y,41.00%,504,166
-wa,159504,North Mason School District,663880,James Taylor High School,40.48%,,Y,41.00%,41,17
-wa,159504,North Mason School District,685391,North Mason Preschool,37.90%,,Y,41.00%,38,14
-wa,159504,North Mason School District,664285,Sandhill Elementary Scgool,45.56%,,Y,41.00%,485,221
-wa,159338,North River School District,663152,North River Elementary & Jr/Sr High,41.12%,,Y,42.65%,68,28
-wa,159981,North Thurston Public Schools,-362,Chambers Prairie Elementary School,34.80%,*,N,,,
-wa,159981,North Thurston Public Schools,-363,Lacey Elementary,36.83%,*,N,,,
-wa,159981,North Thurston Public Schools,-364,Lydia Hawk Elementary,47.56%,*,N,,,
-wa,159981,North Thurston Public Schools,-365,Mountain View Elementary,36.17%,*,N,,,
-wa,159981,North Thurston Public Schools,-366,Pleasant Glade Elementary,33.17%,*,N,,,
-wa,159981,North Thurston Public Schools,-367,South Sound High School,49.18%,*,N,,,
-wa,159462,Northport School District,-368,Northport Elementary School,46.67%,*,N,,,
-wa,159462,Northport School District,-369,Northport High School,55.56%,*,N,,,
-wa,159389,Oakville School District,663779,Oakville Elementary School,43.75%,,Y,41.15%,112,49
-wa,159389,Oakville School District,660767,Oakville Middle & High School,38.60%,,Y,41.15%,114,44
-wa,159356,Ocean Beach School District,-370,Hilltop School,38.87%,*,N,,,
-wa,159356,Ocean Beach School District,-371,Ilwaco High School,37.14%,*,N,,,
-wa,159356,Ocean Beach School District,-372,Long Beach Elementary School,43.32%,*,N,,,
-wa,159356,Ocean Beach School District,684484,Ocean Beach Alternative School,75.00%,,Y,75.00%,28,21
-wa,159356,Ocean Beach School District,-373,Ocean Park Elementary,52.94%,*,N,,,
-wa,159377,Ocosta School District,659021,Ocosta Elementary School,53.18%,,Y,57.66%,345,183
-wa,159377,Ocosta School District,660764,Ocosta Jr/Sr High School,44.86%,,Y,57.66%,288,129
-wa,159905,Odessa School District,-374,P C Jantz Elementary,41.18%,*,N,,,
-wa,159343,Okanogan School District,-375,Grainger Elementary,44.19%,*,N,,,
-wa,159343,Okanogan School District,-376,Okanogan Alternative High School,63.16%,*,N,,,
-wa,159343,Okanogan School District,-377,Okanogan Middle School,36.26%,*,N,,,
-wa,159923,Olympia School District,661568,Garfield Elementary,45.33%,,Y,42.07%,428,194
-wa,159923,Olympia School District,661569,Julia Butler Hansen Elementary,36.52%,,Y,42.07%,501,183
-wa,159923,Olympia School District,662301,LP Brown Elementary,37.36%,,Y,42.07%,364,136
-wa,159923,Olympia School District,-378,Madison Elementary School,30.62%,*,N,,,
-wa,159344,Omak School District,661826,East Omak Elementary,51.50%,,Y,56.74%,397,204
-wa,159344,Omak School District,661825,North Omak Elementary,62.59%,,Y,56.74%,500,313
-wa,159344,Omak School District,663495,Omak High School,46.62%,,Y,56.74%,369,172
-wa,159344,Omak School District,663494,Omak Middle School,31.73%,,Y,56.74%,359,114
-wa,100184,Onalaska School District,-379,Onalaska Elementary School,37.61%,*,N,,,
-wa,100184,Onalaska School District,-380,Onalaska Middle School ,36.60%,*,N,,,
-wa,100185,Onion Creek School District,-381,Onion Creek Elementary,35.56%,*,N,,,
-wa,100188,Orient School District,-382,Orient Elem,46.67%,*,N,,,
-wa,159520,Orondo School District,663766,Orondo Elementary & Middle School,53.81%,,Y,66.99%,206,111
-wa,159301,Oroville School District,661840,Oroville Elementary School,59.32%,,Y,55.21%,314,186
-wa,159301,Oroville School District,661841,Oroville Midlle/High School,43.87%,,Y,55.21%,233,102
-wa,159249,Chehalis School District,681052,Desert Oasis High School,55.29%,,Y,56.30%,85,47
-wa,159249,Chehalis School District,-383,Early Childhood Center,57.25%,*,N,,,
-wa,159249,Chehalis School District,663737,Hiawatha Elementary ,67.96%,,Y,56.30%,568,386
-wa,159249,Chehalis School District,663404,Lutacaga Elementary,59.54%,,Y,56.30%,650,387
-wa,159249,Chehalis School District,664927,McFarland Middle School,55.81%,,Y,56.30%,989,552
-wa,159249,Chehalis School District,663403,Othello High School,45.42%,,Y,56.30%,1026,466
-wa,159249,Chehalis School District,663731,Scootney Springs Elementary,57.30%,,Y,56.30%,740,424
-wa,159249,Chehalis School District,665416,Wahitis Elementary School,60.52%,,Y,56.30%,537,325
-wa,159540,Palisades School District,661439,Palisades School Elementary,44.44%,,Y,50.00%,26,12
-wa,159073,Paschal Sherman,662389,Paschal Sherman Indian School,80.49%,,Y,85.29%,170,137
-wa,159945,Pasco School District,664470,Captain Gray Elementary,73.08%,,Y,63.24%,590,431
-wa,159945,Pasco School District,-384,Chiawana High School,38.10%,*,N,,,
-wa,159945,Pasco School District,0,Early Learning Center,72.99%,,Y,72.99%,211,154
-wa,159945,Pasco School District,661508,Emerson Elementary School,60.79%,,Y,63.24%,604,367
-wa,159945,Pasco School District,-385,James McGee Elementary,32.84%,*,N,,,
-wa,159945,Pasco School District,659005,Longfellow Elementary School,72.67%,,Y,63.24%,458,333
-wa,159945,Pasco School District,683496,Marie Curie STEM Elementary,66.71%,,Y,63.24%,827,552
-wa,159945,Pasco School District,-386,Mark Twain Elementary,36.42%,*,N,,,
-wa,159945,Pasco School District,661518,New Horizons High School,49.32%,,Y,63.24%,249,123
-wa,159945,Pasco School District,663481,Ochoa Middle School,62.45%,,Y,63.24%,744,465
-wa,159945,Pasco School District,-387,Pasco Senior High School,46.81%,*,N,,,
-wa,159945,Pasco School District,659006,Robert Frost Elementary,60.52%,,Y,63.24%,655,396
-wa,159945,Pasco School District,663479,Rowena Chess Elementary,72.38%,,Y,63.24%,512,371
-wa,159945,Pasco School District,659011,Stevens Middle School,64.34%,,Y,63.24%,738,475
-wa,159945,Pasco School District,663480,Virgie Robinson Elementary,75.21%,,Y,63.24%,763,574
-wa,159945,Pasco School District,659007,Whittier Elementary School,67.93%,,Y,63.24%,612,416
-wa,159634,Pateros School District,662022,Pateros Elementary School,38.46%,,Y,45.36%,155,60
-wa,159634,Pateros School District,662023,Pateros Jr/Sr High School,41.94%,,Y,45.36%,136,57
-wa,159268,Peninsula School District,-388,Evergreen Elementary,35.99%,*,N,,,
-wa,159423,Pioneer School District,-389,Pioneer Elementary School,42.20%,*,N,,,
-wa,159423,Pioneer School District,-390,Pioneer Middle School,41.74%,*,N,,,
-wa,159474,Pomeroy School District,-391,Pomeroy Elementary School,38.22%,*,N,,,
-wa,159886,Port Angeles School District,-392,Dry Creek Elementary,48.53%,*,N,,,
-wa,159886,Port Angeles School District,-393,Franklin Elementary,35.41%,*,N,,,
-wa,159886,Port Angeles School District,-394,Hamilton Elementary,32.75%,*,N,,,
-wa,159886,Port Angeles School District,-395,Jefferson Elementary,43.19%,*,N,,,
-wa,159886,Port Angeles School District,-396,Lincoln High School,53.54%,*,N,,,
-wa,159886,Port Angeles School District,-397,Roosevelt Elementary School,30.67%,*,N,,,
-wa,159886,Port Angeles School District,-398,Stevens Middle School,31.60%,*,N,,,
-wa,159440,Port Townsend School District,-399,Salish Coast Elementary,34.19%,*,N,,,
-wa,159524,Prescott School District,662125,Prescott Elementary School,60.94%,,Y,56.56%,192,117
-wa,159524,Prescott School District,662126,Prescott Jr Sr High School,50.00%,,Y,56.56%,128,64
-wa,160160,PRIDE Prep Charter School District,-400,PRIDE Prep School ,36.29%,*,N,,,
-wa,159889,Prosser School District,-401,Housel Middle School,48.48%,*,N,,,
-wa,159889,Prosser School District,-402,Keene-Riverview Elementary,46.00%,*,N,,,
-wa,159889,Prosser School District,-403,Prosser Heights Elementary,51.19%,*,N,,,
-wa,159889,Prosser School District,-404,Prosser High School,44.43%,*,N,,,
-wa,159889,Prosser School District,-405,Whitstran Elementary,57.79%,*,N,,,
-wa,159883,Puyallup School District,-406,Firgrove Elementary,33.07%,*,N,,,
-wa,159883,Puyallup School District,-407,Karshner Elementary,30.30%,*,N,,,
-wa,159883,Puyallup School District,-408,Spinning Elementary,39.68%,*,N,,,
-wa,159883,Puyallup School District,-409,Stewart Elementary,42.49%,*,N,,,
-wa,159883,Puyallup School District,-410,Sunrise Elementary,31.98%,*,N,,,
-wa,159883,Puyallup School District,-411,Walker High School,43.20%,*,N,,,
-wa,159883,Puyallup School District,-412,Waller Road Elementary,33.43%,*,N,,,
-wa,159883,Puyallup School District,-413,Wildwood Elementary,34.38%,*,N,,,
-wa,159455,Queets-Clearwater School District,661375,Queets Clearwater Elementary,75.00%,,Y,63.16%,19,14
-wa,159322,Quilcene School District,-414,Quilcene High And Elementary,32.26%,*,N,,,
-wa,159684,Quileute Tribal School District,659188,Quileute Tribal School,56.92%,,Y,56.92%,65,37
-wa,159405,Quillayute Valley School District,-415,Forks Elementary School,54.74%,*,N,,,
-wa,159405,Quillayute Valley School District,-416,Forks Intermediate School,43.36%,*,N,,,
-wa,159405,Quillayute Valley School District,-417,Forks Junior-Senior High School,35.36%,*,N,,,
-wa,159963,Quincy School District,-418,George Elementary,57.89%,*,N,,,
-wa,159963,Quincy School District,-419,Monument Elementary,59.21%,*,N,,,
-wa,159963,Quincy School District,-420,Mountain View Elementary,50.11%,*,N,,,
-wa,159963,Quincy School District,-421,Pioneer Elementary,49.29%,*,N,,,
-wa,159963,Quincy School District,-422,Quincy High School,48.41%,*,N,,,
-wa,159963,Quincy School District,-423,Quincy Innovation Academy,57.58%,*,N,,,
-wa,159963,Quincy School District,-424,Quincy Junior High,56.44%,*,N,,,
-wa,160170,Rainier Prep Charter School District,-425,Rainier Prep,43.73%,*,N,,,
-wa,159355,Raymond School District,662024,Raymond Elementary School,62.05%,,Y,40.07%,337,209
-wa,159355,Raymond School District,662025,Raymond Jr/Sr High School,37.35%,,Y,40.07%,257,96
-wa,159921,Reardan-Edwall School District,-426,Reardan Elementary School,30.25%,*,N,,,
-wa,159930,Renton School District,-427,Bryn Mawr Elementary School,41.60%,*,N,,,
-wa,159930,Renton School District,-428,Campbell Hill Elementary School,44.50%,*,N,,,
-wa,159930,Renton School District,-429,Cascade Elementary School,40.85%,*,N,,,
-wa,159930,Renton School District,-430,Dimmitt Middle School,43.43%,*,N,,,
-wa,159930,Renton School District,-431,Highlands Elementary School,38.20%,*,N,,,
-wa,159930,Renton School District,-432,Honey Dew Elementary,32.84%,*,N,,,
-wa,159930,Renton School District,-433,Lakeridge Elementary School,57.51%,*,N,,,
-wa,159931,Renton School District,660890,Meadow Crest Early Childhood Education Center,50.18%,,Y,50.18%,552,277
-wa,159930,Renton School District,-434,Nelsen Middle School,32.45%,*,N,,,
-wa,159930,Renton School District,-435,Renton Academy,51.35%,*,N,,,
-wa,159930,Renton School District,-436,Renton Park Elementary School,36.34%,*,N,,,
-wa,159930,Renton School District,-437,Renton Senior High School,32.02%,*,N,,,
-wa,159930,Renton School District,-438,Talley High School,39.71%,*,N,,,
-wa,159930,Renton School District,-439,Tiffany Park Elementary School,31.76%,*,N,,,
-wa,159306,Republic School District,663432,Republic Elementary,46.24%,,Y,42.90%,173,80
-wa,159306,Republic School District,663980,Republic High School,39.09%,,Y,42.90%,110,43
-wa,159306,Republic School District,662991,Republic Middle School,40.96%,,Y,42.90%,83,34
-wa,160034,Richland School District,-440,Carmichael Middle School,33.04%,*,N,,,
-wa,160034,Richland School District,-441,Chief Joseph Middle School,38.10%,*,N,,,
-wa,160034,Richland School District,685348,Early Learning Center,50.88%,,Y,53.09%,324,165
-wa,160034,Richland School District,-442,Jason Lee Elementary School,42.70%,,N,,630,269
-wa,160034,Richland School District,664029,Jefferson Elementary,42.70%,,Y,54.99%,431,184
-wa,160034,Richland School District,661156,Lewis and Clark Elementary,67.00%,,Y,42.30%,539,361
-wa,160034,Richland School District,664886,Marcus Whitman,40.08%,,Y,47.40%,538,216
-wa,160034,Richland School District,661165,River's Edge,53.60%,,Y,52.11%,284,152
-wa,160034,Richland School District,-443,Sacajawea Elementary,33.33%,*,N,,,
-wa,160034,Richland School District,-444,Tapteal Elementary School,35.83%,*,N,,,
-wa,159445,Ritzville School District,-445,Ritzville Grade School,37.37%,*,N,,,
-wa,159401,Riverside School District,-446,Chattaroy Elementary,41.84%,*,N,,,
-wa,159401,Riverside School District,-447,Riverside Elementary,34.97%,*,N,,,
-wa,159419,Rochester School District,-448,Grand Mound Elementary,32.20%,*,N,,,
-wa,159419,Rochester School District,-449,H.e.a.r.t. High School,42.50%,*,N,,,
-wa,159419,Rochester School District,-450,Rochester Middle School,33.33%,*,N,,,
-wa,159419,Rochester School District,-451,Rochester Primary School,32.94%,*,N,,,
-wa,100225,Rosalia School District,-452,Rosalia Elementary & Secondary School,38.57%,*,N,,,
-wa,159969,Royal School District,661536,Red Rock Elementary,53.91%,,Y,46.69%,552,298
-wa,159969,Royal School District,661538,Royal High School,39.02%,,Y,46.69%,506,197
-wa,159969,Royal School District,683700,Royal Intermediate School,49.35%,,Y,46.69%,447,221
-wa,159969,Royal School District,661537,Royal Middle School,50.60%,,Y,46.69%,249,126
-wa,159379,San Juan Island School District,-453,Griffin Bay School,30.43%,*,N,,,
-wa,159880,Seattle Public Schools,-454,Aki Kurose Middle School,48.14%,*,N,,,
-wa,159880,Seattle Public Schools,660380,Bailey Gatzert Elementary,69.25%,,Y,64.81%,335,232
-wa,159880,Seattle Public Schools,-455,Bridges Transition,34.85%,*,N,,,
-wa,159880,Seattle Public Schools,-456,Broadview-Thomson K-8 School,34.05%,*,N,,,
-wa,159880,Seattle Public Schools,-457,Chief Sealth International High School,34.45%,*,N,,,
-wa,159880,Seattle Public Schools,-458,Concord International School,40.97%,*,N,,,
-wa,159880,Seattle Public Schools,-459,David T. Denny International Middle School,42.43%,*,N,,,
-wa,159880,Seattle Public Schools,-460,Dearborn Park International School,33.72%,*,N,,,
-wa,159880,Seattle Public Schools,660371,Dunlap Elementary,61.48%,,Y,64.81%,366,225
-wa,159880,Seattle Public Schools,663905,Emerson Elementary School,59.64%,,Y,64.81%,332,198
-wa,159880,Seattle Public Schools,-461,Franklin High School,30.84%,*,N,,,
-wa,159880,Seattle Public Schools,-462,Graham Hill Elementary School,34.98%,*,N,,,
-wa,159880,Seattle Public Schools,-463,Highland Park Elementary School,35.40%,*,N,,,
-wa,159880,Seattle Public Schools,682293,Interagency Academy- Queen Anne,30.00%,,Y,64.81%,20,6
-wa,159880,Seattle Public Schools,665440,Interagency Academy- Southeast,63.89%,,Y,64.81%,72,46
-wa,159880,Seattle Public Schools,662994,Interagency Academy- Southwest,60.00%,,Y,64.81%,50,30
-wa,159880,Seattle Public Schools,665196,Interagency Academy-Beacon,75.86%,,Y,64.81%,29,22
-wa,159880,Seattle Public Schools,662731,Interagency Academy-Columbia,78.30%,,Y,64.81%,106,83
-wa,159880,Seattle Public Schools,662526,Interagency Academy-Opportunity Skyway,60.34%,,Y,64.81%,58,35
-wa,159880,Seattle Public Schools,-464,Interagency Open Doors,45.52%,*,N,,,
-wa,159880,Seattle Public Schools,-465,John Muir Elementary School,42.35%,*,N,,,
-wa,159880,Seattle Public Schools,-466,Leschi Elementary School,37.30%,*,N,,,
-wa,159880,Seattle Public Schools,-467,Licton Springs K-8,39.77%,*,N,,,
-wa,159880,Seattle Public Schools,-468,Lowell Elementary School,47.39%,*,N,,,
-wa,159880,Seattle Public Schools,-469,Madrona K-5 School,37.11%,*,N,,,
-wa,159880,Seattle Public Schools,660358,Martin Luther King Jr Elementary,51.74%,,Y,64.81%,317,164
-wa,159880,Seattle Public Schools,-470,Meany Middle School,31.99%,*,N,,,
-wa,159880,Seattle Public Schools,-471,Northgate Elementary School,35.09%,*,N,,,
-wa,159880,Seattle Public Schools,-472,Olympic Hills Elementary School,43.78%,*,N,,,
-wa,159880,Seattle Public Schools,-473,Rainier Beach High School,49.80%,*,N,,,
-wa,159880,Seattle Public Schools,-474,Rainier View Elementary School,44.22%,*,N,,,
-wa,159880,Seattle Public Schools,-475,Roxhill Elementary School,50.79%,*,N,,,
-wa,159880,Seattle Public Schools,-476,Sand Point Elementary,32.56%,*,N,,,
-wa,159880,Seattle Public Schools,-477,Sanislo Elementary School,40.72%,*,N,,,
-wa,159880,Seattle Public Schools,-478,Seattle World School,31.01%,*,N,,,
-wa,159880,Seattle Public Schools,660426,South Lake High School,74.39%,,Y,64.81%,82,61
-wa,159880,Seattle Public Schools,-479,South Shore PK-8 School,41.94%,*,N,,,
-wa,159880,Seattle Public Schools,660432,University District Youth Center,70.83%,,Y,64.81%,48,34
-wa,159880,Seattle Public Schools,-480,Van Asselt Elementary School,55.28%,*,N,,,
-wa,159880,Seattle Public Schools,659695,West Seattle Elementary,74.45%,,Y,64.81%,458,341
-wa,159880,Seattle Public Schools,-481,Wing Luke Elementary School,52.17%,*,N,,,
-wa,159880,Seattle Public Schools,660448,Youth Education Program,56.52%,,Y,64.81%,46,26
-wa,159978,Sedro-Woolley School District,-482,Cascade Middle School,30.87%,*,N,,,
-wa,159978,Sedro-Woolley School District,-483,Central Elementary School,40.13%,*,N,,,
-wa,159978,Sedro-Woolley School District,-484,Evergreen Elementary School,40.03%,*,N,,,
-wa,159978,Sedro-Woolley School District,-485,Good Beginnings Center,30.72%,*,N,,,
-wa,159978,Sedro-Woolley School District,-486,Mary Purcell Elementary School,46.22%,*,N,,,
-wa,159978,Sedro-Woolley School District,-487,Samish Elementary School,30.39%,*,N,,,
-wa,159978,Sedro-Woolley School District,660544,State Street High School,44.14%,,Y,55.00%,180,79
-wa,159908,Selah School District,-488,Robert Lince Early Learning Center,58.68%,*,N,,,
-wa,159908,Selah School District,-489,Selah Intermediate School,34.75%,*,N,,,
-wa,159908,Selah School District,-490,Selah Middle School,32.67%,*,N,,,
-wa,159496,Selkirk School District,661860,Selkirk Elementary School,41.86%,,Y,44.36%,133,56
-wa,159340,Sequim School District,-491,Helen Haller Elementary School,35.68%,*,N,,,
-wa,159340,Sequim School District,-492,Sequim Middle School,30.15%,*,N,,,
-wa,159487,Shelton School District,-493,Bordeaux Elementary School,41.31%,*,N,,,
-wa,159487,Shelton School District,-494,Choice Middle and High School,46.90%,*,N,,,
-wa,159487,Shelton School District,-495,Evergreen Elementary School,61.68%,*,N,,,
-wa,159487,Shelton School District,-496,Mountain View Elementary,46.19%,*,N,,,
-wa,159487,Shelton School District,-497,Oakland Bay Junior High School,39.05%,*,N,,,
-wa,159487,Shelton School District,-498,Olympic Middle School,43.29%,*,N,,,
-wa,159487,Shelton School District,-499,Shelton High School,34.51%,*,N,,,
-wa,159461,Skykomish School District,663445,Skykomish School ,57.41%,,Y,57.41%,54,31
-wa,159975,Snohomish School District,-500,Central Elementary,42.07%,*,N,,,
-wa,159975,Snohomish School District,-501,Emerson Elementary,35.02%,*,N,,,
-wa,159960,Soap Lake School District,661535,Smokiam Alternative,41.67%,,Y,65.05%,12,5
-wa,159960,Soap Lake School District,664879,Soap Lake Elementary School,69.13%,,Y,65.05%,230,159
-wa,159960,Soap Lake School District,663012,Soap Lake High School,62.04%,,Y,65.05%,137,85
-wa,159960,Soap Lake School District,661534,Soap Lake Middle School,63.24%,,Y,65.05%,136,86
-wa,159393,South Bend School District,661847,Chauncey Davis Elementary,52.91%,,Y,48.98%,283,150
-wa,159393,South Bend School District,661848,South Bend Jr/Sr High School,37.98%,,Y,48.98%,258,98
-wa,159930,Renton School District,-502,Discovery,44.97%,*,N,,,
-wa,159930,Renton School District,-503,East Port Orchard Elementary,33.75%,*,N,,,
-wa,159930,Renton School District,-504,Sidney Glen Elementary School,31.70%,*,N,,,
-wa,159327,South Whidbey School District,-505,South Whidbey Academy,31.58%,*,N,,,
-wa,159900,Spokane School District,-506,Adams Elementary,51.87%,*,N,,,
-wa,159900,Spokane School District,-507,Arlington Elementary,56.41%,*,N,,,
-wa,159900,Spokane School District,-508,Audubon Elementary,63.93%,*,N,,,
-wa,159900,Spokane School District,661033,Bemiss Elementary,65.31%,,Y,65.63%,483,315
-wa,159900,Spokane School District,-509,Browne Elementary,41.90%,*,N,,,
-wa,159900,Spokane School District,-510,Chase Middle School,34.74%,*,N,,,
-wa,159900,Spokane School District,-511,Cooper Elementary,51.70%,*,N,,,
-wa,159900,Spokane School District,681050,Eagle Peak Elementary,64.84%,,Y,64.84%,128,83
-wa,159900,Spokane School District,-512,Finch Elementary,34.08%,*,N,,,
-wa,159900,Spokane School District,-513,Garfield Elementary,51.54%,*,N,,,
-wa,159900,Spokane School District,-514,Garry Middle School,61.17%,*,N,,,
-wa,159900,Spokane School District,-515,Glover Middle School,54.67%,*,N,,,
-wa,159900,Spokane School District,661039,Grant Elementary,72.78%,,Y,72.78%,360,262
-wa,159900,Spokane School District,665180,Holmes Elementary,78.68%,,Y,78.68%,394,310
-wa,159900,Spokane School District,-516,Lidgerwood Elementary,67.22%,*,N,,,
-wa,159900,Spokane School District,-517,Lincoln Heights Elementary,35.78%,*,N,,,
-wa,159900,Spokane School District,-518,Linwood Elementary,52.77%,*,N,,,
-wa,159900,Spokane School District,661048,Logan Elementary,77.82%,,Y,72.82%,401,312
-wa,159900,Spokane School District,-519,Longfellow Elementary,65.92%,*,N,,,
-wa,159900,Spokane School District,-520,Madison Elementary,40.29%,*,N,,,
-wa,159900,Spokane School District,-521,North Central High School,33.94%,*,N,,,
-wa,159900,Spokane School District,664761,Regal Elementary,66.47%,,Y,67.73%,502,334
-wa,159900,Spokane School District,-522,Ridgeview Elementary,42.42%,*,N,,,
-wa,159900,Spokane School District,-523,Rogers High School,53.52%,*,N,,,
-wa,159900,Spokane School District,-524,Roosevelt Elementary,46.97%,*,N,,,
-wa,159900,Spokane School District,-525,Salk Middle School,31.56%,*,N,,,
-wa,159900,Spokane School District,-526,Shaw Middle School,63.04%,*,N,,,
-wa,159900,Spokane School District,-527,Sheridan Elementary,65.04%,*,N,,,
-wa,159900,Spokane School District,664217,Stevens Elementary,74.90%,,Y,74.90%,490,367
-wa,159900,Spokane School District,-528,Westview Elementary,39.44%,*,N,,,
-wa,159900,Spokane School District,661060,Whitman Elementary,65.16%,,Y,66.61%,551,359
-wa,159900,Spokane School District,-529,Willard Elementary,55.08%,*,N,,,
-wa,159877,Sprague School District,-530,Sprague Elementary,53.70%,*,N,,,
-wa,159877,Sprague School District,-531,Sprague High School,32.35%,*,N,,,
-wa,100254,Steilacoom Hist. School District,-532,Anderson Island Elementary,43.48%,*,N,,,
-wa,100256,Stevenson-Carson School District,-533,Carson Elementary,36.82%,*,N,,,
-wa,100256,Stevenson-Carson School District,-534,Stevenson Elementary,31.34%,*,N,,,
-wa,100256,Stevenson-Carson School District,-535,Wind River Middle School,37.10%,*,N,,,
-wa,100257,Sultan School District,-536,Gold Bar Elementary,31.82%,*,N,,,
-wa,100257,Sultan School District,-537,Sultan Middle School,30.11%,*,N,,,
-wa,106018,Summit Public School: Atlas,-538,Summit Public School: Atlas,36.45%,*,N,,,
-wa,105809,Summit Public School: Olympus,-539,Summit Public School: Olympus,37.43%,*,N,,,
-wa,159865,Summit Valley School District,661552,Summit Valley School,35.23%,,Y,49.35%,77,27
-wa,100259,Sumner School District,-540,Daffodil Valley Elementary,36.08%,*,N,,,
-wa,159913,Sunnyside School District,662257,Chief Kamiakin ,70.00%,,Y,63.93%,680,476
-wa,159913,Sunnyside School District,663352,Harrison Middle School,67.01%,,Y,63.93%,958,642
-wa,159913,Sunnyside School District,662258,Outlook Elementary,71.78%,,Y,63.93%,517,371
-wa,159913,Sunnyside School District,662259,Pioneer Elementary School,66.67%,,Y,63.93%,651,434
-wa,159913,Sunnyside School District,663590,Sierra Vista Middle School,65.38%,,Y,63.93%,742,485
-wa,159913,Sunnyside School District,664228,Sun Valley Elementary School,65.61%,,Y,63.93%,474,311
-wa,159913,Sunnyside School District,663353,Sunnyside High School,56.31%,,Y,63.93%,2017,1136
-wa,159913,Sunnyside School District,662256,Washington Elementary School,65.97%,,Y,63.93%,704,464
-wa,159888,Tacoma School District,-541,Angelo Giaudrone Middle School,51.52%,*,N,,,
-wa,159888,Tacoma School District,-542,Arlington,49.12%,*,N,,,
-wa,159888,Tacoma School District,-543,Baker,46.77%,*,N,,,
-wa,159888,Tacoma School District,-544,Birney,50.21%,*,N,,,
-wa,159888,Tacoma School District,-545,Blix Elementary,52.78%,*,N,,,
-wa,159888,Tacoma School District,-546,Boze,46.25%,*,N,,,
-wa,159888,Tacoma School District,-547,Bryant,34.28%,*,N,,,
-wa,159888,Tacoma School District,-548,Delong,45.91%,*,N,,,
-wa,159888,Tacoma School District,-549,Downing,32.04%,*,N,,,
-wa,159888,Tacoma School District,-550,Edison,55.83%,*,N,,,
-wa,159888,Tacoma School District,-551,Fawcett,37.95%,*,N,,,
-wa,159888,Tacoma School District,-552,Fern Hill,50.70%,*,N,,,
-wa,159888,Tacoma School District,-553,First Creek Middle School,54.85%,*,N,,,
-wa,159888,Tacoma School District,-554,Foss,45.96%,*,N,,,
-wa,159888,Tacoma School District,-555,Franklin,50.65%,*,N,,,
-wa,159888,Tacoma School District,-556,Fresh Start,47.38%,*,N,,,
-wa,159888,Tacoma School District,-557,Gray,53.02%,*,N,,,
-wa,159888,Tacoma School District,-558,Helen B. Stafford Elementary,43.87%,*,N,,,
-wa,159888,Tacoma School District,-559,Jason Lee,44.41%,*,N,,,
-wa,159888,Tacoma School District,-560,Jefferson,30.59%,*,N,,,
-wa,159888,Tacoma School District,-561,Larchmont,49.87%,*,N,,,
-wa,159888,Tacoma School District,-562,Lincoln,45.26%,*,N,,,
-wa,159888,Tacoma School District,-563,Lister,61.19%,*,N,,,
-wa,159888,Tacoma School District,-564,Lyon,46.03%,*,N,,,
-wa,159888,Tacoma School District,-565,Madison Headstart,61.86%,*,N,,,
-wa,159888,Tacoma School District,-566,Manitou Park,50.47%,*,N,,,
-wa,159888,Tacoma School District,-567,Mann,40.76%,*,N,,,
-wa,159888,Tacoma School District,-568,McCarver,68.05%,*,N,,,
-wa,159888,Tacoma School District,-569,Mt Tahoma,37.90%,*,N,,,
-wa,159888,Tacoma School District,-570,Oakland High School,62.87%,*,N,,,
-wa,159888,Tacoma School District,-571,Reed,61.37%,*,N,,,
-wa,159888,Tacoma School District,-572,Roosevelt,57.05%,*,N,,,
-wa,159888,Tacoma School District,-573,Sheridan,46.55%,*,N,,,
-wa,159888,Tacoma School District,-574,Skyline,45.33%,*,N,,,
-wa,159888,Tacoma School District,-575,Stanley,47.75%,*,N,,,
-wa,159888,Tacoma School District,-576,Stewart,45.43%,*,N,,,
-wa,159888,Tacoma School District,-577,Truman,38.76%,*,N,,,
-wa,159888,Tacoma School District,-578,Wainwright,36.44%,*,N,,,
-wa,159888,Tacoma School District,-579,Whitman,50.25%,*,N,,,
-wa,159888,Tacoma School District,-580,Whittier,39.29%,*,N,,,
-wa,160002,Taholah School District,660760,Taholah,53.64%,,Y,47.73%,176,94
-wa,159493,Tekoa School District,-581,Tekoa Elementary School,30.71%,*,N,,,
-wa,159493,Tekoa School District,-582,Tekoa High School,36.56%,*,N,,,
-wa,159433,Tenino School District,-583,Parkside Elementary,35.74%,*,N,,,
-wa,159433,Tenino School District,-584,Tenino Elementary School,32.77%,*,N,,,
-wa,159433,Tenino School District,-585,Tenino Middle School,37.42%,*,N,,,
-wa,159500,Thorp School District,-586,Thorp Elem & Jr Sr High,30.24%,*,N,,,
-wa,159400,Toledo School District,-587,Toledo Middle School,35.71%,*,N,,,
-wa,159436,Tonasket School District,661837,Tonasket Elementary School,51.21%,,Y,52.11%,488,250
-wa,159436,Tonasket School District,663589,Tonasket High School,44.91%,,Y,52.11%,315,141
-wa,159436,Tonasket School District,659106,Tonasket Middle School,56.29%,,Y,52.11%,287,162
-wa,159914,Toppenish School District,662269,Computer Academy Toppenish HS,67.27%,,Y,58.16%,165,111
-wa,159914,Toppenish School District,659211,Garfield Elementary,60.98%,,Y,58.16%,410,250
-wa,159914,Toppenish School District,659210,Kirkwood Elemtary,56.01%,,Y,58.16%,557,312
-wa,159914,Toppenish School District,659212,Lincoln Elementary,62.37%,,Y,58.16%,396,247
-wa,159914,Toppenish School District,662616,Toppenish High School,50.81%,,Y,58.16%,929,472
-wa,159914,Toppenish School District,663344,Toppenish Middle School,58.07%,,Y,58.16%,892,518
-wa,159914,Toppenish School District,663602,Toppenish Preschool,56.48%,,Y,58.16%,301,170
-wa,159914,Toppenish School District,663345,Valley View Elementary,67.23%,,Y,58.16%,470,316
-wa,159350,Lakewood School District,-588,Toutle Lake Elementary,33.07%,*,N,,,
-wa,160037,Tukwila School District,-589,Cascade View Elementary,56.80%,*,N,,,
-wa,160037,Tukwila School District,-590,Foster Senior High School,39.27%,*,N,,,
-wa,160037,Tukwila School District,-591,Showalter Middle School,44.72%,*,N,,,
-wa,160037,Tukwila School District,-592,Thorndyke Elementary,49.77%,*,N,,,
-wa,160037,Tukwila School District,-593,Tukwila Elementary,36.64%,*,N,,,
-wa,159882,Union Gap School District,662209,Union Gap School,60.87%,,Y,63.17%,619,377
-wa,159991,University Place School District,-594,University Place Primary,30.59%,*,N,,,
-wa,159450,Valley School District,-595,Valley School,52.71%,*,N,,,
-wa,100278,Vancouver School District,-596,Discovery Middle School,49.35%,*,N,,,
-wa,159450,Valley School District,-597,Dwight D Eisenhower Elementary,30.95%,*,N,,,
-wa,159450,Valley School District,-598,Fir Grove Childrens Center,57.63%,*,N,,,
-wa,159450,Valley School District,-599,Fort Vancouver High School,42.95%,*,N,,,
-wa,159450,Valley School District,-600,Fruit Valley Elementary School,60.23%,*,N,,,
-wa,159450,Valley School District,-601,Gaiser Middle School,37.21%,*,N,,,
-wa,159450,Valley School District,-602,George C Marshall Elementary,48.28%,*,N,,,
-wa,159450,Valley School District,-603,Harney Elementary School,37.50%,*,N,,,
-wa,159450,Valley School District,-604,Harry S Truman Elementary School,43.88%,*,N,,,
-wa,159450,Valley School District,-605,Hazel Dell Elementary School,45.58%,*,N,,,
-wa,159450,Valley School District,-606,Hough Elementary School,33.64%,*,N,,,
-wa,159450,Valley School District,-607,Hudson's Bay High School,37.71%,*,N,,,
-wa,159450,Valley School District,-608,Lincoln Elementary School,38.98%,*,N,,,
-wa,159450,Valley School District,-609,Martin Luther King Elementary,54.96%,*,N,,,
-wa,159450,Valley School District,-610,Mcloughlin Middle School,51.94%,*,N,,,
-wa,159450,Valley School District,-611,Minnehaha Elementary School,33.03%,*,N,,,
-wa,159450,Valley School District,-612,Peter S Ogden Elementary,48.70%,*,N,,,
-wa,159450,Valley School District,-613,Roosevelt Elementary School,56.00%,*,N,,,
-wa,159450,Valley School District,-614,Sarah J Anderson Elementary,32.19%,*,N,,,
-wa,159450,Valley School District,-615,Walnut Grove Elementary,42.59%,*,N,,,
-wa,159450,Valley School District,-616,Washington Elementary,55.62%,*,N,,,
-wa,159647,Vista Hermosa,662480,Vista Hermosa Elementary,59.09%,,Y,59.09%,22,13
-wa,159521,WA HE LUT Indian School Agency,663447,Wa He Lut Indian School,59.26%,,Y,59.26%,135,80
-wa,159150,Wahkiakum School District,-617,Julius A Wendt Elementary/John C Thomas Middle School,41.59%,*,N,,,
-wa,159150,Wahkiakum School District,-618,Wahkiakum High School,39.05%,*,N,,,
-wa,159983,Wahluke School District,664615,Mattawa Elementary,71.70%,,Y,74.33%,554,397
-wa,159983,Wahluke School District,664400,Morris Schott Elementary,80.08%,,Y,74.33%,246,197
-wa,159983,Wahluke School District,661528,Sadle Mountain Elementary,81.41%,,Y,74.33%,495,403
-wa,159983,Wahluke School District,664874,Wahluke High School,76.69%,,Y,74.33%,624,479
-wa,159983,Wahluke School District,664156,Wahluke Junior High School,79.84%,,Y,74.33%,617,493
-wa,159519,Waitsburg School District,-619,Preston Hall Middle School,41.67%,*,N,,,
-wa,159519,Waitsburg School District,-620,Waitsburg Elementary School,46.83%,*,N,,,
-wa,159519,Waitsburg School District,-621,Waitsburg High School,30.86%,*,N,,,
-wa,159977,Walla Walla Public Schools,-622,Berney Elementary School,30.98%,*,N,,,
-wa,159977,Walla Walla Public Schools,-623,Blue Ridge Elementary,55.38%,*,N,,,
-wa,159977,Walla Walla Public Schools,-624,Edison Elementary School - Walla Walla,47.05%,*,N,,,
-wa,159977,Walla Walla Public Schools,-625,Garrison Middle School,31.35%,*,N,,,
-wa,159977,Walla Walla Public Schools,-626,Green Park Elementary School,47.68%,*,N,,,
-wa,159977,Walla Walla Public Schools,-627,Lincoln High School,67.26%,*,N,,,
-wa,159977,Walla Walla Public Schools,-628,Opportunity Youth Reengagement,45.96%,*,N,,,
-wa,159977,Walla Walla Public Schools,-629,Pioneer Middle School,37.48%,*,N,,,
-wa,159977,Walla Walla Public Schools,-630,Sharpstein Elementary School,43.96%,*,N,,,
-wa,159919,Wapato School District,678934,Adams Elementary,67.28%,,Y,65.13%,437,294
-wa,159919,Wapato School District,664035,Camas Elementary,66.04%,,Y,65.13%,689,455
-wa,159919,Wapato School District,662285,PACE High School,75.71%,,Y,65.13%,70,53
-wa,159919,Wapato School District,663973,Satus Elementary,76.27%,,Y,65.13%,691,527
-wa,159919,Wapato School District,-631,Simcoe Elementary School,66.50%,*,N,,,
-wa,159919,Wapato School District,664334,Wapato High School,53.60%,,Y,65.13%,791,424
-wa,159919,Wapato School District,663972,Wapato Middle School,64.02%,,Y,65.13%,806,516
-wa,159966,Warden School District,678925,Warden Elementary School,64.02%,,Y,59.79%,465,298
-wa,159966,Warden School District,678923,Warden High School,64.09%,,Y,59.79%,279,179
-wa,159966,Warden School District,678924,Warden Middle School,56.63%,,Y,59.79%,226,128
-wa,159906,Washougal School District,-632,Hathaway Elementary,30.39%,*,N,,,
-wa,159447,Waterville School District,-633,Waterville Elementary,33.85%,*,N,,,
-wa,159447,Waterville School District,-634,Waterville High School,32.24%,*,N,,,
-wa,159453,Wellpinit School District,661543,Wellpinit Elementary,71.89%,,Y,69.44%,185,133
-wa,159453,Wellpinit School District,661544,Wellpinit High School,60.76%,,Y,69.44%,79,48
-wa,159453,Wellpinit School District,662712,Wellpinit Middle School,72.60%,,Y,69.44%,73,53
-wa,159953,Wenatchee School District,665851,Columbia Elementary,62.34%,,Y,57.50%,406,253
-wa,159953,Wenatchee School District,-635,Foothills Middle School,35.30%,*,N,,,
-wa,159953,Wenatchee School District,-636,John Newbery Elementary,39.88%,*,N,,,
-wa,159953,Wenatchee School District,661182,Lewis and Clark Elementary,49.05%,,Y,57.50%,487,239
-wa,159953,Wenatchee School District,661183,Lincoln Elementary,59.24%,,Y,52.16%,526,312
-wa,159953,Wenatchee School District,661184,Mission View Elementary,52.81%,,Y,57.50%,517,273
-wa,159953,Wenatchee School District,665174,Orchard Middle School,55.87%,,Y,57.50%,491,274
-wa,159953,Wenatchee School District,665173,Pioneer Middle School,45.56%,,Y,52.16%,604,275
-wa,159953,Wenatchee School District,-637,Wenatchee High School,39.44%,*,N,,,
-wa,159953,Wenatchee School District,-638,Wenatchee Valley Technical Skills Center,100.00%,*,N,,,
-wa,159953,Wenatchee School District,661192,Westside High School,44.36%,,Y,52.16%,279,124
-wa,159986,West Valley School District (Spokane),-639,Centennial Middle School,31.25%,*,N,,,
-wa,159986,West Valley School District (Spokane),661016,Dishman Hills High School,58.06%,,Y,58.06%,310,180
-wa,159986,West Valley School District (Spokane),-640,Millwood Kindergarten Center,31.63%,*,N,,,
-wa,159986,West Valley School District (Spokane),-641,Ness Elementary,44.03%,*,N,,,
-wa,159986,West Valley School District (Spokane),-642,Orchard Center Elementary,37.45%,*,N,,,
-wa,159986,West Valley School District (Spokane),-643,Seth Woodard Elementary,34.96%,*,N,,,
-wa,159958,West Valley School District (Yakima),-644,Ahtanum Valley Elementary,36.07%,*,N,,,
-wa,159958,West Valley School District (Yakima),-645,Wide Hollow Elementary,37.54%,*,N,,,
-wa,159435,White Pass School District,-646,White Pass Elementary School,56.68%,*,N,,,
-wa,159435,White Pass School District,-647,White Pass Jr. Sr. High School,43.90%,*,N,,,
-wa,159418,White Salmon Valley School District,-648,White Salmon Academy,47.37%,*,N,,,
-wa,106019,Willow Public Charter School,-649,Willow Public School,48.72%,*,N,,,
-wa,100298,Wilson Creek School District,-650,Wilson Creek Elementary,35.79%,*,N,,,
-wa,159477,Winlock School District,661770,Winlock High School,40.49%,,Y,46.31%,163,66
-wa,159477,Winlock School District,662742,Winlock Middle School,49.38%,,Y,50.10%,160,79
-wa,159477,Winlock School District,665268,Winlock Miller Elementary School,50.41%,,Y,50.10%,365,184
-wa,159477,Winlock School District,665171,Winolequa Learning Academy,70.00%,,Y,46.31%,40,28
-wa,159514,Wishram School District,664124,Wishram High & Elementary,63.64%,,Y,60.27%,73,46
-wa,159376,Woodland School District,-651,Woodland Intermediate School,30.20%,*,N,,,
-wa,159887,Yakima School District,663543,A.C. Davis High School,56.92%,,Y,65.17%,2275,1295
-wa,159887,Yakima School District,662214,Adams Elementary,80.19%,,Y,65.17%,722,579
-wa,159887,Yakima School District,662215,Barge Lincoln Elementary,80.85%,,Y,65.17%,637,515
-wa,159887,Yakima School District,662216,Discovery Lab,42.65%,,Y,65.17%,211,90
-wa,159887,Yakima School District,663544,Eisenhower High School,54.93%,,Y,65.17%,1906,1047
-wa,159887,Yakima School District,662228,Franklin Middle School,64.66%,,Y,65.17%,880,569
-wa,159887,Yakima School District,662217,Garfield Elementary,77.97%,,Y,65.17%,522,407
-wa,159887,Yakima School District,663541,Gilbert Elementary,60.26%,,Y,65.17%,546,329
-wa,159887,Yakima School District,662219,Hoover Elementary,89.04%,,Y,65.17%,675,601
-wa,159887,Yakima School District,662229,Lewis & Clark Middle School,69.09%,,Y,65.17%,854,590
-wa,159887,Yakima School District,662220,Martin Luther King Elementary,75.09%,,Y,65.17%,586,440
-wa,159887,Yakima School District,662221,McClure Elementary,59.08%,,Y,65.17%,567,335
-wa,159887,Yakima School District,662222,McKinley Elementary,69.16%,,Y,65.17%,454,314
-wa,159887,Yakima School District,663540,Nob Hill Elementary,45.64%,,Y,65.17%,482,220
-wa,159887,Yakima School District,662224,Ridgeview Elementary,70.42%,,Y,65.17%,639,450
-wa,159887,Yakima School District,662225,Robertson Elementary,65.67%,,Y,65.17%,504,331
-wa,159887,Yakima School District,662226,Roosevelt Elementary,67.84%,,Y,65.17%,510,346
-wa,159887,Yakima School District,659320,Stanton Academy,80.60%,,Y,65.17%,226,182
-wa,159887,Yakima School District,662230,Washington Middle School,78.92%,,Y,65.17%,852,672
-wa,159887,Yakima School District,662227,Whitney Elementary,53.83%,,Y,65.17%,509,274
-wa,159887,Yakima School District,663545,Wilson Middle School,52.98%,,Y,65.17%,840,445
-wa,159887,Yakima School District,665726,Yakima Online,67.08%,,Y,65.17%,243,163
-wa,100304,Yelm School District,-652,Fort Stevens Elementary,30.97%,*,N,,,
-wa,100304,Yelm School District,-653,Yelm Extension School,31.40%,*,N,,,
-wa,100304,Yelm School District,-654,Yelm Middle School,30.65%,*,N,,,
-wa,159918,Zillah School District,-655,Hilton Elementary School,37.50%,*,N,,,
-wa,159918,Zillah School District,-656,Zillah High School,30.60%,*,N,,,
-wa,159918,Zillah School District,-657,Zillah Intermediate School,38.10%,*,N,,,
-wa,159918,Zillah School District,-658,Zillah Middle School,36.27%,*,N,,,
+wa,159885,Aberdeen School District,100863,A J West Elementary,64.56%,,47.19%,Y,411,265
+wa,159885,Aberdeen School District,100867,Central Park Elementary,26.83%,,47.19%,Y,161,43
+wa,159885,Aberdeen School District,100869,Harbor High School,52.75%,,47.19%,Y,95,50
+wa,159885,Aberdeen School District,100866,Hopkins Elementary Preschool,73.94%,,47.19%,Y,120,89
+wa,159885,Aberdeen School District,100868,J M Weatherwax High School,37.73%,,47.19%,Y,858,324
+wa,159885,Aberdeen School District,100861,McDermoth Elementary,44.52%,,47.19%,Y,382,170
+wa,159885,Aberdeen School District,100860,Miller Junior High School,47.28%,,47.19%,Y,462,218
+wa,159885,Aberdeen School District,100862,Robert Gray Elementary,57.63%,,47.19%,Y,348,201
+wa,159885,Aberdeen School District,100864,Stevens Elementary,59.67%,,47.19%,Y,547,326
+wa,159979,Anacortes School District,104953,Cap Sante High School,33.80%,,,N,71,24
+wa,159297,Arlington School District,102567,Weston High School,30.97%,,,N,155,48
+wa,160433,Ashe Preparatory Academy,106253,Ashe Preparatory Academy,46.07%,,,N,89,41
+wa,159935,Auburn School District,101425,Alpac Elementary School,30.60%,,,N,719,220
+wa,159935,Auburn School District,101417,Auburn Senior High School,31.80%,,,N,1695,539
+wa,159935,Auburn School District,101414,Cascade Middle School,33.97%,,,N,886,301
+wa,159935,Auburn School District,101421,Chinook Elementary School,34.91%,,,N,613,214
+wa,159935,Auburn School District,101418,Dick Scobee Elementary School,47.44%,,,N,546,259
+wa,159935,Auburn School District,101423,Gildo Rey Elementary School,35.59%,,,N,635,226
+wa,159935,Auburn School District,101422,Lea Hill Elementary School,58.59%,,,N,681,399
+wa,159935,Auburn School District,101419,Olympic Middle School,41.37%,,,N,967,400
+wa,159935,Auburn School District,101420,Pioneer Elementary School,50.47%,,,N,533,269
+wa,159935,Auburn School District,101429,Rainier Middle School,30.73%,,,N,1025,315
+wa,159935,Auburn School District,101415,Terminal Park Elementary School,42.74%,,,N,503,215
+wa,159935,Auburn School District,101413,Washington Elementary School,48.63%,,,N,619,301
+wa,159935,Auburn School District,101416,West Auburn Senior High School,53.36%,,,N,253,135
+wa,159942,Bellingham School District,103064,Alderwood Elementary School,47.06%,,50.65%,Y,280,132
+wa,159942,Bellingham School District,103060,Birchwood Elementary School,31.04%,,,N,364,113
+wa,159942,Bellingham School District,103062,Carl Cozier Elementary School,33.43%,,,N,350,117
+wa,159942,Bellingham School District,105326,Cordata Elementary School,45.59%,,50.65%,Y,411,187
+wa,159942,Bellingham School District,103042,Options High School,46.07%,,,N,191,88
+wa,159942,Bellingham School District,103051,Roosevelt Elementary School,30.42%,,,N,424,129
+wa,159942,Bellingham School District,103065,Shuksan Middle School,38.89%,,,N,684,266
+wa,159241,Bethel School District,105804,Acceleration Academy,41.33%,,,N,225,93
+wa,159241,Bethel School District,102295,Bethel Middle School,32.13%,,,N,775,249
+wa,159241,Bethel School District,102306,Camas Prairie Elementary,37.34%,,,N,616,230
+wa,159241,Bethel School District,102304,Cedarcrest Middle School,33.38%,,,N,779,260
+wa,159241,Bethel School District,102308,Centennial Elementary Bethel,35.09%,,,N,530,186
+wa,159241,Bethel School District,102285,Challenger High School,39.22%,,,N,283,111
+wa,159241,Bethel School District,102296,Chester H Thompson Elementary,33.74%,,,N,732,247
+wa,159241,Bethel School District,102299,Evergreen Elementary,30.94%,,,N,543,168
+wa,159241,Bethel School District,102305,Rocky Ridge Elementary,32.52%,,,N,449,146
+wa,159241,Bethel School District,102290,Roy Elementary,33.14%,,,N,344,114
+wa,159241,Bethel School District,102301,Shining Mountain Elementary,33.08%,,,N,783,259
+wa,159241,Bethel School District,102289,Spanaway Elementary,38.90%,,,N,437,170
+wa,159241,Bethel School District,102297,Spanaway Middle School,33.85%,,,N,774,262
+wa,159529,Blaine School District,103093,Blaine Primary School,30.14%,,,N,584,176
+wa,160001,Boistfort School District,101842,Boistfort Elem,32.67%,,,N,101,33
+wa,159944,Bremerton School District,101676,Armin Jahr Elementary,45.71%,,50.83%,Y,421,192
+wa,159944,Bremerton School District,101674,Bremerton High School,35.50%,,45.42%,Y,1016,361
+wa,159944,Bremerton School District,101673,Crown Hill Elementary,42.90%,,45.42%,Y,361,155
+wa,159944,Bremerton School District,101683,Mountain View Middle School,44.44%,,45.42%,Y,895,398
+wa,159944,Bremerton School District,101675,Naval Avenue Elementary,40.42%,,45.42%,Y,312,126
+wa,159944,Bremerton School District,101663,Renaissance High School,61.79%,,40.28%,Y,209,129
+wa,159944,Bremerton School District,101672,View Ridge Elementary Arts Academy,41.76%,,45.42%,Y,432,180
+wa,159944,Bremerton School District,101665,West Hills S.T.E.M. Academy,47.70%,,52.30%,Y,610,291
+wa,159944,Bremerton School District,664093,Kitsap Lake Elementary,,,40.28%,Y,362,
+wa,159434,Brewster School District,101957,Brewster Elementary School,50.00%,,47.51%,Y,482,241
+wa,159434,Brewster School District,101956,Brewster Jr/Sr High,48.33%,,41.09%,Y,460,222
+wa,159342,Bridgeport School District,100720,Bridgeport Elementary School,56.93%,,56.49%,Y,386,220
+wa,159342,Bridgeport School District,100721,Bridgeport High,54.87%,,56.49%,Y,244,134
+wa,159342,Bridgeport School District,100722,Bridgeport Middle School,60.32%,,56.49%,Y,248,150
+wa,160000,Brinnon School District,100947,Brinnon Elementary,40.00%,,50.62%,Y,81,32
+wa,159210,Burlington-Edison School District,102371,Allen Elementary,57.78%,,,N,424,245
+wa,159210,Burlington-Edison School District,102370,Lucille Umbarger Elementary,40.95%,,,N,613,251
+wa,159210,Burlington-Edison School District,102369,West View Elementary,30.14%,,,N,418,126
+wa,159333,Cape Flattery School District,100506,Clallam Bay High & Elementary,55.28%,,,N,123,68
+wa,159333,Cape Flattery School District,100503,Neah Bay Elementary School,48.73%,,,N,197,96
+wa,159333,Cape Flattery School District,100505,Neah Bay Junior/ Senior High School,42.33%,,,N,189,80
+wa,159469,Castle Rock School District,100688,Castle Rock Elementary,33.71%,,,N,700,236
+wa,159469,Castle Rock School District,100690,Castle Rock Middle School,32.58%,,,N,356,116
+wa,159952,Central Kitsap School District,101727,Esquire Hills Elementary,30.55%,,,N,347,106
+wa,159956,Central Valley School District,102792,Adams Elementary,34.53%,,,N,391,135
+wa,159956,Central Valley School District,102793,Bowdish Middle School,30.88%,,,N,476,147
+wa,159956,Central Valley School District,102787,Broadway Elementary,46.30%,,,N,324,150
+wa,159956,Central Valley School District,102785,Greenacres Elementary,30.71%,,,N,635,195
+wa,159956,Central Valley School District,102791,McDonald Elementary School,34.11%,,,N,299,102
+wa,159956,Central Valley School District,102800,Mica Peak High School,32.32%,,,N,164,53
+wa,159956,Central Valley School District,102786,North Pines Middle School,49.28%,,,N,485,239
+wa,159956,Central Valley School District,102784,Opportunity Elementary,47.69%,,,N,629,300
+wa,159956,Central Valley School District,102788,Progress Elementary School,41.44%,,,N,263,109
+wa,159956,Central Valley School District,102794,South Pines Elementary,31.86%,,,N,317,101
+wa,159956,Central Valley School District,102789,University Elementary School,32.59%,,,N,313,102
+wa,160060,Centralia School District,101868,Centralia High School,43.33%,,59.56%,Y,879,381
+wa,160060,Centralia School District,101875,Centralia Middle School,50.93%,,59.56%,Y,532,271
+wa,160060,Centralia School District,101869,Edison Elementary,41.96%,,59.56%,Y,339,142
+wa,160060,Centralia School District,101871,Fords Prairie Elementary,50.91%,,59.56%,Y,486,247
+wa,160060,Centralia School District,105786,Futurus High School,61.40%,,59.56%,Y,56,34
+wa,160060,Centralia School District,101874,Jefferson Lincoln Elementary,53.70%,,59.56%,Y,457,245
+wa,160060,Centralia School District,101870,Oakview Elementary,51.57%,,59.56%,Y,404,208
+wa,160060,Centralia School District,101873,Washington Elementary,57.10%,,59.56%,Y,334,191
+wa,159250,Chehalis School District,101861,Chehalis Middle School,30.90%,,,N,657,203
+wa,159250,Chehalis School District,106140,James W Lintott Elementary School,31.19%,,,N,731,228
+wa,159250,Chehalis School District,105797,Lewis County Alternative School,50.91%,,,N,55,28
+wa,159250,Chehalis School District,106141,Orin C Smith Elementary School,30.44%,,,N,657,200
+wa,159243,Cheney School District,102814,Betz Elementary,37.70%,,,N,496,187
+wa,159243,Cheney School District,105542,Phil Snowdon Elementary,30.74%,,,N,540,166
+wa,159243,Cheney School District,102819,Salnave Elementary,37.89%,,,N,388,147
+wa,159243,Cheney School District,102813,Sunset Elementary,57.67%,,,N,600,346
+wa,159243,Cheney School District,102810,Three Springs High School,51.39%,,,N,72,37
+wa,159243,Cheney School District,105485,Westwood Middle School,31.20%,,,N,577,180
+wa,159382,Chewelah School District,102873,Gess Elementary,40.65%,,,N,337,137
+wa,159382,Chewelah School District,102872,Jenkins Junior/Senior High,31.35%,,,N,319,100
+wa,159347,Chimacum School District,100956,Chimacum Creek Primary School,40.20%,,,N,204,82
+wa,159347,Chimacum School District,100953,Chimacum Elementary School,39.30%,,,N,257,101
+wa,159197,Clarkston School District,100348,Grantham Elementary,64.17%,,,N,307,197
+wa,159197,Clarkston School District,100349,Highland Elementary,50.18%,,,N,283,142
+wa,159197,Clarkston School District,100346,Lincoln Middle School,36.34%,,,N,421,153
+wa,159197,Clarkston School District,100347,Parkway Elementary,42.99%,,,N,321,138
+wa,160031,Clover Park School District,105892,Clover Park Early Learning Program,85.44%,,,N,316,270
+wa,160031,Clover Park School District,102218,Clover Park High School,46.68%,,,N,1219,569
+wa,160031,Clover Park School District,102222,Custer Elementary,45.87%,,61.91%,Y,301,138
+wa,160031,Clover Park School District,102234,Dower Elementary,42.02%,,,N,307,129
+wa,160031,Clover Park School District,102215,Firwood,34.29%,,,N,35,12
+wa,160031,Clover Park School District,105893,Four Heroes Elementary,54.73%,,61.91%,Y,641,351
+wa,160031,Clover Park School District,102226,Hudtloff Middle School,39.21%,,,N,760,298
+wa,160031,Clover Park School District,102231,Lake Louise Elementary School,40.04%,,,N,492,197
+wa,160031,Clover Park School District,102220,Lakeview Hope Academy,54.19%,,61.91%,Y,639,346
+wa,160031,Clover Park School District,102239,Lochburn Middle School,56.40%,,61.91%,Y,607,342
+wa,160031,Clover Park School District,102217,Park Lodge Elementary,46.44%,,61.91%,Y,434,202
+wa,160031,Clover Park School District,102219,Tillicum Elementary,61.45%,,61.91%,Y,338,208
+wa,160031,Clover Park School District,102227,Tyee Park Elementary,59.70%,,61.91%,Y,385,230
+wa,159502,College Place School District,105789,College Place High School,32.45%,,,N,490,159
+wa,159502,College Place School District,103025,Davis Elementary,34.27%,,,N,744,255
+wa,159502,College Place School District,103026,John Sager Middle School,37.24%,,,N,384,143
+wa,159425,Columbia (Stevens) School District,102897,Columbia High/Elementary,50.00%,,56.31%,Y,103,52
+wa,159950,Columbia (Walla Walla) School District,103032,Columbia Elementary,36.98%,,,N,384,142
+wa,159950,Columbia (Walla Walla) School District,103031,Columbia Middle School,35.39%,,,N,178,63
+wa,159414,Colville School District,102886,Colville Junior High School,31.58%,,,N,418,132
+wa,159414,Colville School District,102887,Fort Colville Elementary,34.11%,,,N,384,131
+wa,159414,Colville School District,102884,Hofstetter Elementary,36.87%,,,N,358,132
+wa,159414,Colville School District,102882,Panorama School,38.37%,,,N,86,33
+wa,159422,Concrete School District,102358,Concrete Elementary,45.12%,,50.62%,Y,291,131
+wa,159422,Concrete School District,102361,Concrete High School,39.81%,,50.62%,Y,195,78
+wa,159459,Crescent School District,100492,Crescent School,30.96%,,,N,239,74
+wa,159899,Creston School District,101888,Creston Elementary,47.62%,,,N,42,20
+wa,159899,Creston School District,101889,Creston Jr-Sr High School,30.61%,,,N,49,15
+wa,159308,Curlew School District,100745,Curlew Elementary & High,36.62%,,48.65%,Y,185,68
+wa,159353,Cusick School District,102016,Bess Herian Elementary,37.61%,,49.13%,Y,66,25
+wa,159353,Cusick School District,102015,Cusick Junior/Senior High School,38.46%,,49.13%,Y,124,48
+wa,159353,Cusick School District,685349,Kalispel Language Immersion School,,,49.13%,Y,40,
+wa,159311,Darrington School District,102652,Darrington Elementary School,42.59%,,,N,324,138
+wa,159456,Dayton School District,100657,Dayton Elementary School,41.87%,,45.32%,Y,203,85
+wa,159456,Dayton School District,100658,Dayton Middle School,34.00%,,,N,100,34
+wa,159383,Deer Park School District,105486,Deer Park Early Learning Center,90.67%,,,N,75,68
+wa,159383,Deer Park School District,102857,Deer Park Elementary,30.39%,,,N,464,141
+wa,159383,Deer Park School District,102858,Deer Park Middle School,31.31%,,,N,511,160
+wa,159867,Dixie School District,103006,Dixie Elementary,25.00%,,37.50%,Y,16,4
+wa,159332,East Valley School District (Spokane),102831,East Farms School,40.00%,,,N,470,188
+wa,159332,East Valley School District (Spokane),105772,East Valley Middle School,37.30%,,,N,488,182
+wa,159332,East Valley School District (Spokane),102825,Otis Orchards School,43.38%,,,N,438,190
+wa,159332,East Valley School District (Spokane),102824,Trent School,68.83%,,,N,539,371
+wa,159332,East Valley School District (Spokane),102828,Trentwood School,44.47%,,,N,434,193
+wa,159901,East Valley School District (Yakima),103211,East Valley Central Middle School,35.57%,,,N,818,291
+wa,159901,East Valley School District (Yakima),103212,East Valley Elementary,38.66%,,,N,595,230
+wa,159901,East Valley School District (Yakima),103208,East Valley High School,33.37%,,,N,872,291
+wa,159901,East Valley School District (Yakima),103210,Terrace Heights Elementary,38.21%,,,N,513,196
+wa,159244,Eastmont School District,103980,Clovis Point,43.71%,,,N,700,306
+wa,159244,Eastmont School District,100732,Eastmont Junior High,36.48%,,,N,984,359
+wa,159244,Eastmont School District,100727,Eastmont Senior High,34.40%,,,N,1401,482
+wa,159244,Eastmont School District,100731,Kenroy Elementary,35.85%,,,N,477,171
+wa,159244,Eastmont School District,100730,Lee Elementary,44.49%,,,N,454,202
+wa,159244,Eastmont School District,100726,Rock Island Elementary,45.19%,,55.56%,Y,225,102
+wa,159244,Eastmont School District,100734,Sterling School,38.57%,,,N,866,334
+wa,159394,Easton School District,101764,Easton School,38.24%,,48.70%,Y,115,44
+wa,159397,Eatonville School District,102317,Columbia Crest A-STEM Academy,33.69%,,,N,187,63
+wa,159949,Edmonds School District,102531,Cedar Valley Community School,40.73%,,,N,464,189
+wa,159949,Edmonds School District,102552,College Place Elementary,35.09%,,,N,493,173
+wa,159948,Ellensburg School District,101775,Mt. Stuart Elementary,34.81%,,,N,497,173
+wa,159417,Elma School District,100892,East Grays Harbor High School,40.00%,,45.26%,Y,43,17
+wa,159417,Elma School District,100894,Elma Elementary,37.11%,,45.26%,Y,662,246
+wa,159417,Elma School District,100893,Elma High School,29.10%,,45.26%,Y,410,119
+wa,159417,Elma School District,100895,Elma Middle School,35.18%,,45.26%,Y,310,109
+wa,159384,Endicott School District,103154,Endicott/St John Elem and Middle,40.00%,,,N,100,40
+wa,159561,Entiat School District,100431,Entiat Middle and High School,34.39%,,,N,157,54
+wa,159561,Entiat School District,100430,Paul Rumburg Elementary,41.05%,,,N,190,78
+wa,159954,Enumclaw School District,106087,JJ Smith Elementary,70.68%,,,N,133,94
+wa,159961,Ephrata School District,100840,Columbia Ridge Elementary,35.94%,,,N,473,170
+wa,159961,Ephrata School District,100844,Ephrata Middle School,32.26%,,,N,468,151
+wa,159961,Ephrata School District,100842,Grant Elementary,36.86%,,,N,491,181
+wa,159961,Ephrata School District,100839,Parkway School,39.08%,,,N,412,161
+wa,159961,Ephrata School District,106202,Sage Hills ECEAP,93.42%,,,N,76,71
+wa,159873,Everett School District,102448,Emerson Elementary School,36.11%,,,N,637,230
+wa,159873,Everett School District,102449,Evergreen Middle School,33.49%,,,N,1075,360
+wa,159873,Everett School District,102436,Garfield Elementary School,42.11%,,,N,437,184
+wa,159873,Everett School District,102446,Hawthorne Elementary,57.09%,,63.48%,Y,511,292
+wa,159873,Everett School District,102443,Jackson Elementary School,38.89%,,,N,360,140
+wa,159873,Everett School District,102445,Lowell Elementary - Everett,41.89%,,,N,635,266
+wa,159873,Everett School District,102442,Madison Elementary,45.91%,,,N,464,213
+wa,159873,Everett School District,102439,North Middle School,38.11%,,,N,740,282
+wa,159873,Everett School District,102459,Sequoia High School,34.10%,,63.48%,Y,201,69
+wa,159873,Everett School District,102440,Silver Lake Elementary - Everett,34.58%,,,N,668,231
+wa,159907,Evergreen School District (Clark),100587,49th Street Academy,31.00%,,,N,100,31
+wa,159907,Evergreen School District (Clark),100613,Burnt Bridge Creek Elementary Sch,31.74%,,,N,482,153
+wa,159907,Evergreen School District (Clark),100599,Burton Elementary School,37.34%,,,N,399,149
+wa,159907,Evergreen School District (Clark),100600,Cascade Middle School,35.41%,,,N,980,347
+wa,159907,Evergreen School District (Clark),100597,Covington Middle School,38.87%,,,N,1096,426
+wa,159907,Evergreen School District (Clark),100601,Crestline Elementary School,36.98%,,,N,557,206
+wa,159907,Evergreen School District (Clark),100586,Early Childhood Center,31.75%,,,N,126,40
+wa,159907,Evergreen School District (Clark),100595,Ellsworth Elementary School,32.06%,,,N,393,126
+wa,159907,Evergreen School District (Clark),104756,Endeavour Elementary School,33.29%,,,N,694,231
+wa,159907,Evergreen School District (Clark),100604,Fircrest Elementary School,38.23%,,,N,497,190
+wa,159907,Evergreen School District (Clark),100610,Hearthwood Elementary School,31.41%,,,N,417,131
+wa,159907,Evergreen School District (Clark),100605,Image Elementary School,34.22%,,,N,678,232
+wa,159907,Evergreen School District (Clark),100607,Legacy High School,38.81%,,,N,219,85
+wa,159907,Evergreen School District (Clark),100598,Marrion Elementary School,40.21%,,,N,475,191
+wa,159907,Evergreen School District (Clark),100593,Mill Plain Elementary School,35.51%,,,N,445,158
+wa,159907,Evergreen School District (Clark),100594,Orchards Elementary School,39.53%,,,N,549,217
+wa,159907,Evergreen School District (Clark),100606,Riverview Elementary School,30.39%,,,N,464,141
+wa,159907,Evergreen School District (Clark),100596,Sifton Elementary School,30.48%,,,N,420,128
+wa,159907,Evergreen School District (Clark),100602,Silver Star Elementary School,34.64%,,,N,459,159
+wa,159907,Evergreen School District (Clark),100608,Wyeast Middle School,35.04%,,,N,859,301
+wa,159505,Evergreen School District (Stevens),102895,Evergreen Elementary,65.71%,,54.29%,Y,35,23
+wa,159922,Federal Way School District,101195,Adelaide Elementary School,38.60%,,45.35%,Y,355,137
+wa,159922,Federal Way School District,101207,Brigadoon Elementary School,31.55%,,,N,393,124
+wa,159922,Federal Way School District,101224,Enterprise Elementary School,36.02%,,,N,483,174
+wa,159922,Federal Way School District,101186,Federal Way High School,32.08%,,,N,1602,514
+wa,159922,Federal Way School District,105774,Federal Way Open Doors,51.09%,,,N,229,117
+wa,159922,Federal Way School District,101212,Ilahee Jr High,36.75%,,43.77%,Y,873,321
+wa,159922,Federal Way School District,101208,Kilo Middle School,31.18%,,,N,667,208
+wa,159922,Federal Way School District,101209,Lake Dollof Elementary,39.87%,,44.54%,Y,458,183
+wa,159922,Federal Way School District,101198,Lake Grove Elementary,32.14%,,54.72%,Y,390,125
+wa,159922,Federal Way School District,101192,Lakota Middle School,32.22%,,,N,807,260
+wa,159922,Federal Way School District,101204,Mark Twain Elementary,57.70%,,54.72%,Y,509,294
+wa,159922,Federal Way School District,101188,Mirror Lake Elementary School,44.42%,,54.12%,Y,473,210
+wa,159922,Federal Way School District,101202,Nautilus K-8 School,31.63%,,,N,566,179
+wa,159922,Federal Way School District,664776,Norman Center,,,43.18%,Y,44,
+wa,159922,Federal Way School District,101194,Olympic View Elementary School,39.47%,,52.24%,Y,446,176
+wa,159922,Federal Way School District,101191,Panther Lake Elementary,50.00%,,55.56%,Y,423,212
+wa,159922,Federal Way School District,101221,Rainier View Elementary,42.64%,,54.92%,Y,488,208
+wa,159922,Federal Way School District,101203,Sacajewea Middle School,40.50%,,43.77%,Y,797,323
+wa,159922,Federal Way School District,104146,Sequoyah Middle School,44.88%,,46.13%,Y,607,272
+wa,159922,Federal Way School District,101218,Silver Lake Elementary,45.62%,,51.36%,Y,442,202
+wa,159922,Federal Way School District,101189,Star Lake Elementary,32.43%,,,N,367,119
+wa,159922,Federal Way School District,101197,Sunnycrest Elementary,51.52%,,59.11%,Y,582,300
+wa,159922,Federal Way School District,106056,TAFA at Saghalie,32.17%,,,N,628,202
+wa,159922,Federal Way School District,101193,Totem Middle School,39.15%,,42.61%,Y,751,294
+wa,159922,Federal Way School District,104881,Truman High School,54.95%,,58.38%,Y,92,51
+wa,159922,Federal Way School District,101205,Twin Lakes Elementary School,34.67%,,,N,375,130
+wa,159922,Federal Way School District,101200,Wildwood Elementary School,44.78%,,54.72%,Y,574,257
+wa,159922,Federal Way School District,682258,Acceleration Academy (aka Open Doors School),,,58.38%,Y,242,
+wa,159289,Ferndale School District,103086,Eagleridge Elementary,35.20%,,,N,517,182
+wa,159898,Finley School District,,Finley ECEAP,100.00%,,51.98%,Y,37,37
+wa,159898,Finley School District,100394,Finley Elementary,43.56%,,51.98%,Y,392,171
+wa,159898,Finley School District,100395,Finley Middle School,40.30%,,41.50%,Y,200,81
+wa,159898,Finley School District,100393,River View High School,37.38%,,43.05%,Y,295,110
+wa,159976,Franklin Pierce School District,102274,Brookdale Elementary,38.80%,,51.91%,Y,498,193
+wa,159976,Franklin Pierce School District,102270,Central Avenue Elementary,31.85%,,51.91%,Y,432,138
+wa,159976,Franklin Pierce School District,102276,Christensen Elementary,53.36%,,51.91%,Y,449,240
+wa,159976,Franklin Pierce School District,102268,Collins Elementary,29.35%,,51.91%,Y,517,152
+wa,159976,Franklin Pierce School District,105987,Early Learning Center,47.85%,,51.91%,Y,350,167
+wa,159976,Franklin Pierce School District,102278,Elmhurst Elementary School,44.70%,,51.91%,Y,392,175
+wa,159976,Franklin Pierce School District,102275,Ford Middle School,39.86%,,,N,1036,413
+wa,159976,Franklin Pierce School District,102271,Franklin Pierce High School,35.40%,,51.91%,Y,1122,397
+wa,159976,Franklin Pierce School District,102281,Gates Secondary School,59.29%,,51.91%,Y,83,49
+wa,159976,Franklin Pierce School District,102273,Harvard Elementary,49.05%,,51.91%,Y,420,206
+wa,159976,Franklin Pierce School District,102272,James Sales Elementary,47.28%,,51.91%,Y,405,191
+wa,159976,Franklin Pierce School District,103863,Midland Elementary,49.43%,,51.91%,Y,522,258
+wa,159976,Franklin Pierce School District,102277,Perry G Keithley Middle School,49.94%,,51.91%,Y,890,444
+wa,159976,Franklin Pierce School District,102279,Washington High School,41.68%,,51.91%,Y,925,386
+wa,159976,Franklin Pierce School District,665207,Morris Ford Middle,,,51.91%,Y,1034,
+wa,159546,Garfield School District,103147,Garfield Elementary,41.25%,,,N,80,33
+wa,159546,Garfield School District,103148,Garfield Middle School,32.43%,,,N,37,12
+wa,159378,Glenwood School District,101800,Glenwood Elementary,59.38%,,,N,32,19
+wa,159378,Glenwood School District,101801,Glenwood Secondary,34.88%,,,N,43,15
+wa,159446,Goldendale School District,101809,Goldendale Middle School,47.29%,,,N,277,131
+wa,159446,Goldendale School District,101807,Goldendale Primary School,48.02%,,,N,329,158
+wa,159314,Grand Coulee Dam School District,100856,Lake Roosevelt Elementary ,51.17%,,,N,383,196
+wa,159314,Grand Coulee Dam School District,100855,Lake Roosevelt Jr/Sr High School,53.41%,,,N,337,180
+wa,159911,Grandview School District,103229,Contract Learning Center,55.56%,,49.95%,Y,37,21
+wa,159911,Grandview School District,103231,Grandview High School,55.20%,,49.95%,Y,948,523
+wa,159911,Grandview School District,103234,Grandview Middle School,58.26%,,52.48%,Y,867,505
+wa,159911,Grandview School District,103230,Mcclure Elementary School,55.98%,,58.23%,Y,660,369
+wa,159911,Grandview School District,103233,Arthur H. Smith Elementary,56.21%,,58.23%,Y,629,354
+wa,159911,Grandview School District,103232,Harriet Thompson Elementary,51.32%,,58.23%,Y,624,320
+wa,159916,Granger School District,-0,Granger ECEAP,100.00%,,100.00%,Y,75,75
+wa,159916,Granger School District,103264,Granger High School,62.90%,,64.83%,Y,381,240
+wa,159916,Granger School District,103263,Granger Middle School,68.61%,,70.39%,Y,466,320
+wa,159916,Granger School District,103265,Roosevelt Elementary,62.16%,,73.59%,Y,568,353
+wa,159365,Granite Falls School District,104897,Crossroads High School,36.36%,,,N,143,52
+wa,159365,Granite Falls School District,105775,Granite Falls Open Doors,34.48%,,,N,87,30
+wa,160335,Green Dot Public Schools Rainier Valley,106048,Rainier Valley Leadership Academy,58.70%,,66.27%,Y,249,146
+wa,159917,Harrington School District,101897,Harrington Elementary,35.64%,,42.47%,Y,97,35
+wa,159917,Harrington School District,101898,Harrington High,40.00%,,42.47%,Y,27,11
+wa,159917,Harrington School District,-1,Harrington Middle,40.00%,,42.47%,Y,22,9
+wa,159915,Highland School District,103260,Highland High School,54.02%,,,N,348,188
+wa,159915,Highland School District,103257,Highland Junior High School,55.32%,,,N,188,104
+wa,159915,Highland School District,103258,Marcus Whitman-Cowiche Elementary,44.94%,,,N,356,160
+wa,159915,Highland School District,103259,Tieton Intermediate School,60.23%,,,N,264,159
+wa,159928,Highline School District,101265,Beverly Park Elementary,49.60%,,57.89%,Y,375,186
+wa,159928,Highline School District,101272,Bow Lake Elementary,39.53%,,57.89%,Y,514,203
+wa,159928,Highline School District,101283,Cascade Middle School,43.22%,,57.89%,Y,784,339
+wa,159928,Highline School District,101270,Cedarhurst Elementary,32.38%,,,N,491,159
+wa,159928,Highline School District,101281,Chinook Middle School,39.45%,,57.89%,Y,730,288
+wa,159928,Highline School District,101282,Evergreen High School,36.55%,,50.41%,Y,980,358
+wa,159928,Highline School District,106200,Glacier Middle School,37.43%,,57.89%,Y,915,342
+wa,159928,Highline School District,101261,Hazel Valley Elementary,38.70%,,57.89%,Y,490,190
+wa,159928,Highline School District,101256,Highline High School,30.39%,,,N,974,296
+wa,159928,Highline School District,101285,Hilltop Elementary,36.22%,,,N,519,188
+wa,159928,Highline School District,101290,Madrona Elementary,43.09%,,57.89%,Y,434,187
+wa,159928,Highline School District,101262,McMicken Heights Elementary,38.42%,,57.89%,Y,518,199
+wa,159928,Highline School District,101274,Midway Elementary,53.18%,,57.89%,Y,547,291
+wa,159928,Highline School District,101254,Mount View Elementary,34.08%,,57.89%,Y,536,183
+wa,159928,Highline School District,103953,New Start,52.57%,,57.89%,Y,177,93
+wa,159928,Highline School District,101292,Pacific Middle School,39.14%,,50.41%,Y,720,282
+wa,159928,Highline School District,101294,Parkside Elementary,38.98%,,57.89%,Y,414,161
+wa,159928,Highline School District,104924,Puget Sound High School,46.24%,,,N,93,43
+wa,159928,Highline School District,101296,Seahurst Elementary,36.79%,,57.89%,Y,416,153
+wa,159928,Highline School District,101278,Southern Heights Elementary,31.01%,,,N,258,80
+wa,159928,Highline School District,101297,Tyee High School,35.22%,,57.89%,Y,849,299
+wa,159928,Highline School District,104626,Valley View Elementary,38.68%,,57.89%,Y,274,106
+wa,159928,Highline School District,101260,White Center Heights Elementary,45.59%,,57.89%,Y,682,311
+wa,159388,Hood Canal School District,101935,Hood Canal Elementary School,58.93%,,55.80%,Y,212,125
+wa,159388,Hood Canal School District,106146,Hood Canal Middle School,54.81%,,55.80%,Y,107,59
+wa,159893,Hoquiam School District,100876,Central Elementary,46.69%,,52.65%,Y,240,112
+wa,159893,Hoquiam School District,100874,Emerson Elementary,55.36%,,52.65%,Y,223,123
+wa,159893,Hoquiam School District,100878,Hoquiam High School,35.37%,,52.65%,Y,442,156
+wa,159893,Hoquiam School District,104970,Hoquiam Home link School,56.47%,,52.65%,Y,84,47
+wa,159893,Hoquiam School District,100875,Hoquiam Middle School,43.45%,,52.65%,Y,358,156
+wa,159893,Hoquiam School District,100877,Lincoln Elementary,55.79%,,52.65%,Y,277,155
+wa,160348,Impact Public Schools,106148,Impact | Puget Sound Elementary,30.55%,,,N,275,84
+wa,159307,Inchelium School District,100753,Inchelium School,66.35%,,66.35%,Y,211,140
+wa,158999,Kahlotus School District,-2,Kahlotus Elementary,55.56%,,56.25%,Y,28,16
+wa,158999,Kahlotus School District,100788,Kahlotus Jr/Sr High,55.56%,,56.25%,Y,20,11
+wa,159495,Keller School District,100743,Keller Elementary,59.52%,,66.67%,Y,27,16
+wa,159957,Kelso School District,100713,Barnes Elementary School,48.24%,,49.58%,Y,353,170
+wa,159957,Kelso School District,100714,Beacon Hill Elementary,32.18%,,,N,491,158
+wa,159957,Kelso School District,100710,Butler Acres Elementary,30.07%,,,N,409,123
+wa,159957,Kelso School District,100707,Catlin Elementary,46.36%,,,N,343,159
+wa,159957,Kelso School District,100712,Coweeman Middle School,39.30%,,,N,570,224
+wa,159957,Kelso School District,100709,Huntington Middle School,40.88%,,,N,565,231
+wa,159957,Kelso School District,100703,Kelso High School,30.51%,,,N,1488,454
+wa,159957,Kelso School District,100706,Wallace Elementary,60.98%,,67.30%,Y,367,224
+wa,159891,Kennewick School District,100381,Amistad Elementary,75.03%,,59.24%,Y,882,662
+wa,159891,Kennewick School District,100375,Canyon View Elementary,43.48%,,59.24%,Y,405,176
+wa,159891,Kennewick School District,100380,Cascade Elementary,33.22%,,59.24%,Y,593,197
+wa,159891,Kennewick School District,100361,Eastgate Elementary,63.45%,,59.24%,Y,525,333
+wa,159891,Kennewick School District,100367,Edison Elementary,59.95%,,59.24%,Y,383,230
+wa,159891,Kennewick School District,106152,Fuerza Elementary,50.00%,,59.24%,Y,605,302
+wa,159891,Kennewick School District,100364,Hawthorne Elementary,53.27%,,59.24%,Y,426,227
+wa,159891,Kennewick School District,100366,Highlands Middle School,64.95%,,59.24%,Y,835,542
+wa,159891,Kennewick School District,100382,Horse Heaven Hills Middle School,33.59%,,59.24%,Y,900,302
+wa,159891,Kennewick School District,100359,Keewaydin Discovery Center,48.39%,,59.24%,Y,65,31
+wa,159891,Kennewick School District,100363,Kennewick High School,49.25%,,59.24%,Y,1590,783
+wa,159891,Kennewick School District,100358,Legacy High School,57.01%,,59.24%,Y,251,143
+wa,159891,Kennewick School District,100379,Lincoln Elementary,34.57%,,59.24%,Y,511,177
+wa,159891,Kennewick School District,100369,Park Middle School,74.20%,,59.24%,Y,713,529
+wa,159891,Kennewick School District,104484,Phoenix High School,47.37%,,59.24%,Y,59,28
+wa,159891,Kennewick School District,100376,Southgate Elementary,39.08%,,59.24%,Y,457,179
+wa,159891,Kennewick School District,100384,Southridge High,32.45%,,,N,1732,562
+wa,159891,Kennewick School District,100368,Vista Elementary School,47.64%,,59.24%,Y,399,190
+wa,159891,Kennewick School District,100365,Washington Elementary School,51.41%,,59.24%,Y,389,200
+wa,159891,Kennewick School District,100362,Westgate Elementary,66.67%,,59.24%,Y,486,324
+wa,159941,Kent School District,101575,East Hill Elementary School,49.07%,,,N,485,238
+wa,159941,Kent School District,101608,George T. Daniel Elementary School,45.58%,,,N,520,237
+wa,159941,Kent School District,101616,Kent Elementary School,41.96%,,,N,734,308
+wa,159941,Kent School District,104413,Kent Phoenix Academy,31.06%,,,N,264,82
+wa,159941,Kent School District,101574,Kent-Meridian High School,39.81%,,,N,1889,752
+wa,159941,Kent School District,101611,Meadow Ridge Elementary School,41.70%,,,N,566,236
+wa,159941,Kent School District,101592,Meeker Middle School,32.07%,,,N,711,228
+wa,159941,Kent School District,101578,Meridian Middle School,30.29%,,,N,581,176
+wa,159941,Kent School District,104031,Mill Creek Middle School,44.77%,,,N,889,398
+wa,159941,Kent School District,103824,Millennium Elementary School,43.16%,,,N,607,262
+wa,159941,Kent School District,101607,Neely O Brien Elementary School,48.19%,,,N,803,387
+wa,159941,Kent School District,104955,Panther Lake Elementary School,45.15%,,,N,691,312
+wa,159941,Kent School District,101581,Park Orchard Elementary School,38.46%,,,N,468,180
+wa,159941,Kent School District,101585,Pine Tree Elementary School,46.92%,,,N,422,198
+wa,159941,Kent School District,101580,Scenic Hill Elementary School,48.55%,,,N,620,301
+wa,159941,Kent School District,101588,Springbrook Elementary School,47.20%,,,N,517,244
+wa,159392,Kettle Falls School District,102909,Kettle Falls Elementary School,36.23%,,,N,276,100
+wa,159392,Kettle Falls School District,102910,Kettle Falls Middle School,37.50%,,,N,256,96
+wa,159897,Kiona-Benton City School District,100389,Kiona-Benton City High School,50.13%,,57.28%,Y,389,195
+wa,159897,Kiona-Benton City School District,100390,Kiona-Benton City Middle School,57.65%,,57.28%,Y,340,196
+wa,159897,Kiona-Benton City School District,100388,Kiona-Benton City Elementary School,52.60%,,57.28%,Y,692,364
+wa,159375,Klickitat School District,-3,Klickitat Elementary,33.73%,,40.00%,Y,60,20
+wa,159375,Klickitat School District,101803,Klickitat High,33.73%,,40.00%,Y,20,7
+wa,159318,La Conner School District,102400,La Conner Elementary,48.68%,,49.63%,Y,300,146
+wa,159318,La Conner School District,102399,La Conner High,38.36%,,49.63%,Y,219,84
+wa,159318,La Conner School District,102401,La Conner Middle,48.43%,,49.63%,Y,158,77
+wa,159672,Lake Chelan School District,100437,Chelan High School,32.37%,,,N,448,145
+wa,159672,Lake Chelan School District,100434,Chelan Middle School,35.35%,,,N,314,111
+wa,159672,Lake Chelan School District,103865,Chelan School of Innovation,42.42%,,,N,33,14
+wa,159672,Lake Chelan School District,100433,Lake Chelan Preschool,44.78%,,,N,67,30
+wa,159672,Lake Chelan School District,100435,Morgen Owings Elementary School,38.83%,,,N,564,219
+wa,159385,Lake Quinault School District,-4,Lake Quinault ECEAP/Pre-School,44.95%,,61.78%,Y,16,7
+wa,159385,Lake Quinault School District,-5,Lake Quinault School (K-12),44.95%,,61.78%,Y,93,42
+wa,159385,Lake Quinault School District,100900,Lake Quinault Middle/High School,44.95%,,61.78%,Y,82,37
+wa,159276,Lake Stevens School District,105992,Early Learning Center,36.09%,,,N,338,122
+wa,159350,Lakewood School District,102641,English Crossing Elementary,30.61%,,,N,343,105
+wa,159350,Lakewood School District,102638,Lakewood Elementary School,33.41%,,,N,461,154
+wa,159449,Lamont School District,103128,Lamont Middle School,44.19%,,,N,43,19
+wa,159444,Lind School District,100338,Lind Elementary School,55.28%,,70.87%,Y,103,57
+wa,159444,Lind School District,100337,Lind-Ritzville High School,50.00%,,,N,42,21
+wa,159444,Lind School District,105541,Lind-Ritzville Middle School,51.16%,,,N,43,22
+wa,159910,Longview School District,100668,Broadway Learning Center,56.95%,,,N,151,86
+wa,159910,Longview School District,100675,Cascade Middle School,41.84%,,,N,564,236
+wa,159910,Longview School District,100674,Columbia Heights Elementary,36.89%,,,N,347,128
+wa,159910,Longview School District,100664,Kessler Elementary School,52.25%,,,N,289,151
+wa,159910,Longview School District,100677,Mint Valley Elementary,52.20%,,,N,431,225
+wa,159910,Longview School District,100670,Monticello Middle School,53.26%,,,N,599,319
+wa,159910,Longview School District,104139,Mt. Solo Middle School,33.41%,,,N,464,155
+wa,159910,Longview School District,100671,Northlake Elementary School,54.01%,,,N,324,175
+wa,159910,Longview School District,100669,Olympic Elementary School,49.18%,,,N,368,181
+wa,159910,Longview School District,100667,R A Long High School,40.68%,,,N,848,345
+wa,159910,Longview School District,100666,Saint Helens Elementary,60.24%,,,N,337,203
+wa,159587,Loon Lake School District,102889,Loon Lake Elementary School,52.89%,,62.60%,Y,123,65
+wa,159398,Lummi Tribal Agency,105805,Lummi Tribal School,55.87%,,51.06%,Y,282,158
+wa,159420,Lyle School District,101815,Dallesport Elementary,44.20%,,56.41%,Y,113,50
+wa,159420,Lyle School District,101816,Lyle High,45.59%,,56.41%,Y,69,31
+wa,159420,Lyle School District,101817,Lyle Middle,48.00%,,56.41%,Y,52,25
+wa,159909,Mabton School District,103225,Artz-Fox Elementary,70.24%,,66.94%,Y,505,355
+wa,159909,Mabton School District,105533,Mabton Jr/Sr High,66.49%,,66.94%,Y,348,231
+wa,159492,Mansfield School District,100738,Mansfield Elem and High School,44.44%,,,N,99,44
+wa,159489,Manson School District,100425,Manson Elementary,36.99%,,,N,292,108
+wa,159489,Manson School District,100426,Manson High School,40.70%,,,N,199,81
+wa,159489,Manson School District,105530,Manson Middle School,42.13%,,,N,178,75
+wa,159858,Mary M Knight School District,105995,Mary M. Knight School,45.40%,,51.70%,Y,147,67
+wa,159430,Mary Walker School District,102903,Mary Walker High,35.62%,,80.24%,Y,152,54
+wa,159430,Mary Walker School District,105997,Mary Walker Promise (Parent Partnership Program),48.28%,,80.24%,Y,29,14
+wa,159430,Mary Walker School District,102902,Springdale Elementary,46.83%,,80.24%,Y,211,99
+wa,159430,Mary Walker School District,102904,Springdale Middle,57.55%,,80.24%,Y,104,60
+wa,159972,Marysville School District,102581,Cascade Elementary,30.40%,,,N,398,121
+wa,159972,Marysville School District,102579,ECEAP,92.68%,,,N,205,190
+wa,159972,Marysville School District,102591,Kellogg Marsh Elementary School,32.02%,,,N,509,163
+wa,159972,Marysville School District,103839,Legacy High School,32.68%,,,N,257,84
+wa,159972,Marysville School District,102588,Liberty Elementary,39.29%,,,N,420,165
+wa,159972,Marysville School District,102584,Marysville Middle School,30.36%,,,N,863,262
+wa,159972,Marysville School District,105776,Quil Ceda Tulalip Elementary,31.82%,,,N,506,161
+wa,159972,Marysville School District,102580,Totem Middle School,31.62%,,,N,563,178
+wa,159381,McCleary School District,100886,Mccleary Elementary School,24.58%,,42.05%,Y,371,91
+wa,159208,Mead School District,102780,Shiloh Hills Elementary,51.28%,,,N,548,281
+wa,159539,Mill A School District,102421,Mill A School Elementary,45.24%,,43.18%,Y,31,14
+wa,159539,Mill A School District,106063,Pacific Crest Innovation Academy,9.09%,,43.18%,Y,13,1
+wa,159387,Morton School District,101830,Morton Elementary School,37.24%,,,N,196,73
+wa,159387,Morton School District,101832,Morton Junior-Senior High,33.33%,,,N,165,55
+wa,159951,Moses Lake School District,100832,Chief Moses Middle School,39.38%,,,N,998,393
+wa,159951,Moses Lake School District,105489,Columbia Basin Technical Skills Center ,45.45%,,,N,11,5
+wa,159951,Moses Lake School District,105780,Endeavor Middle School ,76.95%,,,N,269,207
+wa,159951,Moses Lake School District,100826,Frontier Middle School,33.78%,,,N,746,252
+wa,159951,Moses Lake School District,100833,Garden Heights Elementary,35.91%,,,N,504,181
+wa,159951,Moses Lake School District,100828,Knolls Vista Elementary,54.79%,,,N,376,206
+wa,159951,Moses Lake School District,100829,Lakeview Terrace Elementary,40.04%,,,N,487,195
+wa,159951,Moses Lake School District,100831,Larson Heights Elementary,71.15%,,,N,305,217
+wa,159951,Moses Lake School District,100834,Longview Elementary,46.65%,,,N,478,223
+wa,159951,Moses Lake School District,100830,Midway Elementary,50.11%,,,N,455,228
+wa,159951,Moses Lake School District,100835,Moses Lake High School,35.41%,,,N,2316,820
+wa,159951,Moses Lake School District,100836,North Elementary,64.23%,,,N,274,176
+wa,159951,Moses Lake School District,105429,Park Orchard Elementary School ,36.40%,,,N,467,170
+wa,159951,Moses Lake School District,100827,Peninsula Elementary,45.04%,,,N,504,227
+wa,159478,Mossyrock School District,105921,Mossyrock Academy,85.71%,,,N,7,6
+wa,159478,Mossyrock School District,101827,Mossyrock Elementary School,41.55%,,,N,349,145
+wa,159478,Mossyrock School District,101828,Mossyrock Jr./Sr. High School,38.46%,,,N,234,90
+wa,159188,Mount Adams School District,103298,Harrah Elementary,60.62%,,57.91%,Y,580,352
+wa,159188,Mount Adams School District,103297,Mount Adams Middle School,58.23%,,57.91%,Y,133,77
+wa,159188,Mount Adams School District,103299,White Swan High,58.33%,,57.91%,Y,235,137
+wa,159526,Mount Baker School District,103118,Acme Elementary,32.34%,,,N,235,76
+wa,159526,Mount Baker School District,103123,Kendall Elementary,45.18%,,,N,394,178
+wa,159526,Mount Baker School District,103121,Mount Baker Junior High,32.84%,,,N,271,89
+wa,159974,Mount Vernon School District,102414,Centennial Elementary,51.75%,,53.26%,Y,446,231
+wa,159974,Mount Vernon School District,106238,Harriett Rowley Elementary,48.34%,,53.26%,Y,501,242
+wa,159974,Mount Vernon School District,102409,Jefferson Elementary,42.24%,,53.26%,Y,469,198
+wa,159974,Mount Vernon School District,102411,LaVenture Middle School,54.07%,,53.26%,Y,765,414
+wa,159974,Mount Vernon School District,102413,Little Mountain Elementary,43.82%,,53.26%,Y,500,219
+wa,159974,Mount Vernon School District,102408,Madison Elementary,43.07%,,53.26%,Y,539,232
+wa,159974,Mount Vernon School District,102415,Mount Baker Middle School,46.23%,,53.26%,Y,733,339
+wa,159974,Mount Vernon School District,102405,Mount Vernon High School,40.06%,,53.26%,Y,1879,753
+wa,159974,Mount Vernon School District,102407,Washington Elementary,59.94%,,53.26%,Y,327,196
+wa,160059,Mukilteo School District,102498,ACES High School,46.96%,,,N,181,85
+wa,160059,Mukilteo School District,102500,Challenger Elementary,40.80%,,,N,625,255
+wa,160059,Mukilteo School District,102501,Discovery Elementary,37.07%,,,N,696,258
+wa,160059,Mukilteo School District,103915,ECEAP,96.20%,,,N,158,152
+wa,160059,Mukilteo School District,102497,Explorer Middle School,34.85%,,,N,964,336
+wa,160059,Mukilteo School District,102488,Fairmount Elementary,32.71%,,,N,532,174
+wa,160059,Mukilteo School District,102503,Horizon Elementary,41.49%,,,N,646,268
+wa,160059,Mukilteo School District,106001,Lake Stickney Elementary School,31.03%,,,N,622,193
+wa,160059,Mukilteo School District,102493,Mariner High School,30.76%,,,N,2354,724
+wa,160059,Mukilteo School District,103932,Odyssey Elementary,32.04%,,,N,515,165
+wa,160059,Mukilteo School District,102490,Olivia Park Elementary,31.68%,,,N,606,192
+wa,160059,Mukilteo School District,106065,Pathfinder Kindergarten Center,31.00%,,,N,458,142
+wa,160059,Mukilteo School District,102504,Voyager Middle School,34.95%,,,N,884,309
+wa,159883,Naches Valley School District,106002,Naches Valley Elementary School,30.84%,,,N,522,161
+wa,159374,Naselle-Grays River Valley School District,101999,Naselle Jr Sr High Schools,39.43%,,,N,175,69
+wa,159635,Nespelem School District,101938,Nespelem Elementary,73.91%,,56.60%,Y,136,101
+wa,159421,Newport School District,102010,Newport High School,32.56%,,,N,344,112
+wa,159421,Newport School District,104623,Pend Oreille River School,69.77%,,,N,43,30
+wa,159421,Newport School District,102012,Sadie Halstead Middle School,43.31%,,,N,344,149
+wa,159421,Newport School District,102013,Stratton Elementary,47.30%,,,N,389,184
+wa,159527,Nooksack Valley School District,103113,Everson Elementary,35.22%,,,N,301,106
+wa,159527,Nooksack Valley School District,103112,Nooksack Valley Middle School,33.73%,,,N,421,142
+wa,159336,North Beach School District,100884,North Beach Middle School,39.81%,,56.60%,Y,100,40
+wa,159336,North Beach School District,100880,North Beach High School,44.21%,,56.60%,Y,181,80
+wa,159336,North Beach School District,100883,Ocean Shores Elementary,48.10%,,56.60%,Y,319,153
+wa,159336,North Beach School District,100881,Pacific Beach Elementary,47.74%,,56.60%,Y,158,75
+wa,159285,North Franklin School District,100784,Basin City Elem,53.02%,,,N,364,193
+wa,159285,North Franklin School District,100781,Connell Elem,52.34%,,,N,556,291
+wa,159285,North Franklin School District,100783,Connell High School,48.27%,,,N,636,307
+wa,159285,North Franklin School District,100782,Mesa Elem,50.79%,,,N,189,96
+wa,159285,North Franklin School District,100777,Palouse Junction High School,82.76%,,,N,29,24
+wa,159285,North Franklin School District,100780,Robert L Olds Junior High School,50.45%,,,N,333,168
+wa,159182,North Kitsap School District,106177,Choice Academy,40.00%,,,N,60,24
+wa,159504,North Mason School District,101929,Belfair Elementary,29.41%,,40.99%,Y,471,139
+wa,159504,North Mason School District,101930,Hawkin's Middle School,34.94%,,40.99%,Y,518,181
+wa,159504,North Mason School District,101927,James A. Taylor High School,33.33%,,40.99%,Y,48,16
+wa,159504,North Mason School District,106144,Mary E. Theler Early Learning Center,26.98%,,,N,63,17
+wa,159504,North Mason School District,101933,Sand Hill Elementary,35.39%,,40.99%,Y,533,189
+wa,159504,North Mason School District,685391,North Mason Developmental Preschool,,,40.99%,Y,37,
+wa,159504,North Mason School District,661818,North Mason Senior High,,,40.99%,Y,696,
+wa,159338,North River School District,102008,North River School,36.51%,,42.65%,Y,68,25
+wa,159981,North Thurston Public Schools,104892,Chambers Prairie Elementary School,34.19%,,,N,547,187
+wa,159981,North Thurston Public Schools,102931,Lacey Elementary,40.92%,,,N,479,196
+wa,159981,North Thurston Public Schools,102927,Lydia Hawk Elementary,43.90%,,,N,533,234
+wa,159981,North Thurston Public Schools,102926,Mountain View Elementary,31.38%,,,N,768,241
+wa,159981,North Thurston Public Schools,102939,South Sound High School,37.23%,,,N,94,35
+wa,159462,Northport School District,102906,Northport Elementary School,52.42%,,,N,124,65
+wa,159462,Northport School District,102907,Northport High School,60.00%,,,N,55,33
+wa,159389,Oakville School District,100914,Oakville Elementary School,39.01%,,50.66%,Y,117,46
+wa,159389,Oakville School District,100913,Oakville High School & Middle School,32.64%,,50.66%,Y,144,47
+wa,159389,Oakville School District,106233,Oakville Home link,38.89%,,50.66%,Y,17,7
+wa,159389,Oakville School District,686321,Oakville Preschool,,,50.66%,Y,26,
+wa,159356,Ocean Beach School District,101979,Hilltop School,44.58%,,,N,249,111
+wa,159356,Ocean Beach School District,101983,Ilwaco High School,35.10%,,,N,302,106
+wa,159356,Ocean Beach School District,101980,Long Beach Elementary School,50.50%,,,N,200,101
+wa,159356,Ocean Beach School District,106005,Ocean Beach Alternative School,52.83%,,75.00%,Y,28,15
+wa,159356,Ocean Beach School District,101982,Ocean Park Elementary,48.10%,,,N,237,114
+wa,159377,Ocosta School District,100911,Ocosta Elementary School,50.42%,,57.66%,Y,345,174
+wa,159377,Ocosta School District,100910,Ocosta Jr/Sr High School,52.52%,,57.66%,Y,288,151
+wa,159905,Odessa School District,101892,P C Jantz Elementary,34.65%,,,N,127,44
+wa,159343,Okanogan School District,101951,Virgina Grainger Elementary,47.70%,,47.41%,Y,500,239
+wa,159343,Okanogan School District,103967,Okanogan Alternative School,63.64%,,47.41%,Y,29,18
+wa,159343,Okanogan School District,101949,Okanogan Middle School,41.42%,,47.41%,Y,269,111
+wa,159343,Okanogan School District,661829,Okanogan High School,,,47.41%,Y,301,
+wa,159923,Olympia School District,102962,Garfield Elementary,37.41%,,42.07%,Y,428,160
+wa,159923,Olympia School District,102981,Julia Butler Hansen Elementary,33.64%,,42.07%,Y,501,169
+wa,159923,Olympia School District,102971,Leland P Brown Elementary,35.33%,,42.07%,Y,364,129
+wa,159344,Omak School District,101944,East Omak Elementary,56.50%,,59.23%,Y,352,199
+wa,159344,Omak School District,101943,North Omak Elementary,57.42%,,59.23%,Y,573,329
+wa,159344,Omak School District,101941,Omak High School,46.97%,,59.23%,Y,418,196
+wa,159344,Omak School District,101945,Omak Middle School,51.12%,,59.23%,Y,406,208
+wa,159483,Onalaska School District,101849,Onalaska Elementary School,36.38%,,,N,426,155
+wa,159483,Onalaska School District,101848,Onalaska High School,31.06%,,,N,235,73
+wa,159483,Onalaska School District,101850,Onalaska Middle School ,31.28%,,,N,227,71
+wa,159590,Onion Creek School District,661563,Onion Creek School,,,45.95%,Y,37,
+wa,159488,Orient School District,100747,Orient Elementary School,51.11%,,,N,45,23
+wa,159520,Orondo School District,100718,Orondo Elementary School,52.82%,,58.43%,Y,206,109
+wa,159301,Oroville School District,101975,Oroville Elementary,53.07%,,58.43%,Y,314,167
+wa,159301,Oroville School District,101976,Oroville Middle/High,49.45%,,58.43%,Y,233,115
+wa,159249,Othello School District,105795,Desert Oasis High School,72.27%,,56.30%,Y,85,61
+wa,159249,Othello School District,106159,Early Childhood Center,52.13%,,56.30%,Y,N/A,
+wa,159249,Othello School District,100332,Hiawatha Elementary,66.46%,,56.30%,Y,568,377
+wa,159249,Othello School District,100331,Lutacaga Elementary,47.02%,,56.30%,Y,650,306
+wa,159249,Othello School District,100334,McFarland Middle School,57.58%,,56.30%,Y,989,569
+wa,159249,Othello School District,100333,Othello High School,49.91%,,56.30%,Y,1026,512
+wa,159249,Othello School District,100335,Scootney Springs Elementary,55.71%,,56.30%,Y,740,412
+wa,159249,Othello School District,105529,Wahitis Elementary School,58.48%,,56.30%,Y,537,314
+wa,159540,Palisades School District,100724,Palisades Elementary,34.48%,,93.75%,Y,32,11
+wa,159452,Palouse School District,103144,Palouse Elementary,31.82%,,,N,110,35
+wa,159073,Paschal Sherman Indian School,-6,Paschal Sherman Indian School,85.29%,,85.29%,Y,170,145
+wa,159945,Pasco School District,105898,Captain Gray STEM Elementary,56.92%,,63.24%,Y,590,336
+wa,159945,Pasco School District,104883,Chiawana High School,38.09%,,,N,2951,1124
+wa,159945,Pasco School District,100775,Ellen Ochoa Middle School,64.05%,,63.24%,Y,744,477
+wa,159945,Pasco School District,100763,Emerson Elementary,53.95%,,63.24%,Y,604,326
+wa,159945,Pasco School District,100761,Longfellow Elementary,61.74%,,63.24%,Y,458,283
+wa,159945,Pasco School District,105900,Marie Curie STEM Elementary,64.54%,,63.24%,Y,827,534
+wa,159945,Pasco School District,100764,Mark Twain Elementary,37.36%,,,N,696,260
+wa,159945,Pasco School District,100769,New Horizons High School,64.14%,,63.24%,Y,249,160
+wa,159945,Pasco School District,103941,Pasco Early Childhood,42.31%,,,N,208,88
+wa,159945,Pasco School District,106066,Pasco Early Learning Center,49.02%,,72.99%,Y,211,103
+wa,159945,Pasco School District,100762,Pasco Senior High School,44.33%,,,N,2267,1005
+wa,159945,Pasco School District,100767,Robert Frost Elementary,55.47%,,63.24%,Y,655,363
+wa,159945,Pasco School District,100774,Rowena Chess Elementary,62.25%,,63.24%,Y,512,319
+wa,159945,Pasco School District,100765,Stevens Middle School,58.40%,,63.24%,Y,738,431
+wa,159945,Pasco School District,106205,Three Rivers Elementary,40.25%,,,N,641,258
+wa,159945,Pasco School District,104036,Virgie Robinson Elementary,60.88%,,63.24%,Y,763,465
+wa,159945,Pasco School District,100773,Whittier Elementary,56.24%,,63.24%,Y,612,344
+wa,159634,Pateros School District,101960,Pateros Elementary,35.15%,,47.21%,Y,151,53
+wa,159634,Pateros School District,101961,Pateros Jr/Sr High,42.86%,,47.21%,Y,154,66
+wa,159423,Pe Ell School District,101852,Pe Ell School,33.11%,,,N,293,97
+wa,159268,Peninsula School District,102253,Evergreen Elementary,32.99%,,,N,294,97
+wa,159424,Pioneer School District,101925,Pioneer Elementary School,40.89%,,,N,560,229
+wa,159424,Pioneer School District,101924,Pioneer Middle School,40.80%,,,N,250,102
+wa,159474,Pomeroy School District,100791,Pomeroy Elementary School,31.16%,,,N,215,67
+wa,159474,Pomeroy School District,100790,Pomeroy Jr Sr High School,31.08%,,,N,148,46
+wa,159886,Port Angeles School District,100489,Dry Creek Elementary,49.84%,,,N,311,155
+wa,159886,Port Angeles School District,100481,Franklin Elementary,35.07%,,,N,422,148
+wa,159886,Port Angeles School District,100477,Jefferson Elementary,41.64%,,,N,353,147
+wa,159886,Port Angeles School District,100486,Lincoln High School,47.66%,,,N,107,51
+wa,159886,Port Angeles School District,100484,Stevens Middle School,34.03%,,,N,573,195
+wa,159440,Port Townsend School District,100963,Salish Coast Elementary,30.80%,,,N,526,162
+wa,159524,Prescott School District,103039,Prescott Elementary School,35.88%,,,N,131,47
+wa,159524,Prescott School District,103040,Prescott Jr Sr High,36.15%,,,N,130,47
+wa,160160,PRIDE Prep Charter School District,105677,PRIDE Prep School ,36.30%,,,N,573,208
+wa,159889,Prosser School District,100401,Housel Middle School,52.60%,,,N,635,334
+wa,159889,Prosser School District,100398,Keene-Riverview Elementary,44.14%,,,N,444,196
+wa,159889,Prosser School District,100402,Prosser Heights Elementary,47.63%,,,N,464,221
+wa,159889,Prosser School District,100399,Prosser High School,44.52%,,,N,867,386
+wa,159889,Prosser School District,100400,Whitstran Elementary,51.82%,,,N,247,128
+wa,159971,Pullman School District,106223,Kamiak Elementary,32.97%,,,N,367,121
+wa,159884,Puyallup School District,102042,Firgrove Elementary,36.42%,,,N,648,236
+wa,159884,Puyallup School District,102039,Stewart Elementary,37.20%,,,N,379,141
+wa,159884,Puyallup School District,102057,Sunrise Elementary,34.99%,,,N,786,275
+wa,159884,Puyallup School District,102060,Walker High School,39.84%,,,N,128,51
+wa,159884,Puyallup School District,102041,Waller Road Elementary,33.86%,,,N,378,128
+wa,159455,Queets-Clearwater School District,100945,Queets Clearwater Elementary School,60.00%,,63.16%,Y,19,11
+wa,159684,Quileute Tribal School District,105980,Quileute Tribal School,58.18%,,56.92%,Y,65,38
+wa,159405,Quillayute Valley School District,100514,Forks Elementary School,56.86%,,44.19%,Y,350,199
+wa,159405,Quillayute Valley School District,105790,Forks Intermediate School,42.66%,,44.19%,Y,222,95
+wa,159405,Quillayute Valley School District,100512,Forks High School,38.48%,,44.19%,Y,478,184
+wa,159963,Quincy School District,106234,Ancient Lakes Elementary,45.55%,,,N,382,174
+wa,159963,Quincy School District,100805,George Elementary,53.40%,,,N,191,102
+wa,159963,Quincy School District,100806,Monument Elementary,44.85%,,,N,301,135
+wa,159963,Quincy School District,100803,Mountain View Elementary,51.83%,,,N,301,156
+wa,159963,Quincy School District,100802,Pioneer Elementary,54.43%,,,N,316,172
+wa,159963,Quincy School District,100804,Quincy High School,47.58%,,,N,784,373
+wa,159963,Quincy School District,103883,Quincy Innovation Academy,62.16%,,,N,37,23
+wa,159963,Quincy School District,100801,Quincy Middle School,54.31%,,,N,720,391
+wa,160170,Rainier Prep Charter School District,105880,Rainier Prep,40.23%,,,N,343,138
+wa,159399,Rainier School District,102985,Rainier Middle School,30.20%,,,N,202,61
+wa,159355,Raymond School District,101990,Raymond Elementary,45.67%,,40.07%,Y,337,154
+wa,159355,Raymond School District,101989,Raymond Jr/Sr High,36.88%,,40.07%,Y,257,95
+wa,159931,Renton School District,101325,Bryn Mawr Elementary School,38.21%,,,N,424,162
+wa,159931,Renton School District,101332,Campbell Hill Elementary School,41.54%,,,N,337,140
+wa,159931,Renton School District,101336,Cascade Elementary School,32.81%,,,N,448,147
+wa,159931,Renton School District,101334,Dimmitt Middle School,40.94%,,,N,657,269
+wa,159931,Renton School District,101328,Highlands Elementary School,36.46%,,,N,491,179
+wa,159931,Renton School District,101330,Lakeridge Elementary School,59.74%,,,N,390,233
+wa,159931,Renton School District,105628,Meadow Crest Early Childhood Education Center,27.81%,,50.18%,Y,552,154
+wa,159931,Renton School District,101337,Nelsen Middle School,33.92%,,,N,1026,348
+wa,159931,Renton School District,104242,Renton Academy,53.66%,,,N,41,22
+wa,159931,Renton School District,101339,Renton Park Elementary School,36.23%,,,N,414,150
+wa,159931,Renton School District,101326,Renton Senior High School,32.10%,,,N,1165,374
+wa,159931,Renton School District,105524,Talley High School,37.54%,,,N,293,110
+wa,159931,Renton School District,101344,Tiffany Park Elementary School,31.38%,,,N,443,139
+wa,159306,Republic School District,100755,Republic Elementary,44.05%,,42.90%,Y,173,76
+wa,159306,Republic School District,103961,Republic Junior High School,46.15%,,42.90%,Y,83,38
+wa,159306,Republic School District,100756,Republic Sr High,32.10%,,42.90%,Y,110,35
+wa,160034,Richland School District,100411,Carmichael Middle School,34.75%,,,N,941,327
+wa,160034,Richland School District,100412,Chief Joseph Middle School,35.16%,,,N,731,257
+wa,160034,Richland School District,100413,Jason Lee Elementary,37.60%,,45.09%,Y,519,195
+wa,160034,Richland School District,100406,Jefferson Elementary,49.79%,,54.99%,Y,431,215
+wa,160034,Richland School District,100409,Lewis & Clark Elementary,33.75%,,44.88%,Y,566,191
+wa,160034,Richland School District,100408,Marcus Whitman Elementary,46.14%,,54.14%,Y,543,251
+wa,160034,Richland School District,106157,Richland School District Early Learning Center,45.07%,,56.04%,Y,298,134
+wa,160034,Richland School District,100422,River's Edge High School,43.58%,,52.11%,Y,284,124
+wa,160034,Richland School District,100420,Tapteal Elementary School,35.27%,,,N,655,231
+wa,159445,Ritzville School District,105556,Lind Ritzville Middle School,30.85%,,,N,94,29
+wa,159445,Ritzville School District,100341,Ritzville Grade School,33.33%,,,N,177,59
+wa,159401,Riverside School District,102863,Chattaroy Elementary,39.63%,,,N,328,130
+wa,159401,Riverside School District,102865,Riverside Elementary,31.83%,,,N,377,120
+wa,159419,Rochester School District,102995,Grand Mound Elementary,32.12%,,,N,520,167
+wa,159419,Rochester School District,102991,H.e.a.r.t. High School,36.36%,,,N,33,12
+wa,159419,Rochester School District,102994,Rochester Middle School,30.56%,,,N,517,158
+wa,159419,Rochester School District,102993,Rochester Primary School,30.07%,,,N,562,169
+wa,159969,Rosalia School District,103157,Rosalia Elementary & Secondary School,37.44%,,,N,211,79
+wa,159969,Rosalia School District,100820,Red Rock Elementary,39.55%,,46.69%,Y,552,218
+wa,159969,Rosalia School District,100821,Royal High,39.72%,,46.69%,Y,506,201
+wa,159969,Rosalia School District,105894,Royal Intermediate School,46.10%,,46.69%,Y,447,206
+wa,159969,Rosalia School District,100822,Royal Middle School,46.52%,,46.69%,Y,249,116
+wa,159880,Seattle Public Schools,101143,Aki Kurose Middle School,44.96%,,,N,685,308
+wa,159880,Seattle Public Schools,101081,Bailey Gatzert Elementary,67.82%,,64.81%,Y,335,227
+wa,159880,Seattle Public Schools,101039,Beacon Hill International School,15.87%,,64.81%,Y,29,5
+wa,159880,Seattle Public Schools,101068,Broadview-Thomson K-8 School,34.50%,,,N,626,216
+wa,159880,Seattle Public Schools,101118,Chief Sealth International High School,33.36%,,,N,1100,367
+wa,159880,Seattle Public Schools,100996,Columbia School,53.06%,,64.81%,Y,106,56
+wa,159880,Seattle Public Schools,101064,Concord International School,36.69%,,,N,338,124
+wa,159880,Seattle Public Schools,101107,David T. Denny International Middle School,40.71%,,,N,850,346
+wa,159880,Seattle Public Schools,101082,Dunlap Elementary,47.89%,,64.81%,Y,366,175
+wa,159880,Seattle Public Schools,101049,Emerson Elementary School,53.77%,,64.81%,Y,332,179
+wa,159880,Seattle Public Schools,101062,Franklin High School,30.17%,,,N,1233,372
+wa,159880,Seattle Public Schools,101126,Graham Hill Elementary School,30.63%,,,N,320,98
+wa,159880,Seattle Public Schools,101077,Highland Park Elementary School,33.53%,,,N,340,114
+wa,159880,Seattle Public Schools,105909,Interagency Open Doors,44.51%,,,N,164,73
+wa,159880,Seattle Public Schools,-7,Interagency Programs - Opportunity Skyway,53.06%,,64.81%,Y,58,31
+wa,159880,Seattle Public Schools,-8,Interagency Programs - Queen Ann,53.06%,,64.81%,Y,20,11
+wa,159880,Seattle Public Schools,-9,Interagency Programs - Southeast,53.06%,,64.81%,Y,72,38
+wa,159880,Seattle Public Schools,-10,Interagency Programs - Southwest,53.06%,,64.81%,Y,50,27
+wa,159880,Seattle Public Schools,101058,John Muir Elementary School,43.03%,,,N,337,145
+wa,159880,Seattle Public Schools,101052,Leschi Elementary School,34.15%,,,N,366,125
+wa,159880,Seattle Public Schools,101152,Licton Springs K-8,35.40%,,,N,161,57
+wa,159880,Seattle Public Schools,101138,Lowell Elementary School,45.07%,,,N,284,128
+wa,159880,Seattle Public Schools,101038,Madrona K-5 School,37.50%,,,N,272,102
+wa,159880,Seattle Public Schools,101044,Martin Luther King Jr. Elementary School,51.88%,,64.81%,Y,317,164
+wa,159880,Seattle Public Schools,106068,Meany Middle School,30.41%,,,N,513,156
+wa,159880,Seattle Public Schools,101115,Northgate Elementary School,37.70%,,,N,252,95
+wa,159880,Seattle Public Schools,101112,Olympic Hills Elementary School,36.12%,,,N,490,177
+wa,159880,Seattle Public Schools,101125,Rainier Beach High School,48.65%,,,N,740,360
+wa,159880,Seattle Public Schools,101128,Rainier View Elementary School,39.00%,,,N,241,94
+wa,159880,Seattle Public Schools,101051,Rising Star Elementary School,54.69%,,,N,437,239
+wa,159880,Seattle Public Schools,101120,Roxhill Elementary School,50.00%,,,N,302,151
+wa,159880,Seattle Public Schools,105168,Sand Point Elementary,36.56%,,,N,227,83
+wa,159880,Seattle Public Schools,101137,Sanislo Elementary School,36.28%,,,N,215,78
+wa,159880,Seattle Public Schools,101144,South Lake High School,62.50%,,64.81%,Y,82,51
+wa,159880,Seattle Public Schools,101173,South Shore PK-8 School,44.11%,,,N,594,262
+wa,159880,Seattle Public Schools,-11,University District Youth Center,70.83%,,64.81%,Y,48,34
+wa,159880,Seattle Public Schools,101098,West Seattle Elementary School,72.07%,,64.81%,Y,458,330
+wa,159880,Seattle Public Schools,101136,Wing Luke Elementary School,49.84%,,,N,321,160
+wa,159880,Seattle Public Schools,-12,Youth Education Program,56.52%,,64.81%,Y,46,26
+wa,159978,Sedro-Woolley School District,102382,Cascade Middle School,32.76%,,,N,699,229
+wa,159978,Sedro-Woolley School District,102378,Central Elementary School,34.10%,,,N,478,163
+wa,159978,Sedro-Woolley School District,102386,Evergreen Elementary School,38.70%,,,N,602,233
+wa,159978,Sedro-Woolley School District,102381,Mary Purcell Elementary School,42.63%,,,N,448,191
+wa,159978,Sedro-Woolley School District,102374,State Street High School,43.38%,,55.00%,Y,180,78
+wa,159908,Selah School District,105888,John Campbell Primary School,30.68%,,,N,818,251
+wa,159908,Selah School District,105293,Robert Lince Early Learning Center,55.36%,,,N,168,93
+wa,159908,Selah School District,105889,Selah Intermediate School,34.22%,,,N,865,296
+wa,159908,Selah School District,105890,Selah Middle School,32.42%,,,N,839,272
+wa,159496,Selkirk School District,104267,Selkirk Elementary,29.79%,,44.36%,Y,133,40
+wa,159340,Sequim School District,100496,Helen Haller Elementary School,34.30%,,,N,586,201
+wa,159340,Sequim School District,100499,Sequim Middle School,30.47%,,,N,617,188
+wa,159487,Shelton School District,101914,Bordeaux Elementary School,40.56%,,,N,498,202
+wa,159487,Shelton School District,101918,Choice Middle and High School,48.85%,,,N,260,127
+wa,159487,Shelton School District,101912,Evergreen Elementary School,62.15%,,,N,494,307
+wa,159487,Shelton School District,101915,Mountain View Elementary,44.10%,,,N,737,325
+wa,159487,Shelton School District,101919,Oakland Bay Junior High School,43.56%,,,N,629,274
+wa,159487,Shelton School District,103835,Olympic Middle School,45.88%,,,N,595,273
+wa,159487,Shelton School District,101913,Shelton High School,34.36%,,,N,1461,502
+wa,159567,Skamania School District,102417,Skamania Elementary,33.78%,,,N,74,25
+wa,159461,Skykomish School District,101349,Skykomish School,24.56%,,57.41%,Y,54,13
+wa,159975,Snohomish School District,102624,Central Elementary,37.04%,,,N,270,100
+wa,159960,Soap Lake School District,100816,RISE Academy,58.06%,,,N,31,18
+wa,159960,Soap Lake School District,100817,Soap Lake Elementary School,63.16%,,65.05%,Y,230,145
+wa,159960,Soap Lake School District,100818,Soap Lake Senior High,60.14%,,65.05%,Y,137,82
+wa,159960,Soap Lake School District,-13,Soap Lake Middle School,60.14%,,65.05%,Y,136,82
+wa,159960,Soap Lake School District,661535,Smokiam Alt High,,,65.05%,Y,12,
+wa,159393,South Bend School District,101994,Chauncey Davis Elementary,46.94%,,,N,360,169
+wa,159393,South Bend School District,101993,South Bend High School,38.91%,,48.98%,Y,258,100
+wa,159393,South Bend School District,661847,Mike Morris Elementary,,,48.98%,Y,283,
+wa,159930,South Kitsap School District,101753,Discovery,40.59%,,,N,170,69
+wa,159930,South Kitsap School District,101745,East Port Orchard Elementary,37.53%,,,N,485,182
+wa,159327,South Whidbey School District,100936,South Whidbey Academy,45.83%,,,N,48,22
+wa,159900,Spokane School District,102699,Adams Elementary,50.00%,,,N,394,197
+wa,159900,Spokane School District,102706,Arlington Elementary,50.16%,,,N,628,315
+wa,159900,Spokane School District,102696,Audubon Elementary,67.96%,,68.03%,Y,488,332
+wa,159900,Spokane School District,102698,Bemiss Elementary,63.77%,,64.47%,Y,456,291
+wa,159900,Spokane School District,102702,Browne Elementary,39.85%,,,N,404,161
+wa,159900,Spokane School District,102747,Chase Middle School,34.65%,,,N,782,271
+wa,159900,Spokane School District,102697,Cooper Elementary,50.00%,,,N,500,250
+wa,159900,Spokane School District,102705,Finch Elementary,32.39%,,,N,528,171
+wa,159900,Spokane School District,102695,Franklin Elementary,30.54%,,,N,465,142
+wa,159900,Spokane School District,102735,Garfield Elementary,54.11%,,,N,414,224
+wa,159900,Spokane School District,102737,Garry Middle School,63.12%,,63.86%,Y,617,389
+wa,159900,Spokane School District,102723,Glover Middle School,58.74%,,,N,589,346
+wa,159900,Spokane School District,102736,Grant Elementary,66.67%,,67.87%,Y,333,222
+wa,159900,Spokane School District,102687,Holmes Elementary,71.39%,,73.39%,Y,387,276
+wa,159900,Spokane School District,102716,Lidgerwood Elementary,64.61%,,65.44%,Y,434,280
+wa,159900,Spokane School District,102715,Lincoln Heights Elementary,34.03%,,,N,523,178
+wa,159900,Spokane School District,102721,Linwood Elementary,50.27%,,,N,549,276
+wa,159900,Spokane School District,102734,Logan Elementary,72.88%,,64.23%,Y,364,265
+wa,159900,Spokane School District,102733,Longfellow Elementary,56.91%,,64.23%,Y,488,278
+wa,159900,Spokane School District,102711,Madison Elementary,41.16%,,,N,328,135
+wa,159900,Spokane School District,102690,North Central High School,33.93%,,,N,1503,510
+wa,159900,Spokane School District,102676,Pratt Academy,58.44%,,,N,77,45
+wa,159900,Spokane School District,102689,Regal Elementary,67.68%,,69.00%,Y,471,319
+wa,159900,Spokane School District,102714,Ridgeview Elementary,39.18%,,,N,342,134
+wa,159900,Spokane School District,102709,Rogers High School,52.76%,,,N,1397,737
+wa,159900,Spokane School District,102688,Roosevelt Elementary,43.37%,,,N,498,216
+wa,159900,Spokane School District,102728,Salk Middle School,30.86%,,,N,768,237
+wa,159900,Spokane School District,102722,Shaw Middle School,60.61%,,,N,589,357
+wa,159900,Spokane School District,102693,Sheridan Elementary,61.27%,,63.46%,Y,468,287
+wa,159900,Spokane School District,102691,Stevens Elementary,69.41%,,72.61%,Y,460,319
+wa,159900,Spokane School District,102719,Westview Elementary,37.72%,,,N,509,192
+wa,159900,Spokane School District,102701,Whitman Elementary,61.49%,,61.54%,Y,494,304
+wa,159900,Spokane School District,102692,Willard Elementary,53.48%,,,N,531,284
+wa,159900,Spokane School District,681050,Eagle Peak,,,64.23%,Y,79,
+wa,159877,Sprague School District,101879,Sprague Elementary,37.04%,,,N,54,20
+wa,159877,Sprague School District,101878,Sprague High School,38.24%,,,N,34,13
+wa,159390,Steilacoom Hist. School District,102023,Anderson Island Elementary,31.25%,,,N,16,5
+wa,159354,Stevenson-Carson School District,102425,Carson Elementary,34.75%,,,N,282,98
+wa,159354,Stevenson-Carson School District,102427,Wind River Middle School,33.33%,,,N,138,46
+wa,160297,Summit Public School: Atlas,106049,Summit Public School: Atlas,33.51%,,,N,367,123
+wa,160175,Summit Public School: Olympus,105876,Summit Public School: Olympus,40.94%,,,N,171,70
+wa,159865,Summit Valley School District,102893,Summit Valley School,45.95%,,49.35%,Y,77,35
+wa,159913,Sunnyside School District,103242,Chief Kamiakin Elementary,64.26%,,63.93%,Y,680,437
+wa,159913,Sunnyside School District,103241,Harrison Middle School,62.96%,,63.93%,Y,958,603
+wa,159913,Sunnyside School District,103238,Outlook Elementary,66.67%,,63.93%,Y,517,345
+wa,159913,Sunnyside School District,103243,Pioneer Elementary,57.25%,,63.93%,Y,651,373
+wa,159913,Sunnyside School District,104201,Sierra Vista Middle School,65.34%,,63.93%,Y,742,485
+wa,159913,Sunnyside School District,104757,Sun Valley Elementary,51.20%,,63.93%,Y,474,243
+wa,159913,Sunnyside School District,103240,Sunnyside High School,59.74%,,63.93%,Y,2017,1205
+wa,159913,Sunnyside School District,103239,Washington Elementary,57.76%,,63.93%,Y,704,407
+wa,159888,Tacoma School District,103836,Angelo Giaudrone Middle School,47.77%,,,N,651,311
+wa,159888,Tacoma School District,102138,Arlington,48.33%,,,N,418,202
+wa,159888,Tacoma School District,102141,Baker,44.77%,,,N,784,351
+wa,159888,Tacoma School District,102150,Birney,44.89%,,,N,450,202
+wa,159888,Tacoma School District,102102,Blix Elementary,51.95%,,,N,539,280
+wa,159888,Tacoma School District,102156,Boze,45.16%,,,N,496,224
+wa,159888,Tacoma School District,102147,Bryant,31.68%,,,N,524,166
+wa,159888,Tacoma School District,102137,Delong,43.93%,,,N,428,188
+wa,159888,Tacoma School District,102127,Downing,32.17%,,,N,345,111
+wa,159888,Tacoma School District,102132,Edison,54.19%,,,N,430,233
+wa,159888,Tacoma School District,102129,Fawcett,36.52%,,,N,419,153
+wa,159888,Tacoma School District,102106,Fern Hill,43.39%,,,N,348,151
+wa,159888,Tacoma School District,104896,First Creek Middle School,53.95%,,,N,734,396
+wa,159888,Tacoma School District,102158,Foss,44.71%,,,N,595,266
+wa,159888,Tacoma School District,102105,Franklin,48.35%,,,N,333,161
+wa,159888,Tacoma School District,105603,Fresh Start,42.00%,,,N,419,176
+wa,159888,Tacoma School District,102124,Gray,52.60%,,,N,557,293
+wa,159888,Tacoma School District,104235,Helen B. Stafford Elementary,43.59%,,,N,546,238
+wa,159888,Tacoma School District,102120,Jason Lee,43.49%,,,N,614,267
+wa,159888,Tacoma School District,102104,Jefferson,30.03%,,,N,363,109
+wa,159888,Tacoma School District,102096,Larchmont,52.01%,,,N,348,181
+wa,159888,Tacoma School District,102112,Lincoln,44.97%,,,N,1550,697
+wa,159888,Tacoma School District,102128,Lister,62.02%,,,N,445,276
+wa,159888,Tacoma School District,102118,Lyon,40.41%,,,N,391,158
+wa,159888,Tacoma School District,102117,Madison Headstart,53.85%,,,N,39,21
+wa,159888,Tacoma School District,102114,Manitou Park,43.76%,,,N,521,228
+wa,159888,Tacoma School District,102139,Mann,35.82%,,,N,455,163
+wa,159888,Tacoma School District,102154,McCarver,63.30%,,,N,466,295
+wa,159888,Tacoma School District,102148,Mt Tahoma,36.77%,,,N,1327,488
+wa,159888,Tacoma School District,102160,Oakland High School,62.18%,,,N,193,120
+wa,159888,Tacoma School District,102131,Reed,55.12%,,,N,430,237
+wa,159888,Tacoma School District,102115,Roosevelt,53.18%,,,N,299,159
+wa,159888,Tacoma School District,102107,Sheridan,41.68%,,,N,583,243
+wa,159888,Tacoma School District,102155,Skyline,41.11%,,,N,343,141
+wa,159888,Tacoma School District,102121,Stanley,49.13%,,,N,403,198
+wa,159888,Tacoma School District,102122,Stewart,44.70%,,,N,698,312
+wa,159888,Tacoma School District,102149,Truman,32.66%,,,N,744,243
+wa,159888,Tacoma School District,102142,Wainwright,35.22%,,,N,494,174
+wa,159888,Tacoma School District,102135,Whitman,48.41%,,,N,378,183
+wa,159888,Tacoma School District,102153,Whittier,40.68%,,,N,440,179
+wa,160002,Taholah School District,100897,Taholah School,51.07%,,47.73%,Y,176,90
+wa,159493,Tekoa School District,103131,Tekoa High School,32.22%,,,N,90,29
+wa,159433,Tenino School District,102998,Parkside Elementary,31.78%,,,N,343,109
+wa,159433,Tenino School District,103001,Tenino Elementary School,30.79%,,,N,328,101
+wa,159436,Tonasket School District,101972,Tonasket Elementary,51.46%,,55.92%,Y,479,246
+wa,159436,Tonasket School District,101971,Tonasket High School,47.92%,,55.92%,Y,360,173
+wa,159436,Tonasket School District,101973,Tonasket Middle School,51.94%,,55.92%,Y,275,143
+wa,159914,Toppenish School District,103245,Computer Academy Toppenish High School,73.49%,,58.16%,Y,165,121
+wa,159914,Toppenish School District,103250,Garfield Elementary School,63.79%,,58.16%,Y,410,262
+wa,159914,Toppenish School District,103255,Kirkwood Elementary School,60.63%,,58.16%,Y,557,338
+wa,159914,Toppenish School District,103251,Lincoln Elementary School,61.22%,,58.16%,Y,396,242
+wa,159914,Toppenish School District,103252,Toppenish High School,58.39%,,58.16%,Y,929,542
+wa,159914,Toppenish School District,103249,Toppenish Middle School,64.81%,,58.16%,Y,892,578
+wa,159914,Toppenish School District,103247,Toppenish Pre-School,44.21%,,58.16%,Y,301,133
+wa,159914,Toppenish School District,103963,Valley View Elementary,64.22%,,58.16%,Y,470,302
+wa,160037,Tukwila School District,101399,Cascade View Elementary,56.34%,,,N,481,271
+wa,160037,Tukwila School District,101398,Foster Senior High School,35.79%,,,N,869,311
+wa,160037,Tukwila School District,101397,Showalter Middle School,42.31%,,,N,631,267
+wa,160037,Tukwila School District,101401,Thorndyke Elementary,46.98%,,,N,430,202
+wa,160037,Tukwila School District,101400,Tukwila Elementary,34.72%,,,N,527,183
+wa,159882,Union Gap School District,103167,Union Gap School,59.07%,,63.17%,Y,619,366
+wa,159450,Valley School District,102880,Valley School,50.00%,,,N,200,100
+wa,159879,Vancouver School District,100560,Discovery Middle School,48.58%,,,N,669,325
+wa,159879,Vancouver School District,100521,Fort Vancouver High School,42.02%,,,N,1492,627
+wa,159879,Vancouver School District,100526,Fruit Valley Elementary School,54.36%,,,N,241,131
+wa,159879,Vancouver School District,100549,Gaiser Middle School,38.63%,,,N,893,345
+wa,159879,Vancouver School District,100541,George C Marshall Elementary,47.81%,,,N,366,175
+wa,159879,Vancouver School District,100527,Harney Elementary School,35.91%,,,N,621,223
+wa,159879,Vancouver School District,100547,Harry S Truman Elementary School,40.73%,,,N,518,211
+wa,159879,Vancouver School District,100530,Hazel Dell Elementary School,42.50%,,,N,400,170
+wa,159879,Vancouver School District,100524,Hough Elementary School,30.77%,,,N,286,88
+wa,159879,Vancouver School District,100538,Hudson's Bay High School,34.31%,,,N,1160,398
+wa,159879,Vancouver School District,100543,Jason Lee Middle School,30.01%,,,N,693,208
+wa,159879,Vancouver School District,100522,Lincoln Elementary School,41.88%,,,N,394,165
+wa,159879,Vancouver School District,100546,Martin Luther King Elementary,47.34%,,,N,433,205
+wa,159879,Vancouver School District,100539,Mcloughlin Middle School,51.18%,,,N,1014,519
+wa,159879,Vancouver School District,100531,Minnehaha Elementary School,34.81%,,,N,540,188
+wa,159879,Vancouver School District,100528,Peter S Ogden Elementary,45.30%,,,N,596,270
+wa,159879,Vancouver School District,100559,Roosevelt Elementary School,56.28%,,,N,597,336
+wa,159879,Vancouver School District,100532,Walnut Grove Elementary,38.56%,,,N,708,273
+wa,159879,Vancouver School District,100544,Washington Elementary,48.47%,,,N,326,158
+wa,159647,Vista Hermosa School District,-14,Vista Hermosa Elementary,59.09%,,,N,22,13
+wa,159521,WA HE LUT Indian School Agency,106079,Wa He Lut Indian School,52.41%,,59.26%,Y,135,71
+wa,159190,Wahkiakum School District,103003,Julius A Wendt Elementary/John C Thomas Middle School,38.53%,,,N,327,126
+wa,159190,Wahkiakum School District,103004,Wahkiakum High School,33.51%,,,N,185,62
+wa,159983,Wahluke School District,100794,Mattawa Elementary,75.12%,,74.33%,Y,554,416
+wa,159983,Wahluke School District,100795,Morris Schott Elementary,81.70%,,74.33%,Y,246,201
+wa,159983,Wahluke School District,100797,Saddle Mountain Elementary,80.09%,,74.33%,Y,495,396
+wa,159983,Wahluke School District,100796,Wahluke High School,76.66%,,74.33%,Y,624,478
+wa,159983,Wahluke School District,104777,Wahluke Junior High,76.79%,,74.33%,Y,617,474
+wa,159519,Waitsburg School District,103035,Preston Hall Middle School,45.90%,,46.92%,Y,61,28
+wa,159519,Waitsburg School District,103037,Waitsburg Elementary,35.53%,,46.92%,Y,123,44
+wa,159519,Waitsburg School District,103036,Waitsburg High,40.23%,,46.92%,Y,76,31
+wa,159977,Walla Walla Public Schools,103023,Blue Ridge Elementary,51.38%,,,N,325,167
+wa,159977,Walla Walla Public Schools,103016,Edison Elementary School - Walla Walla,42.98%,,,N,456,196
+wa,159977,Walla Walla Public Schools,103020,Garrison Middle School,33.71%,,,N,620,209
+wa,159977,Walla Walla Public Schools,103013,Green Park Elementary School,44.82%,,,N,415,186
+wa,159977,Walla Walla Public Schools,103022,Lincoln High School,67.86%,,,N,140,95
+wa,159977,Walla Walla Public Schools,103017,Pioneer Middle School,37.69%,,,N,605,228
+wa,159977,Walla Walla Public Schools,103021,Sharpstein Elementary School,46.21%,,,N,396,183
+wa,159919,Wapato School District,103284,Adams Elementary,72.68%,,70.66%,Y,415,302
+wa,159919,Wapato School District,106175,Camas Elementary,61.40%,,70.66%,Y,511,314
+wa,159919,Wapato School District,103281,Pace Alternative High School,67.61%,,70.66%,Y,81,55
+wa,159919,Wapato School District,103277,Satus Elementary,69.63%,,70.66%,Y,385,268
+wa,159919,Wapato School District,106174,Simcoe Elementary School,67.90%,,70.66%,Y,378,257
+wa,159919,Wapato School District,103280,Wapato High School,66.63%,,70.66%,Y,833,555
+wa,159919,Wapato School District,103276,Wapato Middle School,68.09%,,70.66%,Y,843,574
+wa,159966,Warden School District,100808,Warden Elementary,54.71%,,59.79%,Y,465,254
+wa,159966,Warden School District,100809,Warden High School,54.98%,,59.79%,Y,279,153
+wa,159966,Warden School District,100810,Warden Middle School,62.70%,,59.79%,Y,226,142
+wa,159447,Waterville School District,100740,Waterville Elementary,31.25%,,,N,128,40
+wa,159447,Waterville School District,100741,Waterville High School,37.96%,,,N,137,52
+wa,159453,Wellpinit School District,103832,Wellpinit Elementary,61.97%,,69.44%,Y,185,115
+wa,159453,Wellpinit School District,102877,Wellpinit High,52.33%,,69.44%,Y,79,41
+wa,159453,Wellpinit School District,102878,Wellpinit Middle School,59.04%,,69.44%,Y,73,43
+wa,159953,Wenatchee School District,100465,Abraham Lincoln Elementary,52.35%,,52.16%,Y,526,275
+wa,159953,Wenatchee School District,100461,Columbia Elementary School,60.68%,,57.50%,Y,406,246
+wa,159953,Wenatchee School District,100470,Foothills Middle School,36.77%,,,N,631,232
+wa,159953,Wenatchee School District,100469,John Newbery Elementary,40.17%,,,N,478,192
+wa,159953,Wenatchee School District,100460,Lewis And Clark Elementary,52.10%,,57.50%,Y,487,254
+wa,159953,Wenatchee School District,100462,Mission View Elementary,48.66%,,57.50%,Y,517,252
+wa,159953,Wenatchee School District,100468,Orchard Middle School,53.78%,,57.50%,Y,491,264
+wa,159953,Wenatchee School District,100466,Pioneer Middle School,46.06%,,52.16%,Y,604,278
+wa,159953,Wenatchee School District,100459,Wenatchee High School,39.87%,,,N,2014,803
+wa,159953,Wenatchee School District,100735,Wenatchee Valley Technical Skills Center,100.00%,,,N,1,1
+wa,159953,Wenatchee School District,100455,Westside High School,48.07%,,52.16%,Y,279,134
+wa,159986,West Valley School District (Spokane),102840,Dishman Hills High School,54.14%,,58.06%,Y,310,168
+wa,159986,West Valley School District (Spokane),102852,Ness Elementary,46.24%,,,N,266,123
+wa,159986,West Valley School District (Spokane),102849,Orchard Center Elementary,38.96%,,,N,249,97
+wa,159986,West Valley School District (Spokane),102848,Seth Woodard Elementary,35.00%,,,N,260,91
+wa,159958,West Valley School District (Yakima),103288,Ahtanum Valley Elementary,37.15%,,,N,323,120
+wa,159958,West Valley School District (Yakima),103286,Wide Hollow Elementary,32.24%,,,N,335,108
+wa,159435,White Pass School District,101866,White Pass Elementary School,51.34%,,,N,187,96
+wa,159435,White Pass School District,101865,White Pass Jr. Sr. High School,43.09%,,,N,188,81
+wa,160300,Willow Public Charter School,106050,Willow Public School,39.58%,,,N,48,19
+wa,159970,Wilson Creek School District,100849,Wilson Creek Elementary,38.71%,,,N,93,36
+wa,159477,Winlock School District,101840,Winlock Middle School,53.13%,,50.10%,Y,160,85
+wa,159477,Winlock School District,101838,Winlock Miller Elementary,41.27%,,50.10%,Y,365,151
+wa,159477,Winlock School District,101839,Winlock Senior High,44.25%,,46.31%,Y,163,72
+wa,159477,Winlock School District,101837,Winolequa Learning Academy,65.22%,,46.31%,Y,40,26
+wa,159473,Wishkah Valley School District,100907,Wishkah Valley Elementary/High School,36.88%,,49.66%,Y,149,55
+wa,159514,Wishram School District,101789,Wishram High And Elementary,64.71%,,60.27%,Y,73,47
+wa,159376,Woodland School District,106249,Columbia Elementary School,31.00%,,,N,442,137
+wa,159887,Yakima School District,103185,Adams Elementary School,71.77%,,65.17%,Y,722,518
+wa,159887,Yakima School District,103192,Barge-Lincoln Elementary,70.88%,,65.17%,Y,637,452
+wa,159887,Yakima School District,103175,Davis High School,58.32%,,65.17%,Y,2275,1327
+wa,159887,Yakima School District,103191,Discovery Lab School,39.13%,,65.17%,Y,211,83
+wa,159887,Yakima School District,103194,Eisenhower High School,53.65%,,65.17%,Y,1906,1023
+wa,159887,Yakima School District,103181,Franklin Middle,60.80%,,65.17%,Y,880,535
+wa,159887,Yakima School District,103176,Garfield Elementary,68.02%,,65.17%,Y,522,355
+wa,159887,Yakima School District,103188,Gilbert Elementary,52.96%,,65.17%,Y,546,289
+wa,159887,Yakima School District,103186,Hoover Elementary,58.97%,,65.17%,Y,675,398
+wa,159887,Yakima School District,103199,Lewis & Clark Middle,66.86%,,65.17%,Y,854,571
+wa,159887,Yakima School District,103200,Martin Luther King Jr. Elementary,70.03%,,65.17%,Y,586,410
+wa,159887,Yakima School District,103190,Mcclure Elementary,49.44%,,65.17%,Y,567,280
+wa,159887,Yakima School District,103177,Mckinley Elementary,61.40%,,65.17%,Y,454,279
+wa,159887,Yakima School District,103189,Nob Hill Elementary,41.47%,,65.17%,Y,482,200
+wa,159887,Yakima School District,103182,Ridgeview Elementary,63.76%,,65.17%,Y,639,407
+wa,159887,Yakima School District,103195,Robertson Elementary,54.99%,,65.17%,Y,504,277
+wa,159887,Yakima School District,103184,Roosevelt Elementary,61.69%,,65.17%,Y,510,315
+wa,159887,Yakima School District,103206,Stanton Academy,78.64%,,65.17%,Y,226,178
+wa,159887,Yakima School District,103179,Washington Middle,75.58%,,65.17%,Y,852,644
+wa,159887,Yakima School District,103196,Whitney Elementary,44.70%,,65.17%,Y,509,228
+wa,159887,Yakima School District,103197,Wilson Middle School,51.56%,,65.17%,Y,840,433
+wa,159887,Yakima School District,104803,Yakima Online School,53.13%,,65.17%,Y,243,129
+wa,159330,Yelm School District,102919,Fort Stevens Elementary,30.18%,,,N,550,166
+wa,159330,Yelm School District,102913,Yelm Extension School,41.67%,,,N,108,45
+wa,159918,Zillah School District,103268,Hilton Elementary School,32.57%,,,N,393,128
+wa,159918,Zillah School District,103267,Zillah High School,33.03%,,,N,436,144
+wa,159918,Zillah School District,103271,Zillah Intermediate School,37.84%,,,N,296,112
+wa,159918,Zillah School District,103272,Zillah Middle School,34.67%,,,N,225,78

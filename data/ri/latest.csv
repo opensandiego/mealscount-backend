@@ -1,315 +1,309 @@
 state,District Code,District Name,School Code,School Name,individual_isp,proxy_isp,participating_in_cep,claiming_isp,total_enrolled,total_eligible
-ri,41,Achievement First Rhode Island,28614,Achievement First Iluminar Mayoral Academy,49.46%,,N,,465,230
-ri,41,Achievement First Rhode Island,28609,Achievement First Providence Mayoral Academy,57.58%,,N,,455,262
-ri,41,Achievement First Rhode Island,28615,AF Providence Mayoral Academy Middle,41.29%,,N,,201,83
-ri,01,Barrington,01106,Barrington High School,1.28%,,N,,,
-ri,01,Barrington,01108,Barrington Middle School,2.27%,,N,,,
-ri,01,Barrington,01105,Hampden Meadows School,1.77%,,N,,,
-ri,01,Barrington,01104,Nayatt School,2.72%,,N,,,
-ri,01,Barrington,01103,Primrose Hill School,5.25%,,N,,,
-ri,01,Barrington,01109,Sowams Elementary School,2.73%,,N,,,
-ri,58,Beacon Charter School,39601,BEACON Charter School,27.88%,,N,,,
-ri,58,Beacon Charter School,39603,Founders Academy,25.17%,,N,,,
-ri,04,Central Falls,04104,Capt. G. Harold Hunt School,56.22%,,Y,59.22%,437,246
-ri,04,Central Falls,04108,Central Falls Senior High School,45.74%,,Y,59.22%,185,85
-ri,04,Central Falls,04115,Dr. Earl F. Calcutt Middle School,56.78%,,Y,59.22%,496,282
-ri,04,Central Falls,04101,Ella Risk School,55.61%,,Y,59.22%,728,405
-ri,04,Central Falls,04117,Margaret I. Robertson School,60.25%,,Y,59.22%,745,449
-ri,04,Central Falls,04106,Veterans Memorial Elementary,62.10%,,Y,59.22%,244,152
-ri,54,Blackstone Academy,26602,Blackstone Academy Charter School,37.04%,,N,,351,130
-ri,47,"Blackstone Valley Prep, A RI Mayoral Academy",08603,Blackstone Valley Prep Elementary 2 School,29.64%,,N,,,
-ri,96806,Highlander,06806,Highlander,44.06%,,Y,44.06%,583,257
-ri,47,"Blackstone Valley Prep, A RI Mayoral Academy",08605,Blackstone Valley Prep Elementary 3 School,33.33%,,N,,225,75
-ri,47,"Blackstone Valley Prep, A RI Mayoral Academy",08601,Blackstone Valley Prep Elementary School,37.32%,,N,,410,153
-ri,47,"Blackstone Valley Prep, A RI Mayoral Academy",08604,Blackstone Valley Prep High School,27.49%,,N,,,
-ri,47,"Blackstone Valley Prep, A RI Mayoral Academy",08602,Blackstone Valley Prep Middle School,30.50%,,N,,318,97
-ri,47,"Blackstone Valley Prep, A RI Mayoral Academy",08606,Blackstone Valley Prep Middle School 2,28.45%,,N,,,
-ri,96,Bristol Warren,96105,Colt Andrews School,27.79%,,N,,,
-ri,96,Bristol Warren,96104,Guiteras School,14.17%,,N,,,
-ri,96,Bristol Warren,96113,Hugh Cole School,23.59%,,N,,,
-ri,96,Bristol Warren,96112,Kickemuit Middle School,19.34%,,N,,,
-ri,96,Bristol Warren,96107,Mt. Hope High School,15.62%,,N,,,
-ri,96,Bristol Warren,96106,Rockwell School,7.14%,,N,,,
-ri,03,Burrillville,03108,Austin T. Levy School,20.12%,,N,,,
-ri,03,Burrillville,03109,Burrillville High School,11.61%,,N,,,
-ri,03,Burrillville,03104,Burrillville Middle School,14.31%,,N,,,
-ri,03,Burrillville,03105,Steere Farm Elementary School,17.20%,,N,,,
-ri,03,Burrillville,03107,William L. Callahan School                        ,5.88%,,N,,,
-ri,81,Charette Charter,81601,Charette Charter School,60.98%,,N,,82,50
-ri,98,Chariho,98106,Ashaway Elementary School,12.37%,,N,,,
-ri,98,Chariho,98108,Chariho Alternative Learning Academy,42.37%,,N,,59,25
-ri,98,Chariho,98101,Chariho Regional High School                      ,9.59%,,N,,,
-ri,98,Chariho,98103,Chariho Regional Middle School,11.70%,,N,,,
-ri,98,Chariho,98104,Charlestown Elementary School,17.34%,,N,,,
-ri,98,Chariho,98107,Hope Valley Elementary School,15.03%,,N,,,
-ri,98,Chariho,98109,Hope Valley Elementary School Annex,21.70%,,N,,,
-ri,98,Chariho,98105,Richmond Elementary School,11.28%,,N,,,
-ri,06,Coventry,06104,Alan Shawn Feinstein Middle School Of Coventry,17.67%,,N,,,
-ri,06,Coventry,06117,Blackrock School,24.29%,,N,,,
-ri,06,Coventry,06119,Coventry High School,13.98%,,N,,,
-ri,06,Coventry,06112,Hopkins Hill School,26.29%,,N,,,
-ri,06,Coventry,06116,Tiogue School,25.78%,,N,,,
-ri,06,Coventry,06121,Washington Oak School,15.16%,,N,,,
-ri,06,Coventry,06109,Western Coventry School,11.11%,,N,,,
-ri,07,Cranston,07125,Arlington School,51.97%,,N,,229,119
-ri,07,Cranston,07112,Chester W. Barrows School,22.88%,,N,,,
-ri,07,Cranston,07104,Cranston Early Learning Center,11.11%,,N,,,
-ri,07,Cranston,07113,Cranston High School East,26.93%,,N,,,
-ri,07,Cranston,07126,Cranston High School West                         ,11.46%,,N,,,
-ri,07,Cranston,07110,Daniel D. Waterman School,20.24%,,N,,,
-ri,07,Cranston,07118,Eden Park School,24.28%,,N,,,
-ri,07,Cranston,07130,Edgewood Highland School,35.54%,,N,,242,86
-ri,07,Cranston,07117,Edward S. Rhodes School                           ,15.82%,,N,,,
-ri,07,Cranston,07122,Garden City School                                ,18.21%,,N,,,
-ri,07,Cranston,07124,George J. Peters School,35.60%,,N,,309,110
-ri,07,Cranston,07119,Gladstone Street School,43.41%,,N,,516,224
-ri,07,Cranston,07128,Glen Hills School,15.56%,,N,,,
-ri,07,Cranston,07137,Hope Highlands Middle School,4.71%,,N,,,
-ri,07,Cranston,07115,Hugh B. Bain Middle School,38.74%,,N,,635,246
-ri,07,Cranston,07135,NEL/CPS Construction Career Academy,41.98%,,N,,162,68
-ri,07,Cranston,07103,Oak Lawn School,3.60%,,N,,,
-ri,07,Cranston,07136,Orchard Farms Elementary School,4.40%,,N,,,
-ri,07,Cranston,07123,Park View Middle School,24.39%,,N,,,
-ri,07,Cranston,07120,Stadium School,35.82%,,N,,268,96
-ri,07,Cranston,07127,Stone Hill School                                 ,16.55%,,N,,,
-ri,07,Cranston,07129,Western Hills Middle School                       ,18.03%,,N,,,
-ri,07,Cranston,07116,William R. Dutemple School,33.67%,,N,,297,100
-ri,07,Cranston,07121,Woodridge School,13.73%,,N,,,
-ri,08,Cumberland,08112,Ashton School,12.98%,,N,,,
-ri,08,Cumberland,08107,B.F. Norton Elementary School,28.49%,,N,,,
-ri,08,Cumberland,08109,Community School,2.96%,,N,,,
-ri,08,Cumberland,08114,Cumberland High School,10.27%,,N,,,
-ri,08,Cumberland,08121,Cumberland Preschool Center,13.46%,,N,,,
-ri,08,Cumberland,08108,Garvin Memorial School,16.75%,,N,,,
-ri,08,Cumberland,08110,John J. McLaughlin Cumberland Hill School,12.86%,,N,,,
-ri,08,Cumberland,08115,Joseph L. McCourt Middle School,21.75%,,N,,,
-ri,08,Cumberland,08116,North Cumberland Middle School,4.19%,,N,,,
-ri,40,Davies Career and Tech,17701,Wm. M. Davies Jr. Career-Technical  High School,30.09%,,N,,844,254
-ri,67,DCYF,07702,DCYF Alternative Education Program,84.44%,,N,,45,38
-ri,09,East Greenwich,09103,Archie R. Cole Middle School,4.38%,,N,,,
-ri,09,East Greenwich,09106,East Greenwich High School,2.89%,,N,,,
-ri,09,East Greenwich,09105,Frenchtown School,6.85%,,N,,,
-ri,09,East Greenwich,09108,George Hanaford School,5.35%,,N,,,
-ri,09,East Greenwich,09102,James H. Eldredge El. School,7.72%,,N,,,
-ri,09,East Greenwich,09107,Meadowbrook Farms School,7.27%,,N,,,
-ri,10,East Providence,10116,Agnes B. Hennessey School,35.94%,,N,,256,92
-ri,10,East Providence,10114,Alice M. Waddington School,23.71%,,N,,,
-ri,10,East Providence,10112,East Providence High School,24.01%,,N,,,
-ri,10,East Providence,10109,Edward R. Martin Middle School,30.09%,,N,,658,198
-ri,10,East Providence,10104,Edward R. Martin Middle School Annex,13.48%,,N,,,
-ri,10,East Providence,10117,Emma G. Whiteknact School,35.82%,,N,,268,96
-ri,10,East Providence,10111,James R. D. Oldham School,33.79%,,N,,145,49
-ri,10,East Providence,10105,James R. D. Oldham School Annex,11.11%,,N,,,
-ri,10,East Providence,10113,Kent Heights School,41.82%,,N,,275,115
-ri,10,East Providence,10125,Myron J. Francis Elementary School,21.41%,,N,,,
-ri,10,East Providence,10124,Orlo Avenue School,34.36%,,N,,259,89
-ri,10,East Providence,10122,Riverside Middle School,25.14%,,N,,,
-ri,10,East Providence,10123,Silver Spring School,28.35%,,N,,,
-ri,97,Exeter-West Greenwich,97105,Exeter-West Greenwich Regional  Junior High,8.71%,,N,,,
-ri,97,Exeter-West Greenwich,97106,Exeter-West Greenwich Regional High School,4.69%,,N,,,
-ri,97,Exeter-West Greenwich,97103,Metcalf School,9.08%,,N,,,
-ri,97,Exeter-West Greenwich,97102,Mildred E. Lineham School,9.23%,,N,,,
-ri,97,Exeter-West Greenwich,97101,Wawaloam School,10.96%,,N,,,
-ri,12,Foster,12101,Captain Isaac Paine Elementary School,16.18%,,N,,,
-ri,99,Foster-Glocester,99102,Ponaganset High School,9.00%,,N,,,
-ri,99,Foster-Glocester,99101,Ponaganset Middle School,8.50%,,N,,,
-ri,13,Glocester,13103,Fogarty Memorial School,6.39%,,N,,,
-ri,13,Glocester,13104,West Glocester Elementary,9.01%,,N,,,
-ri,48,Highlander,48601,Highlander Elementary Charter School,46.13%,,N,,271,125
-ri,48,Highlander,48602,Highlander Secondary Charter School,41.99%,,N,,312,131
-ri,53,International Charter,26601,International Charter School,31.34%,,N,,367,115
-ri,15,Jamestown,15101,Jamestown School-Lawn,6.17%,,N,,,
-ri,15,Jamestown,15102,Jamestown School-Melrose,6.86%,,N,,,
-ri,16,Johnston,16106,Brown Avenue School,17.51%,,N,,,
-ri,16,Johnston,16114,Early Childhood Center,32.32%,,N,,198,64
-ri,16,Johnston,16110,Graniteville School,19.66%,,N,,,
-ri,16,Johnston,16112,Johnston Senior High School,19.91%,,N,,,
-ri,16,Johnston,16111,Nicholas A. Ferri Middle School,23.52%,,N,,,
-ri,16,Johnston,16108,Sarah Dyer Barnes School,24.83%,,N,,,
-ri,16,Johnston,16103,Thornton School,35.38%,,N,,342,121
-ri,16,Johnston,16109,Winsor Hill School,16.44%,,N,,,
-ri,52,Kingston Hill Academy,32601,Kingston Hill Academy,11.17%,,N,,,
-ri,59,Learning Community,04601,The Learning Community Charter School,43.06%,,N,,569,245
-ri,17,Lincoln,17109,Lincoln Central Elementary School,5.03%,,N,,,
-ri,17,Lincoln,17117,Lincoln Middle School,17.09%,,N,,,
-ri,17,Lincoln,17110,Lincoln Senior High School,12.31%,,N,,,
-ri,17,Lincoln,17106,Lonsdale Elementary School,15.55%,,N,,,
-ri,17,Lincoln,17113,Northern Lincoln Elementary School,28.11%,,N,,,
-ri,17,Lincoln,17112,Saylesville Elementary School,19.15%,,N,,,
-ri,18,Little Compton,18101,Wilbur and McMahon Schools,9.64%,,N,,,
-ri,19,Middletown,19106,Aquidneck School,12.46%,,N,,,
-ri,19,Middletown,19107,Forest Avenue School,23.78%,,N,,,
-ri,19,Middletown,19117,Joseph H. Gaudet Learning Academy,14.97%,,N,,,
-ri,19,Middletown,19114,Joseph H. Gaudet School,18.32%,,N,,,
-ri,19,Middletown,19111,Middletown High School,10.98%,,N,,,
-ri,20,Narragansett,20102,Narragansett Elementary School,17.97%,,N,,,
-ri,60,MET Career and Tech,28703,Metropolitan Regional Career and Technical Center,43.69%,,Y,42.67%,769,336
-ri,20,Narragansett,20104,Narragansett High School,7.71%,,N,,,
-ri,20,Narragansett,20103,Narragansett Pier School,11.68%,,N,,,
-ri,22,New Shoreham,22101,Block Island School,2.24%,,N,,,
-ri,21,Newport,21107,Claiborne Pell Elementary School,48.57%,,N,,842,409
-ri,21,Newport,21106,Frank E. Thompson Middle School,46.80%,,N,,594,278
-ri,21,Newport,21111,Rogers High School,37.54%,,N,,634,238
-ri,21,Newport,21113,The Pell Annex @ John F. Kennedy School,52.24%,,N,,67,35
-ri,23,North Kingstown,23112,Davisville Middle School,17.84%,,N,,,
-ri,26,Pawtucket,26120,Elizabeth Baldwin School,62.91%,,Y,59.10%,397,250
-ri,26,Pawtucket,26119,Henry J. Winters School,59.70%,,Y,62.16%,647,386
-ri,26,Pawtucket,26121,M. Virginia Cunningham School,64.19%,,Y,62.16%,497,319
-ri,23,North Kingstown,23109,Fishing Cove Elementary School,28.49%,,N,,,
-ri,23,North Kingstown,23110,Forest Park Elementary School,12.74%,,N,,,
-ri,23,North Kingstown,23111,Hamilton Elementary School,8.41%,,N,,,
-ri,23,North Kingstown,23108,North Kingstown Senior High School,9.01%,,N,,,
-ri,23,North Kingstown,23114,Stony Lane Elementary School,6.05%,,N,,,
-ri,23,North Kingstown,23113,Suzanne M. Henseler Quidnessett Elementary School,60.15%,,N,,266,160
-ri,23,North Kingstown,23105,Wickford Middle School,10.64%,,N,,,
-ri,24,North Providence,24112,Birchwood Middle School,22.85%,,N,,,
-ri,26,Pawtucket,26106,Samuel Slater Middle School,52.78%,,Y,50.75%,773,408
-ri,28,Providence,28195,360 High School,61.57%,,Y,62.48%,179,110
-ri,28,Providence,28178,Academy for Career Exploration (ACES),59.56%,,Y,55.80%,760,453
-ri,28,Providence,28116,Alan Shawn Feinstein Elementary at Broad Street,67.22%,,Y,62.48%,556,374
-ri,28,Providence,28121,"Alfred Lima, Sr. Elementary School",63.76%,,Y,62.48%,479,305
-ri,28,Providence,28181,Anthony Carnevale Elementary School,61.00%,,Y,62.48%,505,308
-ri,28,Providence,28115,Asa Messer Elementary School,62.05%,,Y,62.48%,401,249
-ri,28,Providence,28140,Carl G. Lauro Elementary School,68.36%,,Y,62.48%,312,213
-ri,28,Providence,28139,Central High School,60.59%,,Y,62.48%,540,327
-ri,28,Providence,28122,Charles N. Fortes Elementary School,67.08%,,Y,62.48%,386,259
-ri,28,Providence,28164,Classical High School,24.67%,,Y,62.48%,719,177
-ri,28,Providence,28113,Dr. Jorge Alvarez High School,52.37%,,Y,62.48%,564,295
-ri,28,Providence,28163,"Dr. Martin Luther King, Jr. Elementary School",60.97%,,Y,62.48%,489,298
-ri,28,Providence,28187,E-Cubed Academy,51.98%,,Y,42.65%,1152,599
-ri,28,Providence,28137,Esek Hopkins Middle School,64.36%,,Y,62.48%,809,521
-ri,28,Providence,28196,Evolutions High School,61.32%,,Y,62.48%,287,176
-ri,28,Providence,28134,Frank D. Spaziano Elementary School,65.03%,,Y,62.48%,712,463
-ri,28,Providence,28106,Frank D. Spaziano Elementary School Annex,67.60%,,Y,62.48%,922,623
-ri,28,Providence,28135,George J. West Elementary School,64.81%,,Y,62.48%,992,643
-ri,28,Providence,28144,Gilbert Stuart Middle School,63.34%,,Y,62.48%,770,488
-ri,28,Providence,28182,Governor Christopher DelSesto Middle School,62.54%,,Y,55.80%,1003,627
-ri,28,Providence,28161,Harry Kizirian Elementary School,71.26%,,Y,55.80%,890,634
-ri,28,Providence,28149,Hope High School,57.73%,,Y,62.48%,351,203
-ri,28,Providence,28103,Leviton Dual Language School,62.69%,,Y,62.48%,268,168
-ri,28,Providence,28157,"Lillian Feinstein Elementary, Sackett Street",67.03%,,Y,62.48%,398,267
-ri,28,Providence,28160,Mary E. Fogarty Elementary School,75.00%,,Y,62.48%,455,341
-ri,28,Providence,28150,Mount Pleasant High School,54.49%,,Y,62.48%,468,255
-ri,28,Providence,28143,Nathan Bishop Middle School,50.14%,,Y,62.48%,581,291
-ri,28,Providence,28145,Nathanael Greene Middle School,53.63%,,Y,62.48%,652,350
-ri,28,Providence,28165,Pleasant View School,50.00%,,Y,62.48%,497,248
-ri,28,Providence,28193,Providence Career and Technical Academy,53.40%,,Y,42.65%,1066,569
-ri,28,Providence,28142,Reservoir Avenue School,54.36%,,Y,62.48%,450,245
-ri,24,North Providence,24109,Centredale School,30.04%,,N,,273,82
-ri,28,Providence,28138,Robert F. Kennedy Elementary School,48.88%,,Y,42.65%,729,356
-ri,28,Providence,28156,"Robert L Bailey IV, Elementary School",71.61%,,Y,55.80%,183,131
-ri,28,Providence,28147,Roger Williams Middle School,67.53%,,Y,62.48%,559,377
-ri,28,Providence,28162,"The Sgt. Cornel Young, Jr & Charlotte Woods Elemen",72.85%,,Y,62.48%,889,648
-ri,28,Providence,28170,Times2 Academy,40.74%,,Y,55.80%,379,154
-ri,28,Providence,28151,Vartan Gregorian Elementary School,37.61%,,Y,55.80%,434,163
-ri,28,Providence,28130,Veazie Street School,69.26%,,Y,55.80%,648,449
-ri,28,Providence,28127,Webster Avenue School,60.90%,,Y,62.48%,470,286
-ri,28,Providence,28194,West Broadway Middle School,61.28%,,Y,55.80%,216,132
-ri,28,Providence,28189,"William B. Cooley, Sr. High School and the Provide",63.13%,,Y,55.80%,243,153
-ri,28,Providence,28153,William D'Abate Elementary School,60.20%,,Y,62.48%,407,245
-ri,63,Rhode Island Nurses Institute Middle College,28607,RI Nurses Institute Middle College Charter High Sc,53.85%,,Y,56.44%,273,147
-ri,24,North Providence,24111,Dr. Edward A. Ricci Middle School,27.36%,,N,,,
-ri,24,North Providence,24108,Dr. Joseph A Whelan Elementary School,22.78%,,N,,,
-ri,28892,Nowell Leadership Academy,288GS,Nowell Capital Campus,73.81%,,Y,70.24%,84,62
-ri,24,North Providence,24110,Greystone School,30.79%,,N,,328,101
-ri,24,North Providence,24107,James L. McGuire School,22.80%,,N,,,
-ri,24,North Providence,24103,Marieville Elementary School,35.65%,,N,,230,82
-ri,24,North Providence,24105,North Providence High School,18.94%,,N,,,
-ri,24,North Providence,24106,Stephen Olney School,25.19%,,N,,,
-ri,28892,Nowell Leadership Academy,048B2,Nowell Central Campus,66.67%,,Y,70.24%,78,52
-ri,25,North Smithfield,25106,Dr. Harry L. Halliwell Memorial School,9.77%,,N,,,
-ri,25,North Smithfield,25110,North Smithfield Elementary School,13.37%,,N,,,
-ri,25,North Smithfield,25108,North Smithfield High School,5.63%,,N,,,
-ri,25,North Smithfield,25109,North Smithfield Middle School,10.89%,,N,,,
-ri,51,Paul Cuffee Charter Sch,51601,Paul Cuffee Lower School,44.35%,,N,,363,161
-ri,51,Paul Cuffee Charter Sch,51602,Paul Cuffee Middle School,39.06%,,N,,192,75
-ri,51,Paul Cuffee Charter Sch,51603,Paul Cuffee Upper School,43.17%,,N,,271,117
-ri,26,Pawtucket,26122,Agnes E. Little School,52.90%,,N,,397,210
-ri,26,Pawtucket,26118,Charles E. Shea High School,42.18%,,N,,818,345
-ri,26,Pawtucket,26116,Curvin-McCabe School                              ,49.54%,,N,,438,217
-ri,26,Pawtucket,26113,Fallon Memorial School,41.25%,,N,,577,238
-ri,26,Pawtucket,26115,Flora S. Curtis Memorial School,31.23%,,N,,349,109
-ri,26,Pawtucket,26125,Francis J. Varieur School,38.89%,,N,,360,140
-ri,26,Pawtucket,26109,Jacqueline M. Walsh School for the Performing and ,21.80%,,N,,,
-ri,26,Pawtucket,26103,Joseph Jenks Middle School,50.15%,,N,,684,343
-ri,26,Pawtucket,26107,Lyman B. Goff Middle School,32.17%,,N,,805,259
-ri,26,Pawtucket,26111,Nathanael Greene School,37.19%,,N,,449,167
-ri,26,Pawtucket,26110,Potter-Burns School,29.42%,,N,,,
-ri,26,Pawtucket,26105,William E Tolman Senior High School,40.04%,,N,,894,358
-ri,27,Portsmouth,27104,Howard Hathaway School,9.95%,,N,,,
-ri,27,Portsmouth,27111,Melville Elementary School,9.76%,,N,,,
-ri,27,Portsmouth,27106,Portsmouth High School,7.85%,,N,,,
-ri,27,Portsmouth,27112,Portsmouth Middle School,10.97%,,N,,,
-ri,50,R.I. Sch for the Deaf,28702,Rhode Island School for the Deaf,40.24%,,N,,82,33
-ri,79,RISE Prep Mayoral Academy,39602,RISE Prep Mayoral Academy,32.57%,,N,,218,71
-ri,30,Scituate,30103,Clayville Elementary School,6.85%,,N,,,
-ri,30,Scituate,30102,Hope Elementary School                            ,13.14%,,N,,,
-ri,30,Scituate,30106,North Scituate Elementary School,9.57%,,N,,,
-ri,30,Scituate,30104,Scituate High School,10.08%,,N,,,
-ri,30,Scituate,30105,Scituate Middle School,9.26%,,N,,,
-ri,46,Segue Institute for Learning,04602,Segue Institute for Learning,43.97%,,N,,232,102
-ri,31,Smithfield,31105,Anna M. McCabe School,5.99%,,N,,,
-ri,31,Smithfield,31104,Old County Road School,19.91%,,N,,,
-ri,31,Smithfield,31108,Raymond C. LaPerche School,7.87%,,N,,,
-ri,31,Smithfield,31107,Smithfield Senior High School,7.02%,,N,,,
-ri,31,Smithfield,31109,Vincent J. Gallagher Middle School,8.64%,,N,,,
-ri,31,Smithfield,31103,William Winsor School,4.81%,,N,,,
-ri,32,South Kingstown,32114,Broad Rock Middle School,12.81%,,N,,,
-ri,32,South Kingstown,32110,Curtis Corner Middle School,11.11%,,N,,,
-ri,32,South Kingstown,32113,Matunuck School,7.39%,,N,,,
-ri,32,South Kingstown,32107,Peace Dale Elementary School,19.72%,,N,,,
-ri,32,South Kingstown,32108,South Kingstown High School,11.39%,,N,,,
-ri,32,South Kingstown,32103,Wakefield Elementary School,14.61%,,N,,,
-ri,32,South Kingstown,32112,West Kingston Elementary School,18.18%,,N,,,
-ri,43,SouthSide Charter School,28611,SouthSide Elementary Charter School,43.33%,,N,,119,52
-ri,55,The Compass School,23601,The Compass School,7.91%,,N,,,
-ri,62,The Greene School,97601,The Greene School,25.89%,,N,,,
-ri,68,The Hope Academy,28613,The Hope Academy,43.02%,,N,,179,77
-ri,33,Tiverton,33106,Fort Barton School,13.59%,,N,,,
-ri,33,Tiverton,33107,Pocasset School,25.97%,,N,,,
-ri,33,Tiverton,33108,Tiverton High School,11.66%,,N,,,
-ri,33,Tiverton,33110,Tiverton Middle School,18.90%,,N,,,
-ri,33,Tiverton,33105,Walter E. Ranger School,18.26%,,N,,,
-ri,49,Urban Collaborative,28167,Urban Collaborative Accelerated Program,76.30%,,N,,135,103
-ri,64,Village Green Virtual,28608,Village Green Virtual Charter School,50.91%,,N,,220,112
-ri,35,Warwick,35131,Cedar Hill School,12.95%,,N,,,
-ri,35,Warwick,35136,Cottrell F. Hoxsie School,25.97%,,N,,,
-ri,35,Warwick,35121,E. G. Robertson School,17.42%,,N,,,
-ri,35,Warwick,35114,Greenwood School,15.87%,,N,,,
-ri,35,Warwick,35135,Harold F. Scott School,30.79%,,N,,302,93
-ri,35,Warwick,35128,Holliman School,18.73%,,N,,,
-ri,35,Warwick,35123,Lippitt School,26.72%,,N,,,
-ri,35,Warwick,35101,Norwood School,23.08%,,N,,,
-ri,35,Warwick,35104,Oakland Beach Elementary School,32.34%,,N,,402,130
-ri,35,Warwick,35132,Park School,22.76%,,N,,,
-ri,35,Warwick,35134,Pilgrim High School,18.32%,,N,,,
-ri,35,Warwick,35127,Sherman School,18.18%,,N,,,
-ri,35,Warwick,35138,Toll Gate High School,18.07%,,N,,,
-ri,61,Trinity Academy for the Performing Arts,28606,Trinity Academy for the Performing Arts,46.41%,,Y,50.24%,209,97
-ri,35,Warwick,35137,Warwick Early Learning Center at John Brown Franci,21.28%,,N,,,
-ri,35,Warwick,35133,Warwick Neck School,21.85%,,N,,,
-ri,35,Warwick,35142,Warwick Veterans Middle School,22.56%,,N,,,
-ri,35,Warwick,35139,Winman Middle School,15.18%,,N,,,
-ri,35,Warwick,35119,Wyman School,24.85%,,N,,,
-ri,38,West Warwick,38109,Greenbush Elementary School,30.57%,,N,,471,144
-ri,38,West Warwick,38107,John F. Deering Middle School,35.80%,,N,,1095,392
-ri,38,West Warwick,38104,John F. Horgan Elementary School,48.99%,,N,,543,266
-ri,38,West Warwick,38105,Maisie E. Quinn Elementary School,36.23%,,N,,69,25
-ri,38,West Warwick,38111,Wakefield Hills Elementary School,42.11%,,N,,418,176
-ri,38,West Warwick,38106,West Warwick Senior High School,25.82%,,N,,,
-ri,36,Westerly,36109,Dunn's Corners School,16.98%,,N,,,
-ri,36,Westerly,36111,Springbrook Elementary School,30.33%,,N,,300,91
-ri,36,Westerly,36106,State Street School,26.23%,,N,,,
-ri,36,Westerly,36104,Westerly High School,15.85%,,N,,,
-ri,36,Westerly,36113,Westerly Inclusion Preschool Program - Babcock Hal,29.13%,,N,,,
-ri,36,Westerly,36103,Westerly Middle School,20.19%,,N,,,
-ri,39,Woonsocket,39118,Bernon Heights School,46.19%,,N,,433,200
-ri,39,Woonsocket,39117,Citizens Memorial School,68.10%,,N,,395,269
-ri,39,Woonsocket,39119,Globe Park School                                 ,60.16%,,N,,507,305
-ri,39,Woonsocket,39110,Governor Aram J. Pothier School,70.06%,,N,,471,330
-ri,39,Woonsocket,39101,Harris School,62.95%,,N,,440,277
-ri,39,Woonsocket,39128,Kevin K. Coleman Elementary School,65.05%,,N,,289,188
-ri,39,Woonsocket,39120,Leo A. Savoie School,48.25%,,N,,400,193
-ri,39,Woonsocket,39123,Woonsocket High School,46.13%,,N,,1600,738
-ri,39,Woonsocket,39131,Woonsocket Middle School at Hamlet,55.51%,,N,,681,378
-ri,39,Woonsocket,39132,Woonsocket Middle School at Villa Nova,58.02%,,N,,686,398
+ri,41,Achievement First Rhode Island,28609,Achievement First Providence Mayoral Academy,49.36%,,,N,N/A,
+ri,41,Achievement First Rhode Island,28614,Achievement First Iluminar Mayoral Academy,48.50%,,,N,N/A,
+ri,41,Achievement First Rhode Island,41604,Achievement First Iluminar Mayoral Academy Middle,46.15%,,,N,N/A,
+ri,41,Achievement First Rhode Island,28615,Achievement First Providence Mayoral Academy Middle,42.67%,,,N,N/A,
+ri,01,Barrington,01103,Primrose Hill School,6.69%,,,N,N/A,
+ri,01,Barrington,01105,Hampden Meadows School,3.68%,,,N,N/A,
+ri,01,Barrington,01104,Nayatt School,2.73%,,,N,N/A,
+ri,01,Barrington,01108,Barrington Middle School,2.60%,,,N,N/A,
+ri,01,Barrington,01109,Sowams Elementary School,2.27%,,,N,N/A,
+ri,01,Barrington,01106,Barrington High School,1.25%,,,N,N/A,
+ri,58,Beacon Charter School,39603,Founders Academy,31.08%,,,N,N/A,
+ri,58,Beacon Charter School,39601,BEACON Charter School,29.52%,,,N,N/A,
+ri,54,Blackstone Academy,26602,Blackstone Academy Charter School,36.16%,,,N,N/A,
+ri,47,"Blackstone Valley Prep, A RI Mayoral Academy",08601,Blackstone Valley Prep Elementary School,34.55%,,,N,N/A,
+ri,47,"Blackstone Valley Prep, A RI Mayoral Academy",08602,Blackstone Valley Prep Middle School,32.43%,,,N,N/A,
+ri,47,"Blackstone Valley Prep, A RI Mayoral Academy",08603,Blackstone Valley Prep Elementary 2 School,32.04%,,,N,N/A,
+ri,47,"Blackstone Valley Prep, A RI Mayoral Academy",08605,Blackstone Valley Prep Elementary 3 School,29.96%,,,N,N/A,
+ri,47,"Blackstone Valley Prep, A RI Mayoral Academy",08606,Blackstone Valley Prep Middle School 2,27.04%,,,N,N/A,
+ri,47,"Blackstone Valley Prep, A RI Mayoral Academy",08604,Blackstone Valley Prep High School,25.66%,,,N,N/A,
+ri,96,Bristol Warren,96105,Colt Andrews School,28.53%,,,N,N/A,
+ri,96,Bristol Warren,96113,Hugh Cole School,26.25%,,,N,N/A,
+ri,96,Bristol Warren,96104,Guiteras School,14.89%,,,N,N/A,
+ri,96,Bristol Warren,96107,Mt. Hope High School,14.35%,,,N,N/A,
+ri,96,Bristol Warren,96112,Kickemuit Middle School,10.89%,,,N,N/A,
+ri,96,Bristol Warren,96106,Rockwell School,6.67%,,,N,N/A,
+ri,03,Burrillville,03107,William L. Callahan School                        ,24.13%,,,N,N/A,
+ri,03,Burrillville,03108,Austin T. Levy School,20.06%,,,N,N/A,
+ri,03,Burrillville,03105,Steere Farm Elementary School,16.94%,,,N,N/A,
+ri,03,Burrillville,03104,Burrillville Middle School,13.64%,,,N,N/A,
+ri,03,Burrillville,03109,Burrillville High School,10.47%,,,N,N/A,
+ri,04,Central Falls,04106,Veterans Memorial Elementary,59.33%,,64.52%,Y,496,294
+ri,04,Central Falls,04115,Dr. Earl F. Calcutt Middle School,52.21%,,61.34%,Y,745,389
+ri,04,Central Falls,04101,Ella Risk School,51.43%,,58.81%,Y,437,225
+ri,04,Central Falls,04104,Capt. G. Harold Hunt School,46.15%,,62.16%,Y,185,85
+ri,04,Central Falls,04117,Margaret I. Robertson School,45.15%,,63.52%,Y,244,110
+ri,04,Central Falls,04108,Central Falls Senior High School,41.65%,,51.51%,Y,728,303
+ri,81,Charette Charter,81601,Charette Charter School,58.68%,,,N,N/A,
+ri,98,Chariho,98108,Chariho Alternative Learning Academy,41.67%,,,N,N/A,
+ri,98,Chariho,98104,Charlestown Elementary School,17.21%,,,N,N/A,
+ri,98,Chariho,98107,Hope Valley Elementary School,16.67%,,,N,N/A,
+ri,98,Chariho,98109,Hope Valley Elementary School Annex,12.63%,,,N,N/A,
+ri,98,Chariho,98106,Ashaway Elementary School,11.00%,,,N,N/A,
+ri,98,Chariho,98103,Chariho Regional Middle School,10.94%,,,N,N/A,
+ri,98,Chariho,98101,Chariho Regional High School                      ,8.90%,,,N,N/A,
+ri,98,Chariho,98105,Richmond Elementary School,8.18%,,,N,N/A,
+ri,06,Coventry,06116,Tiogue School,26.91%,,,N,N/A,
+ri,06,Coventry,06112,Hopkins Hill School,26.12%,,,N,N/A,
+ri,06,Coventry,06117,Blackrock School,25.69%,,,N,N/A,
+ri,06,Coventry,06104,Alan Shawn Feinstein Middle School Of Coventry,15.67%,,,N,N/A,
+ri,06,Coventry,06121,Washington Oak School,14.03%,,,N,N/A,
+ri,06,Coventry,06119,Coventry High School,13.07%,,,N,N/A,
+ri,06,Coventry,06109,Western Coventry School,11.58%,,,N,N/A,
+ri,07,Cranston,07125,Arlington School,47.56%,,,N,N/A,
+ri,07,Cranston,07135,NEL/CPS Construction Career Academy,40.00%,,,N,N/A,
+ri,07,Cranston,07119,Gladstone Street School,38.69%,,,N,N/A,
+ri,07,Cranston,07115,Hugh B. Bain Middle School,37.26%,,,N,N/A,
+ri,07,Cranston,07120,Stadium School,35.19%,,,N,N/A,
+ri,07,Cranston,07116,William R. Dutemple School,33.78%,,,N,N/A,
+ri,07,Cranston,07130,Edgewood Highland School,33.11%,,,N,N/A,
+ri,07,Cranston,07124,George J. Peters School,31.23%,,,N,N/A,
+ri,07,Cranston,07113,Cranston High School East,26.23%,,,N,N/A,
+ri,07,Cranston,07118,Eden Park School,24.01%,,,N,N/A,
+ri,07,Cranston,07123,Park View Middle School,23.81%,,,N,N/A,
+ri,07,Cranston,07110,Daniel D. Waterman School,22.87%,,,N,N/A,
+ri,07,Cranston,07104,Cranston Early Learning Center,22.22%,,,N,N/A,
+ri,07,Cranston,07117,Edward S. Rhodes School                           ,21.03%,,,N,N/A,
+ri,07,Cranston,07129,Western Hills Middle School                       ,19.82%,,,N,N/A,
+ri,07,Cranston,07127,Stone Hill School                                 ,18.77%,,,N,N/A,
+ri,07,Cranston,07122,Garden City School                                ,17.61%,,,N,N/A,
+ri,07,Cranston,07128,Glen Hills School,16.53%,,,N,N/A,
+ri,07,Cranston,07121,Woodridge School,15.68%,,,N,N/A,
+ri,07,Cranston,07126,Cranston High School West                         ,10.65%,,,N,N/A,
+ri,07,Cranston,07103,Oak Lawn School,5.98%,,,N,N/A,
+ri,07,Cranston,07137,Hope Highlands Middle School,5.54%,,,N,N/A,
+ri,07,Cranston,07136,Orchard Farms Elementary School,3.09%,,,N,N/A,
+ri,08,Cumberland,08107,B.F. Norton Elementary School,29.32%,,,N,N/A,
+ri,08,Cumberland,08115,Joseph L. McCourt Middle School,20.73%,,,N,N/A,
+ri,08,Cumberland,08108,Garvin Memorial School,15.30%,,,N,N/A,
+ri,08,Cumberland,08110,John J. McLaughlin Cumberland Hill School,9.54%,,,N,N/A,
+ri,08,Cumberland,08112,Ashton School,9.52%,,,N,N/A,
+ri,08,Cumberland,08121,Cumberland Preschool Center,9.09%,,,N,N/A,
+ri,08,Cumberland,08114,Cumberland High School,8.80%,,,N,N/A,
+ri,08,Cumberland,08116,North Cumberland Middle School,6.16%,,,N,N/A,
+ri,08,Cumberland,08109,Community School,3.17%,,,N,N/A,
+ri,40,Davies Career and Tech,17701,Wm. M. Davies Jr. Career-Technical  High School,27.60%,,,N,N/A,
+ri,09,East Greenwich,09102,James H. Eldredge El. School,8.53%,,,N,N/A,
+ri,09,East Greenwich,09105,Frenchtown School,7.35%,,,N,N/A,
+ri,09,East Greenwich,09108,George Hanaford School,5.76%,,,N,N/A,
+ri,09,East Greenwich,09103,Archie R. Cole Middle School,5.14%,,,N,N/A,
+ri,09,East Greenwich,09107,Meadowbrook Farms School,5.10%,,,N,N/A,
+ri,09,East Greenwich,09106,East Greenwich High School,3.84%,,,N,N/A,
+ri,10,East Providence,10113,Kent Heights School,43.82%,,,N,N/A,
+ri,10,East Providence,10116,Agnes B. Hennessey School,35.86%,,,N,N/A,
+ri,10,East Providence,10124,Orlo Avenue School,35.66%,,,N,N/A,
+ri,10,East Providence,10117,Emma G. Whiteknact School,33.08%,,,N,N/A,
+ri,10,East Providence,10109,Edward R. Martin Middle School,30.32%,,,N,N/A,
+ri,10,East Providence,10123,Silver Spring School,27.17%,,,N,N/A,
+ri,10,East Providence,10122,Riverside Middle School,25.00%,,,N,N/A,
+ri,10,East Providence,10112,East Providence High School,24.08%,,,N,N/A,
+ri,10,East Providence,10111,James R. D. Oldham School,19.88%,,,N,N/A,
+ri,10,East Providence,10105,James R. D. Oldham School Annex,19.88%,,,N,N/A,
+ri,10,East Providence,10114,Alice M. Waddington School,19.14%,,,N,N/A,
+ri,10,East Providence,10125,Myron J. Francis Elementary School,16.67%,,,N,N/A,
+ri,10,East Providence,10104,Edward R. Martin Middle School Annex,3.03%,,,N,N/A,
+ri,97,Exeter-West Greenwich,97101,Wawaloam School,11.01%,,,N,N/A,
+ri,97,Exeter-West Greenwich,97103,Metcalf School,9.84%,,,N,N/A,
+ri,97,Exeter-West Greenwich,97105,Exeter-West Greenwich Regional  Junior High,6.58%,,,N,N/A,
+ri,97,Exeter-West Greenwich,97106,Exeter-West Greenwich Regional High School,5.21%,,,N,N/A,
+ri,97,Exeter-West Greenwich,97102,Mildred E. Lineham School,4.29%,,,N,N/A,
+ri,12,Foster,12101,Captain Isaac Paine Elementary School,20.08%,,,N,N/A,
+ri,99,Foster-Glocester,99102,Ponaganset High School,8.42%,,,N,N/A,
+ri,99,Foster-Glocester,99101,Ponaganset Middle School,8.30%,,,N,N/A,
+ri,13,Glocester,13104,West Glocester Elementary,11.34%,,,N,N/A,
+ri,13,Glocester,13103,Fogarty Memorial School,3.72%,,,N,N/A,
+ri,48,Highlander,96806,The Highlander Charter ,,,44.60%,Y,565,
+ri,53,International Charter,26601,International Charter School,27.15%,,,N,N/A,
+ri,15,Jamestown,15102,Jamestown School-Melrose,5.28%,,,N,N/A,
+ri,15,Jamestown,15101,Jamestown School-Lawn,3.98%,,,N,N/A,
+ri,16,Johnston,16103,Thornton School,34.65%,,,N,N/A,
+ri,16,Johnston,16114,Early Childhood Center,31.96%,,,N,N/A,
+ri,16,Johnston,16108,Sarah Dyer Barnes School,23.68%,,,N,N/A,
+ri,16,Johnston,16110,Graniteville School,23.24%,,,N,N/A,
+ri,16,Johnston,16111,Nicholas A. Ferri Middle School,21.90%,,,N,N/A,
+ri,16,Johnston,16109,Winsor Hill School,19.52%,,,N,N/A,
+ri,16,Johnston,16112,Johnston Senior High School,19.24%,,,N,N/A,
+ri,16,Johnston,16106,Brown Avenue School,15.63%,,,N,N/A,
+ri,52,Kingston Hill Academy,32601,Kingston Hill Academy,13.03%,,,N,N/A,
+ri,59,Learning Community,04601,The Learning Community Charter School,36.73%,,,N,N/A,
+ri,17,Lincoln,17113,Northern Lincoln Elementary School,28.44%,,,N,N/A,
+ri,17,Lincoln,17112,Saylesville Elementary School,21.07%,,,N,N/A,
+ri,17,Lincoln,17106,Lonsdale Elementary School,16.07%,,,N,N/A,
+ri,17,Lincoln,17117,Lincoln Middle School,15.56%,,,N,N/A,
+ri,17,Lincoln,17110,Lincoln Senior High School,12.06%,,,N,N/A,
+ri,17,Lincoln,17109,Lincoln Central Elementary School,5.00%,,,N,N/A,
+ri,18,Little Compton,18101,Wilbur and McMahon Schools,11.30%,,,N,N/A,
+ri,60,MET Career and Tech,28703,Metropolitan Regional Career and Technical Center,41.00%,,42.67%,Y,778,319
+ri,19,Middletown,19107,Forest Avenue School,21.05%,,,N,N/A,
+ri,19,Middletown,19117,Joseph H. Gaudet Learning Academy,19.18%,,,N,N/A,
+ri,19,Middletown,19114,Joseph H. Gaudet School,16.12%,,,N,N/A,
+ri,19,Middletown,19111,Middletown High School,12.59%,,,N,N/A,
+ri,19,Middletown,19106,Aquidneck School,9.20%,,,N,N/A,
+ri,20,Narragansett,20102,Narragansett Elementary School,16.59%,,,N,N/A,
+ri,20,Narragansett,20103,Narragansett Pier School,9.86%,,,N,N/A,
+ri,20,Narragansett,20104,Narragansett High School,6.84%,,,N,N/A,
+ri,22,New Shoreham,22101,Block Island School,4.58%,,,N,N/A,
+ri,21,Newport,21113,The Pell Annex @ John F. Kennedy School,50.00%,,,N,N/A,
+ri,21,Newport,21107,Claiborne Pell Elementary School,46.61%,,,N,N/A,
+ri,21,Newport,21106,Frank E. Thompson Middle School,44.03%,,,N,N/A,
+ri,21,Newport,21111,Rogers High School,31.47%,,,N,N/A,
+ri,23,North Kingstown,23113,Suzanne M. Henseler Quidnessett Elementary School,58.85%,,,N,N/A,
+ri,23,North Kingstown,23109,Fishing Cove Elementary School,24.93%,,,N,N/A,
+ri,23,North Kingstown,23112,Davisville Middle School,17.97%,,,N,N/A,
+ri,23,North Kingstown,23110,Forest Park Elementary School,10.16%,,,N,N/A,
+ri,23,North Kingstown,23105,Wickford Middle School,9.89%,,,N,N/A,
+ri,23,North Kingstown,23111,Hamilton Elementary School,8.72%,,,N,N/A,
+ri,23,North Kingstown,23108,North Kingstown Senior High School,7.71%,,,N,N/A,
+ri,23,North Kingstown,23114,Stony Lane Elementary School,7.36%,,,N,N/A,
+ri,24,North Providence,24109,Centredale School,29.71%,,,N,N/A,
+ri,24,North Providence,24108,Dr. Joseph A Whelan Elementary School,28.62%,,,N,N/A,
+ri,24,North Providence,24111,Dr. Edward A. Ricci Middle School,26.33%,,,N,N/A,
+ri,24,North Providence,24107,James L. McGuire School,26.14%,,,N,N/A,
+ri,24,North Providence,24112,Birchwood Middle School,24.60%,,,N,N/A,
+ri,24,North Providence,24110,Greystone School,23.82%,,,N,N/A,
+ri,24,North Providence,24106,Stephen Olney School,23.63%,,,N,N/A,
+ri,24,North Providence,24105,North Providence High School,20.05%,,,N,N/A,
+ri,25,North Smithfield,25110,North Smithfield Elementary School,12.46%,,,N,N/A,
+ri,25,North Smithfield,25109,North Smithfield Middle School,10.81%,,,N,N/A,
+ri,25,North Smithfield,25108,North Smithfield High School,6.04%,,,N,N/A,
+ri,51,Paul Cuffee Charter Sch,51601,Paul Cuffee Lower School,44.48%,,,N,N/A,
+ri,51,Paul Cuffee Charter Sch,51602,Paul Cuffee Middle School,38.22%,,,N,N/A,
+ri,51,Paul Cuffee Charter Sch,51603,Paul Cuffee Upper School,36.78%,,,N,N/A,
+ri,26,Pawtucket,26121,M. Virginia Cunningham School,67.12%,,67.12%,Y,444,298
+ri,26,Pawtucket,26120,Elizabeth Baldwin School,59.94%,,59.94%,Y,629,377
+ri,26,Pawtucket,26122,Agnes E. Little School,55.34%,,55.34%,Y,365,202
+ri,26,Pawtucket,26119,Henry J. Winters School,54.82%,,54.82%,Y,363,199
+ri,26,Pawtucket,26106,Samuel Slater Middle School,51.50%,,51.50%,Y,802,413
+ri,26,Pawtucket,26103,Joseph Jenks Middle School,50.57%,,,N,N/A,
+ri,26,Pawtucket,26116,Curvin-McCabe School                              ,49.53%,,,N,N/A,
+ri,26,Pawtucket,26118,Charles E. Shea High School,43.94%,,43.94%,Y,899,395
+ri,26,Pawtucket,26113,Fallon Memorial School,41.81%,,,N,N/A,
+ri,26,Pawtucket,26111,Nathanael Greene School,37.94%,,,N,N/A,
+ri,26,Pawtucket,26105,William E Tolman Senior High School,37.53%,,,N,N/A,
+ri,26,Pawtucket,26125,Francis J. Varieur School,35.46%,,,N,N/A,
+ri,26,Pawtucket,26115,Flora S. Curtis Memorial School,32.15%,,,N,N/A,
+ri,26,Pawtucket,26107,Lyman B. Goff Middle School,30.31%,,,N,N/A,
+ri,26,Pawtucket,26110,Potter-Burns School,29.14%,,,N,N/A,
+ri,26,Pawtucket,26109,Jacqueline M. Walsh School for the Performing and ,18.40%,,,N,N/A,
+ri,27,Portsmouth,27111,Melville Elementary School,10.47%,,,N,N/A,
+ri,27,Portsmouth,27104,Howard Hathaway School,10.45%,,,N,N/A,
+ri,27,Portsmouth,27112,Portsmouth Middle School,9.02%,,,N,N/A,
+ri,27,Portsmouth,27106,Portsmouth High School,7.40%,,,N,N/A,
+ri,28,Providence,28162,"The Sgt. Cornel Young, Jr & Charlotte Woods Elemen",71.48%,,73.01%,Y,652,466
+ri,28,Providence,28160,Mary E. Fogarty Elementary School,69.23%,,74.79%,Y,468,324
+ri,28,Providence,28130,Veazie Street School,67.53%,,68.89%,Y,540,365
+ri,28,Providence,28161,Harry Kizirian Elementary School,66.55%,,71.60%,Y,581,387
+ri,28,Providence,28156,"Robert L Bailey IV, Elementary School",65.83%,,70.85%,Y,398,262
+ri,28,Providence,28140,Carl G. Lauro Elementary School,65.80%,,68.48%,Y,809,532
+ri,28,Providence,28147,Roger Williams Middle School,64.21%,,67.27%,Y,770,494
+ri,28,Providence,28157,"Lillian Feinstein Elementary, Sackett Street",64.18%,,67.25%,Y,455,292
+ri,28,Providence,28116,Alan Shawn Feinstein Elementary at Broad Street,63.24%,,67.64%,Y,479,303
+ri,28,Providence,28137,Esek Hopkins Middle School,63.06%,,64.89%,Y,564,356
+ri,28,Providence,28106,Frank D. Spaziano Elementary School Annex,61.70%,,67.60%,Y,179,110
+ri,28,Providence,28122,Charles N. Fortes Elementary School,60.78%,,67.08%,Y,401,244
+ri,28,Providence,28139,Central High School,60.58%,,60.76%,Y,1152,698
+ri,28,Providence,28144,Gilbert Stuart Middle School,59.81%,,62.80%,Y,922,551
+ri,28,Providence,28194,West Broadway Middle School,59.49%,,61.91%,Y,470,280
+ri,28,Providence,28103,Leviton Dual Language School,58.25%,,61.94%,Y,268,156
+ri,28,Providence,28182,Governor Christopher DelSesto Middle School,58.05%,,62.32%,Y,889,516
+ri,28,Providence,28135,George J. West Elementary School,57.92%,,64.53%,Y,719,416
+ri,28,Providence,28134,Frank D. Spaziano Elementary School,57.31%,,65.03%,Y,386,221
+ri,28,Providence,28163,"Dr. Martin Luther King, Jr. Elementary School",57.14%,,60.56%,Y,497,284
+ri,28,Providence,28127,Webster Avenue School,56.97%,,60.90%,Y,312,178
+ri,28,Providence,28181,Anthony Carnevale Elementary School,56.44%,,60.82%,Y,559,315
+ri,28,Providence,28115,Asa Messer Elementary School,56.18%,,62.05%,Y,556,312
+ri,28,Providence,28149,Hope High School,56.11%,,57.53%,Y,1003,563
+ri,28,Providence,28121,"Alfred Lima, Sr. Elementary School",55.77%,,64.16%,Y,505,282
+ri,28,Providence,28153,William D'Abate Elementary School,55.36%,,59.46%,Y,407,225
+ri,28,Providence,28178,Academy for Career Exploration (ACES),53.61%,,59.56%,Y,183,98
+ri,28,Providence,28189,"William B. Cooley, Sr. High School and the Provide",53.33%,,61.52%,Y,434,231
+ri,28,Providence,28196,Evolutions High School,53.08%,,60.91%,Y,243,129
+ri,28,Providence,28150,Mount Pleasant High School,52.47%,,53.60%,Y,890,467
+ri,28,Providence,28142,Reservoir Avenue School,51.80%,,54.70%,Y,287,149
+ri,28,Providence,28145,Nathanael Greene Middle School,51.70%,,53.83%,Y,992,513
+ri,28,Providence,28195,360 High School,50.38%,,61.57%,Y,216,109
+ri,28,Providence,28187,E-Cubed Academy,49.87%,,52.51%,Y,379,189
+ri,28,Providence,28143,Nathan Bishop Middle School,49.71%,,49.58%,Y,712,354
+ri,28,Providence,28165,Pleasant View School,47.69%,,50.22%,Y,450,215
+ri,28,Providence,28193,Providence Career and Technical Academy,47.62%,,53.40%,Y,648,309
+ri,28,Providence,28138,Robert F. Kennedy Elementary School,47.32%,,48.67%,Y,489,231
+ri,28,Providence,28113,Dr. Jorge Alvarez High School,45.79%,,52.37%,Y,760,348
+ri,28,Providence,28170,Times2 Elementary School,41.16%,,40.47%,Y,729,300
+ri,28,Providence,28151,Vartan Gregorian Elementary School,38.21%,,37.04%,Y,351,134
+ri,28,Providence,28164,Classical High School,21.14%,,24.58%,Y,1066,225
+ri,50,R.I. Sch for the Deaf,28702,Rhode Island School for the Deaf,39.51%,,,N,N/A,
+ri,63,Rhode Island Nurses Institute Middle College,28607,RI Nurses Institute Middle College Charter High Sc,47.39%,,56.44%,Y,264,125
+ri,79,RISE Prep Mayoral Academy,39602,RISE Prep Mayoral Academy,32.38%,,,N,N/A,
+ri,30,Scituate,30102,Hope Elementary School                            ,16.38%,,,N,N/A,
+ri,30,Scituate,30105,Scituate Middle School,9.56%,,,N,N/A,
+ri,30,Scituate,30104,Scituate High School,8.61%,,,N,N/A,
+ri,30,Scituate,30106,North Scituate Elementary School,7.98%,,,N,N/A,
+ri,30,Scituate,30103,Clayville Elementary School,7.38%,,,N,N/A,
+ri,46,Segue Institute for Learning,04602,Segue Institute for Learning,42.55%,,,N,N/A,
+ri,42,Sheila Skip Nowell Leadership Academy,28610,Sheila Skip Nowell Leadership Academy (Capital Cam,75.29%,,73.81%,Y,84,63
+ri,42,Sheila Skip Nowell Leadership Academy,04603,Sheila Skip Nowell Leadership Academy (Central Cam,73.75%,,66.67%,Y,78,58
+ri,31,Smithfield,31104,Old County Road School,18.39%,,,N,N/A,
+ri,31,Smithfield,31109,Vincent J. Gallagher Middle School,9.50%,,,N,N/A,
+ri,31,Smithfield,31107,Smithfield Senior High School,7.22%,,,N,N/A,
+ri,31,Smithfield,31108,Raymond C. LaPerche School,6.25%,,,N,N/A,
+ri,31,Smithfield,31103,William Winsor School,4.49%,,,N,N/A,
+ri,31,Smithfield,31105,Anna M. McCabe School,4.31%,,,N,N/A,
+ri,32,South Kingstown,32107,Peace Dale Elementary School,22.35%,,,N,N/A,
+ri,32,South Kingstown,32112,West Kingston Elementary School,13.14%,,,N,N/A,
+ri,32,South Kingstown,32114,Broad Rock Middle School,12.96%,,,N,N/A,
+ri,32,South Kingstown,32110,Curtis Corner Middle School,10.09%,,,N,N/A,
+ri,32,South Kingstown,32103,Wakefield Elementary School,9.52%,,,N,N/A,
+ri,32,South Kingstown,32108,South Kingstown High School,8.47%,,,N,N/A,
+ri,32,South Kingstown,32113,Matunuck School,5.08%,,,N,N/A,
+ri,43,SouthSide Charter School,28611,SouthSide Elementary Charter School,46.85%,,,N,N/A,
+ri,55,The Compass School,23601,The Compass School,8.12%,,,N,N/A,
+ri,62,The Greene School,97601,The Greene School,21.35%,,,N,N/A,
+ri,68,The Hope Academy,28613,The Hope Academy,38.14%,,,N,N/A,
+ri,33,Tiverton,33107,Pocasset School,26.45%,,,N,N/A,
+ri,33,Tiverton,33105,Walter E. Ranger School,15.45%,,,N,N/A,
+ri,33,Tiverton,33110,Tiverton Middle School,15.40%,,,N,N/A,
+ri,33,Tiverton,33106,Fort Barton School,13.14%,,,N,N/A,
+ri,33,Tiverton,33108,Tiverton High School,10.04%,,,N,N/A,
+ri,61,Trinity Academy for the Performing Arts,28606,Trinity Academy for the Performing Arts,44.81%,,50.24%,Y,209,94
+ri,49,Urban Collaborative,28167,Urban Collaborative Accelerated Program,80.00%,,80.00%,Y,135,108
+ri,64,Village Green Virtual,28608,Village Green Virtual Charter School,48.64%,,,N,N/A,
+ri,35,Warwick,35104,Oakland Beach Elementary School,27.03%,,,N,N/A,
+ri,35,Warwick,35136,Cottrell F. Hoxsie School,25.09%,,,N,N/A,
+ri,35,Warwick,35135,Harold F. Scott School,24.81%,,,N,N/A,
+ri,35,Warwick,35119,Wyman School,24.59%,,,N,N/A,
+ri,35,Warwick,35123,Lippitt School,23.79%,,,N,N/A,
+ri,35,Warwick,35133,Warwick Neck School,22.06%,,,N,N/A,
+ri,35,Warwick,35101,Norwood School,21.71%,,,N,N/A,
+ri,35,Warwick,35128,Holliman School,21.60%,,,N,N/A,
+ri,35,Warwick,35142,Warwick Veterans Middle School,21.13%,,,N,N/A,
+ri,35,Warwick,35132,Park School,18.70%,,,N,N/A,
+ri,35,Warwick,35137,Warwick Early Learning Center at John Brown Franci,18.14%,,,N,N/A,
+ri,35,Warwick,35139,Winman Middle School,17.84%,,,N,N/A,
+ri,35,Warwick,35114,Greenwood School,17.79%,,,N,N/A,
+ri,35,Warwick,35127,Sherman School,17.34%,,,N,N/A,
+ri,35,Warwick,35138,Toll Gate High School,15.92%,,,N,N/A,
+ri,35,Warwick,35134,Pilgrim High School,15.62%,,,N,N/A,
+ri,35,Warwick,35121,E. G. Robertson School,15.57%,,,N,N/A,
+ri,35,Warwick,35131,Cedar Hill School,11.35%,,,N,N/A,
+ri,38,West Warwick,38104,John F. Horgan Elementary School,47.86%,,,N,N/A,
+ri,38,West Warwick,38111,Wakefield Hills Elementary School,40.23%,,,N,N/A,
+ri,38,West Warwick,38105,Maisie E. Quinn Elementary School,37.36%,,,N,N/A,
+ri,38,West Warwick,38107,John F. Deering Middle School,34.78%,,,N,N/A,
+ri,38,West Warwick,38109,Greenbush Elementary School,32.03%,,,N,N/A,
+ri,38,West Warwick,38106,West Warwick Senior High School,25.72%,,,N,N/A,
+ri,36,Westerly,36111,Springbrook Elementary School,32.33%,,,N,N/A,
+ri,36,Westerly,36113,Westerly Inclusion Preschool Program - Babcock Hal,26.40%,,,N,N/A,
+ri,36,Westerly,36106,State Street School,22.38%,,,N,N/A,
+ri,36,Westerly,36103,Westerly Middle School,19.29%,,,N,N/A,
+ri,36,Westerly,36109,Dunn's Corners School,18.09%,,,N,N/A,
+ri,36,Westerly,36104,Westerly High School,15.31%,,,N,N/A,
+ri,39,Woonsocket,39117,Citizens Memorial School,66.17%,,,N,N/A,
+ri,39,Woonsocket,39128,Kevin K. Coleman Elementary School,64.58%,,,N,N/A,
+ri,39,Woonsocket,39101,Harris School,63.80%,,,N,N/A,
+ri,39,Woonsocket,39119,Globe Park School                                 ,60.62%,,,N,N/A,
+ri,39,Woonsocket,39131,Woonsocket Middle School at Hamlet,57.62%,,,N,N/A,
+ri,39,Woonsocket,39132,Woonsocket Middle School at Villa Nova,57.39%,,,N,N/A,
+ri,39,Woonsocket,39118,Bernon Heights School,52.28%,,,N,N/A,
+ri,39,Woonsocket,39120,Leo A. Savoie School,47.88%,,,N,N/A,
+ri,39,Woonsocket,39123,Woonsocket High School,45.49%,,,N,N/A,

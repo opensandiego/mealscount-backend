@@ -1,1102 +1,1004 @@
 state,District Code,District Name,School Code,School Name,individual_isp,proxy_isp,participating_in_cep,claiming_isp,total_enrolled,total_eligible
-ct,24400,ACES,96,"Center for Autism Spectrum and
-Development Disorders",25.00%,,N,,,
-ct,24400,ACES,02,Mill Road School,55.50%,,Y,57.80%,209,116
-ct,24400,ACES,04,Village School,35.71%,,Y,57.80%,154,55
-ct,24400,ACES,03,Whitney High North/West,53.15%,,Y,57.80%,143,76
-ct,24400,ACES,,MIll Academy,,,Y,57.80%,103,
-ct,24400,ACES,01,Whitney High School East,39.81%,,Y,57.80%,108,43
-ct,24400,ACES,99,Wintergreen Magnet School,39.36%,,N,,531,209
-ct,28500,"Achievement First Bridgeport
-Academy, Inc.",03-0,"Achievement First Bridgeport High
-School",66.51%,,Y,42.49%,215,143
-ct,28500,"Achievement First Bridgeport
-Academy, Inc.",02-0,"Achievement First Bridgeport
-Academy Elementary",71.24%,,Y,42.49%,452,322
-ct,28500,"Achievement First Bridgeport
-Academy, Inc.",01-0,"Achievement First Bridgeport
-Academy, Inc.",71.88%,,Y,42.49%,377,271
-ct,27900,Amistad Academy,01-1,Amistad Elementary,82.04%,,Y,48.12%,451,370
-ct,27900,Amistad Academy,03-1,Amistad High School,64.53%,,Y,48.12%,234,151
-ct,27900,Amistad Academy,02-1,Amistad Middle School,71.71%,,Y,48.12%,350,251
-ct,00200,Ansonia Board of Education,61,Ansonia High School,46.27%,,Y,57.43%,590,273
-ct,00200,Ansonia Board of Education,51,Ansonia Middle School,63.98%,,Y,57.43%,447,286
-ct,00200,Ansonia Board of Education,91,Assumption School,10.10%,,Y,57.43%,199,20
-ct,00200,Ansonia Board of Education,03-2,Mead School,77.87%,,Y,57.43%,628,489
-ct,00200,Ansonia Board of Education,08,Prendergast School,69.49%,,Y,57.43%,649,451
-ct,00200,Ansonia Board of Education,90,St. Mary-St. Michael School,23.13%,,Y,57.43%,133,31
-ct,00300,Ashford Board of Education,01-2,Ashford School,27.20%,,N,,,
-ct,00400,Avon Board of Education,61-0,Avon High,8.59%,,N,,,
-ct,00400,Avon Board of Education,51-0,Avon Middle School,8.69%,,N,,,
-ct,00400,Avon Board of Education,04-0,Pine Grove School,11.70%,,N,,,
-ct,00400,Avon Board of Education,03-3,Roaring Brook School,10.31%,,N,,,
-ct,00400,Avon Board of Education,05,Thompson Brook School,8.59%,,N,,,
-ct,00500,Barkhamsted Board of Education,01-3,Barkhamsted Elementary,19.91%,,N,,,
-ct,00700,Berlin Board of Education,61-1,Berlin High School,13.33%,,N,,,
-ct,00700,Berlin Board of Education,51-1,Catherine M. McGee Middle School,13.85%,,N,,,
-ct,00700,Berlin Board of Education,04-1,Emma Hart Willard School,18.20%,,N,,,
-ct,00700,Berlin Board of Education,05-0,Mary E. Griswold School,13.97%,,N,,,
-ct,00700,Berlin Board of Education,01-4,Richard D. Hubbard School,24.89%,,N,,,
-ct,00800,Bethany Board of Education,01-5,Bethany Community School,12.22%,,N,,,
-ct,00900,Bethel Board of Education,04-2,Anna H. Rockwell School,21.75%,,N,,,
-ct,00900,Bethel Board of Education,61-2,Bethel High School,18.93%,,N,,,
-ct,00900,Bethel Board of Education,51-2,Bethel Middle School,20.77%,,N,,,
-ct,00900,Bethel Board of Education,01-6,Frank A. Berry School,20.70%,,N,,,
-ct,00900,Bethel Board of Education,05-1,Ralph M.T. Johnson School,21.56%,,N,,,
-ct,01100,Bloomfield Board of Education,61-3,Bloomfield High School,38.92%,,N,,537,209
-ct,01100,Bloomfield Board of Education,52,Carmen Arace Middle School,45.23%,,N,,482,218
-ct,01100,Bloomfield Board of Education,10,CREC Museum Academy,48.61%,,N,,502,244
-ct,01100,Bloomfield Board of Education,63,"Global Experience Magnet School
-(GEMS)",51.05%,,N,,190,97
-ct,01100,Bloomfield Board of Education,06,Laurel School,50.57%,,N,,352,178
-ct,01100,Bloomfield Board of Education,05-2,Metacomet School,44.78%,,N,,268,120
-ct,01100,Bloomfield Board of Education,08-0,"Wintonbury Early Childhood
-Magnet School",29.91%,,N,,,
-ct,01200,Bolton Board of Education,01-7,Bolton Center School,21.18%,,N,,,
-ct,01200,Bolton Board of Education,61-4,Bolton High School,17.36%,,N,,,
-ct,01300,Bozrah Board of Education,01-8,Fields Memorial School,27.98%,,N,,,
-ct,01400,Branford Board of Education,61-5,Branford High School,25.73%,,N,,,
-ct,01400,Branford Board of Education,51-3,Francis Walsh Intermediate,26.41%,,N,,,
-ct,01400,Branford Board of Education,16,John B. Sliney School,39.93%,,N,,273,109
-ct,01400,Branford Board of Education,15,Mary R. Tisko School,20.06%,,N,,,
-ct,01400,Branford Board of Education,14,Mary T. Murphy School,33.81%,,N,,352,119
-ct,29000,Brass City Charter School,01-9,Brass City Charter School,48.25%,,Y,48.60%,286,138
-ct,01500,Bridgeport Board of Education,01-10,Barnum School,92.34%,,Y,62.50%,640,591
-ct,01500,Bridgeport Board of Education,61-6,Bassick High School,70.32%,,Y,62.50%,802,564
-ct,01500,Bridgeport Board of Education,02-2,Beardsley School,96.49%,,Y,62.50%,313,302
-ct,01500,Bridgeport Board of Education,03-4,Black Rock School,64.30%,,Y,62.50%,493,317
-ct,01500,Bridgeport Board of Education,40,Blackham School,57.71%,,Y,62.50%,1090,629
-ct,01500,Bridgeport Board of Education,28,"Bridgeport Learning Center @
-Sheriden",84.21%,,Y,62.50%,76,64
-ct,01500,Bridgeport Board of Education,16-0,Bridgeport Military Academy,65.84%,,Y,62.50%,281,185
-ct,01500,Bridgeport Board of Education,04-3,Bryant School,99.43%,,Y,62.50%,351,349
-ct,01500,Bridgeport Board of Education,62,Central High School,49.24%,,Y,62.50%,1515,746
-ct,01500,Bridgeport Board of Education,37,"CES Cooperative Educational
-Services",27.66%,,Y,62.50%,47,13
-ct,01500,Bridgeport Board of Education,91-0,CES Special Education (second site),50.55%,,Y,62.50%,275,139
-ct,01500,Bridgeport Board of Education,14-0,Cesar Batalla,79.77%,,Y,62.50%,1142,911
-ct,01500,Bridgeport Board of Education,21,"Classical Studies Academy
-(Maplewood)",55.19%,,Y,62.50%,453,250
-ct,01500,Bridgeport Board of Education,05-3,Columbus School,77.68%,,Y,62.50%,596,463
-ct,01500,Bridgeport Board of Education,39,Cross School,80.70%,,Y,62.50%,316,255
-ct,01500,Bridgeport Board of Education,42,Curiale School,69.66%,,Y,62.50%,580,404
-ct,01500,Bridgeport Board of Education,41,Dunbar School,85.35%,,Y,62.50%,396,338
-ct,01500,Bridgeport Board of Education,07,Edison School,65.57%,,Y,62.50%,183,120
-ct,01500,Bridgeport Board of Education,15-0,"Fairchild Wheeler Inter-District
-Magnet High School",46.75%,,Y,62.50%,1337,625
-ct,01500,Bridgeport Board of Education,31,Geraldine Claytor Magnet Academy,87.64%,,Y,62.50%,461,404
-ct,01500,Bridgeport Board of Education,11,Hall School,90.16%,,Y,62.50%,193,174
-ct,01500,Bridgeport Board of Education,12,Hallen School,59.60%,,Y,62.50%,297,177
-ct,01500,Bridgeport Board of Education,63-0,Harding High School,53.86%,,Y,62.50%,1101,593
-ct,01500,Bridgeport Board of Education,45,High Horizons Magnet,53.16%,,Y,62.50%,459,244
-ct,01500,Bridgeport Board of Education,13,Hooker School,54.75%,,Y,62.50%,358,196
-ct,01500,Bridgeport Board of Education,38,"Interdistrict Discovery Magnet
-School",32.65%,,Y,62.50%,487,159
-ct,01500,Bridgeport Board of Education,22,"Jettie Tisdale School (formerly
-McKinley)",74.52%,,Y,62.50%,675,503
-ct,01500,Bridgeport Board of Education,32,Johnson School  (formerly Webster),74.94%,,Y,62.50%,802,601
-ct,01500,Bridgeport Board of Education,10-0,Luis Munoz Marin School,75.52%,,Y,62.50%,821,620
-ct,01500,Bridgeport Board of Education,20,Madison School,60.85%,,Y,62.50%,447,272
-ct,01500,Bridgeport Board of Education,46,Multiculture Magnet School,53.83%,,Y,62.50%,470,253
-ct,01500,Bridgeport Board of Education,17,Park City Magnet School,42.99%,,Y,62.50%,528,227
-ct,01500,Bridgeport Board of Education,25,Read School,61.34%,,Y,62.50%,794,487
-ct,01500,Bridgeport Board of Education,26,Roosevelt School,80.97%,,Y,62.50%,578,468
-ct,01500,Bridgeport Board of Education,90-0,Six to Six Magnet,31.19%,,Y,62.50%,452,141
-ct,01500,Bridgeport Board of Education,44,Skane Center,61.30%,,Y,62.50%,261,160
-ct,01500,Bridgeport Board of Education,30,Waltersville School,81.85%,,Y,62.50%,496,406
-ct,01500,Bridgeport Board of Education,36,Winthrop School,48.37%,,Y,62.50%,674,326
-ct,01700,Bristol Board of Education,61-7,Bristol Central High School,43.26%,,Y,47.32%,1209,523
-ct,01700,Bristol Board of Education,62-0,Bristol Eastern High School,33.05%,,N,,1050,347
-ct,01700,Bristol Board of Education,51-4,Chippens Hill Middle School,45.06%,,Y,47.32%,799,360
-ct,01700,Bristol Board of Education,03-5,Edgewood School,38.99%,,N,,277,108
-ct,01700,Bristol Board of Education,14-1,Ellen P. Hubbell,59.85%,,Y,47.32%,391,234
-ct,01700,Bristol Board of Education,05-4,Greene Hills School,47.73%,,Y,47.32%,905,432
-ct,01700,Bristol Board of Education,19,Ivy Drive School,40.62%,,Y,47.32%,357,145
-ct,01700,Bristol Board of Education,17-0,Mountain View School,34.23%,,N,,333,114
-ct,01700,Bristol Board of Education,52-0,Northeast Middle School,36.13%,,N,,512,185
-ct,01700,Bristol Board of Education,11-0,South Side School,47.89%,,Y,47.32%,451,216
-ct,01700,Bristol Board of Education,12-0,Stafford School,48.82%,,Y,47.32%,381,186
-ct,01700,Bristol Board of Education,20-0,West Bristol  School,57.25%,,Y,47.32%,917,525
-ct,01800,Brookfield Board of Education,61-8,Brookfield High School,11.91%,,N,,,
-ct,01800,Brookfield Board of Education,03-6,Center Elementary School,20.49%,,N,,,
-ct,01800,Brookfield Board of Education,04-4,Huckleberry Hill Elementary School,15.87%,,N,,,
-ct,01800,Brookfield Board of Education,53,Whisconier Middle School,15.17%,,N,,,
-ct,01900,Brooklyn Board of Education,01-11,Brooklyn Elementary School,31.60%,,N,,538,170
-ct,01900,Brooklyn Board of Education,51-5,Brooklyn Middle School,28.85%,,N,,,
-ct,02200,Canterbury Board of Education,02-3,Canterbury Elementary School,25.08%,,N,,,
-ct,02200,Canterbury Board of Education,51-6,Helen Middle School,25.70%,,N,,,
-ct,02300,Canton Board of Education,03-7,Canton Intermediate School,15.40%,,N,,,
-ct,02300,Canton Board of Education,61-9,Canton Jr Sr High School,11.15%,,N,,,
-ct,02300,Canton Board of Education,02-4,Cherry Brook School,10.87%,,N,,,
-ct,29700,"Capital Preparatory Harbor School, Inc.",02-5,"Capital Prep Harbor School/lower
-school",64.00%,,Y,57.43%,350,224
-ct,29700,"Capital Preparatory Harbor School, Inc.",01-12,"Capital Preparatory Harbor School,
-Inc./upper school",47.06%,,Y,57.43%,255,120
-ct,02400,Chaplin Board of Education,02-6,Chaplin Elementary School,40.79%,,N,,152,62
-ct,02500,Cheshire Board of Education,01-13,Chapman School,5.73%,,N,,,
-ct,02500,Cheshire Board of Education,61-10,Cheshire High School,9.71%,,N,,,
-ct,02500,Cheshire Board of Education,02-7,Darcey School,25.45%,,N,,,
-ct,02500,Cheshire Board of Education,51-7,Dodd Middle School,10.92%,,N,,,
-ct,02500,Cheshire Board of Education,06-0,Doolittle School,14.09%,,N,,,
-ct,02500,Cheshire Board of Education,04-5,Highland School,10.56%,,N,,,
-ct,02500,Cheshire Board of Education,05-5,Norton School,10.64%,,N,,,
-ct,02600,Chester Board of Education,01-14,Chester Elementary School,19.79%,,N,,,
-ct,15114,Children's Community School,11-1,Children's Community School,68.06%,,Y,62.50%,144,98
-ct,02700,Clinton Board of Education,01-15,Abraham Pierson School,32.55%,,N,,255,83
-ct,02700,Clinton Board of Education,51-8,Jared Eliot School,20.18%,,N,,,
-ct,02700,Clinton Board of Education,03-8,Lewis G. Joel Jr. School,33.83%,,N,,473,160
-ct,02700,Clinton Board of Education,61-11,The Morgan School,23.97%,,N,,,
-ct,02800,Colchester Board of Education,61-12,Bacon Academy,17.90%,,N,,,
-ct,02800,Colchester Board of Education,03-9,Colchester Elementary School,14.77%,,N,,,
-ct,02800,Colchester Board of Education,02-8,Jack Jackter Intermediate School,17.42%,,N,,,
-ct,02800,Colchester Board of Education,51-9,William J. Johnston Middle  School,19.17%,,N,,,
-ct,02900,Colebrook Board of Education,01-16,Colebrook Consolidated School,20.69%,,N,,,
-ct,26800,Common Ground High School,61-13,Common Ground High School,51.49%,,Y,50.79%,202,104
-ct,15118,Congregation K'Tana of Waterbury,01-17,Congregation Ktana of Waterbury,23.89%,,N,,,
-ct,03200,Coventry Board of Education,01-18,Andover Elementary School,18.91%,,N,,,
-ct,03200,Coventry Board of Education,51-10,Captain Nathan Hale School,28.91%,,N,,,
-ct,03200,Coventry Board of Education,02-9,Coventry Grammer School,19.14%,,N,,,
-ct,03200,Coventry Board of Education,61-14,Coventry High School,21.91%,,N,,,
-ct,03200,Coventry Board of Education,04-6,George Hersey Robertson School,15.51%,,N,,,
-ct,24100,CREC,07-0,Ana Grace Academy of the Arts Elementary School (formerly GHA),49.24%,,N,,463,228
-ct,24100,CREC,52-1,Civic Leadership High School (formerly Public Safety Academy),54.13%,,Y,57.18%,327,177
-ct,24100,CREC,53-0,CREC Greater Hartford Academy of the Arts Middle School,47.09%,,N,,327,154
-ct,24100,CREC,61-15,CREC Metropolitan Learning Center,38.18%,,N,,694,265
-ct,24100,CREC,64,"Greater Hartford Academy of the
-Arts High School",45.22%,,N,,429,194
-ct,24100,CREC,04-7,"International Magnet School for
-Global Citizenship",43.07%,,N,,462,199
-ct,24100,CREC,01-19,John Allison Polaris Center,60.29%,,Y,62.50%,68,41
-ct,24100,CREC,03-10,"Reggio Emilia Magnet School for the
-Arts",48.04%,,N,,510,245
-ct,24100,CREC,02-10,"University of Hartford Magnet
-School",42.52%,,N,,468,199
-ct,03300,Cromwell Board of Education,61-16,Cromwell High School,16.95%,,N,,,
-ct,03300,Cromwell Board of Education,51-11,Cromwell Middle School,15.83%,,N,,,
-ct,03300,Cromwell Board of Education,02-11,Edna C. Stevens School,19.10%,,N,,,
-ct,03300,Cromwell Board of Education,03-11,Woodside Intermediate School,21.85%,,N,,,
-ct,30101,CT Technical High School System,15-1,A.I. Prince Technical High School,48.87%,,Y,50.85%,663,324
-ct,30101,CT Technical High School System,11-2,"Bullard Havens Technical High
-School",40.43%,,Y,48.94%,752,304
-ct,30101,CT Technical High School System,19-0,E.C. Goodwin Technical High School,40.92%,,Y,48.94%,633,259
-ct,30101,CT Technical High School System,14-2,Eli Whitney Technical High School,40.75%,,Y,50.85%,562,229
-ct,30101,CT Technical High School System,27,"Ella Grasso Southeastern Technical
-High School",33.83%,,Y,48.94%,467,158
-ct,30101,CT Technical High School System,25-0,"Emmett O'Brien Technical High
-School",31.82%,,N,,594,189
-ct,30101,CT Technical High School System,17-1,H.C. Wilcox Technical High School,38.98%,,N,,744,290
-ct,30101,CT Technical High School System,13-0,H.H. Ellis Technical High School,28.66%,,N,,,
-ct,30101,CT Technical High School System,12-1,Henry Abbott Technical High School,29.34%,,N,,,
-ct,30101,CT Technical High School System,16-1,"Howell Cheney Technical High
-School",34.31%,,N,,615,211
-ct,30101,CT Technical High School System,21-0,J.M. Wright Technical High School,43.73%,,Y,50.85%,407,178
-ct,30101,CT Technical High School System,20-1,Norwich Technical High School,32.13%,,N,,638,205
-ct,30101,CT Technical High School System,22-0,"Oliver Wolcott Technical High
-School",31.95%,,N,,626,200
-ct,30101,CT Technical High School System,26-0,Platt Technical High School,37.56%,,N,,788,296
-ct,30101,CT Technical High School System,18,Vinal Technical High School,34.94%,,N,,395,138
-ct,30101,CT Technical High School System,23,W.F. Kaynor Technical High School,41.73%,,Y,50.85%,774,323
-ct,30101,CT Technical High School System,24,Windham Technical High School,37.07%,,N,,437,162
-ct,03400,Danbury Board of Education,62-1,Alternative Center for Education,63.64%,,Y,45.73%,88,56
-ct,03400,Danbury Board of Education,51-12,Broadview Middle School,41.93%,,Y,45.73%,973,408
-ct,03400,Danbury Board of Education,01-20,Danbury Early Childhood Center,46.37%,,Y,45.73%,179,83
-ct,03400,Danbury Board of Education,61-17,Danbury High School,34.70%,,N,,3052,1059
-ct,03400,Danbury Board of Education,"14(eff
-9/09)",Ellsworth Ave School,56.97%,,Y,45.73%,495,282
-ct,03400,Danbury Board of Education,11-3,Great Plain School,36.02%,,Y,45.73%,322,116
-ct,03400,Danbury Board of Education,02-12,Haystown Avenue School,46.33%,,Y,45.73%,490,227
-ct,03400,Danbury Board of Education,13-1,King  Street Primary School,42.13%,,Y,45.73%,451,190
-ct,03400,Danbury Board of Education,17-2,King Street Intermediate School,39.51%,,Y,45.73%,367,145
-ct,03400,Danbury Board of Education,05-6,Mill Ridge Primary School,36.88%,,Y,45.73%,385,142
-ct,03400,Danbury Board of Education,06-1,Morris Street School,62.28%,,Y,45.73%,342,213
-ct,03400,Danbury Board of Education,08-1,Park Avenue School,47.57%,,Y,45.73%,658,313
-ct,03400,Danbury Board of Education,53-1,Pathways Academy,40.00%,,N,,25,10
-ct,03400,Danbury Board of Education,15-2,Pembroke,38.64%,,Y,45.73%,352,136
-ct,03400,Danbury Board of Education,52-2,Rogers Park Middle School,48.25%,,Y,45.73%,999,482
-ct,03400,Danbury Board of Education,09,"Saint Peter - Sacred Heart Diocesan
-School",52.90%,,Y,45.73%,259,137
-ct,03400,Danbury Board of Education,12-2,Shelter Rock School,41.74%,,Y,45.73%,539,225
-ct,03400,Danbury Board of Education,10-1,South Street School,55.47%,,Y,45.73%,393,218
-ct,03400,Danbury Board of Education,16-2,Stadley Rough School,41.49%,,Y,45.73%,523,217
-ct,03400,Danbury Board of Education,19-1,"Western CT Academy of
-International Studies Magnet",23.99%,,N,,,
-ct,03400,Danbury Board of Education,54,Westside Middle School Academy,29.70%,,N,,,
-ct,03600,Deep River Board of Education,01-21,Deep River Elementary School,27.05%,,N,,,
-ct,03700,Derby Board of Education,06-2,Bradley School,48.58%,,Y,54.41%,247,120
-ct,03700,Derby Board of Education,61-18,Derby High School,54.15%,,Y,54.41%,386,209
-ct,03700,Derby Board of Education,50,Derby Middle School,49.28%,,Y,54.41%,347,171
-ct,03700,Derby Board of Education,04-8,Irving School,71.69%,,Y,54.41%,325,233
-ct,04100,East Haddam Board of Education,01-22,East Haddam Elementary,20.00%,,N,,,
-ct,04100,East Haddam Board of Education,61-19,Nathan Hale-Ray High School,16.10%,,N,,,
-ct,04100,East Haddam Board of Education,51-13,Nathan Hale-Ray Middle School,18.75%,,N,,,
-ct,04200,East Hampton Board of Education,03-12,Center School,17.33%,,N,,,
-ct,04200,East Hampton Board of Education,61-20,East Hampton High School,14.55%,,N,,,
-ct,04200,East Hampton Board of Education,51-14,East Hampton Middle School,13.39%,,N,,,
-ct,04200,East Hampton Board of Education,01-23,Memorial School,17.09%,,N,,,
-ct,04200,East Hampton Board of Education,90-1,"The Learning Center at East
-Hampton",14.29%,,N,,,
-ct,04300,East Hartford Board of Education,09-0,Anne E. Norris School,88.10%,,Y,55.49%,311,274
-ct,04300,East Hartford Board of Education,06-3,Dr. Franklin H. Mayberry School,87.96%,,Y,55.49%,357,314
-ct,04300,East Hartford Board of Education,62-2,East Hartford High School,50.44%,,Y,55.49%,2060,1039
-ct,04300,East Hartford Board of Education,51-15,East Hartford Middle School,67.59%,,Y,55.49%,1083,732
-ct,04300,East Hartford Board of Education,20-2,Governor Wm. Pitkin School,41.67%,,Y,55.49%,336,140
-ct,04300,East Hartford Board of Education,05-7,Hockanum School,78.39%,,Y,55.49%,347,272
-ct,04300,East Hartford Board of Education,22-1,John A. Langford School,78.01%,,Y,55.49%,341,266
-ct,04300,East Hartford Board of Education,04-9,Joseph O. Goodwin School,64.05%,,Y,55.49%,370,237
-ct,04300,East Hartford Board of Education,52-3,Odyssey Community School,27.98%,,N,,,
-ct,04300,East Hartford Board of Education,18-0,Robert J. Obrien School,81.50%,,Y,55.49%,400,326
-ct,04300,East Hartford Board of Education,12-3,Silver Lane School,84.93%,,Y,55.49%,272,231
-ct,04300,East Hartford Board of Education,24-0,"Sunset Ridge School Elementary
-Academy for Arts",47.48%,,Y,55.49%,318,151
-ct,04300,East Hartford Board of Education,10-2,Thomas S. O'Connell School,45.25%,,Y,55.49%,537,243
-ct,04300,East Hartford Board of Education,50-0,Two Rivers Magnet Middle,51.16%,,Y,55.49%,645,330
-ct,04300,East Hartford Board of Education,90-2,Woodland School/Transitional Education Program,76.75%,,Y,55.49%,228,175
-ct,04400,East Haven Board of Education,01-24,Deer Run School,51.41%,,Y,47.72%,249,128
-ct,04400,East Haven Board of Education,13-2,Dominick H. Ferrara School,50.26%,,Y,47.72%,195,98
-ct,04400,East Haven Board of Education,17-3,East Haven Academy,21.58%,,Y,47.72%,315,68
-ct,04400,East Haven Board of Education,61-21,East Haven High School,46.16%,,Y,47.72%,886,409
-ct,04400,East Haven Board of Education,10-3,Grove J. Tuttle School,57.38%,,Y,47.72%,298,171
-ct,04400,East Haven Board of Education,51-16,Joseph Melillo Middle School(East Haven Middle School),52.26%,,Y,47.72%,509,266
-ct,04400,East Haven Board of Education,07-1,Momauguin School,57.14%,,Y,47.72%,301,172
-ct,04400,East Haven Board of Education,18-1,Overbrook School,65.36%,,Y,47.72%,153,100
-ct,04500,East Lyme Board of Education,61-22,East Lyme High School,16.72%,,N,,,
-ct,04500,East Lyme Board of Education,51-17,East Lyme Middle School,19.51%,,N,,,
-ct,04500,East Lyme Board of Education,01-25,Flanders School,18.42%,,N,,,
-ct,04500,East Lyme Board of Education,90-3,LEARN Transition Academy,62.50%,,N,,8,5
-ct,04500,East Lyme Board of Education,04-10,Lillie B. Haynes School,32.89%,,N,,298,98
-ct,04500,East Lyme Board of Education,02-13,Niantic Center School,33.53%,,N,,173,58
-ct,04700,East Windsor Board of Education,01-26,Broad Brook Elementary School,44.07%,,N,,481,212
-ct,04700,East Windsor Board of Education,61-23,East Windsor High School,34.47%,,N,,293,101
-ct,04700,East Windsor Board of Education,03-13,East Windsor Middle School,42.50%,,N,,320,136
-ct,25300,EASTCONN,60,ACT Magnet School,38.33%,,Y,40.25%,120,46
-ct,25300,EASTCONN,03-14,Columbia Horace Porter School,17.02%,,N,,,
-ct,25300,EASTCONN,91-1,EVC,69.84%,,Y,40.25%,126,88
-ct,25300,EASTCONN,01-27,Hampton Elementary School,27.37%,,Y,40.25%,95,26
-ct,25300,EASTCONN,-0,LEAP Program,,,Y,62.50%,8,
-ct,25300,EASTCONN,02-14,Pomfret Community School,13.14%,,N,,,
-ct,25300,EASTCONN,61-24,Quinebaug Middle College,39.10%,,Y,40.25%,156,61
-ct,25300,EASTCONN,04-11,Scotland Elementary School,32.00%,,Y,40.25%,100,32
-ct,24200,"EdAdvance (formerly Education
-Connection)",13-3,Explorations Charter School,63.22%,,Y,54.74%,87,55
-ct,24200,"EdAdvance (formerly Education
-Connection)",01-28,Goshen Center School,25.63%,,N,,,
-ct,24200,"EdAdvance (formerly Education
-Connection)",04-12,James Morris School,25.41%,,N,,,
-ct,24200,"EdAdvance (formerly Education
-Connection)",62-3,Wamogo Regional High School,19.17%,,N,,,
-ct,24200,"EdAdvance (formerly Education
-Connection)",05-8,Warren Elementary School,17.86%,,N,,,
-ct,04800,Ellington Board of Education,01-29,Center School,17.86%,,N,,,
-ct,04800,Ellington Board of Education,02-15,Crystal Lake School,14.15%,,N,,,
-ct,04800,Ellington Board of Education,61-25,Ellington High School,11.70%,,N,,,
-ct,04800,Ellington Board of Education,51-18,"Ellington Middle School (formerly
-Longview)",11.19%,,N,,,
-ct,04800,Ellington Board of Education,06-4,Windermere School,17.73%,,N,,,
-ct,28100,Elm City College Preparatory School,01-30,Elm City College Prep Elementary,79.11%,,Y,49.86%,316,250
-ct,28100,Elm City College Preparatory School,03-15,Elm City College Prep High School,65.82%,,Y,49.86%,158,104
-ct,28100,Elm City College Preparatory School,02-16,Elm City College Prep Middle,97.22%,,Y,49.86%,252,245
-ct,04900,Enfield Board of Education,13-4,Edgar H. Parkman School,36.95%,,N,,341,126
-ct,04900,Enfield Board of Education,16-3,Eli Whitney School,46.13%,,N,,336,155
-ct,04900,Enfield Board of Education,61-26,Enfield High School,26.93%,,N,,,
-ct,04900,Enfield Board of Education,02-17,Enfield Street School,46.33%,,N,,313,145
-ct,04900,Enfield Board of Education,04-13,Hazardville Memorial School,44.19%,,N,,353,156
-ct,04900,Enfield Board of Education,18-2,Henry Barnard School,54.45%,,N,,393,214
-ct,04900,Enfield Board of Education,52-4,John F. Kennedy Middle School,33.42%,,N,,1164,389
-ct,04900,Enfield Board of Education,15-3,Prudence Crandall School,45.24%,,N,,431,195
-ct,05000,Essex Board of Education,01-31,Essex Elementary School,17.99%,,N,,,
-ct,05100,Fairfield Public Schools,02-18,Burr Elementary School,11.66%,,N,,,
-ct,05100,Fairfield Public Schools,01-32,Dwight Elementary School,4.76%,,N,,,
-ct,05100,Fairfield Public Schools,60-0,Fairfield Ludlowe High,9.16%,,N,,,
-ct,05100,Fairfield Public Schools,62-4,Fairfield Warde High School,15.05%,,N,,,
-ct,05100,Fairfield Public Schools,52-5,Fairfield Woods Middle School,12.06%,,N,,,
-ct,05100,Fairfield Public Schools,04-14,Holland Hill School,21.11%,,N,,,
-ct,05100,Fairfield Public Schools,17-4,Jennings School,8.14%,,N,,,
-ct,05100,Fairfield Public Schools,06-5,McKinley School,35.94%,,N,,434,156
-ct,05100,Fairfield Public Schools,07-2,Mill Hill School,3.20%,,N,,,
-ct,05100,Fairfield Public Schools,16-4,North Stratfield School,7.39%,,N,,,
-ct,05100,Fairfield Public Schools,18-3,Osborn Hill School,4.55%,,N,,,
-ct,05100,Fairfield Public Schools,12-4,Riverfield School,4.61%,,N,,,
-ct,05100,Fairfield Public Schools,53-2,Roger Ludlowe Middle School,6.20%,,N,,,
-ct,05100,Fairfield Public Schools,13-5,Sherman School,4.29%,,N,,,
-ct,05100,Fairfield Public Schools,14-3,Stratfield School,8.33%,,N,,,
-ct,05100,Fairfield Public Schools,51-19,Tomlinson Middle School,19.91%,,N,,,
-ct,05200,Farmington Public Schools,04-15,East Farms School,10.39%,,N,,,
-ct,05200,Farmington Public Schools,61-27,Farmington High School,14.59%,,N,,,
-ct,05200,Farmington Public Schools,51-20,Irving A. Robbins Middle School,13.68%,,N,,,
-ct,05200,Farmington Public Schools,02-19,Noah Wallace School,14.18%,,N,,,
-ct,05200,Farmington Public Schools,01-33,Union School,16.22%,,N,,,
-ct,05200,Farmington Public Schools,03-16,West District School,11.80%,,N,,,
-ct,05200,Farmington Public Schools,05-9,"West Woods Upper Elementary
-School",14.03%,,N,,,
-ct,05300,Franklin Public Schools,01-34,Franklin Elementary School,16.78%,,N,,,
-ct,05300,Franklin Public Schools,21-1,Green Valley School of Natchaug (fmr Hickory School-Norwich),50.00%,,N,,18,9
-ct,05400,Glastonbury Public Schools,02-20,Buttonball Lane,10.43%,,N,,,
-ct,05400,Glastonbury Public Schools,01-35,CREC - Glastonbury-East Hartford Elementary Magnet School,41.89%,,N,,444,186
-ct,05400,Glastonbury Public Schools,08-2,Gideon Welles School,12.43%,,N,,,
-ct,05400,Glastonbury Public Schools,61-28,Glastonbury High School,9.73%,,N,,,
-ct,05400,Glastonbury Public Schools,04-16,Hebron Avenue School,7.11%,,N,,,
-ct,05400,Glastonbury Public Schools,06-6,Hopewell School,5.47%,,N,,,
-ct,05400,Glastonbury Public Schools,07-3,Naubuc School,26.60%,,N,,,
-ct,05400,Glastonbury Public Schools,09-1,Nayaug School,7.47%,,N,,,
-ct,05400,Glastonbury Public Schools,52-6,Smith Middle School,8.95%,,N,,,
-ct,06414,Grace S. Webb School,02-21,Grace S. Webb School,57.48%,,Y,57.05%,127,73
-ct,06414,Grace S. Webb School,01-36,Webb School at Cheshire,65.22%,,Y,57.05%,23,15
-ct,05600,Granby Public Schools,61-29,Granby Memorial High School,10.08%,,N,,,
-ct,05600,Granby Public Schools,51-21,Granby Memorial Middle School,10.27%,,N,,,
-ct,05600,Granby Public Schools,04-17,Kelly  Lane Primary School,12.07%,,N,,,
-ct,05600,Granby Public Schools,03-17,Wells Road Intermediate School,9.69%,,N,,,
-ct,29400,Great Oaks Charter School,01-37,Great Oaks Charter School,66.04%,,Y,53.05%,427,282
-ct,05700,Greenwich Public Schools,51-22,Central Middle School,13.53%,,N,,,
-ct,05700,Greenwich Public Schools,02-22,Cos Cob School,11.41%,,N,,,
-ct,05700,Greenwich Public Schools,52-7,Eastern Middle School,4.62%,,N,,,
-ct,05700,Greenwich Public Schools,04-18,Glenville School,7.51%,,N,,,
-ct,05700,Greenwich Public Schools,05-10,Hamilton Avenue School,44.87%,,N,,390,175
-ct,05700,Greenwich Public Schools,13-6,International School at Dundee,5.75%,,N,,,
-ct,05700,Greenwich Public Schools,03-18,Julian Curtiss School,29.81%,,N,,,
-ct,05700,Greenwich Public Schools,06-7,New Lebanon School,53.54%,,N,,254,136
-ct,05700,Greenwich Public Schools,07-4,North Mianus School,3.20%,,N,,,
-ct,05700,Greenwich Public Schools,08-3,North Street School,4.28%,,N,,,
-ct,05700,Greenwich Public Schools,09-2,Old Greenwich School,1.32%,,N,,,
-ct,05700,Greenwich Public Schools,10-4,Parkway School,7.09%,,N,,,
-ct,05700,Greenwich Public Schools,11-4,Riverside School,2.45%,,N,,,
-ct,05700,Greenwich Public Schools,53-3,Western Middle School,26.96%,,N,,,
-ct,05800,Griswold Public Schools,03-19,Griswold Elementary School,44.29%,,N,,630,279
-ct,05800,Griswold Public Schools,04-19,Griswold Intermediate School,32.22%,,N,,537,173
-ct,05800,Griswold Public Schools,51-23,Griswold Senior High School,26.32%,,N,,,
-ct,05800,Griswold Public Schools,62-5,Griwold Alternative School,55.56%,,N,,18,10
-ct,05900,Groton Public Schools,53-4,Carl C. Cutler Middle School,48.18%,,N,,494,238
-ct,05900,Groton Public Schools,05-11,"Catherine Kolnaski Elementary
-School",64.71%,,Y,41.18%,425,275
-ct,05900,Groton Public Schools,18-4,Charles Barnum School,30.64%,,N,,359,110
-ct,05900,Groton Public Schools,03-20,Claude Chester School,81.27%,,Y,44.13%,347,282
-ct,05900,Groton Public Schools,61-30,Fitch Senior High School,48.47%,,N,,1044,506
-ct,05900,Groton Public Schools,17-5,Mary Morrisson School,33.33%,,N,,384,128
-ct,05900,Groton Public Schools,09-3,"Northeast Academy Elementary
-School",34.32%,,N,,405,139
-ct,05900,Groton Public Schools,01-38,S.B. Butler School,47.00%,,N,,317,149
-ct,05900,Groton Public Schools,52-8,West Side Middle School,57.11%,,Y,44.13%,471,269
-ct,06000,Guilford Public Schools,07-5,A. Baldwin Middle School,9.62%,,N,,,
-ct,06000,Guilford Public Schools,06-8,A.W. Cox School,11.74%,,N,,,
-ct,06000,Guilford Public Schools,04-20,Calvin Leete School,8.33%,,N,,,
-ct,06000,Guilford Public Schools,51-24,E.C. Adams Middle School,7.53%,,N,,,
-ct,06000,Guilford Public Schools,61-31,Guilford High School,7.86%,,N,,,
-ct,06000,Guilford Public Schools,02-23,Guilford Lakes School,4.73%,,N,,,
-ct,06000,Guilford Public Schools,03-21,Melissa Jones School,10.00%,,N,,,
-ct,06200,Hamden Public Schools,12-5,Bear Path School,18.49%,,N,,,
-ct,06200,Hamden Public Schools,02-24,Church Street School,58.23%,,N,,316,184
-ct,06200,Hamden Public Schools,03-22,Dunbar Hill School,36.54%,,N,,301,110
-ct,06200,Hamden Public Schools,61-32,Hamden High School,30.50%,,N,,1541,470
-ct,06200,Hamden Public Schools,52-9,Hamden Middle School,31.93%,,N,,924,295
-ct,06200,Hamden Public Schools,04-21,Helen Street School,52.87%,,N,,331,175
-ct,06200,Hamden Public Schools,11-5,Ridge Hill School,52.42%,,N,,330,173
-ct,06200,Hamden Public Schools,01-39,Shepherd Glen School,46.49%,,N,,299,139
-ct,06200,Hamden Public Schools,10-5,Spring Glen School,18.51%,,N,,,
-ct,06200,Hamden Public Schools,14-4,West Woods School,10.64%,,N,,,
-ct,06400,Hartford Public Schools,13-7,"Achievement First Hartford
-Academy, Inc.",36.08%,,Y,62.50%,1139,411
-ct,06400,Hartford Public Schools,01-40,America's Choice at SAND,87.33%,,Y,62.50%,363,317
-ct,06400,Hartford Public Schools,07-6,Asian Studies Academy @ Belizzi (Asian Studies@Dwight/Belizzi),76.21%,,Y,62.50%,601,458
-ct,06400,Hartford Public Schools,28-0,"Betances Early Reading Lab Magnet
-School",50.93%,,Y,62.50%,375,191
-ct,06400,Hartford Public Schools,38-0,Betances STEM Magnet School,54.64%,,Y,62.50%,291,159
-ct,06400,Hartford Public Schools,35,Breakthrough II Magnet North School (Breakthrough II Magnet),52.19%,,Y,62.50%,297,155
-ct,06400,Hartford Public Schools,98,Breakthrough Magnet South School (formerly Breakthrough Academy),44.35%,,Y,62.50%,345,153
-ct,06400,Hartford Public Schools,61-33,"Bulkeley High School - Upper &
-Lower",69.28%,,Y,62.50%,625,433
-ct,06400,Hartford Public Schools,06-9,Burns Latino Studies Academy,81.95%,,Y,62.50%,615,504
-ct,06400,Hartford Public Schools,23-0,Burr School,83.92%,,Y,62.50%,572,480
-ct,06400,Hartford Public Schools,69,Capital Preparatory Magnet School,56.61%,,Y,62.50%,507,287
-ct,06400,Hartford Public Schools,39-0,"Capitol Community College Magnet
-Academy",54.55%,,N,,11,6
-ct,06400,Hartford Public Schools,91-2,Classical Magnet School,41.25%,,Y,62.50%,497,205
-ct,06400,Hartford Public Schools,63-1,Culinary Arts Academy at Weaver (formerly Weaver/Journalism and Media High),76.19%,,Y,62.50%,21,16
-ct,06400,Hartford Public Schools,09-4,Environmental Sciences Magnet@ Mary Hooker (Hooker Env.Studies),46.32%,,Y,62.50%,585,271
-ct,06400,Hartford Public Schools,32-0,Expeditionary Learning Academy @ Moylan (formerly Moylan School),76.71%,,Y,62.50%,554,425
-ct,06400,Hartford Public Schools,36-0,Global Communications Academy,75.77%,,Y,62.50%,615,466
-ct,06400,Hartford Public Schools,79,Great Path Academy at MCC,52.24%,,Y,62.50%,312,163
-ct,06400,Hartford Public Schools,54-0,Hartford Magnet Trinity College Academy(Htfd. Magnet Middle),34.23%,,Y,62.50%,1408,482
-ct,06400,Hartford Public Schools,37-0,"Hartford Montessori Magnet School
-at Fisher School",34.62%,,Y,62.50%,338,117
-ct,06400,Hartford Public Schools,02-25,"Hartford PreK Magnet School
-(formerly PreK Magnet)",36.96%,,Y,62.50%,138,51
-ct,06400,Hartford Public Schools,62-6,Hartford Public High School,70.51%,,Y,62.50%,1163,820
-ct,06400,Hartford Public Schools,68,High Road School in Hartford High,70.27%,,Y,62.50%,37,26
-ct,06400,Hartford Public Schools,27-0,"High Road School of Hartford
-Primary",86.84%,,Y,62.50%,38,33
-ct,06400,Hartford Public Schools,76,"High School, Inc.",74.87%,,N,,195,146
-ct,06400,Hartford Public Schools,77,"Journalism and Media Magnet
-School",69.94%,,N,,163,114
-ct,06400,Hartford Public Schools,40-0,Jumoke Academy,52.57%,,Y,62.50%,738,388
-ct,06400,Hartford Public Schools,10-6,Kennelly School,70.99%,,Y,62.50%,648,460
-ct,06400,Hartford Public Schools,11-6,Kinsella Magnet School of Performing Arts (Kinsella School),54.07%,,Y,62.50%,799,432
-ct,06400,Hartford Public Schools,08-4,M.D. Fox School,79.63%,,Y,62.50%,643,512
-ct,06400,Hartford Public Schools,16-5,M.L. King School,76.34%,,Y,62.50%,186,142
-ct,06400,Hartford Public Schools,12-6,McDonough School,78.66%,,Y,62.50%,314,247
-ct,06400,Hartford Public Schools,19-2,Milner School,89.68%,,Y,62.50%,349,313
-ct,06400,Hartford Public Schools,05-12,"Montessori Magnet at Moylan
-School",45.92%,,Y,62.50%,331,152
-ct,06400,Hartford Public Schools,31-0,Montessori Magnet School (CREC),18.39%,,Y,62.50%,348,64
-ct,06400,Hartford Public Schools,14-5,Naylor School,70.57%,,Y,62.50%,564,398
-ct,06400,Hartford Public Schools,15-4,Parkville Community School,77.80%,,Y,62.50%,491,382
-ct,06400,Hartford Public Schools,66,"Pathways Academy of Technology
-and Design",52.17%,,Y,62.50%,414,216
-ct,06400,Hartford Public Schools,17-6,Rawson  Elementary School,77.75%,,Y,62.50%,409,318
-ct,06400,Hartford Public Schools,41-0,"Renzulli Gifted and Talented
-Academy (formerly Renzulli Academy)",58.20%,,Y,62.50%,122,71
-ct,06400,Hartford Public Schools,30-0,Sanchez School,84.06%,,Y,62.50%,414,348
-ct,06400,Hartford Public Schools,64-0,"Sports and Medical Sciences
-Academy (Sports Sciences Academy)",46.62%,,Y,62.50%,665,310
-ct,06400,Hartford Public Schools,25-1,STEM Magnet at Fisher School,34.86%,,Y,62.50%,350,122
-ct,06400,Hartford Public Schools,99-0,University High School,38.50%,,Y,62.50%,413,159
-ct,06400,Hartford Public Schools,20-3,Webster MicroSociety Magnet School (formerly Webster School),45.30%,,Y,62.50%,607,275
-ct,06400,Hartford Public Schools,21-2,West Middle School,76.30%,,Y,62.50%,519,396
-ct,06400,Hartford Public Schools,22-2,"Wish Museum School (formerly
-Wish School)",86.82%,,Y,62.50%,493,428
-ct,06500,Hartland Public Schools,01-41,Hartland Elementary School,20.27%,,N,,,
-ct,06700,Hebron Public Schools,02-26,Gilead Hill School,9.47%,,N,,,
-ct,06700,Hebron Public Schools,01-42,Hebron Elementary School,10.51%,,N,,,
-ct,28600,"Highville Charter School, Inc.",01-43,"Highville Charter School, Inc.",50.21%,,Y,44.12%,482,242
-ct,26400,Integrated Day Charter School,01-44,Integrated Day Charter School,35.31%,,N,,337,119
-ct,26500,"Interdistrict School for Arts and
-Communication",52-10,"ISAAC (Interdistrict School for Arts
-and Communication)",58.08%,,Y,58.53%,260,151
-ct,06800,Kent Center School,01-45,Kent Center School,23.11%,,N,,,
-ct,06900,Killingly Public Schools,70,Goodyear Early Childhood Center,83.85%,,N,,130,109
-ct,06900,Killingly Public Schools,01-46,Killingly Central School,60.51%,,N,,395,239
-ct,06900,Killingly Public Schools,61-34,Killingly High School,28.34%,,N,,,
-ct,06900,Killingly Public Schools,52-11,Killingly Intermediate School,45.33%,,N,,653,296
-ct,06900,Killingly Public Schools,03-23,Killingly Memorial School,49.20%,,N,,500,246
-ct,98601,Klingberg Family Center,01-47,Raymond Hill School,70.50%,,Y,55.65%,139,98
-ct,24500,LEARN,60-1,Connecticut River Academy,46.45%,,N,,465,216
-ct,24500,LEARN,50-1,"Dual Language and Arts Magnet
-Middle School",54.93%,,N,,142,78
-ct,24500,LEARN,07-7,Friendship School,53.70%,,N,,486,261
-ct,24500,LEARN,61-35,Marine Science Magnet High School,14.66%,,N,,,
-ct,24500,LEARN,01-48,"Regional Multicultural Magnet
-School",45.45%,,N,,506,230
-ct,24500,LEARN,03-24,Riverside Magnet School at Goodwin College (name change),52.09%,,N,,455,237
-ct,24500,LEARN,14-6,"The Ocean Avenue Learning
-Academy",41.07%,,N,,56,23
-ct,24500,LEARN,62-7,"Three Rivers Middle College High
-School",32.81%,,N,,64,21
-ct,07100,Lebanon Public Schools,01-49,Lebanon Elementary School,21.66%,,N,,,
-ct,07100,Lebanon Public Schools,51-25,Lebanon Middle School,28.15%,,N,,,
-ct,07100,Lebanon Public Schools,62-8,Lyman Memorial High School,20.00%,,N,,,
-ct,07200,Ledyard Public Schools,02-27,Gales Ferry School,8.80%,,N,,,
-ct,07200,Ledyard Public Schools,04-22,Gallup Hill School,12.38%,,N,,,
-ct,07200,Ledyard Public Schools,03-25,Juliet W. Long School,12.96%,,N,,,
-ct,07200,Ledyard Public Schools,01-50,Ledyard Center School,8.57%,,N,,,
-ct,07200,Ledyard Public Schools,61-36,Ledyard High School,10.09%,,N,,,
-ct,07200,Ledyard Public Schools,51-26,Ledyard Middle School,7.18%,,N,,,
-ct,07300,Lisbon Public Schools,01-51,Lisbon Central School,31.40%,,N,,379,119
-ct,07400,Litchfield Public Schools,02-28,Litchfield Center School,24.04%,,N,,,
-ct,07400,Litchfield Public Schools,61-37,Litchfield High School,10.69%,,N,,,
-ct,07400,Litchfield Public Schools,03-26,Litchfield Intermediate School,15.10%,,N,,,
-ct,07400,Litchfield Public Schools,60-2,Litchfield Middle School,14.39%,,N,,,
-ct,07700,Manchester Public Schools,01-52,Bowers School,43.15%,,N,,343,148
-ct,07700,Manchester Public Schools,03-27,Buckley School,35.53%,,N,,380,135
-ct,07700,Manchester Public Schools,17-7,Elisabeth Bennet Academy,50.22%,,N,,908,456
-ct,07700,Manchester Public Schools,04-23,Highland Park Elementary School,38.10%,,N,,231,88
-ct,07700,Manchester Public Schools,53-5,Illing Middle School,48.69%,,N,,803,391
-ct,07700,Manchester Public Schools,06-10,Keeney School,36.18%,,N,,293,106
-ct,07700,Manchester Public Schools,61-38,Manchester High School,43.13%,,N,,1667,719
-ct,07700,Manchester Public Schools,80,Manchester Pre-School Center,84.38%,,Y,60.69%,192,162
-ct,07700,Manchester Public Schools,16-6,Martin School,46.72%,,Y,60.69%,229,107
-ct,07700,Manchester Public Schools,52-12,Saint Bridget School,4.69%,,N,,,
-ct,07700,Manchester Public Schools,05-13,Saint James School,0.32%,,N,,,
-ct,07700,Manchester Public Schools,12-7,Verplanck Elementary School,90.34%,,Y,60.69%,290,262
-ct,07700,Manchester Public Schools,13-8,Waddell Elementary School,49.04%,,Y,60.69%,469,230
-ct,07700,Manchester Public Schools,14-7,Washington School,67.08%,,N,,240,161
-ct,07800,Mansfield Public Schools,04-24,Annie E. Vinton School,25.71%,,N,,,
-ct,07800,Mansfield Public Schools,02-29,Dorothy C. Goodwin School,22.22%,,N,,,
-ct,07800,Mansfield Public Schools,61-39,Edwin O. Smith High School,19.84%,,N,,,
-ct,07800,Mansfield Public Schools,51-27,Mansfield Middle School,21.51%,,N,,,
-ct,07800,Mansfield Public Schools,05-14,Southeast Elementary School,28.48%,,N,,,
-ct,07900,Marlborough Public Schools,01-53,"Elmer Thienes-Mary Hall
-Elementary/formerly Marlborough Elem.",11.55%,,N,,,
-ct,08000,Meriden Public Schools,01-54,Benjamin Franklin School,56.23%,,Y,55.92%,393,221
-ct,08000,Meriden Public Schools,11-7,Casimir Pulaski School,71.96%,,Y,61.58%,592,426
-ct,08000,Meriden Public Schools,61-40,Francis T. Maloney High School,51.22%,,Y,61.58%,1310,671
-ct,08000,Meriden Public Schools,03-28,Hanover School,52.06%,,Y,52.26%,509,265
-ct,08000,Meriden Public Schools,04-25,Israel Putnam School,62.82%,,Y,61.58%,511,321
-ct,08000,Meriden Public Schools,05-15,John Barry School,77.04%,,Y,61.58%,514,396
-ct,08000,Meriden Public Schools,52-13,Lincoln Middle School,58.04%,,Y,61.58%,784,455
-ct,08000,Meriden Public Schools,07-8,Nathan Hale School,52.65%,,Y,52.26%,585,308
-ct,08000,Meriden Public Schools,62-9,Orville H. Platt High School,60.44%,,Y,61.58%,958,579
-ct,08000,Meriden Public Schools,08-5,Roger Sherman School,67.97%,,Y,61.58%,487,331
-ct,08000,Meriden Public Schools,51-28,"Thomas Edison Magnet Middle
-School",56.05%,,Y,55.92%,694,389
-ct,08000,Meriden Public Schools,10-7,Thomas Hooker School,42.39%,,Y,41.77%,401,170
-ct,08000,Meriden Public Schools,54-1,Washington Middle School,52.35%,,Y,52.26%,808,423
-ct,08300,Middletown Public Schools,02-30,Bielefield School,39.36%,,Y,51.65%,282,111
-ct,08300,Middletown Public Schools,05-16,Farm Hill School,40.69%,,Y,51.65%,317,129
-ct,08300,Middletown Public Schools,15-5,Keigwin Annex,32.92%,,Y,51.65%,319,105
-ct,08300,Middletown Public Schools,13-9,Lawrence School,22.03%,,N,,,
-ct,08300,Middletown Public Schools,09-5,MacDonough School,45.79%,,Y,51.65%,214,98
-ct,08300,Middletown Public Schools,62-10,Middletown High School,31.31%,,N,,1354,424
-ct,08300,Middletown Public Schools,12-8,Moody School,18.18%,,N,,,
-ct,08300,Middletown Public Schools,11-8,Snow School,47.06%,,Y,51.65%,289,136
-ct,08300,Middletown Public Schools,01-55,Spencer School,51.19%,,Y,51.65%,295,151
-ct,08300,Middletown Public Schools,14-8,Wesley School,26.56%,,N,,,
-ct,08300,Middletown Public Schools,54-2,Woodrow Wilson Middle School,34.19%,,Y,51.65%,620,212
-ct,08400,Milford Public Schools,01-56,Calf Pen Meadow School,18.75%,,N,,,
-ct,08400,Milford Public Schools,51-29,East Shore Middle School,20.35%,,N,,,
-ct,08400,Milford Public Schools,52-14,Harborside Middle School,14.78%,,N,,,
-ct,08400,Milford Public Schools,19-3,J.F. Kennedy School,27.87%,,N,,,
-ct,08400,Milford Public Schools,62-11,Jonathan Law High School,23.71%,,N,,,
-ct,08400,Milford Public Schools,63-2,Joseph A. Foran High School,19.03%,,N,,,
-ct,08400,Milford Public Schools,16-7,Live Oaks School,24.07%,,N,,,
-ct,08400,Milford Public Schools,17-8,Mathewson School,16.04%,,N,,,
-ct,08400,Milford Public Schools,07-9,Meadowside School,24.90%,,N,,,
-ct,08400,Milford Public Schools,08-6,Orange Avenue School,21.89%,,N,,,
-ct,08400,Milford Public Schools,18-5,Orchard Hills School,23.53%,,N,,,
-ct,08400,Milford Public Schools,10-8,Pumpkin Delight School,37.56%,,N,,221,83
-ct,08400,Milford Public Schools,53-6,West Shore Middle School,28.63%,,N,,,
-ct,08500,Monroe Public Schools,05-17,Fawn Hollow Elementary School,10.24%,,N,,,
-ct,08500,Monroe Public Schools,52-15,Jockey Hollow School,10.42%,,N,,,
-ct,08500,Monroe Public Schools,01-57,Monroe Elementary School,9.04%,,N,,,
-ct,08500,Monroe Public Schools,03-29,Stepney Elementary School,8.92%,,N,,,
-ct,08600,Montville Public Schools,07-10,Charles E. Murphy School,43.83%,,N,,324,142
-ct,08600,Montville Public Schools,51-30,Leonard J. Tyl Middle School,27.12%,,N,,,
-ct,08600,Montville Public Schools,01-58,Mohegan School,39.66%,,N,,353,140
-ct,08600,Montville Public Schools,61-41,Montville High School,20.59%,,N,,,
-ct,08600,Montville Public Schools,05-18,Oakdale School,27.21%,,N,,,
-ct,08800,Naugatuck Public Schools,08-7,Andrew Avenue School,57.72%,,Y,42.46%,246,142
-ct,08800,Naugatuck Public Schools,51-31,City Hill Middle School,42.38%,,Y,42.46%,682,289
-ct,08800,Naugatuck Public Schools,02-31,Cross Street School,33.64%,,Y,42.46%,330,111
-ct,08800,Naugatuck Public Schools,52-16,Hillside Intermediate School,52.73%,,Y,42.46%,330,174
-ct,08800,Naugatuck Public Schools,04-26,Hop Brook School,50.93%,,Y,42.46%,322,164
-ct,08800,Naugatuck Public Schools,03-30,Maple Hill School,32.05%,,Y,42.46%,493,158
-ct,08800,Naugatuck Public Schools,61-42,Naugatuck High School,38.67%,,Y,42.46%,1267,490
-ct,08800,Naugatuck Public Schools,06-11,Salem School,53.53%,,Y,42.46%,269,144
-ct,08800,Naugatuck Public Schools,07-11,Western School,42.38%,,Y,42.46%,269,114
-ct,28000,"New Beginnings Family Academy, Inc.",01-59,New Beginnings Family Academy,67.10%,,Y,62.50%,462,310
-ct,08900,New Britain Public Schools,03-31,Chamberlain School,79.29%,,Y,62.50%,507,402
-ct,08900,New Britain Public Schools,11-9,Diloreto Magnet School,66.07%,,Y,62.50%,840,555
-ct,08900,New Britain Public Schools,05-19,Gaffney School,68.25%,,Y,62.50%,567,387
-ct,08900,New Britain Public Schools,54-3,HALS Academy,35.57%,,Y,62.50%,149,53
-ct,08900,New Britain Public Schools,06-12,Holmes School,53.05%,,Y,62.50%,541,287
-ct,08900,New Britain Public Schools,07-12,Jefferson School,69.89%,,Y,62.50%,455,318
-ct,08900,New Britain Public Schools,08-8,Lincoln School,75.67%,,Y,62.50%,748,566
-ct,08900,New Britain Public Schools,61-43,New Britain High School,64.43%,,Y,62.50%,2359,1520
-ct,08900,New Britain Public Schools,09-6,Northend School,78.47%,,Y,62.50%,274,215
-ct,08900,New Britain Public Schools,53-7,Pulaski Middle School,74.60%,,Y,62.50%,874,652
-ct,08900,New Britain Public Schools,52-17,Slade Middle School,72.22%,,Y,62.50%,871,629
-ct,08900,New Britain Public Schools,12-9,Smalley Academy,82.16%,,Y,62.50%,768,631
-ct,08900,New Britain Public Schools,13-10,Smith School,73.22%,,Y,62.50%,646,473
-ct,08900,New Britain Public Schools,04-27,"Solterra Academy (formerly CT
-Children's Medical School)",0.00%,,Y,62.50%,174,0
-ct,08900,New Britain Public Schools,10-9,"The Academy of Science and
-Innovation(Med. Prof. & Teacher Prep)",48.08%,,Y,62.50%,780,375
-ct,08900,New Britain Public Schools,90-4,Transitional Center,71.74%,,Y,62.50%,46,33
-ct,08900,New Britain Public Schools,15-6,Vance School,74.73%,,Y,62.50%,463,346
-ct,09100,New Fairfield Public Schools,01-60,Consolidated School,16.06%,,N,,,
-ct,09100,New Fairfield Public Schools,02-32,Meeting House Hill School,11.99%,,N,,,
-ct,09100,New Fairfield Public Schools,61-44,New Fairfield High School,12.28%,,N,,,
-ct,09200,New Hartford School Lunch,03-32,Ann Antolini School,12.21%,,N,,,
-ct,09200,New Hartford School Lunch,01-61,Bakerville Consolidated School,7.69%,,N,,,
-ct,09200,New Hartford School Lunch,02-33,New Hartford Elementary School,22.22%,,N,,,
-ct,09300,New Haven School Lunch,02-34,"Barnard Environmental Magnet
-School",69.33%,,Y,62.50%,525,364
-ct,09300,New Haven School Lunch,03-33,Beecher School,58.92%,,Y,62.50%,482,284
-ct,09300,New Haven School Lunch,04-28,"Brennan /Rogers School of
-Communication and Media",82.72%,,Y,62.50%,492,407
-ct,09300,New Haven School Lunch,06-13,Clinton Avenue School,83.85%,,Y,62.50%,483,405
-ct,09300,New Haven School Lunch,07-13,Hill Central Music Academy,78.97%,,Y,62.50%,485,383
-ct,09300,New Haven School Lunch,08-9,"Strong 21st Century
-Communications Magnet & SCS Lab School",84.93%,,Y,62.50%,292,248
-ct,09300,New Haven School Lunch,09-7,"Davis 21st Century Magnet
-Elementary",40.28%,,Y,62.50%,509,205
-ct,09300,New Haven School Lunch,10-10,Booker T Washington Academy,45.61%,,Y,62.50%,353,161
-ct,09300,New Haven School Lunch,12-10,Edgewood School,47.50%,,Y,62.50%,440,209
-ct,09300,New Haven School Lunch,14-9,Nathan Hale School,48.15%,,Y,62.50%,540,260
-ct,09300,New Haven School Lunch,-1,Booker T Washington Academy (Middle),,,Y,62.50%,56,
-ct,09300,New Haven School Lunch,17-9,"Science & Engineering University
-Magnet School",28.08%,,Y,62.50%,584,164
-ct,09300,New Haven School Lunch,18-6,Benjamin Jepson Magnet School,58.26%,,Y,62.50%,539,314
-ct,09300,New Haven School Lunch,20-4,Lincoln-Bassett Community School,90.37%,,Y,62.50%,405,366
-ct,09300,New Haven School Lunch,25-2,"Vincent E. Mauro Math, Science and
-Tech. Magnet",57.48%,,Y,62.50%,555,319
-ct,09300,New Haven School Lunch,27-1,"Dr. Reginald Mayo Early Learing
-Center",81.67%,,Y,62.50%,420,343
-ct,09300,New Haven School Lunch,28-1,John S. Martinez School,79.45%,,Y,62.50%,550,437
-ct,09300,New Haven School Lunch,29,Truman School,75.26%,,Y,62.50%,570,429
-ct,09300,New Haven School Lunch,31-1,Conte/West Hill Magnet,69.97%,,Y,62.50%,666,466
-ct,09300,New Haven School Lunch,32-1,Wexler/Grant Community School,91.11%,,Y,62.50%,371,338
-ct,09300,New Haven School Lunch,33,Ross/Woodward School,64.33%,,Y,62.50%,656,422
-ct,09300,New Haven School Lunch,35-0,Quinnipiac Real World Math STEM School (Quinnipiac School),77.98%,,Y,62.50%,277,216
-ct,09300,New Haven School Lunch,38-1,Worthington Hooker School,19.21%,,Y,62.50%,453,87
-ct,09300,New Haven School Lunch,39-1,John C. Daniels School,55.03%,,Y,62.50%,527,290
-ct,09300,New Haven School Lunch,41-1,Columbus Family Academy,73.77%,,Y,62.50%,507,374
-ct,09300,New Haven School Lunch,43,Bishop Woods School,71.66%,,Y,62.50%,441,316
-ct,09300,New Haven School Lunch,44-0,Elm City Montessori School,49.02%,,Y,62.50%,204,100
-ct,09300,New Haven School Lunch,46-0,"East Rock Community Magnet
-School",66.92%,,Y,62.50%,526,352
-ct,09300,New Haven School Lunch,49,West Rock Authors' Academy (formerly MicroSociety Magnet),72.50%,,Y,62.50%,200,145
-ct,09300,New Haven School Lunch,52-18,Fair Haven Middle School,77.94%,,Y,62.50%,834,650
-ct,09300,New Haven School Lunch,54-4,Augusta Lewis Troup School (Troup Magnet Academy of Sciences),89.60%,,Y,62.50%,452,405
-ct,09300,New Haven School Lunch,55,Betsy Ross Arts Magnet School,56.31%,,Y,62.50%,444,250
-ct,09300,New Haven School Lunch,57,King/Robinson Magnet School,66.80%,,Y,62.50%,503,336
-ct,09300,New Haven School Lunch,58,Clemente Leadership Academy,86.91%,,Y,62.50%,466,405
-ct,09300,New Haven School Lunch,61-45,Wilbur Cross High School,59.95%,,Y,62.50%,1633,979
-ct,09300,New Haven School Lunch,62-12,James Hillhouse High School,71.46%,,Y,62.50%,946,676
-ct,09300,New Haven School Lunch,63-3,Hill Regional Career High School,56.93%,,Y,62.50%,685,390
-ct,09300,New Haven School Lunch,64-1,"Cooperative Arts & Humanities High
-School",49.67%,,Y,62.50%,608,302
-ct,09300,New Haven School Lunch,66-0,High School in the Community,64.38%,,Y,62.50%,233,150
-ct,09300,New Haven School Lunch,67,Sound School,32.70%,,Y,62.50%,318,104
-ct,09300,New Haven School Lunch,69-0,Riverside Education Academy,97.44%,,Y,62.50%,117,114
-ct,09300,New Haven School Lunch,70-0,Celentano School,69.85%,,Y,62.50%,408,285
-ct,09300,New Haven School Lunch,71,Metropolitan Business Academy,57.07%,,Y,62.50%,403,230
-ct,09300,New Haven School Lunch,72,New Haven Academy,46.71%,,Y,62.50%,289,135
-ct,09500,New London School Lunch,51-32,Bennie Dover Jackson Middle,64.36%,,Y,62.50%,707,455
-ct,09500,New London School Lunch,02-35,Harbor School,79.93%,,Y,62.50%,284,227
-ct,09500,New London School Lunch,03-34,Jennings School,77.35%,,Y,62.50%,468,362
-ct,09500,New London School Lunch,09-8,Nathan Hale Arts Magnet School,57.96%,,Y,62.50%,540,313
-ct,09500,New London School Lunch,61-46,New London High School,57.09%,,Y,62.50%,995,568
-ct,09500,New London School Lunch,08-10,"Winthrop STEM Elementary Magnet
-School",53.18%,,Y,62.50%,519,276
-ct,09600,New Milford School Lunch,05-20,Hill and Plain School,31.47%,,N,,340,107
-ct,09600,New Milford School Lunch,61-47,New Milford High School,19.51%,,N,,,
-ct,09600,New Milford School Lunch,08-11,Northville Elementary School,20.34%,,N,,,
-ct,09600,New Milford School Lunch,09-9,Sarah Noble Intermediate School,25.71%,,N,,,
-ct,09600,New Milford School Lunch,52-19,Schaghticoke Middle School,22.19%,,N,,,
-ct,09400,Newington Public Schools,06-14,Anna Reynolds School,24.46%,,N,,,
-ct,09400,Newington Public Schools,02-36,Elizabeth Green School,28.28%,,N,,,
-ct,09400,Newington Public Schools,08-12,John Paterson School,23.88%,,N,,,
-ct,09400,Newington Public Schools,53-8,John Wallace Middle School,22.73%,,N,,,
-ct,09400,Newington Public Schools,51-33,Martin Kellogg Middle School,23.33%,,N,,,
-ct,09400,Newington Public Schools,61-48,Newington High School,19.12%,,N,,,
-ct,09400,Newington Public Schools,07-14,Ruth Chaffee School,24.30%,,N,,,
-ct,09700,Newtown School Lunch,01-62,Hawley Elementary School,13.18%,,N,,,
-ct,09700,Newtown School Lunch,04-29,Head O'Meadow Elementary,6.03%,,N,,,
-ct,09700,Newtown School Lunch,03-35,Middle Gate Elementary School,11.39%,,N,,,
-ct,09700,Newtown School Lunch,51-34,Newtown Middle School,8.20%,,N,,,
-ct,09700,Newtown School Lunch,05-21,Reed Intermediate School,9.87%,,N,,,
-ct,09700,Newtown School Lunch,02-37,Sandy Hook Elementary School,12.43%,,N,,,
-ct,09800,Norfolk School Lunch,01-63,Botelle Elementary School,32.53%,,N,,83,27
-ct,09900,North Branford School Lunch,04-30,Jerome Harrison School,20.32%,,N,,,
-ct,09900,North Branford School Lunch,61-49,North Branford High School,14.49%,,N,,,
-ct,09900,North Branford School Lunch,51-35,North Branford Intermediate,15.79%,,N,,,
-ct,09900,North Branford School Lunch,06-15,Totoket Valley Elementary,17.66%,,N,,,
-ct,10000,North Canaan School Lunch,01-64,North Canaan Elementary School,37.74%,,N,,257,97
-ct,10100,North Haven School Lunch,08-13,Clintonville Elementary School,17.66%,,N,,,
-ct,10100,North Haven School Lunch,07-15,Green Acres Elementary School,21.59%,,N,,,
-ct,10100,North Haven School Lunch,02-38,Montowese Elementary School,19.63%,,N,,,
-ct,10100,North Haven School Lunch,61-50,North Haven High School,11.92%,,N,,,
-ct,10100,North Haven School Lunch,52-20,North Haven Middle School,16.80%,,N,,,
-ct,10100,North Haven School Lunch,03-36,Ridge Road Elementary School,14.65%,,N,,,
-ct,10200,North Stonington Lunch,01-65,North Stonington Elementary,27.76%,,N,,,
-ct,10200,North Stonington Lunch,61-51,Wheeler High School,20.27%,,N,,,
-ct,10300,Norwalk School Lunch,62-13,Brien McMahon High School,35.98%,,N,,1829,658
-ct,10300,Norwalk School Lunch,02-39,Brookside Elementary School,47.53%,,N,,425,202
-ct,10300,Norwalk School Lunch,03-37,Columbus Elementary School,31.90%,,N,,348,111
-ct,10300,Norwalk School Lunch,04-31,Cranbury Elementary School,24.94%,,N,,,
-ct,10300,Norwalk School Lunch,20-5,Fox Run Elementary School,40.63%,,N,,411,167
-ct,10300,Norwalk School Lunch,07-16,Jefferson Elementary School,47.77%,,N,,538,257
-ct,10300,Norwalk School Lunch,08-14,Kendall Elementary School,51.01%,,Y,50.22%,494,252
-ct,10300,Norwalk School Lunch,22-3,Marvin Elementary School,48.70%,,N,,423,206
-ct,10300,Norwalk School Lunch,21-3,Naramake Elementary School,42.12%,,N,,368,155
-ct,10300,Norwalk School Lunch,52-21,Nathan Hale Middle School,41.12%,,N,,659,271
-ct,10300,Norwalk School Lunch,06-16,"Norwalk Early ChildHood Program
-(NECC)",21.89%,,N,,,
-ct,10300,Norwalk School Lunch,61-52,Norwalk High School,35.27%,,N,,1752,618
-ct,10300,Norwalk School Lunch,53-9,Ponus Ridge Middle School,47.60%,,N,,687,327
-ct,10300,Norwalk School Lunch,55-0,Roton Middle School,36.50%,,N,,548,200
-ct,10300,Norwalk School Lunch,13-11,Rowayton School,30.17%,,N,,484,146
-ct,10300,Norwalk School Lunch,01-66,Side by Side Community,47.66%,,N,,235,112
-ct,10300,Norwalk School Lunch,23-1,Silvermine Elementary School,49.80%,,N,,490,244
-ct,10300,Norwalk School Lunch,14-10,Tracey School,50.23%,,Y,50.22%,428,215
-ct,10300,Norwalk School Lunch,54-5,West Rocks Middle School,45.70%,,N,,674,308
-ct,10300,Norwalk School Lunch,24-1,Wolfpit School,31.33%,,N,,316,99
-ct,90100,Norwich Free Academy,61-53,Norwich Free Academy,34.81%,,N,,2229,776
-ct,90100,Norwich Free Academy,62-14,Sachem Campus,69.70%,,N,,66,46
-ct,10400,Norwich School Lunch,01-67,Bishop School,69.50%,,Y,62.50%,200,139
-ct,10400,Norwich School Lunch,10-11,Case Street Early Learning Center,62.90%,,Y,62.50%,62,39
-ct,10400,Norwich School Lunch,14-11,John B. Stanton School,68.80%,,Y,62.50%,343,236
-ct,10400,Norwich School Lunch,20-6,John M. Moriarty School,62.50%,,Y,62.50%,416,260
-ct,10400,Norwich School Lunch,51-36,Kelly Middle School,57.87%,,Y,62.50%,648,375
-ct,10400,Norwich School Lunch,08-15,Samuel Huntington School,57.76%,,Y,62.50%,393,227
-ct,10400,Norwich School Lunch,52-22,Teachers' Memorial Middle,66.16%,,Y,62.50%,393,260
-ct,10400,Norwich School Lunch,17-10,Thomas W. Mahan School,52.16%,,Y,62.50%,255,133
-ct,10400,Norwich School Lunch,19-4,Uncas School,72.79%,,Y,62.50%,272,198
-ct,10400,Norwich School Lunch,18-7,Veterans' Memorial School,74.00%,,Y,62.50%,300,222
-ct,10400,Norwich School Lunch,15-7,Wequonnoc School,65.43%,,Y,62.50%,269,176
-ct,10400,Norwich School Lunch,07-17,Wildwood Christian School,22.67%,,N,,,
-ct,10600,Old Saybrook School Lunch,02-40,Kathleen E. Goodwin School,20.69%,,N,,,
-ct,10600,Old Saybrook School Lunch,52-23,Old Saybrook Middle School,17.49%,,N,,,
-ct,10600,Old Saybrook School Lunch,61-54,Old Saybrook Senior High Schol,19.13%,,N,,,
-ct,10600,Old Saybrook School Lunch,01-68,Saint John Catholic School,12.32%,,N,,,
-ct,10700,Orange School Lunch,02-41,Mary L. Tracy School,12.58%,,N,,,
-ct,10700,Orange School Lunch,05-22,Peck Place School,8.77%,,N,,,
-ct,10700,Orange School Lunch,03-38,Race Brook School,11.91%,,N,,,
-ct,10700,Orange School Lunch,04-32,Turkey Hill School,5.44%,,N,,,
-ct,10800,Oxford School Lunch,51-37,Great Oak School,9.05%,,N,,,
-ct,10800,Oxford School Lunch,01-69,Oxford Center School,13.62%,,N,,,
-ct,10800,Oxford School Lunch,60-3,Oxford High School,8.71%,,N,,,
-ct,10800,Oxford School Lunch,03-39,Quaker Farms School,16.58%,,N,,,
-ct,28300,"Park City Prep Charter School, Inc.",51-38,"Park City Prep Charter School, Inc.",59.54%,,Y,58.69%,351,209
-ct,10900,Plainfield Board of Education,01-70,Moosup Elementary School,53.57%,,N,,308,165
-ct,10900,Plainfield Board of Education,51-39,Plainfield Central School,46.27%,,N,,510,236
-ct,10900,Plainfield Board of Education,61-55,Plainfield High School,39.67%,,N,,605,240
-ct,10900,Plainfield Board of Education,03-40,Plainfield Memorial School,47.91%,,N,,311,149
-ct,10900,Plainfield Board of Education,04-33,Shepard Hill Elementary School,54.61%,,N,,456,249
-ct,11000,Plainville Community Schools,04-34,Frank T. Wheeler School,31.51%,,N,,311,98
-ct,11000,Plainville Community Schools,02-42,Linden Street School,47.26%,,N,,402,190
-ct,11000,Plainville Community Schools,05-23,Louis Toffolon School,32.65%,,N,,392,128
-ct,11000,Plainville Community Schools,52-24,Middle School of Plainville,43.32%,,N,,524,227
-ct,11000,Plainville Community Schools,61-56,Plainville High School,35.08%,,N,,707,248
-ct,11100,Plymouth School Lunch,51-40,"Eli Terry Jr. Middle School (formerly
-H Fisher Middle)",29.46%,,N,,,
-ct,11100,Plymouth School Lunch,04-35,Harry S. Fisher Elementary School,40.79%,,N,,331,135
-ct,11100,Plymouth School Lunch,02-43,Plymouth Center School,31.19%,,N,,311,97
-ct,11100,Plymouth School Lunch,61-57,Terryville High School,31.94%,,N,,407,130
-ct,11300,Portland School Lunch,03-41,Brownstone Intermediate School,21.70%,,N,,,
-ct,11300,Portland School Lunch,04-36,Gildersleeve School,29.41%,,N,,,
-ct,11300,Portland School Lunch,61-58,Portland Secondary School,19.80%,,N,,,
-ct,11300,Portland School Lunch,02-44,Valley View School,20.09%,,N,,,
-ct,11400,Preston School Lunch,51-41,Preston Plains School,27.40%,,N,,,
-ct,11400,Preston School Lunch,04-37,Preston Veterans' Memorial School,19.54%,,N,,,
-ct,11600,Putnam Board of Education,03-42,Putnam Elementary School,52.88%,,Y,51.09%,643,340
-ct,11600,Putnam Board of Education,61-59,Putnam High School,44.00%,,N,,275,121
-ct,11600,Putnam Board of Education,51-42,Putnam Middle School,47.29%,,Y,51.09%,277,131
-ct,21000,Region District #10 School Lunch,51-43,Har-Bur Middle School,13.90%,,N,,,
-ct,21000,Region District #10 School Lunch,03-43,Harwinton Consolidated School,14.33%,,N,,,
-ct,21000,Region District #10 School Lunch,02-45,Lake Garda Elementary School,8.87%,,N,,,
-ct,21000,Region District #10 School Lunch,61-60,Lewis S. Mills High School,9.95%,,N,,,
-ct,21100,Region District #11 School Lunch,61-61,Parish Hill High School,31.36%,,N,,220,69
-ct,21200,Region District #12 School Lunch,51-44,Shepaug Valley Middle/High School,14.70%,,N,,,
-ct,21300,Region District #13 School Lunch,61-62,Coginchaug Regional High School,12.98%,,N,,,
-ct,21300,Region District #13 School Lunch,51-45,Frank Ward Strong,12.41%,,N,,,
-ct,21300,Region District #13 School Lunch,01-71,Frederick Brewster School,20.38%,,N,,,
-ct,21300,Region District #13 School Lunch,05-24,John Lyman School,15.09%,,N,,,
-ct,21300,Region District #13 School Lunch,04-38,Middlefield Memorial School,17.04%,,N,,,
-ct,21400,Region District #14 School Lunch,01-72,Bethlehem Elementary School,23.91%,,N,,,
-ct,21400,Region District #14 School Lunch,02-46,Mitchell Elementary School,19.72%,,N,,,
-ct,21400,Region District #14 School Lunch,61-63,Nonnewaug High School,17.08%,,N,,,
-ct,21400,Region District #14 School Lunch,51-46,Woodbury Middle School,16.77%,,N,,,
-ct,21500,Region District #15 School Lunch,04-39,Gainfield Elementary School,16.86%,,N,,,
-ct,21500,Region District #15 School Lunch,07-18,Long Meadow Elementary School,10.48%,,N,,,
-ct,21500,Region District #15 School Lunch,52-25,Memorial Middle School,14.16%,,N,,,
-ct,21500,Region District #15 School Lunch,06-17,Middlebury Elementary School,14.80%,,N,,,
-ct,21500,Region District #15 School Lunch,62-15,Pomperaug Regional High School,9.33%,,N,,,
-ct,21500,Region District #15 School Lunch,05-25,Pomperaug School,12.36%,,N,,,
-ct,21500,Region District #15 School Lunch,51-47,Rochambeau Middle School,10.44%,,N,,,
-ct,21600,Region District #16 School Lunch,01-73,Laurel Ledge School,21.81%,,N,,,
-ct,21600,Region District #16 School Lunch,51-48,Long River Middle School,16.17%,,N,,,
-ct,21600,Region District #16 School Lunch,05-26,Prospect Elementary School,14.33%,,N,,,
-ct,21600,Region District #16 School Lunch,60-4,Woodland Regional High School,15.15%,,N,,,
-ct,21700,Region District #17 School Lunch,02-47,Burr District Elementary School,10.11%,,N,,,
-ct,21700,Region District #17 School Lunch,01-74,Haddam Elementary School,13.97%,,N,,,
-ct,21700,Region District #17 School Lunch,61-64,Haddam-Killingworth High School,8.28%,,N,,,
-ct,21700,Region District #17 School Lunch,51-49,Haddam-Killingworth Middle School,8.78%,,N,,,
-ct,21700,Region District #17 School Lunch,03-44,Killingworth Elementary School,4.56%,,N,,,
-ct,21800,Region District #18 School Lunch,01-75,Lyme Consolidated School,13.59%,,N,,,
-ct,21800,Region District #18 School Lunch,61-65,Lyme-Old Lyme High School,10.81%,,N,,,
-ct,21800,Region District #18 School Lunch,51-50,Lyme-Old Lyme Middle School,16.32%,,N,,,
-ct,21800,Region District #18 School Lunch,02-48,Mile Creek School,18.30%,,N,,,
-ct,20700,Region District #7 School Lunch,61-66,Northwestern Regional High School,12.43%,,N,,,
-ct,20800,Region District #8 School Lunch,61-67,RHAM High School,10.47%,,N,,,
-ct,20800,Region District #8 School Lunch,51-51,RHAM Middle School,13.96%,,N,,,
-ct,20900,Region District #9 School Lunch,52-26,Helen Keller Middle School,7.44%,,N,,,
-ct,20900,Region District #9 School Lunch,61-68,Joel Barlow High School,7.39%,,N,,,
-ct,20900,Region District #9 School Lunch,51-52,John Read Middle School,8.03%,,N,,,
-ct,20900,Region District #9 School Lunch,02-49,Redding Elementary School,5.61%,,N,,,
-ct,20900,Region District #9 School Lunch,01-76,Samuel Staples Elementary School,7.06%,,N,,,
-ct,20100,Regional District #1,61-69,"Housatonic Valley Regional High
-School",25.19%,,N,,,
-ct,20400,Regional District #4 School Lunch,51-53,John Winthrop Junior High School,17.73%,,N,,,
-ct,20400,Regional District #4 School Lunch,61-70,Valley Regional High School,14.67%,,N,,,
-ct,20500,Regional District #5 School Lunch,61-71,Amity Regional High School,12.38%,,N,,,
-ct,20500,Regional District #5 School Lunch,51-54,"Amity Regional Junior High School
-Bethany Campus",13.56%,,N,,,
-ct,20500,Regional District #5 School Lunch,52-27,"Amity Regional Junior High School
-Orange Campus",12.50%,,N,,,
-ct,11800,Ridgefield School Lunch,08-16,Barlow Mountain Elementary,3.51%,,N,,,
-ct,11800,Ridgefield School Lunch,06-18,Branchville Elementary School,5.45%,,N,,,
-ct,11800,Ridgefield School Lunch,51-55,East Ridge Middle School,5.14%,,N,,,
-ct,11800,Ridgefield School Lunch,04-40,Farmingville Elementary School,3.97%,,N,,,
-ct,11800,Ridgefield School Lunch,03-45,Ridgebury Elementary School,4.96%,,N,,,
-ct,11800,Ridgefield School Lunch,05-27,Scotland Elementary School,2.50%,,N,,,
-ct,11800,Ridgefield School Lunch,52-28,Scotts Ridge Middle School,4.68%,,N,,,
-ct,11800,Ridgefield School Lunch,02-50,Veterans Park Elementary,8.48%,,N,,,
-ct,11900,Rocky Hill School Lunch Program,07-19,CREC Academy of Aerospace and Engineering Elementary School,47.36%,,N,,492,233
-ct,11900,Rocky Hill School Lunch Program,51-56,Middle School,16.72%,,N,,,
-ct,11900,Rocky Hill School Lunch Program,04-41,Myrtle H. Stevens School,23.17%,,N,,,
-ct,11900,Rocky Hill School Lunch Program,61-72,Rocky Hill High School,19.57%,,N,,,
-ct,11900,Rocky Hill School Lunch Program,05-28,West Hill School,5.51%,,N,,,
-ct,10401,Sacred Heart School /Norwich,03-46,Sacred Heart,23.49%,,N,,,
-ct,12100,Salem  Board of Education,01-77,Salem School,14.66%,,N,,,
-ct,12200,Salisbury Board of Education,01-78,Salisbury Central School,17.69%,,N,,,
-ct,12400,Seymour School Lunch,01-79,Bungay School,24.49%,,N,,,
-ct,12400,Seymour School Lunch,04-42,"Chatfield-LoPresti Elementary
-School",35.66%,,N,,558,199
-ct,12400,Seymour School Lunch,61-73,Seymour High School,20.42%,,N,,,
-ct,12400,Seymour School Lunch,51-57,Seymour Middle School,25.61%,,N,,,
-ct,12500,Sharon School Lunch,01-80,Sharon Center School,26.32%,,N,,,
-ct,12600,Shelton School Lunch,10-12,Booth Hill School,13.18%,,N,,,
-ct,12600,Shelton School Lunch,05-29,Elizabeth Shelton School,23.24%,,N,,,
-ct,12600,Shelton School Lunch,03-47,Holy Trinity Catholic Academy,10.53%,,N,,,
-ct,12600,Shelton School Lunch,51-58,Intermediate School,20.31%,,N,,,
-ct,12600,Shelton School Lunch,08-17,Long Hill School,37.77%,,N,,376,142
-ct,12600,Shelton School Lunch,09-10,Mohegan School,14.62%,,N,,,
-ct,12600,Shelton School Lunch,11-10,Perry Hill School,23.24%,,N,,,
-ct,12600,Shelton School Lunch,61-74,Shelton High School,22.23%,,N,,,
-ct,12600,Shelton School Lunch,06-19,Sunnyside School,39.91%,,N,,233,93
-ct,12800,Simsbury School Lunch,01-81,Central School,11.50%,,N,,,
-ct,12800,Simsbury School Lunch,51-59,Henry James Memorial School,13.86%,,N,,,
-ct,12800,Simsbury School Lunch,06-20,Latimer Lane School,15.74%,,N,,,
-ct,12800,Simsbury School Lunch,61-75,Simsbury High School,11.65%,,N,,,
-ct,12800,Simsbury School Lunch,07-20,Squadron Line School,11.51%,,N,,,
-ct,12800,Simsbury School Lunch,03-48,Tariffville School,35.97%,,N,,253,91
-ct,12800,Simsbury School Lunch,04-43,Tootin' Hills School,11.32%,,N,,,
-ct,13200,South Windsor Board of Education,07-21,Eli Terry School,13.88%,,N,,,
-ct,13200,South Windsor Board of Education,06-21,Orchard Hill School,12.22%,,N,,,
-ct,13200,South Windsor Board of Education,01-82,Philip R. Smith School,8.70%,,N,,,
-ct,13200,South Windsor Board of Education,02-51,Pleasant Valley School,13.48%,,N,,,
-ct,13200,South Windsor Board of Education,62-16,South Windsor High School,14.21%,,N,,,
-ct,13200,South Windsor Board of Education,51-60,Timothy Edwards School,10.35%,,N,,,
-ct,13100,Southington School Lunch,15-8,Derynoski Elementary School,28.80%,,N,,,
-ct,13100,Southington School Lunch,13-12,Flanders School,28.87%,,N,,,
-ct,13100,Southington School Lunch,02-52,Hatton School,22.88%,,N,,,
-ct,13100,Southington School Lunch,53-10,John F. Kennedy Middle School,17.24%,,N,,,
-ct,13100,Southington School Lunch,51-61,Joseph A. Depaulo Middle School,18.16%,,N,,,
-ct,13100,Southington School Lunch,06-22,Plantsville School,18.49%,,N,,,
-ct,13100,Southington School Lunch,07-22,South End School,19.15%,,N,,,
-ct,13100,Southington School Lunch,62-17,Southington High School,13.96%,,N,,,
-ct,13100,Southington School Lunch,08-18,Strong School,28.43%,,N,,,
-ct,13100,Southington School Lunch,09-11,Thalberg School,19.82%,,N,,,
-ct,13100,Southington School Lunch,14-12,Urbin T. Kelley School,13.16%,,N,,,
-ct,13300,Sprague School Lunch,01-83,Sayles Elementary School,46.10%,,N,,269,124
-ct,04903,St. Bernard School,01-84,St. Bernard School,8.59%,,N,,,
-ct,15504,St. Brigid-St. Augustine School,03-49,St. Brigid-St. Augustine School,55.04%,,Y,47.66%,129,71
-ct,04301,St. Christopher School,51-62,St. Christopher School,10.07%,,N,,,
-ct,06901,St. James School,01-85,St. James School,3.11%,,N,,,
-ct,06204,St. Martin de Porres Academy,51-63,St. Martin de Porres Academy,46.88%,,N,,64,30
-ct,13400,Stafford School Lunch,06-23,Stafford Elementary School,40.52%,,N,,459,186
-ct,13400,Stafford School Lunch,61-76,Stafford High School,25.87%,,N,,,
-ct,13400,Stafford School Lunch,52-29,Stafford Middle School,26.65%,,N,,,
-ct,13400,Stafford School Lunch,03-50,Staffordville School,45.27%,,N,,148,67
-ct,13400,Stafford School Lunch,04-44,West Stafford School,52.82%,,N,,142,75
-ct,28200,Stamford Academy,60-5,Stamford Academy,65.10%,,Y,62.50%,149,97
-ct,13500,Stamford School Lunch,56,Cloonan School,44.79%,,N,,652,292
-ct,13500,Stamford School Lunch,20-7,Davenport Ridge School,30.63%,,N,,640,196
-ct,13500,Stamford School Lunch,53-11,Dolan School,40.71%,,N,,651,265
-ct,13500,Stamford School Lunch,22-4,Hart School,38.44%,,N,,627,241
-ct,13500,Stamford School Lunch,12-11,Julia A. Stark School,38.83%,,N,,613,238
-ct,13500,Stamford School Lunch,05-30,K.T. Murphy School,42.02%,,N,,495,208
-ct,13500,Stamford School Lunch,06-24,Newfield School,38.19%,,N,,529,202
-ct,13500,Stamford School Lunch,18-8,Northeast School,29.28%,,N,,,
-ct,13500,Stamford School Lunch,58-0,Rippowam Middle School,41.84%,,N,,1054,441
-ct,13500,Stamford School Lunch,08-19,Rogers International School,25.12%,,N,,,
-ct,13500,Stamford School Lunch,09-12,Roxbury School,38.99%,,N,,595,232
-ct,13500,Stamford School Lunch,57-0,Scofield Magnet Middle School,31.82%,,N,,660,210
-ct,13500,Stamford School Lunch,11-11,Springdale School,42.39%,,N,,578,245
-ct,13500,Stamford School Lunch,61-77,Stamford High School,33.18%,,N,,1742,578
-ct,13500,Stamford School Lunch,23-2,"Stamford School for Excellence
-Charter School",33.03%,,N,,333,110
-ct,13500,Stamford School Lunch,21-4,Stillmeadow School,38.32%,,N,,655,251
-ct,13500,Stamford School Lunch,64-2,"The Academy of Information
-Technology and Engineering",30.13%,,N,,624,188
-ct,13500,Stamford School Lunch,07-23,The New School (Strawberry Hill),29.14%,,N,,,
-ct,13500,Stamford School Lunch,19-5,Toquam Magnet,44.38%,,N,,649,288
-ct,13500,Stamford School Lunch,55-1,Turn of River School,35.04%,,N,,702,246
-ct,13500,Stamford School Lunch,63-4,Westhill High School,32.79%,,N,,2281,748
-ct,13500,Stamford School Lunch,14-13,Westover School,44.92%,,N,,679,305
-ct,13600,Sterling Board of Education,03-51,Sterling Community School,30.00%,,N,,360,108
-ct,13700,Stonington School Lunch,05-31,Deans Mill School,18.67%,,N,,,
-ct,13700,Stonington School Lunch,52-30,Mystic Middle School,11.40%,,N,,,
-ct,13700,Stonington School Lunch,51-64,Pawcatuck Middle School,34.78%,,N,,276,96
-ct,13700,Stonington School Lunch,61-78,Stonington High School,17.46%,,N,,,
-ct,13700,Stonington School Lunch,06-25,West Vine Street School,46.85%,,N,,286,134
-ct,13800,Stratford School Lunch,62-18,Bunnell High School,28.28%,,N,,,
-ct,13800,Stratford School Lunch,03-52,Chapel School,25.71%,,N,,,
-ct,13800,Stratford School Lunch,52-31,David Wooster Middle School,32.66%,,N,,542,177
-ct,13800,Stratford School Lunch,04-45,Franklin School,46.39%,,Y,44.44%,319,148
-ct,13800,Stratford School Lunch,53-12,Harry B. Flood Middle School,31.61%,,N,,579,183
-ct,13800,Stratford School Lunch,01-86,Institute of Professional Practice Lower and Upper Program,32.05%,,N,,78,25
-ct,13800,Stratford School Lunch,08-20,Lordship School,45.79%,,Y,44.44%,321,147
-ct,13800,Stratford School Lunch,09-13,Nichols School,37.63%,,Y,44.44%,473,178
-ct,13800,Stratford School Lunch,10-13,Second Hill Lane School,38.28%,,Y,44.44%,546,209
-ct,13800,Stratford School Lunch,51-65,Stratford Academy/ Johnson House,49.89%,,Y,44.44%,459,229
-ct,13800,Stratford School Lunch,22-5,Stratford Academy/Victoria Soto School (formerly Honeyspot),49.03%,,Y,44.44%,259,127
-ct,13800,Stratford School Lunch,61-79,Stratford High School,31.74%,,N,,964,306
-ct,13800,Stratford School Lunch,13-13,Whitney School,23.89%,,N,,,
-ct,13800,Stratford School Lunch,14-14,Wilcoxson School,28.68%,,N,,,
-ct,13900,Suffield School Lunch,04-46,A. Ward Spaulding School,12.76%,,N,,,
-ct,13900,Suffield School Lunch,03-53,McAlister Intermediate School,13.81%,,N,,,
-ct,13900,Suffield School Lunch,61-80,Suffield High School,13.21%,,N,,,
-ct,13900,Suffield School Lunch,51-66,Suffield Middle School,13.87%,,N,,,
-ct,26900,The Bridge Academy,61-81,The Bridge Academy,50.38%,,Y,52.31%,262,132
-ct,14000,Thomaston School Lunch,01-87,Black Rock School,26.48%,,N,,,
-ct,14000,Thomaston School Lunch,02-53,Thomaston Center School,19.70%,,N,,,
-ct,14000,Thomaston School Lunch,62-19,Thomaston High School,22.73%,,N,,,
-ct,14100,Thompson School Lunch,01-88,Mary R. Fisher Elementary School,35.87%,,N,,421,151
-ct,14100,Thompson School Lunch,51-67,Thompson Middle School,28.98%,,N,,,
-ct,14100,Thompson School Lunch,61-82,Tourtellotte Memorial High School,25.52%,,N,,,
-ct,14200,Tolland School Lunch,01-89,Birch Grove Primary School,10.80%,,N,,,
-ct,14200,Tolland School Lunch,61-83,Tolland High School,6.03%,,N,,,
-ct,14200,Tolland School Lunch,03-54,Tolland Intermediate School,9.04%,,N,,,
-ct,14200,Tolland School Lunch,51-68,Tolland Middle School,7.92%,,N,,,
-ct,14300,Torrington School Lunch,01-90,East School,62.79%,,N,,86,54
-ct,14300,Torrington School Lunch,02-54,Forbes School,51.80%,,N,,361,187
-ct,14300,Torrington School Lunch,08-21,Southwest School,61.20%,,N,,299,183
-ct,14300,Torrington School Lunch,09-14,Torringford School,53.61%,,N,,651,349
-ct,14300,Torrington School Lunch,61-84,Torrington High School,46.41%,,N,,836,388
-ct,14300,Torrington School Lunch,51-69,Torrington Middle School,47.76%,,N,,1003,479
-ct,14300,Torrington School Lunch,13-14,Vogel-Wetmore School,56.04%,,N,,621,348
-ct,27800,Trailblazers Academy,51-70,Trailblazers Academy,69.35%,,N,,124,86
-ct,14400,Trumbull School Lunch,01-91,Booth Hill School,14.95%,,N,,,
-ct,14400,Trumbull School Lunch,08-22,Daniels Farm School,7.74%,,N,,,
-ct,14400,Trumbull School Lunch,10-14,Frenchtown Elementary,17.43%,,N,,,
-ct,14400,Trumbull School Lunch,52-32,Hillcrest Middle School,10.23%,,N,,,
-ct,14400,Trumbull School Lunch,04-47,Jane Ryan School,7.73%,,N,,,
-ct,14400,Trumbull School Lunch,51-71,Madison Middle School,12.75%,,N,,,
-ct,14400,Trumbull School Lunch,03-55,Middlebrook School,18.57%,,N,,,
-ct,14400,Trumbull School Lunch,09-15,Tashua School,8.33%,,N,,,
-ct,14400,Trumbull School Lunch,61-85,Trumbull High School,9.78%,,N,,,
-ct,14600,Vernon School Lunch,14-15,Center Road School,41.03%,,N,,524,215
-ct,14600,Vernon School Lunch,01-92,Lake Street School,31.74%,,N,,230,73
-ct,14600,Vernon School Lunch,02-55,Maple Street School,69.89%,,Y,53.20%,269,188
-ct,14600,Vernon School Lunch,03-56,Northeast School,42.29%,,Y,53.20%,227,96
-ct,14600,Vernon School Lunch,61-86,Rockville High School,35.04%,,N,,839,294
-ct,14600,Vernon School Lunch,10-15,Skinner Road School,51.04%,,Y,53.20%,335,171
-ct,14600,Vernon School Lunch,51-72,Vernon Center Middle School,41.88%,,N,,714,299
-ct,14700,Voluntown Public Schools,01-93,Voluntown Elementary School,21.69%,,N,,,
-ct,14800,Wallingford Board of Education,10-16,Cook Hill School,36.04%,,N,,369,133
-ct,14800,Wallingford Board of Education,52-33,Dag Hammarskjold School,24.41%,,N,,,
-ct,14800,Wallingford Board of Education,09-16,Evarts C. Stevens School,36.05%,,N,,319,115
-ct,14800,Wallingford Board of Education,02-56,Highland School,23.24%,,N,,,
-ct,14800,Wallingford Board of Education,14-16,Holy Trinity,0.00%,,N,,,
-ct,14800,Wallingford Board of Education,53-13,James H. Moran Middle School,17.87%,,N,,,
-ct,14800,Wallingford Board of Education,61-87,Lyman Hall High School,20.57%,,N,,,
-ct,14800,Wallingford Board of Education,62-20,Mark T. Sheehan High School,17.05%,,N,,,
-ct,14800,Wallingford Board of Education,08-23,Mary Fritz Elementary/formerly Yalesville School,20.94%,,N,,,
-ct,14800,Wallingford Board of Education,01-94,Moses Y. Beach,30.09%,,N,,349,105
-ct,14800,Wallingford Board of Education,03-57,Parker Farms School,39.85%,,N,,271,108
-ct,14800,Wallingford Board of Education,12-12,Pond Hill School,34.94%,,N,,312,109
-ct,14800,Wallingford Board of Education,04-48,Rock Hill School,25.40%,,N,,,
-ct,15100,Waterbury School Lunch,21-5,B. W. Tinker School,64.46%,,Y,62.50%,560,361
-ct,15100,Waterbury School Lunch,05-32,Bucks Hill School,75.75%,,Y,62.50%,866,656
-ct,15100,Waterbury School Lunch,06-26,Bunker Hill School,83.03%,,Y,62.50%,495,411
-ct,15100,Waterbury School Lunch,27-2,Carrington School,61.64%,,Y,62.50%,537,331
-ct,15100,Waterbury School Lunch,62-21,Crosby High School,76.72%,,Y,62.50%,1147,880
-ct,15100,Waterbury School Lunch,09-17,Driggs School,91.92%,,Y,62.50%,495,455
-ct,15100,Waterbury School Lunch,16-8,Duggan School,83.44%,,Y,62.50%,477,398
-ct,15100,Waterbury School Lunch,91-3,Enlightenment/Excel,81.63%,,Y,62.50%,196,160
-ct,15100,Waterbury School Lunch,14-17,F. J. Kingsbury School,78.56%,,Y,62.50%,499,392
-ct,15100,Waterbury School Lunch,26-1,Gilmartin School,69.46%,,Y,62.50%,501,348
-ct,15100,Waterbury School Lunch,07-24,H. S. Chase School,73.41%,,Y,62.50%,820,602
-ct,15100,Waterbury School Lunch,13-15,Hopeville School,79.92%,,Y,62.50%,483,386
-ct,15100,Waterbury School Lunch,64-3,John F. Kennedy High School,72.06%,,Y,62.50%,1181,851
-ct,15100,Waterbury School Lunch,34,Jonathan E. Reed School,86.29%,,Y,62.50%,496,428
-ct,15100,Waterbury School Lunch,31-2,"Maloney Interdistrict Magnet
-School",47.27%,,Y,62.50%,605,286
-ct,15100,Waterbury School Lunch,11-12,"Margaret M. Generali Elementary
-School",77.03%,,Y,62.50%,579,446
-ct,15100,Waterbury School Lunch,30-1,"Mary R. Rotella Interdistrict Magnet
-School",49.19%,,Y,62.50%,614,302
-ct,15100,Waterbury School Lunch,51-73,Michael F. Wallace Middle School,73.32%,,Y,62.50%,1128,827
-ct,15100,Waterbury School Lunch,53-14,North End Middle School,78.74%,,Y,62.50%,1035,815
-ct,15100,Waterbury School Lunch,28-2,Regan School,71.48%,,Y,62.50%,263,188
-ct,15100,Waterbury School Lunch,20-8,Sprague School,85.31%,,Y,62.50%,497,424
-ct,15100,Waterbury School Lunch,90-5,State Street School,85.03%,,Y,62.50%,147,125
-ct,15100,Waterbury School Lunch,22-6,Walsh School,89.78%,,Y,62.50%,401,360
-ct,15100,Waterbury School Lunch,23-3,Washington School,85.62%,,Y,62.50%,313,268
-ct,15100,Waterbury School Lunch,50-2,Waterbury Arts Magnet,42.59%,,Y,62.50%,796,339
-ct,15100,Waterbury School Lunch,67-0,Waterbury Career Academy,53.16%,,Y,62.50%,807,429
-ct,15100,Waterbury School Lunch,08-24,Wendell L. Cross School,65.97%,,Y,62.50%,335,221
-ct,15100,Waterbury School Lunch,52-34,West Side Middle School,75.05%,,Y,62.50%,1086,815
-ct,15100,Waterbury School Lunch,63-5,Wilby High School,77.65%,,Y,62.50%,1011,785
-ct,15100,Waterbury School Lunch,32-2,Woodrow Wilson School,89.62%,,Y,62.50%,453,406
-ct,15200,Waterford School Lunch,51-74,Clark Lane Middle School,22.07%,,N,,,
-ct,15200,Waterford School Lunch,02-57,Great Neck Elementary School,20.69%,,N,,,
-ct,15200,Waterford School Lunch,06-27,Oswegatchie Elementary School,22.49%,,N,,,
-ct,15200,Waterford School Lunch,04-49,Quaker Hill Elementary School,25.26%,,N,,,
-ct,15200,Waterford School Lunch,61-88,Waterford High School,16.67%,,N,,,
-ct,15300,Watertown School Lunch,03-58,Fletcher W. Judson School,17.69%,,N,,,
-ct,15300,Watertown School Lunch,04-50,Polk School,32.59%,,N,,313,102
-ct,15300,Watertown School Lunch,51-75,Swift Junior High School,24.85%,,N,,,
-ct,15300,Watertown School Lunch,02-58,Trumbull School,32.30%,,N,,678,219
-ct,15300,Watertown School Lunch,61-89,Watertown High School,21.17%,,N,,,
-ct,15500,West Hartford School Lunch,16-9,Aiken School,13.41%,,N,,,
-ct,15500,West Hartford School Lunch,02-59,Braeburn School,10.61%,,N,,,
-ct,15500,West Hartford School Lunch,53-15,Bristow Middle School,16.87%,,N,,,
-ct,15500,West Hartford School Lunch,04-51,Bugbee School,8.97%,,N,,,
-ct,15500,West Hartford School Lunch,05-33,Charter Oak School,35.85%,,N,,530,190
-ct,15500,West Hartford School Lunch,61-90,Conard High School,21.72%,,N,,,
-ct,15500,West Hartford School Lunch,06-28,Duffy School,15.17%,,N,,,
-ct,15500,West Hartford School Lunch,62-22,Hall High School,15.60%,,N,,,
-ct,15500,West Hartford School Lunch,51-76,King Philip Middle School,17.52%,,N,,,
-ct,15500,West Hartford School Lunch,09-18,Morley School,9.84%,,N,,,
-ct,15500,West Hartford School Lunch,10-17,Norfeldt School,11.52%,,N,,,
-ct,15500,West Hartford School Lunch,52-35,Sedgwick Middle School,24.72%,,N,,,
-ct,15500,West Hartford School Lunch,17-11,Smith School,37.61%,,N,,351,132
-ct,15500,West Hartford School Lunch,12-13,Webster Hill School,29.68%,,N,,,
-ct,15500,West Hartford School Lunch,13-16,Whiting Lane School,30.85%,,N,,389,120
-ct,15500,West Hartford School Lunch,15-9,Wolcott School,26.13%,,N,,,
-ct,15600,West Haven School Lunch,08-25,Alma E. Pagels School,45.68%,,Y,51.09%,370,169
-ct,15600,West Haven School Lunch,53-16,Carrigan 5/6 Elementary School,51.55%,,Y,51.09%,937,483
-ct,15600,West Haven School Lunch,06-29,Edith E. Mackrille School,41.90%,,Y,51.09%,327,137
-ct,15600,West Haven School Lunch,03-59,Forest School,65.09%,,Y,51.09%,424,276
-ct,15600,West Haven School Lunch,51-77,Harry M. Bailey Middle School,50.35%,,Y,51.09%,993,500
-ct,15600,West Haven School Lunch,14-18,Savin Rock Community School,63.37%,,Y,51.09%,505,320
-ct,15600,West Haven School Lunch,04-52,Seth G. Haley Elementary School,39.90%,,Y,51.09%,391,156
-ct,15600,West Haven School Lunch,70-1,St. Lawrence School,12.89%,,N,,,
-ct,15600,West Haven School Lunch,12-14,Washington School,64.29%,,Y,51.09%,434,279
-ct,15600,West Haven School Lunch,61-91,West Haven High School,46.15%,,Y,45.04%,1597,737
-ct,15400,Westbrook School Lunch,02-60,Daisy Ingraham School,33.86%,,N,,251,85
-ct,15400,Westbrook School Lunch,61-92,Westbrook High School,23.45%,,N,,,
-ct,15400,Westbrook School Lunch,51-78,Westbrook Middle School,20.10%,,N,,,
-ct,15900,Wethersfield School Lunch,08-26,Alfred W. Hanmer School,24.31%,,N,,,
-ct,15900,Wethersfield School Lunch,10-18,Charles Wright School,27.86%,,N,,,
-ct,15900,Wethersfield School Lunch,01-95,Corpus Christi,10.33%,,N,,,
-ct,15900,Wethersfield School Lunch,99-1,CREC - Soundbridge,0.00%,,N,,,
-ct,15900,Wethersfield School Lunch,13-17,CREC Discovery Academy,41.75%,,N,,515,215
-ct,15900,Wethersfield School Lunch,02-61,Emerson-Williams School,22.35%,,N,,,
-ct,15900,Wethersfield School Lunch,11-13,Highcrest School,19.38%,,N,,,
-ct,15900,Wethersfield School Lunch,12-15,Samuel B. Webb Elementary School,30.06%,,N,,336,101
-ct,15900,Wethersfield School Lunch,52-36,Silas Deane Middle School,20.04%,,N,,,
-ct,15900,Wethersfield School Lunch,61-93,Wethersfield High School,16.27%,,N,,,
-ct,16000,Willington Board of Education,01-96,Center School,29.72%,,N,,,
-ct,16000,Willington Board of Education,51-79,Hall Memorial School,20.10%,,N,,,
-ct,16100,Wilton School Lunch,07-25,Cider Mill School,4.31%,,N,,,
-ct,16100,Wilton School Lunch,52-37,Middlebrook School,6.28%,,N,,,
-ct,16100,Wilton School Lunch,05-34,Miller-Driscoll School,4.52%,,N,,,
-ct,16200,Winchester Board of Education,04-53,Batcheller Elementary School,75.72%,,Y,53.13%,243,184
-ct,16200,Winchester Board of Education,51-80,Pearson Middle School,54.98%,,Y,53.13%,291,160
-ct,16300,Windham School Lunch,04-54,Charles H. Barrows STEM Academy,40.53%,,Y,62.50%,565,229
-ct,16300,Windham School Lunch,01-97,Natchaug School,81.49%,,Y,62.50%,308,251
-ct,16300,Windham School Lunch,03-60,North Windham School,68.05%,,Y,62.50%,457,311
-ct,16300,Windham School Lunch,62-23,"STEPS Academy (fmr Windham Path
-Academy)",96.15%,,N,,26,25
-ct,16300,Windham School Lunch,06-30,W.B. Sweeney School,83.15%,,Y,62.50%,279,232
-ct,16300,Windham School Lunch,05-35,Windham Center School,75.51%,,Y,62.50%,245,185
-ct,16300,Windham School Lunch,61-94,Windham High School,64.97%,,Y,62.50%,628,408
-ct,16300,Windham School Lunch,51-81,Windham Middle School,73.42%,,Y,62.50%,888,652
-ct,16500,Windsor Locks School Lunch,01-98,North Street School,51.36%,,Y,44.96%,442,227
-ct,16500,Windsor Locks School Lunch,04-55,South Elementary School,45.45%,,Y,44.96%,330,150
-ct,16500,Windsor Locks School Lunch,61-95,Windsor Locks High School,34.26%,,N,,394,135
-ct,16500,Windsor Locks School Lunch,51-82,Windsor Locks Middle School,32.69%,,Y,44.96%,416,136
-ct,16400,Windsor School Lunch,01-99,Clover Street Elementary,30.04%,,N,,283,85
-ct,16400,Windsor School Lunch,51-83,"CREC Academy of Aerospace and
-Engineering",25.39%,,N,,,
-ct,16400,Windsor School Lunch,08-27,John F. Kennedy School,23.02%,,N,,,
-ct,16400,Windsor School Lunch,09-19,Oliver Ellsworth School,25.00%,,N,,,
-ct,16400,Windsor School Lunch,05-36,Poquonock Elementary School,21.39%,,N,,,
-ct,16400,Windsor School Lunch,53-17,Sage Park Middle School,18.46%,,N,,,
-ct,16400,Windsor School Lunch,99-2,St. Gabriel School,0.00%,,N,,,
-ct,16400,Windsor School Lunch,61-96,Windsor High School,17.46%,,N,,,
-ct,16600,Wolcott School Lunch,06-31,Alcott School,20.89%,,N,,,
-ct,16600,Wolcott School Lunch,02-62,Frisbie School,22.26%,,N,,,
-ct,16600,Wolcott School Lunch,51-84,Tyrrell Middle School,21.36%,,N,,,
-ct,16600,Wolcott School Lunch,05-37,Wakelee School,22.34%,,N,,,
-ct,16600,Wolcott School Lunch,61-97,Wolcott High School,15.85%,,N,,,
-ct,16700,Woodbridge School Lunch,02-63,Beecher Road School,10.48%,,N,,,
-ct,16900,Woodstock School Lunch,02-64,Woodstock Elementary School,15.26%,,N,,,
-ct,16900,Woodstock School Lunch,51-85,Woodstock Middle School,10.67%,,N,,,
-ct,09316,"Yeshiva Gedolah Rabbinical Institute of
-New England",01-100,"dba/Yeshivas Beis Dovid Shlomo,
-Inc.",11.88%,,N,,,
-ct,09316,"Yeshiva Gedolah Rabbinical Institute of
-New England",02-65,The Cheder,74.19%,,Y,62.50%,31,23
+ct,24400,ACES,01,Leeder Hill Whitney Academy (prev Whitney High East/West),50.96%,,54.20%,Y,157,80
+ct,24400,ACES,02,Mill Elementary (prev. Mill Road School),76.79%,,54.20%,Y,111,85
+ct,24400,ACES,03,Leeder Hill Whitney High North (Whitney High North),77.23%,,54.20%,Y,101,78
+ct,24400,ACES,04,Village School,58.27%,,54.20%,Y,139,81
+ct,24400,ACES,06,Mill Academy,84.31%,,54.20%,Y,102,86
+ct,24400,ACES,96,Center for Autism Spectrum and Development Disorders,37.50%,,54.20%,Y,39,15
+ct,24400,ACES,99,Wintergreen Magnet School,46.07%,,54.20%,Y,471,217
+ct,28500,"Achievement First Bridgeport Academy, Inc.",01-0,"Achievement First Bridgeport Academy, Inc.",92.97%,,42.49%,Y,366,340
+ct,28500,"Achievement First Bridgeport Academy, Inc.",02-0,Achievement First Bridgeport Academy Elementary,57.99%,,42.49%,Y,455,264
+ct,28500,"Achievement First Bridgeport Academy, Inc.",03-0,Achievement First Bridgeport High School,61.57%,,42.49%,Y,191,118
+ct,27900,Amistad Academy,01-1,Amistad Elementary,82.33%,,48.12%,Y,452,372
+ct,27900,Amistad Academy,02-1,Amistad Middle School,73.64%,,48.12%,Y,360,265
+ct,27900,Amistad Academy,03-1,Amistad High School,63.71%,,48.12%,Y,225,143
+ct,00200,Ansonia Board of Education,03-2,Mead School,83.71%,,62.20%,Y,625,523
+ct,00200,Ansonia Board of Education,08,Prendergast School,69.24%,,62.20%,Y,647,448
+ct,00200,Ansonia Board of Education,51,Ansonia Middle School,67.54%,,62.20%,Y,459,310
+ct,00200,Ansonia Board of Education,61,Ansonia High School,58.18%,,62.20%,Y,550,320
+ct,00200,Ansonia Board of Education,90P,St. Mary-St. Michael School,20.86%,,62.20%,Y,133,28
+ct,00200,Ansonia Board of Education,91P,Assumption School,13.19%,,62.20%,Y,181,24
+ct,00300,Ashford Board of Education,01-2,Ashford School,31.55%,,,N,393,124
+ct,00400,Avon Board of Education,03-3,Roaring Brook School,7.91%,,,N,,
+ct,00400,Avon Board of Education,04-0,Pine Grove School,9.39%,,,N,,
+ct,00400,Avon Board of Education,05,Thompson Brook School,6.96%,,,N,,
+ct,00400,Avon Board of Education,51-0,Avon Middle School,7.97%,,,N,,
+ct,00400,Avon Board of Education,61-0,Avon High,7.80%,,,N,,
+ct,00500,Barkhamsted Board of Education,01-3,Barkhamsted Elementary,23.23%,,,N,,
+ct,00700,Berlin Board of Education,01-4,Richard D. Hubbard School,22.17%,,,N,,
+ct,00700,Berlin Board of Education,04-1,Emma Hart Willard School,20.22%,,,N,,
+ct,00700,Berlin Board of Education,05-0,Mary E. Griswold School,17.00%,,,N,,
+ct,00700,Berlin Board of Education,51-1,Catherine M. McGee Middle School,15.51%,,,N,,
+ct,00700,Berlin Board of Education,61-1,Berlin High School,17.74%,,,N,,
+ct,00800,Bethany Board of Education,01-5,Bethany Community School,9.66%,,,N,,
+ct,00900,Bethel Board of Education,01-6,Frank A. Berry School,25.06%,,,N,,
+ct,00900,Bethel Board of Education,04-2,Anna H. Rockwell School,23.85%,,,N,,
+ct,00900,Bethel Board of Education,05-1,Ralph M.T. Johnson School,24.42%,,,N,,
+ct,00900,Bethel Board of Education,51-2,Bethel Middle School,22.73%,,,N,,
+ct,00900,Bethel Board of Education,61-2,Bethel High School,22.00%,,,N,,
+ct,01100,Bloomfield Board of Education,05-2,Metacomet School,50.96%,,,N,261,133
+ct,01100,Bloomfield Board of Education,06-0,Laurel School,63.97%,,,N,358,229
+ct,01100,Bloomfield Board of Education,08-0,Wintonbury Early Childhood Magnet School,41.85%,,,N,313,131
+ct,01100,Bloomfield Board of Education,10,CREC Museum Academy,54.96%,,,N,504,277
+ct,01100,Bloomfield Board of Education,52,Carmen Arace Middle School,52.03%,,,N,542,282
+ct,01100,Bloomfield Board of Education,61-3,Bloomfield High School,44.49%,,,N,544,242
+ct,01100,Bloomfield Board of Education,63,Global Experience Magnet School (GEMS),66.29%,,,N,178,118
+ct,01200,Bolton Board of Education,01-7,Bolton Center School,22.51%,,,N,,
+ct,01200,Bolton Board of Education,61-4,Bolton High School,18.91%,,,N,,
+ct,01300,Bozrah Board of Education,01-8,Fields Memorial School,31.72%,,,N,186,59
+ct,01400,Branford Board of Education,14,Mary T. Murphy School,36.44%,,,N,365,133
+ct,01400,Branford Board of Education,15,Mary R. Tisko School,19.24%,,,N,,
+ct,01400,Branford Board of Education,16,John B. Sliney School,38.89%,,,N,270,105
+ct,01400,Branford Board of Education,51-3,Francis Walsh Intermediate,29.23%,,,N,,
+ct,01400,Branford Board of Education,61-5,Branford High School,24.97%,,,N,,
+ct,29000,Brass City Charter School,01-9,Brass City Charter School,61.73%,,53.70%,Y,324,200
+ct,01500,Bridgeport Board of Education,01-10,Barnum School,81.48%,,63.56%,Y,614,500
+ct,01500,Bridgeport Board of Education,61-6,Bassick High School,74.59%,,63.56%,Y,936,698
+ct,01500,Bridgeport Board of Education,02-2,Beardsley School,80.19%,,63.56%,Y,341,273
+ct,01500,Bridgeport Board of Education,03-4,Black Rock School,59.61%,,63.56%,Y,472,281
+ct,01500,Bridgeport Board of Education,40,Blackham School,62.93%,,63.56%,Y,1102,693
+ct,01500,Bridgeport Board of Education,28,Bridgeport Learning Center @ Sheriden,91.78%,,63.56%,Y,76,70
+ct,01500,Bridgeport Board of Education,16-0,Bridgeport Military Academy,76.05%,,63.56%,Y,295,224
+ct,01500,Bridgeport Board of Education,04-3,Bryant School,80.83%,,63.56%,Y,382,309
+ct,01500,Bridgeport Board of Education,62,Central High School,57.40%,,63.56%,Y,1649,947
+ct,01500,Bridgeport Board of Education,37,CES Cooperative Educational Services,38.46%,,63.56%,Y,59,23
+ct,01500,Bridgeport Board of Education,91,CES Special Education (second site),50.00%,,63.56%,Y,250,125
+ct,01500,Bridgeport Board of Education,14 ,Cesar Batalla,65.74%,,63.56%,Y,1172,770
+ct,01500,Bridgeport Board of Education,21,Classical Studies Academy (Maplewood),74.34%,,63.56%,Y,447,332
+ct,01500,Bridgeport Board of Education,05-3,Columbus School,71.63%,,63.56%,Y,610,437
+ct,01500,Bridgeport Board of Education,39,Cross School,74.35%,,63.56%,Y,365,271
+ct,01500,Bridgeport Board of Education,42,Curiale School,84.66%,,63.56%,Y,612,518
+ct,01500,Bridgeport Board of Education,41,Dunbar School,82.69%,,63.56%,Y,427,353
+ct,01500,Bridgeport Board of Education,07,Edison School,77.54%,,63.56%,Y,222,172
+ct,01500,Bridgeport Board of Education,15-0,Fairchild Wheeler Inter-District Magnet High School,52.07%,,63.56%,Y,1373,715
+ct,01500,Bridgeport Board of Education,31,Geraldine Claytor Magnet Academy,85.55%,,63.56%,Y,454,388
+ct,01500,Bridgeport Board of Education,11,Hall School,84.95%,,63.56%,Y,234,199
+ct,01500,Bridgeport Board of Education,12,Hallen School,71.43%,,63.56%,Y,304,217
+ct,01500,Bridgeport Board of Education,63-0,Harding High School,65.61%,,63.56%,Y,1011,663
+ct,01500,Bridgeport Board of Education,45,High Horizons Magnet,66.24%,,63.56%,Y,440,291
+ct,01500,Bridgeport Board of Education,13,Hooker School,64.67%,,63.56%,Y,348,225
+ct,01500,Bridgeport Board of Education,38,Interdistrict Discovery Magnet School,47.23%,,63.56%,Y,493,233
+ct,01500,Bridgeport Board of Education,22,Jettie Tisdale School (formerly McKinley),80.50%,,63.56%,Y,656,528
+ct,01500,Bridgeport Board of Education,32,Johnson School  (formerly Webster),77.62%,,63.56%,Y,814,632
+ct,01500,Bridgeport Board of Education,10-0,Luis Munoz Marin School,66.67%,,63.56%,Y,860,573
+ct,01500,Bridgeport Board of Education,20,Madison School,70.50%,,63.56%,Y,497,350
+ct,01500,Bridgeport Board of Education,46,Multiculture Magnet School,69.55%,,63.56%,Y,471,328
+ct,01500,Bridgeport Board of Education,17,Park City Magnet School,58.88%,,63.56%,Y,532,313
+ct,01500,Bridgeport Board of Education,25,Read School,74.10%,,63.56%,Y,879,651
+ct,01500,Bridgeport Board of Education,26,Roosevelt School,84.39%,,63.56%,Y,544,459
+ct,01500,Bridgeport Board of Education,90,Six to Six Magnet,37.25%,,63.56%,Y,450,168
+ct,01500,Bridgeport Board of Education,44,Skane Center,71.26%,,63.56%,Y,241,172
+ct,01500,Bridgeport Board of Education,30,Waltersville School,86.82%,,63.56%,Y,471,409
+ct,01500,Bridgeport Board of Education,36,Winthrop Elementary School,56.99%,,63.56%,Y,665,379
+ct,01500,Bridgeport Board of Education,50,St. Andrew Academy,0.00%,,44.68%,Y,200,0
+ct,01500,Bridgeport Board of Education,51-4,St. Ann's Academy,0.00%,,44.68%,Y,190,0
+ct,01500,Bridgeport Board of Education,52-0,St. Augustine Academy,0.00%,,44.68%,Y,169,0
+ct,01500,Bridgeport Board of Education,53,St. Raphael Academy,0.00%,,44.68%,Y,146,0
+ct,01700,Bristol Board of Education,03-5,Edgewood School,43.21%,,47.35%,Y,288,124
+ct,01700,Bristol Board of Education,05-4,Greene Hills School,52.09%,,47.35%,Y,910,474
+ct,01700,Bristol Board of Education,11-0,South Side School,51.88%,,47.35%,Y,454,236
+ct,01700,Bristol Board of Education,12-0,Stafford School,51.86%,,47.35%,Y,377,196
+ct,01700,Bristol Board of Education,14-0,Ellen P. Hubbell,59.73%,,47.35%,Y,375,224
+ct,01700,Bristol Board of Education,17-0,Mountain View School,40.82%,,47.35%,Y,317,129
+ct,01700,Bristol Board of Education,19,Ivy Drive School,41.50%,,47.35%,Y,349,145
+ct,01700,Bristol Board of Education,20-0,West Bristol  School,60.47%,,47.35%,Y,909,550
+ct,01700,Bristol Board of Education,51-5,Chippens Hill Middle School,48.59%,,47.35%,Y,752,365
+ct,01700,Bristol Board of Education,52-1,Northeast Middle School,39.29%,,47.35%,Y,483,190
+ct,01700,Bristol Board of Education,61-7,Bristol Central High School,43.37%,,47.35%,Y,1237,536
+ct,01700,Bristol Board of Education,62-0,Bristol Eastern High School,37.64%,,47.35%,Y,1078,406
+ct,01800,Brookfield Board of Education,03-6,Center Elementary School,16.46%,,,N,,
+ct,01800,Brookfield Board of Education,04-4,Huckleberry Hill Elementary School,17.05%,,,N,,
+ct,01800,Brookfield Board of Education,53-0,Whisconier Middle School,15.53%,,,N,,
+ct,01800,Brookfield Board of Education,61-8,Brookfield High School,12.82%,,,N,,
+ct,01900,Brooklyn Board of Education,01-11,Brooklyn Elementary School,33.39%,,,N,578,193
+ct,01900,Brooklyn Board of Education,51-6,Brooklyn Middle School,27.49%,,,N,,
+ct,02200,Canterbury Board of Education,02-3,Canterbury Elementary School,40.96%,,,N,293,120
+ct,02200,Canterbury Board of Education,51-7,Helen Middle School,32.78%,,,N,180,59
+ct,02300,Canton Board of Education,02-4,Cherry Brook School,17.92%,,,N,,
+ct,02300,Canton Board of Education,03-7,Canton Intermediate School,15.05%,,,N,,
+ct,02300,Canton Board of Education,61-9,Canton Jr Sr High School,12.36%,,,N,,
+ct,29700,"Capital Preparatory Harbor School, Inc.",01-12,"Capital Preparatory Harbor School, Inc./upper school",51.25%,,58.16%,Y,281,144
+ct,29700,"Capital Preparatory Harbor School, Inc.",02-5,Capital Prep Harbor School/lower school,62.74%,,58.16%,Y,424,266
+ct,02400,Chaplin Board of Education,02-6,Chaplin Elementary School,51.02%,,50.00%,Y,146,74
+ct,02400,Chaplin Board of Education,61-10,Parish Hill High School (Region 11),30.54%,,,N,203,62
+ct,02500,Cheshire Board of Education,01-13,Chapman School,6.39%,,,N,,
+ct,02500,Cheshire Board of Education,02-7,Darcey School,20.00%,,,N,,
+ct,02500,Cheshire Board of Education,04-5,Highland School,11.19%,,,N,,
+ct,02500,Cheshire Board of Education,05-5,Norton School,10.79%,,,N,,
+ct,02500,Cheshire Board of Education,06-1,Doolittle School,16.25%,,,N,,
+ct,02500,Cheshire Board of Education,51-8,Dodd Middle School,11.03%,,,N,,
+ct,02500,Cheshire Board of Education,61-11,Cheshire High School,10.02%,,,N,,
+ct,02600,Chester Board of Education,01-14,Chester Elementary School,22.87%,,,N,,
+ct,15114,Children's Community School,11-1,Children's Community School,54.42%,,67.59%,Y,145,79
+ct,02700,Clinton Board of Education,03-8,Lewis G. Joel Jr. School,30.76%,,,N,569,175
+ct,02700,Clinton Board of Education,51-9,Jared Eliot School,24.62%,,,N,,
+ct,02700,Clinton Board of Education,61-12,The Morgan School,22.26%,,,N,,
+ct,02800,Colchester Board of Education,02-8,Jack Jackter Intermediate School,18.50%,,,N,,
+ct,02800,Colchester Board of Education,03-9,Colchester Elementary School,18.74%,,,N,,
+ct,02800,Colchester Board of Education,51-10,William J. Johnston Middle  School,19.02%,,,N,,
+ct,02800,Colchester Board of Education,61-13,Bacon Academy,18.93%,,,N,,
+ct,02900,Colebrook Board of Education,01-15,Colebrook Consolidated School,15.07%,,,N,,
+ct,26800,Common Ground High School,61-14,Common Ground High School,61.40%,,61.40%,Y,215,132
+ct,15118,Congregation K'Tana of Waterbury,01-16,Congregation Ktana of Waterbury,33.39%,,,N,632,211
+ct,03200,Coventry Board of Education,01-17,Andover Elementary School,21.26%,,,N,,
+ct,03200,Coventry Board of Education,02-9,Coventry Grammer School,25.76%,,,N,,
+ct,03200,Coventry Board of Education,04-6,George Hersey Robertson School,21.12%,,,N,,
+ct,03200,Coventry Board of Education,51-11,Captain Nathan Hale School,19.48%,,,N,,
+ct,03200,Coventry Board of Education,61-15,Coventry High School,20.38%,,,N,,
+ct,24100,CREC,01-18,John Allison Polaris Center,72.13%,,58.38%,Y,61,44
+ct,24100,CREC,02-10,University of Hartford Magnet School,46.81%,,,N,470,220
+ct,24100,CREC,03-10,Reggio Emilia Magnet School for the Arts,53.00%,,54.18%,Y,500,265
+ct,24100,CREC,04-7,International Magnet School for Global Citizenship,48.97%,,,N,486,238
+ct,24100,CREC,07-0,Ana Grace Academy of the Arts Elementary School (formerly GHA),55.44%,,54.18%,Y,469,260
+ct,24100,CREC,52-2,Civic Leadership High School (formerly Public Safety Academy),59.54%,,58.38%,Y,346,206
+ct,24100,CREC,53-1,CREC Greater Hartford Academy of the Arts Middle School,54.52%,,58.38%,Y,321,175
+ct,24100,CREC,61-16,CREC Metropolitan Learning Center,44.23%,,,N,685,303
+ct,24100,CREC,64,Greater Hartford Academy of the Arts High School,49.21%,,,N,443,218
+ct,03300,Cromwell Board of Education,02-11,Edna C. Stevens School,22.65%,,,N,,
+ct,03300,Cromwell Board of Education,03-11,Woodside Intermediate School,25.05%,,,N,,
+ct,03300,Cromwell Board of Education,51-12,Cromwell Middle School,21.76%,,,N,,
+ct,03300,Cromwell Board of Education,61-17,Cromwell High School,20.86%,,,N,,
+ct,30101,CT Technical High School System,11-2,Bullard Havens Technical High School,68.27%,,45.13%,Y,791,540
+ct,30101,CT Technical High School System,12-1,Henry Abbott Technical High School,38.71%,,45.13%,Y,695,269
+ct,30101,CT Technical High School System,13-0,H.H. Ellis Technical High School,40.70%,,45.13%,Y,688,280
+ct,30101,CT Technical High School System,14-1,Eli Whitney Technical High School,75.66%,,45.13%,Y,608,460
+ct,30101,CT Technical High School System,15-1,A.I. Prince Technical High School,80.26%,,45.13%,Y,704,565
+ct,30101,CT Technical High School System,16-1,Howell Cheney Technical High School,46.73%,,45.13%,Y,627,293
+ct,30101,CT Technical High School System,17-1,H.C. Wilcox Technical High School,51.75%,,45.13%,Y,771,399
+ct,30101,CT Technical High School System,18,Vinal Technical High School,50.25%,,45.13%,Y,404,203
+ct,30101,CT Technical High School System,19-0,E.C. Goodwin Technical High School,66.93%,,45.13%,Y,641,429
+ct,30101,CT Technical High School System,20-1,Norwich Technical High School,45.60%,,45.13%,Y,647,295
+ct,30101,CT Technical High School System,21-0,J.M. Wright Technical High School,56.98%,,45.13%,Y,430,245
+ct,30101,CT Technical High School System,22-0,Oliver Wolcott Technical High School,42.23%,,45.13%,Y,611,258
+ct,30101,CT Technical High School System,23,W.F. Kaynor Technical High School,57.63%,,45.13%,Y,793,457
+ct,30101,CT Technical High School System,24,Windham Technical High School,46.27%,,45.13%,Y,456,211
+ct,30101,CT Technical High School System,25-0,Emmett O'Brien Technical High School,41.14%,,45.13%,Y,632,260
+ct,30101,CT Technical High School System,26-0,Platt Technical High School,54.35%,,45.13%,Y,792,430
+ct,30101,CT Technical High School System,27,Ella Grasso Southeastern Technical High School,59.73%,,45.13%,Y,524,313
+ct,03400,Danbury Board of Education,01-19,Danbury Early Childhood Center,50.79%,,46.71%,Y,190,97
+ct,03400,Danbury Board of Education,02-12,Haystown Avenue School,43.48%,,46.71%,Y,506,220
+ct,03400,Danbury Board of Education,05-6,Mill Ridge Primary School,39.43%,,46.71%,Y,382,151
+ct,03400,Danbury Board of Education,06-2,Morris Street School,53.62%,,46.71%,Y,346,186
+ct,03400,Danbury Board of Education,08-1,Park Avenue School,53.49%,,46.71%,Y,631,338
+ct,03400,Danbury Board of Education,09,Saint Peter - Sacred Heart Diocesan School,47.12%,,46.71%,Y,277,131
+ct,03400,Danbury Board of Education,10-1,South Street School,55.47%,,46.71%,Y,410,227
+ct,03400,Danbury Board of Education,11-3,Great Plain School,40.87%,,46.71%,Y,342,140
+ct,03400,Danbury Board of Education,12-2,Shelter Rock School,44.89%,,46.71%,Y,518,233
+ct,03400,Danbury Board of Education,13-1,King  Street Primary School,41.44%,,46.71%,Y,432,179
+ct,03400,Danbury Board of Education,14-2,Ellsworth Ave School,51.67%,,46.71%,Y,511,264
+ct,03400,Danbury Board of Education,15-2,Pembroke,41.13%,,46.71%,Y,371,153
+ct,03400,Danbury Board of Education,16-2,Stadley Rough School,46.80%,,46.71%,Y,532,249
+ct,03400,Danbury Board of Education,17-2,King Street Intermediate School,40.57%,,46.71%,Y,389,158
+ct,03400,Danbury Board of Education,19-1,Western CT Academy of International Studies Magnet,32.32%,,46.71%,Y,362,117
+ct,03400,Danbury Board of Education,51-13,Broadview Middle School,48.11%,,46.71%,Y,990,476
+ct,03400,Danbury Board of Education,52-3,Rogers Park Middle School,45.86%,,46.71%,Y,1074,493
+ct,03400,Danbury Board of Education,54,Westside Middle School Academy,41.93%,,46.71%,Y,694,291
+ct,03400,Danbury Board of Education,61-18,Danbury High School,46.96%,,46.71%,Y,3270,1536
+ct,03400,Danbury Board of Education,62-1,Alternative Center for Education,68.18%,,46.71%,Y,89,61
+ct,03600,Deep River Board of Education,01-20,Deep River Elementary School,37.29%,,,N,236,88
+ct,03700,Derby Board of Education,04-8,Irving School,63.91%,,54.41%,Y,325,208
+ct,03700,Derby Board of Education,06-3,Bradley School,43.67%,,54.41%,Y,247,108
+ct,03700,Derby Board of Education,50-0,Derby Middle School,47.50%,,54.41%,Y,347,165
+ct,03700,Derby Board of Education,61-19,Derby High School,44.62%,,54.41%,Y,386,172
+ct,04100,East Haddam Board of Education,01-21,East Haddam Elementary,12.54%,,,N,,
+ct,04100,East Haddam Board of Education,51-14,Nathan Hale-Ray Middle School,9.84%,,,N,,
+ct,04100,East Haddam Board of Education,61-20,Nathan Hale-Ray High School,4.61%,,,N,,
+ct,04200,East Hampton Board of Education,01-22,Memorial School,20.62%,,,N,,
+ct,04200,East Hampton Board of Education,03-12,Center School,15.54%,,,N,,
+ct,04200,East Hampton Board of Education,51-15,East Hampton Middle School,15.95%,,,N,,
+ct,04200,East Hampton Board of Education,61-21,East Hampton High School,14.63%,,,N,,
+ct,04200,East Hampton Board of Education,90-0,The Learning Center at East Hampton,50.00%,,,N,6,3
+ct,04300,East Hartford Board of Education,04-9,Joseph O. Goodwin School,63.30%,,55.49%,Y,369,234
+ct,04300,East Hartford Board of Education,05-7,Hockanum School,68.31%,,55.49%,Y,62,42
+ct,04300,East Hartford Board of Education,06-4,Dr. Franklin H. Mayberry School,83.23%,,55.49%,Y,357,297
+ct,04300,East Hartford Board of Education,09-0,Anne E. Norris School,84.27%,,55.49%,Y,311,262
+ct,04300,East Hartford Board of Education,10-2,Thomas S. O'Connell School,42.21%,,55.49%,Y,537,227
+ct,04300,East Hartford Board of Education,12-3,Silver Lane School,81.04%,,55.49%,Y,272,220
+ct,04300,East Hartford Board of Education,18-0,Robert J. Obrien School,76.42%,,55.49%,Y,400,306
+ct,04300,East Hartford Board of Education,20-2,Governor Wm. Pitkin School,39.94%,,55.49%,Y,335,134
+ct,04300,East Hartford Board of Education,22-1,John A. Langford School,61.93%,,55.49%,Y,344,213
+ct,04300,East Hartford Board of Education,24-0,Sunset Ridge School Elementary Academy for Arts,44.61%,,55.49%,Y,318,142
+ct,04300,East Hartford Board of Education,50-1,Two Rivers Magnet Middle,22.86%,,55.49%,Y,645,147
+ct,04300,East Hartford Board of Education,51-16,East Hartford Middle School,65.88%,,55.49%,Y,1083,713
+ct,04300,East Hartford Board of Education,62-2,East Hartford High School,49.44%,,55.49%,Y,2060,1018
+ct,04300,East Hartford Board of Education,90-1,Woodland School/Transitional Education Program,91.34%,,55.49%,Y,236,216
+ct,04400,East Haven Board of Education,01-23,Deer Run School,48.24%,,47.72%,Y,241,116
+ct,04400,East Haven Board of Education,07-1,Momauguin School,61.51%,,47.72%,Y,285,175
+ct,04400,East Haven Board of Education,10-3,Grove J. Tuttle School,51.91%,,47.72%,Y,286,148
+ct,04400,East Haven Board of Education,13-2,Dominick H. Ferrara School,51.20%,,47.72%,Y,187,96
+ct,04400,East Haven Board of Education,17-3,East Haven Academy,24.00%,,47.72%,Y,315,76
+ct,04400,East Haven Board of Education,18-1,Overbrook School,60.80%,,47.72%,Y,161,98
+ct,04400,East Haven Board of Education,51-17,Joseph Melillo Middle School(East Haven Middle School),46.93%,,47.72%,Y,510,239
+ct,04400,East Haven Board of Education,61-22,East Haven High School,39.45%,,47.72%,Y,886,350
+ct,04500,East Lyme Board of Education,01-24,Flanders School,20.63%,,,N,,
+ct,04500,East Lyme Board of Education,02-13,Niantic Center School,27.39%,,,N,,
+ct,04500,East Lyme Board of Education,04-10,Lillie B. Haynes School,24.18%,,,N,,
+ct,04500,East Lyme Board of Education,51-18,East Lyme Middle School,19.82%,,,N,,
+ct,04500,East Lyme Board of Education,61-23,East Lyme High School,17.13%,,,N,,
+ct,04700,East Windsor Board of Education,01-25,Broad Brook Elementary School,43.66%,,42.84%,Y,495,216
+ct,04700,East Windsor Board of Education,03-13,East Windsor Middle School,45.03%,,42.84%,Y,302,136
+ct,04700,East Windsor Board of Education,61-24,East Windsor High School,39.51%,,42.84%,Y,286,113
+ct,25300,EASTCONN,01-26,Hampton Elementary School,32.98%,,44.42%,Y,93,31
+ct,25300,EASTCONN,02-14,Pomfret Community School,16.28%,,,N,,
+ct,25300,EASTCONN,03-14,Columbia Horace Porter School,21.39%,,,N,,
+ct,25300,EASTCONN,04-11,Scotland Elementary School,38.68%,,44.42%,Y,105,41
+ct,25300,EASTCONN,05-8,Sterling Community School,33.90%,,42.65%,Y,350,119
+ct,25300,EASTCONN,60,ACT Magnet School,48.00%,,44.42%,Y,150,72
+ct,25300,EASTCONN,61-25,Quinebaug Middle College,44.63%,,44.42%,Y,177,79
+ct,25300,EASTCONN,62-3,LEAP Program,100.00%,,44.42%,Y,13,13
+ct,25300,EASTCONN,91-0,EVC,62.22%,,42.65%,Y,126,78
+ct,24200,EdAdvance (formerly Education Connection),01 ,Goshen Center School,24.21%,,,N,,
+ct,24200,EdAdvance (formerly Education Connection),04-12,James Morris School,28.57%,,,N,,
+ct,24200,EdAdvance (formerly Education Connection),05-9,Warren Elementary School,19.05%,,,N,,
+ct,24200,EdAdvance (formerly Education Connection),13-3,Explorations Charter School,61.90%,,55.95%,Y,84,52
+ct,24200,EdAdvance (formerly Education Connection),62-4,Wamogo Regional High School,23.74%,,,N,,
+ct,04800,Ellington Board of Education,01-27,Center School,19.40%,,,N,,
+ct,04800,Ellington Board of Education,02-15,Crystal Lake School,17.75%,,,N,,
+ct,04800,Ellington Board of Education,06-5,Windermere School,23.92%,,,N,,
+ct,04800,Ellington Board of Education,51-19,Ellington Middle School (formerly Longview),15.63%,,,N,,
+ct,04800,Ellington Board of Education,61-26,Ellington High School,14.00%,,,N,,
+ct,28100,Elm City College Preparatory School,01-28,Elm City College Prep Elementary,79.50%,,49.86%,Y,451,359
+ct,28100,Elm City College Preparatory School,02-16,Elm City College Prep Middle,70.08%,,49.86%,Y,129,90
+ct,28100,Elm City College Preparatory School,03-15,Elm City College Prep High School,64.37%,,49.86%,Y,152,98
+ct,04900,Enfield Board of Education,02-17,Enfield Street School,41.90%,,,N,284,119
+ct,04900,Enfield Board of Education,04-13,Hazardville Memorial School,38.62%,,,N,334,129
+ct,04900,Enfield Board of Education,13-4,Edgar H. Parkman School,37.88%,,,N,359,136
+ct,04900,Enfield Board of Education,15-3,Prudence Crandall School,48.02%,,,N,404,194
+ct,04900,Enfield Board of Education,16-3,Eli Whitney School,43.68%,,,N,364,159
+ct,04900,Enfield Board of Education,18-2,Henry Barnard School,46.25%,,,N,387,179
+ct,04900,Enfield Board of Education,52-4,John F. Kennedy Middle School,39.51%,,,N,1096,433
+ct,04900,Enfield Board of Education,61-27,Enfield High School,32.33%,,,N,1556,503
+ct,05000,Essex Board of Education,01-29,Essex Elementary School,22.32%,,,N,,
+ct,05100,Fairfield Public Schools,01-30,Dwight Elementary School,3.64%,,,N,,
+ct,05100,Fairfield Public Schools,02-18,Burr Elementary School,9.29%,,,N,,
+ct,05100,Fairfield Public Schools,04-14,Holland Hill School,20.98%,,,N,,
+ct,05100,Fairfield Public Schools,06-6,McKinley School,39.12%,,,N,478,187
+ct,05100,Fairfield Public Schools,07-2,Mill Hill School,5.82%,,,N,,
+ct,05100,Fairfield Public Schools,12-4,Riverfield School,4.63%,,,N,,
+ct,05100,Fairfield Public Schools,13-5,Sherman School,5.05%,,,N,,
+ct,05100,Fairfield Public Schools,14-3,Stratfield School,8.63%,,,N,,
+ct,05100,Fairfield Public Schools,16-4,North Stratfield School,7.16%,,,N,,
+ct,05100,Fairfield Public Schools,17-4,Jennings School,10.80%,,,N,,
+ct,05100,Fairfield Public Schools,18-3,Osborn Hill School,4.91%,,,N,,
+ct,05100,Fairfield Public Schools,51-20,Tomlinson Middle School,20.84%,,,N,,
+ct,05100,Fairfield Public Schools,52-5,Fairfield Woods Middle School,11.58%,,,N,,
+ct,05100,Fairfield Public Schools,53-2,Roger Ludlowe Middle School,7.06%,,,N,,
+ct,05100,Fairfield Public Schools,60-0,Fairfield Ludlowe High,9.77%,,,N,,
+ct,05100,Fairfield Public Schools,62-5,Fairfield Warde High School,12.60%,,,N,,
+ct,05200,Farmington Public Schools,01-31,Union School,17.87%,,,N,,
+ct,05200,Farmington Public Schools,02-19,Noah Wallace School,14.29%,,,N,,
+ct,05200,Farmington Public Schools,03-16,West District School,11.46%,,,N,,
+ct,05200,Farmington Public Schools,04-15,East Farms School,12.21%,,,N,,
+ct,05200,Farmington Public Schools,05-10,West Woods Upper Elementary School,13.25%,,,N,,
+ct,05200,Farmington Public Schools,51-21,Irving A. Robbins Middle School,14.79%,,,N,,
+ct,05200,Farmington Public Schools,61-28,Farmington High School,13.92%,,,N,,
+ct,05300,Franklin Public Schools,01-32,Franklin Elementary School,8.45%,,,N,,
+ct,05300,Franklin Public Schools,21-1,Green Valley School of Natchaug (fmr Hickory School-Norwich),52.00%,,,N,25,13
+ct,05400,Glastonbury Public Schools,01-33,CREC - Glastonbury-East Hartford Elementary Magnet School,46.80%,,,N,453,212
+ct,05400,Glastonbury Public Schools,02-20,Buttonball Lane,11.55%,,,N,,
+ct,05400,Glastonbury Public Schools,04-16,Hebron Avenue School,8.16%,,,N,,
+ct,05400,Glastonbury Public Schools,06-7,Hopewell School,3.59%,,,N,,
+ct,05400,Glastonbury Public Schools,07-3,Naubuc School,28.19%,,,N,,
+ct,05400,Glastonbury Public Schools,08-2,Gideon Welles School,14.11%,,,N,,
+ct,05400,Glastonbury Public Schools,09-1,Nayaug School,7.45%,,,N,,
+ct,05400,Glastonbury Public Schools,52-6,Smith Middle School,10.12%,,,N,,
+ct,05400,Glastonbury Public Schools,61-29,Glastonbury High School,9.81%,,,N,,
+ct,06414,Grace S. Webb School,01-34,Webb School at Cheshire,38.89%,,57.05%,Y,23,9
+ct,06414,Grace S. Webb School,02-21,Grace S. Webb School,54.55%,,57.05%,Y,126,69
+ct,05600,Granby Public Schools,03-17,Wells Road Intermediate School,9.04%,,,N,,
+ct,05600,Granby Public Schools,04-17,Kelly  Lane Primary School,12.93%,,,N,,
+ct,05600,Granby Public Schools,51-22,Granby Memorial Middle School,11.25%,,,N,,
+ct,05600,Granby Public Schools,61-30,Granby Memorial High School,10.66%,,,N,,
+ct,29400,Great Oaks Charter School,01-35,Great Oaks Charter School,82.55%,,82.87%,Y,508,419
+ct,05700,Greenwich Public Schools,02-22,Cos Cob School,16.20%,,,N,,
+ct,05700,Greenwich Public Schools,03-18,Julian Curtiss School,41.26%,,,N,286,118
+ct,05700,Greenwich Public Schools,04-18,Glenville School,9.90%,,,N,,
+ct,05700,Greenwich Public Schools,05-11,Hamilton Avenue School,36.15%,,,N,639,231
+ct,05700,Greenwich Public Schools,06-8,New Lebanon School,71.81%,,44.68%,Y,282,203
+ct,05700,Greenwich Public Schools,07-4,North Mianus School,3.22%,,,N,,
+ct,05700,Greenwich Public Schools,08-3,North Street School,3.89%,,,N,,
+ct,05700,Greenwich Public Schools,09-2,Old Greenwich School,3.80%,,,N,,
+ct,05700,Greenwich Public Schools,10-4,Parkway School,7.95%,,,N,,
+ct,05700,Greenwich Public Schools,11-4,Riverside School,1.97%,,,N,,
+ct,05700,Greenwich Public Schools,13-6,International School at Dundee,8.40%,,,N,,
+ct,05700,Greenwich Public Schools,51-23,Central Middle School,17.21%,,,N,,
+ct,05700,Greenwich Public Schools,52-7,Eastern Middle School,7.08%,,,N,,
+ct,05700,Greenwich Public Schools,53-3,Western Middle School,38.03%,,,N,639,243
+ct,05800,Griswold Public Schools,03-19,Griswold Elementary School,51.06%,,,N,615,314
+ct,05800,Griswold Public Schools,04-19,Griswold Intermediate School,36.15%,,,N,556,201
+ct,05800,Griswold Public Schools,51-24,Griswold Senior High School,31.74%,,,N,523,166
+ct,05900,Groton Public Schools,01-36,S.B. Butler School,37.82%,,,N,312,118
+ct,05900,Groton Public Schools,03-20,Claude Chester School,79.12%,,63.76%,Y,356,282
+ct,05900,Groton Public Schools,05 ,Catherine Kolnaski Elementary School,60.33%,,41.18%,Y,425,256
+ct,05900,Groton Public Schools,09 ,Northeast Academy Elementary School,37.59%,,,N,415,156
+ct,05900,Groton Public Schools,17-5,Mary Morrisson School,37.66%,,,N,393,148
+ct,05900,Groton Public Schools,18-4,Charles Barnum School,29.10%,,,N,,
+ct,05900,Groton Public Schools,52-8,West Side Middle School (closed 6/30/20),52.92%,,,N,497,263
+ct,05900,Groton Public Schools,53-4,Carl C. Cutler Middle School (closed 6/30/20),38.42%,,,N,505,194
+ct,05900,Groton Public Schools,61-31,Fitch Senior High School,46.15%,,,N,988,456
+ct,06000,Guilford Public Schools,02-23,Guilford Lakes School,5.54%,,,N,,
+ct,06000,Guilford Public Schools,03-21,Melissa Jones School,9.49%,,,N,,
+ct,06000,Guilford Public Schools,04-20,Calvin Leete School,9.60%,,,N,,
+ct,06000,Guilford Public Schools,06-9,A.W. Cox School,9.23%,,,N,,
+ct,06000,Guilford Public Schools,07-5,A. Baldwin Middle School,12.87%,,,N,,
+ct,06000,Guilford Public Schools,51-25,E.C. Adams Middle School,8.09%,,,N,,
+ct,06000,Guilford Public Schools,61-32,Guilford High School,7.82%,,,N,,
+ct,06200,Hamden Public Schools,01-37,Shepherd Glen School,63.92%,,59.28%,Y,316,202
+ct,06200,Hamden Public Schools,02-24,Church Street School,73.11%,,59.28%,Y,304,222
+ct,06200,Hamden Public Schools,03-22,Dunbar Hill School,47.48%,,59.28%,Y,278,132
+ct,06200,Hamden Public Schools,04-21,Helen Street School,64.17%,,59.28%,Y,360,231
+ct,06200,Hamden Public Schools,10-5,Spring Glen School,21.20%,,,N,,
+ct,06200,Hamden Public Schools,11-5,Ridge Hill School,56.19%,,59.28%,Y,331,186
+ct,06200,Hamden Public Schools,12-5,Bear Path School,23.30%,,,N,,
+ct,06200,Hamden Public Schools,14-4,West Woods School,19.28%,,,N,,
+ct,06200,Hamden Public Schools,52-9,Hamden Middle School,41.84%,,,N,882,369
+ct,06200,Hamden Public Schools,61-33,Hamden High School,41.29%,,,N,1797,742
+ct,06400,Hartford Public Schools,01-38,America's Choice at SAND,95.80%,,65.47%,Y,502,481
+ct,06400,Hartford Public Schools,02-25,Hartford PreK Magnet School (formerly PreK Magnet),40.00%,,65.47%,Y,149,60
+ct,06400,Hartford Public Schools,05-12,Montessori Magnet at Moylan School,50.28%,,65.47%,Y,300,151
+ct,06400,Hartford Public Schools,06-10,Burns Latino Studies Academy,90.61%,,65.47%,Y,482,437
+ct,06400,Hartford Public Schools,07-6,Asian Studies Academy @ Belizzi (Asian Studies@Dwight/Belizzi),85.16%,,65.47%,Y,661,563
+ct,06400,Hartford Public Schools,08-4,M.D. Fox School,89.24%,,65.47%,Y,644,575
+ct,06400,Hartford Public Schools,09-3,Environmental Sciences Magnet@ Mary Hooker (Hooker Env.Studies),49.40%,,65.47%,Y,601,297
+ct,06400,Hartford Public Schools,10-6,Kennelly School,79.47%,,65.47%,Y,686,545
+ct,06400,Hartford Public Schools,11-6,Kinsella Magnet School of Performing Arts (Kinsella School),58.11%,,65.47%,Y,843,490
+ct,06400,Hartford Public Schools,12-6,McDonough School,85.13%,,65.47%,Y,377,321
+ct,06400,Hartford Public Schools,13-7,"Achievement First Hartford Academy, Inc.",75.55%,,65.47%,Y,1139,861
+ct,06400,Hartford Public Schools,14-5,Naylor School,78.80%,,65.47%,Y,716,564
+ct,06400,Hartford Public Schools,15-4,Parkville Community School,77.39%,,65.47%,Y,499,386
+ct,06400,Hartford Public Schools,16-5,M.L. King School,82.95%,,65.47%,Y,57,47
+ct,06400,Hartford Public Schools,17-6,Rawson  Elementary School,82.54%,,65.47%,Y,586,484
+ct,06400,Hartford Public Schools,19-2,Milner School,93.05%,,65.47%,Y,430,400
+ct,06400,Hartford Public Schools,20-3,Webster MicroSociety Magnet School (formerly Webster School),46.24%,,65.47%,Y,606,280
+ct,06400,Hartford Public Schools,21-2,West Middle School,89.53%,,65.47%,Y,481,431
+ct,06400,Hartford Public Schools,22-2,Wish Museum School (formerly Wish School),90.80%,,65.47%,Y,458,416
+ct,06400,Hartford Public Schools,23-0,Burr School,91.11%,,65.47%,Y,524,477
+ct,06400,Hartford Public Schools,25-1,STEM Magnet at Fisher School,39.01%,,65.47%,Y,353,138
+ct,06400,Hartford Public Schools,27-0,High Road School of Hartford Primary,94.74%,,65.47%,Y,44,42
+ct,06400,Hartford Public Schools,28-0,Betances Early Reading Lab Magnet School,54.16%,,65.47%,Y,363,197
+ct,06400,Hartford Public Schools,30-0,Sanchez School,92.21%,,65.47%,Y,404,373
+ct,06400,Hartford Public Schools,31-0,Montessori Magnet School (CREC),60.29%,,65.47%,Y,337,203
+ct,06400,Hartford Public Schools,32-0,Expeditionary Learning Academy @ Moylan (formerly Moylan School),84.38%,,65.47%,Y,677,571
+ct,06400,Hartford Public Schools,35,Breakthrough II Magnet North School (Breakthrough II Magnet),59.74%,,65.47%,Y,281,168
+ct,06400,Hartford Public Schools,36-0,Global Communications Academy,80.94%,,65.47%,Y,644,521
+ct,06400,Hartford Public Schools,37-0,Hartford Montessori Magnet School at Fisher School,40.71%,,65.47%,Y,325,132
+ct,06400,Hartford Public Schools,38-0,Betances STEM Magnet School,58.85%,,65.47%,Y,279,164
+ct,06400,Hartford Public Schools,40-0,Jumoke Academy,61.47%,,65.47%,Y,702,432
+ct,06400,Hartford Public Schools,41-0,Renzulli Gifted and Talented Academy (formerly Renzulli Academy),50.39%,,65.47%,Y,133,67
+ct,06400,Hartford Public Schools,54-0,Hartford Magnet Trinity College Academy(Htfd. Magnet Middle),35.97%,,65.47%,Y,1037,373
+ct,06400,Hartford Public Schools,61-34,Bulkeley High School - Upper & Lower,81.03%,,65.47%,Y,662,536
+ct,06400,Hartford Public Schools,62-6,Hartford Public High School,76.96%,,65.47%,Y,1182,910
+ct,06400,Hartford Public Schools,63-1,Culinary Arts Academy at Weaver (formerly Weaver/Journalism and Media High),80.48%,,65.47%,Y,500,402
+ct,06400,Hartford Public Schools,64-0,Sports and Medical Sciences Academy (Sports Sciences Academy),49.19%,,65.47%,Y,672,331
+ct,06400,Hartford Public Schools,66,Pathways Academy of Technology and Design,54.59%,,65.47%,Y,409,223
+ct,06400,Hartford Public Schools,68,High Road School in Hartford High,96.43%,,65.47%,Y,43,41
+ct,06400,Hartford Public Schools,69,Capital Preparatory Magnet School,65.39%,,65.47%,Y,494,323
+ct,06400,Hartford Public Schools,79,Great Path Academy at MCC,51.60%,,65.47%,Y,308,159
+ct,06400,Hartford Public Schools,91-1,Classical Magnet School,46.42%,,65.47%,Y,502,233
+ct,06400,Hartford Public Schools,98,Breakthrough Magnet South School (formerly Breakthrough Academy),49.06%,,65.47%,Y,356,175
+ct,06400,Hartford Public Schools,99-0,University High School,38.16%,,65.47%,Y,426,163
+ct,06500,Hartland Public Schools,01-39,Hartland Elementary School,29.05%,,,N,,
+ct,06700,Hebron Public Schools,01-40,Hebron Elementary School,12.73%,,,N,,
+ct,06700,Hebron Public Schools,02-26,Gilead Hill School,12.26%,,,N,,
+ct,28600,"Highville Charter School, Inc.",01-41,"Highville Charter School, Inc.",70.18%,,55.83%,Y,446,313
+ct,26400,Integrated Day Charter School,01-42,Integrated Day Charter School,47.16%,,,N,352,166
+ct,26500,Interdistrict School for Arts and Communication,52-10,ISAAC (Interdistrict School for Arts and Communication),66.05%,,58.53%,Y,258,170
+ct,06800,Kent Center School,01-43,Kent Center School,25.59%,,,N,,
+ct,06900,Killingly Public Schools,01-44,Killingly Central School,66.92%,,,N,390,261
+ct,06900,Killingly Public Schools,03-23,Killingly Memorial School,48.56%,,,N,521,253
+ct,06900,Killingly Public Schools,52-11,Killingly Intermediate School,43.23%,,,N,643,278
+ct,06900,Killingly Public Schools,61-35,Killingly High School,37.12%,,,N,765,284
+ct,06900,Killingly Public Schools,70,Goodyear Early Childhood Center,73.98%,,,N,123,91
+ct,98601,Klingberg Family Center,01-45,Raymond Hill School,63.37%,,57.43%,Y,101,64
+ct,24500,LEARN,01-46,Regional Multicultural Magnet School,52.45%,,,N,490,257
+ct,24500,LEARN,03-24,Riverside Magnet School at Goodwin College (name change),54.27%,,,N,468,254
+ct,24500,LEARN,07-7,Friendship School,55.62%,,,N,489,272
+ct,24500,LEARN,14-6,The Ocean Avenue Learning Academy,47.22%,,,N,72,34
+ct,24500,LEARN,50-2,Dual Language and Arts Magnet Middle School,66.21%,,,N,145,96
+ct,24500,LEARN,60-1,Connecticut River Academy,55.08%,,,N,472,260
+ct,24500,LEARN,61-36,Marine Science Magnet High School,17.04%,,,N,,
+ct,24500,LEARN,62-7,Three Rivers Middle College High School,29.85%,,,N,,
+ct,07100,Lebanon Public Schools,01-47,Lebanon Elementary School,32.19%,,,N,379,122
+ct,07100,Lebanon Public Schools,51-26,Lebanon Middle School,28.09%,,,N,,
+ct,07100,Lebanon Public Schools,62-8,Lyman Memorial High School,13.91%,,,N,,
+ct,07200,Ledyard Public Schools,02-27,Gales Ferry School,25.77%,,,N,,
+ct,07200,Ledyard Public Schools,03-25,Juliet W. Long School,28.25%,,,N,,
+ct,07200,Ledyard Public Schools,04-22,Gallup Hill School,32.37%,,,N,590,191
+ct,07200,Ledyard Public Schools,51-27,Ledyard Middle School,18.72%,,,N,,
+ct,07200,Ledyard Public Schools,61-37,Ledyard High School,23.14%,,,N,,
+ct,07300,Lisbon Public Schools,01-48,Lisbon Central School,30.99%,,,N,384,119
+ct,07400,Litchfield Public Schools,02-28,Litchfield Center School,28.20%,,,N,,
+ct,07400,Litchfield Public Schools,03-26,Litchfield Intermediate School,19.68%,,,N,,
+ct,07400,Litchfield Public Schools,60-2,Litchfield Middle School,15.63%,,,N,,
+ct,07400,Litchfield Public Schools,61-38,Litchfield High School,16.60%,,,N,,
+ct,07700,Manchester Public Schools,01-49,Bowers School,51.14%,,52.78%,Y,350,179
+ct,07700,Manchester Public Schools,03-27,Buckley School,39.31%,,52.78%,Y,379,149
+ct,07700,Manchester Public Schools,17-7,Elisabeth Bennet Academy,53.28%,,52.78%,Y,916,488
+ct,07700,Manchester Public Schools,04-23,Highland Park Elementary School,50.31%,,52.78%,Y,318,160
+ct,07700,Manchester Public Schools,53-5,Illing Middle School,52.14%,,52.78%,Y,840,438
+ct,07700,Manchester Public Schools,06-11,Keeney School,37.87%,,52.78%,Y,272,103
+ct,07700,Manchester Public Schools,61-39,Manchester High School,48.77%,,52.78%,Y,1620,790
+ct,07700,Manchester Public Schools,15-5,Manchester Middle Academy,84.78%,,52.78%,Y,46,39
+ct,07700,Manchester Public Schools,80,Manchester Pre-School Center,76.35%,,52.78%,Y,203,155
+ct,07700,Manchester Public Schools,16-6,Martin School,52.89%,,52.78%,Y,225,119
+ct,07700,Manchester Public Schools,54-1,Odyssey Community School,27.32%,,,N,,
+ct,07700,Manchester Public Schools,52-12,Saint Bridget School,2.34%,,,N,,
+ct,07700,Manchester Public Schools,05-13,Saint James School,1.94%,,,N,,
+ct,07700,Manchester Public Schools,12-7,Verplanck Elementary School,69.71%,,52.78%,Y,482,336
+ct,07700,Manchester Public Schools,13-8,Waddell Elementary School,51.89%,,52.78%,Y,476,247
+ct,07700,Manchester Public Schools,90-2,Manchester Regional Academy,0.00%,,52.78%,Y,97,0
+ct,07800,Mansfield Public Schools,02-29,Dorothy C. Goodwin School,26.32%,,,N,,
+ct,07800,Mansfield Public Schools,04-24,Annie E. Vinton School,26.21%,,,N,,
+ct,07800,Mansfield Public Schools,05-14,Southeast Elementary School,28.57%,,,N,,
+ct,07800,Mansfield Public Schools,51-28,Mansfield Middle School,24.28%,,,N,,
+ct,07800,Mansfield Public Schools,61-40,Edwin O. Smith High School,20.65%,,,N,,
+ct,07900,Marlborough Public Schools,01-50,Elmer Thienes-Mary Hall Elementary/formerly Marlborough Elem.,11.71%,,,N,,
+ct,08000,Meriden Public Schools,01-51,Benjamin Franklin School,60.25%,,62.69%,Y,405,244
+ct,08000,Meriden Public Schools,03-28,Hanover School,55.31%,,55.23%,Y,499,276
+ct,08000,Meriden Public Schools,04-25,Israel Putnam School,63.99%,,62.69%,Y,511,327
+ct,08000,Meriden Public Schools,05-15,John Barry School,81.08%,,62.69%,Y,502,407
+ct,08000,Meriden Public Schools,07-8,Nathan Hale School,58.56%,,62.69%,Y,543,318
+ct,08000,Meriden Public Schools,08-5,Roger Sherman School,70.77%,,62.69%,Y,479,339
+ct,08000,Meriden Public Schools,10-7,Thomas Hooker School,42.12%,,42.12%,Y,406,171
+ct,08000,Meriden Public Schools,11-7,Casimir Pulaski School,74.05%,,62.69%,Y,605,448
+ct,08000,Meriden Public Schools,51-29,Thomas Edison Magnet Middle School,58.47%,,62.69%,Y,679,397
+ct,08000,Meriden Public Schools,52-13,Lincoln Middle School,61.90%,,62.69%,Y,811,502
+ct,08000,Meriden Public Schools,54-2,Washington Middle School,55.18%,,55.23%,Y,859,474
+ct,08000,Meriden Public Schools,61-41,Francis T. Maloney High School,54.06%,,62.69%,Y,1380,746
+ct,08000,Meriden Public Schools,62-9,Orville H. Platt High School,60.72%,,62.69%,Y,998,606
+ct,08300,Middletown Public Schools,01-52,Spencer School,62.41%,,51.65%,Y,300,187
+ct,08300,Middletown Public Schools,02-30,Bielefield School,55.83%,,51.65%,Y,260,145
+ct,08300,Middletown Public Schools,05-16,Farm Hill School,53.13%,,51.65%,Y,320,170
+ct,08300,Middletown Public Schools,09-4,MacDonough School,68.81%,,51.65%,Y,227,156
+ct,08300,Middletown Public Schools,11-8,Snow School,69.26%,,51.65%,Y,288,199
+ct,08300,Middletown Public Schools,12-8,Moody School,23.32%,,,N,,
+ct,08300,Middletown Public Schools,13-9,Lawrence School,32.57%,,,N,304,99
+ct,08300,Middletown Public Schools,14-7,Wesley School,31.90%,,,N,232,74
+ct,08300,Middletown Public Schools,15-6,Keigwin Annex,46.65%,,51.65%,Y,303,141
+ct,08300,Middletown Public Schools,54-3,Woodrow Wilson Middle School,41.11%,,51.65%,Y,637,262
+ct,08300,Middletown Public Schools,62-10,Middletown High School,40.76%,,,N,1337,545
+ct,08400,Milford Public Schools,01-53,Calf Pen Meadow School,18.82%,,,N,,
+ct,08400,Milford Public Schools,07-9,Meadowside School,23.64%,,,N,,
+ct,08400,Milford Public Schools,08-6,Orange Avenue School,18.72%,,,N,,
+ct,08400,Milford Public Schools,10-8,Pumpkin Delight School,38.69%,,,N,274,106
+ct,08400,Milford Public Schools,16-7,Live Oaks School,25.15%,,,N,,
+ct,08400,Milford Public Schools,17-8,Mathewson School,15.88%,,,N,,
+ct,08400,Milford Public Schools,18-5,Orchard Hills School,21.13%,,,N,,
+ct,08400,Milford Public Schools,19-3,J.F. Kennedy School,29.52%,,,N,,
+ct,08400,Milford Public Schools,51-30,East Shore Middle School,22.74%,,,N,,
+ct,08400,Milford Public Schools,52-14,Harborside Middle School,16.98%,,,N,,
+ct,08400,Milford Public Schools,53-6,West Shore Middle School,31.87%,,,N,477,152
+ct,08400,Milford Public Schools,62-11,Jonathan Law High School,24.40%,,,N,,
+ct,08400,Milford Public Schools,63-2,Joseph A. Foran High School,19.46%,,,N,,
+ct,08500,Monroe Public Schools,01-54,Monroe Elementary School,3.41%,,,N,,
+ct,08500,Monroe Public Schools,03-29,Stepney Elementary School,2.98%,,,N,,
+ct,08500,Monroe Public Schools,05-17,Fawn Hollow Elementary School,2.74%,,,N,,
+ct,08500,Monroe Public Schools,52-15,Jockey Hollow School,4.31%,,,N,,
+ct,08600,Montville Public Schools,01-55,Mohegan School,39.27%,,,N,331,130
+ct,08600,Montville Public Schools,05-18,Oakdale School,32.55%,,,N,341,111
+ct,08600,Montville Public Schools,07-10,Charles E. Murphy School,45.54%,,,N,303,138
+ct,08600,Montville Public Schools,51-31,Leonard J. Tyl Middle School,31.79%,,,N,541,172
+ct,08600,Montville Public Schools,61-42,Montville High School,30.58%,,,N,582,178
+ct,08800,Naugatuck Public Schools,02-31,Cross Street School,39.76%,,47.23%,Y,327,130
+ct,08800,Naugatuck Public Schools,03-30,Maple Hill School,41.87%,,47.23%,Y,504,211
+ct,08800,Naugatuck Public Schools,04-26,Hop Brook School,53.44%,,47.23%,Y,320,171
+ct,08800,Naugatuck Public Schools,06-12,Salem School,53.93%,,47.23%,Y,267,144
+ct,08800,Naugatuck Public Schools,07-11,Western School,48.43%,,47.23%,Y,254,123
+ct,08800,Naugatuck Public Schools,08-7,Andrew Avenue School,61.87%,,47.23%,Y,257,159
+ct,08800,Naugatuck Public Schools,51-32,City Hill Middle School,45.74%,,47.23%,Y,704,322
+ct,08800,Naugatuck Public Schools,52-16,Hillside Intermediate School,58.00%,,47.23%,Y,350,203
+ct,08800,Naugatuck Public Schools,61-43,Naugatuck High School,42.96%,,47.23%,Y,1271,546
+ct,28000,"New Beginnings Family Academy, Inc.",01-56,New Beginnings Family Academy,71.40%,,65.40%,Y,474,338
+ct,08900,New Britain Public Schools,03-31,Chamberlain School,80.08%,,69.12%,Y,487,390
+ct,08900,New Britain Public Schools,11-9,Diloreto Magnet School,64.36%,,69.12%,Y,808,520
+ct,08900,New Britain Public Schools,05-19,Gaffney School,68.09%,,69.12%,Y,633,431
+ct,08900,New Britain Public Schools,54-4,HALS Academy,39.61%,,69.12%,Y,154,61
+ct,08900,New Britain Public Schools,06-13,Holmes School,57.89%,,69.12%,Y,513,297
+ct,08900,New Britain Public Schools,07-12,Jefferson School,70.48%,,69.12%,Y,420,296
+ct,08900,New Britain Public Schools,08-8,Lincoln School,78.53%,,69.12%,Y,652,512
+ct,08900,New Britain Public Schools,61-44,New Britain High School,65.45%,,69.12%,Y,2409,1577
+ct,08900,New Britain Public Schools,09-5,Northend School,84.64%,,69.12%,Y,267,226
+ct,08900,New Britain Public Schools,53-7,Pulaski Middle School,73.08%,,69.12%,Y,899,657
+ct,08900,New Britain Public Schools,52-17,Slade Middle School,74.34%,,69.12%,Y,873,649
+ct,08900,New Britain Public Schools,12-9,Smalley Academy,81.38%,,69.12%,Y,624,508
+ct,08900,New Britain Public Schools,13-10,Smith School,81.61%,,69.12%,Y,547,446
+ct,08900,New Britain Public Schools,04P,Solterra Academy (formerly CT Children's Medical School),0.00%,,69.12%,Y,161,0
+ct,08900,New Britain Public Schools,10-9,The Academy of Science and Innovation(Med. Prof. & Teacher Prep),47.28%,,69.12%,Y,755,357
+ct,08900,New Britain Public Schools,90-3,Transitional Center,83.72%,,69.12%,Y,43,36
+ct,08900,New Britain Public Schools,15-7,Vance School,67.62%,,69.12%,Y,509,344
+ct,08900,New Britain Public Schools,14-8,Roosevelt Early Learning Center,0.00%,,69.12%,Y,342,0
+ct,09100,New Fairfield Public Schools,01-57,Consolidated School,22.35%,,,N,,
+ct,09100,New Fairfield Public Schools,02-32,Meeting House Hill School,19.60%,,,N,,
+ct,09100,New Fairfield Public Schools,61-45,New Fairfield High School,15.32%,,,N,,
+ct,09200,New Hartford School Lunch,01-58,Bakerville Consolidated School,7.77%,,,N,,
+ct,09200,New Hartford School Lunch,02-33,New Hartford Elementary School,21.92%,,,N,,
+ct,09200,New Hartford School Lunch,03-32,Ann Antolini School,19.50%,,,N,,
+ct,09300,New Haven School Lunch,02-34,Barnard Environmental Magnet School,71.54%,,64.20%,Y,548,392
+ct,09300,New Haven School Lunch,03-33,Beecher School,57.49%,,64.20%,Y,481,277
+ct,09300,New Haven School Lunch,04-27,Brennan /Rogers School of Communication and Media,79.03%,,64.20%,Y,532,420
+ct,09300,New Haven School Lunch,06-14,Clinton Avenue School,73.76%,,64.20%,Y,497,367
+ct,09300,New Haven School Lunch,07-13,Hill Central Music Academy,77.50%,,64.20%,Y,511,396
+ct,09300,New Haven School Lunch,08-9,Strong 21st Century Communications Magnet & SCS Lab School,80.07%,,64.20%,Y,313,251
+ct,09300,New Haven School Lunch,09-6,Davis 21st Century Magnet Elementary,40.04%,,64.20%,Y,503,201
+ct,09300,New Haven School Lunch,10-10,Booker T Washington Academy (Elementary),52.87%,,64.20%,Y,239,126
+ct,09300,New Haven School Lunch,12-10,Edgewood School,46.65%,,64.20%,Y,443,207
+ct,09300,New Haven School Lunch,14-9,Nathan Hale School,46.35%,,64.20%,Y,563,261
+ct,09300,New Haven School Lunch,16-8,Booker T Washington Academy (Middle),66.67%,,64.20%,Y,56,37
+ct,09300,New Haven School Lunch,17-9,Science & Engineering University Magnet School,32.14%,,64.20%,Y,594,191
+ct,09300,New Haven School Lunch,18-6,Benjamin Jepson Magnet School,54.89%,,64.20%,Y,533,293
+ct,09300,New Haven School Lunch,20-4,Lincoln-Bassett Community School,85.42%,,64.20%,Y,405,346
+ct,09300,New Haven School Lunch,25-2,"Vincent E. Mauro Math, Science and Tech. Magnet",55.49%,,64.20%,Y,526,292
+ct,09300,New Haven School Lunch,27-1,Dr. Reginald Mayo Early Learing Center,70.50%,,64.20%,Y,496,350
+ct,09300,New Haven School Lunch,28-1,John S. Martinez School,76.23%,,64.20%,Y,534,407
+ct,09300,New Haven School Lunch,29,Truman School,72.45%,,64.20%,Y,564,409
+ct,09300,New Haven School Lunch,31-1,Conte/West Hill Magnet,67.90%,,64.20%,Y,668,454
+ct,09300,New Haven School Lunch,32-1,Wexler/Grant Community School,84.83%,,64.20%,Y,433,367
+ct,09300,New Haven School Lunch,33,Ross/Woodward School,63.19%,,64.20%,Y,657,415
+ct,09300,New Haven School Lunch,35-0,Quinnipiac Real World Math STEM School (Quinnipiac School),69.80%,,64.20%,Y,301,210
+ct,09300,New Haven School Lunch,38-1,Worthington Hooker School,17.01%,,64.20%,Y,446,76
+ct,09300,New Haven School Lunch,39-0,John C. Daniels School,55.53%,,64.20%,Y,539,299
+ct,09300,New Haven School Lunch,41-1,Columbus Family Academy,70.46%,,64.20%,Y,531,374
+ct,09300,New Haven School Lunch,43,Bishop Woods School,68.01%,,64.20%,Y,465,316
+ct,09300,New Haven School Lunch,44-0,Elm City Montessori School,48.43%,,64.20%,Y,159,77
+ct,09300,New Haven School Lunch,46-0,East Rock Community Magnet School,62.62%,,64.20%,Y,561,351
+ct,09300,New Haven School Lunch,49,West Rock Authors' Academy (formerly MicroSociety Magnet),59.61%,,64.20%,Y,210,125
+ct,09300,New Haven School Lunch,52-18,Fair Haven Middle School,73.62%,,64.20%,Y,852,627
+ct,09300,New Haven School Lunch,54-5,Augusta Lewis Troup School (Troup Magnet Academy of Sciences),80.49%,,64.20%,Y,490,394
+ct,09300,New Haven School Lunch,55,Betsy Ross Arts Magnet School,55.68%,,64.20%,Y,433,241
+ct,09300,New Haven School Lunch,57,King/Robinson Magnet School,68.97%,,64.20%,Y,533,368
+ct,09300,New Haven School Lunch,58,Clemente Leadership Academy,76.23%,,64.20%,Y,488,372
+ct,09300,New Haven School Lunch,61-46,Wilbur Cross High School,61.14%,,64.20%,Y,1636,1000
+ct,09300,New Haven School Lunch,62-12,James Hillhouse High School,69.18%,,64.20%,Y,1000,692
+ct,09300,New Haven School Lunch,63-3,Hill Regional Career High School,58.04%,,64.20%,Y,697,405
+ct,09300,New Haven School Lunch,64-1,Cooperative Arts & Humanities High School,48.67%,,64.20%,Y,644,313
+ct,09300,New Haven School Lunch,66-0,High School in the Community,67.32%,,64.20%,Y,246,166
+ct,09300,New Haven School Lunch,67,Sound School,35.67%,,64.20%,Y,332,118
+ct,09300,New Haven School Lunch,69-0,Riverside Education Academy,82.54%,,64.20%,Y,107,88
+ct,09300,New Haven School Lunch,70-0,Celentano School,69.47%,,64.20%,Y,407,283
+ct,09300,New Haven School Lunch,71,Metropolitan Business Academy,57.14%,,64.20%,Y,427,244
+ct,09300,New Haven School Lunch,72,New Haven Academy,41.81%,,64.20%,Y,304,127
+ct,09500,New London School Lunch,02-35,Harbor School,96.62%,,62.65%,Y,284,274
+ct,09500,New London School Lunch,03-34,Jennings School,96.30%,,62.65%,Y,468,451
+ct,09500,New London School Lunch,08-10,Winthrop STEM Elementary Magnet School,68.65%,,62.65%,Y,519,356
+ct,09500,New London School Lunch,09-7,Nathan Hale Arts Magnet School,68.87%,,62.65%,Y,540,372
+ct,09500,New London School Lunch,51-33,Bennie Dover Jackson Middle,63.00%,,62.65%,Y,707,445
+ct,09500,New London School Lunch,61-47,New London High School,79.13%,,62.65%,Y,995,787
+ct,09600,New Milford School Lunch,05-20,Hill and Plain School,34.82%,,,N,336,117
+ct,09600,New Milford School Lunch,08-11,Northville Elementary School,28.30%,,,N,,
+ct,09600,New Milford School Lunch,09-8,Sarah Noble Intermediate School,23.71%,,,N,,
+ct,09600,New Milford School Lunch,52-19,Schaghticoke Middle School,22.32%,,,N,,
+ct,09600,New Milford School Lunch,61-48,New Milford High School,19.30%,,,N,,
+ct,09400,Newington Public Schools,02-36,Elizabeth Green School,33.45%,,,N,287,96
+ct,09400,Newington Public Schools,06-15,Anna Reynolds School,24.63%,,,N,,
+ct,09400,Newington Public Schools,07-14,Ruth Chaffee School,20.25%,,,N,,
+ct,09400,Newington Public Schools,08-12,John Paterson School,26.65%,,,N,,
+ct,09400,Newington Public Schools,51-34,Martin Kellogg Middle School,25.76%,,,N,,
+ct,09400,Newington Public Schools,53-8,John Wallace Middle School,24.96%,,,N,,
+ct,09400,Newington Public Schools,61-49,Newington High School,20.37%,,,N,,
+ct,09700,Newtown School Lunch,01-59,Hawley Elementary School,6.31%,,,N,,
+ct,09700,Newtown School Lunch,02-37,Sandy Hook Elementary School,7.63%,,,N,,
+ct,09700,Newtown School Lunch,03-35,Middle Gate Elementary School,6.06%,,,N,,
+ct,09700,Newtown School Lunch,04-28,Head O'Meadow Elementary,3.03%,,,N,,
+ct,09700,Newtown School Lunch,05-21,Reed Intermediate School,4.98%,,,N,,
+ct,09700,Newtown School Lunch,51-35,Newtown Middle School,2.94%,,,N,,
+ct,09800,Norfolk School Lunch,01-60,Botelle Elementary School,38.81%,,,N,67,26
+ct,09900,North Branford School Lunch,04-29,Jerome Harrison School,25.67%,,,N,,
+ct,09900,North Branford School Lunch,06-16,Totoket Valley Elementary,17.44%,,,N,,
+ct,09900,North Branford School Lunch,51-36,North Branford Intermediate,20.16%,,,N,,
+ct,09900,North Branford School Lunch,61-50,North Branford High School,15.28%,,,N,,
+ct,10000,North Canaan School Lunch,01-61,North Canaan Elementary School,39.77%,,,N,259,103
+ct,10100,North Haven School Lunch,02-38,Montowese Elementary School,15.83%,,,N,,
+ct,10100,North Haven School Lunch,03-36,Ridge Road Elementary School,15.91%,,,N,,
+ct,10100,North Haven School Lunch,07-15,Green Acres Elementary School,17.53%,,,N,,
+ct,10100,North Haven School Lunch,08-13,Clintonville Elementary School,14.20%,,,N,,
+ct,10100,North Haven School Lunch,52-20,North Haven Middle School,15.99%,,,N,,
+ct,10100,North Haven School Lunch,61-51,North Haven High School,17.24%,,,N,,
+ct,10200,North Stonington Lunch,01-62,North Stonington Elementary,20.84%,,,N,,
+ct,10200,North Stonington Lunch,61-52,Wheeler High School,23.40%,,,N,,
+ct,10300,Norwalk School Lunch,01-63,Side by Side Community,38.96%,,,N,231,90
+ct,10300,Norwalk School Lunch,02-39,Brookside Elementary School,55.23%,,51.70%,Y,440,243
+ct,10300,Norwalk School Lunch,03-37,Columbus Elementary School,33.14%,,,N,341,113
+ct,10300,Norwalk School Lunch,04-30,Cranbury Elementary School,25.73%,,,N,,
+ct,10300,Norwalk School Lunch,06-17,Norwalk Early ChildHood Program (NECC),38.69%,,,N,168,65
+ct,10300,Norwalk School Lunch,07-16,Jefferson Elementary School,54.87%,,51.70%,Y,503,276
+ct,10300,Norwalk School Lunch,08-14,Kendall Elementary School,55.36%,,51.70%,Y,513,284
+ct,10300,Norwalk School Lunch,13-11,Rowayton School,30.41%,,,N,490,149
+ct,10300,Norwalk School Lunch,14-10,Tracey School,53.72%,,51.70%,Y,443,238
+ct,10300,Norwalk School Lunch,20-5,Fox Run Elementary School,44.12%,,,N,408,180
+ct,10300,Norwalk School Lunch,21-3,Naramake Elementary School,39.58%,,,N,384,152
+ct,10300,Norwalk School Lunch,22-3,Marvin Elementary School,53.04%,,51.70%,Y,428,227
+ct,10300,Norwalk School Lunch,23-1,Silvermine Elementary School,48.38%,,51.70%,Y,493,239
+ct,10300,Norwalk School Lunch,24-1,Wolfpit School,36.01%,,,N,311,112
+ct,10300,Norwalk School Lunch,52-21,Nathan Hale Middle School,42.39%,,,N,618,262
+ct,10300,Norwalk School Lunch,53-9,Ponus Ridge Middle School,49.19%,,51.70%,Y,683,336
+ct,10300,Norwalk School Lunch,54-6,West Rocks Middle School,47.28%,,51.70%,Y,733,347
+ct,10300,Norwalk School Lunch,55-0,Roton Middle School,38.17%,,,N,579,221
+ct,10300,Norwalk School Lunch,61-53,Norwalk High School,37.94%,,,N,1895,719
+ct,10300,Norwalk School Lunch,62-13,Brien McMahon High School,37.32%,,,N,1908,712
+ct,90100,Norwich Free Academy,61-54,Norwich Free Academy,37.89%,,,N,2193,831
+ct,90100,Norwich Free Academy,62-14,Sachem Campus,69.70%,,,N,66,46
+ct,10400,Norwich School Lunch,01-64,Bishop School,69.51%,,64.43%,Y,221,154
+ct,10400,Norwich School Lunch,07-17,Wildwood Christian School,10.61%,,64.43%,Y,65,7
+ct,10400,Norwich School Lunch,08-15,Samuel Huntington School,59.31%,,64.43%,Y,370,219
+ct,10400,Norwich School Lunch,10-11,Case Street Early Learning Center,63.49%,,64.43%,Y,60,38
+ct,10400,Norwich School Lunch,14-11,John B. Stanton School,66.36%,,64.43%,Y,320,212
+ct,10400,Norwich School Lunch,15-8,Wequonnoc School,62.50%,,64.43%,Y,268,168
+ct,10400,Norwich School Lunch,17-10,Thomas W. Mahan School,53.63%,,64.43%,Y,247,132
+ct,10400,Norwich School Lunch,18-7,Veterans' Memorial School,72.15%,,64.43%,Y,296,214
+ct,10400,Norwich School Lunch,19-4,Uncas School,74.82%,,64.43%,Y,273,204
+ct,10400,Norwich School Lunch,20-6,John M. Moriarty School,59.00%,,64.43%,Y,383,226
+ct,10400,Norwich School Lunch,51-37,Kelly Middle School,59.82%,,64.43%,Y,648,388
+ct,10400,Norwich School Lunch,52-22,Teachers' Memorial Middle,69.14%,,64.43%,Y,414,286
+ct,10600,Old Saybrook School Lunch,01-65,Saint John Catholic School,14.29%,,,N,,
+ct,10600,Old Saybrook School Lunch,02-40,Kathleen E. Goodwin School,26.50%,,,N,,
+ct,10600,Old Saybrook School Lunch,52-23,Old Saybrook Middle School,19.40%,,,N,,
+ct,10600,Old Saybrook School Lunch,61-55,Old Saybrook Senior High Schol,21.76%,,,N,,
+ct,10700,Orange School Lunch,02-41,Mary L. Tracy School,10.47%,,,N,,
+ct,10700,Orange School Lunch,03-38,Race Brook School,14.05%,,,N,,
+ct,10700,Orange School Lunch,04-31,Turkey Hill School,7.77%,,,N,,
+ct,10700,Orange School Lunch,05-22,Peck Place School,11.24%,,,N,,
+ct,10800,Oxford School Lunch,01-66,Oxford Center School,15.75%,,,N,,
+ct,10800,Oxford School Lunch,03-39,Quaker Farms School,14.49%,,,N,,
+ct,10800,Oxford School Lunch,51-38,Great Oak School,11.19%,,,N,,
+ct,10800,Oxford School Lunch,60-3,Oxford High School,9.60%,,,N,,
+ct,28300,"Park City Prep Charter School, Inc.",51-39,"Park City Prep Charter School, Inc.",58.92%,,58.69%,Y,351,207
+ct,10900,Plainfield Board of Education,01-67,Moosup Elementary School,36.54%,,,N,312,114
+ct,10900,Plainfield Board of Education,03-40,Plainfield Memorial School,44.48%,,,N,299,133
+ct,10900,Plainfield Board of Education,04-32,Shepard Hill Elementary School,36.27%,,,N,466,169
+ct,10900,Plainfield Board of Education,51-40,Plainfield Central School,31.47%,,,N,518,163
+ct,10900,Plainfield Board of Education,61-56,Plainfield High School,26.08%,,,N,,
+ct,11000,Plainville Community Schools,02-42,Linden Street School,36.41%,,,N,412,150
+ct,11000,Plainville Community Schools,04-33,Frank T. Wheeler School,22.30%,,,N,,
+ct,11000,Plainville Community Schools,05-23,Louis Toffolon School,28.07%,,,N,,
+ct,11000,Plainville Community Schools,52-24,Middle School of Plainville,32.04%,,,N,540,173
+ct,11000,Plainville Community Schools,61-57,Plainville High School,24.71%,,,N,,
+ct,11100,Plymouth School Lunch,02-43,Plymouth Center School,33.75%,,,N,317,107
+ct,11100,Plymouth School Lunch,04-34,Harry S. Fisher Elementary School,51.10%,,,N,319,163
+ct,11100,Plymouth School Lunch,51-41,Eli Terry Jr. Middle School (formerly H Fisher Middle),32.39%,,,N,355,115
+ct,11100,Plymouth School Lunch,61-58,Terryville High School,24.74%,,,N,,
+ct,11300,Portland School Lunch,02-44,Valley View School,19.22%,,,N,,
+ct,11300,Portland School Lunch,03-41,Brownstone Intermediate School,29.74%,,,N,,
+ct,11300,Portland School Lunch,04-35,Gildersleeve School,30.59%,,,N,304,93
+ct,11300,Portland School Lunch,61-59,Portland Secondary School,26.23%,,,N,,
+ct,11400,Preston School Lunch,04-36,Preston Veterans' Memorial School,21.98%,,,N,,
+ct,11400,Preston School Lunch,51-42,Preston Plains School,27.67%,,,N,,
+ct,11600,Putnam Board of Education,03-42,Putnam Elementary School,52.62%,,52.20%,Y,629,331
+ct,11600,Putnam Board of Education,51-43,Putnam Middle School,53.90%,,52.20%,Y,282,152
+ct,11600,Putnam Board of Education,61-60,Putnam High School,49.19%,,52.20%,Y,246,121
+ct,21000,Region District #10 School Lunch,02-45,Lake Garda Elementary School,11.70%,,,N,,
+ct,21000,Region District #10 School Lunch,03-43,Harwinton Consolidated School,12.19%,,,N,,
+ct,21000,Region District #10 School Lunch,51-44,Har-Bur Middle School,8.89%,,,N,,
+ct,21000,Region District #10 School Lunch,61-61,Lewis S. Mills High School,9.40%,,,N,,
+ct,21200,Region District #12 School Lunch,51-45,Shepaug Valley Middle/High School,15.73%,,,N,,
+ct,21300,Region District #13 School Lunch,01-68,Frederick Brewster School,18.66%,,,N,,
+ct,21300,Region District #13 School Lunch,04-37,Middlefield Memorial School,13.85%,,,N,,
+ct,21300,Region District #13 School Lunch,05-24,John Lyman School,11.21%,,,N,,
+ct,21300,Region District #13 School Lunch,51-46,Frank Ward Strong,15.69%,,,N,,
+ct,21300,Region District #13 School Lunch,61-62,Coginchaug Regional High School,5.79%,,,N,,
+ct,21400,Region District #14 School Lunch,01-69,Bethlehem Elementary School,22.70%,,,N,,
+ct,21400,Region District #14 School Lunch,02-46,Mitchell Elementary School,21.30%,,,N,,
+ct,21400,Region District #14 School Lunch,51-47,Woodbury Middle School,21.27%,,,N,,
+ct,21400,Region District #14 School Lunch,61-63,Nonnewaug High School,16.87%,,,N,,
+ct,21500,Region District #15 School Lunch,04-38,Gainfield Elementary School,17.46%,,,N,,
+ct,21500,Region District #15 School Lunch,05-25,Pomperaug School,11.56%,,,N,,
+ct,21500,Region District #15 School Lunch,06-18,Middlebury Elementary School,15.20%,,,N,,
+ct,21500,Region District #15 School Lunch,07-18,Long Meadow Elementary School,9.09%,,,N,,
+ct,21500,Region District #15 School Lunch,51-48,Rochambeau Middle School,8.82%,,,N,,
+ct,21500,Region District #15 School Lunch,52-25,Memorial Middle School,14.35%,,,N,,
+ct,21500,Region District #15 School Lunch,62-15,Pomperaug Regional High School,9.40%,,,N,,
+ct,21600,Region District #16 School Lunch,01-70,Laurel Ledge School,22.14%,,,N,,
+ct,21600,Region District #16 School Lunch,05-26,Prospect Elementary School,20.50%,,,N,,
+ct,21600,Region District #16 School Lunch,51-49,Long River Middle School,19.61%,,,N,,
+ct,21600,Region District #16 School Lunch,60-4,Woodland Regional High School,18.64%,,,N,,
+ct,21700,Region District #17 School Lunch,02-47,Burr District Elementary School,17.11%,,,N,,
+ct,21700,Region District #17 School Lunch,03-44,Killingworth Elementary School,5.47%,,,N,,
+ct,21700,Region District #17 School Lunch,50-3,Haddam Killingworth Intermediate School,10.77%,,,N,,
+ct,21700,Region District #17 School Lunch,51-50,Haddam-Killingworth Middle School,10.29%,,,N,,
+ct,21700,Region District #17 School Lunch,61-64,Haddam-Killingworth High School,8.82%,,,N,,
+ct,21800,Region District #18 School Lunch,01-71,Lyme Consolidated School,21.78%,,,N,,
+ct,21800,Region District #18 School Lunch,02-48,Mile Creek School,21.95%,,,N,,
+ct,21800,Region District #18 School Lunch,51-51,Lyme-Old Lyme Middle School,17.99%,,,N,,
+ct,21800,Region District #18 School Lunch,61-65,Lyme-Old Lyme High School,17.08%,,,N,,
+ct,20700,Region District #7 School Lunch,61-66,Northwestern Regional High School,17.88%,,,N,,
+ct,20800,Region District #8 School Lunch,51-52,RHAM Middle School,12.86%,,,N,,
+ct,20800,Region District #8 School Lunch,61-67,RHAM High School,12.39%,,,N,,
+ct,20900,Region District #9 School Lunch,01-72,Samuel Staples Elementary School,10.65%,,,N,,
+ct,20900,Region District #9 School Lunch,02-49,Redding Elementary School,8.46%,,,N,,
+ct,20900,Region District #9 School Lunch,51-53,John Read Middle School,10.73%,,,N,,
+ct,20900,Region District #9 School Lunch,52-26,Helen Keller Middle School,12.23%,,,N,,
+ct,20900,Region District #9 School Lunch,61-68,Joel Barlow High School,9.95%,,,N,,
+ct,20100,Regional District #1,61-69,Housatonic Valley Regional High School,45.48%,,,N,343,156
+ct,20400,Regional District #4 School Lunch,51-54,John Winthrop Junior High School,27.20%,,,N,,
+ct,20400,Regional District #4 School Lunch,61-70,Valley Regional High School,18.10%,,,N,,
+ct,20500,Regional District #5 School Lunch,51-55,Amity Regional Junior High School Bethany Campus,10.37%,,,N,,
+ct,20500,Regional District #5 School Lunch,52-27,Amity Regional Junior High School Orange Campus,12.23%,,,N,,
+ct,20500,Regional District #5 School Lunch,61-71,Amity Regional High School,12.44%,,,N,,
+ct,11800,Ridgefield School Lunch,02-50,Veterans Park Elementary,12.41%,,,N,,
+ct,11800,Ridgefield School Lunch,03-45,Ridgebury Elementary School,7.24%,,,N,,
+ct,11800,Ridgefield School Lunch,04-39,Farmingville Elementary School,2.48%,,,N,,
+ct,11800,Ridgefield School Lunch,05-27,Scotland Elementary School,6.03%,,,N,,
+ct,11800,Ridgefield School Lunch,06-19,Branchville Elementary School,7.08%,,,N,,
+ct,11800,Ridgefield School Lunch,08-16,Barlow Mountain Elementary,5.02%,,,N,,
+ct,11800,Ridgefield School Lunch,51-56,East Ridge Middle School,7.65%,,,N,,
+ct,11800,Ridgefield School Lunch,52-28,Scotts Ridge Middle School,7.46%,,,N,,
+ct,11900,Rocky Hill School Lunch Program,02-51,Moser School,15.88%,,,N,,
+ct,11900,Rocky Hill School Lunch Program,04-40,Myrtle H. Stevens School,24.26%,,,N,,
+ct,11900,Rocky Hill School Lunch Program,05-28,West Hill School,5.93%,,,N,,
+ct,11900,Rocky Hill School Lunch Program,07-19,CREC Academy of Aerospace and Engineering Elementary School,39.08%,,,N,476,186
+ct,11900,Rocky Hill School Lunch Program,51-57,Middle School,17.47%,,,N,,
+ct,11900,Rocky Hill School Lunch Program,61-72,Rocky Hill High School,18.05%,,,N,,
+ct,10401,Sacred Heart School /Norwich,03-46,Sacred Heart,40.26%,,,N,154,62
+ct,12100,Salem  Board of Education,01-73,Salem School,19.05%,,,N,,
+ct,12200,Salisbury Board of Education,01-74,Salisbury Central School,14.88%,,,N,,
+ct,12400,Seymour School Lunch,01-75,Bungay School,35.28%,,,N,445,157
+ct,12400,Seymour School Lunch,04-41,Chatfield-LoPresti Elementary School,45.42%,,,N,557,253
+ct,12400,Seymour School Lunch,51-58,Seymour Middle School,24.45%,,,N,,
+ct,12400,Seymour School Lunch,61-73,Seymour High School,34.48%,,,N,638,220
+ct,12500,Sharon School Lunch,01-76,Sharon Center School,38.14%,,,N,97,37
+ct,12600,Shelton School Lunch,03-47,Holy Trinity Catholic Academy,7.19%,,,N,,
+ct,12600,Shelton School Lunch,05-29,Elizabeth Shelton School,20.61%,,,N,,
+ct,12600,Shelton School Lunch,06-20,Sunnyside School,42.58%,,,N,256,109
+ct,12600,Shelton School Lunch,08-17,Long Hill School,36.36%,,,N,363,132
+ct,12600,Shelton School Lunch,09-9,Mohegan School,18.97%,,,N,,
+ct,12600,Shelton School Lunch,10-12,Booth Hill School,13.35%,,,N,,
+ct,12600,Shelton School Lunch,11-10,Perry Hill School,23.84%,,,N,,
+ct,12600,Shelton School Lunch,51-59,Intermediate School,24.07%,,,N,,
+ct,12600,Shelton School Lunch,61-74,Shelton High School,21.10%,,,N,,
+ct,12800,Simsbury School Lunch,01-77,Central School,14.67%,,,N,,
+ct,12800,Simsbury School Lunch,03-48,Tariffville School,33.74%,,,N,246,83
+ct,12800,Simsbury School Lunch,04-42,Tootin' Hills School,12.87%,,,N,,
+ct,12800,Simsbury School Lunch,06-21,Latimer Lane School,15.07%,,,N,,
+ct,12800,Simsbury School Lunch,07-20,Squadron Line School,11.99%,,,N,,
+ct,12800,Simsbury School Lunch,51-60,Henry James Memorial School,15.73%,,,N,,
+ct,12800,Simsbury School Lunch,61-75,Simsbury High School,12.78%,,,N,,
+ct,13200,South Windsor Board of Education,01-78,Philip R. Smith School,10.83%,,,N,,
+ct,13200,South Windsor Board of Education,02-52,Pleasant Valley School,13.32%,,,N,,
+ct,13200,South Windsor Board of Education,06-22,Orchard Hill School,13.24%,,,N,,
+ct,13200,South Windsor Board of Education,07-21,Eli Terry School,13.52%,,,N,,
+ct,13200,South Windsor Board of Education,51-61,Timothy Edwards School,15.33%,,,N,,
+ct,13200,South Windsor Board of Education,62-16,South Windsor High School,13.97%,,,N,,
+ct,13100,Southington School Lunch,02-53,Hatton School,19.11%,,,N,,
+ct,13100,Southington School Lunch,06-23,Plantsville School,15.77%,,,N,,
+ct,13100,Southington School Lunch,07-22,South End School,22.13%,,,N,,
+ct,13100,Southington School Lunch,08-18,Strong School,21.69%,,,N,,
+ct,13100,Southington School Lunch,09-10,Thalberg School,15.37%,,,N,,
+ct,13100,Southington School Lunch,13-12,Flanders School,25.64%,,,N,,
+ct,13100,Southington School Lunch,14-12,Urbin T. Kelley School,15.02%,,,N,,
+ct,13100,Southington School Lunch,15-9,Derynoski Elementary School,19.77%,,,N,,
+ct,13100,Southington School Lunch,51-62,Joseph A. Depaulo Middle School,18.42%,,,N,,
+ct,13100,Southington School Lunch,53-10,John F. Kennedy Middle School,17.99%,,,N,,
+ct,13100,Southington School Lunch,62-17,Southington High School,14.88%,,,N,,
+ct,13300,Sprague School Lunch,01-79,Sayles Elementary School,50.99%,,,N,253,129
+ct,04903,St. Bernard School,01-80,St. Bernard School,14.18%,,,N,,
+ct,04301,St. Christopher School,51-63,St. Christopher School,17.19%,,,N,,
+ct,06901,St. James School,01-81,St. James School,2.63%,,,N,,
+ct,06204,St. Martin de Porres Academy,51-64,St. Martin de Porres Academy,46.88%,,51.61%,Y,62,29
+ct,13400,Stafford School Lunch,03-49,Staffordville School,38.46%,,,N,156,60
+ct,13400,Stafford School Lunch,04-43,West Stafford School,36.11%,,,N,144,52
+ct,13400,Stafford School Lunch,06-24,Stafford Elementary School,43.24%,,41.79%,Y,414,179
+ct,13400,Stafford School Lunch,52-29,Stafford Middle School,30.00%,,,N,370,111
+ct,13400,Stafford School Lunch,61-76,Stafford High School,29.60%,,,N,,
+ct,13500,Stamford School Lunch,05-30,K.T. Murphy School,49.70%,,,N,495,246
+ct,13500,Stamford School Lunch,06-25,Newfield School,47.67%,,,N,558,266
+ct,13500,Stamford School Lunch,07-23,The New School (Strawberry Hill),32.82%,,,N,524,172
+ct,13500,Stamford School Lunch,08-19,Rogers International School,30.96%,,,N,830,257
+ct,13500,Stamford School Lunch,09-11,Roxbury School,50.41%,,,N,613,309
+ct,13500,Stamford School Lunch,11-11,Springdale School,55.32%,,,N,564,312
+ct,13500,Stamford School Lunch,12-11,Julia A. Stark School,52.60%,,,N,578,304
+ct,13500,Stamford School Lunch,14-13,Westover School,60.17%,,,N,590,355
+ct,13500,Stamford School Lunch,18-8,Northeast School,36.11%,,,N,648,234
+ct,13500,Stamford School Lunch,19-5,Toquam Magnet,54.83%,,,N,662,363
+ct,13500,Stamford School Lunch,20-7,Davenport Ridge School,39.38%,,,N,650,256
+ct,13500,Stamford School Lunch,21-4,Stillmeadow School,52.56%,,,N,645,339
+ct,13500,Stamford School Lunch,22-4,Hart School,47.39%,,,N,595,282
+ct,13500,Stamford School Lunch,23-2,Stamford School for Excellence Charter School,29.41%,,,N,,
+ct,13500,Stamford School Lunch,53-11,Dolan School,46.22%,,,N,662,306
+ct,13500,Stamford School Lunch,55-1,Turn of River School,43.48%,,,N,683,297
+ct,13500,Stamford School Lunch,56,Cloonan School,46.40%,,,N,709,329
+ct,13500,Stamford School Lunch,57-0,Scofield Magnet Middle School,34.05%,,,N,655,223
+ct,13500,Stamford School Lunch,58-0,Rippowam Middle School,47.45%,,,N,784,372
+ct,13500,Stamford School Lunch,61-77,Stamford High School,35.75%,,,N,1796,642
+ct,13500,Stamford School Lunch,63-4,Westhill High School,34.88%,,,N,2334,814
+ct,13500,Stamford School Lunch,64-2,The Academy of Information Technology and Engineering,32.30%,,,N,613,198
+ct,13500,Stamford School Lunch,94,IPP Learning Academy - Stamford,85.71%,,,N,7,6
+ct,13700,Stonington School Lunch,05-31,Deans Mill School,16.12%,,,N,,
+ct,13700,Stonington School Lunch,06-26,West Vine Street School,37.32%,,,N,351,131
+ct,13700,Stonington School Lunch,52-30,Stonington Middle School (prev. Mystic MS),25.64%,,,N,,
+ct,13700,Stonington School Lunch,61-78,Stonington High School,18.92%,,,N,,
+ct,13800,Stratford School Lunch,01-82,Institute of Professional Practice Lower and Upper Program,30.26%,,,N,76,23
+ct,13800,Stratford School Lunch,03-50,Chapel School,24.92%,,,N,,
+ct,13800,Stratford School Lunch,04-44,Franklin School,51.79%,,45.33%,Y,336,174
+ct,13800,Stratford School Lunch,08-20,Lordship School,42.76%,,45.33%,Y,283,121
+ct,13800,Stratford School Lunch,09-12,Nichols School,37.58%,,45.33%,Y,471,177
+ct,13800,Stratford School Lunch,10-13,Second Hill Lane School,40.72%,,45.33%,Y,555,226
+ct,13800,Stratford School Lunch,13-13,Whitney School,27.13%,,,N,,
+ct,13800,Stratford School Lunch,14-14,Wilcoxson School,26.41%,,,N,,
+ct,13800,Stratford School Lunch,22-5,Stratford Academy/Victoria Soto School (formerly Honeyspot),53.52%,,45.33%,Y,256,137
+ct,13800,Stratford School Lunch,51-65,Stratford Academy/ Johnson House,51.07%,,45.33%,Y,466,238
+ct,13800,Stratford School Lunch,52-31,David Wooster Middle School,37.96%,,,N,598,227
+ct,13800,Stratford School Lunch,53-12,Harry B. Flood Middle School,31.60%,,,N,538,170
+ct,13800,Stratford School Lunch,61-79,Stratford High School,31.22%,,,N,1025,320
+ct,13800,Stratford School Lunch,62-18,Bunnell High School,30.55%,,,N,1031,315
+ct,13900,Suffield School Lunch,03-51,McAlister Intermediate School,12.29%,,,N,,
+ct,13900,Suffield School Lunch,04-45,A. Ward Spaulding School,15.33%,,,N,,
+ct,13900,Suffield School Lunch,51-66,Suffield Middle School,12.04%,,,N,,
+ct,13900,Suffield School Lunch,61-80,Suffield High School,15.89%,,,N,,
+ct,26900,The Bridge Academy,61-81,The Bridge Academy,49.44%,,52.31%,Y,260,129
+ct,14000,Thomaston School Lunch,01-83,Black Rock School,27.74%,,,N,,
+ct,14000,Thomaston School Lunch,02-54,Thomaston Center School,21.94%,,,N,,
+ct,14000,Thomaston School Lunch,62-19,Thomaston High School,20.60%,,,N,,
+ct,14100,Thompson School Lunch,01-84,Mary R. Fisher Elementary School,41.74%,,41.74%,Y,436,182
+ct,14100,Thompson School Lunch,51-67,Thompson Middle School,34.78%,,,N,322,112
+ct,14100,Thompson School Lunch,61-82,Tourtellotte Memorial High School,25.81%,,,N,,
+ct,14200,Tolland School Lunch,01-85,Birch Grove Primary School,11.46%,,,N,,
+ct,14200,Tolland School Lunch,03-52,Tolland Intermediate School,9.94%,,,N,,
+ct,14200,Tolland School Lunch,51-68,Tolland Middle School,8.83%,,,N,,
+ct,14200,Tolland School Lunch,61-83,Tolland High School,7.53%,,,N,,
+ct,14300,Torrington School Lunch,02-55,Forbes School,54.17%,,54.79%,Y,329,178
+ct,14300,Torrington School Lunch,08-21,Southwest School,56.91%,,54.79%,Y,304,173
+ct,14300,Torrington School Lunch,09-13,Torringford School,56.09%,,54.79%,Y,624,350
+ct,14300,Torrington School Lunch,13-14,Vogel-Wetmore School,61.65%,,54.79%,Y,605,373
+ct,14300,Torrington School Lunch,51-69,Torrington Middle School,52.12%,,54.79%,Y,1015,529
+ct,14300,Torrington School Lunch,61-84,Torrington High School,47.85%,,54.79%,Y,859,411
+ct,14400,Trumbull School Lunch,01-86,Booth Hill School,20.08%,,,N,,
+ct,14400,Trumbull School Lunch,03-53,Middlebrook School,28.44%,,,N,,
+ct,14400,Trumbull School Lunch,04-46,Jane Ryan School,14.47%,,,N,,
+ct,14400,Trumbull School Lunch,08-22,Daniels Farm School,12.84%,,,N,,
+ct,14400,Trumbull School Lunch,09-14,Tashua School,13.21%,,,N,,
+ct,14400,Trumbull School Lunch,10-14,Frenchtown Elementary,29.88%,,,N,,
+ct,14400,Trumbull School Lunch,51-70,Madison Middle School,21.29%,,,N,,
+ct,14400,Trumbull School Lunch,52-32,Hillcrest Middle School,17.12%,,,N,,
+ct,14400,Trumbull School Lunch,61-85,Trumbull High School,16.59%,,,N,,
+ct,14600,Vernon School Lunch,01-87,Lake Street School,31.46%,,,N,213,67
+ct,14600,Vernon School Lunch,02-56,Maple Street School,73.76%,,58.93%,Y,282,208
+ct,14600,Vernon School Lunch,03-54,Northeast School,45.97%,,58.93%,Y,211,97
+ct,14600,Vernon School Lunch,10-15,Skinner Road School,54.55%,,58.93%,Y,330,180
+ct,14600,Vernon School Lunch,14-15,Center Road School,44.83%,,,N,435,195
+ct,14600,Vernon School Lunch,51-71,Vernon Center Middle School,44.64%,,,N,728,325
+ct,14600,Vernon School Lunch,61-86,Rockville High School,39.41%,,,N,850,335
+ct,14700,Voluntown Public Schools,01-88,Voluntown Elementary School,21.62%,,,N,,
+ct,14800,Wallingford Board of Education,01-89,Moses Y. Beach,32.61%,,,N,322,105
+ct,14800,Wallingford Board of Education,02-57,Highland School,25.30%,,,N,,
+ct,14800,Wallingford Board of Education,03-55,Parker Farms School,34.51%,,,N,284,98
+ct,14800,Wallingford Board of Education,04-47,Rock Hill School,28.24%,,,N,,
+ct,14800,Wallingford Board of Education,08-23,Mary Fritz Elementary/formerly Yalesville School,20.13%,,,N,,
+ct,14800,Wallingford Board of Education,09-15,Evarts C. Stevens School,33.03%,,,N,327,108
+ct,14800,Wallingford Board of Education,10-16,Cook Hill School,46.03%,,,N,378,174
+ct,14800,Wallingford Board of Education,12-12,Pond Hill School,33.45%,,,N,296,99
+ct,14800,Wallingford Board of Education,14-16,Holy Trinity,3.15%,,,N,,
+ct,14800,Wallingford Board of Education,52-33,Dag Hammarskjold School,25.19%,,,N,,
+ct,14800,Wallingford Board of Education,53-13,James H. Moran Middle School,23.12%,,,N,,
+ct,14800,Wallingford Board of Education,61-87,Lyman Hall High School,18.78%,,,N,,
+ct,14800,Wallingford Board of Education,62-20,Mark T. Sheehan High School,15.28%,,,N,,
+ct,15100,Waterbury School Lunch,05-32,Bucks Hill School,70.84%,,65.28%,Y,836,592
+ct,15100,Waterbury School Lunch,06-27,Bunker Hill School,75.36%,,65.28%,Y,496,374
+ct,15100,Waterbury School Lunch,07-24,H. S. Chase School,68.55%,,65.28%,Y,814,558
+ct,15100,Waterbury School Lunch,08-24,Wendell L. Cross School,64.13%,,65.28%,Y,350,224
+ct,15100,Waterbury School Lunch,09-16,Driggs School,87.28%,,65.28%,Y,511,446
+ct,15100,Waterbury School Lunch,11-12,Margaret M. Generali Elementary School,74.10%,,65.28%,Y,601,445
+ct,15100,Waterbury School Lunch,13-15,Hopeville School,73.27%,,65.28%,Y,491,360
+ct,15100,Waterbury School Lunch,14-17,F. J. Kingsbury School,75.63%,,65.28%,Y,508,384
+ct,15100,Waterbury School Lunch,16-9,Duggan School,78.91%,,65.28%,Y,503,397
+ct,15100,Waterbury School Lunch,20-8,Sprague School,78.83%,,65.28%,Y,547,431
+ct,15100,Waterbury School Lunch,21-5,B. W. Tinker School,64.93%,,65.28%,Y,569,369
+ct,15100,Waterbury School Lunch,22-6,Walsh School,87.05%,,65.28%,Y,471,410
+ct,15100,Waterbury School Lunch,23-3,Washington School,80.45%,,65.28%,Y,334,269
+ct,15100,Waterbury School Lunch,26-1,Gilmartin School,69.56%,,65.28%,Y,500,348
+ct,15100,Waterbury School Lunch,27-2,Carrington School,62.77%,,65.28%,Y,497,312
+ct,15100,Waterbury School Lunch,28-2,Regan School,70.82%,,65.28%,Y,267,189
+ct,15100,Waterbury School Lunch,30-1,Mary R. Rotella Interdistrict Magnet School,49.59%,,65.28%,Y,614,304
+ct,15100,Waterbury School Lunch,31-2,Maloney Interdistrict Magnet School,49.19%,,65.28%,Y,619,304
+ct,15100,Waterbury School Lunch,32-2,Woodrow Wilson School,85.59%,,65.28%,Y,476,407
+ct,15100,Waterbury School Lunch,34,Jonathan E. Reed School,79.45%,,65.28%,Y,475,377
+ct,15100,Waterbury School Lunch,50-4,Waterbury Arts Magnet,44.21%,,65.28%,Y,798,353
+ct,15100,Waterbury School Lunch,51-72,Michael F. Wallace Middle School,68.13%,,65.28%,Y,1167,795
+ct,15100,Waterbury School Lunch,52-34,West Side Middle School,69.25%,,65.28%,Y,1091,756
+ct,15100,Waterbury School Lunch,53-14,North End Middle School,76.16%,,65.28%,Y,1002,763
+ct,15100,Waterbury School Lunch,62-21,Crosby High School,71.32%,,65.28%,Y,1102,786
+ct,15100,Waterbury School Lunch,63-5,Wilby High School,72.88%,,65.28%,Y,1040,758
+ct,15100,Waterbury School Lunch,64-3,John F. Kennedy High School,66.22%,,65.28%,Y,1245,824
+ct,15100,Waterbury School Lunch,67-0,Waterbury Career Academy,53.84%,,65.28%,Y,848,457
+ct,15100,Waterbury School Lunch,90-4,State Street School,92.37%,,65.28%,Y,86,79
+ct,15100,Waterbury School Lunch,91-2,Enlightenment/Excel,87.50%,,65.28%,Y,185,162
+ct,15200,Waterford School Lunch,02-58,Great Neck Elementary School,24.78%,,,N,,
+ct,15200,Waterford School Lunch,04-48,Quaker Hill Elementary School,28.46%,,,N,,
+ct,15200,Waterford School Lunch,06-28,Oswegatchie Elementary School,25.57%,,,N,,
+ct,15200,Waterford School Lunch,51-73,Clark Lane Middle School,23.17%,,,N,,
+ct,15200,Waterford School Lunch,61-88,Waterford High School,20.47%,,,N,,
+ct,15300,Watertown School Lunch,02-59,Trumbull School,31.03%,,,N,651,202
+ct,15300,Watertown School Lunch,03-56,Fletcher W. Judson School,18.69%,,,N,,
+ct,15300,Watertown School Lunch,04-49,Polk School,36.72%,,,N,305,112
+ct,15300,Watertown School Lunch,51-74,Swift Junior High School,27.72%,,,N,,
+ct,15300,Watertown School Lunch,61-89,Watertown High School,23.88%,,,N,,
+ct,15500,West Hartford School Lunch,02-60,Braeburn School,11.14%,,,N,,
+ct,15500,West Hartford School Lunch,04-50,Bugbee School,10.29%,,,N,,
+ct,15500,West Hartford School Lunch,05-33,Charter Oak School,35.96%,,,N,534,192
+ct,15500,West Hartford School Lunch,06-29,Duffy School,13.64%,,,N,,
+ct,15500,West Hartford School Lunch,09-17,Morley School,10.14%,,,N,,
+ct,15500,West Hartford School Lunch,10-17,Norfeldt School,11.71%,,,N,,
+ct,15500,West Hartford School Lunch,12-13,Webster Hill School,27.27%,,,N,,
+ct,15500,West Hartford School Lunch,13-16,Whiting Lane School,35.01%,,,N,337,118
+ct,15500,West Hartford School Lunch,15-10,Wolcott School,28.69%,,,N,,
+ct,15500,West Hartford School Lunch,16-10,Aiken School,10.66%,,,N,,
+ct,15500,West Hartford School Lunch,17-11,Smith School,34.32%,,,N,338,116
+ct,15500,West Hartford School Lunch,51-75,King Philip Middle School,18.33%,,,N,,
+ct,15500,West Hartford School Lunch,52-35,Sedgwick Middle School,24.21%,,,N,,
+ct,15500,West Hartford School Lunch,53-15,Bristow Middle School,17.75%,,,N,,
+ct,15500,West Hartford School Lunch,61-90,Conard High School,21.08%,,,N,,
+ct,15500,West Hartford School Lunch,62-22,Hall High School,15.93%,,,N,,
+ct,15600,West Haven School Lunch,03-57,Forest School,69.05%,,51.09%,Y,425,293
+ct,15600,West Haven School Lunch,04-51,Seth G. Haley Elementary School,48.40%,,51.09%,Y,393,190
+ct,15600,West Haven School Lunch,06-30,Edith E. Mackrille School,49.85%,,51.09%,Y,327,163
+ct,15600,West Haven School Lunch,08-25,Alma E. Pagels School,51.74%,,51.09%,Y,337,174
+ct,15600,West Haven School Lunch,12-14,Washington School,72.18%,,51.09%,Y,447,323
+ct,15600,West Haven School Lunch,14-18,Savin Rock Community School,72.15%,,51.09%,Y,489,353
+ct,15600,West Haven School Lunch,51-76,Harry M. Bailey Middle School,56.42%,,51.09%,Y,916,517
+ct,15600,West Haven School Lunch,53-16,Carrigan 5/6 Elementary School,60.43%,,51.09%,Y,929,561
+ct,15600,West Haven School Lunch,61-91,West Haven High School,59.38%,,45.04%,Y,1521,903
+ct,15600,West Haven School Lunch,70-1,St. Lawrence School,14.05%,,,N,,
+ct,15400,Westbrook School Lunch,02-61,Daisy Ingraham School,36.82%,,,N,258,95
+ct,15400,Westbrook School Lunch,51-77,Westbrook Middle School,34.22%,,,N,187,64
+ct,15400,Westbrook School Lunch,61-92,Westbrook High School,24.77%,,,N,,
+ct,15900,Wethersfield School Lunch,01-90,Corpus Christi,4.35%,,,N,,
+ct,15900,Wethersfield School Lunch,02-62,Emerson-Williams School,29.40%,,,N,,
+ct,15900,Wethersfield School Lunch,08-26,Alfred W. Hanmer School,30.00%,,,N,350,105
+ct,15900,Wethersfield School Lunch,10-18,Charles Wright School,36.52%,,,N,293,107
+ct,15900,Wethersfield School Lunch,11-13,Highcrest School,14.89%,,,N,,
+ct,15900,Wethersfield School Lunch,12-15,Samuel B. Webb Elementary School,31.40%,,,N,344,108
+ct,15900,Wethersfield School Lunch,13-17,CREC Discovery Academy,41.63%,,,N,514,214
+ct,15900,Wethersfield School Lunch,52-36,Silas Deane Middle School,19.29%,,,N,,
+ct,15900,Wethersfield School Lunch,61-93,Wethersfield High School,18.31%,,,N,,
+ct,15900,Wethersfield School Lunch,99-1,CREC - Soundbridge,17.24%,,,N,,
+ct,16000,Willington Board of Education,01-91,Center School,37.91%,,,N,211,80
+ct,16000,Willington Board of Education,51-78,Hall Memorial School,32.21%,,,N,208,67
+ct,16200,Winchester Board of Education,04-52,Batcheller Elementary School,62.07%,,53.13%,Y,250,155
+ct,16200,Winchester Board of Education,51-79,Pearson Middle School,58.55%,,53.13%,Y,309,181
+ct,16300,Windham School Lunch,01-92,Natchaug School,79.29%,,65.06%,Y,325,258
+ct,16300,Windham School Lunch,03-58,North Windham School,68.54%,,65.06%,Y,481,330
+ct,16300,Windham School Lunch,04-53,Charles H. Barrows STEM Academy,40.15%,,65.06%,Y,599,240
+ct,16300,Windham School Lunch,05-34,Windham Center School,73.21%,,65.06%,Y,266,195
+ct,16300,Windham School Lunch,06-31,W.B. Sweeney School,80.77%,,65.06%,Y,290,234
+ct,16300,Windham School Lunch,51-80,Windham Middle School,70.75%,,65.06%,Y,606,429
+ct,16300,Windham School Lunch,61-94,Windham High School,61.64%,,65.06%,Y,819,505
+ct,16500,Windsor Locks School Lunch,01-93,North Street School,47.94%,,43.92%,Y,462,221
+ct,16500,Windsor Locks School Lunch,04-54,South Elementary School,51.49%,,43.92%,Y,336,173
+ct,16500,Windsor Locks School Lunch,51-81,Windsor Locks Middle School,46.11%,,43.92%,Y,401,185
+ct,16500,Windsor Locks School Lunch,61-95,Windsor Locks High School,36.28%,,43.92%,Y,404,147
+ct,16400,Windsor School Lunch,01-94,Clover Street Elementary,29.33%,,,N,,
+ct,16400,Windsor School Lunch,05-35,Poquonock Elementary School,22.04%,,,N,,
+ct,16400,Windsor School Lunch,08-27,John F. Kennedy School,21.11%,,,N,,
+ct,16400,Windsor School Lunch,09-18,Oliver Ellsworth School,24.89%,,,N,,
+ct,16400,Windsor School Lunch,51-82,CREC Academy of Aerospace and Engineering,31.72%,,,N,766,243
+ct,16400,Windsor School Lunch,53-17,Sage Park Middle School,25.10%,,,N,,
+ct,16400,Windsor School Lunch,61-96,Windsor High School,21.99%,,,N,,
+ct,16400,Windsor School Lunch,99-2,St. Gabriel School,4.81%,,,N,,
+ct,16600,Wolcott School Lunch,02-63,Frisbie School,20.64%,,,N,,
+ct,16600,Wolcott School Lunch,05-36,Wakelee School,22.05%,,,N,,
+ct,16600,Wolcott School Lunch,06-32,Alcott School,19.08%,,,N,,
+ct,16600,Wolcott School Lunch,51-83,Tyrrell Middle School,19.18%,,,N,,
+ct,16600,Wolcott School Lunch,61-97,Wolcott High School,16.01%,,,N,,
+ct,16700,Woodbridge School Lunch,02-64,Beecher Road School,14.32%,,,N,,
+ct,16900,Woodstock School Lunch,02-65,Woodstock Elementary School,22.44%,,,N,,
+ct,16900,Woodstock School Lunch,51-84,Woodstock Middle School,21.37%,,,N,,
+ct,09316,Yeshiva Gedolah Rabbinical Institute of New England,01-95,"dba/Yeshivas Beis Dovid Shlomo, Inc.",50.79%,,,N,126,64
+ct,09316,Yeshiva Gedolah Rabbinical Institute of New England,02-66,The Cheder,100.00%,,74.19%,Y,31,31

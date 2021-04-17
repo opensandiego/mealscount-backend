@@ -1,447 +1,443 @@
 state,District Code,District Name,School Code,School Name,individual_isp,proxy_isp,participating_in_cep,claiming_isp,total_enrolled,total_eligible
-ak,201,Alaska Gateway School District,30010,Dot Lake School                               ,57.14%,,Y,69.69%,7,4
-ak,201,Alaska Gateway School District,30020,Eagle Community School              ,58.33%,,Y,69.69%,24,14
-ak,201,Alaska Gateway School District,30030,Mentasta Lake School                      ,86.66%,,Y,69.69%,30,26
-ak,201,Alaska Gateway School District,30040,Walter Northway School                  ,80.00%,,Y,69.69%,50,40
-ak,201,Alaska Gateway School District,30050,Tanacross School,81.81%,,Y,69.69%,11,9
-ak,201,Alaska Gateway School District,30060,Tok School                                       ,59.77%,,Y,69.69%,174,104
-ak,201,Alaska Gateway School District,30070,Tetlin School,97.05%,,Y,69.69%,34,33
-ak,501,Anchorage School District,50010,Abbott Loop Elementary,34.49%,,Y,46.88%,315,109
-ak,501,Anchorage School District,50020,Airport Heights Elementary,64.57%,,Y,56.08%,320,207
-ak,501,Anchorage School District,50030,Klatt Elementary,39.69%,,Y,46.61%,393,156
-ak,501,Anchorage School District,50050,Bartlett High School,37.36%,,Y,49.25%,1323,494
-ak,501,Anchorage School District,50060,Baxter Elementary,38.39%,,Y,49.25%,330,127
-ak,501,Anchorage School District,50070,Birchwood ABC Elementary,9.76%,,N,,,
-ak,501,Anchorage School District,50080,Campbell Elementary,30.07%,,N,,399,120
-ak,501,Anchorage School District,50100,Central Middle School of Science,48.92%,,Y,49.25%,370,181
-ak,501,Anchorage School District,50110,Chester Valley Elementary,42.39%,,Y,46.88%,269,114
-ak,501,Anchorage School District,50120,Chinook Elementary,37.21%,,Y,53.14%,489,182
-ak,501,Anchorage School District,50130,Chugach Optional Elementary,6.64%,,N,,,
-ak,501,Anchorage School District,50140,Gruening Middle School,7.27%,,N,,,
-ak,501,Anchorage School District,50150,Chugiack Elementary,12.27%,,N,,,
-ak,501,Anchorage School District,50160,Chugiack High School,10.98%,,N,,,
-ak,501,Anchorage School District,50170,College Gate Elementary,34.44%,,Y,46.61%,357,123
-ak,501,Anchorage School District,50170-0,Creekside Park Elementary,47.62%,,Y,46.61%,497,237
-ak,501,Anchorage School District,50190,Denali Montessori Elementary,33.41%,,N,,428,143
-ak,501,Anchorage School District,50200,Dimond High School,16.38%,,N,,,
-ak,501,Anchorage School District,50210,Eagle River Elementary,19.95%,,N,,,
-ak,501,Anchorage School District,50220,East High School,43.53%,,Y,56.08%,1687,734
-ak,501,Anchorage School District,50240,Aurora Elementary,1.26%,,N,,,
-ak,501,Anchorage School District,50250,Orion Elementary,4.01%,,N,,,
-ak,501,Anchorage School District,50270,Mt. Spurr Elementary,3.41%,,N,,,
-ak,501,Anchorage School District,50300,Fairview Elementary,77.30%,,Y,56.08%,380,294
-ak,501,Anchorage School District,50340,Ursa Major Elementary,1.80%,,N,,,
-ak,501,Anchorage School District,50350,Ursa Minor Elementary,0.63%,,N,,,
-ak,501,Anchorage School District,50360,Girdwood School,6.15%,,N,,,
-ak,501,Anchorage School District,50370,Gladys Wood Elementary,42.34%,,Y,46.61%,390,165
-ak,501,Anchorage School District,50380,Government Hill Elementary,34.29%,,Y,46.61%,485,166
-ak,501,Anchorage School District,50400,Homestead Elementary,11.72%,,N,,,
-ak,501,Anchorage School District,50420,Huffman Elementary,10.25%,,N,,,
-ak,501,Anchorage School District,50430,Inlet View Elementary,26.99%,,N,,,
-ak,501,Anchorage School District,50450,Lake Otis Elementary,41.46%,,Y,46.61%,448,186
-ak,501,Anchorage School District,50480,Mountain View Elementary,64.94%,,Y,56.08%,292,190
-ak,501,Anchorage School District,50490,Muldoon Elementary,65.61%,,Y,53.14%,440,289
-ak,501,Anchorage School District,50500,North Star Elementary,61.03%,,Y,56.08%,366,223
-ak,501,Anchorage School District,50510,Northern Lights ABC School,14.88%,,N,,,
-ak,501,Anchorage School District,50520,Northwood ABC School,41.06%,,Y,46.61%,365,150
-ak,501,Anchorage School District,50530,Nunaka Valley Elementary,39.04%,,Y,46.88%,291,114
-ak,501,Anchorage School District,50540,O'Malley Elementary,7.48%,,N,,,
-ak,501,Anchorage School District,50550,Ocean View Elementary,23.75%,,N,,,
-ak,501,Anchorage School District,50560,Clark Middle School,63.10%,,Y,56.08%,880,555
-ak,501,Anchorage School District,50580,Ptarmigan Elementary,49.39%,,Y,56.08%,413,204
-ak,501,Anchorage School District,50590,Rabbit Creek Elementary,12.92%,,N,,,
-ak,501,Anchorage School District,50600,Rogers Park Elementary,22.52%,,N,,,
-ak,501,Anchorage School District,50610,Romig Middle School,31.23%,,N,,730,228
-ak,501,Anchorage School District,50620,Russian Jack Elementary,49.58%,,Y,46.88%,360,178
-ak,501,Anchorage School District,50640,Sand Lake Elementary,22.68%,,N,,,
-ak,501,Anchorage School District,50650,Scenic Park Elementary,23.74%,,N,,459,109
-ak,501,Anchorage School District,50660,Service High School,18.33%,,N,,,
-ak,501,Anchorage School District,50670,Steller Secondary School,7.95%,,N,,,
-ak,501,Anchorage School District,50680,Susitna Elementary,33.09%,,N,,423,140
-ak,501,Anchorage School District,50690,Taku Elementary,44.31%,,Y,53.14%,350,155
-ak,501,Anchorage School District,50700,Tudor Elementary,24.25%,,N,,371,90
-ak,501,Anchorage School District,50710,Turnagain Elementary,33.33%,,N,,393,131
-ak,501,Anchorage School District,50720,Wendler Middle School,36.12%,,Y,56.08%,464,168
-ak,501,Anchorage School District,50730,West High School,29.70%,,N,,,
-ak,501,Anchorage School District,50750,Williwaw Elementary,62.04%,,Y,49.25%,362,225
-ak,501,Anchorage School District,50760,Willow Crest Elementary,51.44%,,Y,53.14%,380,195
-ak,501,Anchorage School District,50770,Wonder Park Elementary,60.35%,,Y,46.61%,396,239
-ak,501,Anchorage School District,50800,Bayshore Elementary,16.01%,,N,,,
-ak,501,Anchorage School District,50810,Ravenwood Elementary,6.01%,,N,,,
-ak,501,Anchorage School District,50820,Bear Valley Elementary,2.03%,,N,,,
-ak,501,Anchorage School District,50870,Hanshew Middle School,26.82%,,N,,,
-ak,501,Anchorage School District,50880,Fire Lake Elementary,17.70%,,N,,,
-ak,501,Anchorage School District,50890,Spring Hill Elementary,40.10%,,Y,53.14%,396,159
-ak,501,Anchorage School District,50940,Mears Middle School,21.63%,,N,,,
-ak,501,Anchorage School District,50970,Bowman Elementary,22.27%,,N,,,
-ak,501,Anchorage School District,50980,Avail School,62.60%,,Y,49.25%,119,74
-ak,501,Anchorage School District,50990,Polaris K-12 School,14.22%,,N,,,
-ak,501,Anchorage School District,51000,Alpenglow Elementary,8.33%,,N,,,
-ak,501,Anchorage School District,51010,Kasuun Elementary,28.21%,,N,,,
-ak,501,Anchorage School District,51020,Kincaid Elementary,21.50%,,N,,,
-ak,501,Anchorage School District,51030,Lake Hood Elementary,37.68%,,N,,345,130
-ak,501,Anchorage School District,51040,William Tyson Elementary,67.27%,,Y,53.14%,386,260
-ak,501,Anchorage School District,51050,Goldenview Middle School,11.25%,,N,,,
-ak,501,Anchorage School District,51060,Mirror Lake Middle School,12.23%,,N,,,
-ak,501,Anchorage School District,51110,Trailside Elementary,20.15%,,N,,,
-ak,501,Anchorage School District,51120,South Anchroage High School,8.27%,,N,,,
-ak,501,Anchorage School District,51130,Eagle River High School,3.12%,,N,,,
-ak,501,Anchorage School District,51150,Nicholas J. Begich Middle School,45.56%,,Y,46.61%,988,450
-ak,501,Anchorage School District,56010,Family Partnership Charter School,14.02%,,N,,,
-ak,501,Anchorage School District,57010,Alaska State School for the Deaf & Hard of Hearing,12.50%,,N,,,
-ak,501,Anchorage School District,57100,Benson Secondary S.E.A.R.C.H,58.33%,,Y,46.61%,250,146
-ak,501,Anchorage School District,57130,S.A.V.E High School,32.14%,,N,,168,54
-ak,501,Anchorage School District,57140,Whaley School,33.55%,,Y,53.14%,90,30
-ak,501,Anchorage School District,57190,Crossroads School,59.09%,,N,,22,13
-ak,501,Anchorage School District,57220,The New Path High School,21.05%,,N,,,
-ak,501,Anchorage School District,59010,Aquarian Charter School,7.87%,,N,,,
-ak,501,Anchorage School District,59050,Frontier Charter School,15.27%,,N,,,
-ak,501,Anchorage School District,59060,Highland Tech High Charter School,25.16%,,N,,,
-ak,501,Anchorage School District,59070,Winterberry School,11.61%,,N,,,
-ak,501,Anchorage School District,59080,Eagle Academy Charter School,3.46%,,N,,,
-ak,501,Anchorage School District,59090,Rilke Schule Charter School,9.85%,,N,,,
-ak,501,Anchorage School District,59100,Alaska Native Cultural Charter School,64.82%,,Y,49.25%,306,198
-ak,601,Annette Island School District,60020,Charles R. Leask Sr. Middle School,52.11%,,Y,44.44%,71,37
-ak,601,Annette Island School District,60030,Richard Johnson Elementary,53.37%,,Y,57.62%,177,94
-ak,601,Annette Island School District,60040,Metlakatla High School,36.36%,,Y,44.44%,61,22
-ak,701,Bering Strait School District,70010,Brevig Mission School,83.62%,,Y,76.56%,171,143
-ak,701,Bering Strait School District,70040,Aniguiin School,76.85%,,Y,76.56%,121,93
-ak,701,Bering Strait School District,70050,Diomede School,63.15%,,Y,76.56%,19,12
-ak,701,Bering Strait School District,70060,Martin L. Olson School,52.17%,,Y,76.56%,46,24
-ak,701,Bering Strait School District,70070,Koyuk-Malimiut School,81.19%,,Y,76.56%,117,95
-ak,701,Bering Strait School District,70080,Anthony A. Andrews School,67.92%,,Y,76.56%,159,108
-ak,701,Bering Strait School District,70100,Shaktooklik School,63.44%,,Y,76.56%,93,59
-ak,701,Bering Strait School District,70110,Shishmaref School,79.79%,,Y,76.56%,193,154
-ak,701,Bering Strait School District,70120,Tukungailnguq School,76.65%,,Y,76.56%,227,174
-ak,701,Bering Strait School District,70130,James C. Isabell School,76.54%,,Y,76.56%,81,62
-ak,701,Bering Strait School District,70150,Wales School,57.44%,,Y,76.56%,47,27
-ak,701,Bering Strait School District,70160,White Mountian School,60.93%,,Y,76.56%,64,39
-ak,701,Bering Strait School District,70180,Gambell School,74.31%,,Y,76.56%,183,136
-ak,701,Bering Strait School District,70200,Hogarth Kingeekuk Sr. School,70.40%,,Y,76.56%,250,176
-ak,701,Bering Strait School District,70260,Unalakleet School,31.00%,,Y,76.56%,200,62
-ak,801,Bristol Bay Borough School District,80010,Bristol BayMiddle/High School,62.50%,,Y,59.82%,55,34
-ak,801,Bristol Bay Borough School District,80020,Naknek Elementary School,55.00%,,Y,59.82%,57,31
-ak,901,Chatham School District,90010,Angoon Elementary & High School,52.11%,,Y,74.32%,71,37
-ak,901,Chatham School District,90090,Klukwan School,31.25%,,N,,16,5
-ak,1011,Copper River School District,110060,Glennallen Elementary,48.52%,,N,,136,66
-ak,1011,Copper River School District,110070,Glennallen School,33.60%,,N,,122,41
-ak,1011,Copper River School District,110100,Kenny Lake School,28.57%,,N,,,
-ak,1011,Copper River School District,110110,Slana School,64.28%,,N,,14,9
-ak,1201,Cordova City School District,120010,Cordova Jr/Sr High School,49.35%,,Y,46.19%,158,78
-ak,1201,Cordova City School District,120020,Mt. Eccles Elementary,40.79%,,Y,46.19%,184,75
-ak,1301,Craig City School District,130010,Craig High School,48.64%,,N,,74,36
-ak,1301,Craig City School District,130020,Craig Elementary,41.52%,,N,,118,49
-ak,1301,Craig City School District,130030,Craig Middle School,42.46%,,N,,73,31
-ak,1401,Delta-Greely School District,140020,Delta Elementary School,29.18%,,N,,,
-ak,1401,Delta-Greely School District,140030,Delta Senior High School,28.24%,,N,,,
-ak,1401,Delta-Greely School District,140090,Gerstle River School,100.00%,,N,,29,29
-ak,1401,Delta-Greely School District,140100,Delta Junior High School,24.11%,,N,,,
-ak,1501,Dillingham City School District,150020,Dillingham Elementary,59.60%,,Y,67.79%,242,144
-ak,1501,Dillingham City School District,150020-0,Dillingham Middle/High School,58.79%,,Y,67.79%,230,135
-ak,1601,Fairbanks Northstar Borough School District,160010,Pearl Creek Elementary,13.99%,,N,,,
-ak,1601,Fairbanks Northstar Borough School District,160020,Barnette Magnet School,16.35%,,N,,,
-ak,1601,Fairbanks Northstar Borough School District,160050,Denali Elementary,31.91%,,N,,329,105
-ak,1601,Fairbanks Northstar Borough School District,160060,Lathrop High School,16.75%,,N,,,
-ak,1601,Fairbanks Northstar Borough School District,160070,Weller Elementary,15.57%,,N,,,
-ak,1601,Fairbanks Northstar Borough School District,160080,Anderson Elementary,2.76%,,N,,,
-ak,1601,Fairbanks Northstar Borough School District,160090,Ben Eielson Jr/Sr High School,6.26%,,N,,,
-ak,1601,Fairbanks Northstar Borough School District,160130,North Pole High School,12.90%,,N,,,
-ak,1601,Fairbanks Northstar Borough School District,160170,Badger Road Elementary,23.34%,,N,,,
-ak,1601,Fairbanks Northstar Borough School District,160180,Hunter Elementary,43.47%,,N,,391,170
-ak,1601,Fairbanks Northstar Borough School District,160200,Joy Elementary,35.86%,,N,,435,156
-ak,1601,Fairbanks Northstar Borough School District,160210,West Valley High School,11.84%,,N,,,
-ak,1601,Fairbanks Northstar Borough School District,160220,Tanana Middle School,13.29%,,N,,,
-ak,1601,Fairbanks Northstar Borough School District,160230,Nordale Elementary,30.58%,,N,,340,104
-ak,1601,Fairbanks Northstar Borough School District,160240,North Pole Elementary,18.76%,,N,,,
-ak,1601,Fairbanks Northstar Borough School District,160250,North Pole Middle School,17.92%,,N,,,
-ak,1601,Fairbanks Northstar Borough School District,160260,Ryan Middle School,32.68%,,N,,358,117
-ak,1601,Fairbanks Northstar Borough School District,160270,Salcha Elementary,39.02%,,N,,82,32
-ak,1601,Fairbanks Northstar Borough School District,160280,Two Rivers School,9.45%,,N,,,
-ak,1601,Fairbanks Northstar Borough School District,160290,University Park Elementary,28.34%,,N,,,
-ak,1601,Fairbanks Northstar Borough School District,160300,Woodriver Elementary,21.35%,,N,,,
-ak,1601,Fairbanks Northstar Borough School District,160340,Ticasuk Brown Elementary,21.26%,,N,,,
-ak,1601,Fairbanks Northstar Borough School District,160350,Ladd Elementary,4.70%,,N,,,
-ak,1601,Fairbanks Northstar Borough School District,160360,Arctic Light Elementary,2.44%,,N,,,
-ak,1601,Fairbanks Northstar Borough School District,160380,Anne Wien Elementary,34.26%,,N,,394,135
-ak,1601,Fairbanks Northstar Borough School District,160400,Crawford Elementary,2.65%,,N,,,
-ak,1601,Fairbanks Northstar Borough School District,160410,Randy Smith Middle School,21.88%,,N,,,
-ak,1601,Fairbanks Northstar Borough School District,167010,Alternative Learning Systems,35.17%,,N,,145,51
-ak,1601,Fairbanks Northstar Borough School District,167030,Hutchison High School,11.02%,,N,,,
-ak,1601,Fairbanks Northstar Borough School District,168010,Fairbanks B.E.S.T.,11.11%,,N,,,
-ak,1601,Fairbanks Northstar Borough School District,169010,Chinook Montessori Charter School,3.31%,,N,,,
-ak,1601,Fairbanks Northstar Borough School District,169030,Star of the North Secondary School,20.40%,,N,,,
-ak,1601,Fairbanks Northstar Borough School District,169040,Effie Kokrine Charter School,47.82%,,N,,138,66
-ak,1601,Fairbanks Northstar Borough School District,169050,Watershed Charter School,2.00%,,N,,,
-ak,1701,Galena City School District,170010,Sidney C. Huntington Elementary,54.90%,,Y,43.00%,52,29
-ak,1701,Galena City School District,170020,Sidney C. Huntington Jr/Sr High School,32.60%,,Y,43.00%,48,16
-ak,1701,Galena City School District,179010,Galena Interior Learning Academy (GILA),56.68%,,Y,56.32%,174,99
-ak,1801,Haines Borough School District,180010,Haines Elementary,32.12%,,N,,165,53
-ak,1801,Haines Borough School District,180020,Haines High School,27.39%,,N,,,
-ak,1901,Hoonah City School District,190010,Hoonah School,46.82%,,Y,53.70%,108,51
-ak,2001,Hydaburg City School District,200010,Hydaburg School,54.44%,,Y,55.70%,79,43
-ak,2101,Iditarod Area School District,210010,Blackwell School,80.00%,,Y,66.31%,16,13
-ak,2101,Iditarod Area School District,210030,Holy Cross School,59.25%,,Y,66.31%,34,20
-ak,2101,Iditarod Area School District,210050,Takotna Community School,80.95%,,Y,66.31%,15,12
-ak,2101,Iditarod Area School District,210060,McGrath School,31.42%,,Y,66.31%,51,16
-ak,2101,Iditarod Area School District,210080,Top of Kuskokwim School,53.84%,,Y,66.31%,17,9
-ak,2101,Iditarod Area School District,210090,Innoko River School,52.38%,,Y,66.31%,15,8
-ak,2101,Iditarod Area School District,210120,David Louis School,75.51%,,Y,66.31%,42,32
-ak,2201,Juneau Borough School District,220010,Auke Bay Elementary,8.72%,,N,,,
-ak,2201,Juneau Borough School District,220020,Dzantik'I Heeni Middle School,20.90%,,N,,,
-ak,2201,Juneau Borough School District,220030,Floyd Dryden Middle School,15.89%,,N,,,
-ak,2201,Juneau Borough School District,220040,Gastineau Elementary,27.18%,,N,,,
-ak,2201,Juneau Borough School District,220050,Glacier Valley Elementary,24.93%,,N,,,
-ak,2201,Juneau Borough School District,220060,Harborview Elementary,25.52%,,N,,,
-ak,2201,Juneau Borough School District,220070,Juneau-Doughlas High School,12.85%,,N,,,
-ak,2201,Juneau Borough School District,220100,Riverbend Elementary,31.98%,,N,,322,103
-ak,2201,Juneau Borough School District,220140,Mendenhall River School,16.95%,,N,,,
-ak,2201,Juneau Borough School District,220150,Thunder Mountain High School,9.27%,,N,,,
-ak,2201,Juneau Borough School District,227010,Yaakoosge Daakahidi Alt. High School,42.22%,,Y,56.25%,96,41
-ak,2201,Juneau Borough School District,227030,Montessori Borealis Alt. School,7.65%,,N,,,
-ak,2201,Juneau Borough School District,229010,Juneau Community Charter School,9.89%,,N,,,
-ak,2301,Kake City School District,230010,Kake Elementary & High School,49.51%,,N,,103,51
-ak,5501,Kashunamiut School District,550010,Chevak School,84.25%,,Y,83.65%,367,309
-ak,2401,Kenai Peninsula Borough School District,240010,Hope School,42.85%,,N,,21,9
-ak,2401,Kenai Peninsula Borough School District,240020,Chapman School,26.51%,,N,,,
-ak,2401,Kenai Peninsula Borough School District,240030,McNeil Canyon Elementary,16.39%,,N,,,
-ak,2401,Kenai Peninsula Borough School District,240040,Cooper Landing School,42.85%,,N,,14,6
-ak,2401,Kenai Peninsula Borough School District,240050,Paul Banks Elementary,26.16%,,N,,,
-ak,2401,Kenai Peninsula Borough School District,240060,Nanwalek School,80.24%,,Y,62.50%,75,60
-ak,2401,Kenai Peninsula Borough School District,240070,Razdolna School,75.29%,,N,,85,64
-ak,2401,Kenai Peninsula Borough School District,240080,Homer High School,16.15%,,N,,,
-ak,2401,Kenai Peninsula Borough School District,240090,Kenai Central High School,16.66%,,N,,,
-ak,2401,Kenai Peninsula Borough School District,240110,Kenai Middle School,25.56%,,N,,,
-ak,2401,Kenai Peninsula Borough School District,240120,Moose Pass School,17.64%,,N,,,
-ak,2401,Kenai Peninsula Borough School District,240130,Nikolaevsk School,57.69%,,Y,62.50%,84,48
-ak,2401,Kenai Peninsula Borough School District,240140,Kalifornsky Beach Elementary,20.28%,,N,,,
-ak,2401,Kenai Peninsula Borough School District,240150,Ninilchik School,26.08%,,N,,,
-ak,2401,Kenai Peninsula Borough School District,240180,Port Graham School,48.57%,,Y,62.50%,32,16
-ak,2401,Kenai Peninsula Borough School District,240190,William H. Seward Elementary School,19.60%,,N,,,
-ak,2401,Kenai Peninsula Borough School District,240200,Seward High School,8.38%,,N,,,
-ak,2401,Kenai Peninsula Borough School District,240210,Soldotna Elementary,25.00%,,N,,,
-ak,2401,Kenai Peninsula Borough School District,240220,Skyview Middle School,21.46%,,N,,,
-ak,2401,Kenai Peninsula Borough School District,240230,Sterling Elementary,26.60%,,N,,,
-ak,2401,Kenai Peninsula Borough School District,240250,Susan B English School,16.66%,,N,,,
-ak,2401,Kenai Peninsula Borough School District,240270,Tustumena Elementary,28.26%,,N,,,
-ak,2401,Kenai Peninsula Borough School District,240280,Tebughna School,60.86%,,Y,62.50%,30,18
-ak,2401,Kenai Peninsula Borough School District,240300,Soldotna High School,13.84%,,N,,,
-ak,2401,Kenai Peninsula Borough School District,240310,Redoubt Elementary,20.57%,,N,,,
-ak,2401,Kenai Peninsula Borough School District,240320,Homer Middle School,19.04%,,N,,,
-ak,2401,Kenai Peninsula Borough School District,240350,Nikiski North Star Elementary,29.39%,,N,,,
-ak,2401,Kenai Peninsula Borough School District,240370,Mt. View Elementary,39.76%,,N,,503,200
-ak,2401,Kenai Peninsula Borough School District,240380,Voznesenka School,62.03%,,N,,108,67
-ak,2401,Kenai Peninsula Borough School District,240390,Nikiski Middle/Senior High School,24.17%,,N,,,
-ak,2401,Kenai Peninsula Borough School District,240420,Kachemak Selo School,77.50%,,N,,40,31
-ak,2401,Kenai Peninsula Borough School District,240490,West Homer Elementary,22.63%,,N,,,
-ak,2401,Kenai Peninsula Borough School District,240500,Seward Middle School,13.17%,,N,,,
-ak,2401,Kenai Peninsula Borough School District,240510,Soldotna Prep School,19.14%,,N,,,
-ak,2401,Kenai Peninsula Borough School District,247010,Connections,18.83%,,N,,,
-ak,2401,Kenai Peninsula Borough School District,247020,Homer Flex School,42.85%,,Y,62.50%,43,18
-ak,2401,Kenai Peninsula Borough School District,247030,Kenai Alternative High School,35.06%,,N,,40,14
-ak,2401,Kenai Peninsula Borough School District,247050,Marathon School,83.33%,,N,,40,33
-ak,2401,Kenai Peninsula Borough School District,247060,River City Academy,22.22%,,N,,,
-ak,2401,Kenai Peninsula Borough School District,249010,Aurora Borealis Charter School,3.68%,,N,,,
-ak,2401,Kenai Peninsula Borough School District,249030,Fireweed Academy,15.92%,,N,,,
-ak,2401,Kenai Peninsula Borough School District,249040,Soldotna Montessori Charter School,8.53%,,N,,,
-ak,2401,Kenai Peninsula Borough School District,249050,Kaleidoscope School of Arts & Sciences,14.90%,,N,,,
-ak,2501,Ketchikan Gateway Borough School District,250010,Houghtaling Elementary,28.79%,,N,,,
-ak,2501,Ketchikan Gateway Borough School District,250020,Ketchikan High School,17.42%,,N,,,
-ak,2501,Ketchikan Gateway Borough School District,250040,Schoenbar Middle School,26.49%,,N,,,
-ak,2501,Ketchikan Gateway Borough School District,250050,Fawn Mountain Elementary,29.86%,,N,,,
-ak,2501,Ketchikan Gateway Borough School District,250100,Point Higgins School,17.52%,,N,,,
-ak,2501,Ketchikan Gateway Borough School District,257010,Revilla Jr/Sr High School,36.27%,,N,,102,37
-ak,2501,Ketchikan Gateway Borough School District,258010,Fast Track,20.00%,,N,,,
-ak,2501,Ketchikan Gateway Borough School District,259010,Ketchikan Charter School,37.96%,,N,,187,71
-ak,2501,Ketchikan Gateway Borough School District,259020,Tongass School of Arts and Sciences,32.97%,,N,,185,61
-ak,2701,Klawock City School District,270010,Klawock City School,64.60%,,N,,113,73
-ak,2801,Kodiak Island Borough School District,280010,Akhiok School,56.25%,,Y,58.26%,26,15
-ak,2801,Kodiak Island Borough School District,280020,Chiniak School,40.90%,,Y,58.26%,26,11
-ak,2801,Kodiak Island Borough School District,280030,East Elementary,48.60%,,N,,358,174
-ak,2801,Kodiak Island Borough School District,280050,Kodiak High School,38.44%,,N,,619,238
-ak,2801,Kodiak Island Borough School District,280060,Peterson Elementary,35.64%,,N,,289,103
-ak,2801,Kodiak Island Borough School District,280070,Kodiak Middle School,43.53%,,N,,487,212
-ak,2801,Kodiak Island Borough School District,280080,Larsen Bay School,0.00%,,N,,1,0
-ak,2801,Kodiak Island Borough School District,280090,Main Elementary,48.11%,,N,,212,102
-ak,2801,Kodiak Island Borough School District,280100,Old Harbor School,56.66%,,Y,58.26%,32,18
-ak,2801,Kodiak Island Borough School District,280110,Ouzinkie School,52.94%,,Y,58.26%,18,10
-ak,2801,Kodiak Island Borough School District,280120,Port Lions School,0.00%,,Y,58.26%,13,0
-ak,2801,Kodiak Island Borough School District,280180,North Star Elementary,44.60%,,N,,213,95
-ak,2901,Kuspuk School District,290010,Auntie Mary Nicoli Elementary,40.47%,,Y,66.24%,102,41
-ak,2901,Kuspuk School District,290011,Aniak Jr/Sr High School,44.89%,,Y,66.24%,51,23
-ak,2901,Kuspuk School District,290020,Crow Village Sam School,78.57%,,Y,66.24%,27,21
-ak,2901,Kuspuk School District,290030,Johnnie John Sr. School,75.00%,,Y,66.24%,23,17
-ak,2901,Kuspuk School District,290040,Joseph S & Olinga Gregory Elementary,46.47%,,Y,66.24%,69,32
-ak,2901,Kuspuk School District,290050,Zackar Levi Elementary,65.90%,,Y,66.24%,39,26
-ak,2901,Kuspuk School District,290070,Jack Egnaty Sr. School,47.61%,,Y,66.24%,19,9
-ak,2901,Kuspuk School District,290080,Gusty Michael School,76.92%,,Y,66.24%,13,10
-ak,2901,Kuspuk School District,290090,George Morgan Sr. High School,76.81%,,Y,66.24%,48,37
-ak,3001,Lake and Peninsula Borough School District,300010,Chignik Bay School,53.33%,,Y,59.35%,17,9
-ak,3001,Lake and Peninsula Borough School District,300020,Chignik Lagoon School,64.28%,,Y,59.35%,13,8
-ak,3001,Lake and Peninsula Borough School District,300030,Chignik Lake School,22.22%,,Y,59.35%,12,3
-ak,3001,Lake and Peninsula Borough School District,300050,Igiugig School,57.14%,,Y,59.35%,19,11
-ak,3001,Lake and Peninsula Borough School District,300080,Kokhanok School,70.96%,,Y,59.35%,35,25
-ak,3001,Lake and Peninsula Borough School District,300090,Newhalen School,80.72%,,Y,59.35%,68,55
-ak,3001,Lake and Peninsula Borough School District,300100,Nondalton School,66.66%,,Y,59.35%,26,17
-ak,3001,Lake and Peninsula Borough School District,300110,Tanalian School,16.66%,,Y,59.35%,63,10
-ak,3001,Lake and Peninsula Borough School District,300120,Perryville School ,43.33%,,Y,59.35%,26,11
-ak,3001,Lake and Peninsula Borough School District,300120-0,Pilot Point School,33.33%,,Y,59.35%,13,4
-ak,3001,Lake and Peninsula Borough School District,300140,Meshik School,68.18%,,Y,59.35%,28,19
-ak,3001,Lake and Peninsula Borough School District,300220,Levelock School,68.00%,,Y,59.35%,22,15
-ak,3101,Lower Kuskokwim School District,310030,Joann A. Alexie Memorial School,81.65%,,Y,68.13%,109,89
-ak,3101,Lower Kuskokwim School District,310040,Negtemiut Elitnaurviat School,57.14%,,Y,68.13%,91,52
-ak,3101,Lower Kuskokwim School District,310050,Mikelnguut Elitnaurviat,46.70%,,Y,68.13%,349,163
-ak,3101,Lower Kuskokwim School District,310060,Gladys Jung Elementary,49.29%,,Y,68.13%,353,174
-ak,3101,Lower Kuskokwim School District,310070,Bethel Regional High School,49.57%,,Y,68.13%,476,236
-ak,3101,Lower Kuskokwim School District,310080,Chaputnguak School,62.23%,,Y,68.13%,143,89
-ak,3101,Lower Kuskokwim School District,310090,Eek School,62.60%,,Y,68.13%,123,77
-ak,3101,Lower Kuskokwim School District,310100,Rocky Mountain School,88.52%,,Y,68.13%,61,54
-ak,3101,Lower Kuskokwim School District,310110,Akula Elitnaurvik School,86.17%,,Y,68.13%,123,106
-ak,3101,Lower Kuskokwim School District,310120,Chief Paul Memorial School,79.42%,,Y,68.13%,209,166
-ak,3101,Lower Kuskokwim School District,310130,Ayagina'ar Elitnaurvik,82.65%,,Y,68.13%,173,143
-ak,3101,Lower Kuskokwim School District,310140,Ket'acik/Aapalluk Memorial School,79.85%,,Y,68.13%,273,218
-ak,3101,Lower Kuskokwim School District,310150,Kwigillingok School,82.87%,,Y,68.13%,146,121
-ak,3101,Lower Kuskokwim School District,310160,Nuniwarmiut School,70.83%,,Y,68.13%,48,34
-ak,3101,Lower Kuskokwim School District,310170,William Miller Memorial School,72.28%,,Y,68.13%,83,60
-ak,3101,Lower Kuskokwim School District,310180,Z. John Williams Memorial School,77.18%,,Y,68.13%,149,115
-ak,3101,Lower Kuskokwim School District,310190,Ayaprun School,81.48%,,Y,68.13%,108,88
-ak,3101,Lower Kuskokwim School District,310200,Lewis Angapak Memorial School,81.08%,,Y,68.13%,148,120
-ak,3101,Lower Kuskokwim School District,310210,Anna Tobeluk Memorial School,91.50%,,Y,68.13%,200,183
-ak,3101,Lower Kuskokwim School District,310220,Kuinerrarmiut Elitnaurviat,80.18%,,Y,68.13%,222,178
-ak,3101,Lower Kuskokwim School District,310230,Arviq School (Platinum),50.00%,,Y,68.13%,12,6
-ak,3101,Lower Kuskokwim School District,310240,Akiuk Memorial School,83.47%,,Y,68.13%,115,96
-ak,3101,Lower Kuskokwim School District,310250,Nelson Island Area School,61.66%,,Y,68.13%,180,111
-ak,3101,Lower Kuskokwim School District,310280,Qugcuun Memorial School,87.50%,,Y,68.13%,16,14
-ak,3101,Lower Kuskokwim School District,310320,Paul T. Albert Memorial School,77.47%,,Y,68.13%,111,86
-ak,3101,Lower Kuskokwim School District,317010,Kuskokwim Learning Academy,66.10%,,Y,66.10%,59,39
-ak,3101,Lower Kuskokwim School District,319010,Ayaprun Elitnaurvik,44.78%,,Y,68.13%,163,73
-ak,3201,Lower Yukon School District,320010,Alakanuk School,76.44%,,Y,78.10%,225,172
-ak,3201,Lower Yukon School District,320040,Emmonak School,66.81%,,Y,78.10%,220,147
-ak,3201,Lower Yukon School District,320050,Marshall School,71.54%,,Y,78.10%,123,88
-ak,3201,Lower Yukon School District,320070,Hooper Bay School,81.10%,,Y,78.10%,471,382
-ak,3201,Lower Yukon School District,320080,Kotlik School,87.15%,,Y,78.10%,179,156
-ak,3201,Lower Yukon School District,320090,Ignatius Beans School,68.14%,,Y,78.10%,226,154
-ak,3201,Lower Yukon School District,320110,Pilot Station School,86.85%,,Y,78.10%,175,152
-ak,3201,Lower Yukon School District,320130,Russian Mission School,86.15%,,Y,78.10%,130,112
-ak,3201,Lower Yukon School District,320140,Scammom Bay School,82.43%,,Y,78.10%,222,183
-ak,3201,Lower Yukon School District,320150,Sheldon Point School,68.18%,,Y,78.10%,66,45
-ak,3301,Matanuska-Susitna Borough School District,33020,Palmer Middle School,28.62%,,N,,,
-ak,3301,Matanuska-Susitna Borough School District,330030,Glacier View School,27.27%,,N,,,
-ak,3301,Matanuska-Susitna Borough School District,330040,Iditarod Elementary,40.14%,,Y,43.52%,431,173
-ak,3301,Matanuska-Susitna Borough School District,330050,Palmer High School,19.09%,,N,,,
-ak,3301,Matanuska-Susitna Borough School District,330060,Sherrod Elementary,32.25%,,N,,431,139
-ak,3301,Matanuska-Susitna Borough School District,330070,Susitna Valley High,26.53%,,N,,,
-ak,3301,Matanuska-Susitna Borough School District,330080,Swanson Elementary,34.50%,,N,,455,157
-ak,3301,Matanuska-Susitna Borough School District,330120,Wasilla High School,27.24%,,N,,837,228
-ak,3301,Matanuska-Susitna Borough School District,330140,Wasilla Middle School,35.43%,,N,,649,230
-ak,3301,Matanuska-Susitna Borough School District,330180,Tanaina Elementary,37.25%,,Y,43.52%,429,160
-ak,3301,Matanuska-Susitna Borough School District,330190,Snowshoe Elementary,39.01%,,N,,405,158
-ak,3301,Matanuska-Susitna Borough School District,330250,Houston Jr/ Sr High School,41.37%,,Y,43.52%,736,304
-ak,3301,Matanuska-Susitna Borough School District,330260,Colony Middle School,19.20%,,N,,,
-ak,3301,Matanuska-Susitna Borough School District,330270,Colony High School,16.48%,,N,,,
-ak,3301,Matanuska-Susitna Borough School District,330280,Cottonwood Creek Elementary,27.00%,,N,,,
-ak,3301,Matanuska-Susitna Borough School District,330290,Finger Lake Elementary,27.20%,,N,,,
-ak,3301,Matanuska-Susitna Borough School District,330300,Pioneer Peak Elementary,21.15%,,N,,,
-ak,3301,Matanuska-Susitna Borough School District,330320,Willow Elementary,31.03%,,N,,145,45
-ak,3301,Matanuska-Susitna Borough School District,330330,Trapper Creek Elementary,50.00%,,Y,50.64%,25,12
-ak,3301,Matanuska-Susitna Borough School District,330340,Talkeetna Elementary,18.86%,,N,,,
-ak,3301,Matanuska-Susitna Borough School District,330350,Butte Elementary,26.93%,,N,,,
-ak,3301,Matanuska-Susitna Borough School District,330360,Sutton Elementary,50.76%,,Y,43.52%,68,35
-ak,3301,Matanuska-Susitna Borough School District,330370,Beryozova School,75.00%,,N,,28,21
-ak,3301,Matanuska-Susitna Borough School District,330380,Big Lake Elementary,48.73%,,Y,50.64%,396,193
-ak,3301,Matanuska-Susitna Borough School District,330390,Goose Bay Elementary,28.26%,,N,,,
-ak,3301,Matanuska-Susitna Borough School District,330420,Meadow Lakes Elementary,41.12%,,Y,43.52%,420,173
-ak,3301,Matanuska-Susitna Borough School District,330430,Larson Elementary,30.82%,,N,,412,127
-ak,3301,Matanuska-Susitna Borough School District,330440,Teeland Middle School,27.65%,,N,,,
-ak,3301,Matanuska-Susitna Borough School District,330500,John Shaw Elementary,30.57%,,N,,484,148
-ak,3301,Matanuska-Susitna Borough School District,330510,Knik Elementary School,27.72%,,N,,,
-ak,3301,Matanuska-Susitna Borough School District,330520,Mat-Su Career & Tech Ed High School,14.82%,,N,,,
-ak,3301,Matanuska-Susitna Borough School District,330530,Fred and Sara Machetanz Elementary School,17.38%,,N,,,
-ak,3301,Matanuska-Susitna Borough School District,330550,Dena'ina Elementary School,30.13%,,N,,375,113
-ak,3301,Matanuska-Susitna Borough School District,337010,Burchell High School,46.59%,,Y,50.64%,195,91
-ak,3301,Matanuska-Susitna Borough School District,337020,Valley Pathways,34.26%,,N,,178,61
-ak,3301,Matanuska-Susitna Borough School District,337050,American Charter Academy,18.78%,,N,,,
-ak,3301,Matanuska-Susitna Borough School District,337060,Mat-Su Day School,29.76%,,N,,,
-ak,3301,Matanuska-Susitna Borough School District,337070,Alaska Middle College School,14.20%,,N,,,
-ak,3301,Matanuska-Susitna Borough School District,338010,Mat-Su Central School,18.90%,,N,,,
-ak,3301,Matanuska-Susitna Borough School District,339010,Academy Charter School,10.31%,,N,,,
-ak,3301,Matanuska-Susitna Borough School District,339020,Midnight Sun Family Learning Center,15.42%,,N,,,
-ak,3301,Matanuska-Susitna Borough School District,339030,Twindly Bridge Charter School,16.27%,,N,,,
-ak,3301,Matanuska-Susitna Borough School District,339040,Fronteras Charter School,14.09%,,N,,,
-ak,3301,Matanuska-Susitna Borough School District,339050,Birchtree Charter School,15.92%,,N,,,
-ak,9801,Mount Edgecumbe,980000,Mt. Edgecumbe High School,48.96%,,Y,48.96%,386,189
-ak,3401,Nenana City School District,340010,Nenana City School,38.28%,,Y,42.69%,171,65
-ak,3501,Nome Public Schools,350010,Nome Elementary,63.30%,,Y,60.98%,387,245
-ak,3501,Nome Public Schools,350020,Nome-Beltz Jr/Sr High,58.77%,,Y,60.98%,305,179
-ak,3501,Nome Public Schools,359010,Anvil City Science Academy,55.00%,,N,,60,33
-ak,3601,North Slope Borough School District,360010,Nunamiut School,42.30%,,Y,42.69%,104,44
-ak,3601,North Slope Borough School District,360020,Freb Ipalook Elementary,25.91%,,N,,,
-ak,3601,North Slope Borough School District,360030,Barrow High School,16.31%,,N,,,
-ak,3601,North Slope Borough School District,360040,Harold Kaveolook School,15.51%,,N,,,
-ak,3601,North Slope Borough School District,360050,Nuiqsut Trapper School,39.18%,,Y,42.69%,171,67
-ak,3601,North Slope Borough School District,360060,Tikigaq School,45.23%,,Y,42.69%,252,114
-ak,3601,North Slope Borough School District,360070,Kali School,23.00%,,N,,,
-ak,3601,North Slope Borough School District,360090,Meade River School,14.60%,,N,,,
-ak,3601,North Slope Borough School District,360100,Alak School,27.60%,,N,,163,45
-ak,3601,North Slope Borough School District,360120,Eben Hopson Middle School,22.42%,,N,,,
-ak,3601,North Slope Borough School District,367010,Kiita Learning Community School,21.95%,,N,,,
-ak,3701,Northwest Arctic Borough School District,370210,Ambler School,79.72%,,Y,66.35%,74,59
-ak,3701,Northwest Arctic Borough School District,370020,Buckland School,65.57%,,Y,66.35%,183,120
-ak,3701,Northwest Arctic Borough School District,370030,Deering School,97.72%,,Y,66.35%,44,43
-ak,3701,Northwest Arctic Borough School District,370040,Kiana School,72.65%,,Y,66.35%,128,93
-ak,3701,Northwest Arctic Borough School District,370060,McQueen School,57.96%,,Y,66.35%,157,91
-ak,3701,Northwest Arctic Borough School District,370070,Kobuk School,85.96%,,Y,66.35%,57,49
-ak,3701,Northwest Arctic Borough School District,370080,June Nelson Elementary,53.42%,,Y,66.35%,380,203
-ak,3701,Northwest Arctic Borough School District,370090,Napaaqtugmiut School,63.90%,,Y,66.35%,169,108
-ak,3701,Northwest Arctic Borough School District,370100,Aqqaluk High/Noorvik Elementary,75.12%,,Y,66.35%,201,151
-ak,3701,Northwest Arctic Borough School District,370110,Shungnak School,55.22%,,Y,66.35%,67,37
-ak,3701,Northwest Arctic Borough School District,370150,Kotzebue Middle/High School,60.86%,,Y,66.35%,322,196
-ak,3701,Northwest Arctic Borough School District,370210-0,Davis-Ramoth School,78.98%,,Y,66.35%,357,282
-ak,3901,Petersburg City School District,390010,Rea C. Stedman Elementary,28.82%,,N,,,
-ak,3901,Petersburg City School District,390020,Petersburg High School,41.22%,,N,,131,54
-ak,3901,Petersburg City School District,390030,Mitkof Middle School,32.03%,,N,,103,33
-ak,4601,Saint Mary's School District,460010,Saint Mary's School,71.06%,,Y,71.06%,197,140
-ak,4201,Sitka School District,420010,Baranof Elementary,23.50%,,N,,,
-ak,4201,Sitka School District,420020,Blatchley Middle School,20.53%,,N,,,
-ak,4201,Sitka School District,420130,Sitka High School,15.90%,,N,,,
-ak,4201,Sitka School District,420170,Keet Gooshi Heen Elementary,22.22%,,N,,,
-ak,4201,Sitka School District,427010,Pacific High School,64.70%,,N,,34,22
-ak,4401,Southeast Island School District,440020,Howard Valentine Coffman Cove School,18.75%,,Y,49.35%,13,2
-ak,4401,Southeast Island School District,440090,Barry Craig Stewart Kasaan School,45.45%,,Y,49.35%,10,5
-ak,4401,Southeast Island School District,440160,Thorne Bay School,43.42%,,N,,76,33
-ak,4401,Southeast Island School District,440190,Whale Pass School,35.00%,,Y,49.35%,12,4
-ak,4401,Southeast Island School District,440230,Port Alexander School,36.84%,,N,,19,7
-ak,4401,Southeast Island School District,440250,Hollis School,35.00%,,Y,49.35%,23,8
-ak,4401,Southeast Island School District,440270,Naukati School,60.00%,,Y,49.35%,19,11
-ak,4401,Southeast Island School District,440340,Hyder School,9.09%,,N,,,
-ak,4501,Southwest Region School District,450020,Aleknagik School,48.57%,,Y,77.17%,28,14
-ak,4501,Southwest Region School District,450030,Clarks Point School,75.00%,,Y,77.17%,13,10
-ak,4501,Southwest Region School District,450040,"William ""Sonny"" Nelson School",64.70%,,Y,77.17%,14,9
-ak,4501,Southwest Region School District,450050,Koliganek School,77.77%,,Y,77.17%,51,40
-ak,4501,Southwest Region School District,450070,Manokatak School,87.02%,,Y,77.17%,122,106
-ak,4501,Southwest Region School District,450080,Chief Ivan Blunka School,74.63%,,Y,77.17%,129,96
-ak,4501,Southwest Region School District,450110,Togiak School,73.02%,,Y,77.17%,211,154
-ak,4501,Southwest Region School District,450120,Twin Hills School,73.33%,,Y,77.17%,19,14
-ak,4701,Unalaska City School District,470010,Eagle's View Elementary,7.78%,,N,,,
-ak,4701,Unalaska City School District,470020,Unalaska Jr/Sr High School,4.04%,,N,,,
-ak,4801,Valdez City School District,480030,Valdez High School,18.85%,,N,,,
-ak,4801,Valdez City School District,480040,George H. Gilson Middle School,20.12%,,N,,,
-ak,4801,Valdez City School District,480050,Hermon Hutchens Elementary,21.83%,,N,,,
-ak,5101,Yukon Flats School District,510010,Arctic Village School,71.79%,,Y,65.98%,41,29
-ak,5101,Yukon Flats School District,510040,Tsuk Taih School,54.54%,,Y,65.98%,13,7
-ak,5101,Yukon Flats School District,510050,Circle School,66.66%,,Y,65.98%,19,13
-ak,5101,Yukon Flats School District,510060,John Fredson School,79.16%,,Y,65.98%,64,51
-ak,5101,Yukon Flats School District,510070,Fort Yukon School,49.53%,,Y,65.98%,107,53
-ak,5101,Yukon Flats School District,510140,Cruikshank School,88.88%,,Y,65.98%,8,7
-ak,5201,Yukon-Koyukuk School District,520010,Allakaket School,82.14%,,Y,64.28%,31,25
-ak,5201,Yukon-Koyukuk School District,520030,John Oldman School,38.09%,,Y,64.28%,16,6
-ak,5201,Yukon-Koyukuk School District,520040,Jimmy Huntington School,53.94%,,Y,64.28%,82,44
-ak,5201,Yukon-Koyukuk School District,520050,Kaltag School,40.00%,,Y,64.28%,19,8
-ak,5201,Yukon-Koyukuk School District,520060,Ella B. Vernetti School,57.14%,,Y,64.28%,16,9
-ak,5201,Yukon-Koyukuk School District,520070,Gladys Dart School,100.00%,,N,,6,6
-ak,5201,Yukon-Koyukuk School District,520080,Minto School,58.69%,,Y,64.28%,61,36
-ak,5201,Yukon-Koyukuk School District,520090,Adnrew K. Demoski School,47.05%,,Y,64.28%,48,23
-ak,5201,Yukon-Koyukuk School District,520110,Merreline A. Kangas School,52.00%,,Y,64.28%,30,16
-ak,5201,Yukon-Koyukuk School District,520120,Rampart School,85.71%,,Y,64.28%,14,12
-ak,5401,Yupiit School District,540010,Akiachak School,85.64%,,Y,87.91%,210,180
-ak,5401,Yupiit School District,540030,Akiak School,88.09%,,Y,87.91%,125,110
-ak,5401,Yupiit School District,540040,Tululsak School,90.83%,,Y,87.91%,120,109
+ak,201,Alaska Gateway School District,30010,Dot Lake School                               ,10.00%,,,Y,10,1
+ak,201,Alaska Gateway School District,30020,Eagle Community School              ,52.94%,,,Y,17,9
+ak,201,Alaska Gateway School District,30030,Mentasta Lake School                      ,100.00%,,,Y,34,34
+ak,201,Alaska Gateway School District,30040,Walter Northway School                  ,76.47%,,,Y,51,39
+ak,201,Alaska Gateway School District,30050,Tanacross School,61.53%,,,Y,13,8
+ak,201,Alaska Gateway School District,30060,Tok School                                       ,68.78%,,,Y,173,119
+ak,201,Alaska Gateway School District,30070,Tetlin School,97.29%,,,Y,37,36
+ak,501,Anchorage School District,50010,Abbott Loop Elementary,35.97%,,,Y,328,118
+ak,501,Anchorage School District,50020,Airport Heights Elementary,59.58%,,,Y,292,174
+ak,501,Anchorage School District,50030,Klatt Elementary,39.11%,,,Y,408,160
+ak,501,Anchorage School District,50050,Bartlett High School,38.43%,,,Y,"1,332",
+ak,501,Anchorage School District,50060,Baxter Elementary,39.73%,,,Y,307,122
+ak,501,Anchorage School District,50070,Birchwood ABC Elementary,20.12%,,,N,328,66
+ak,501,Anchorage School District,50080,Campbell Elementary,27.35%,,,N,424,116
+ak,501,Anchorage School District,50100,Central Middle School of Science,42.89%,,,Y,415,178
+ak,501,Anchorage School District,50110,Chester Valley Elementary,49.82%,,,Y,291,145
+ak,501,Anchorage School District,50120,Chinook Elementary,36.13%,,,Y,487,176
+ak,501,Anchorage School District,50130,Chugach Optional Elementary,7.03%,,,N,256,18
+ak,501,Anchorage School District,50140,Gruening Middle School,7.86%,,,N,585,46
+ak,501,Anchorage School District,50150,Chugiak Elementary,10.84%,,,N,498,54
+ak,501,Anchorage School District,50160,Chugiak High School,10.99%,,,N,937,103
+ak,501,Anchorage School District,50170,College Gate Elementary,36.93%,,,Y,417,154
+ak,501,Anchorage School District,50180,Creekside Park Elementary,51.33%,,,Y,487,250
+ak,501,Anchorage School District,50190,Denali Montessori Elementary,36.94%,,,N,425,157
+ak,501,Anchorage School District,50200,Dimond High School,15.54%,,,N,"1,480",
+ak,501,Anchorage School District,50220,East High School,44.95%,,,Y,"1,695",
+ak,501,Anchorage School District,50240,Aurora Elementary,1.54%,,,N,324,5
+ak,501,Anchorage School District,50250,Orion Elementary School,1.22%,,,N,245,3
+ak,501,Anchorage School District,50300,Fairview Elementary,69.50%,,,Y,387,269
+ak,501,Anchorage School District,50340,Ursa Major Elementary,3.10%,,,N,451,14
+ak,501,Anchorage School District,50350,Ursa Minor Elementary,0.56%,,,N,352,2
+ak,501,Anchorage School District,50360,Girdwood School,6.31%,,,N,206,13
+ak,501,Anchorage School District,50370,Gladys Wood Elementary,37.87%,,,Y,396,150
+ak,501,Anchorage School District,50380,Government Hill Elementary,30.69%,,,Y,492,151
+ak,501,Anchorage School District,50400,Homestead Elementary,10.89%,,,N,468,51
+ak,501,Anchorage School District,50420,Huffman Elementary,12.74%,,,N,416,53
+ak,501,Anchorage School District,50430,Inlet View Elementary,24.61%,,,N,260,64
+ak,501,Anchorage School District,50450,Lake Otis Elementary,44.74%,,,Y,409,183
+ak,501,Anchorage School District,50480,Mountain View Elementary,68.25%,,,Y,315,215
+ak,501,Anchorage School District,50490,Muldoon Elementary,63.77%,,,Y,461,294
+ak,501,Anchorage School District,50500,North Star Elementary,65.65%,,,Y,364,239
+ak,501,Anchorage School District,50510,Northern Lights ABC K-8 School,14.95%,,,N,615,92
+ak,501,Anchorage School District,50520,Northwood ABC,36.33%,,,Y,355,129
+ak,501,Anchorage School District,50530,Nunaka Valley Elementary,33.96%,,,Y,262,89
+ak,501,Anchorage School District,50540,O'Malley Elementary,7.11%,,,N,309,22
+ak,501,Anchorage School District,50550,Ocean View Elementary,22.83%,,,N,451,103
+ak,501,Anchorage School District,50560,Clark Middle School,61.81%,,,Y,859,531
+ak,501,Anchorage School District,50580,Ptarmigan Elementary,42.58%,,,Y,425,181
+ak,501,Anchorage School District,50590,Rabbit Creek Elementary,11.59%,,,N,483,56
+ak,501,Anchorage School District,50600,Rogers Park Elementary,20.24%,,,N,499,101
+ak,501,Anchorage School District,50610,Romig Middle School,31.04%,,,N,728,226
+ak,501,Anchorage School District,50620,Russian Jack Elementary,53.50%,,,Y,314,168
+ak,501,Anchorage School District,50640,Sand Lake Elementary,18.84%,,,N,626,118
+ak,501,Anchorage School District,50650,Scenic Park Elementary,27.19%,,,N,456,124
+ak,501,Anchorage School District,50660,Service High School,18.60%,,,N,"1,500",
+ak,501,Anchorage School District,50670,Steller Secondary School,8.80%,,,N,284,25
+ak,501,Anchorage School District,50680,Susitna Elementary,30.80%,,,Y,435,134
+ak,501,Anchorage School District,50690,Taku Elementary,43.78%,,,Y,354,155
+ak,501,Anchorage School District,50700,Tudor Elementary,26.14%,,,N,371,97
+ak,501,Anchorage School District,50710,Turnagain Elementary,32.50%,,,N,400,130
+ak,501,Anchorage School District,50720,Wendler Middle School,37.74%,,,Y,453,171
+ak,501,Anchorage School District,50730,West High School,28.51%,,,N,"1,722",
+ak,501,Anchorage School District,50750,Williwaw Elementary,54.98%,,,Y,351,193
+ak,501,Anchorage School District,50760,Willow Crest Elementary,50.12%,,,Y,395,198
+ak,501,Anchorage School District,50770,Wonder Park Elementary,61.53%,,,Y,364,224
+ak,501,Anchorage School District,50800,Bayshore Elementary,14.90%,,,N,436,65
+ak,501,Anchorage School District,50810,Ravenwood Elementary,6.96%,,,N,531,37
+ak,501,Anchorage School District,50820,Bear Valley Elementary,3.98%,,,N,427,17
+ak,501,Anchorage School District,50870,Hanshew Middle School,27.40%,,,N,697,191
+ak,501,Anchorage School District,50880,Fire Lake Elementary,17.30%,,,N,393,68
+ak,501,Anchorage School District,50890,Spring Hill Elementary,44.59%,,,Y,379,169
+ak,501,Anchorage School District,50940,Mears Middle School,21.68%,,,N,738,160
+ak,501,Anchorage School District,50970,Bowman Elementary,17.28%,,,N,590,102
+ak,501,Anchorage School District,50980,Avail School,64.89%,,,Y,94,61
+ak,501,Anchorage School District,50990,Polaris K-12 School,17.91%,,,N,480,86
+ak,501,Anchorage School District,51000,Alpenglow Elementary,6.83%,,,N,483,33
+ak,501,Anchorage School District,51010,Kasuun Elementary,29.88%,,,N,338,101
+ak,501,Anchorage School District,51020,Kincaid Elementary,17.54%,,,N,553,97
+ak,501,Anchorage School District,51030,Lake Hood Elementary,35.04%,,,N,311,109
+ak,501,Anchorage School District,51040,William Tyson Elementary,65.64%,,,Y,358,235
+ak,501,Anchorage School District,51050,Goldenview Middle School,11.81%,,,N,711,84
+ak,501,Anchorage School District,51060,Mirror Lake Middle School,12.42%,,,N,668,83
+ak,501,Anchorage School District,51110,Trailside Elementary,18.11%,,,N,392,71
+ak,501,Anchorage School District,51120,South Anchorage High School,8.01%,,,N,"1,322",
+ak,501,Anchorage School District,51130,Eagle River High School,2.68%,,,N,858,23
+ak,501,Anchorage School District,51150,Nicholas J. Begich Middle School,45.36%,,,Y,981,445
+ak,501,Anchorage School District,56010,Family Partnership Charter School,14.99%,,,N,727,109
+ak,501,Anchorage School District,57010,Alaska State School for the Deaf & Hard of Hearing,23.33%,,,N,30,7
+ak,501,Anchorage School District,57100,Benson Secondary/S.E.A.R.C.H.,50.52%,,,Y,285,144
+ak,501,Anchorage School District,57110,King Career Center,21.95%,,,N,164,36
+ak,501,Anchorage School District,57130,S.A.V.E. High School,38.42%,,,N,203,78
+ak,501,Anchorage School District,57140,Whaley School,32.69%,,,Y,419,137
+ak,501,Anchorage School District,57220,The New Path High School,18.18%,,,N,11,2
+ak,501,Anchorage School District,59010,Aquarian Charter School,8.31%,,,N,385,32
+ak,501,Anchorage School District,59050,Frontier Charter School,15.07%,,,N,272,41
+ak,501,Anchorage School District,59060,Highland Tech High Charter School,26.28%,,,N,175,46
+ak,501,Anchorage School District,59070,Winterberry School,9.83%,,,N,244,24
+ak,501,Anchorage School District,59080,Eagle Academy Charter School,6.28%,,,N,175,11
+ak,501,Anchorage School District,59090,Rilke Schule Charter School,10.22%,,,N,499,51
+ak,501,Anchorage School District,59100,Alaska Native Cultural Charter School,56.57%,,,Y,304,172
+ak,601,Annette Island School District,60020,Charles R. Leask Sr. Middle School,56.62%,,,Y,83,47
+ak,601,Annette Island School District,60030,Richard Johnson Elementary,58.89%,,,Y,163,96
+ak,601,Annette Island School District,60040,Metlakatla High School,47.82%,,,Y,69,33
+ak,701,Bering Strait School District,70010,Brevig Mission School,84.41%,,,Y,154,130
+ak,701,Bering Strait School District,70040,Aniguiin School,78.04%,,,Y,123,96
+ak,701,Bering Strait School District,70050,Diomede School,40.00%,,,Y,15,6
+ak,701,Bering Strait School District,70060,Martin L. Olson School,58.69%,,,Y,46,27
+ak,701,Bering Strait School District,70070,Koyuk-Malimiut School,85.55%,,,Y,90,77
+ak,701,Bering Strait School District,70080,Anthony A. Andrews School,73.41%,,,Y,158,116
+ak,701,Bering Strait School District,70100,Shaktooklik School,69.74%,,,Y,86,60
+ak,701,Bering Strait School District,70110,Shishmaref School,84.69%,,,Y,196,166
+ak,701,Bering Strait School District,70120,Tukungailnguq School,75.71%,,,Y,210,159
+ak,701,Bering Strait School District,70130,James C. Isabell School,79.51%,,,Y,83,66
+ak,701,Bering Strait School District,70150,Wales School,38.46%,,,Y,52,20
+ak,701,Bering Strait School District,70160,White Mountian School,60.78%,,,Y,51,31
+ak,701,Bering Strait School District,70180,Gambell School,75.20%,,,Y,177,133
+ak,701,Bering Strait School District,70200,Hogarth Kingeekuk Sr. School,41.23%,,,Y,250,103
+ak,701,Bering Strait School District,70260,Unalakleet School,65.96%,,,Y,194,128
+ak,801,Bristol Bay Borough School District,80010,Bristol BayMiddle/High School,60.46%,,,Y,43,26
+ak,801,Bristol Bay Borough School District,80020,Naknek Elementary School,55.84%,,,Y,77,43
+ak,901,Chatham School District,90010,Angoon Elementary & High School,55.12%,,,Y,78,43
+ak,901,Chatham School District,90090,Klukwan School,50.00%,,,N,18,9
+ak,1011,Copper River School District,110060,Glennallen Elementary,48.81%,,,N,127,62
+ak,1011,Copper River School District,110070,Glennallen School,45.45%,,,N,110,50
+ak,1011,Copper River School District,110100,Kenny Lake School,31.14%,,,N,61,19
+ak,1011,Copper River School District,110110,Slana School,66.66%,,,N,9,6
+ak,1201,Cordova City School District,120010,Cordova Jr/Sr High School,50.72%,,,Y,138,70
+ak,1201,Cordova City School District,120020,Mt. Eccles Elementary,41.36%,,,Y,191,79
+ak,1301,Craig City School District,130010,Craig High School,46.66%,,,N,75,35
+ak,1301,Craig City School District,130020,Craig Elementary,41.23%,,,N,97,40
+ak,1301,Craig City School District,130030,Craig Middle School,44.73%,,,N,76,34
+ak,1401,Delta-Greely School District,140020,Delta Elementary School,8.35%,,,N,359,30
+ak,1401,Delta-Greely School District,140030,Delta Senior High School,8.02%,,,N,162,13
+ak,1401,Delta-Greely School District,140090,Gerstle River School,100.00%,,,N,28,28
+ak,1401,Delta-Greely School District,140100,Delta Junior High School,13.15%,,,N,152,20
+ak,1501,Dillingham City School District,150020,Dillingham Elementary,59.43%,,,Y,212,126
+ak,1501,Dillingham City School District,150020-0,Dillingham Middle/High School,60.55%,,,Y,218,132
+ak,1601,Fairbanks Northstar Borough School District,160010,Pearl Creek Elementary,13.25%,,,N,498,66
+ak,1601,Fairbanks Northstar Borough School District,160020,Barnette Magnet School,12.87%,,,N,404,52
+ak,1601,Fairbanks Northstar Borough School District,160050,Denali Elementary,30.83%,,,N,334,103
+ak,1601,Fairbanks Northstar Borough School District,160060,Lathrop High School,16.77%,,,N,900,151
+ak,1601,Fairbanks Northstar Borough School District,160070,Weller Elementary,18.01%,,,N,494,89
+ak,1601,Fairbanks Northstar Borough School District,160080,Anderson Elementary,2.81%,,,N,249,7
+ak,1601,Fairbanks Northstar Borough School District,160090,Ben Eielson Jr/Sr High School,7.01%,,,N,342,24
+ak,1601,Fairbanks Northstar Borough School District,160130,North Pole High School,14.78%,,,N,595,88
+ak,1601,Fairbanks Northstar Borough School District,160170,Badger Road Elementary,19.65%,,,N,407,80
+ak,1601,Fairbanks Northstar Borough School District,160180,Hunter Elementary,42.40%,,,N,375,159
+ak,1601,Fairbanks Northstar Borough School District,160200,Joy Elementary,34.36%,,,N,419,144
+ak,1601,Fairbanks Northstar Borough School District,160210,West Valley High School,13.32%,,,N,953,127
+ak,1601,Fairbanks Northstar Borough School District,160220,Tanana Middle School,12.14%,,,N,535,65
+ak,1601,Fairbanks Northstar Borough School District,160230,Nordale Elementary,31.15%,,,N,321,100
+ak,1601,Fairbanks Northstar Borough School District,160240,North Pole Elementary,23.83%,,,N,386,92
+ak,1601,Fairbanks Northstar Borough School District,160250,North Pole Middle School,20.21%,,,N,569,115
+ak,1601,Fairbanks Northstar Borough School District,160260,Ryan Middle School,28.49%,,,N,393,112
+ak,1601,Fairbanks Northstar Borough School District,160270,Salcha Elementary,30.26%,,,N,76,23
+ak,1601,Fairbanks Northstar Borough School District,160280,Two Rivers School,18.29%,,,N,82,15
+ak,1601,Fairbanks Northstar Borough School District,160290,University Park Elementary,26.54%,,,N,486,129
+ak,1601,Fairbanks Northstar Borough School District,160300,Woodriver Elementary,20.25%,,,N,479,97
+ak,1601,Fairbanks Northstar Borough School District,160340,Ticasuk Brown Elementary,24.07%,,,N,461,111
+ak,1601,Fairbanks Northstar Borough School District,160350,Ladd Elementary,8.27%,,,N,399,33
+ak,1601,Fairbanks Northstar Borough School District,160360,Arctic Light Elementary,2.45%,,,N,407,10
+ak,1601,Fairbanks Northstar Borough School District,160380,Anne Wien Elementary,34.50%,,,N,397,137
+ak,1601,Fairbanks Northstar Borough School District,160400,Crawford Elementary,2.64%,,,N,265,7
+ak,1601,Fairbanks Northstar Borough School District,160410,Randy Smith Middle School,20.32%,,,N,305,62
+ak,1601,Fairbanks Northstar Borough School District,167010,Alternative Learning Systems,43.58%,,,N,117,51
+ak,1601,Fairbanks Northstar Borough School District,167030,Hutchison High School,13.16%,,,N,395,52
+ak,1601,Fairbanks Northstar Borough School District,168010,Fairbanks B.E.S.T.,14.82%,,,N,290,43
+ak,1601,Fairbanks Northstar Borough School District,169010,Chinook Montessori Charter School,4.63%,,,N,151,7
+ak,1601,Fairbanks Northstar Borough School District,169030,Star of the North Secondary School,23.80%,,,N,189,45
+ak,1601,Fairbanks Northstar Borough School District,169040,Effie Kokrine Charter School,53.54%,,,N,155,83
+ak,1601,Fairbanks Northstar Borough School District,169050,Watershed Charter School,5.05%,,,N,198,10
+ak,1701,Galena City School District,170010,Sidney C. Huntington Elementary,58.33%,,,Y,60,35
+ak,1701,Galena City School District,170020,Sidney C. Huntington Jr/Sr High School,40.62%,,,Y,32,13
+ak,1701,Galena City School District,179010,Galena Interior Learning Academy (GILA),52.27%,,,Y,176,92
+ak,1801,Haines Borough School District,180010,Haines Elementary,39.88%,,,N,168,67
+ak,1801,Haines Borough School District,180020,Haines High School,26.25%,,,N,80,21
+ak,1901,Hoonah City School District,190010,Hoonah School,40.14%,,,Y,137,55
+ak,2001,Hydaburg City School District,200010,Hydaburg School,53.94%,,,Y,76,41
+ak,2101,Iditarod Area School District,210010,Blackwell School,50.00%,,,Y,16,8
+ak,2101,Iditarod Area School District,210030,Holy Cross School,69.56%,,,Y,23,16
+ak,2101,Iditarod Area School District,210050,Takotna Community School,66.66%,,,Y,15,10
+ak,2101,Iditarod Area School District,210060,McGrath School,30.55%,,,Y,36,11
+ak,2101,Iditarod Area School District,210080,Top of Kuskokwim School,50.00%,,,Y,12,6
+ak,2101,Iditarod Area School District,210090,Innoko River School,78.26%,,,Y,23,18
+ak,2101,Iditarod Area School District,210120,David Louis School,68.76%,,,Y,43,30
+ak,2201,Juneau Borough School District,220010,Auke Bay Elementary,9.69%,,,N,392,38
+ak,2201,Juneau Borough School District,220020,Dzantik'I Heeni Middle School,17.70%,,,N,514,91
+ak,2201,Juneau Borough School District,220030,Floyd Dryden Middle School,14.75%,,,N,454,67
+ak,2201,Juneau Borough School District,220040,Gastineau Elementary,31.50%,,,N,292,92
+ak,2201,Juneau Borough School District,220050,Glacier Valley Elementary,24.05%,,,N,395,95
+ak,2201,Juneau Borough School District,220060,Harborview Elementary,24.11%,,,N,340,82
+ak,2201,Juneau Borough School District,220070,Juneau-Doughlas High School,12.19%,,,N,574,70
+ak,2201,Juneau Borough School District,220100,Riverbend Elementary,26.58%,,,N,316,84
+ak,2201,Juneau Borough School District,220140,Mendenhall River School,20.76%,,,N,366,76
+ak,2201,Juneau Borough School District,220150,Thunder Mountain High School,8.80%,,,N,647,57
+ak,2201,Juneau Borough School District,227010,Yaakoosge Daakahidi Alt. High School,34.28%,,,Y,105,36
+ak,2201,Juneau Borough School District,227030,Montessori Borealis Alt. School,6.06%,,,N,198,12
+ak,2201,Juneau Borough School District,229010,Juneau Community Charter School,8.79%,,,N,91,8
+ak,2301,Kake City School District,230010,Kake Elementary & High School,54.90%,,,Y,102,56
+ak,5501,Kashunamiut School District,550010,Chevak School,83.13%,,,Y,332,276
+ak,2401,Kenai Peninsula Borough School District,240010,Hope School,41.17%,,,N,17,7
+ak,2401,Kenai Peninsula Borough School District,240020,Chapman School,28.47%,,,N,144,41
+ak,2401,Kenai Peninsula Borough School District,240030,McNeil Canyon Elementary,17.50%,,,N,120,21
+ak,2401,Kenai Peninsula Borough School District,240040,Cooper Landing School,0.00%,,,N,10,0
+ak,2401,Kenai Peninsula Borough School District,240050,Paul Banks Elementary,22.58%,,,N,217,49
+ak,2401,Kenai Peninsula Borough School District,240060,Nanwalek School,82.50%,,,Y,80,66
+ak,2401,Kenai Peninsula Borough School District,240070,Razdolna School,71.95%,,,N,82,59
+ak,2401,Kenai Peninsula Borough School District,240080,Homer High School,15.55%,,,N,360,56
+ak,2401,Kenai Peninsula Borough School District,240090,Kenai Central High School,19.67%,,,N,427,84
+ak,2401,Kenai Peninsula Borough School District,240110,Kenai Middle School,25.58%,,,N,383,98
+ak,2401,Kenai Peninsula Borough School District,240120,Moose Pass School,15.78%,,,N,19,3
+ak,2401,Kenai Peninsula Borough School District,240130,Nikolaevsk School,80.00%,,,Y,42,34
+ak,2401,Kenai Peninsula Borough School District,240140,Kalifornsky Beach Elementary,21.76%,,,N,441,96
+ak,2401,Kenai Peninsula Borough School District,240150,Ninilchik School,27.50%,,,N,120,33
+ak,2401,Kenai Peninsula Borough School District,240180,Port Graham School,50.00%,,,Y,32,16
+ak,2401,Kenai Peninsula Borough School District,240190,William H. Seward Elementary School,17.60%,,,N,284,50
+ak,2401,Kenai Peninsula Borough School District,240200,Seward High School,11.84%,,,N,152,18
+ak,2401,Kenai Peninsula Borough School District,240210,Soldotna Elementary,23.07%,,,N,312,72
+ak,2401,Kenai Peninsula Borough School District,240220,Skyview Middle School,20.55%,,,N,399,82
+ak,2401,Kenai Peninsula Borough School District,240230,Sterling Elementary,27.83%,,,N,194,54
+ak,2401,Kenai Peninsula Borough School District,240250,Susan B English School,20.68%,,,N,29,6
+ak,2401,Kenai Peninsula Borough School District,240270,Tustumena Elementary,19.74%,,,N,157,31
+ak,2401,Kenai Peninsula Borough School District,240280,Tebughna School,64.00%,,,Y,25,16
+ak,2401,Kenai Peninsula Borough School District,240300,Soldotna High School,16.44%,,,N,687,113
+ak,2401,Kenai Peninsula Borough School District,240310,Redoubt Elementary,21.21%,,,N,363,77
+ak,2401,Kenai Peninsula Borough School District,240320,Homer Middle School,20.80%,,,N,173,36
+ak,2401,Kenai Peninsula Borough School District,240350,Nikiski North Star Elementary,29.32%,,,N,341,100
+ak,2401,Kenai Peninsula Borough School District,240370,Mt. View Elementary,38.93%,,,N,452,176
+ak,2401,Kenai Peninsula Borough School District,240380,Voznesenka School,64.10%,,,N,117,75
+ak,2401,Kenai Peninsula Borough School District,240390,Nikiski Middle/Senior High School,25.22%,,,N,333,84
+ak,2401,Kenai Peninsula Borough School District,240420,Kachemak Selo School,74.35%,,,N,39,29
+ak,2401,Kenai Peninsula Borough School District,240490,West Homer Elementary,23.82%,,,N,235,56
+ak,2401,Kenai Peninsula Borough School District,240500,Seward Middle School,14.59%,,,N,137,20
+ak,2401,Kenai Peninsula Borough School District,247010,Connections,18.50%,,,N,897,166
+ak,2401,Kenai Peninsula Borough School District,247020,Homer Flex School,28.12%,,,Y,32,9
+ak,2401,Kenai Peninsula Borough School District,247030,Kenai Alternative High School,38.09%,,,N,63,24
+ak,2401,Kenai Peninsula Borough School District,247050,Marathon School,66.66%,,,N,9,6
+ak,2401,Kenai Peninsula Borough School District,247060,River City Academy,12.22%,,,N,90,11
+ak,2401,Kenai Peninsula Borough School District,249010,Aurora Borealis Charter School,3.33%,,,N,180,6
+ak,2401,Kenai Peninsula Borough School District,249030,Fireweed Academy,20.49%,,,N,122,25
+ak,2401,Kenai Peninsula Borough School District,249040,Soldotna Montessori Charter School,6.74%,,,N,163,11
+ak,2401,Kenai Peninsula Borough School District,249050,Kaleidoscope School of Arts & Sciences,15.17%,,,N,257,39
+ak,2501,Ketchikan Gateway Borough School District,250010,Houghtaling Elementary,23.39%,,,N,389,91
+ak,2501,Ketchikan Gateway Borough School District,250020,Ketchikan High School,14.63%,,,N,533,78
+ak,2501,Ketchikan Gateway Borough School District,250040,Schoenbar Middle School,25.00%,,,N,248,62
+ak,2501,Ketchikan Gateway Borough School District,250050,Fawn Mountain Elementary,29.39%,,,N,279,82
+ak,2501,Ketchikan Gateway Borough School District,250100,Point Higgins School,16.72%,,,N,299,50
+ak,2501,Ketchikan Gateway Borough School District,257010,Revilla Jr/Sr High School,46.15%,,,N,104,48
+ak,2501,Ketchikan Gateway Borough School District,258010,Fast Track,22.22%,,,N,72,16
+ak,2501,Ketchikan Gateway Borough School District,259010,Ketchikan Charter School,30.55%,,,N,180,55
+ak,2501,Ketchikan Gateway Borough School District,259020,Tongass School of Arts and Sciences,25.39%,,,N,189,48
+ak,2701,Klawock City School District,270010,Klawock City School,62.22%,,,N,135,84
+ak,2801,Kodiak Island Borough School District,280010,Akhiok School,46.66%,,,Y,15,7
+ak,2801,Kodiak Island Borough School District,280020,Chiniak School,42.10%,,,Y,19,8
+ak,2801,Kodiak Island Borough School District,280030,East Elementary,37.57%,,,N,338,127
+ak,2801,Kodiak Island Borough School District,280050,Kodiak High School,25.32%,,,N,624,158
+ak,2801,Kodiak Island Borough School District,280060,Peterson Elementary,12.54%,,,N,263,33
+ak,2801,Kodiak Island Borough School District,280070,Kodiak Middle School,30.50%,,,N,472,144
+ak,2801,Kodiak Island Borough School District,280090,Main Elementary,29.43%,,,N,214,63
+ak,2801,Kodiak Island Borough School District,280100,Old Harbor School,71.42%,,,Y,21,15
+ak,2801,Kodiak Island Borough School District,280110,Ouzinkie School,53.33%,,,Y,15,8
+ak,2801,Kodiak Island Borough School District,280120,Port Lions School,8.33%,,,Y,12,1
+ak,2801,Kodiak Island Borough School District,280180,North Star Elementary,32.03%,,,N,231,74
+ak,2901,Kuspuk School District,290010,Auntie Mary Nicoli Elementary,43.90%,,,Y,82,36
+ak,2901,Kuspuk School District,290011,Aniak Jr/Sr High School,52.72%,,,Y,55,29
+ak,2901,Kuspuk School District,290020,Crow Village Sam School,73.07%,,,Y,26,19
+ak,2901,Kuspuk School District,290030,Johnnie John Sr. School,85.18%,,,Y,27,23
+ak,2901,Kuspuk School District,290040,Joseph S & Olinga Gregory Elementary,56.92%,,,Y,65,37
+ak,2901,Kuspuk School District,290050,Zackar Levi Elementary,78.37%,,,Y,37,29
+ak,2901,Kuspuk School District,290070,Jack Egnaty Sr. School,72.22%,,,Y,18,13
+ak,2901,Kuspuk School District,290080,Gusty Michael School,60.00%,,,Y,15,9
+ak,2901,Kuspuk School District,290090,George Morgan Sr. High School,77.61%,,,Y,67,52
+ak,3001,Lake and Peninsula Borough School District,300010,Chignik Bay School,22.22%,,,Y,9,2
+ak,3001,Lake and Peninsula Borough School District,300020,Chignik Lagoon School,46.15%,,,Y,13,6
+ak,3001,Lake and Peninsula Borough School District,300030,Chignik Lake School,55.55%,,,Y,18,10
+ak,3001,Lake and Peninsula Borough School District,300050,Igiugig School,52.17%,,,Y,23,12
+ak,3001,Lake and Peninsula Borough School District,300080,Kokhanok School,65.78%,,,Y,38,25
+ak,3001,Lake and Peninsula Borough School District,300090,Newhalen School,76.13%,,,Y,88,67
+ak,3001,Lake and Peninsula Borough School District,300100,Nondalton School,75.00%,,,Y,24,18
+ak,3001,Lake and Peninsula Borough School District,300110,Tanalian School,14.51%,,,Y,62,9
+ak,3001,Lake and Peninsula Borough School District,300120,Perryville School ,65.38%,,,Y,26,17
+ak,3001,Lake and Peninsula Borough School District,300120-0,Pilot Point School,60.00%,,,Y,15,9
+ak,3001,Lake and Peninsula Borough School District,300140,Meshik School,59.09%,,,Y,22,13
+ak,3001,Lake and Peninsula Borough School District,300220,Levelock School,75.00%,,,Y,20,15
+ak,3101,Lower Kuskokwim School District,310030,Joann A. Alexie Memorial School,84.90%,,,Y,106,90
+ak,3101,Lower Kuskokwim School District,310040,Negtemiut Elitnaurviat School,64.83%,,,Y,91,59
+ak,3101,Lower Kuskokwim School District,310050,Mikelnguut Elitnaurviat,45.87%,,,Y,327,150
+ak,3101,Lower Kuskokwim School District,310060,Gladys Jung Elementary,47.68%,,,Y,346,165
+ak,3101,Lower Kuskokwim School District,310070,Bethel Regional High School,45.34%,,,Y,483,219
+ak,3101,Lower Kuskokwim School District,310080,Chaputnguak School,65.56%,,,Y,151,99
+ak,3101,Lower Kuskokwim School District,310090,Eek School,67.46%,,,Y,126,85
+ak,3101,Lower Kuskokwim School District,310100,Rocky Mountain School,79.71%,,,Y,69,55
+ak,3101,Lower Kuskokwim School District,310110,Akula Elitnaurvik School,82.56%,,,Y,109,90
+ak,3101,Lower Kuskokwim School District,310120,Chief Paul Memorial School,85.30%,,,Y,211,180
+ak,3101,Lower Kuskokwim School District,310130,Ayagina'ar Elitnaurvik,81.21%,,,Y,165,134
+ak,3101,Lower Kuskokwim School District,310140,Ket'acik/Aapalluk Memorial School,80.70%,,,Y,254,205
+ak,3101,Lower Kuskokwim School District,310150,Kwigillingok School,79.28%,,,Y,140,111
+ak,3101,Lower Kuskokwim School District,310160,Nuniwarmiut School,76.74%,,,Y,43,33
+ak,3101,Lower Kuskokwim School District,310170,William Miller Memorial School,70.96%,,,Y,93,66
+ak,3101,Lower Kuskokwim School District,310180,Z. John Williams Memorial School,75.35%,,,Y,142,107
+ak,3101,Lower Kuskokwim School District,310190,Ayaprun School,70.47%,,,Y,105,74
+ak,3101,Lower Kuskokwim School District,310200,Lewis Angapak Memorial School,83.22%,,,Y,149,124
+ak,3101,Lower Kuskokwim School District,310210,Anna Tobeluk Memorial School,80.71%,,,Y,197,159
+ak,3101,Lower Kuskokwim School District,310220,Kuinerrarmiut Elitnaurviat,81.94%,,,Y,216,177
+ak,3101,Lower Kuskokwim School District,310230,Arviq School (Platinum),46.15%,,,Y,13,6
+ak,3101,Lower Kuskokwim School District,310240,Akiuk Memorial School,82.50%,,,Y,120,99
+ak,3101,Lower Kuskokwim School District,310250,Nelson Island Area School,66.66%,,,Y,180,120
+ak,3101,Lower Kuskokwim School District,310280,Qugcuun Memorial School,85.71%,,,Y,14,12
+ak,3101,Lower Kuskokwim School District,310320,Paul T. Albert Memorial School,62.06%,,,Y,116,72
+ak,3101,Lower Kuskokwim School District,317010,Kuskokwim Learning Academy,61.90%,,,Y,42,26
+ak,3101,Lower Kuskokwim School District,319010,Ayaprun Elitnaurvik,30.24%,,,Y,162,49
+ak,3201,Lower Yukon School District,320010,Alakanuk School,79.31%,,,Y,232,184
+ak,3201,Lower Yukon School District,320040,Emmonak School,67.13%,,,Y,213,143
+ak,3201,Lower Yukon School District,320050,Marshall School,76.47%,,,Y,119,91
+ak,3201,Lower Yukon School District,320070,Hooper Bay School,78.96%,,,Y,485,383
+ak,3201,Lower Yukon School District,320080,Kotlik School,93.33%,,,Y,165,154
+ak,3201,Lower Yukon School District,320090,Ignatius Beans School,74.12%,,,Y,201,149
+ak,3201,Lower Yukon School District,320110,Pilot Station School,86.38%,,,Y,191,165
+ak,3201,Lower Yukon School District,320130,Russian Mission School,81.60%,,,Y,125,102
+ak,3201,Lower Yukon School District,320140,Scammom Bay School,84.68%,,,Y,222,188
+ak,3201,Lower Yukon School District,320150,Sheldon Point School,76.81%,,,Y,69,53
+ak,3301,Matanuska-Susitna Borough School District,330020,Palmer Middle School,31.21%,,,N,567,177
+ak,3301,Matanuska-Susitna Borough School District,330030,Glacier View School,27.08%,,,N,48,13
+ak,3301,Matanuska-Susitna Borough School District,330040,Iditarod Elementary,39.80%,,,Y,407,162
+ak,3301,Matanuska-Susitna Borough School District,330050,Palmer High School,17.89%,,,N,721,129
+ak,3301,Matanuska-Susitna Borough School District,330060,Sherrod Elementary,34.52%,,,N,446,154
+ak,3301,Matanuska-Susitna Borough School District,330070,Susitna Valley High,22.59%,,,N,208,47
+ak,3301,Matanuska-Susitna Borough School District,330080,Swanson Elementary,32.23%,,,N,456,147
+ak,3301,Matanuska-Susitna Borough School District,330120,Wasilla High School,26.16%,,,N,772,202
+ak,3301,Matanuska-Susitna Borough School District,330140,Wasilla Middle School,33.69%,,,N,653,220
+ak,3301,Matanuska-Susitna Borough School District,330180,Tanaina Elementary,35.87%,,,Y,393,141
+ak,3301,Matanuska-Susitna Borough School District,330190,Snowshoe Elementary,31.37%,,,N,392,123
+ak,3301,Matanuska-Susitna Borough School District,330250,Houston Jr/ Sr High School,36.10%,,,Y,662,239
+ak,3301,Matanuska-Susitna Borough School District,330260,Colony Middle School,19.75%,,,N,800,158
+ak,3301,Matanuska-Susitna Borough School District,330270,Colony High School,17.02%,,,N,969,165
+ak,3301,Matanuska-Susitna Borough School District,330280,Cottonwood Creek Elementary,30.51%,,,N,462,141
+ak,3301,Matanuska-Susitna Borough School District,330290,Finger Lake Elementary,23.46%,,,N,439,103
+ak,3301,Matanuska-Susitna Borough School District,330300,Pioneer Peak Elementary,18.55%,,,N,469,87
+ak,3301,Matanuska-Susitna Borough School District,330320,Willow Elementary,39.56%,,,Y,139,55
+ak,3301,Matanuska-Susitna Borough School District,330330,Trapper Creek Elementary,44.44%,,,Y,18,8
+ak,3301,Matanuska-Susitna Borough School District,330340,Talkeetna Elementary,18.62%,,,N,102,19
+ak,3301,Matanuska-Susitna Borough School District,330350,Butte Elementary,20.70%,,,N,314,65
+ak,3301,Matanuska-Susitna Borough School District,330360,Sutton Elementary,41.79%,,,Y,67,28
+ak,3301,Matanuska-Susitna Borough School District,330370,Beryozova School,40.00%,,,N,25,10
+ak,3301,Matanuska-Susitna Borough School District,330380,Big Lake Elementary,46.64%,,,Y,343,160
+ak,3301,Matanuska-Susitna Borough School District,330390,Goose Bay Elementary,30.06%,,,N,286,86
+ak,3301,Matanuska-Susitna Borough School District,330420,Meadow Lakes Elementary,41.71%,,,Y,326,136
+ak,3301,Matanuska-Susitna Borough School District,330430,Larson Elementary,30.41%,,,N,434,132
+ak,3301,Matanuska-Susitna Borough School District,330440,Teeland Middle School,25.00%,,,N,784,196
+ak,3301,Matanuska-Susitna Borough School District,330500,John Shaw Elementary,28.40%,,,N,507,144
+ak,3301,Matanuska-Susitna Borough School District,330510,Knik Elementary School,29.71%,,,N,313,93
+ak,3301,Matanuska-Susitna Borough School District,330520,Mat-Su Career & Tech Ed High School,14.26%,,,N,722,103
+ak,3301,Matanuska-Susitna Borough School District,330530,Fred and Sara Machetanz Elementary School,14.89%,,,N,490,73
+ak,3301,Matanuska-Susitna Borough School District,330540,Redington Jr/Sr. High School,34.61%,,,Y,583,202
+ak,3301,Matanuska-Susitna Borough School District,330550,Dena'ina Elementary School,38.52%,,,Y,392,151
+ak,3301,Matanuska-Susitna Borough School District,337010,Burchell High School,41.31%,,,Y,213,88
+ak,3301,Matanuska-Susitna Borough School District,337020,Valley Pathways,37.64%,,,Y,178,67
+ak,3301,Matanuska-Susitna Borough School District,337050,American Charter Academy,17.89%,,,N,190,34
+ak,3301,Matanuska-Susitna Borough School District,337060,Mat-Su Day School,35.44%,,,N,79,28
+ak,3301,Matanuska-Susitna Borough School District,337070,Alaska Middle College School,18.75%,,,N,192,36
+ak,3301,Matanuska-Susitna Borough School District,338010,Mat-Su Central School,18.69%,,,N,"1,920",
+ak,3301,Matanuska-Susitna Borough School District,339010,Academy Charter School,12.19%,,,N,246,30
+ak,3301,Matanuska-Susitna Borough School District,339020,Midnight Sun Family Learning Center,10.50%,,,N,200,21
+ak,3301,Matanuska-Susitna Borough School District,339030,Twindly Bridge Charter School,16.13%,,,N,471,76
+ak,3301,Matanuska-Susitna Borough School District,339040,Fronteras Charter School,16.14%,,,N,322,52
+ak,3301,Matanuska-Susitna Borough School District,339050,Birchtree Charter School,17.69%,,,N,390,69
+ak,9801,Mount Edgecumbe,980000,Mt. Edgecumbe High School,49.60%,,,Y,379,188
+ak,3401,Nenana City School District,340010,Nenana City School,32.16%,,,Y,171,55
+ak,3501,Nome Public Schools,350010,Nome Elementary,63.44%,,,Y,372,236
+ak,3501,Nome Public Schools,350020,Nome-Beltz Jr/Sr High,59.05%,,,Y,254,150
+ak,3501,Nome Public Schools,359010,Anvil City Science Academy,60.00%,,,Y,60,36
+ak,3601,North Slope Borough School District,360010,Nunamiut School,31.68%,,,Y,101,32
+ak,3601,North Slope Borough School District,360020,Freb Ipalook Elementary,23.46%,,,N,669,157
+ak,3601,North Slope Borough School District,360030,Barrow High School,17.97%,,,N,267,48
+ak,3601,North Slope Borough School District,360040,Harold Kaveolook School,12.30%,,,N,65,8
+ak,3601,North Slope Borough School District,360050,Nuiqsut Trapper School,35.29%,,,Y,153,54
+ak,3601,North Slope Borough School District,360060,Tikigaq School,43.87%,,,Y,253,111
+ak,3601,North Slope Borough School District,360070,Kali School,31.25%,,,N,112,35
+ak,3601,North Slope Borough School District,360090,Meade River School,5.00%,,,N,80,4
+ak,3601,North Slope Borough School District,360100,Alak School,20.46%,,,N,171,35
+ak,3601,North Slope Borough School District,360120,Eben Hopson Middle School,23.16%,,,N,272,63
+ak,3601,North Slope Borough School District,367010,Kiita Learning Community School,16.66%,,,N,48,8
+ak,3701,Northwest Arctic Borough School District,370210,Ambler School,86.66%,,,Y,75,65
+ak,3701,Northwest Arctic Borough School District,370020,Buckland School,77.22%,,,Y,180,139
+ak,3701,Northwest Arctic Borough School District,370030,Deering School,93.87%,,,Y,49,46
+ak,3701,Northwest Arctic Borough School District,370040,Kiana School,75.59%,,,Y,122,92
+ak,3701,Northwest Arctic Borough School District,370060,McQueen School,60.62%,,,Y,160,97
+ak,3701,Northwest Arctic Borough School District,370070,Kobuk School,92.00%,,,Y,50,46
+ak,3701,Northwest Arctic Borough School District,370080,June Nelson Elementary,54.79%,,,Y,365,200
+ak,3701,Northwest Arctic Borough School District,370090,Napaaqtugmiut School,72.04%,,,Y,161,116
+ak,3701,Northwest Arctic Borough School District,370100,Aqqaluk High/Noorvik Elementary,80.18%,,,Y,212,170
+ak,3701,Northwest Arctic Borough School District,370110,Shungnak School,91.80%,,,Y,61,56
+ak,3701,Northwest Arctic Borough School District,370150,Kotzebue Middle/High School,58.48%,,,Y,330,193
+ak,3701,Northwest Arctic Borough School District,370210-0,Davis-Ramoth School,81.00%,,,Y,258,209
+ak,3901,Petersburg City School District,390010,Rea C. Stedman Elementary,30.22%,,,N,225,68
+ak,3901,Petersburg City School District,390020,Petersburg High School,43.20%,,,Y,125,54
+ak,3901,Petersburg City School District,390030,Mitkof Middle School,37.50%,,,N,112,42
+ak,4601,Saint Mary's School District,460010,Saint Mary's School,73.78%,,,Y,206,152
+ak,4201,Sitka School District,420010,Baranof Elementary,23.68%,,,N,190,45
+ak,4201,Sitka School District,420020,Blatchley Middle School,22.64%,,,N,287,65
+ak,4201,Sitka School District,420130,Sitka High School,22.22%,,,N,306,68
+ak,4201,Sitka School District,420170,Keet Gooshi Heen Elementary,22.03%,,,N,363,80
+ak,4201,Sitka School District,427010,Pacific High School,48.78%,,,N,41,20
+ak,4401,Southeast Island School District,440020,Howard Valentine Coffman Cove School,23.80%,,,Y,21,5
+ak,4401,Southeast Island School District,440090,Barry Craig Stewart Kasaan School,42.85%,,,Y,14,6
+ak,4401,Southeast Island School District,440160,Thorne Bay School,35.38%,,,N,65,23
+ak,4401,Southeast Island School District,440190,Whale Pass School,31.81%,,,Y,22,7
+ak,4401,Southeast Island School District,440230,Port Alexander School,100.00%,,,N,14,14
+ak,4401,Southeast Island School District,440250,Hollis School,47.61%,,,Y,21,10
+ak,4401,Southeast Island School District,440270,Naukati School,47.61%,,,Y,21,10
+ak,4401,Southeast Island School District,440340,Hyder School,33.33%,,,N,12,4
+ak,4501,Southwest Region School District,450020,Aleknagik School,62.50%,,,Y,32,20
+ak,4501,Southwest Region School District,450030,Clarks Point School,81.25%,,,Y,16,13
+ak,4501,Southwest Region School District,450040,"William ""Sonny"" Nelson School",60.00%,,,Y,15,9
+ak,4501,Southwest Region School District,450050,Koliganek School,82.81%,,,Y,64,53
+ak,4501,Southwest Region School District,450070,Manokatak School,86.36%,,,Y,132,114
+ak,4501,Southwest Region School District,450080,Chief Ivan Blunka School,76.00%,,,Y,150,114
+ak,4501,Southwest Region School District,450110,Togiak School,76.99%,,,Y,226,174
+ak,4501,Southwest Region School District,450120,Twin Hills School,76.66%,,,Y,30,23
+ak,4701,Unalaska City School District,470010,Eagle's View Elementary,6.71%,,,N,253,17
+ak,4701,Unalaska City School District,470020,Unalaska Jr/Sr High School,2.84%,,,N,176,5
+ak,4801,Valdez City School District,480030,Valdez High School,23.42%,,,N,175,41
+ak,4801,Valdez City School District,480040,George H. Gilson Middle School,23.44%,,,N,145,34
+ak,4801,Valdez City School District,480050,Hermon Hutchens Elementary,24.66%,,,N,369,91
+ak,5101,Yukon Flats School District,510010,Arctic Village School,76.31%,,,Y,38,29
+ak,5101,Yukon Flats School District,510040,Tsuk Taih School,57.14%,,,Y,7,4
+ak,5101,Yukon Flats School District,510050,Circle School,52.94%,,,Y,17,9
+ak,5101,Yukon Flats School District,510060,John Fredson School,74.41%,,,Y,43,32
+ak,5101,Yukon Flats School District,510070,Fort Yukon School,53.19%,,,Y,94,50
+ak,5101,Yukon Flats School District,510140,Cruikshank School,25.00%,,,Y,4,1
+ak,5201,Yukon-Koyukuk School District,520010,Allakaket School,78.94%,,,Y,19,15
+ak,5201,Yukon-Koyukuk School District,520030,John Oldman School,52.63%,,,Y,19,10
+ak,5201,Yukon-Koyukuk School District,520040,Jimmy Huntington School,49.42%,,,Y,87,43
+ak,5201,Yukon-Koyukuk School District,520050,Kaltag School,68.18%,,,Y,22,15
+ak,5201,Yukon-Koyukuk School District,520060,Ella B. Vernetti School,64.70%,,,Y,17,11
+ak,5201,Yukon-Koyukuk School District,520080,Minto School,76.00%,,,Y,25,19
+ak,5201,Yukon-Koyukuk School District,520090,Adnrew K. Demoski School,50.00%,,,Y,22,11
+ak,5201,Yukon-Koyukuk School District,520110,Merreline A. Kangas School,55.55%,,,Y,27,15
+ak,5201,Yukon-Koyukuk School District,520120,Rampart School,73.33%,,,Y,15,11
+ak,5401,Yupiit School District,540010,Akiachak School,90.33%,,,Y,207,187
+ak,5401,Yupiit School District,540030,Akiak School,83.20%,,,Y,131,109
+ak,5401,Yupiit School District,540040,Tululsak School,84.37%,,,Y,128,108

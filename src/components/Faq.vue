@@ -67,13 +67,7 @@
     </h3>
     <p>The prepopulated California Meals Count data includes</p>
     <ul>
-      <li>Enrollment data from the 2019-2020 school year;</li>
-      <li>
-        Estimated ISPs derived from direct certification for free school meals
-        through CalFresh/SNAP and CalWORKs participation during July-November
-        2019; and
-      </li>
-      <li>Average daily meal participation from April 2019.</li>
+      <li>Enrollment data from the 2020-2021 school year;</li>
     </ul>
     <p>
       Please note that the school list may include some charter schools and may
@@ -105,7 +99,7 @@
 
     <h3>What are the reimbursement rates used in Meals Count?</h3>
     <p>
-      The reimbursement rates are preset to 2019-20 federal reimbursement rates
+      The reimbursement rates are preset to 2020-21 federal reimbursement rates
       for the National School Lunch Program and the School Breakfast Program.
     </p>
     <p>

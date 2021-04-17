@@ -29,7 +29,7 @@
       <div class="row">
         <div class="col-sm alert alert-warning" role="alert">
           <strong>⚠️ PLEASE NOTE</strong>
-          <p>The data shown for this district is from the publicly available <a href="https://frac.org/research/resource-library/community-eligibility-cep-database" target="_blank">2019-2020 FRAC CEP database</a> 
+          <p>The data shown for this district is from the publicly available <a href="https://frac.org/research/resource-library/community-eligibility-cep-database" target="_blank">2020-2021 FRAC CEP database</a> 
 
           <p>Sites listed may include charter schools and exclude some preschool/early learning programs under your jurisdiction.</p>
 

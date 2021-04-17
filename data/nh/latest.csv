@@ -1,479 +1,486 @@
 state,District Code,District Name,School Code,School Name,individual_isp,proxy_isp,participating_in_cep,claiming_isp,total_enrolled,total_eligible
-nh,72,Alton SAU Office,,Alton Central School (Elem),15.57%,*,N,,456,71
-nh,39,Amherst SAU Office,-0,Amherst Middle School,2.45%,*,N,,654,16
-nh,39,Amherst SAU Office,-1,Clark-Wilkins School,2.28%,*,N,,703,16
-nh,39,Amherst SAU Office,-2,Mont Vernon Village School,3.63%,*,N,,193,7
-nh,39,Amherst SAU Office,-3,Souhegan Coop High School,2.01%,*,N,,745,15
-nh,86,Barnstead SAU Office,-4,Barnstead Elementary School,13.75%,*,N,,502,69
-nh,74,Barrington SAU Office,-5,Barrington Elementary School,11.06%,*,N,,407,45
-nh,74,Barrington SAU Office,-6,Barrington Middle School,7.06%,*,N,,425,30
-nh,25,Bedford SAU Office,-7,Bedford High School,1.42%,*,N,,1549,22
-nh,25,Bedford SAU Office,-8,McKelvie Intermediate School,3.49%,*,N,,716,25
-nh,25,Bedford SAU Office,-9,Memorial School,6.10%,*,N,,459,28
-nh,25,Bedford SAU Office,-10,Peter Woodbury School,2.20%,*,N,,545,12
-nh,25,Bedford SAU Office,-11,Riddle Brook School,0.68%,*,N,,588,4
-nh,25,Bedford SAU Office,-12,Ross A. Lurgio Middle School,2.14%,*,N,,746,16
-nh,3,Berlin SAU Office,-13,Berlin Middle School,38.99%,*,N,,277,108
-nh,3,Berlin SAU Office,-14,Berlin Senior High School,27.20%,*,N,,386,105
-nh,3,Berlin SAU Office,-15,Brown Elementary School,47.33%,*,N,,262,124
-nh,3,Berlin SAU Office,-16,Hillside Elementary School,39.00%,*,N,,241,94
-nh,67,Bow SAU Office,-17,Bow Elementary School,4.10%,*,N,,537,22
-nh,67,Bow SAU Office,-18,Bow High School,2.74%,*,N,,658,18
-nh,67,Bow SAU Office,-19,Bow Memorial School,3.17%,*,N,,504,16
-nh,67,Bow SAU Office,-20,Dunbarton Elementary School,6.50%,*,N,,246,16
-nh,82,Chester SAU Office,-21,Chester Academy,3.93%,*,N,,509,20
-nh,6,Claremont SAU Office,-22,Bluff School,46.92%,,Y,46.24%,186,87
-nh,6,Claremont SAU Office,-23,Claremont Middle School,30.29%,*,N,,416,126
-nh,6,Claremont SAU Office,-24,Disnard Elementary School,38.64%,*,N,,295,114
-nh,6,Claremont SAU Office,-25,Maple Avenue School,29.97%,*,N,,307,92
-nh,6,Claremont SAU Office,-26,Stevens High School,20.67%,*,N,,566,117
-nh,6,Claremont SAU Office,-27,Unity Elementary School,30.11%,*,N,,93,28
-nh,7,Colebrook SAU Office,-28,Colebrook Academy,19.27%,*,N,,109,21
-nh,7,Colebrook SAU Office,-29,Colebrook Elementary School,25.85%,*,N,,236,61
-nh,7,Colebrook SAU Office,-30,Pittsburg School (Elem),23.64%,*,N,,55,13
-nh,7,Colebrook SAU Office,-31,Pittsburg School (High),25.81%,*,N,,31,8
-nh,7,Colebrook SAU Office,-32,Stewartstown Community School,43.66%,*,N,,71,31
-nh,8,Concord SAU Office,-33,Abbot-Downing School,21.45%,*,N,,401,86
-nh,8,Concord SAU Office,-34,Beaver Meadow School,21.39%,*,N,,374,80
-nh,8,Concord SAU Office,-35,Broken Ground School,32.04%,*,N,,362,116
-nh,8,Concord SAU Office,-36,Christa McAuliffe,23.62%,*,N,,436,103
-nh,8,Concord SAU Office,-37,Concord High School,14.73%,*,N,,1643,242
-nh,8,Concord SAU Office,-38,Mill Brook School,28.30%,*,N,,417,118
-nh,8,Concord SAU Office,-39,Rundlett Middle School,25.20%,*,N,,988,249
-nh,8,Concord SAU Office,-40,St. John Regional School,0.00%,*,N,,193,0
-nh,1,Contoocook Valley SAU Office,-41,Antrim Elementary School,18.24%,*,N,,170,31
-nh,1,Contoocook Valley SAU Office,-42,Conval Regional High School,8.74%,*,N,,732,64
-nh,1,Contoocook Valley SAU Office,-43,Dublin Consolidated School,13.73%,*,N,,51,7
-nh,1,Contoocook Valley SAU Office,-44,Francestown Elementary School,11.11%,*,N,,54,6
-nh,1,Contoocook Valley SAU Office,-45,Great Brook School,16.06%,*,N,,274,44
-nh,1,Contoocook Valley SAU Office,-46,Greenfield Elementary School,14.44%,*,N,,90,13
-nh,1,Contoocook Valley SAU Office,-47,Hancock Elementary School,13.21%,*,N,,53,7
-nh,1,Contoocook Valley SAU Office,-48,Peterborough Elementary School,17.13%,*,N,,286,49
-nh,1,Contoocook Valley SAU Office,-49,Pierce Elementary School,22.78%,*,N,,79,18
-nh,1,Contoocook Valley SAU Office,-50,South Meadow School,16.43%,*,N,,420,69
-nh,1,Contoocook Valley SAU Office,-51,Temple Elementary School,6.00%,*,N,,50,3
-nh,9,Conway SAU Office,-52,A. Crosby Kennett Middle School,19.54%,*,N,,307,60
-nh,9,Conway SAU Office,-53,Conway Elementary School,36.94%,*,N,,222,82
-nh,9,Conway SAU Office,-54,Jackson Grammar School,16.00%,*,N,,50,8
-nh,9,Conway SAU Office,-55,John H. Fuller School,17.41%,*,N,,201,35
-nh,9,Conway SAU Office,-56,Josiah Bartlett Elementary School,12.14%,*,N,,206,25
-nh,9,Conway SAU Office,-57,Kennett High School,12.76%,*,N,,776,99
-nh,9,Conway SAU Office,-58,Pine Tree Elementary School,16.61%,*,N,,271,45
-nh,100,Cornish SAU Office,-59,Cornish Elementary School,13.00%,*,N,,100,13
-nh,10,Derry Cooperative SAU Office,-60,Derry Village School,11.37%,*,N,,431,49
-nh,10,Derry Cooperative SAU Office,-61,East Derry Memorial Elementary School,6.87%,*,N,,422,29
-nh,10,Derry Cooperative SAU Office,-62,Ernest P. Barka Elementary School,14.14%,*,N,,502,71
-nh,10,Derry Cooperative SAU Office,-63,Gilbert H. Hood Middle School,13.73%,*,N,,641,88
-nh,10,Derry Cooperative SAU Office,-64,Grinnell School,23.75%,*,N,,400,95
-nh,10,Derry Cooperative SAU Office,-65,South Range Elementary School,8.41%,*,N,,321,27
-nh,10,Derry Cooperative SAU Office,-66,West Running Brook Middle School,9.12%,*,N,,592,54
-nh,11,Dover SAU Office,-67,Dover Middle School,15.47%,*,N,,1215,188
-nh,11,Dover SAU Office,-68,Dover Senior High School,9.33%,*,N,,1458,136
-nh,11,Dover SAU Office,-69,Garrison School,6.31%,*,N,,428,27
-nh,11,Dover SAU Office,-70,Horne Street School,14.86%,*,N,,498,74
-nh,11,Dover SAU Office,-71,Seacoast Charter School,3.93%,*,N,,305,12
-nh,11,Dover SAU Office,-72,Woodman Park School,24.72%,*,N,,530,131
-nh,14,Epping SAU Office,-73,Epping Elementary School,11.74%,*,N,,494,58
-nh,14,Epping SAU Office,-74,Epping High School,5.52%,*,N,,290,16
-nh,14,Epping SAU Office,-75,Epping Middle School,11.42%,*,N,,219,25
-nh,16,Exeter SAU Office,-76,Cooperative Middle School,5.60%,*,N,,1233,69
-nh,16,Exeter SAU Office,-77,East Kingston Elementary School,1.47%,*,N,,136,2
-nh,16,Exeter SAU Office,-78,Exeter High School,3.30%,*,N,,1695,56
-nh,16,Exeter SAU Office,-79,Great Bay eLearning Charter School (H),13.56%,*,N,,118,16
-nh,16,Exeter SAU Office,-80,Kensington Elementary School,4.29%,*,N,,140,6
-nh,16,Exeter SAU Office,-81,Lincoln Street Elementary School,9.49%,*,N,,506,48
-nh,16,Exeter SAU Office,-82,Main Street School,13.31%,*,N,,496,66
-nh,16,Exeter SAU Office,-83,Newfields Elementary School,1.92%,*,N,,104,2
-nh,16,Exeter SAU Office,-84,Stratham Memorial School,1.85%,*,N,,650,12
-nh,16,Exeter SAU Office,-85,Swasey Central School,3.18%,*,N,,314,10
+nh,72,Alton SAU Office,,Alton Central School (Elem),,16.70%,,N,449,
+nh,39,Amherst SAU Office,-0,Amherst Middle School,,3.37%,,N,623,
+nh,39,Amherst SAU Office,-1,Clark-Wilkins School,,1.17%,,N,685,
+nh,39,Amherst SAU Office,-2,Mont Vernon Village School,,1.99%,,N,201,
+nh,39,Amherst SAU Office,-3,Souhegan Coop High School,,2.01%,,N,746,
+nh,86,Barnstead SAU Office,-4,Barnstead Elementary School,,12.26%,,N,473,
+nh,74,Barrington SAU Office,-5,Barrington Elementary School,,7.71%,,N,402,
+nh,74,Barrington SAU Office,-6,Barrington Middle School,,6.99%,,N,415,
+nh,25,Bedford SAU Office,-7,Bedford High School,,1.82%,,N,1482,
+nh,25,Bedford SAU Office,-8,McKelvie Intermediate School,,3.04%,,N,691,
+nh,25,Bedford SAU Office,-9,Memorial School,,4.77%,,N,419,
+nh,25,Bedford SAU Office,-10,Peter Woodbury School,,2.51%,,N,517,
+nh,25,Bedford SAU Office,-11,Riddle Brook School,,1.08%,,N,557,
+nh,25,Bedford SAU Office,-12,Ross A. Lurgio Middle School,,2.68%,,N,745,
+nh,3,Berlin SAU Office,-13,Berlin Elementary School,,43.32%,,N,464,
+nh,3,Berlin SAU Office,-14,Berlin Middle School,,33.73%,,N,255,
+nh,3,Berlin SAU Office,-15,Berlin Senior High School,,27.75%,,N,364,
+nh,67,Bow SAU Office,-16,Bow Elementary School,,4.44%,,N,540,
+nh,67,Bow SAU Office,-17,Bow High School,,2.83%,,N,635,
+nh,67,Bow SAU Office,-18,Bow Memorial School,,3.76%,,N,505,
+nh,67,Bow SAU Office,-19,Dunbarton Elementary School,,4.24%,,N,236,
+nh,82,Chester SAU Office,-20,Chester Academy,,3.39%,,N,502,
+nh,6,Claremont SAU Office,-21,Bluff Elementary School,,52.70%,52.90%,Y,155,
+nh,6,Claremont SAU Office,-22,Claremont Middle School,,32.93%,,N,410,
+nh,6,Claremont SAU Office,-23,Claremont Preschool Center,,42.19%,,N,64,
+nh,6,Claremont SAU Office,-24,Disnard Elementary School,,41.03%,,N,290,
+nh,6,Claremont SAU Office,-25,Maple Avenue School,,32.42%,,N,293,
+nh,6,Claremont SAU Office,-26,Stevens High School,,21.02%,,N,547,
+nh,6,Claremont SAU Office,-27,Unity Elementary School,,34.78%,,N,92,
+nh,7,Colebrook SAU Office,-28,Colebrook Academy,,15.89%,,N,107,
+nh,7,Colebrook SAU Office,-29,Colebrook Elementary School,,29.07%,,N,227,
+nh,7,Colebrook SAU Office,-30,Pittsburg School (Elem),,6.25%,,N,48,
+nh,7,Colebrook SAU Office,-31,Pittsburg School (High),,19.35%,,N,31,
+nh,7,Colebrook SAU Office,-32,Stewartstown Community School,,39.39%,,N,66,
+nh,8,Concord SAU Office,-33,Abbot-Downing School,,18.95%,,N,343,
+nh,8,Concord SAU Office,-34,Beaver Meadow School,,18.36%,,N,365,
+nh,8,Concord SAU Office,-35,Broken Ground School,,25.65%,,N,347,
+nh,8,Concord SAU Office,-36,Christa McAuliffe,,20.50%,,N,400,
+nh,8,Concord SAU Office,-37,Concord High School,,14.89%,,N,1498,
+nh,8,Concord SAU Office,-38,Mill Brook School,,28.76%,,N,386,
+nh,8,Concord SAU Office,-39,Rundlett Middle School,,22.39%,,N,947,
+nh,8,Concord SAU Office,-40,St. John Regional School,,0.00%,,N,N/A,
+nh,1,Contoocook Valley SAU Office,-41,Antrim Elementary School,,12.75%,,N,149,
+nh,1,Contoocook Valley SAU Office,-42,Conval Regional High School,,8.63%,,N,707,
+nh,1,Contoocook Valley SAU Office,-43,Dublin Consolidated School,,8.89%,,N,45,
+nh,1,Contoocook Valley SAU Office,-44,Francestown Elementary School,,4.00%,,N,50,
+nh,1,Contoocook Valley SAU Office,-45,Great Brook School,,12.64%,,N,261,
+nh,1,Contoocook Valley SAU Office,-46,Greenfield Elementary School,,9.89%,,N,91,
+nh,1,Contoocook Valley SAU Office,-47,Hancock Elementary School,,12.90%,,N,62,
+nh,1,Contoocook Valley SAU Office,-48,Peterborough Elementary School,,14.55%,,N,268,
+nh,1,Contoocook Valley SAU Office,-49,Pierce Elementary School,,10.29%,,N,68,
+nh,1,Contoocook Valley SAU Office,-50,South Meadow School,,12.60%,,N,389,
+nh,1,Contoocook Valley SAU Office,-51,Temple Elementary School,,6.12%,,N,49,
+nh,9,Conway SAU Office,-52,A. Crosby Kennett Middle School,,20.64%,,N,281,
+nh,9,Conway SAU Office,-53,Conway Elementary School,,33.18%,,N,223,
+nh,9,Conway SAU Office,-54,Jackson Grammar School,,6.98%,,N,43,
+nh,9,Conway SAU Office,-55,John H. Fuller School,,16.11%,,N,180,
+nh,9,Conway SAU Office,-56,Josiah Bartlett Elementary School,,16.35%,,N,208,
+nh,9,Conway SAU Office,-57,Kennett High School,,13.90%,,N,734,
+nh,9,Conway SAU Office,-58,Pine Tree Elementary School,,19.01%,,N,263,
+nh,100,Cornish SAU Office,-59,Cornish Elementary School,,11.54%,,N,104,
+nh,10,Derry Cooperative SAU Office,-60,Derry Village School,,13.27%,,N,392,
+nh,10,Derry Cooperative SAU Office,-61,East Derry Memorial Elementary School,,5.81%,,N,413,
+nh,10,Derry Cooperative SAU Office,-62,Ernest P. Barka Elementary School,,13.41%,,N,492,
+nh,10,Derry Cooperative SAU Office,-63,Gilbert H. Hood Middle School,,12.87%,,N,614,
+nh,10,Derry Cooperative SAU Office,-64,Grinnell School,,19.51%,,N,364,
+nh,10,Derry Cooperative SAU Office,-65,South Range Elementary School,,6.41%,,N,312,
+nh,10,Derry Cooperative SAU Office,-66,West Running Brook Middle School,,6.86%,,N,583,
+nh,11,Dover SAU Office,-67,Dover Middle School,,16.50%,,N,1109,
+nh,11,Dover SAU Office,-68,Dover Senior High School,,10.96%,,N,1460,
+nh,11,Dover SAU Office,-69,Garrison School,,6.25%,,N,416,
+nh,11,Dover SAU Office,-70,Horne Street School,,15.25%,,N,446,
+nh,11,Dover SAU Office,-71,Seacoast Charter School,,5.72%,,N,297,
+nh,11,Dover SAU Office,-72,Woodman Park School,,30.16%,,N,504,
+nh,14,Epping SAU Office,-73,Epping Elementary School,,10.57%,,N,473,
+nh,14,Epping SAU Office,-74,Epping High School,,6.12%,,N,245,
+nh,14,Epping SAU Office,-75,Epping Middle School,,11.00%,,N,200,
+nh,16,Exeter SAU Office,-76,Cooperative Middle School,,4.74%,,N,1117,
+nh,16,Exeter SAU Office,-77,East Kingston Elementary School,,5.26%,,N,133,
+nh,16,Exeter SAU Office,-78,Exeter High School,,3.43%,,N,1633,
+nh,16,Exeter SAU Office,-79,Great Bay eLearning Charter School (H),,15.65%,,N,115,
+nh,16,Exeter SAU Office,-80,Kensington Elementary School,,8.40%,,N,131,
+nh,16,Exeter SAU Office,-81,Lincoln Street Elementary School,,6.85%,,N,467,
+nh,16,Exeter SAU Office,-82,Main Street School,,12.12%,,N,495,
+nh,16,Exeter SAU Office,-83,Newfields Elementary School,,1.98%,,N,101,
+nh,16,Exeter SAU Office,-84,Stratham Memorial School,,2.90%,,N,552,
+nh,16,Exeter SAU Office,-85,Swasey Central School,,4.29%,,N,303,
 nh,60,"Fall Mountain Regional SAU
-Office",-86,Acworth Elementary School,30.95%,*,N,,42,13
+Office",-86,Acworth Elementary School,,36.36%,,N,22,
 nh,60,"Fall Mountain Regional SAU
-Office",-87,Alstead Primary School,23.40%,*,N,,94,22
+Office",-87,Alstead Primary School,,17.78%,,N,90,
 nh,60,"Fall Mountain Regional SAU
-Office",-88,Charlestown Middle School,20.13%,*,N,,154,31
+Office",-88,Charlestown Middle School,,27.16%,,N,162,
 nh,60,"Fall Mountain Regional SAU
-Office",-89,Charlestown Primary School,24.80%,*,N,,254,63
+Office",-89,Charlestown Primary School,,22.32%,,N,233,
 nh,60,"Fall Mountain Regional SAU
-Office",-90,Fall Mountain Regional High School,13.49%,*,N,,504,68
+Office",-90,Fall Mountain Regional High School,,14.85%,,N,458,
 nh,60,"Fall Mountain Regional SAU
-Office",-91,N. Charlestown Community School,24.10%,*,N,,83,20
+Office",-91,N. Charlestown Community School,,27.14%,,N,70,
 nh,60,"Fall Mountain Regional SAU
-Office",-92,North Walpole School,11.76%,*,N,,85,10
+Office",-92,North Walpole School,,12.66%,,N,79,
 nh,60,"Fall Mountain Regional SAU
-Office",-93,Sarah Porter School,15.79%,*,N,,19,3
+Office",-93,Sarah Porter School,,0.00%,,N,13,
 nh,60,"Fall Mountain Regional SAU
-Office",-94,Vilas Elementary School,20.66%,*,N,,121,25
+Office",-94,Vilas Elementary School,,15.97%,,N,119,
 nh,60,"Fall Mountain Regional SAU
-Office",-95,Walpole Elementary School,16.03%,*,N,,131,21
+Office",-95,Walpole Elementary School,,13.38%,,N,142,
 nh,60,"Fall Mountain Regional SAU
-Office",-96,Walpole Primary School,15.84%,*,N,,101,16
-nh,61,Farmington SAU Office,-97,Farmington Senior High School,24.20%,*,N,,281,68
-nh,61,Farmington SAU Office,-98,Henry Wilson Memorial School,28.61%,*,N,,339,97
-nh,61,Farmington SAU Office,-99,Valley View Community Elementary School,33.45%,*,N,,287,96
+Office",-96,Walpole Primary School,,12.62%,,N,103,
+nh,61,Farmington SAU Office,-97,Farmington Senior High School,,20.40%,,N,250,
+nh,61,Farmington SAU Office,-98,Henry Wilson Memorial School,,32.20%,,N,295,
+nh,61,Farmington SAU Office,-99,"Valley View Community Elementary
+School",,33.85%,,N,260,
 nh,18,Franklin SAU Office,-100,"Compass Classical Academy Charter
-School",30.20%,*,N,,149,45
-nh,18,Franklin SAU Office,-101,Franklin High School,24.20%,*,N,,314,76
-nh,18,Franklin SAU Office,-102,Franklin Middle School,28.26%,*,N,,368,104
-nh,18,Franklin SAU Office,-103,Paul Smith School,37.82%,*,N,,312,118
-nh,83,Fremont SAU Office,-104,Ellis School,6.36%,*,N,,409,26
-nh,73,Gilford SAU Office,-105,Gilford Elementary School,10.86%,*,N,,350,38
-nh,73,Gilford SAU Office,-106,Gilford High School,7.66%,*,N,,483,37
-nh,73,Gilford SAU Office,-107,Gilford Middle School,10.25%,*,N,,322,33
-nh,79,Gilmanton SAU Office,-108,Gilmanton Elementary School,11.86%,*,N,,413,49
-nh,19,Goffstown SAU Office,-109,Bartlett Elementary School,16.13%,*,N,,217,35
-nh,19,Goffstown SAU Office,-110,Goffstown High School,5.24%,*,N,,1202,63
-nh,19,Goffstown SAU Office,-111,Maple Avenue School,6.04%,*,N,,480,29
-nh,19,Goffstown SAU Office,-112,Mountain View Middle School,8.98%,*,N,,891,80
-nh,19,Goffstown SAU Office,-113,New Boston Central School,5.49%,*,N,,565,31
-nh,20,Gorham SAU Office,-114,Edward Fenn School,15.95%,*,N,,163,26
-nh,20,Gorham SAU Office,-115,Errol Consolidated Elementary School,0.00%,*,N,,16,0
-nh,20,Gorham SAU Office,-116,Gorham High School,12.50%,*,N,,136,17
-nh,20,Gorham SAU Office,-117,Gorham Middle School,12.61%,*,N,,111,14
-nh,20,Gorham SAU Office,-118,Milan Village Elementary School,25.56%,*,N,,133,34
+School",,36.22%,,N,127,
+nh,18,Franklin SAU Office,-101,Franklin High School,,25.97%,,N,258,
+nh,18,Franklin SAU Office,-102,Franklin Middle School,,31.10%,,N,373,
+nh,18,Franklin SAU Office,-103,Paul Smith School,,36.18%,,N,304,
+nh,83,Fremont SAU Office,-104,Ellis School,,5.88%,,N,391,
+nh,73,Gilford SAU Office,-105,Gilford Elementary School,,14.54%,,N,337,
+nh,73,Gilford SAU Office,-106,Gilford High School,,5.60%,,N,482,
+nh,73,Gilford SAU Office,-107,Gilford Middle School,,9.42%,,N,329,
+nh,79,Gilmanton SAU Office,-108,Gilmanton Elementary School,,12.14%,,N,412,
+nh,19,Goffstown SAU Office,-109,Bartlett Elementary School,,14.15%,,N,205,
+nh,19,Goffstown SAU Office,-110,Goffstown High School,,4.87%,,N,1068,
+nh,19,Goffstown SAU Office,-111,Maple Avenue School,,5.92%,,N,490,
+nh,19,Goffstown SAU Office,-112,Mountain View Middle School,,8.18%,,N,868,
+nh,19,Goffstown SAU Office,-113,New Boston Central School,,5.09%,,N,570,
+nh,20,Gorham SAU Office,-114,Edward Fenn School,,16.22%,,N,148,
+nh,20,Gorham SAU Office,-115,Errol Consolidated Elementary School,,6.67%,,N,15,
+nh,20,Gorham SAU Office,-116,Gorham High School,,8.21%,,N,134,
+nh,20,Gorham SAU Office,-117,Gorham Middle School,,12.12%,,N,99,
+nh,20,Gorham SAU Office,-118,Milan Village Elementary School,,21.64%,,N,134,
 nh,49,"Governor Wentworth Regional
-SAU Office",-119,Carpenter Elementary School,12.22%,*,N,,270,33
+SAU Office",-119,Carpenter Elementary School,,12.80%,,N,250,
 nh,49,"Governor Wentworth Regional
-SAU Office",-120,Crescent Lake School,9.73%,*,N,,226,22
+SAU Office",-120,Crescent Lake School,,10.78%,,N,204,
 nh,49,"Governor Wentworth Regional
-SAU Office",-121,Effingham Elementary School,36.07%,*,N,,122,44
+SAU Office",-121,Effingham Elementary School,,21.30%,,N,108,
 nh,49,"Governor Wentworth Regional
-SAU Office",-122,Kingswood Regional High School,13.82%,*,N,,774,107
+SAU Office",-122,Kingswood Regional High School,,12.27%,,N,774,
 nh,49,"Governor Wentworth Regional
-SAU Office",-123,Kingswood Regional Middle School,18.18%,*,N,,418,76
+SAU Office",-123,Kingswood Regional Middle School,,17.79%,,N,371,
 nh,49,"Governor Wentworth Regional
-SAU Office",-124,New Durham Elementary School,15.85%,*,N,,164,26
+SAU Office",-124,New Durham Elementary School,,10.00%,,N,150,
 nh,49,"Governor Wentworth Regional
-SAU Office",-125,Ossipee Central School,38.12%,*,N,,341,130
+SAU Office",-125,Ossipee Central School,,39.62%,,N,313,
 nh,49,"Governor Wentworth Regional
-SAU Office",-126,Tuftonboro Central School,21.60%,*,N,,125,27
-nh,75,Grantham SAU Office,-127,Grantham Village School,8.30%,*,N,,229,19
-nh,50,Greenland SAU Office,-128,Greenland Central School,2.37%,*,N,,422,10
-nh,50,Greenland SAU Office,-129,Newington Public School,9.62%,*,N,,52,5
-nh,50,Greenland SAU Office,-130,Rye Elementary School,2.43%,*,N,,288,7
-nh,50,Greenland SAU Office,-131,Rye Junior High School,4.62%,*,N,,130,6
-nh,90,Hampton SAU Office,-132,Adeline C. Marston School,8.58%,*,N,,338,29
-nh,90,Hampton SAU Office,-133,Hampton Academy,8.87%,*,N,,406,36
-nh,90,Hampton SAU Office,-134,Hampton Centre School,7.60%,*,N,,342,26
-nh,23,Haverhill Cooperative SAU Office,-135,Bath Village School,11.25%,*,N,,80,9
-nh,23,Haverhill Cooperative SAU Office,-136,Haverhill Cooperative Middle School,17.83%,*,N,,286,51
-nh,23,Haverhill Cooperative SAU Office,-137,Piermont Village School,6.25%,*,N,,64,4
-nh,23,Haverhill Cooperative SAU Office,-138,Warren Village School,20.22%,*,N,,89,18
-nh,23,Haverhill Cooperative SAU Office,-139,Woodsville Elementary School,22.04%,*,N,,245,54
-nh,23,Haverhill Cooperative SAU Office,-140,Woodsville High School,12.32%,*,N,,203,25
-nh,24,Henniker SAU Office,-141,Center Woods School,8.62%,*,N,,661,57
-nh,24,Henniker SAU Office,-142,Henniker Community School,16.67%,*,N,,420,70
-nh,24,Henniker SAU Office,-143,James Faulkner Elementary School,6.15%,*,N,,65,4
-nh,24,Henniker SAU Office,-144,John Stark Regional High School,7.35%,*,N,,653,48
-nh,24,Henniker SAU Office,-145,Weare Middle School,8.05%,*,N,,348,28
-nh,103,Hill SAU Office,-146,Jennie D. Blake School,19.67%,*,N,,61,12
-nh,34,Hillsboro-Deering SAU Office,-147,Hillsboro-Deering Elementary School,20.63%,*,N,,509,105
-nh,34,Hillsboro-Deering SAU Office,-148,Hillsboro-Deering High School,15.76%,*,N,,368,58
-nh,34,Hillsboro-Deering SAU Office,-149,Hillsboro-Deering Middle School,20.13%,*,N,,308,62
-nh,34,Hillsboro-Deering SAU Office,-150,Washington Elementary School,13.95%,*,N,,43,6
-nh,92,Hinsdale SAU Office,-151,Hinsdale Elementary School,30.09%,*,N,,319,96
-nh,92,Hinsdale SAU Office,-152,Hinsdale High School,14.19%,*,N,,155,22
-nh,92,Hinsdale SAU Office,-153,Hinsdale Middle High School,15.13%,*,N,,119,18
-nh,41,Hollis-Brookline SAU Office,-154,Captain Samuel Douglass Academy,4.03%,*,N,,248,10
-nh,41,Hollis-Brookline SAU Office,-155,Hollis Primary School,2.22%,*,N,,361,8
-nh,41,Hollis-Brookline SAU Office,-156,Hollis Upper Elementary School,1.50%,*,N,,333,5
-nh,41,Hollis-Brookline SAU Office,-157,Hollis-Brookline High School,1.28%,*,N,,860,11
-nh,41,Hollis-Brookline SAU Office,-158,Hollis-Brookline Middle School,1.51%,*,N,,397,6
-nh,41,Hollis-Brookline SAU Office,-159,Richard Maghakian Memorial School,2.08%,*,N,,336,7
-nh,15,Hooksett SAU Office,-160,Auburn Village School,2.71%,*,N,,627,17
-nh,15,Hooksett SAU Office,-161,David R. Cawley Middle School,7.30%,*,N,,507,37
-nh,15,Hooksett SAU Office,-162,Fred C. Underhill School,10.51%,*,N,,390,41
-nh,15,Hooksett SAU Office,-163,Henry W. Moore School,15.79%,*,N,,304,48
-nh,15,Hooksett SAU Office,-164,Hooksett Memorial School,11.85%,*,N,,439,52
-nh,66,Hopkinton SAU Office,-165,Harold Martin School,4.67%,*,N,,321,15
-nh,66,Hopkinton SAU Office,-166,Hopkinton High School,3.13%,*,N,,320,10
-nh,66,Hopkinton SAU Office,-167,Hopkinton Middle School,3.57%,*,N,,168,6
-nh,66,Hopkinton SAU Office,-168,Maple Street Elementary School,1.86%,*,N,,215,4
-nh,81,Hudson SAU Office,-169,Alvirne High School,4.25%,*,N,,1176,50
-nh,81,Hudson SAU Office,-170,Dr. H. O. Smith Elementary School,10.44%,*,N,,479,50
-nh,81,Hudson SAU Office,-171,Hills Garrison Elementary School,10.53%,*,N,,399,42
-nh,81,Hudson SAU Office,-172,Hudson Memorial School,9.50%,*,N,,821,78
-nh,81,Hudson SAU Office,-173,Library Street School,0.00%,*,N,,,
-nh,81,Hudson SAU Office,-174,Nottingham West Elementary School,10.51%,*,N,,552,58
+SAU Office",-126,Tuftonboro Central School,,18.33%,,N,120,
+nh,75,Grantham SAU Office,-127,Grantham Village School,,4.92%,,N,244,
+nh,50,Greenland SAU Office,-128,Greenland Central School,,3.34%,,N,419,
+nh,50,Greenland SAU Office,-129,Newington Public School,,12.00%,,N,50,
+nh,50,Greenland SAU Office,-130,Rye Elementary School,,3.90%,,N,231,
+nh,50,Greenland SAU Office,-131,Rye Junior High School,,2.96%,,N,169,
+nh,90,Hampton SAU Office,-132,Adeline C. Marston School,,10.00%,,N,350,
+nh,90,Hampton SAU Office,-133,Hampton Academy,,10.50%,,N,381,
+nh,90,Hampton SAU Office,-134,Hampton Centre School,,7.44%,,N,336,
+nh,23,Haverhill Cooperative SAU,-135,Bath Village School,,16.67%,,N,78,
+nh,23,Haverhill Cooperative SAU,-136,Haverhill Cooperative Middle School,,9.92%,,N,242,
+nh,23,Haverhill Cooperative SAU,-137,Piermont Village School,,8.82%,,N,68,
+nh,23,Haverhill Cooperative SAU,-138,Warren Village School,,34.25%,,N,73,
+nh,23,Haverhill Cooperative SAU,-139,Woodsville Elementary School,,17.49%,,N,223,
+nh,23,Haverhill Cooperative SAU,-140,Woodsville High School,,9.30%,,N,215,
+nh,24,Henniker SAU Office,-141,Center Woods School,,8.35%,,N,623,
+nh,24,Henniker SAU Office,-142,Henniker Community School,,13.27%,,N,422,
+nh,24,Henniker SAU Office,-143,James Faulkner Elementary School,,8.82%,,N,68,
+nh,24,Henniker SAU Office,-144,John Stark Regional High School,,6.87%,,N,597,
+nh,24,Henniker SAU Office,-145,Weare Middle School,,8.38%,,N,334,
+nh,103,Hill SAU Office,-146,Jennie D. Blake School,,19.23%,,N,52,
+nh,34,Hillsboro-Deering SAU Office,-147,Hillsboro-Deering Elementary School,,20.91%,,N,483,
+nh,34,Hillsboro-Deering SAU Office,-148,Hillsboro-Deering High School,,16.57%,,N,362,
+nh,34,Hillsboro-Deering SAU Office,-149,Hillsboro-Deering Middle School,,18.09%,,N,282,
+nh,34,Hillsboro-Deering SAU Office,-150,Washington Elementary School,,18.18%,,N,44,
+nh,92,Hinsdale SAU Office,-151,Hinsdale Elementary School,,27.40%,,N,281,
+nh,92,Hinsdale SAU Office,-152,Hinsdale High School,,15.44%,,N,136,
+nh,92,Hinsdale SAU Office,-153,Hinsdale Middle High School,,23.01%,,N,113,
+nh,41,Hollis-Brookline SAU Office,-154,Captain Samuel Douglass Academy,,3.25%,,N,246,
+nh,41,Hollis-Brookline SAU Office,-155,Hollis Primary School,,1.46%,,N,343,
+nh,41,Hollis-Brookline SAU Office,-156,Hollis Upper Elementary School,,2.36%,,N,297,
+nh,41,Hollis-Brookline SAU Office,-157,Hollis-Brookline High School,,1.76%,,N,851,
+nh,41,Hollis-Brookline SAU Office,-158,Hollis-Brookline Middle School,,1.31%,,N,381,
+nh,41,Hollis-Brookline SAU Office,-159,Richard Maghakian Memorial School,,3.05%,,N,328,
+nh,15,Hooksett SAU Office,-160,Auburn Village School,,2.81%,,N,640,
+nh,15,Hooksett SAU Office,-161,David R. Cawley Middle School,,8.21%,,N,463,
+nh,15,Hooksett SAU Office,-162,Fred C. Underhill School,,12.30%,,N,374,
+nh,15,Hooksett SAU Office,-163,Henry W. Moore School,,10.56%,,N,284,
+nh,15,Hooksett SAU Office,-164,Hooksett Memorial School,,8.37%,,N,418,
+nh,66,Hopkinton SAU Office,-165,Harold Martin School,,5.18%,,N,309,
+nh,66,Hopkinton SAU Office,-166,Hopkinton High School,,3.17%,,N,315,
+nh,66,Hopkinton SAU Office,-167,Hopkinton Middle School,,3.11%,,N,161,
+nh,66,Hopkinton SAU Office,-168,Maple Street Elementary School,,3.43%,,N,204,
+nh,81,Hudson SAU Office,-169,Alvirne High School,,4.94%,,N,1093,
+nh,81,Hudson SAU Office,-170,Dr. H. O. Smith Elementary School,,10.84%,,N,406,
+nh,81,Hudson SAU Office,-171,Hills Garrison Elementary School,,9.69%,,N,382,
+nh,81,Hudson SAU Office,-172,Hudson Memorial School,,10.72%,,N,774,
+nh,81,Hudson SAU Office,-173,Library Street School,,0.00%,,N,N/A,
+nh,81,Hudson SAU Office,-174,Nottingham West Elementary School,,10.65%,,N,526,
 nh,2,"Inter-Lakes Cooperative SAU
-Office",-175,Ashland Elementary School,31.90%,*,N,,163,52
+Office",-175,Ashland Elementary School,,34.91%,,N,169,
 nh,2,"Inter-Lakes Cooperative SAU
-Office",-176,Inter-Lakes Elementary School,26.92%,*,N,,483,130
+Office",-176,Inter-Lakes Elementary School,,0.00%,,N,N/A,
 nh,2,"Inter-Lakes Cooperative SAU
-Office",-177,Inter-Lakes High School,10.66%,*,N,,347,37
+Office",-177,Inter-Lakes High School,,13.29%,,N,301,
 nh,2,"Inter-Lakes Cooperative SAU
-Office",-178,Inter-Lakes Middle Tier,15.48%,*,N,,155,24
+Office",-178,Inter-Lakes Middle Tier,,0.00%,,N,N/A,
 nh,2,"Inter-Lakes Cooperative SAU
-Office",-179,Sandwich Central School,15.19%,*,N,,79,12
-nh,47,Jaffrey-Rindge SAU Office,-180,Conant High School,7.67%,*,N,,391,30
-nh,47,Jaffrey-Rindge SAU Office,-181,Jaffrey Grade School,24.09%,*,N,,328,79
-nh,47,Jaffrey-Rindge SAU Office,-182,Jaffrey-Rindge Middle School,14.77%,*,N,,325,48
-nh,47,Jaffrey-Rindge SAU Office,-183,Rindge Memorial School,9.97%,*,N,,391,39
-nh,65,Kearsarge Regional SAU Office,-184,James House Preschool,12.82%,*,N,,39,5
+Office",-179,Sandwich Central School,,15.58%,,N,77,
+nh,47,Jaffrey-Rindge SAU Office,-180,Conant High School,,10.60%,,N,368,
+nh,47,Jaffrey-Rindge SAU Office,-181,Jaffrey Grade School,,21.17%,,N,307,
+nh,47,Jaffrey-Rindge SAU Office,-182,Jaffrey-Rindge Middle School,,15.89%,,N,321,
+nh,47,Jaffrey-Rindge SAU Office,-183,Rindge Memorial School,,7.92%,,N,404,
+nh,65,Kearsarge Regional SAU Office,-184,James House Preschool,,8.57%,,N,35,
 nh,65,Kearsarge Regional SAU Office,-185,"Kearsarge Reg. Elem. School at New
-London",2.87%,*,N,,349,10
+London",,5.06%,,N,356,
 nh,65,Kearsarge Regional SAU Office,-186,"Kearsarge Reg. Elementary School -
-Bradford",8.74%,*,N,,183,16
-nh,65,Kearsarge Regional SAU Office,-187,Kearsarge Regional High School,9.96%,*,N,,542,54
-nh,65,Kearsarge Regional SAU Office,-188,Kearsarge Regional Middle School,9.20%,*,N,,435,40
-nh,65,Kearsarge Regional SAU Office,-189,Simonds Elementary School,16.77%,*,N,,167,28
-nh,65,Kearsarge Regional SAU Office,-190,Sutton Central Elementary School,18.00%,*,N,,100,18
-nh,29,Keene SAU Office,-191,Chesterfield Central School,8.53%,*,N,,293,25
-nh,29,Keene SAU Office,-192,Franklin Elementary School,40.84%,*,N,,262,107
-nh,29,Keene SAU Office,-193,Fuller Elementary School,20.44%,*,N,,362,74
-nh,29,Keene SAU Office,-194,John Perkins Elementary School,17.78%,*,N,,45,8
-nh,29,Keene SAU Office,-195,Jonathan M. Daniels School,0.00%,*,N,,114,0
-nh,29,Keene SAU Office,-196,Keene High School,13.67%,*,N,,1456,199
-nh,29,Keene SAU Office,-197,Keene Middle School,20.44%,*,N,,729,149
-nh,29,Keene SAU Office,-198,Marlborough Elementary School,25.14%,*,N,,183,46
-nh,29,Keene SAU Office,-199,Nelson Elementary School,14.10%,*,N,,78,11
-nh,29,Keene SAU Office,-200,Symonds Elementary School,15.04%,*,N,,339,51
-nh,29,Keene SAU Office,-201,Wells Memorial School,8.20%,*,N,,61,5
-nh,29,Keene SAU Office,-202,Westmoreland School,10.07%,*,N,,139,14
-nh,29,Keene SAU Office,-203,Wheelock Elementary School,33.04%,*,N,,224,74
-nh,30,Laconia SAU Office,-204,Elm Street School,30.67%,*,N,,326,100
-nh,30,Laconia SAU Office,-205,Holy Trinity Catholic School,0.00%,*,N,,68,0
-nh,30,Laconia SAU Office,-206,Laconia High School,28.19%,*,N,,564,159
-nh,30,Laconia SAU Office,-207,Laconia Middle School,36.54%,*,N,,457,167
-nh,30,Laconia SAU Office,-208,Pleasant Street School,34.98%,*,N,,303,106
-nh,30,Laconia SAU Office,-209,Woodland Heights Elementary School,45.39%,*,N,,412,187
-nh,88,Lebanon SAU Office,-210,Hanover Street School,14.12%,*,N,,340,48
-nh,88,Lebanon SAU Office,-211,Lebanon High School,7.04%,*,N,,597,42
-nh,88,Lebanon SAU Office,-212,Lebanon Middle School,13.66%,*,N,,483,66
-nh,88,Lebanon SAU Office,-213,Mt. Lebanon School,18.92%,*,N,,259,49
-nh,71,Lempster SAU Office,-214,Lempster Community School,17.92%,*,N,,106,19
-nh,68,Lincoln-Woodstock SAU Office,-215,Lin-Wood Public School (Elem),17.95%,*,N,,156,28
-nh,68,Lincoln-Woodstock SAU Office,-216,Lin-Wood Public School (High),14.67%,*,N,,75,11
-nh,68,Lincoln-Woodstock SAU Office,-217,Lin-Wood Public School (Middle),17.54%,*,N,,57,10
-nh,27,Litchfield SAU Office,-218,Campbell High School,3.79%,*,N,,448,17
-nh,27,Litchfield SAU Office,-219,Griffin Memorial School,6.97%,*,N,,488,34
-nh,27,Litchfield SAU Office,-220,Litchfield Middle School,6.14%,*,N,,407,25
-nh,84,Littleton SAU Office,-221,Littleton High School,19.21%,*,N,,229,44
-nh,84,Littleton SAU Office,-222,Mildred C. Lakeway School,37.26%,*,N,,365,136
-nh,12,Londonderry SAU Office,-223,Londonderry Middle School,6.22%,*,N,,948,59
-nh,12,Londonderry SAU Office,-224,Londonderry Senior High School,3.99%,*,N,,1455,58
-nh,12,Londonderry SAU Office,-225,Matthew Thornton Elementary School,5.22%,*,N,,536,28
-nh,12,Londonderry SAU Office,-226,North Londonderry Elementary School,3.67%,*,N,,490,18
-nh,12,Londonderry SAU Office,-227,South Londonderry Elementary School,10.67%,*,N,,478,51
-nh,76,Lyme SAU Office,-228,Lyme Elementary School,3.13%,*,N,,192,6
-nh,1063,Making Community Connections,-229,Making Community Connections,30.49%,*,N,,82,25
-nh,37,Manchester SAU Office,-230,Bakersville School,53.74%,*,N,,428,230
-nh,37,Manchester SAU Office,-231,Beech Street School,56.54%,*,N,,619,350
-nh,37,Manchester SAU Office,-232,Gossler Park School,52.62%,*,N,,496,261
-nh,37,Manchester SAU Office,-233,Green Acres School,14.55%,*,N,,481,70
-nh,37,Manchester SAU Office,-234,Hallsville School,27.05%,*,N,,292,79
-nh,37,Manchester SAU Office,-235,Henry J. McLaughlin Middle School,30.47%,*,N,,758,231
-nh,37,Manchester SAU Office,-236,Highland-Goffes Falls School,24.83%,*,N,,443,110
-nh,37,Manchester SAU Office,-237,Hillside Middle School,37.36%,*,N,,862,322
-nh,37,Manchester SAU Office,-238,Jewett School,24.69%,*,N,,482,119
-nh,37,Manchester SAU Office,-239,Manchester Central High School,29.49%,*,N,,1414,417
-nh,37,Manchester SAU Office,-240,Manchester Memorial High School,20.51%,*,N,,1541,316
+Bradford",,11.25%,,N,160,
+nh,65,Kearsarge Regional SAU Office,-187,Kearsarge Regional High School,,8.29%,,N,519,
+nh,65,Kearsarge Regional SAU Office,-188,Kearsarge Regional Middle School,,7.54%,,N,398,
+nh,65,Kearsarge Regional SAU Office,-189,Simonds Elementary School,,14.37%,,N,167,
+nh,65,Kearsarge Regional SAU Office,-190,Sutton Central Elementary School,,11.63%,,N,86,
+nh,29,Keene SAU Office,-191,Chesterfield Central School,,7.93%,,N,290,
+nh,29,Keene SAU Office,-192,Franklin Elementary School,,34.85%,,N,241,
+nh,29,Keene SAU Office,-193,Fuller Elementary School,,20.87%,,N,345,
+nh,29,Keene SAU Office,-194,John Perkins Elementary School,,26.09%,,N,46,
+nh,29,Keene SAU Office,-195,Jonathan M. Daniels School,,0.00%,,N,N/A,
+nh,29,Keene SAU Office,-196,Keene High School,,13.55%,,N,1351,
+nh,29,Keene SAU Office,-197,Keene Middle School,,20.11%,,N,741,
+nh,29,Keene SAU Office,-198,Marlborough Elementary School,,25.29%,,N,170,
+nh,29,Keene SAU Office,-199,Nelson Elementary School,,18.29%,,N,82,
+nh,29,Keene SAU Office,-200,Symonds Elementary School,,13.59%,,N,287,
+nh,29,Keene SAU Office,-201,Wells Memorial School,,9.23%,,N,65,
+nh,29,Keene SAU Office,-202,Westmoreland School,,15.56%,,N,135,
+nh,29,Keene SAU Office,-203,Wheelock Elementary School,,38.66%,,N,194,
+nh,30,Laconia SAU Office,-204,Elm Street School,,32.89%,,N,298,
+nh,30,Laconia SAU Office,-205,Holy Trinity Catholic School,,0.00%,,N,N/A,
+nh,30,Laconia SAU Office,-206,Laconia High School,,26.81%,,N,526,
+nh,30,Laconia SAU Office,-207,Laconia Middle School,,33.54%,,N,486,
+nh,30,Laconia SAU Office,-208,Pleasant Street School,,33.10%,,N,290,
+nh,30,Laconia SAU Office,-209,Woodland Heights Elementary School,,46.40%,,N,347,
+nh,88,Lebanon SAU Office,-210,Hanover Street School,,15.71%,,N,312,
+nh,88,Lebanon SAU Office,-211,Lebanon High School,,6.27%,,N,606,
+nh,88,Lebanon SAU Office,-212,Lebanon Middle School,,14.43%,,N,492,
+nh,88,Lebanon SAU Office,-213,Mt. Lebanon School,,24.38%,,N,242,
+nh,71,Lempster SAU Office,-214,Lempster Community School,,23.08%,,N,104,
+nh,68,Lincoln-Woodstock SAU Office,-215,Lin-Wood Public School (Elem),,18.58%,,N,113,
+nh,68,Lincoln-Woodstock SAU Office,-216,Lin-Wood Public School (High),,11.96%,,N,92,
+nh,68,Lincoln-Woodstock SAU Office,-217,Lin-Wood Public School (Middle),,18.84%,,N,69,
+nh,27,Litchfield SAU Office,-218,Campbell High School,,4.58%,,N,437,
+nh,27,Litchfield SAU Office,-219,Griffin Memorial School,,7.01%,,N,471,
+nh,27,Litchfield SAU Office,-220,Litchfield Middle School,,5.82%,,N,395,
+nh,84,Littleton SAU Office,-221,Littleton High School,,15.02%,,N,213,
+nh,84,Littleton SAU Office,-222,Mildred C. Lakeway School,,29.82%,,N,332,
+nh,12,Londonderry SAU Office,-223,Londonderry Middle School,,4.98%,,N,923,
+nh,12,Londonderry SAU Office,-224,Londonderry Senior High School,,3.47%,,N,1468,
+nh,12,Londonderry SAU Office,-225,Matthew Thornton Elementary School,,5.81%,,N,516,
+nh,12,Londonderry SAU Office,-226,North Londonderry Elementary School,,5.09%,,N,491,
+nh,12,Londonderry SAU Office,-227,South Londonderry Elementary School,,11.18%,,N,456,
+nh,76,Lyme SAU Office,-228,Lyme Elementary School,,6.06%,,N,198,
+nh,1063,"Making Community Connections
+Charter",-229,Making Community Connections Charter,,30.49%,,N,50,
+nh,37,Manchester SAU Office,-230,Bakersville School,,55.12%,,N,410,
+nh,37,Manchester SAU Office,-231,Beech Street School,,57.77%,,N,566,
+nh,37,Manchester SAU Office,-232,Gossler Park School,,50.27%,,N,364,
+nh,37,Manchester SAU Office,-233,Green Acres School,,11.86%,,N,489,
+nh,37,Manchester SAU Office,-234,Hallsville School,,32.31%,,N,260,
+nh,37,Manchester SAU Office,-235,Henry J. McLaughlin Middle School,,32.60%,,N,730,
+nh,37,Manchester SAU Office,-236,Highland-Goffes Falls School,,26.35%,,N,425,
+nh,37,Manchester SAU Office,-237,Hillside Middle School,,38.51%,,N,857,
+nh,37,Manchester SAU Office,-238,Jewett School,,24.30%,,N,395,
+nh,37,Manchester SAU Office,-239,Manchester Central High School,,26.61%,,N,1304,
+nh,37,Manchester SAU Office,-240,Manchester Memorial High School,,20.04%,,N,1407,
 nh,37,Manchester SAU Office,-241,"Manchester School of Technology (High
-School)",27.82%,*,N,,399,111
-nh,37,Manchester SAU Office,-242,Manchester West High School,26.99%,*,N,,878,237
-nh,37,Manchester SAU Office,-243,McDonough School,45.17%,*,N,,538,243
-nh,37,Manchester SAU Office,-244,Middle School At Parkside,39.97%,*,N,,698,279
-nh,37,Manchester SAU Office,-245,Northwest Elementary School,38.16%,*,N,,718,274
-nh,37,Manchester SAU Office,-246,Parker-Varney School,39.97%,*,N,,608,243
-nh,37,Manchester SAU Office,-247,Smyth Road School,27.60%,*,N,,442,122
-nh,37,Manchester SAU Office,-248,Southside Middle School,36.77%,*,N,,767,282
-nh,37,Manchester SAU Office,-249,Webster School,29.74%,*,N,,491,146
-nh,37,Manchester SAU Office,-250,Weston School,31.87%,*,N,,571,182
-nh,37,Manchester SAU Office,-251,Wilson School,54.18%,*,N,,443,240
-nh,87,Mascenic Regional SAU Office,-252,Boynton Middle School,13.70%,*,N,,292,40
-nh,87,Mascenic Regional SAU Office,-253,Highbridge Hill Elementary School,12.27%,*,N,,432,53
-nh,87,Mascenic Regional SAU Office,-254,Mascenic Regional High School,10.98%,*,N,,337,37
-nh,62,Mascoma Valley SAU Office,-255,Canaan Elementary School,23.74%,*,N,,278,66
-nh,62,Mascoma Valley SAU Office,-256,Enfield School Rec Program - Huse Park,0.00%,*,N,,,
-nh,62,Mascoma Valley SAU Office,-257,Enfield Village School,18.06%,*,N,,216,39
-nh,62,Mascoma Valley SAU Office,-258,Indian River School,14.59%,*,N,,377,55
-nh,62,Mascoma Valley SAU Office,-259,Mascoma Valley Rec Soccer Camp,0.00%,*,N,,,
-nh,62,Mascoma Valley SAU Office,-260,Mascoma Valley Regional High School,10.91%,*,N,,330,36
-nh,62,Mascoma Valley SAU Office,-261,Tata's Tots Home Day Care,0.00%,*,N,,,
-nh,89,Mason SAU Office,-262,Mason Elementary School,9.09%,*,N,,77,7
-nh,26,Merrimack SAU Office,-263,James Mastricola Elementary School,4.82%,*,N,,415,20
-nh,26,Merrimack SAU Office,-264,James Mastricola Upper Elementary School,5.17%,*,N,,561,29
-nh,26,Merrimack SAU Office,-265,Merrimack High School,3.56%,*,N,,1236,44
-nh,26,Merrimack SAU Office,-266,Merrimack Middle School,3.53%,*,N,,566,20
-nh,26,Merrimack SAU Office,-267,Reeds Ferry School,6.80%,*,N,,500,34
-nh,26,Merrimack SAU Office,-268,Thorntons Ferry School,5.54%,*,N,,542,30
-nh,46,Merrimack Valley SAU Office,-269,Andover Elementary School,12.82%,*,N,,234,30
-nh,46,Merrimack Valley SAU Office,-270,Boscawen Elementary School,23.40%,*,N,,265,62
-nh,46,Merrimack Valley SAU Office,-271,Loudon Elementary School,10.32%,*,N,,252,26
-nh,46,Merrimack Valley SAU Office,-272,Merrimack Valley High School,10.62%,*,N,,829,88
-nh,46,Merrimack Valley SAU Office,-273,Merrimack Valley Middle School,15.22%,*,N,,552,84
-nh,46,Merrimack Valley SAU Office,-274,Penacook Elementary School,18.92%,*,N,,370,70
-nh,46,Merrimack Valley SAU Office,-275,Salisbury Elementary School,3.61%,*,N,,83,3
-nh,46,Merrimack Valley SAU Office,-276,Webster Elementary School,18.68%,*,N,,91,17
-nh,69,Middleton SAU,-277,Middleton Elementary School,24.31%,*,N,,144,35
-nh,40,Milford SAU Office,-278,Heron Pond Elementary School,10.12%,*,N,,642,65
-nh,40,Milford SAU Office,-279,Jacques Memorial Elementary School,10.91%,*,N,,339,37
-nh,40,Milford SAU Office,-280,Milford High School,6.99%,*,N,,844,59
-nh,40,Milford SAU Office,-281,Milford Middle School,9.04%,*,N,,575,52
-nh,64,Milton SAU Office,-282,Milton Elementary School,18.25%,*,N,,263,48
-nh,64,Milton SAU Office,-283,Nute High School,18.01%,*,N,,161,29
-nh,64,Milton SAU Office,-284,Nute Junior High School,12.40%,*,N,,129,16
-nh,93,Monadnock Regional SAU Office,-285,Cutler School,21.68%,*,N,,286,62
-nh,93,Monadnock Regional SAU Office,-286,Dr. George S. Emerson Elementary School,20.10%,*,N,,194,39
-nh,93,Monadnock Regional SAU Office,-287,Gilsum Elementary School,26.67%,*,N,,60,16
-nh,93,Monadnock Regional SAU Office,-288,Monadnock Regional Middle High School,15.35%,*,N,,495,76
-nh,93,Monadnock Regional SAU Office,-289,Monadnock Regional Middle School,26.32%,*,N,,228,60
-nh,93,Monadnock Regional SAU Office,-290,Mount Caesar School,23.43%,*,N,,286,67
-nh,93,Monadnock Regional SAU Office,-291,Troy Elementary School,29.35%,*,N,,184,54
-nh,77,Monroe SAU Office,-292,Monroe Consolidated School,13.58%,*,N,,81,11
-nh,45,Moultonborough SAU Office,-293,Moultonborough Academy,7.98%,*,N,,163,13
-nh,45,Moultonborough SAU Office,-294,Moultonborough Central School,14.72%,*,N,,265,39
-nh,42,Nashua SAU Office,-295,Amherst Street School,39.38%,*,N,,320,126
-nh,42,Nashua SAU Office,-296,Bicentennial Elementary School,3.86%,*,N,,648,25
-nh,42,Nashua SAU Office,-297,Birch Hill Elementary School,17.73%,*,N,,423,75
-nh,42,Nashua SAU Office,-298,Broad Street Elementary School,17.29%,*,N,,376,65
-nh,42,Nashua SAU Office,-299,Charlotte Ave Elementary School,9.79%,*,N,,480,47
-nh,42,Nashua SAU Office,-300,Clearway Alternative School,0.00%,*,N,,54,0
-nh,42,Nashua SAU Office,-301,Dr. Norman W. Crisp School,38.29%,*,N,,444,170
-nh,42,Nashua SAU Office,-302,Elm Street Middle School,22.15%,*,N,,1142,253
-nh,42,Nashua SAU Office,-303,Fairgrounds Elementary School,32.58%,*,N,,534,174
-nh,42,Nashua SAU Office,-304,Fairgrounds Middle School,20.66%,*,N,,731,151
-nh,42,Nashua SAU Office,-305,Ledge Street School,41.19%,*,N,,556,229
-nh,42,Nashua SAU Office,-306,Main Dunstable School,7.56%,*,N,,476,36
-nh,42,Nashua SAU Office,-307,Mt. Pleasant School,43.48%,*,N,,391,170
-nh,42,Nashua SAU Office,-308,Nashua High School North,16.50%,*,N,,1812,299
-nh,42,Nashua SAU Office,-309,Nashua High School South,15.44%,*,N,,1943,300
-nh,42,Nashua SAU Office,-310,New Searles School,11.03%,*,N,,399,44
-nh,42,Nashua SAU Office,-311,Pennichuck Middle School,23.25%,*,N,,658,153
-nh,42,Nashua SAU Office,-312,Sunset Heights School,16.74%,*,N,,430,72
-nh,4,Newfound Area SAU Office,-313,Bridgewater-Hebron Village School,11.49%,*,N,,148,17
-nh,4,Newfound Area SAU Office,-314,Bristol Elementary School,26.84%,*,N,,231,62
-nh,4,Newfound Area SAU Office,-315,Danbury Elementary School,12.73%,*,N,,55,7
-nh,4,Newfound Area SAU Office,-316,New Hampton Community School,23.16%,*,N,,95,22
-nh,4,Newfound Area SAU Office,-317,Newfound Memorial Middle School,15.08%,*,N,,305,46
-nh,4,Newfound Area SAU Office,-318,Newfound Regional High School,13.32%,*,N,,398,53
-nh,31,Newmarket SAU Office,-319,Newmarket Elementary School,14.13%,*,N,,559,79
-nh,31,Newmarket SAU Office,-320,Newmarket Jr.-Sr. High School,7.00%,*,N,,300,21
-nh,43,Newport SAU Office,-321,Newport Middle High School (High),29.07%,*,N,,344,100
-nh,43,Newport SAU Office,-322,Newport Middle School,34.13%,*,N,,208,71
-nh,43,Newport SAU Office,-323,Richards Elementary School,40.86%,*,N,,465,190
-nh,58,Northumberland SAU Office,-324,Groveton Elementary School,24.60%,*,N,,126,31
-nh,58,Northumberland SAU Office,-325,Groveton High School,18.40%,*,N,,125,23
-nh,58,Northumberland SAU Office,-326,Stark Village School,30.77%,*,N,,26,8
-nh,58,Northumberland SAU Office,-327,Stratford Public School (Elem),42.86%,,Y,60.00%,68,29
-nh,44,Northwood SAU Office,-328,Northwood Elementary School,12.40%,*,N,,379,47
-nh,44,Northwood SAU Office,-329,Nottingham Elementary School,3.88%,*,N,,516,20
-nh,44,Northwood SAU Office,-330,Strafford School,7.38%,*,N,,420,31
-nh,5,Oyster River SAU Office,-331,Mast Way School,4.02%,*,N,,373,15
-nh,5,Oyster River SAU Office,-332,Moharimet School,3.75%,*,N,,320,12
-nh,5,Oyster River SAU Office,-333,Oyster River High School,2.30%,*,N,,827,19
-nh,5,Oyster River SAU Office,-334,Oyster River Middle School,3.24%,*,N,,680,22
-nh,28,Pelham SAU Office,-335,Pelham Elementary School,6.63%,*,N,,800,53
-nh,28,Pelham SAU Office,-336,Pelham High School,1.90%,*,N,,631,12
-nh,28,Pelham SAU Office,-337,Pelham Memorial School,3.02%,*,N,,497,15
-nh,53,Pembroke SAU Office,-338,Allenstown Elementary School,24.64%,*,N,,207,51
-nh,53,Pembroke SAU Office,-339,Armand R. Dupont School,28.05%,*,N,,164,46
-nh,53,Pembroke SAU Office,-340,Chichester Central School,9.21%,*,N,,228,21
-nh,53,Pembroke SAU Office,-341,Deerfield Community School,9.01%,*,N,,555,50
-nh,53,Pembroke SAU Office,-342,Epsom Central School,11.49%,*,N,,435,50
-nh,53,Pembroke SAU Office,-343,Pembroke Academy,9.69%,*,N,,743,72
-nh,53,Pembroke SAU Office,-344,Pembroke Hill School,15.31%,*,N,,196,30
-nh,53,Pembroke SAU Office,-345,Pembroke Village School,16.03%,*,N,,131,21
-nh,53,Pembroke SAU Office,-346,Strong Foundations Charter School,14.59%,*,N,,281,41
-nh,53,Pembroke SAU Office,-347,Three Rivers School,12.78%,*,N,,360,46
-nh,202,Pinkerton Academy,-348,Pinkerton Academy,5.55%,*,N,,3388,188
-nh,51,Pittsfield SAU Office,-349,Pittsfield Elementary School,29.97%,*,N,,347,104
-nh,51,Pittsfield SAU Office,-350,Pittsfield High School,16.95%,*,N,,177,30
-nh,51,Pittsfield SAU Office,-351,Pittsfield Middle School,29.67%,*,N,,91,27
-nh,32,Plainfield SAU Office,-352,Plainfield Elementary School,5.50%,*,N,,218,12
-nh,48,Plymouth SAU Office,-353,Campton Elementary School,22.40%,*,N,,317,71
-nh,48,Plymouth SAU Office,-354,Holderness Central School,11.41%,*,N,,149,17
-nh,48,Plymouth SAU Office,-355,Plymouth Elementary School,21.23%,*,N,,438,93
-nh,48,Plymouth SAU Office,-356,Plymouth Regional High School,12.30%,*,N,,683,84
-nh,48,Plymouth SAU Office,-357,Russell Elementary School,16.95%,*,N,,118,20
-nh,48,Plymouth SAU Office,-358,Thornton Central School,18.83%,*,N,,223,42
-nh,48,Plymouth SAU Office,-359,Wentworth Elementary School,40.32%,*,N,,62,25
-nh,52,Portsmouth SAU Office,-360,Little Harbour School,7.90%,*,N,,443,35
-nh,52,Portsmouth SAU Office,-361,Mary C. Dondero Elementary School,13.40%,*,N,,321,43
-nh,52,Portsmouth SAU Office,-362,New Franklin School,20.91%,*,N,,263,55
-nh,52,Portsmouth SAU Office,-363,Portsmouth High School,6.34%,*,N,,1151,73
-nh,52,Portsmouth SAU Office,-364,Portsmouth Middle School,10.75%,*,N,,549,59
-nh,301,Prospect Mountain JMA,-365,Prospect Mountain High School,8.21%,*,N,,463,38
-nh,33,Raymond SAU Office,-366,Iber Holmes Gove Middle School,12.56%,*,N,,398,50
-nh,33,Raymond SAU Office,-367,Lamprey River Elementary School,14.84%,*,N,,519,77
-nh,33,Raymond SAU Office,-368,Raymond High School,7.98%,*,N,,376,30
-nh,54,Rochester SAU Office,-369,Chamberlain Street School,27.74%,*,N,,411,114
-nh,54,Rochester SAU Office,-370,East Rochester School,25.77%,*,N,,326,84
-nh,54,Rochester SAU Office,-371,Gonic School,24.68%,*,N,,235,58
-nh,54,Rochester SAU Office,-372,Maple Street Magnet School,21.85%,*,N,,119,26
-nh,54,Rochester SAU Office,-373,McClelland School,29.22%,*,N,,397,116
-nh,54,Rochester SAU Office,-374,Nancy Loud School,26.58%,*,N,,79,21
-nh,54,Rochester SAU Office,-375,Rochester Middle School,24.95%,*,N,,958,239
-nh,54,Rochester SAU Office,-376,School Street School,38.20%,*,N,,89,34
-nh,54,Rochester SAU Office,-377,Spaulding High School,17.04%,*,N,,1426,243
-nh,54,Rochester SAU Office,-378,Wm. Allen Elementary School,37.92%,*,N,,327,124
-nh,57,Salem SAU Office,-379,Dr. L. F. Soule School,13.33%,*,N,,255,34
-nh,57,Salem SAU Office,-380,Mary A. Fisk Elementary School,8.46%,*,N,,319,27
-nh,57,Salem SAU Office,-381,North Salem Elementary School,7.55%,*,N,,371,28
-nh,57,Salem SAU Office,-382,Walter F. Haigh School,0.00%,*,N,,,
-nh,57,Salem SAU Office,-383,William E. Lancaster School,12.55%,*,N,,255,32
-nh,57,Salem SAU Office,-384,William T. Barron Elementary School,6.52%,*,N,,399,26
-nh,57,Salem SAU Office,-385,Woodbury School,9.84%,*,N,,833,82
-nh,17,Sanborn Regional SAU Office,-386,Daniel J. Bakie School,10.64%,*,N,,357,38
-nh,17,Sanborn Regional SAU Office,-387,Memorial School,9.68%,*,N,,279,27
-nh,17,Sanborn Regional SAU Office,-388,Sanborn Regional High School,4.86%,*,N,,679,33
-nh,17,Sanborn Regional SAU Office,-389,Sanborn Regional Middle School,6.43%,*,N,,311,20
-nh,35,SAU #35 Office,-390,Bethlehem Elementary School,19.46%,*,N,,149,29
-nh,35,SAU #35 Office,-391,Lafayette Regional School,12.28%,*,N,,114,14
-nh,35,SAU #35 Office,-392,Landaff Blue School,17.39%,*,N,,23,4
-nh,35,SAU #35 Office,-393,Lisbon Regional School (Elem),32.63%,*,N,,190,62
-nh,35,SAU #35 Office,-394,Lisbon Regional School (High),20.31%,*,N,,128,26
-nh,35,SAU #35 Office,-395,Lisbon Regional School (Middle),19.23%,*,N,,52,10
-nh,35,SAU #35 Office,-396,Profile Junior High School,14.74%,*,N,,95,14
-nh,35,SAU #35 Office,-397,Profile Senior High School,10.88%,*,N,,147,16
-nh,80,Shaker Regional SAU Office,-398,Belmont Elementary School,25.69%,*,N,,436,112
-nh,80,Shaker Regional SAU Office,-399,Belmont High School,10.62%,*,N,,405,43
-nh,80,Shaker Regional SAU Office,-400,Belmont Middle School,19.84%,*,N,,378,75
-nh,80,Shaker Regional SAU Office,-401,Canterbury Elementary School,18.64%,*,N,,118,22
-nh,56,Somersworth SAU Office,-402,Idlehurst Elementary School,36.34%,*,N,,421,153
-nh,56,Somersworth SAU Office,-403,Maple Wood Elementary School,29.67%,*,N,,418,124
-nh,56,Somersworth SAU Office,-404,Rollinsford Grade School,8.33%,*,N,,156,13
-nh,56,Somersworth SAU Office,-405,Somersworth High School,19.48%,*,N,,421,82
-nh,56,Somersworth SAU Office,-406,Somersworth Middle School,29.48%,*,N,,363,107
-nh,85,Sunapee SAU Office,-407,Sunapee Central School,12.00%,*,N,,150,18
-nh,85,Sunapee SAU Office,-408,Sunapee Middle High School,8.18%,*,N,,110,9
-nh,85,Sunapee SAU Office,-409,Sunapee Sr. High School,6.08%,*,N,,148,9
-nh,13,Tamworth SAU Office,-410,Freedom Elementary School,19.40%,*,N,,67,13
-nh,13,Tamworth SAU Office,-411,Kenneth A. Brett School,30.53%,*,N,,190,58
-nh,13,Tamworth SAU Office,-412,Madison Elementary School,16.20%,*,N,,142,23
-nh,55,Timberlane Regional SAU Office,-413,Atkinson Academy,2.65%,*,N,,340,9
-nh,55,Timberlane Regional SAU Office,-414,Danville Elementary School,11.02%,*,N,,254,28
-nh,55,Timberlane Regional SAU Office,-415,Hampstead Central School,5.06%,*,N,,494,25
-nh,55,Timberlane Regional SAU Office,-416,Hampstead Middle School,3.61%,*,N,,388,14
-nh,55,Timberlane Regional SAU Office,-417,Pollard Elementary School,6.13%,*,N,,473,29
-nh,55,Timberlane Regional SAU Office,-418,Sandown Central School,6.92%,*,N,,159,11
-nh,55,Timberlane Regional SAU Office,-419,Sandown North Elementary School,7.49%,*,N,,334,25
-nh,55,Timberlane Regional SAU Office,-420,Timberlane Regional High School,4.68%,*,N,,1111,52
-nh,55,Timberlane Regional SAU Office,-421,Timberlane Regional Middle School,5.93%,*,N,,809,48
-nh,101,Wakefield SAU Office,-422,Paul Elementary School,20.44%,*,N,,499,102
+School)",,25.77%,,N,388,
+nh,37,Manchester SAU Office,-242,Manchester West High School,,32.29%,,N,768,
+nh,37,Manchester SAU Office,-243,McDonough School,,46.36%,,N,481,
+nh,37,Manchester SAU Office,-244,Middle School At Parkside,,38.76%,,N,841,
+nh,37,Manchester SAU Office,-245,Northwest Elementary School,,39.06%,,N,553,
+nh,37,Manchester SAU Office,-246,Parker-Varney School,,36.97%,,N,468,
+nh,37,Manchester SAU Office,-247,Smyth Road School,,26.23%,,N,427,
+nh,37,Manchester SAU Office,-248,Southside Middle School,,29.48%,,N,692,
+nh,37,Manchester SAU Office,-249,Webster School,,34.82%,,N,425,
+nh,37,Manchester SAU Office,-250,Weston School,,30.60%,,N,513,
+nh,37,Manchester SAU Office,-251,Wilson School,,52.95%,,N,440,
+nh,87,Mascenic Regional SAU Office,-252,Boynton Middle School,,14.19%,,N,303,
+nh,87,Mascenic Regional SAU Office,-253,Highbridge Hill Elementary School,,12.47%,,N,425,
+nh,87,Mascenic Regional SAU Office,-254,Mascenic Regional High School,,9.76%,,N,287,
+nh,62,Mascoma Valley SAU Office,-255,Canaan Elementary School,,23.21%,,N,237,
+nh,62,Mascoma Valley SAU Office,-256,Enfield School Rec Program - Huse Park,,0.00%,,N,N/A,
+nh,62,Mascoma Valley SAU Office,-257,Enfield Village School,,11.56%,,N,199,
+nh,62,Mascoma Valley SAU Office,-258,Indian River School,,14.57%,,N,357,
+nh,62,Mascoma Valley SAU Office,-259,Mascoma Valley Rec Soccer Camp,,0.00%,,N,N/A,
+nh,62,Mascoma Valley SAU Office,-260,Mascoma Valley Regional High School,,9.51%,,N,326,
+nh,62,Mascoma Valley SAU Office,-261,Tata's Tots Home Day Care,,0.00%,,N,N/A,
+nh,89,Mason SAU Office,-262,Mason Elementary School,,4.88%,,N,82,
+nh,26,Merrimack SAU Office,-263,James Mastricola Elementary School,,5.97%,,N,419,
+nh,26,Merrimack SAU Office,-264,"James Mastricola Upper Elementary
+School",,5.08%,,N,571,
+nh,26,Merrimack SAU Office,-265,Merrimack High School,,3.12%,,N,1218,
+nh,26,Merrimack SAU Office,-266,Merrimack Middle School,,3.51%,,N,542,
+nh,26,Merrimack SAU Office,-267,Reeds Ferry School,,7.97%,,N,477,
+nh,26,Merrimack SAU Office,-268,Thorntons Ferry School,,5.28%,,N,568,
+nh,46,Merrimack Valley SAU Office,-269,Andover Elementary School,,13.77%,,N,247,
+nh,46,Merrimack Valley SAU Office,-270,Boscawen Elementary School,,21.14%,,N,246,
+nh,46,Merrimack Valley SAU Office,-271,Loudon Elementary School,,12.00%,,N,275,
+nh,46,Merrimack Valley SAU Office,-272,Merrimack Valley High School,,8.89%,,N,799,
+nh,46,Merrimack Valley SAU Office,-273,Merrimack Valley Middle School,,12.61%,,N,547,
+nh,46,Merrimack Valley SAU Office,-274,Penacook Elementary School,,17.97%,,N,345,
+nh,46,Merrimack Valley SAU Office,-275,Salisbury Elementary School,,5.08%,,N,59,
+nh,46,Merrimack Valley SAU Office,-276,Webster Elementary School,,17.24%,,N,87,
+nh,69,Middleton SAU,-277,Middleton Elementary School,,19.58%,,N,143,
+nh,40,Milford SAU Office,-278,Heron Pond Elementary School,,10.54%,,N,598,
+nh,40,Milford SAU Office,-279,Jacques Memorial Elementary School,,7.95%,,N,365,
+nh,40,Milford SAU Office,-280,Milford High School,,6.97%,,N,804,
+nh,40,Milford SAU Office,-281,Milford Middle School,,9.65%,,N,539,
+nh,64,Milton SAU Office,-282,Milton Elementary School,,20.99%,,N,243,
+nh,64,Milton SAU Office,-283,Nute High School,,13.18%,,N,129,
+nh,64,Milton SAU Office,-284,Nute Junior High School,,23.39%,,N,124,
+nh,93,Monadnock Regional SAU,-285,Cutler School,,24.83%,,N,286,
+nh,93,Monadnock Regional SAU,-286,Dr. George S. Emerson Elementary,,24.02%,,N,179,
+nh,93,Monadnock Regional SAU,-287,Gilsum Elementary School,,16.39%,,N,61,
+nh,93,Monadnock Regional SAU,-288,Monadnock Regional Middle High School,,15.86%,,N,454,
+nh,93,Monadnock Regional SAU,-289,Monadnock Regional Middle School,,21.62%,,N,222,
+nh,93,Monadnock Regional SAU,-290,Mount Caesar School,,19.70%,,N,264,
+nh,93,Monadnock Regional SAU,-291,Troy Elementary School,,27.84%,,N,176,
+nh,77,Monroe SAU Office,-292,Monroe Consolidated School,,11.11%,,N,90,
+nh,45,Moultonborough SAU Office,-293,Moultonborough Academy,,1.20%,,N,167,
+nh,45,Moultonborough SAU Office,-294,Moultonborough Central School,,17.28%,,N,191,
+nh,42,Nashua SAU Office,-295,Amherst Street School,,41.07%,,N,280,
+nh,42,Nashua SAU Office,-296,Bicentennial Elementary School,,4.37%,,N,572,
+nh,42,Nashua SAU Office,-297,Birch Hill Elementary School,,16.12%,,N,397,
+nh,42,Nashua SAU Office,-298,Broad Street Elementary School,,13.62%,,N,345,
+nh,42,Nashua SAU Office,-299,Charlotte Ave Elementary School,,8.58%,,N,443,
+nh,42,Nashua SAU Office,-300,CLEARWAY ALTERNATIVE SCHO,,0.00%,,N,N/A,
+nh,42,Nashua SAU Office,-301,Dr. Norman W. Crisp School,,43.44%,,N,419,
+nh,42,Nashua SAU Office,-302,Elm Street Middle School,,21.48%,,N,1108,
+nh,42,Nashua SAU Office,-303,Fairgrounds Elementary School,,34.09%,,N,528,
+nh,42,Nashua SAU Office,-304,Fairgrounds Middle School,,20.77%,,N,698,
+nh,42,Nashua SAU Office,-305,Ledge Street School,,45.77%,,N,496,
+nh,42,Nashua SAU Office,-306,Main Dunstable School,,8.28%,,N,447,
+nh,42,Nashua SAU Office,-307,Mt. Pleasant School,,41.18%,,N,306,
+nh,42,Nashua SAU Office,-308,Nashua High School North,,16.17%,,N,1670,
+nh,42,Nashua SAU Office,-309,Nashua High School South,,14.32%,,N,1830,
+nh,42,Nashua SAU Office,-310,New Searles School,,12.03%,,N,349,
+nh,42,Nashua SAU Office,-311,Pennichuck Middle School,,21.81%,,N,651,
+nh,42,Nashua SAU Office,-312,Sunset Heights School,,14.17%,,N,381,
+nh,4,Newfound Area SAU Office,-313,Bridgewater-Hebron Village School,,11.89%,,N,143,
+nh,4,Newfound Area SAU Office,-314,Bristol Elementary School,,25.00%,,N,220,
+nh,4,Newfound Area SAU Office,-315,Danbury Elementary School,,25.00%,,N,60,
+nh,4,Newfound Area SAU Office,-316,New Hampton Community School,,20.75%,,N,106,
+nh,4,Newfound Area SAU Office,-317,Newfound Memorial Middle School,,15.55%,,N,283,
+nh,4,Newfound Area SAU Office,-318,Newfound Regional High School,,13.23%,,N,393,
+nh,31,Newmarket SAU Office,-319,Newmarket Elementary School,,12.29%,,N,545,
+nh,31,Newmarket SAU Office,-320,Newmarket Jr.-Sr. High School,,5.86%,,N,290,
+nh,43,Newport SAU Office,-321,Newport Middle High School (High),,25.56%,,N,313,
+nh,43,Newport SAU Office,-322,Newport Middle School,,30.52%,,N,213,
+nh,43,Newport SAU Office,-323,Richards Elementary School,,41.25%,,N,400,
+nh,58,Northumberland SAU Office,-324,Groveton Elementary School,,24.81%,,N,129,
+nh,58,Northumberland SAU Office,-325,Groveton High School,,21.21%,,N,132,
+nh,58,Northumberland SAU Office,-326,Stark Village School,,28.00%,,N,25,
+nh,58,Northumberland SAU Office,-327,Stratford Public School (Elem),,42.11%,60.00%,Y,70,
+nh,44,Northwood SAU Office,-328,Northwood Elementary School,,11.17%,,N,394,
+nh,44,Northwood SAU Office,-329,Nottingham Elementary School,,5.70%,,N,526,
+nh,44,Northwood SAU Office,-330,Strafford School,,8.01%,,N,412,
+nh,5,Oyster River SAU Office,-331,Mast Way School,,3.23%,,N,371,
+nh,5,Oyster River SAU Office,-332,Moharimet School,,2.36%,,N,297,
+nh,5,Oyster River SAU Office,-333,Oyster River High School,,1.56%,,N,834,
+nh,5,Oyster River SAU Office,-334,Oyster River Middle School,,2.87%,,N,663,
+nh,28,Pelham SAU Office,-335,Pelham Elementary School,,3.17%,,N,757,
+nh,28,Pelham SAU Office,-336,Pelham High School,,2.17%,,N,600,
+nh,28,Pelham SAU Office,-337,Pelham Memorial School,,4.41%,,N,454,
+nh,53,Pembroke SAU Office,-338,Allenstown Elementary School,,21.08%,,N,185,
+nh,53,Pembroke SAU Office,-339,Armand R. Dupont School,,25.90%,,N,166,
+nh,53,Pembroke SAU Office,-340,Chichester Central School,,7.94%,,N,214,
+nh,53,Pembroke SAU Office,-341,Deerfield Community School,,7.16%,,N,531,
+nh,53,Pembroke SAU Office,-342,Epsom Central School,,10.12%,,N,405,
+nh,53,Pembroke SAU Office,-343,Pembroke Academy,,7.85%,,N,764,
+nh,53,Pembroke SAU Office,-344,Pembroke Hill School,,15.03%,,N,346,
+nh,53,Pembroke SAU Office,-345,Strong Foundations Charter School,,10.95%,,N,283,
+nh,53,Pembroke SAU Office,-346,Three Rivers School,,10.70%,,N,327,
+nh,202,Pinkerton Academy,-347,Pinkerton Academy,,4.75%,,N,3220,
+nh,51,Pittsfield SAU Office,-348,Pittsfield Elementary School,,29.88%,,N,328,
+nh,51,Pittsfield SAU Office,-349,Pittsfield High School,,24.65%,,N,142,
+nh,51,Pittsfield SAU Office,-350,Pittsfield Middle School,,25.77%,,N,97,
+nh,32,Plainfield SAU Office,-351,Plainfield Elementary School,,3.17%,,N,221,
+nh,48,Plymouth SAU Office,-352,Campton Elementary School,,15.23%,,N,302,
+nh,48,Plymouth SAU Office,-353,Holderness Central School,,7.69%,,N,143,
+nh,48,Plymouth SAU Office,-354,Plymouth Elementary School,,19.72%,,N,431,
+nh,48,Plymouth SAU Office,-355,Plymouth Regional High School,,11.94%,,N,620,
+nh,48,Plymouth SAU Office,-356,Russell Elementary School,,11.24%,,N,89,
+nh,48,Plymouth SAU Office,-357,Thornton Central School,,19.52%,,N,210,
+nh,48,Plymouth SAU Office,-358,Wentworth Elementary School,,21.88%,,N,64,
+nh,52,Portsmouth SAU Office,-359,Little Harbour School,,6.00%,,N,400,
+nh,52,Portsmouth SAU Office,-360,Mary C. Dondero Elementary School,,13.52%,,N,318,
+nh,52,Portsmouth SAU Office,-361,New Franklin School,,18.36%,,N,256,
+nh,52,Portsmouth SAU Office,-362,Portsmouth High School,,5.79%,,N,1122,
+nh,52,Portsmouth SAU Office,-363,Portsmouth Middle School,,10.16%,,N,512,
+nh,301,Prospect Mountain JMA,-364,Prospect Mountain High School,,7.42%,,N,445,
+nh,33,Raymond SAU Office,-365,Iber Holmes Gove Middle School,,12.33%,,N,373,
+nh,33,Raymond SAU Office,-366,Lamprey River Elementary School,,14.17%,,N,508,
+nh,33,Raymond SAU Office,-367,Raymond High School,,6.29%,,N,350,
+nh,54,Rochester SAU Office,-368,Chamberlain Street School,,29.74%,,N,380,
+nh,54,Rochester SAU Office,-369,East Rochester School,,29.94%,,N,314,
+nh,54,Rochester SAU Office,-370,Gonic School,,18.26%,,N,219,
+nh,54,Rochester SAU Office,-371,Maple Street Magnet School,,20.35%,,N,113,
+nh,54,Rochester SAU Office,-372,McClelland School,,28.02%,,N,389,
+nh,54,Rochester SAU Office,-373,Nancy Loud School,,20.24%,,N,84,
+nh,54,Rochester SAU Office,-374,Rochester Middle School,,24.76%,,N,933,
+nh,54,Rochester SAU Office,-375,School Street School,,49.33%,,N,75,
+nh,54,Rochester SAU Office,-376,Spaulding High School,,16.72%,,N,1286,
+nh,54,Rochester SAU Office,-377,Wm. Allen Elementary School,,42.01%,,N,338,
+nh,57,Salem SAU Office,-378,Dr. L. F. Soule School,,13.36%,,N,232,
+nh,57,Salem SAU Office,-379,Mary A. Fisk Elementary School,,8.17%,,N,257,
+nh,57,Salem SAU Office,-380,North Salem Elementary School,,8.12%,,N,382,
+nh,57,Salem SAU Office,-381,Salem High School,,6.71%,,N,1177,
+nh,57,Salem SAU Office,-382,Walter F. Haigh School,,0.00%,,N,N/A,
+nh,57,Salem SAU Office,-383,William E. Lancaster School,,6.55%,,N,229,
+nh,57,Salem SAU Office,-384,William T. Barron Elementary School,,6.94%,,N,389,
+nh,57,Salem SAU Office,-385,Woodbury School,,8.14%,,N,799,
+nh,17,Sanborn Regional SAU Office,-386,Daniel J. Bakie School,,10.26%,,N,341,
+nh,17,Sanborn Regional SAU Office,-387,Memorial School,,5.86%,,N,273,
+nh,17,Sanborn Regional SAU Office,-388,Sanborn Regional High School,,4.81%,,N,644,
+nh,17,Sanborn Regional SAU Office,-389,Sanborn Regional Middle School,,7.59%,,N,316,
+nh,35,SAU #35 Office,-390,Bethlehem Elementary School,,15.69%,,N,153,
+nh,35,SAU #35 Office,-391,Lafayette Regional School,,17.59%,,N,108,
+nh,35,SAU #35 Office,-392,Landaff Blue School,,12.50%,,N,32,
+nh,35,SAU #35 Office,-393,Lisbon Regional School (Elem),,34.64%,,N,179,
+nh,35,SAU #35 Office,-394,Lisbon Regional School (High),,20.00%,,N,105,
+nh,35,SAU #35 Office,-395,Lisbon Regional School (Middle),,25.00%,,N,60,
+nh,35,SAU #35 Office,-396,Profile Junior High School,,9.09%,,N,88,
+nh,35,SAU #35 Office,-397,Profile Senior High School,,16.00%,,N,125,
+nh,80,Shaker Regional SAU Office,-398,Belmont Elementary School,,25.88%,,N,398,
+nh,80,Shaker Regional SAU Office,-399,Belmont High School,,13.22%,,N,348,
+nh,80,Shaker Regional SAU Office,-400,Belmont Middle School,,16.41%,,N,396,
+nh,80,Shaker Regional SAU Office,-401,Canterbury Elementary School,,10.53%,,N,114,
+nh,56,Somersworth SAU Office,-402,Idlehurst Elementary School,,0.00%,,N,N/A,
+nh,56,Somersworth SAU Office,-403,Maple Wood Elementary School,,0.00%,,N,N/A,
+nh,56,Somersworth SAU Office,-404,Rollinsford Grade School,,11.04%,,N,154,
+nh,56,Somersworth SAU Office,-405,Somersworth High School,,19.91%,,N,422,
+nh,56,Somersworth SAU Office,-406,Somersworth Middle School,,31.59%,,N,345,
+nh,85,Sunapee SAU Office,-407,Sunapee Central School,,12.73%,,N,165,
+nh,85,Sunapee SAU Office,-408,Sunapee Middle High School,,9.18%,,N,98,
+nh,85,Sunapee SAU Office,-409,Sunapee Sr. High School,,7.28%,,N,151,
+nh,13,Tamworth SAU Office,-410,Freedom Elementary School,,16.67%,,N,54,
+nh,13,Tamworth SAU Office,-411,Kenneth A. Brett School,,36.04%,,N,197,
+nh,13,Tamworth SAU Office,-412,Madison Elementary School,,18.71%,,N,139,
+nh,55,Timberlane Regional SAU Office,-413,Atkinson Academy,,2.14%,,N,327,
+nh,55,Timberlane Regional SAU Office,-414,Danville Elementary School,,11.39%,,N,281,
+nh,55,Timberlane Regional SAU Office,-415,Hampstead Central School,,4.64%,,N,474,
+nh,55,Timberlane Regional SAU Office,-416,Hampstead Middle School,,4.09%,,N,391,
+nh,55,Timberlane Regional SAU Office,-417,Pollard Elementary School,,6.61%,,N,469,
+nh,55,Timberlane Regional SAU Office,-418,Sandown Central School,,3.33%,,N,150,
+nh,55,Timberlane Regional SAU Office,-419,Sandown North Elementary School,,6.55%,,N,336,
+nh,55,Timberlane Regional SAU Office,-420,Timberlane Regional High School,,4.30%,,N,1092,
+nh,55,Timberlane Regional SAU Office,-421,Timberlane Regional Middle School,,6.06%,,N,808,
+nh,101,Wakefield SAU Office,-422,Paul Elementary School,,21.13%,,N,497,
 nh,36,"White Mountains Regional SAU
-Office",-423,Jefferson Elementary School,0.00%,*,N,,,
+Office",-423,Lancaster Elementary School,,26.72%,,N,408,
 nh,36,"White Mountains Regional SAU
-Office",-424,Lancaster Elementary School,27.29%,*,N,,447,122
+Office",-424,White Mountains Regional High School,,16.27%,,N,338,
 nh,36,"White Mountains Regional SAU
-Office",-425,White Mountains Regional High School,14.75%,*,N,,366,54
-nh,36,"White Mountains Regional SAU
-Office",-426,Whitefield Elementary School,23.96%,*,N,,338,81
-nh,63,Wilton SAU Office,-427,Florence Rideout Elementary School,14.16%,*,N,,226,32
-nh,63,Wilton SAU Office,-428,Lyndeborough Central School,20.27%,*,N,,74,15
-nh,63,Wilton SAU Office,-429,Wilton-Lyndeboro Senior High School,8.64%,*,N,,162,14
-nh,94,Winchester SAU Office,-430,Winchester School,36.97%,,Y,38.40%,398,147
-nh,95,Windham SAU Office,-431,Golden Brook Elementary School,1.72%,*,N,,582,10
-nh,95,Windham SAU Office,-432,Windham Center School,1.36%,*,N,,661,9
-nh,95,Windham SAU Office,-433,Windham High School,0.84%,*,N,,953,8
-nh,95,Windham SAU Office,-434,Windham Middle School,1.38%,*,N,,796,11
-nh,21,Winnacunnet SAU Office,-435,Lincoln Akerman School,3.13%,*,N,,224,7
-nh,21,Winnacunnet SAU Office,-436,North Hampton School,3.39%,*,N,,354,12
-nh,21,Winnacunnet SAU Office,-437,Seabrook Elementary School,20.28%,*,N,,434,88
-nh,21,Winnacunnet SAU Office,-438,South Hampton Barnard School,0.00%,*,N,,84,0
-nh,21,Winnacunnet SAU Office,-439,Winnacunnet High School,7.50%,*,N,,1080,81
-nh,59,Winnisquam Regional SAU Office,-440,Sanbornton Central School,13.53%,*,N,,207,28
-nh,59,Winnisquam Regional SAU Office,-441,Southwick School,21.08%,*,N,,223,47
-nh,59,Winnisquam Regional SAU Office,-442,Union Sanborn School,22.99%,*,N,,261,60
-nh,59,Winnisquam Regional SAU Office,-443,Winnisquam Regional High School,12.07%,*,N,,464,56
-nh,59,Winnisquam Regional SAU Office,-444,Winnisquam Regional Middle School,13.98%,*,N,,379,53
+Office",-425,Whitefield Elementary School,,22.58%,,N,310,
+nh,63,Wilton SAU Office,-426,Florence Rideout Elementary School,,11.64%,,N,232,
+nh,63,Wilton SAU Office,-427,Lyndeborough Central School,,12.07%,,N,58,
+nh,63,Wilton SAU Office,-428,Wilton-Lyndeboro Senior High School,,11.73%,,N,162,
+nh,94,Winchester SAU Office,-429,Winchester Public School,,40.55%,40.66%,Y,396,
+nh,94,Winchester SAU Office,-430,Winchester SSO,,0.00%,,N,N/A,
+nh,95,Windham SAU Office,-431,Golden Brook Elementary School,,0.86%,,N,1046,
+nh,95,Windham SAU Office,-432,Windham Center School,,1.32%,,N,453,
+nh,95,Windham SAU Office,-433,Windham High School,,1.31%,,N,992,
+nh,95,Windham SAU Office,-434,Windham Middle School,,1.14%,,N,525,
+nh,21,Winnacunnet SAU Office,-435,Lincoln Akerman School,,2.86%,,N,210,
+nh,21,Winnacunnet SAU Office,-436,North Hampton School,,2.93%,,N,341,
+nh,21,Winnacunnet SAU Office,-437,Seabrook Elementary School,,21.05%,,N,399,
+nh,21,Winnacunnet SAU Office,-438,South Hampton Barnard School,,1.19%,,N,84,
+nh,21,Winnacunnet SAU Office,-439,Winnacunnet High School,,6.97%,,N,1018,
+nh,59,"Winnisquam Regional SAU
+Office",-440,Sanbornton Central School,,14.65%,,N,198,
+nh,59,"Winnisquam Regional SAU
+Office",-441,Southwick School,,18.40%,,N,212,
+nh,59,"Winnisquam Regional SAU
+Office",-442,Union Sanborn School,,22.49%,,N,249,
+nh,59,"Winnisquam Regional SAU
+Office",-443,Winnisquam Regional High School,,10.35%,,N,425,
+nh,59,"Winnisquam Regional SAU
+Office",-444,Winnisquam Regional Middle School,,15.04%,,N,339,

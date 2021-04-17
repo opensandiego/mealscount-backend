@@ -1,400 +1,624 @@
 state,District Code,District Name,School Code,School Name,individual_isp,proxy_isp,participating_in_cep,claiming_isp,total_enrolled,total_eligible
-ia,01260000,Algona Comm School District,409,Bertha Godfrey Elementary School,49.59%,,N,,,
-ia,02340000,Anamosa Comm School District,209,Anamosa Middle School,34.19%,,N,,,
-ia,02340000,Anamosa Comm School District,418,Strawberry Hill Elementary School,41.88%,,N,,,
-ia,06030000,Bennett Comm School District,409-0,Bennett Elementary School,49.38%,,N,,,
-ia,06210000,Bettendorf Comm School District,445,Neil Armstrong Elementary School,33.00%,,N,,,
-ia,06210000,Bettendorf Comm School District,418-0,Thomas Jefferson Elementary School,34.93%,,N,,,
-ia,07290000,Boone Comm School District,418-1,Franklin Elementary School,33.33%,,N,,,
-ia,07290000,Boone Comm School District,436,Lincoln Elementary School,42.98%,,N,,,
-ia,07290000,Boone Comm School District,454,Page Elementary School,32.59%,,N,,,
-ia,08820000,Burlington Comm School District,218,Aldo Leopold Middle School,47.58%,,N,,,
-ia,08820000,Burlington Comm School District,409-1,Black Hawk Elementary School,43.06%,,N,,,
-ia,08820000,Burlington Comm School District,109,Burlington Community High School,34.06%,,N,,,
-ia,08820000,Burlington Comm School District,427,Corse Elementary School,53.40%,,N,,,
-ia,08820000,Burlington Comm School District,208,Edward Stone  Middle School,42.08%,,N,,,
-ia,08820000,Burlington Comm School District,445-0,James Wilson Grimes School,54.27%,,N,,,
-ia,08820000,Burlington Comm School District,454-0,North Hill Elementary School,55.09%,,N,,,
-ia,08820000,Burlington Comm School District,490,Sunnyside Elementary School,42.48%,,N,,,
-ia,09140000,CAM Comm School District,109-0,CAM High School,35.86%,,N,,,
-ia,09140000,CAM Comm School District,172,CAM Middle School,35.71%,,N,,,
-ia,09140000,CAM Comm School District,418-2,CAM North Elementary,55.38%,,N,,,
-ia,09140000,CAM Comm School District,409-2,CAM South Elementary School,30.23%,,N,,,
-ia,09360000,Camanche Comm School District,418-3,Camanche Elementary School,32.58%,,N,,,
-ia,09770000,Cardinal Comm School District,409-3,Cardinal Elementary School,49.10%,,N,,,
-ia,10440000,Cedar Falls Comm School District,454-1,North Cedar Elementary School,40.22%,,N,,,
-ia,10530000,CEDAR RAPIDS SCHOOLS zz,418-4,Arthur Elementary School,42.74%,,Y,57.78%,391,167
-ia,10530000,CEDAR RAPIDS SCHOOLS zz,431,Cleveland Elementary School,54.13%,,Y,57.78%,421,228
-ia,10530000,CEDAR RAPIDS SCHOOLS zz,209-0,Franklin Middle School,37.72%,,Y,57.78%,620,234
-ia,10530000,CEDAR RAPIDS SCHOOLS zz,463,Garfield Elementary School,67.62%,,Y,57.78%,219,148
-ia,10530000,CEDAR RAPIDS SCHOOLS zz,118,George Washington High School,34.17%,,N,,,
-ia,10530000,CEDAR RAPIDS SCHOOLS zz,478,Grant Elementary School,53.82%,,Y,57.78%,332,179
-ia,10530000,CEDAR RAPIDS SCHOOLS zz,481,Grant Wood Elementary School,51.18%,,Y,57.78%,392,201
-ia,10530000,CEDAR RAPIDS SCHOOLS zz,214,Harding Middle School,32.66%,,N,,,
-ia,10530000,CEDAR RAPIDS SCHOOLS zz,490-0,Harrison Elementary School,59.95%,,Y,57.78%,394,236
-ia,10530000,CEDAR RAPIDS SCHOOLS zz,502,Hiawatha Elementary School,48.23%,,Y,57.78%,366,177
-ia,10530000,CEDAR RAPIDS SCHOOLS zz,505,Hoover Elementary School,58.22%,,Y,57.78%,463,270
-ia,10530000,CEDAR RAPIDS SCHOOLS zz,517,Johnson Elementary School,69.57%,,Y,57.78%,411,286
-ia,10530000,CEDAR RAPIDS SCHOOLS zz,526,Kenwood Elementary School,53.09%,,Y,57.78%,486,258
-ia,10530000,CEDAR RAPIDS SCHOOLS zz,544,Madison Elementary School,33.72%,,N,,,
-ia,10530000,CEDAR RAPIDS SCHOOLS zz,218-0,Mc Kinley Middle School,46.55%,,Y,57.78%,448,209
-ia,10530000,CEDAR RAPIDS SCHOOLS zz,127,Metro High School,67.10%,,Y,57.78%,354,238
-ia,10530000,CEDAR RAPIDS SCHOOLS zz,558,Nixon Elementary School,46.65%,,Y,57.78%,368,172
-ia,10530000,CEDAR RAPIDS SCHOOLS zz,571,Polk Alternative Education Center,64.86%,,Y,57.78%,70,45
-ia,10530000,CEDAR RAPIDS SCHOOLS zz,227,Roosevelt Middle School,47.91%,,Y,57.78%,622,298
-ia,10530000,CEDAR RAPIDS SCHOOLS zz,580,Taylor Elementary School,69.14%,,Y,57.78%,279,193
-ia,10530000,CEDAR RAPIDS SCHOOLS zz,109-1,Thomas Jefferson High School,37.73%,,N,,,
-ia,10530000,CEDAR RAPIDS SCHOOLS zz,589,Truman Elementary School,36.91%,,N,,,
-ia,10530000,CEDAR RAPIDS SCHOOLS zz,608,Van Buren Elementary School,57.56%,,Y,57.78%,434,250
-ia,10530000,CEDAR RAPIDS SCHOOLS zz,236,Wilson School,56.25%,,Y,57.78%,322,181
-ia,10530000,CEDAR RAPIDS SCHOOLS zz,616,Wright Elementary School,59.03%,,Y,57.78%,381,225
-ia,67958007,Cedar Valley Catholic School System,8112,Blessed Maria Pallotta Middle School,32.41%,,N,,,
-ia,67958007,Cedar Valley Catholic School System,8005,Sacred Heart,67.97%,,N,,,
-ia,10710000,Centerville Comm School District,118-0,Alternative High School,,*,N,,,
-ia,10710000,Centerville Comm School District,405,Centerville Community Preschool Building,,*,N,,,
-ia,10710000,Centerville Comm School District,409-4,Central Elementary School,,*,N,,,
-ia,10710000,Centerville Comm School District,209-1,Howar Junior High School,,*,N,,,
-ia,10710000,Centerville Comm School District,412,Lakeview Elementary 4-5-6 School,,*,N,,,
-ia,10930000,Central Decatur Comm School District,172-0,Central Decatur Jr-Sr High School,30.48%,,N,,,
-ia,10930000,Central Decatur Comm School District,427-0,North Elementary School,36.84%,,N,,,
-ia,10930000,Central Decatur Comm School District,436-0,South Elementary School,43.01%,,N,,,
-ia,11070000,Chariton Comm School District,109-2,Chariton High School,32.28%,,N,,,
-ia,11070000,Chariton Comm School District,209-2,Chariton Middle School,42.66%,,N,,,
-ia,11070000,Chariton Comm School District,418-5,Columbus Elementary School,40.23%,,N,,,
-ia,11070000,Chariton Comm School District,439,Van Allen Elementary School,44.22%,,N,,,
-ia,11160000,CHARLES CITY COMM SCHOOL,109-3,Charles City HighSchool,30.17%,,N,,,
-ia,11160000,CHARLES CITY COMM SCHOOL,209-3,Charles City Middle Sch,40.16%,,N,,,
-ia,11160000,CHARLES CITY COMM SCHOOL,436-1,Lincoln ElementarySchool,43.84%,,N,,,
-ia,11160000,CHARLES CITY COMM SCHOOL,455,Washington ElementarySchool,51.43%,,N,,,
-ia,12060000,Clarion-Goldfield-Dows Comm School District,209-4,Clarion Middle School,40.63%,,Y,40.78%,640,260
-ia,12110000,Clarke Comm School District,409-5,Clarke Community Elementary School,,*,N,,,
-ia,12150000,Clarksville Comm School District,409-6,Clarksville Elementary School,32.72%,,N,,,
-ia,12180000,Clay Central-Everly Comm School District,409-7,Clay Central-Everly Elementary At Royal,30.33%,,N,,,
-ia,12780000,Clinton Comm School District,227-0,BLUFF ELEMENTARY,65.60%,,N,,,
-ia,12780000,Clinton Comm School District,109-4,Clinton High School,33.55%,,N,,,
-ia,12780000,Clinton Comm School District,225,Clinton Middle School,44.78%,,N,,,
-ia,12780000,Clinton Comm School District,480,Eagle Heights Elementary School,39.08%,,N,,,
-ia,12780000,Clinton Comm School District,472,JEFFERSON ELEMENTARY,67.06%,,N,,,
-ia,12780000,Clinton Comm School District,516,Whittier Elementary School,35.47%,,N,,,
-ia,13680000,Columbus Comm School District,109-5,Columbus Community High School,31.88%,,N,,,
-ia,13680000,Columbus Comm School District,409-8,Roundy Elementary School,45.41%,,N,,,
-ia,14310000,Corning Comm School District,409-9,Corning Elementary School,50.00%,,N,,,
-ia,14310000,Corning Comm School District,109-6,Southwest Valley High School,40.10%,,N,,,
-ia,14760000,Council Bluffs Comm School District,118-1,Abraham Lincoln High School,35.54%,,Y,63.22%,1304,463
-ia,14760000,Council Bluffs Comm School District,418-6,BLOOMER ELEMENTARY,58.49%,,Y,63.22%,404,236
-ia,14760000,Council Bluffs Comm School District,422,Carter Lake Elementary School,65.64%,,Y,63.22%,363,238
-ia,14760000,Council Bluffs Comm School District,427-1,College View Elementary,35.14%,,Y,63.22%,565,199
-ia,14760000,Council Bluffs Comm School District,,Crescent Elementary School,,,Y,63.22%,75,
-ia,14760000,Council Bluffs Comm School District,445-1,EDISON ELEMENTARY,62.60%,,Y,63.22%,495,310
-ia,14760000,Council Bluffs Comm School District,454-2,FRANKLIN ELEMENTARY,51.66%,,Y,63.22%,501,259
-ia,14760000,Council Bluffs Comm School District,212,Gerald W Kirn Junior High School,37.56%,,Y,63.22%,1055,396
-ia,14760000,Council Bluffs Comm School District,481-0,Hoover Elementary School,40.90%,,Y,63.22%,486,199
-ia,14760000,Council Bluffs Comm School District,490-1,Lewis & Clark Elementary School,39.22%,,Y,63.22%,260,102
-ia,14760000,Council Bluffs Comm School District,499,LONGFELLOW ELEMENTARY,55.54%,,Y,63.22%,569,316
-ia,14760000,Council Bluffs Comm School District,544-0,Roosevelt Elementary School,54.93%,,Y,63.22%,484,266
-ia,14760000,Council Bluffs Comm School District,553,Rue Elementary School,55.33%,,Y,63.22%,366,203
-ia,14760000,Council Bluffs Comm School District,109-7,Thomas Jefferson High School,44.77%,,Y,63.22%,1184,530
-ia,14760000,Council Bluffs Comm School District,245,WOODROW  WILSON JUNIOR HIGH,51.71%,,Y,63.22%,959,496
-ia,16110000,Davenport Comm School District,409-10,Adams Elementary,45.72%,,N,,,
-ia,16110000,Davenport Comm School District,414,BUCHANAN ELEMENTARY,68.59%,,Y,61.41%,312,214
-ia,16110000,Davenport Comm School District,415,Buffalo Elementary,49.19%,,N,,,
-ia,16110000,Davenport Comm School District,109-8,Central High School,36.23%,,N,,,
-ia,16110000,Davenport Comm School District,472-0,Childrens Village at Hoover,62.77%,,Y,61.41%,137,86
-ia,16110000,Davenport Comm School District,803,Childrens Village JB Young,72.73%,,N,,,
-ia,16110000,Davenport Comm School District,961,Children's Village West,62.00%,,Y,61.41%,250,155
-ia,16110000,Davenport Comm School District,8888,Davenport Community - Keystone Academy,76.63%,,Y,61.41%,184,141
-ia,16110000,Davenport Comm School District,417,Eisenhower Elementary,37.34%,,N,,,
-ia,16110000,Davenport Comm School District,418-7,FILLMORE ELEMENTARY,65.13%,,Y,61.41%,390,254
-ia,16110000,Davenport Comm School District,209-5,Frank L Smart Intermediate,69.54%,,Y,61.41%,581,404
-ia,16110000,Davenport Comm School District,427-2,Garfield Elementary,60.67%,,Y,61.41%,389,236
-ia,16110000,Davenport Comm School District,454-3,Harrison Elementary,36.05%,,N,,,
-ia,16110000,Davenport Comm School District,573,Harry S. Truman School,51.52%,,Y,61.41%,363,187
-ia,16110000,Davenport Comm School District,463-0,HAYES ELEMENTARY,69.38%,,Y,61.41%,369,256
-ia,16110000,Davenport Comm School District,475,Jackson Elementary,60.43%,,Y,61.41%,326,197
-ia,16110000,Davenport Comm School District,481-1,JEFFERSON ELEMENTARY,78.84%,,Y,61.41%,430,339
-ia,16110000,Davenport Comm School District,508,MADISON ELEMENTARY,78.39%,,Y,61.41%,398,312
-ia,16110000,Davenport Comm School District,526-0,McKinley Elementary School,46.25%,,N,,,
-ia,16110000,Davenport Comm School District,127-0,Mid City High,57.19%,,Y,61.41%,278,159
-ia,16110000,Davenport Comm School District,535,Monroe Elementary,73.46%,,Y,61.41%,407,299
-ia,16110000,Davenport Comm School District,116,North High School,41.16%,,N,,,
-ia,16110000,Davenport Comm School District,218-1,Sudlow Intermediate,43.78%,,N,,,
-ia,16110000,Davenport Comm School District,223,Walcott Intermediate,31.92%,,N,,,
-ia,16110000,Davenport Comm School District,580-0,WASHINGTON ELEMENTARY,67.05%,,Y,61.41%,264,177
-ia,16110000,Davenport Comm School District,118-2,West High School,37.57%,,N,,,
-ia,16110000,Davenport Comm School District,227-1,Williams Intermediate,52.02%,,Y,61.41%,742,386
-ia,16110000,Davenport Comm School District,589-0,WILSON ELEMENTARY,53.63%,,Y,61.41%,468,251
-ia,16110000,Davenport Comm School District,205,Wood Intermediate,50.65%,,Y,61.41%,695,352
-ia,17370000,Des Moines Independent Comm School District zz,205-0,Brody Middle School,39.21%,,Y,62.79%,766,300
-ia,17370000,Des Moines Independent Comm School District zz,739,Brubaker Elementary,59.20%,,Y,62.79%,663,392
-ia,17370000,Des Moines Independent Comm School District zz,209-6,Callanan Middle School,63.13%,,Y,62.79%,632,399
-ia,17370000,Des Moines Independent Comm School District zz,427-3,Capitol View Elementary,74.23%,,Y,62.79%,577,428
-ia,17370000,Des Moines Independent Comm School District zz,435,Carver Elementary,75.19%,,Y,62.79%,478,359
-ia,17370000,Des Moines Independent Comm School District zz,445-2,CATTELL ELEMENTARY,68.13%,,Y,62.79%,406,277
-ia,17370000,Des Moines Independent Comm School District zz,109-9,East High School,49.90%,,Y,62.79%,2074,1035
-ia,17370000,Des Moines Independent Comm School District zz,490-2,EDMUNDS ACADEMY,86.97%,,Y,62.79%,313,272
-ia,17370000,Des Moines Independent Comm School District zz,503,Findley Elementary School,66.17%,,Y,62.79%,348,230
-ia,17370000,Des Moines Independent Comm School District zz,526-1,Garton Elementary,61.65%,,Y,62.79%,561,346
-ia,17370000,Des Moines Independent Comm School District zz,227-2,Goodrell Middle School,51.79%,,Y,62.79%,546,283
-ia,17370000,Des Moines Independent Comm School District zz,553-0,Greenwood Elementary,39.86%,,Y,62.79%,272,108
-ia,17370000,Des Moines Independent Comm School District zz,562,Hanawalt Elementary School,42.45%,,Y,62.79%,355,151
-ia,17370000,Des Moines Independent Comm School District zz,236-0,HARDING MIDDLE SCHOOL,68.65%,,Y,62.79%,781,536
-ia,17370000,Des Moines Independent Comm School District zz,245-0,Hiatt Middle School,68.65%,,Y,62.79%,626,430
-ia,17370000,Des Moines Independent Comm School District zz,571-0,Hillis Elementary School,53.66%,,Y,62.79%,355,190
-ia,17370000,Des Moines Independent Comm School District zz,114,Hoover High School,52.24%,,Y,62.79%,1040,543
-ia,17370000,Des Moines Independent Comm School District zz,589-1,Howe Elementary School,66.90%,,Y,62.79%,291,195
-ia,17370000,Des Moines Independent Comm School District zz,250,Hoyt Middle School,54.39%,,Y,62.79%,642,349
-ia,17370000,Des Moines Independent Comm School District zz,598,Hubbell Elementary School,34.49%,,N,,,
-ia,17370000,Des Moines Independent Comm School District zz,607,Jackson Elementary School,51.78%,,Y,62.79%,436,226
-ia,17370000,Des Moines Independent Comm School District zz,886,James B. Morris Elementary,65.48%,,Y,62.79%,571,374
-ia,17370000,Des Moines Independent Comm School District zz,618,Jessie Franklin Taylor,81.15%,,Y,62.79%,239,194
-ia,17370000,Des Moines Independent Comm School District zz,620,King Elementary,79.65%,,Y,62.79%,292,233
-ia,17370000,Des Moines Independent Comm School District zz,117,Lincoln 9th Grade,42.83%,,N,,,
-ia,17370000,Des Moines Independent Comm School District zz,118-3,Lincoln High School,42.94%,,Y,62.79%,1671,718
-ia,17370000,Des Moines Independent Comm School District zz,647,LOVEJOY ELEMENTARY,68.16%,,Y,62.79%,402,274
-ia,17370000,Des Moines Independent Comm School District zz,661,Madison Elementary School,64.04%,,Y,62.79%,268,172
-ia,17370000,Des Moines Independent Comm School District zz,670,Mann Elementary,72.73%,,Y,62.79%,57,41
-ia,17370000,Des Moines Independent Comm School District zz,266,Mccombs Middle School,52.62%,,Y,62.79%,718,378
-ia,17370000,Des Moines Independent Comm School District zz,688,MCKEE ELEMENTARY,59.40%,,Y,62.79%,333,198
-ia,17370000,Des Moines Independent Comm School District zz,697,McKinley Elementary,74.25%,,Y,62.79%,264,196
-ia,17370000,Des Moines Independent Comm School District zz,269,Meredith Middle School,59.02%,,Y,62.79%,798,471
-ia,17370000,Des Moines Independent Comm School District zz,706,Mitchell Elementary School,62.16%,,Y,62.79%,433,269
-ia,17370000,Des Moines Independent Comm School District zz,715,Monroe Elementary,73.86%,,Y,62.79%,489,361
-ia,17370000,Des Moines Independent Comm School District zz,724,Moore Elementary School,50.34%,,Y,62.79%,315,159
-ia,17370000,Des Moines Independent Comm School District zz,733,MOULTON Elementary School,84.49%,,Y,62.79%,524,443
-ia,17370000,Des Moines Independent Comm School District zz,127-1,North High School,59.44%,,Y,62.79%,1401,833
-ia,17370000,Des Moines Independent Comm School District zz,751,OAK PARK ELEMENTARY,67.21%,,Y,62.79%,376,253
-ia,17370000,Des Moines Independent Comm School District zz,978,PACE Juvenile Center,66.67%,,Y,62.79%,6,4
-ia,17370000,Des Moines Independent Comm School District zz,760,Park Ave Elementary School,57.31%,,Y,62.79%,410,235
-ia,17370000,Des Moines Independent Comm School District zz,769,Perkins Elementary School,45.43%,,Y,62.79%,461,209
-ia,17370000,Des Moines Independent Comm School District zz,778,Phillips Elementary School,42.61%,,Y,62.79%,328,140
-ia,17370000,Des Moines Independent Comm School District zz,782,Pleasant Hill Elementary School,45.59%,,Y,62.79%,253,115
-ia,17370000,Des Moines Independent Comm School District zz,984,Pomerantz Learning Center/Walnut Street Center,35.08%,,Y,62.79%,292,102
-ia,17370000,Des Moines Independent Comm School District zz,790,River Woods Elementary,62.61%,,Y,62.79%,527,330
-ia,17370000,Des Moines Independent Comm School District zz,136,Roosevelt High School,33.14%,,N,,,
-ia,17370000,Des Moines Independent Comm School District zz,988,Ruby Van Meter School,40.74%,,Y,62.79%,161,66
-ia,17370000,Des Moines Independent Comm School District zz,819,Samuelson Elementary School,61.98%,,Y,62.79%,460,285
-ia,17370000,Des Moines Independent Comm School District zz,194,Scavo High School,70.03%,,Y,62.79%,314,220
-ia,17370000,Des Moines Independent Comm School District zz,850,Smouse  Opportunity School,69.81%,,N,,,
-ia,17370000,Des Moines Independent Comm School District zz,855,South Union Elementary School,69.56%,,Y,62.79%,512,356
-ia,17370000,Des Moines Independent Comm School District zz,859,Stowe Elementary School,67.84%,,Y,62.79%,366,248
-ia,17370000,Des Moines Independent Comm School District zz,863,Studebaker Elementary,61.32%,,Y,62.79%,503,308
-ia,17370000,Des Moines Independent Comm School District zz,281,Weeks Middle School,57.11%,,Y,62.79%,762,435
-ia,17370000,Des Moines Independent Comm School District zz,904,Willard Elementary,69.89%,,Y,62.79%,340,238
-ia,17370000,Des Moines Independent Comm School District zz,913,Windsor Elementary School,47.16%,,Y,62.79%,334,158
-ia,17370000,Des Moines Independent Comm School District zz,922,Woodlawn Elementary School,63.92%,,Y,62.79%,321,205
-ia,17370000,Des Moines Independent Comm School District zz,931,Wright Elementary School,50.55%,,Y,62.79%,274,139
-ia,18630000,DUBUQUE COMM SCHOOLS,8871,"Alternative Learning Center, Alta Vista Campus",58.17%,,Y,58.00%,160,93
-ia,18630000,DUBUQUE COMM SCHOOLS,418-8,Audubon Elementary School,79.45%,,Y,58.00%,240,191
-ia,18630000,DUBUQUE COMM SCHOOLS,472-1,Fulton Elementary School,80.31%,,Y,58.00%,289,232
-ia,18630000,DUBUQUE COMM SCHOOLS,218-2,George Washington MIddle  School,37.72%,,Y,58.00%,665,251
-ia,18630000,DUBUQUE COMM SCHOOLS,-0,Hoover Elementary School,,,Y,58.00%,351,
-ia,18630000,DUBUQUE COMM SCHOOLS,481-2,Irving Elementary School,30.89%,,N,,,
-ia,18630000,DUBUQUE COMM SCHOOLS,8870,Lawther Academy - Dubuque,53.45%,,N,,,
-ia,18630000,DUBUQUE COMM SCHOOLS,499-0,Lincoln Elementary School,70.63%,,Y,58.00%,223,158
-ia,18630000,DUBUQUE COMM SCHOOLS,508-0,Marshall Elementary School,60.76%,,Y,58.00%,303,184
-ia,18630000,DUBUQUE COMM SCHOOLS,517-0,Prescott Elementary School,63.92%,,Y,58.00%,308,197
-ia,18630000,DUBUQUE COMM SCHOOLS,209-7,Thomas Jefferson Middle School,56.34%,,Y,58.00%,566,319
-ia,19440000,Eagle Grove Comm School District,418-9,Eagle Grove Elementary,49.74%,,N,,,
-ia,19440000,Eagle Grove Comm School District,209-8,Robert Blue School,42.64%,,N,,,
-ia,06570000,Eddyville-Blakesburg-Fremont Comm School District,409-11,Eddyville-Blakesburg Ele School At Eddyville,32.84%,,N,,,
-ia,06570000,Eddyville-Blakesburg-Fremont Comm School District,209-9,Eddyville-Blakesburg Mid School At Blakesburg,32.35%,,N,,,
-ia,06570000,Eddyville-Blakesburg-Fremont Comm School District,427-4,Fremont Elementary,45.00%,,N,,,
-ia,21240000,Estherville Lincoln Central CSD,412-0,Demoney Elementary School,57.89%,,Y,45.29%,513,297
-ia,21240000,Estherville Lincoln Central CSD,109-10,Estherville Lincoln Central High School,42.37%,,N,,,
-ia,21240000,Estherville Lincoln Central CSD,414-0,Estherville Lincoln Central Middle School,50.98%,,Y,45.29%,410,209
-ia,23130000,Ft Dodge Comm School District,8605,Arey Education Center,46.94%,,N,,,
-ia,23130000,Ft Dodge Comm School District,418-10,Butler Elementary School,56.46%,,N,,,
-ia,23130000,Ft Dodge Comm School District,445-3,Cooper Elementary School,38.35%,,N,,,
-ia,23130000,Ft Dodge Comm School District,454-4,Duncombe Elementary School,59.17%,,N,,,
-ia,23130000,Ft Dodge Comm School District,459,Feelhaver Elementary School,33.90%,,N,,,
-ia,23130000,Ft Dodge Comm School District,109-11,Fort Dodge High School,30.58%,,N,,,
-ia,23130000,Ft Dodge Comm School District,227-3,Fort Dodge Middle School,43.63%,,N,,,
-ia,23130000,Ft Dodge Comm School District,508-1,Riverside Elementary School,48.43%,,N,,,
-ia,23220000,Ft Madison Comm School District,109-12,Fort Madison High School,36.92%,,N,,,
-ia,23220000,Ft Madison Comm School District,209-10,Fort Madison Middle School,43.78%,,N,,,
-ia,23220000,Ft Madison Comm School District,436-2,Lincoln Elementary School,43.75%,,N,,,
-ia,23220000,Ft Madison Comm School District,445-4,Richardson Elementary School,58.84%,,N,,,
-ia,24930000,Gilmore City-Bradgate Comm School District,418-11,Gilmore City Elementary School,41.05%,,N,,,
-ia,27720000,HAMBURG CSD,418-12,MARNIE SIMONS ELEMENTARY,41.42%,,N,,,
-ia,27810000,Hampton-Dumont Comm School District,109-13,Hampton-Dumont High School,30.30%,,N,,,
-ia,27810000,Hampton-Dumont Comm School District,209-11,Hampton-Dumont Middle School,39.11%,,N,,,
-ia,27810000,Hampton-Dumont Comm School District,427-5,North Side Elementary School,46.43%,,N,,,
-ia,27810000,Hampton-Dumont Comm School District,445-5,South Side Elementary School,40.56%,,N,,,
-ia,17378001,Holy Family Schools-DSM,8108,Holy Family School,,*,N,,,
-ia,18638006,Holy Family System zz -Dubuque,8127,HOLY GHOST EARLY CHILDHOOD,53.25%,,Y,53.25%,77,41
-ia,31050000,Independence Comm School District,409-12,East Elementary School,46.39%,,N,,,
-ia,31050000,Independence Comm School District,436-3,ECSE Center,86.67%,,N,,,
-ia,31410000,Iowa City Comm School District,442,Alexander Elementary,50.44%,,N,,,
-ia,31410000,Iowa City Comm School District,403,Central Elementary School,37.47%,,N,,,
-ia,31410000,Iowa City Comm School District,136-0,Elizabeth Tate Alternative High School,40.11%,,Y,51.03%,194,78
-ia,31410000,Iowa City Comm School District,415-0,Ernest Horn Elementary School,32.28%,,N,,,
-ia,31410000,Iowa City Comm School District,481-3,Grant Wood Elementary School,54.13%,,N,,,
-ia,31410000,Iowa City Comm School District,411,HILLS ELEMENTARY SCHOOL,53.25%,,N,,,
-ia,31410000,Iowa City Comm School District,445-6,Horace Mann Elementary School,36.36%,,N,,,
-ia,31410000,Iowa City Comm School District,406,Kirkwood Elementary School,54.69%,,N,,,
-ia,31410000,Iowa City Comm School District,472-2,Mark Twain Elementary,56.38%,,N,,,
-ia,31410000,Iowa City Comm School District,436-4,Robert Lucas Elementary School,41.01%,,N,,,
-ia,31410000,Iowa City Comm School District,454-5,TREC (fka:Roosevelt Elem School),51.61%,,N,,,
-ia,31410000,Iowa City Comm School District,488,Weber Elementary,32.80%,,N,,,
-ia,33120000,Keokuk Comm School District,454-6,George Washington Elementary School,,*,N,,,
-ia,33120000,Keokuk Comm School District,418-13,Hawthorne Elementary School,,*,N,,,
-ia,33120000,Keokuk Comm School District,109-14,Keokuk High School,,*,N,,,
-ia,33120000,Keokuk Comm School District,209-12,Keokuk Middle School,,*,N,,,
-ia,33750000,Knoxville Comm School District,109-15,Knoxville High School,36.49%,,N,,,
-ia,33750000,Knoxville Comm School District,209-13,Knoxville Middle School,47.30%,,N,,,
-ia,33750000,Knoxville Comm School District,418-14,Northstar Elementary School,44.42%,,N,,,
-ia,33750000,Knoxville Comm School District,436-5,West Elementary,51.67%,,Y,61.99%,342,177
-ia,35370000,Laurens-Marathon Comm School District,409-13,Laurens-Marathon Elementary School,55.72%,,Y,68.64%,220,123
-ia,38410000,Louisa-Muscatine CSD,421,Louisa-Muscatine Elementary,44.40%,,N,,,
-ia,38410000,Louisa-Muscatine CSD,109-16,Louisa-Muscatine Jr-Sr High School,33.17%,,N,,,
-ia,38970000,Lu Verne Comm School District,409-14,Luverne Elementary School,41.82%,,N,,,
-ia,40410000,Maquoketa Comm School District,418-15,Briggs Elementary,,*,N,,,
-ia,40410000,Maquoketa Comm School District,409-15,Cardinal Elementary,,*,N,,,
-ia,40410000,Maquoketa Comm School District,8870-0,Lawther Academy -Maquoketa,,*,N,,,
-ia,40410000,Maquoketa Comm School District,109-17,Maquoketa High School,,*,N,,,
-ia,40410000,Maquoketa Comm School District,209-14,Maquoketa Middle School,,*,N,,,
-ia,41040000,Marshalltown Comm School District,427-6,Anson Elementary School,56.68%,,Y,59.48%,329,186
-ia,41040000,Marshalltown Comm School District,218-3,B R Miller Middle School,44.23%,,N,,,
-ia,41040000,Marshalltown Comm School District,445-7,Fisher Elementary School,40.52%,,Y,42.03%,395,160
-ia,41040000,Marshalltown Comm School District,435-0,Franklin Elementary Sch,50.79%,,Y,59.48%,367,186
-ia,41040000,Marshalltown Comm School District,475-0,J C Hoglan Elementary School,52.73%,,Y,55.13%,341,180
-ia,41040000,Marshalltown Comm School District,479,Lenihan Intermediate,47.03%,,Y,55.03%,830,390
-ia,41040000,Marshalltown Comm School District,109-18,Marshalltown High School,36.07%,,N,,,
-ia,41040000,Marshalltown Comm School District,118-4,Marshalltown Learning Academy,48.57%,,Y,62.07%,116,56
-ia,41040000,Marshalltown Comm School District,481-4,ROGERS ELEMENTARY,50.61%,,Y,57.76%,243,123
-ia,41040000,Marshalltown Comm School District,491,WOODBURY ELEMENTARY,46.90%,,Y,57.76%,363,170
-ia,41310000,Mason City Comm School District,427-7,Harding Elementary School,47.93%,,N,,,
-ia,41310000,Mason City Comm School District,436-6,Hoover Elementary School,49.53%,,N,,,
-ia,41310000,Mason City Comm School District,209-15,John Adams Middle School,37.48%,,N,,,
-ia,41310000,Mason City Comm School District,227-4,Lincoln Intermediate School,40.57%,,N,,,
-ia,41310000,Mason City Comm School District,8870-1,Pinecrest Center,48.15%,,N,,,
-ia,41310000,Mason City Comm School District,481-5,Roosevelt Elementary School,45.05%,,N,,,
-ia,42690000,Midland Comm School District,418-16,Midland Elementary School,40.00%,,N,,,
-ia,45050000,Mormon Trail Comm School District,418-17,Mormon Trail Elementary  School,,*,N,,,
-ia,45090000,Morning Sun Comm School District,409-16,Morning Sun Elementary School,37.00%,,N,,,
-ia,45180000,Moulton-Udell Comm School District,409-17,Moulton Elementary School,,*,N,,,
-ia,45270000,MOUNT AYR CSD,801,Little Raider Preschool,41.07%,,N,,,
-ia,45270000,MOUNT AYR CSD,436-7,MOUNT AYR ELEMENTARY,31.31%,,N,,,
-ia,45360000,Mount Pleasant Comm School District zz,808,Christamore Family Treatment Center,48.28%,,N,,,
-ia,45360000,Mount Pleasant Comm School District zz,409-18,Harlan Elementary School,42.51%,,N,,,
-ia,45360000,Mount Pleasant Comm School District zz,418-18,Lincoln Elementary School,31.48%,,N,,,
-ia,45360000,Mount Pleasant Comm School District zz,209-16,Mount Pleasant Middle High School,35.07%,,N,,,
-ia,45360000,Mount Pleasant Comm School District zz,454-7,Van Allen Elementary School,53.33%,,N,,,
-ia,45810000,Muscatine Comm School District,209-17,Central Middle School,39.05%,,N,,,
-ia,45810000,Muscatine Comm School District,402,Colorado Elementary School,31.60%,,N,,,
-ia,45810000,Muscatine Comm School District,405-0,FRANKLIN ELEMENTARY,70.24%,,Y,52.53%,304,214
-ia,45810000,Muscatine Comm School District,418-19,Grant Elementary School,31.31%,,N,,,
-ia,45810000,Muscatine Comm School District,427-8,JEFFERSON ELEMENTARY,60.80%,,Y,52.53%,483,294
-ia,45810000,Muscatine Comm School District,445-8,Madison Elementary School,39.60%,,Y,52.53%,498,197
-ia,45810000,Muscatine Comm School District,454-8,Mckinley Elementary School,43.93%,,Y,52.53%,413,181
-ia,45810000,Muscatine Comm School District,109-19,Muscatine High School,30.08%,,N,,,
-ia,45810000,Muscatine Comm School District,218-4,West Middle School,39.59%,,N,,,
-ia,47250000,Newton Comm School District,408,Aurora Heights Elementary School,44.37%,,N,,,
-ia,47250000,Newton Comm School District,218-5,Berg Middle School,40.47%,,N,,,
-ia,47250000,Newton Comm School District,432,Emerson Hough Elementary School,58.46%,,Y,61.04%,249,146
-ia,47250000,Newton Comm School District,454-9,Thomas Jefferson Elem School,39.42%,,N,,,
-ia,47250000,Newton Comm School District,127-2,WEST Academy Alternative School,54.55%,,Y,66.34%,101,55
-ia,47250000,Newton Comm School District,467,Woodrow Wilson Elementary School,36.46%,,N,,,
-ia,26730000,Nodaway Valley Comm School District,409-19,Nodaway Valley East Elementary School,41.97%,,N,,,
-ia,26730000,Nodaway Valley Comm School District,172-1,Nodaway Valley Middle School,34.67%,,N,,,
-ia,01530000,North Butler CSD,418-20,Allison Elementary Wing High School Building,41.18%,,N,,,
-ia,01530000,North Butler CSD,172-2,North Butler High School,31.25%,,N,,,
-ia,36910000,North Cedar Comm School District,172-3,North Cedar Jr/Sr High School,35.98%,,N,,,
-ia,36910000,North Cedar Comm School District,405-1,North Cedar Lowden Elementary Center,48.63%,,N,,,
-ia,36910000,North Cedar Comm School District,409-20,North Cedar Mechanicsville Elem Ctr,34.69%,,N,,,
-ia,48690000,Oelwein Comm School District,454-10,Little Husky Learning Ct,49.04%,,N,,,
-ia,48690000,Oelwein Comm School District,109-20,Oelwein High School,37.25%,,N,,,
-ia,48690000,Oelwein Comm School District,209-18,Oelwein Middle School,44.41%,,N,,,
-ia,48690000,Oelwein Comm School District,436-8,Parkside Elementary School,53.57%,,N,,,
-ia,48690000,Oelwein Comm School District,407,Wings Park Elementary School,46.96%,,N,,,
-ia,49050000,Olin Consolidated School District,172-4,Olin Junior-Senior High School,,*,N,,,
-ia,49780000,Orient-Macksburg Comm School District,172-5,Orient-Macksburg Senior High School,55.56%,,N,,,
-ia,49950000,Osage Comm School District,409-21,Lincoln Elementary School,45.86%,,N,,,
-ia,49950000,Osage Comm School District,209-19,Osage Middle School,39.36%,,N,,,
-ia,50130000,Oskaloosa Comm School District,472-3,Oskaloosa Elementary School,52.43%,,N,,,
-ia,50130000,Oskaloosa Comm School District,109-21,Oskaloosa High School,37.52%,,N,,,
-ia,50130000,Oskaloosa Comm School District,209-20,Oskaloosa Junior High School,41.88%,,N,,,
-ia,50490000,Ottumwa Comm School District,509,Douma ElementarySchool,49.67%,,Y,55.37%,300,149
-ia,50490000,Ottumwa Comm School District,8104,Emergency Shelter - First Christian Church,,*,N,,,
-ia,50490000,Ottumwa Comm School District,209-21,Evans Middle School,41.16%,,N,,,
-ia,50490000,Ottumwa Comm School District,481-6,Horace Mann ElementarySchool,42.74%,,N,,,
-ia,50490000,Ottumwa Comm School District,459-0,James ElementarySchool,74.59%,,Y,52.43%,185,138
-ia,50490000,Ottumwa Comm School District,427-9,Liberty Elementary School,46.87%,,Y,52.43%,719,337
-ia,50490000,Ottumwa Comm School District,109-22,Ottumwa High School,40.33%,,N,,,
-ia,50490000,Ottumwa Comm School District,-1,Pickwick Early Childhood Center,,,Y,55.37%,310,
-ia,50490000,Ottumwa Comm School District,517-1,Wilson ElementarySchool,62.91%,,Y,55.37%,302,190
-ia,52560000,Pleasantville Comm School District,409-22,Pleasantville Elementary,35.67%,,N,,,
-ia,52560000,Pleasantville Comm School District,109-23,Pleasantville High School,26.18%,,N,,,
-ia,52830000,Pocahontas Area Comm School District,409-23,Pocahontas Area Elementary School,48.01%,,N,,,
-ia,53100000,Postville Comm School District,409-24,Cora B Darling Elem and Middle School,53.67%,,Y,57.62%,420,225
-ia,53100000,Postville Comm School District,172-6,John R Mott High School,52.77%,,Y,57.62%,328,173
-ia,54630000,Red Oak Comm School District,418-21,Inman Elementary School,51.12%,,N,,,
-ia,54630000,Red Oak Comm School District,109-24,Red Oak High School,31.44%,,N,,,
-ia,54630000,Red Oak Comm School District,209-22,Red Oak Middle School,40.55%,,N,,,
-ia,54630000,Red Oak Comm School District,445-9,Washington Intermediate School,48.81%,,N,,,
-ia,56970000,Rudd-Rockford-Marble Rk Comm School District,109-25,Rockford Middle-Senior High School,41.92%,,N,,,
-ia,58050000,Saydel Comm School District,418-22,Cornell Elementary School,64.30%,,Y,49.33%,451,290
-ia,58050000,Saydel Comm School District,109-26,Saydel High School,35.44%,,Y,49.33%,412,146
-ia,58050000,Saydel Comm School District,209-23,Woodside Middle School,47.51%,,Y,49.33%,402,191
-ia,59760000,Shenandoah Comm School District,-2,Logan Preschool,,,Y,56.48%,108,
-ia,59760000,Shenandoah Comm School District,109-27,Shenandoah High School,35.58%,,N,,,
-ia,59760000,Shenandoah Comm School District,209-24,Shenandoah Middle School,48.53%,,N,,,
-ia,60300000,Sioux Center Comm School District,410,Sioux Center Alternative HS,80.00%,,N,,,
-ia,60350000,Sioux Central Comm School District zz,6035,Midwest Christian Services,100.00%,,N,,,
-ia,60390000,Sioux City Comm School District,8873,Boy and Girl Hm - classroom,,*,N,,,
-ia,60390000,Sioux City Comm School District,418-23,Bryant Elementary School,51.26%,,Y,58.22%,309,158
-ia,60390000,Sioux City Comm School District,209-25,EAST MIDDLE,35.22%,,N,,,
-ia,60390000,Sioux City Comm School District,8871-0,HO-Chunk,,*,N,,,
-ia,60390000,Sioux City Comm School District,517-2,HUNT ELEMENTARY,65.02%,,Y,58.22%,329,214
-ia,60390000,Sioux City Comm School District,635,Irving Annex - Preschool,32.26%,,N,,,
-ia,60390000,Sioux City Comm School District,526-2,IRVING ELEMENTARY,61.81%,,Y,58.22%,757,468
-ia,60390000,Sioux City Comm School District,8872,JROTC,,*,N,,,
-ia,60390000,Sioux City Comm School District,539,LEEDS ELEMENTARY,45.10%,,N,,,
-ia,60390000,Sioux City Comm School District,542,Liberty  Elementary School,62.72%,,Y,58.22%,740,464
-ia,60390000,Sioux City Comm School District,547,Loess Hills Elementary,56.25%,,Y,58.22%,631,355
-ia,60390000,Sioux City Comm School District,572,Morningside Elementary,42.95%,,N,,,
-ia,60390000,Sioux City Comm School District,136-1,North High School,37.09%,,N,,,
-ia,60390000,Sioux City Comm School District,220,North Middle School,42.60%,,N,,,
-ia,60390000,Sioux City Comm School District,961-0,RIVERSIDE SCHOOL,44.79%,,N,,,
-ia,60390000,Sioux City Comm School District,601,Spalding Park Elementary School,46.12%,,Y,58.22%,681,314
-ia,60390000,Sioux City Comm School District,612,Unity Elementary School,54.74%,,Y,58.22%,547,299
-ia,60390000,Sioux City Comm School District,145,West High School,41.09%,,N,,,
-ia,60390000,Sioux City Comm School District,227-5,WEST MIDDLE SCHOOL,50.37%,,Y,58.22%,972,490
-ia,60950000,South Hamilton Comm School District,418-24,Jewell Elementary School,43.06%,,N,,,
-ia,60950000,South Hamilton Comm School District,109-28,South Hamilton Middle And High School,32.10%,,N,,,
-ia,60970000,South Page Comm School District,409-25,South Page Elementary School,53.57%,,N,,,
-ia,60980000,South Tama County Comm School District,109-29,South Tama County High School,33.63%,,N,,,
-ia,60980000,South Tama County Comm School District,209-26,South Tama County Middle School,40.79%,,N,,,
-ia,60980000,South Tama County Comm School District,439-0,STC Elementary,51.99%,,N,,,
-ia,60980000,South Tama County Comm School District,118-5,The Partnership,58.33%,,N,,,
-ia,62190000,Storm Lake Comm School District,801-0,Gingerbread Preschool,44.62%,,N,,,
-ia,62190000,Storm Lake Comm School District,418-25,Storm Lake Elementary  School,31.71%,,N,,,
-ia,64710000,Tripoli Comm School District,418-26,Tripoli Elementary School,40.22%,,N,,,
-ia,66600000,Vinton-Shellsburg Comm School District,421-0,Shellsburg Elementary School,47.57%,,N,,,
-ia,66600000,Vinton-Shellsburg Comm School District,409-26,Tilford Elementary School,40.61%,,N,,,
-ia,67680000,Washington Comm School District,409-27,Lincoln Upper Elementary School,41.06%,,N,,,
-ia,67680000,Washington Comm School District,418-27,Stewart Elementary School,42.47%,,N,,,
-ia,67680000,Washington Comm School District,209-27,Washington Junior High School,31.11%,,N,,,
-ia,67950000,Waterloo Comm School District,8612,BUNGER MIDDLE SCHOOL,50.13%,,Y,58.69%,421,211
-ia,67950000,Waterloo Comm School District,213,CENTRAL MIDDLE SCHOOL,64.73%,,Y,58.69%,433,280
-ia,67950000,Waterloo Comm School District,463-1,CUNNINGHAM ELEMENTARY,77.04%,,Y,58.69%,391,301
-ia,67950000,Waterloo Comm School District,109-30,East High School,48.47%,,Y,58.69%,874,424
-ia,67950000,Waterloo Comm School District,439-1,Elk Run Elementary School,59.80%,,Y,58.69%,171,102
-ia,67950000,Waterloo Comm School District,127-3,EXpo Alternative School,64.55%,,Y,58.69%,512,330
-ia,67950000,Waterloo Comm School District,436-9,Fred Becker Elementary School,57.46%,,Y,58.69%,421,242
-ia,67950000,Waterloo Comm School District,227-6,George Washington Carver Academy,68.06%,,Y,58.69%,459,312
-ia,67950000,Waterloo Comm School District,554,Highland Elementary School,70.47%,,Y,58.69%,572,403
-ia,67950000,Waterloo Comm School District,215,HOOVER MIDDLE SCHOOL,32.94%,,Y,58.69%,861,284
-ia,67950000,Waterloo Comm School District,490-3,IRVING ELEMENTARY,75.81%,,Y,58.69%,436,331
-ia,67950000,Waterloo Comm School District,-3,Kingsley Elementary School,,,Y,58.69%,347,
-ia,67950000,Waterloo Comm School District,508-2,Kittrell Elementary School,54.02%,,Y,58.69%,638,345
-ia,67950000,Waterloo Comm School District,535-0,LINCOLN ELEMENTARY,73.55%,,Y,58.69%,463,341
-ia,67950000,Waterloo Comm School District,550,Lou Henry Elementary,40.37%,,Y,58.69%,420,170
-ia,67950000,Waterloo Comm School District,553-1,LOWELL ELEMENTARY,70.43%,,Y,58.69%,285,201
-ia,67950000,Waterloo Comm School District,565,Orange Elementary School,32.53%,,Y,58.69%,542,176
-ia,67950000,Waterloo Comm School District,427-10,Poyner Elementary School,43.72%,,Y,58.69%,366,160
-ia,67950000,Waterloo Comm School District,118-6,West High School,34.61%,,Y,58.69%,1613,558
-ia,68670000,WEBSTER CITY COMM SCH,445-10,Pleasant View Elementary School,41.67%,,N,,,
-ia,68670000,WEBSTER CITY COMM SCH,472-4,Sunset Heights Elementary School,33.87%,,N,,,
-ia,68670000,WEBSTER CITY COMM SCH,209-28,Webster City Middle School,32.91%,,N,,,
-ia,17018000,Zion Lutheran School-Denison,8201,Zion Lutheran School,43.82%,,N,,,
+ia,00090000,AGWSR CSD,0409,Ackley Elementary School,34.10%,,,N,N/A,
+ia,00090000,AGWSR CSD,0109,Ackley-Geneva High School,30.19%,,,N,N/A,
+ia,00090000,AGWSR CSD,0172,AGWSR Middle School,34.34%,,,N,N/A,
+ia,00720000,Albert City-Truesdale CSD,0109-0,Albert City-Truesdale High School,31.15%,,,N,N/A,
+ia,00810000,Albia CSD,0109-1,Albia High School,34.29%,,,N,N/A,
+ia,00810000,Albia CSD,0409-0,Grant Center,35.71%,,,N,N/A,
+ia,00810000,Albia CSD,0427,Lincoln Center,33.42%,,,N,N/A,
+ia,16118103,All Saints Catholic Schools-Davenport,8103,All Saints Catholic School,34.17%,,,N,N/A,
+ia,01350000,Allamakee CSD,0218,Waukon Middle School,33.92%,,,N,N/A,
+ia,01710000,Alta-Aurelia CSD,0172-0,Alta-Aurelia High School,37.14%,,,N,N/A,
+ia,01710000,Alta-Aurelia CSD,0418,Aurelia Elementary School,30.43%,,,N,N/A,
+ia,02250000,Ames CSD,0456,Kate Mitchell Elementary School,33.64%,,,N,N/A,
+ia,02250000,Ames CSD,0454,Meeker Elementary School,32.48%,,,N,N/A,
+ia,02340000,Anamosa CSD,0209,Anamosa Middle School,38.98%,,,N,N/A,
+ia,02340000,Anamosa CSD,0418-0,Strawberry Hill Elementary School,34.77%,,,N,N/A,
+ia,02430000,Andrew CSD,0409-1,Andrew Elementary School,46.53%,,,N,N/A,
+ia,03550000,Ar-We-Va CSD,0172-1,Westside Junior-Senior High School,37.02%,,,N,N/A,
+ia,03870000,Atlantic CSD,0209-0,Atlantic Middle School School,38.07%,,,N,N/A,
+ia,03870000,Atlantic CSD,0427-0,Schuler Elementary School,34.45%,,,N,N/A,
+ia,03870000,Atlantic CSD,0445,Washington Elementary School,43.95%,,,N,N/A,
+ia,04140000,Audubon CSD,0409-2,Audubon Elementary School,43.70%,,43.70%,Y,254,111
+ia,05400000,BCLUW CSD,0407,BCLUW Elementary School,47.83%,,,N,N/A,
+ia,05400000,BCLUW CSD,0209-1,BCLUW Middle School,36.32%,,,N,N/A,
+ia,05490000,Bedford CSD,0409-3,Bedford Elementary School,34.84%,,,N,N/A,
+ia,05940000,Belmond-Klemme CSD,0109-2,Belmond-Klemme Community HS,41.81%,,,N,N/A,
+ia,05940000,Belmond-Klemme CSD,0409-4,Jacobson Elementary School,41.41%,,,N,N/A,
+ia,06030000,Bennett CSD,0409-5,Bennett Elementary School,50.00%,,,N,N/A,
+ia,06210000,Bettendorf CSD,8201,Edison Center,30.00%,,,N,N/A,
+ia,06210000,Bettendorf CSD,0405,Grant Wood Elementary School,33.33%,,,N,N/A,
+ia,06210000,Bettendorf CSD,0436,Mark Twain Elementary School,32.71%,,,N,N/A,
+ia,06210000,Bettendorf CSD,0445-0,Neil Armstrong Elementary School,46.89%,,,N,N/A,
+ia,07290000,Boone CSD,0209-2,Boone Middle School,33.33%,,,N,N/A,
+ia,07290000,Boone CSD,0418-1,Franklin Elementary School,41.89%,,,N,N/A,
+ia,07290000,Boone CSD,0436-0,Lincoln Elementary School,56.72%,,,N,N/A,
+ia,07290000,Boone CSD,0454-0,Page Elementary School,37.41%,,,N,N/A,
+ia,19170000,Boyer Valley CSD,0418-2,Boyer Valley Elementary,36.76%,,,N,N/A,
+ia,19170000,Boyer Valley CSD,0172-2,Boyer Valley High School,37.28%,,,N,N/A,
+ia,08820000,Burlington CSD,0218-0,Aldo Leopold Middle School,65.51%,,,N,N/A,
+ia,08820000,Burlington CSD,0409-6,Black Hawk Elementary School,63.43%,,,N,N/A,
+ia,08820000,Burlington CSD,0109-3,Burlington Community High School,48.89%,,,N,N/A,
+ia,08820000,Burlington CSD,0208,Edward Stone  Middle School,62.77%,,,N,N/A,
+ia,08820000,Burlington CSD,0445-1,James Wilson Grimes School,72.61%,,,N,N/A,
+ia,08820000,Burlington CSD,0454-1,North Hill Elementary School,72.62%,,,N,N/A,
+ia,08820000,Burlington CSD,0490,Sunnyside Elementary School,56.21%,,,N,N/A,
+ia,09160000,Cal CSD,0418-3,CAL Elementary School,32.34%,,,N,N/A,
+ia,09140000,CAM CSD,0109-4,CAM High School,48.97%,,,N,N/A,
+ia,09140000,CAM CSD,0172-3,CAM Middle School,56.25%,,,N,N/A,
+ia,09140000,CAM CSD,0418-4,CAM North Elementary,50.40%,,,N,N/A,
+ia,09140000,CAM CSD,0409-7,CAM South Elementary School,50.42%,,,N,N/A,
+ia,09360000,Camanche CSD,0209-3,Camanche Middle School,31.56%,,,N,N/A,
+ia,09770000,Cardinal CSD,0409-8,Cardinal Elementary School,39.82%,,,N,N/A,
+ia,09770000,Cardinal CSD,0301,Cardinal Junior High,43.80%,,,N,N/A,
+ia,09770000,Cardinal CSD,0109-5,Cardinal Senior High School,38.14%,,,N,N/A,
+ia,09990000,Carroll CSD,0427-1,Adams Elementary School,34.43%,,,N,N/A,
+ia,09990000,Carroll CSD,0409-9,Fairview Elementary School,39.84%,,,N,N/A,
+ia,10440000,Cedar Falls CSD,0427-2,Lincoln Elementary School,33.49%,,,N,N/A,
+ia,10440000,Cedar Falls CSD,0454-2,North Cedar Elementary School,45.31%,,,N,N/A,
+ia,10440000,Cedar Falls CSD,0509,River Hills,49.48%,,,N,N/A,
+ia,10530000,Cedar Rapids CSD,0418-5,Arthur Elementary School,51.31%,,56.33%,Y,343,176
+ia,10530000,Cedar Rapids CSD,0431,Cleveland Elementary School,58.66%,,56.33%,Y,387,227
+ia,10530000,Cedar Rapids CSD,0445-2,Erskine Elementary School,36.34%,,,N,N/A,
+ia,10530000,Cedar Rapids CSD,0209-4,Franklin Middle School,44.20%,,56.33%,Y,595,263
+ia,10530000,Cedar Rapids CSD,0463,Garfield Elementary School,75.51%,,56.33%,Y,245,185
+ia,10530000,Cedar Rapids CSD,0118,George Washington High School,40.45%,,,N,N/A,
+ia,10530000,Cedar Rapids CSD,0478,Grant Elementary School,60.25%,,56.33%,Y,322,194
+ia,10530000,Cedar Rapids CSD,0481,Grant Wood Elementary School,57.93%,,56.33%,Y,328,190
+ia,10530000,Cedar Rapids CSD,0214,Harding Middle School,39.60%,,,N,N/A,
+ia,10530000,Cedar Rapids CSD,0490-0,Harrison Elementary School,63.23%,,56.33%,Y,359,227
+ia,10530000,Cedar Rapids CSD,0502,Hiawatha Elementary School,47.57%,,56.33%,Y,309,147
+ia,10530000,Cedar Rapids CSD,0505,Hoover Elementary School,62.67%,,56.33%,Y,450,282
+ia,10530000,Cedar Rapids CSD,0517,Johnson Elementary School,66.24%,,56.33%,Y,394,261
+ia,10530000,Cedar Rapids CSD,0526,Kenwood Elementary School,53.20%,,56.33%,Y,485,258
+ia,10530000,Cedar Rapids CSD,0544,Madison Elementary School,40.45%,,,N,N/A,
+ia,10530000,Cedar Rapids CSD,0218-1,Mc Kinley Middle School,47.93%,,56.33%,Y,459,220
+ia,10530000,Cedar Rapids CSD,0127,Metro High School,68.94%,,56.33%,Y,367,253
+ia,10530000,Cedar Rapids CSD,0558,Nixon Elementary School,58.42%,,56.33%,Y,392,229
+ia,10530000,Cedar Rapids CSD,0569,Pierce Elementary School,30.02%,,,N,N/A,
+ia,10530000,Cedar Rapids CSD,0571,Polk Alternative Education Center,69.23%,,56.33%,Y,78,54
+ia,10530000,Cedar Rapids CSD,0227,Roosevelt Middle School,53.66%,,56.33%,Y,628,337
+ia,10530000,Cedar Rapids CSD,0580,Taylor Elementary School,79.35%,,56.33%,Y,310,246
+ia,10530000,Cedar Rapids CSD,0109-6,Thomas Jefferson High School,44.41%,,56.33%,Y,1486,660
+ia,10530000,Cedar Rapids CSD,0589,Truman Elementary School,40.98%,,,N,N/A,
+ia,10530000,Cedar Rapids CSD,0608,Van Buren Elementary School,62.70%,,56.33%,Y,429,269
+ia,10530000,Cedar Rapids CSD,0236,Wilson School School,62.31%,,56.33%,Y,390,243
+ia,10530000,Cedar Rapids CSD,0616,Wright Elementary School,59.70%,,56.33%,Y,335,200
+ia,67958007,Cedar Valley Catholic School System,8105,St. Edwards,31.67%,,,N,N/A,
+ia,10710000,Centerville CSD,0118-0,Alternative High School,63.04%,,,N,N/A,
+ia,10710000,Centerville CSD,0405-0,Centerville Community Preschool Building,40.51%,,,N,N/A,
+ia,10710000,Centerville CSD,0109-7,Centerville High School,35.81%,,,N,N/A,
+ia,10710000,Centerville CSD,0209-5,Howar Junior High School,49.83%,,,N,N/A,
+ia,10710000,Centerville CSD,0412,Lakeview Elementary 4-5-6 School,50.12%,,,N,N/A,
+ia,10890000,Central City CSD,0109-8,Central City High School,36.24%,,,N,N/A,
+ia,10800000,Central CSD,0109-9,Central Community Jr-Sr High School,37.36%,,,N,N/A,
+ia,10930000,Central Decatur CSD,0172-4,Central Decatur Jr-Sr High School,43.90%,,,N,N/A,
+ia,10930000,Central Decatur CSD,0427-3,North Elementary School,44.66%,,,N,N/A,
+ia,10930000,Central Decatur CSD,0436-1,South Elementary School,48.47%,,,N,N/A,
+ia,10820000,Central Dewitt CSD,0431-0,Ekstrand Elementary School,31.34%,,,N,N/A,
+ia,10790000,Central Lee CSD,0209-6,Central Lee Middle Sch,33.57%,,,N,N/A,
+ia,10950000,Central Lyon CSD,0209-7,Central Lyon Middle School,33.75%,,,N,N/A,
+ia,11070000,Chariton CSD,0109-10,Chariton High School,43.30%,,,N,N/A,
+ia,11070000,Chariton CSD,0209-8,Chariton Middle School,44.83%,,,N,N/A,
+ia,11070000,Chariton CSD,0418-6,Columbus Elementary School,45.82%,,,N,N/A,
+ia,11070000,Chariton CSD,0439,Van Allen Elementary School,44.96%,,,N,N/A,
+ia,11160000,Charles City CSD,0109-11,Charles City High School,37.31%,,,N,N/A,
+ia,11160000,Charles City CSD,0209-9,Charles City Middle Sch,43.42%,,,N,N/A,
+ia,11160000,Charles City CSD,0436-2,Lincoln ElementarySchool,50.00%,,,N,N/A,
+ia,11160000,Charles City CSD,0455,Washington Elementary School,48.96%,,,N,N/A,
+ia,11340000,Charter Oak-Ute CSD,0418-7,Charter Oak-Ute Elementary School,41.71%,,,N,N/A,
+ia,11520000,Cherokee CSD,0209-10,Cherokee Middle School,32.17%,,,N,N/A,
+ia,11520000,Cherokee CSD,0427-4,Roosevelt Elementary,37.28%,,,N,N/A,
+ia,11520000,Cherokee CSD,0109-12,Washington High School,31.86%,,,N,N/A,
+ia,11970000,Clarinda CSD,0409-10,Garfield Elementary  School,34.92%,,,N,N/A,
+ia,12060000,Clarion-Goldfield-Dows CSD,0109-13,Clarion High School,30.74%,,,N,N/A,
+ia,12060000,Clarion-Goldfield-Dows CSD,0209-11,Clarion Middle School,36.28%,,65.25%,Y,640,232
+ia,12110000,Clarke CSD,0409-11,Clarke Community Elementary School,45.39%,,,N,N/A,
+ia,12110000,Clarke CSD,0109-14,Clarke Community High School,35.52%,,,N,N/A,
+ia,12180000,Clay Central-Everly CSD,0409-12,Clay Central-Everly Elementary At Royal,45.35%,,,N,N/A,
+ia,27630000,Clayton Ridge CSD,0409-13,Clayton Ridge  Elementary School,31.89%,,,N,N/A,
+ia,27630000,Clayton Ridge CSD,0209-12,Clayton Ridge Middle School,34.43%,,,N,N/A,
+ia,12780000,Clinton CSD,0227-0,Bluff Elementary School,60.10%,,,N,N/A,
+ia,12780000,Clinton CSD,0109-15,Clinton High School,32.25%,,,N,N/A,
+ia,12780000,Clinton CSD,0225,Clinton Middle School,42.02%,,,N,N/A,
+ia,12780000,Clinton CSD,0480,Eagle Heights Elementary School,39.27%,,,N,N/A,
+ia,12780000,Clinton CSD,0472,Jefferson Elementary School,67.30%,,,N,N/A,
+ia,12780000,Clinton CSD,0516,Whittier Elementary School,36.63%,,,N,N/A,
+ia,13320000,Colfax-Mingo CSD,0409-14,Colfax-Mingo Elementary School,32.91%,,,N,N/A,
+ia,13320000,Colfax-Mingo CSD,0118-1,Colfax-Mingo High School,35.83%,,,N,N/A,
+ia,13370000,College CSD,0427-5,Prairie Heights Elementary School,32.46%,,,N,N/A,
+ia,13680000,Columbus CSD,0109-16,Columbus Community High School,42.37%,,,N,N/A,
+ia,13680000,Columbus CSD,0409-15,Roundy Elementary School,51.75%,,,N,N/A,
+ia,23138301,Community Christian School,8301,Community Christian School,38.24%,,,N,N/A,
+ia,14130000,Coon Rapids-Bayard CSD,0172-5,Coon Rapids Bayard 6-12 Center,32.27%,,,N,N/A,
+ia,14310000,Corning CSD,0409-16,Corning Elementary School,53.19%,,,N,N/A,
+ia,14310000,Corning CSD,0109-17,Southwest Valley High School,42.08%,,,N,N/A,
+ia,14760000,Council Bluffs CSD,0118-2,Abraham Lincoln High School,40.31%,,63.22%,Y,1304,526
+ia,14760000,Council Bluffs CSD,0418-8,Bloomer Elementary School,60.95%,,63.22%,Y,404,246
+ia,14760000,Council Bluffs CSD,0422,Carter Lake Elementary School,67.25%,,63.22%,Y,363,244
+ia,14760000,Council Bluffs CSD,0427-6,College View Elementary,36.42%,,63.22%,Y,565,206
+ia,14760000,Council Bluffs CSD,0425,Crescent Elementary School,35.90%,,63.22%,Y,75,27
+ia,14760000,Council Bluffs CSD,0445-3,Edison Elementary School,65.82%,,63.22%,Y,495,326
+ia,14760000,Council Bluffs CSD,0454-3,Franklin Elementary School,57.12%,,63.22%,Y,501,286
+ia,14760000,Council Bluffs CSD,0212,Gerald W Kirn Junior High School,46.34%,,63.22%,Y,1055,489
+ia,14760000,Council Bluffs CSD,0481-0,Hoover Elementary School,49.37%,,63.22%,Y,486,240
+ia,14760000,Council Bluffs CSD,0490-1,Lewis & Clark Elementary School,45.18%,,63.22%,Y,260,117
+ia,14760000,Council Bluffs CSD,0499,Longfellow Elementary School,56.41%,,63.22%,Y,569,321
+ia,14760000,Council Bluffs CSD,0544-0,Roosevelt Elementary School,60.65%,,63.22%,Y,484,294
+ia,14760000,Council Bluffs CSD,0553,Rue Elementary School,62.28%,,63.22%,Y,366,228
+ia,14760000,Council Bluffs CSD,0109-18,Thomas Jefferson High School,52.50%,,63.22%,Y,1184,622
+ia,14760000,Council Bluffs CSD,0245,Woodrow  Wilson Junior High,57.99%,,63.22%,Y,959,556
+ia,15030000,Creston CSD,0418-9,Burton R. Jones Facility,39.75%,,,N,N/A,
+ia,15030000,Creston CSD,0218-2,Creston Elementary Middle School,30.29%,,,N,N/A,
+ia,16110000,Davenport CSD,0409-17,Adams Elementary,48.49%,,,N,N/A,
+ia,16110000,Davenport CSD,0414,Buchanan Elementary,64.99%,,58.84%,Y,404,263
+ia,16110000,Davenport CSD,0415,Buffalo Elementary,40.07%,,,N,N/A,
+ia,16110000,Davenport CSD,0109-19,Central High School,40.03%,,,N,N/A,
+ia,16110000,Davenport CSD,0472-0,Childrens Village at Hoover,38.06%,,58.84%,Y,133,51
+ia,16110000,Davenport CSD,0961,Children's Village West,42.34%,,58.84%,Y,247,105
+ia,16110000,Davenport CSD,0417,Eisenhower Elementary School,33.41%,,,N,N/A,
+ia,16110000,Davenport CSD,0418-10,Fillmore Elementary School,63.53%,,58.84%,Y,479,304
+ia,16110000,Davenport CSD,0209-13,Frank L Smart Intermediate,63.06%,,58.84%,Y,378,238
+ia,16110000,Davenport CSD,0427-7,Garfield Elementary,57.11%,,58.84%,Y,439,251
+ia,16110000,Davenport CSD,0454-4,Harrison Elementary,31.74%,,,N,N/A,
+ia,16110000,Davenport CSD,0573,Harry S. Truman School,46.73%,,58.84%,Y,372,174
+ia,16110000,Davenport CSD,0463-0,Hayes Elementary,64.55%,,58.84%,Y,370,239
+ia,16110000,Davenport CSD,0475,Jackson Elementary,52.74%,,58.84%,Y,358,189
+ia,16110000,Davenport CSD,0481-1,Jefferson Elementary,76.07%,,58.84%,Y,480,365
+ia,16110000,Davenport CSD,0508,Madison Elementary,68.63%,,58.84%,Y,491,337
+ia,16110000,Davenport CSD,0526-0,McKinley Elementary School,48.61%,,,N,N/A,
+ia,16110000,Davenport CSD,0127-0,Mid City High,56.11%,,58.84%,Y,181,102
+ia,16110000,Davenport CSD,0535,Monroe Elementary,67.25%,,58.84%,Y,402,270
+ia,16110000,Davenport CSD,0116,North High School,42.51%,,,N,N/A,
+ia,16110000,Davenport CSD,0218-3,Sudlow Intermediate,43.89%,,,N,N/A,
+ia,16110000,Davenport CSD,0223,Walcott Intermediate,34.27%,,,N,N/A,
+ia,16110000,Davenport CSD,0580-0,Washington Elementary School,66.42%,,58.84%,Y,320,213
+ia,16110000,Davenport CSD,0118-3,West High School,40.28%,,,N,N/A,
+ia,16110000,Davenport CSD,0227-1,Williams Intermediate,54.12%,,58.84%,Y,606,328
+ia,16110000,Davenport CSD,0589-0,Wilson Elementary School,56.73%,,58.84%,Y,519,294
+ia,16110000,Davenport CSD,0205,Wood Intermediate,50.33%,,58.84%,Y,507,255
+ia,16190000,Davis County CSD,0421,Davis County Elementary,43.10%,,,N,N/A,
+ia,16190000,Davis County CSD,0428,Davis County Middle School,35.25%,,,N,N/A,
+ia,16750000,Delwood CSD,0409-18,Delwood Elementary School,36.36%,,,N,N/A,
+ia,17010000,Denison CSD,0409-19,Broadway Elementary School,38.71%,,,N,N/A,
+ia,17010000,Denison CSD,0418-11,Denison Elementary,41.99%,,,N,N/A,
+ia,17010000,Denison CSD,0109-20,Denison High School,32.01%,,,N,N/A,
+ia,17010000,Denison CSD,0209-14,Denison Middle School,34.65%,,,N,N/A,
+ia,17370000,Des Moines Independent Schools,0205-0,Brody Middle School,52.61%,,62.46%,Y,766,403
+ia,17370000,Des Moines Independent Schools,0739,Brubaker Elementary,63.42%,,62.46%,Y,663,420
+ia,17370000,Des Moines Independent Schools,0209-15,Callanan Middle School,64.46%,,62.46%,Y,632,407
+ia,17370000,Des Moines Independent Schools,0427-8,Capitol View Elementary,75.49%,,62.46%,Y,577,436
+ia,17370000,Des Moines Independent Schools,0435,Carver Elementary,75.21%,,62.46%,Y,478,360
+ia,17370000,Des Moines Independent Schools,0445-4,Cattle Elementary,69.44%,,62.46%,Y,406,282
+ia,17370000,Des Moines Independent Schools,0109-21,East High School,55.41%,,62.46%,Y,2074,1149
+ia,17370000,Des Moines Independent Schools,0490-2,EDMUNDS ACADEMY,86.80%,,62.46%,Y,313,272
+ia,17370000,Des Moines Independent Schools,0503,Findley Elementary School,65.74%,,62.46%,Y,348,229
+ia,17370000,Des Moines Independent Schools,0526-1,Garton Elementary,67.06%,,62.46%,Y,561,376
+ia,17370000,Des Moines Independent Schools,0227-2,Goodrell Middle School,63.70%,,62.46%,Y,546,348
+ia,17370000,Des Moines Independent Schools,0553-0,Greenwood Elementary,43.24%,,62.46%,Y,272,118
+ia,17370000,Des Moines Independent Schools,0562,Hanawalt Elementary School,43.71%,,62.46%,Y,355,155
+ia,17370000,Des Moines Independent Schools,0236-0,Harding Middle School,70.60%,,62.46%,Y,781,551
+ia,17370000,Des Moines Independent Schools,0245-0,Hiatt Middle School,68.39%,,62.46%,Y,626,428
+ia,17370000,Des Moines Independent Schools,0571-0,Hillis Elementary School,57.54%,,62.46%,Y,355,204
+ia,17370000,Des Moines Independent Schools,0114,Hoover High School,57.61%,,62.46%,Y,1040,599
+ia,17370000,Des Moines Independent Schools,0589-1,Howe Elementary School,66.43%,,62.46%,Y,291,193
+ia,17370000,Des Moines Independent Schools,0250,Hoyt Middle School,60.27%,,62.46%,Y,642,387
+ia,17370000,Des Moines Independent Schools,0598,Hubbell Elementary School,34.68%,,,N,N/A,
+ia,17370000,Des Moines Independent Schools,0607,Jackson Elementary School,56.79%,,62.46%,Y,436,248
+ia,17370000,Des Moines Independent Schools,0886,James B. Morris Elementary,68.07%,,62.46%,Y,571,389
+ia,17370000,Des Moines Independent Schools,0616-0,Jefferson Elementary School,31.79%,,,N,N/A,
+ia,17370000,Des Moines Independent Schools,0618,Jessie Franklin Taylor,78.06%,,62.46%,Y,239,187
+ia,17370000,Des Moines Independent Schools,0620,King Elementary,80.79%,,62.46%,Y,292,236
+ia,17370000,Des Moines Independent Schools,0117,Lincoln 9th Grade,70.27%,,62.46%,Y,993,698
+ia,17370000,Des Moines Independent Schools,0118-4,Lincoln High School,48.60%,,62.46%,Y,1671,812
+ia,17370000,Des Moines Independent Schools,0647,Lovejoy Elementary School,74.37%,,62.46%,Y,402,299
+ia,17370000,Des Moines Independent Schools,0661,Madison Elementary School,68.63%,,62.46%,Y,268,184
+ia,17370000,Des Moines Independent Schools,0670,Mann Elementary School,68.00%,,,N,N/A,
+ia,17370000,Des Moines Independent Schools,0266,Mccombs Middle School,59.73%,,62.46%,Y,718,429
+ia,17370000,Des Moines Independent Schools,0688,McKee Elementary School,64.58%,,62.46%,Y,333,215
+ia,17370000,Des Moines Independent Schools,0697,McKinley Elementary School,69.26%,,62.46%,Y,264,183
+ia,17370000,Des Moines Independent Schools,0269,Meredith Middle School,66.11%,,62.46%,Y,798,528
+ia,17370000,Des Moines Independent Schools,0272,Merrill Middle School,32.18%,,,N,N/A,
+ia,17370000,Des Moines Independent Schools,0706,Mitchell Elementary School,71.78%,,62.46%,Y,433,311
+ia,17370000,Des Moines Independent Schools,0715,Monroe Elementary School,77.73%,,62.46%,Y,489,380
+ia,17370000,Des Moines Independent Schools,0724,Moore Elementary School,55.13%,,62.46%,Y,315,174
+ia,17370000,Des Moines Independent Schools,0733,Moulton Elementary School,84.17%,,62.46%,Y,524,441
+ia,17370000,Des Moines Independent Schools,0127-1,North High School,61.60%,,62.46%,Y,1401,863
+ia,17370000,Des Moines Independent Schools,0751,Oak Park Elementary School,71.04%,,62.46%,Y,376,267
+ia,17370000,Des Moines Independent Schools,0978,PACE Juvenile Center,100.00%,,62.46%,Y,6,6
+ia,17370000,Des Moines Independent Schools,0760,Park Ave Elementary School,65.39%,,62.46%,Y,410,268
+ia,17370000,Des Moines Independent Schools,0769,Perkins Elementary School,47.45%,,62.46%,Y,461,219
+ia,17370000,Des Moines Independent Schools,0778,Phillips Elementary School,54.97%,,62.46%,Y,328,180
+ia,17370000,Des Moines Independent Schools,0782,Pleasant Hill Elementary School,41.15%,,62.46%,Y,253,104
+ia,17370000,Des Moines Independent Schools,0790,River Woods Elementary School,65.90%,,62.46%,Y,527,347
+ia,17370000,Des Moines Independent Schools,0136,Roosevelt High School,39.68%,,,N,N/A,
+ia,17370000,Des Moines Independent Schools,0987,Ruby Van Meter School,47.79%,,62.46%,Y,161,77
+ia,17370000,Des Moines Independent Schools,0819,Samuelson Elementary School,61.91%,,62.46%,Y,460,285
+ia,17370000,Des Moines Independent Schools,0855,South Union Elementary School,73.83%,,62.46%,Y,512,378
+ia,17370000,Des Moines Independent Schools,0859,Stowe Elementary School,71.85%,,62.46%,Y,366,263
+ia,17370000,Des Moines Independent Schools,0863,Studebaker Elementary School,62.32%,,62.46%,Y,503,313
+ia,17370000,Des Moines Independent Schools,0984,Walnut Street School,46.26%,,62.46%,Y,292,135
+ia,17370000,Des Moines Independent Schools,0281,Weeks Middle School,61.72%,,62.46%,Y,762,470
+ia,17370000,Des Moines Independent Schools,0904,Willard Elementary,73.35%,,62.46%,Y,340,249
+ia,17370000,Des Moines Independent Schools,0913,Windsor Elementary School,40.58%,,62.46%,Y,334,136
+ia,17370000,Des Moines Independent Schools,0922,Woodlawn Elementary School,70.13%,,62.46%,Y,321,225
+ia,17370000,Des Moines Independent Schools,0931,Wright Elementary School,58.57%,,62.46%,Y,274,160
+ia,17820000,Diagonal CSD,0172-6,Diagonal Junior-Senior High School,35.48%,,,N,N/A,
+ia,18630000,Dubuque CSD,8871,"Alternative Learning Center, Alta Vista Campus",58.77%,,59.89%,Y,228,134
+ia,18630000,Dubuque CSD,0418-12,Audubon Elementary School,83.84%,,59.89%,Y,229,192
+ia,18630000,Dubuque CSD,0472-1,Fulton Elementary School,83.99%,,59.89%,Y,281,236
+ia,18630000,Dubuque CSD,0218-4,George Washington MIddle  School,43.59%,,59.89%,Y,686,299
+ia,18630000,Dubuque CSD,0475-0,Hoover Elementary School,38.12%,,59.89%,Y,383,146
+ia,18630000,Dubuque CSD,0481-2,Irving Elementary School,37.84%,,,N,N/A,
+ia,18630000,Dubuque CSD,0499-0,Lincoln Elementary School,77.10%,,59.89%,Y,262,202
+ia,18630000,Dubuque CSD,0508-0,Marshall Elementary School,61.09%,,59.89%,Y,311,190
+ia,18630000,Dubuque CSD,0517-0,Prescott Elementary School,73.70%,,59.89%,Y,308,227
+ia,18630000,Dubuque CSD,0209-16,Thomas Jefferson Middle School,57.02%,,59.89%,Y,563,321
+ia,19440000,Eagle Grove CSD,0418-13,Eagle Grove Elementary,57.66%,,57.66%,Y,411,237
+ia,19440000,Eagle Grove CSD,0109-22,Eagle Grove High School,41.48%,,,N,N/A,
+ia,19440000,Eagle Grove CSD,0209-17,Robert Blue School,49.84%,,,N,N/A,
+ia,19680000,East Marshall CSD,0427-9,East Marshall Elementary School,39.22%,,,N,N/A,
+ia,19680000,East Marshall CSD,0209-18,East Marshall Middle School,31.83%,,,N,N/A,
+ia,39780000,East Mills CSD,0427-10,East Mills Elementary,45.76%,,,N,N/A,
+ia,67410000,East Sac County CSD,0218-5,East Sac County Middle School,33.56%,,,N,N/A,
+ia,19700000,East Union CSD,0172-7,East Union Junior-Senior High School,40.04%,,,N,N/A,
+ia,19720000,Eastern Allamakee CSD,0412-0,Lansing Middle School,40.00%,,,N,N/A,
+ia,19720000,Eastern Allamakee CSD,0418-14,New Albin Elementary School,35.86%,,,N,N/A,
+ia,19650000,Easton Valley  CSD,0405-1,Easton Valley Elementary,37.14%,,,N,N/A,
+ia,06570000,Eddyville-Blakesburg-Fremont CSD,0427-11,Fremont Elementary,39.53%,,,N,N/A,
+ia,20070000,Eldora-New Providence CSD,0409-20,Eldora-New Providence Elementary School,45.61%,,,N,N/A,
+ia,20070000,Eldora-New Providence CSD,0109-23,Eldora-New Providence High School,34.51%,,,N,N/A,
+ia,20880000,Emmetsburg CSD,0418-15,West Elementary School,30.29%,,,N,N/A,
+ia,21130000,Essex CSD,0172-8,Essex Junior-Senior High School,47.56%,,,N,N/A,
+ia,21240000,Estherville Lincoln Central CSD,0412-1,Demoney Elementary School,65.44%,,45.29%,Y,513,336
+ia,21240000,Estherville Lincoln Central CSD,0414-0,Estherville Lincoln Central Middle School,41.38%,,45.29%,Y,410,170
+ia,21510000,Exira-Elk Horn-Kimballton CSD,0418-16,Exira/Elk Horn-Kimballton Elem,36.79%,,,N,N/A,
+ia,21690000,Fairfield CSD,0109-24,Fairfield High School,35.84%,,,N,N/A,
+ia,21690000,Fairfield CSD,0209-19,Fairfield Middle School,41.02%,,,N,N/A,
+ia,21690000,Fairfield CSD,0487,Pence Elementary School,45.65%,,,N,N/A,
+ia,21690000,Fairfield CSD,0486,Washington Elementary School,48.82%,,,N,N/A,
+ia,22950000,Forest City CSD,0418-17,Forest City Elementary School,31.65%,,,N,N/A,
+ia,23690000,Fremont-Mills CSD,0172-9,Fremont-Mills Middle And Senior High School,35.48%,,,N,N/A,
+ia,23130000,Ft Dodge CSD,8605,Arey Education Center,80.00%,,,N,N/A,
+ia,23130000,Ft Dodge CSD,0418-18,Butler Elementary School,64.47%,,,N,N/A,
+ia,23130000,Ft Dodge CSD,0445-5,Cooper Elementary School,34.87%,,,N,N/A,
+ia,23130000,Ft Dodge CSD,0454-5,Duncombe Elementary School,62.61%,,,N,N/A,
+ia,23130000,Ft Dodge CSD,0109-25,Fort Dodge High School,37.32%,,,N,N/A,
+ia,23130000,Ft Dodge CSD,0227-3,Fort Dodge Middle School,50.19%,,,N,N/A,
+ia,23130000,Ft Dodge CSD,0508-1,Riverside Elementary School,50.65%,,,N,N/A,
+ia,23130000,Ft Dodge CSD,8206,St Paul Lutheran,36.90%,,,N,N/A,
+ia,23220000,Ft Madison CSD,0109-26,Fort Madison High School,39.24%,,,N,N/A,
+ia,23220000,Ft Madison CSD,0209-20,Fort Madison Middle School,44.62%,,,N,N/A,
+ia,23220000,Ft Madison CSD,0436-3,Lincoln Elementary School,49.82%,,,N,N/A,
+ia,23220000,Ft Madison CSD,0445-6,Richardson Elementary School,62.00%,,,N,N/A,
+ia,23760000,Galva-Holstein CSD,0109-27,Galva-Holstein High School,30.85%,,,N,N/A,
+ia,24570000,George-Little Rock CSD,0409-21,George Elementary School,32.35%,,,N,N/A,
+ia,24930000,Gilmore City-Bradgate CSD,0418-19,Gilmore City Elementary School,50.44%,,53.98%,Y,113,57
+ia,25110000,Glenwood CSD,0406,Northeast Elementary School,32.99%,,,N,N/A,
+ia,25110000,Glenwood CSD,0409-22,West Elementary School,33.78%,,,N,N/A,
+ia,26820000,GMG CSD,0409-23,GMG Elementary School,48.55%,,,N,N/A,
+ia,26820000,GMG CSD,0172-10,GMG Secondary School,44.20%,,,N,N/A,
+ia,25560000,Graettinger -Terril CSD,0409-24,Graettinger-Terril Elementary School,32.90%,,,N,N/A,
+ia,27090000,Grinnell-Newburg CSD,0409-25,Bailey Park Elementary School,36.57%,,,N,N/A,
+ia,27180000,Griswold CSD,0418-20,Griswold Elementary,31.53%,,,N,N/A,
+ia,27720000,Hamburg CSD,0418-21,Marnie Simons Elementary School,50.00%,,,N,N/A,
+ia,27810000,Hampton-Dumont CSD,0109-28,Hampton-Dumont High School,37.77%,,,N,N/A,
+ia,27810000,Hampton-Dumont CSD,0209-21,Hampton-Dumont Middle School,42.56%,,,N,N/A,
+ia,27810000,Hampton-Dumont CSD,0427-12,North Side Elementary School,47.13%,,,N,N/A,
+ia,27810000,Hampton-Dumont CSD,0445-7,South Side Elementary School,46.42%,,,N,N/A,
+ia,28620000,Hartley-Melvin-Sanborn CSD,0409-26,Hartley-Melvin-Sanborn Elementary School,38.43%,,,N,N/A,
+ia,28620000,Hartley-Melvin-Sanborn CSD,0209-22,Hartley-Melvin-Sanborn Middle School,33.99%,,,N,N/A,
+ia,17378001,Holy Family Schools-DSM,8108,Holy Family School,61.32%,,,N,N/A,
+ia,30290000,Howard-Winneshiek CSD,0409-27,Crestwood Elementary School,42.08%,,,N,N/A,
+ia,30330000,Hubbard-Radcliffe CSD,0418-22,Hubbard Radcliffe Elementary School,30.46%,,,N,N/A,
+ia,30330000,Hubbard-Radcliffe CSD,0409-28,South Hardin  Middle School,41.74%,,,N,N/A,
+ia,30600000,Humboldt CSD,0409-29,Clyde D Mease Elementary School,37.44%,,,N,N/A,
+ia,30600000,Humboldt CSD,0109-29,Humboldt High School,36.70%,,,N,N/A,
+ia,30600000,Humboldt CSD,0209-23,Humboldt Junior High School,41.94%,,,N,N/A,
+ia,30600000,Humboldt CSD,0427-13,Taft Elementary School,39.84%,,,N,N/A,
+ia,31680000,IKM-Manning CSD,0127-2,IKM-Manning High School,41.27%,,,N,N/A,
+ia,31680000,IKM-Manning CSD,0209-24,IKM-Manning Middle School,42.70%,,,N,N/A,
+ia,31680000,IKM-Manning CSD,0409-30,Irwin Elementary School,43.97%,,,N,N/A,
+ia,31050000,Independence CSD,0409-31,East Elementary School,36.25%,,,N,N/A,
+ia,31050000,Independence CSD,0436-4,ECSE Center,45.95%,,,N,N/A,
+ia,31050000,Independence CSD,0427-14,West Elementary School,32.22%,,,N,N/A,
+ia,31140000,Indianola CSD,0409-32,Emerson Elementary School,31.17%,,,N,N/A,
+ia,31140000,Indianola CSD,0418-23,Indianola Child Care/Wilder Elementary,37.09%,,,N,N/A,
+ia,31410000,Iowa City CSD,0442,Alexander Elementary,49.03%,,,N,N/A,
+ia,31410000,Iowa City CSD,0403,Central Elementary School,36.01%,,,N,N/A,
+ia,31410000,Iowa City CSD,0136-0,Elizabeth Tate Alternative High School,48.81%,,49.71%,Y,175,85
+ia,31410000,Iowa City CSD,0415-0,Ernest Horn Elementary School,36.48%,,,N,N/A,
+ia,31410000,Iowa City CSD,0481-3,Grant Wood Elementary School,51.32%,,,N,N/A,
+ia,31410000,Iowa City CSD,0463-1,Herbert Hoover Elementary School,35.24%,,,N,N/A,
+ia,31410000,Iowa City CSD,0411,Hills Elementary School,49.49%,,,N,N/A,
+ia,31410000,Iowa City CSD,0406-0,Kirkwood Elementary School,54.09%,,,N,N/A,
+ia,31410000,Iowa City CSD,0472-2,Mark Twain Elementary,47.06%,,,N,N/A,
+ia,31410000,Iowa City CSD,0432,Norman Borlaug Elementary School,33.59%,,,N,N/A,
+ia,31410000,Iowa City CSD,0436-5,Robert Lucas Elementary School,38.17%,,,N,N/A,
+ia,31410000,Iowa City CSD,0488,Weber Elementary,36.22%,,,N,N/A,
+ia,31500000,Iowa Falls CSD,0436-6,Pineview Elementary,34.12%,,,N,N/A,
+ia,31500000,Iowa Falls CSD,0209-25,Riverbend Middle School 209,31.68%,,,N,N/A,
+ia,31500000,Iowa Falls CSD,0409-33,Rock Run Elementary,33.99%,,,N,N/A,
+ia,31540000,Iowa Valley CSD,0409-34,Iowa Valley Elementary School,31.71%,,,N,N/A,
+ia,33120000,Keokuk CSD,0454-6,George Washington Elementary School,62.64%,,,N,N/A,
+ia,33120000,Keokuk CSD,0418-24,Hawthorne Elementary School,64.96%,,,N,N/A,
+ia,33120000,Keokuk CSD,0109-30,Keokuk High School,44.53%,,,N,N/A,
+ia,33120000,Keokuk CSD,0209-26,Keokuk Middle School,54.45%,,,N,N/A,
+ia,33120000,Keokuk CSD,0445-8,Torrence Elementary School,67.09%,,,N,N/A,
+ia,33480000,Kingsley-Pierson CSD,0209-27,Pierson Middle School,31.25%,,,N,N/A,
+ia,33750000,Knoxville CSD,0209-28,Knoxville Middle School,31.45%,,,N,N/A,
+ia,33750000,Knoxville CSD,0427-15,Northstar Elementary School,43.60%,,,N,N/A,
+ia,33750000,Knoxville CSD,0436-7,West Elementary,42.11%,,61.99%,Y,342,144
+ia,34650000,Lamoni CSD,0172-11,Lamoni High School,37.43%,,,N,N/A,
+ia,35370000,Laurens-Marathon CSD,0409-35,Laurens-Marathon Elementary School,50.68%,,68.64%,Y,220,111
+ia,36000000,Le Mars CSD,0418-25,Clark Elementary School,40.62%,,,N,N/A,
+ia,36090000,Lenox CSD,0418-26,Lenox Elementary School,39.18%,,,N,N/A,
+ia,36090000,Lenox CSD,0109-31,Lenox High School,31.16%,,,N,N/A,
+ia,36450000,Lewis Central CSD,0418-27,E A Kreft,40.40%,,,N,N/A,
+ia,36450000,Lewis Central CSD,0209-29,Lewis Central MiddleSchool,32.15%,,,N,N/A,
+ia,36450000,Lewis Central CSD,0427-16,Titan Hill Intermediate,33.52%,,,N,N/A,
+ia,37150000,Linn-Mar CSD,0454-7,Linn Grove Elementary,42.05%,,,N,N/A,
+ia,37150000,Linn-Mar CSD,0409-36,Novak Elementary School,32.71%,,,N,N/A,
+ia,37150000,Linn-Mar CSD,0427-17,Wilkins Elementary School,36.66%,,,N,N/A,
+ia,38970000,Lu Verne CSD,0409-37,Luverne Elementary School,35.00%,,,N,N/A,
+ia,40230000,Manson Northwest Webster CSD,8670,North Central Iowa Consortium School,68.33%,,,N,N/A,
+ia,40330000,Maple Valley-Anthon Oto CSD,0409-38,Anthon Elementary,36.95%,,,N,N/A,
+ia,40330000,Maple Valley-Anthon Oto CSD,0418-28,Mapleton Elementary School,31.81%,,,N,N/A,
+ia,40410000,Maquoketa CSD,0418-29,Briggs Elementary,56.80%,,,N,N/A,
+ia,40410000,Maquoketa CSD,0409-39,Cardinal Elementary,57.28%,,,N,N/A,
+ia,40410000,Maquoketa CSD,8870,Lawther Academy -Maquoketa,61.54%,,,N,N/A,
+ia,40410000,Maquoketa CSD,0109-32,Maquoketa High School,35.17%,,,N,N/A,
+ia,40410000,Maquoketa CSD,0209-30,Maquoketa Middle School,46.41%,,,N,N/A,
+ia,40680000,Marcus-Meriden-Cleghorn CSD,0427-18,Marcus-Meriden-Cleghorn Elementary,31.03%,,,N,N/A,
+ia,40860000,Marion Independent CSD,0410,Longfellow Elementary,62.88%,,,N,N/A,
+ia,41040000,Marshalltown CSD,0427-19,Anson Elementary School,58.38%,,60.06%,Y,329,192
+ia,41040000,Marshalltown CSD,0218-6,B R Miller Middle School,48.31%,,,N,N/A,
+ia,41040000,Marshalltown CSD,0445-9,Fisher Elementary School,40.59%,,43.29%,Y,395,160
+ia,41040000,Marshalltown CSD,0435-0,Franklin Elementary Sch,49.58%,,60.06%,Y,367,182
+ia,41040000,Marshalltown CSD,0475-1,J C Hoglan Elementary School,50.31%,,56.01%,Y,341,172
+ia,41040000,Marshalltown CSD,0479,Lenihan Intermediate,48.41%,,55.54%,Y,830,402
+ia,41040000,Marshalltown CSD,0109-33,Marshalltown High School,40.36%,,,N,N/A,
+ia,41040000,Marshalltown CSD,0118-5,Marshalltown Learning Academy,61.34%,,62.93%,Y,116,71
+ia,41040000,Marshalltown CSD,0481-4,Rogers Elementary School,60.74%,,57.76%,Y,243,148
+ia,41040000,Marshalltown CSD,0491,Woodbury Elementry School,48.83%,,57.76%,Y,363,177
+ia,41310000,Mason City CSD,0427-20,Harding Elementary School,51.40%,,,N,N/A,
+ia,41310000,Mason City CSD,0436-8,Hoover Elementary School,43.26%,,,N,N/A,
+ia,41310000,Mason City CSD,0209-31,John Adams Middle School,42.18%,,,N,N/A,
+ia,41310000,Mason City CSD,0227-4,Lincoln Intermediate School,43.61%,,,N,N/A,
+ia,41310000,Mason City CSD,0109-34,Mason City High School,35.05%,,,N,N/A,
+ia,41310000,Mason City CSD,8870-0,Pinecrest Center,78.26%,,,N,N/A,
+ia,41310000,Mason City CSD,0481-5,Roosevelt Elementary School,51.11%,,,N,N/A,
+ia,42120000,Melcher-Dallas CSD,0409-40,Dallas Elementary School,31.95%,,,N,N/A,
+ia,42690000,Midland CSD,0418-30,Midland Elementary School,41.28%,,,N,N/A,
+ia,42690000,Midland CSD,0118-6,Midland Jr/Sr High School at Wyoming,36.94%,,,N,N/A,
+ia,42710000,Mid-Prairie CSD,0418-31,Mid-Prairie West Elementary School,34.07%,,,N,N/A,
+ia,43560000,Missouri Valley CSD,0409-41,Missouri Valley Elementary,40.23%,,,N,N/A,
+ia,43560000,Missouri Valley CSD,0109-35,Missouri Valley High School,32.26%,,,N,N/A,
+ia,43560000,Missouri Valley CSD,0209-32,Missouri Valley Middle School,35.26%,,,N,N/A,
+ia,45050000,Mormon Trail CSD,0418-32,Mormon Trail Elementary  School,41.54%,,,N,N/A,
+ia,45050000,Mormon Trail CSD,0172-12,Mormon Trail Jr-Sr High School,53.57%,,,N,N/A,
+ia,45180000,Moulton-Udell CSD,0409-42,Moulton Elementary School,53.77%,,,N,N/A,
+ia,45180000,Moulton-Udell CSD,0172-13,Moulton-Udell High School,38.75%,,,N,N/A,
+ia,45270000,Mount Ayr CSD,0801,Little Raider Preschool,31.48%,,,N,N/A,
+ia,45270000,Mount Ayr CSD,0436-9,Mount Ayr Elementary School,37.50%,,,N,N/A,
+ia,45270000,Mount Ayr CSD,0109-36,Mount Ayr High School,33.84%,,,N,N/A,
+ia,45360000,Mount Pleasant CSD,0409-43,Harlan Elementary School,53.04%,,,N,N/A,
+ia,45360000,Mount Pleasant CSD,0418-33,Lincoln Elementary School,39.84%,,,N,N/A,
+ia,45360000,Mount Pleasant CSD,0109-37,Mount Pleasant High School,37.04%,,,N,N/A,
+ia,45360000,Mount Pleasant CSD,0209-33,Mount Pleasant Middle High School,47.16%,,,N,N/A,
+ia,45360000,Mount Pleasant CSD,0436-10,Salem Elementary School,40.68%,,,N,N/A,
+ia,45360000,Mount Pleasant CSD,0454-8,Van Allen Elementary School,63.49%,,,N,N/A,
+ia,45360000,Mount Pleasant CSD,8601,Wisdomquest,56.00%,,,N,N/A,
+ia,45720000,Murray CSD,0409-44,Murray Elementary School,39.73%,,,N,N/A,
+ia,45720000,Murray CSD,0172-14,Murray Junior-Senior High School,34.69%,,,N,N/A,
+ia,45810000,Muscatine CSD,0405-2,Frranklin Elementary School,64.13%,,54.26%,Y,304,195
+ia,45810000,Muscatine CSD,0418-34,Grant Elementary School,33.06%,,,N,N/A,
+ia,45810000,Muscatine CSD,0427-21,Jefferson Elementary School,61.45%,,54.26%,Y,483,297
+ia,45810000,Muscatine CSD,0445-10,Madison Elementary School,44.02%,,54.26%,Y,256,113
+ia,45810000,Muscatine CSD,0454-9,Mckinley Elementary School,48.35%,,54.26%,Y,413,200
+ia,45810000,Muscatine CSD,0109-38,Muscatine High School,33.17%,,,N,N/A,
+ia,45810000,Muscatine CSD,0402,Muskie Early Learning Center,46.75%,,,N,N/A,
+ia,46170000,Nevada CSD,0409-45,Central Elementary School,35.51%,,,N,N/A,
+ia,46170000,Nevada CSD,0109-39,Nevada High School,30.43%,,,N,N/A,
+ia,46170000,Nevada CSD,0218-7,Nevada Middle School,35.85%,,,N,N/A,
+ia,46440000,Newell-Fonda CSD,0409-46,Newell-Fonda Elementary,32.22%,,,N,N/A,
+ia,47250000,Newton CSD,0408,Aurora Heights Elementary School,42.80%,,,N,N/A,
+ia,47250000,Newton CSD,0218-8,Berg Middle School,40.33%,,,N,N/A,
+ia,47250000,Newton CSD,0432-0,Emerson Hough Elementary School,61.63%,,62.57%,Y,249,153
+ia,47250000,Newton CSD,0109-40,Newton Senior High School,33.17%,,,N,N/A,
+ia,47250000,Newton CSD,0454-10,Thomas Jefferson Elem School,40.64%,,,N,N/A,
+ia,47250000,Newton CSD,0127-3,WEST Academy Alternative School,61.29%,,62.57%,Y,101,62
+ia,47250000,Newton CSD,0467,Woodrow Wilson Elementary School,41.34%,,,N,N/A,
+ia,26730000,Nodaway Valley CSD,0409-47,Nodaway Valley East Elementary School,36.60%,,,N,N/A,
+ia,26730000,Nodaway Valley CSD,0172-15,Nodaway Valley Middle School,35.98%,,,N,N/A,
+ia,01530000,North Butler CSD,0418-35,Allison Elementary Wing HS Building,37.39%,,,N,N/A,
+ia,36910000,North Cedar CSD,0172-16,North Cedar Jr/Sr High School,44.37%,,,N,N/A,
+ia,36910000,North Cedar CSD,0405-3,North Cedar Lowden Elementary Center,51.69%,,,N,N/A,
+ia,36910000,North Cedar CSD,0409-48,North Cedar Mechanicsville Elem Ctr,48.89%,,,N,N/A,
+ia,47740000,North Fayette Valley CSD,0409-49,Fayette Elementary School,35.96%,,,N,N/A,
+ia,47740000,North Fayette Valley CSD,0218-9,North Fayette Valley Middle School,38.06%,,,N,N/A,
+ia,47740000,North Fayette Valley CSD,0436-11,Valley Elementary School,35.85%,,,N,N/A,
+ia,47740000,North Fayette Valley CSD,0427-22,West Union  Elementary School,32.54%,,,N,N/A,
+ia,08730000,North Iowa CSD,0172-17,North Iowa Middle Sch,34.07%,,,N,N/A,
+ia,47780000,North Kossuth CSD,0209-34,North Kossuth Elementary -Middle,42.94%,,,N,N/A,
+ia,47760000,North Mahaska CSD,0427-23,North Mahaska Elementary School,43.48%,,,N,N/A,
+ia,47760000,North Mahaska CSD,0172-18,North Mahaska Jr-Sr High School,37.18%,,,N,N/A,
+ia,47840000,North Scott CSD,0445-11,Neil Armstrong Elementary School,31.28%,,,N,N/A,
+ia,03330000,North Union CSD,0427-24,North Union Elementary,39.72%,,,N,N/A,
+ia,47880000,Northwood-Kensett CSD,0409-50,Northwood-Kensett Elementary,30.60%,,,N,N/A,
+ia,48600000,"Odebolt Arthur Battle Creek Ida Grove
+(OABCIG) CSD",0418-36,OABCIG Elementary - Ida Grove,36.62%,,,N,N/A,
+ia,48690000,Oelwein CSD,0454-11,Little Husky Learning Ct,56.98%,,,N,N/A,
+ia,48690000,Oelwein CSD,0109-41,Oelwein High School,41.11%,,,N,N/A,
+ia,48690000,Oelwein CSD,0209-35,Oelwein Middle School,47.16%,,,N,N/A,
+ia,48690000,Oelwein CSD,0407-0,Wings Park Elementary School,55.71%,,,N,N/A,
+ia,49050000,Olin Consolidated School District,0409-51,Olin Elem School,59.14%,,,N,N/A,
+ia,49780000,Orient-Macksburg CSD,0172-19,Orient-Macksburg Senior High School,70.24%,,,N,N/A,
+ia,49950000,Osage CSD,0409-52,Lincoln Elementary School,36.72%,,,N,N/A,
+ia,49950000,Osage CSD,0109-42,Osage High School,32.29%,,,N,N/A,
+ia,50130000,Oskaloosa CSD,0472-3,Oskaloosa Elementary School,47.97%,,,N,N/A,
+ia,50130000,Oskaloosa CSD,0109-43,Oskaloosa High School,34.52%,,,N,N/A,
+ia,50130000,Oskaloosa CSD,0209-36,Oskaloosa Junior High School,41.43%,,,N,N/A,
+ia,50490000,Ottumwa CSD,0509-0,Douma ElementarySchool,53.82%,,55.37%,Y,300,161
+ia,50490000,Ottumwa CSD,0209-37,Evans Middle School,46.66%,,,N,N/A,
+ia,50490000,Ottumwa CSD,0481-6,Horace Mann ElementarySchool,40.66%,,,N,N/A,
+ia,50490000,Ottumwa CSD,0459,James ElementarySchool,84.82%,,52.43%,Y,185,157
+ia,50490000,Ottumwa CSD,0427-25,Liberty Elementary School,50.64%,,52.43%,Y,719,364
+ia,50490000,Ottumwa CSD,0109-44,Ottumwa High School,37.83%,,,N,N/A,
+ia,50490000,Ottumwa CSD,0301-0,Pickwick Early Childhood Center,48.46%,,55.37%,Y,310,150
+ia,50490000,Ottumwa CSD,0517-1,Wilson ElementarySchool,60.26%,,55.37%,Y,302,182
+ia,51390000,Paton-Churdan CSD,0172-20,Paton-Churdan Jr-Sr High School,43.04%,,,N,N/A,
+ia,51630000,Pekin CSD,0427-26,Pekin Elementary School,36.06%,,,N,N/A,
+ia,51840000,Perry CSD,0412-2,Perry Elementary School,50.51%,,,N,N/A,
+ia,51840000,Perry CSD,0109-45,Perry High School,42.42%,,,N,N/A,
+ia,51840000,Perry CSD,0209-38,Perry Middle School,42.76%,,,N,N/A,
+ia,52560000,Pleasantville CSD,0409-53,Pleasantville Elementary,31.15%,,,N,N/A,
+ia,52830000,Pocahontas Area CSD,0409-54,Pocahontas Area Elementary School,48.88%,,,N,N/A,
+ia,52830000,Pocahontas Area CSD,0109-46,Pocahontas Area High School,34.01%,,,N,N/A,
+ia,53100000,Postville CSD,0409-55,Cora B Darling Elem and Middle School,72.36%,,65.30%,Y,416,301
+ia,53100000,Postville CSD,0172-21,John R Mott High School,56.64%,,65.30%,Y,339,192
+ia,53250000,Prairie Valley CSD,0409-56,Prairie Valley Elementary School,32.03%,,,N,N/A,
+ia,54630000,Red Oak CSD,0418-37,Inman Elementary School,40.62%,,,N,N/A,
+ia,54630000,Red Oak CSD,0445-12,Red Oak Early Childhood Center,58.97%,,,N,N/A,
+ia,54630000,Red Oak CSD,0109-47,Red Oak Junior/Senior High School,32.29%,,,N,N/A,
+ia,54860000,Remsen-Union CSD,0209-39,Remsen-Union Middle School,35.84%,,,N,N/A,
+ia,55080000,Riceville CSD,0418-38,Riceville Elementary School,47.24%,,,N,N/A,
+ia,19750000,River Valley CSD,0418-39,River Valley Elementary,32.98%,,,N,N/A,
+ia,55100000,Riverside CSD,0418-40,Riverside Community North Elementary,33.71%,,,N,N/A,
+ia,55100000,Riverside CSD,0427-27,Riverside Intermediate School,37.42%,,,N,N/A,
+ia,56970000,Rudd-Rockford-Marble Rk CSD,0109-48,Rockford Middle-Senior High School,41.15%,,,N,N/A,
+ia,57240000,Ruthven-Ayrshire CSD,0109-49,Ruthven-Ayrshire High School,33.17%,,,N,N/A,
+ia,60988602,Sac and Fox Tribe of the Mississippi - Iowa,8602,Meskwaki Settlement School,42.72%,,,N,N/A,
+ia,58050000,Saydel CSD,0418-41,Cornell Elementary School,60.92%,,49.33%,Y,451,275
+ia,58050000,Saydel CSD,0109-50,Saydel High School,44.15%,,49.33%,Y,412,182
+ia,58050000,Saydel CSD,0209-40,Woodside Middle School,45.69%,,49.33%,Y,402,184
+ia,58230000,Schaller-Crestland CSD,0172-22,Schaller-Crestland Elementary,35.23%,,,N,N/A,
+ia,58950000,Seymour CSD,0109-51,Seymour High School,45.14%,,,N,N/A,
+ia,59490000,Sheldon CSD,0436-12,East Elementary School,33.26%,,,N,N/A,
+ia,59760000,Shenandoah CSD,0427-28,Logan Preschool,45.92%,,56.48%,Y,108,50
+ia,59760000,Shenandoah CSD,0109-52,Shenandoah High School,40.33%,,,N,N/A,
+ia,59760000,Shenandoah CSD,0209-41,Shenandoah Middle School,45.92%,,,N,N/A,
+ia,59940000,Sibley-Ocheyedan CSD,0418-42,Sibley Ocheyedan Elementary School,36.05%,,,N,N/A,
+ia,60030000,Sidney CSD,0409-57,Sidney Elementary School,55.68%,,,N,N/A,
+ia,60120000,Sigourney CSD,0409-58,Sigourney Elementary,31.10%,,,N,N/A,
+ia,60350000,Sioux Central CSD,6035,Midwest Christian Services,100.00%,,,N,N/A,
+ia,60390000,Sioux City CSD,0418-43,Bryant Elementary School,52.35%,,58.22%,Y,309,162
+ia,60390000,Sioux City CSD,0118-7,East High School,32.16%,,,N,N/A,
+ia,60390000,Sioux City CSD,0209-42,East Middle School,37.74%,,,N,N/A,
+ia,60390000,Sioux City CSD,0517-2,Hunt Elementary School,62.99%,,58.22%,Y,329,207
+ia,60390000,Sioux City CSD,0526-2,Irving Elementary School,59.03%,,58.22%,Y,757,447
+ia,60390000,Sioux City CSD,0539,Leeds Elementary  School,45.64%,,,N,N/A,
+ia,60390000,Sioux City CSD,0542,Liberty  Elementary School,64.29%,,58.22%,Y,740,476
+ia,60390000,Sioux City CSD,0547,Loess Hills Elementary,54.79%,,58.22%,Y,631,346
+ia,60390000,Sioux City CSD,0572,Morningside Elementary,45.55%,,,N,N/A,
+ia,60390000,Sioux City CSD,0136-1,North High School,40.14%,,,N,N/A,
+ia,60390000,Sioux City CSD,0220,North Middle School,47.72%,,,N,N/A,
+ia,60390000,Sioux City CSD,0472-4,Perry Creek Elementary,30.24%,,,N,N/A,
+ia,60390000,Sioux City CSD,0961-0,Riverside School,56.05%,,,N,N/A,
+ia,60390000,Sioux City CSD,0601,Spalding Park Elementary School,49.92%,,58.22%,Y,681,340
+ia,60390000,Sioux City CSD,0612,Unity Elementary School,57.44%,,58.22%,Y,547,314
+ia,60390000,Sioux City CSD,0145,West High School,45.77%,,,N,N/A,
+ia,60390000,Sioux City CSD,0227-5,West Middle School,51.99%,,58.22%,Y,972,505
+ia,60910000,South Central Calhoun CSD,0427-29,South Central Calhoun Elementary,39.94%,,,N,N/A,
+ia,60910000,South Central Calhoun CSD,0218-10,South Central Calhoun Middle School,35.00%,,,N,N/A,
+ia,60950000,South Hamilton CSD,0418-44,Jewell Elementary School,31.02%,,,N,N/A,
+ia,60990000,South OBrien CSD,0424,South O'Brien Elementary School,32.62%,,,N,N/A,
+ia,60970000,South Page CSD,0409-59,South Page Elementary School,46.22%,,,N,N/A,
+ia,60980000,South Tama County CSD,0109-53,South Tama County High School,36.28%,,,N,N/A,
+ia,60980000,South Tama County CSD,0209-43,South Tama County Middle School,38.61%,,,N,N/A,
+ia,60980000,South Tama County CSD,0439-0,STC Elementary,50.92%,,,N,N/A,
+ia,61010000,Southeast Polk CSD,0409-60,Altoona Elementary School,37.77%,,,N,N/A,
+ia,61010000,Southeast Polk CSD,0423,Delaware Elementary School,35.51%,,,N,N/A,
+ia,61010000,Southeast Polk CSD,0427-30,Mitchellville Elementary School,31.43%,,,N,N/A,
+ia,61010000,Southeast Polk CSD,0445-13,Willowbrook Elementary School,36.05%,,,N,N/A,
+ia,60940000,Southeast Warren CSD,0418-45,MILO Elementary School,34.57%,,,N,N/A,
+ia,61020000,Spencer CSD,0409-61,Fairview Park Elementary School,34.51%,,,N,N/A,
+ia,61020000,Spencer CSD,0427-31,Johnson Elementary School,40.70%,,,N,N/A,
+ia,61020000,Spencer CSD,0209-44,Spencer Middle School,33.07%,,,N,N/A,
+ia,17378106,St Anthony School-DSM,8106,St Anthony School,42.04%,,,N,N/A,
+ia,27638103,St Marys School-Guttenberg,8103-0,St Marys School,46.15%,,,N,N/A,
+ia,17018102,St Rose Of Lima School,8102,St Rose Of Lima School,77.39%,,,N,N/A,
+ia,61750000,Starmont CSD,0418-46,Starmont Elementary School,34.07%,,,N,N/A,
+ia,61750000,Starmont CSD,0109-54,Starmont High School,34.77%,,,N,N/A,
+ia,62190000,Storm Lake CSD,0409-62,East Elementary School,39.33%,,,N,N/A,
+ia,62190000,Storm Lake CSD,0801-0,Gingerbread Preschool,91.18%,,,N,N/A,
+ia,62190000,Storm Lake CSD,0418-47,Storm Lake Elementary  School,49.51%,,,N,N/A,
+ia,62190000,Storm Lake CSD,0109-55,Storm Lake High School,39.33%,,,N,N/A,
+ia,62190000,Storm Lake CSD,0209-45,Storm Lake Middle School,42.84%,,,N,N/A,
+ia,62460000,Stratford CSD,0409-63,Stratford Elementary School,40.98%,,,N,N/A,
+ia,62730000,Sumner-Fredericksburg CSD,0409-64,Durant Elementary School,34.06%,,,N,N/A,
+ia,62730000,Sumner-Fredericksburg CSD,0418-48,Fredericksburg Elem,36.71%,,,N,N/A,
+ia,00098302,Timothy Christian School,8302,Timothy Christian School,37.04%,,,N,N/A,
+ia,64080000,Tipton CSD,0409-65,Tipton Elementary School,31.56%,,,N,N/A,
+ia,64620000,Tri-County CSD-Thornburg,0109-56,Tri-County Jr/Sr High School,59.43%,,,N,N/A,
+ia,64710000,Tripoli CSD,0418-49,Tripoli Elementary School,31.84%,,,N,N/A,
+ia,65120000,Twin Cedars CSD,0418-50,Twin Cedars Elementary School,46.67%,,,N,N/A,
+ia,65120000,Twin Cedars CSD,0109-57,Twin Cedars Jr-Sr High School,33.33%,,,N,N/A,
+ia,65160000,Twin Rivers CSD,0409-66,Twin River Elementary School,65.15%,,,N,N/A,
+ia,65790000,Urbandale CSD,0418-51,Jensen Elementary School,45.31%,,,N,N/A,
+ia,65790000,Urbandale CSD,0427-32,Karen Acres Elementary School,36.59%,,,N,N/A,
+ia,65790000,Urbandale CSD,0441,Rolling Green Elementary School,31.91%,,,N,N/A,
+ia,65920000,Van Buren County CSD,0427-33,Harmony Center,65.70%,,,N,N/A,
+ia,65920000,Van Buren County CSD,0109-58,Van Buren Community Senior High School,38.40%,,,N,N/A,
+ia,65920000,Van Buren County CSD,0418-52,Van Buren Elementary Douds Center,54.34%,,,N,N/A,
+ia,66510000,Villisca CSD,0218-11,Southwest Valley Middle School,38.73%,,,N,N/A,
+ia,66510000,Villisca CSD,0409-67,Sylvia Enarson Elementary School,52.11%,,,N,N/A,
+ia,66600000,Vinton-Shellsburg CSD,0421-0,Shellsburg Elementary School,34.69%,,,N,N/A,
+ia,66600000,Vinton-Shellsburg CSD,0409-68,Tilford Elementary School,30.45%,,,N,N/A,
+ia,67000000,Waco CSD,0409-69,Waco Elementary School,39.31%,,,N,N/A,
+ia,67000000,Waco CSD,0109-59,Waco High School,31.13%,,,N,N/A,
+ia,67590000,Wapello CSD,0418-53,Wapello Elementary School,46.61%,,,N,N/A,
+ia,67680000,Washington CSD,0409-70,Lincoln Upper Elementary School,40.00%,,,N,N/A,
+ia,67680000,Washington CSD,0418-54,Stewart Elementary School,33.05%,,,N,N/A,
+ia,67680000,Washington CSD,0209-46,Washington Junior High School,38.16%,,,N,N/A,
+ia,67950000,Waterloo CSD,8612,Bunger Middle School,52.85%,,59.00%,Y,421,222
+ia,67950000,Waterloo CSD,0213,Central Middle school,63.16%,,59.00%,Y,433,273
+ia,67950000,Waterloo CSD,0463-2,Cunningham Elementary,71.28%,,59.00%,Y,391,279
+ia,67950000,Waterloo CSD,0109-60,East High School,48.03%,,59.00%,Y,874,420
+ia,67950000,Waterloo CSD,0439-1,Elk Run Elementary School,47.57%,,59.00%,Y,171,81
+ia,67950000,Waterloo CSD,0127-4,Expo Alternative School,63.46%,,59.00%,Y,512,325
+ia,67950000,Waterloo CSD,0436-13,Fred Becker Elementary School,53.93%,,59.00%,Y,421,227
+ia,67950000,Waterloo CSD,0227-6,George Washington Carver Academy,70.58%,,59.00%,Y,459,324
+ia,67950000,Waterloo CSD,0554,Highland Elementary School,72.28%,,59.00%,Y,572,413
+ia,67950000,Waterloo CSD,0215,Hoover Middle School,37.67%,,59.00%,Y,861,324
+ia,67950000,Waterloo CSD,0490-3,Irving Elementary School,72.09%,,59.00%,Y,436,314
+ia,67950000,Waterloo CSD,0499-1,Kingsley Elementary School,32.43%,,59.00%,Y,347,113
+ia,67950000,Waterloo CSD,0508-2,Kittrell Elementary School,47.79%,,59.00%,Y,638,305
+ia,67950000,Waterloo CSD,0535-0,Lincoln Elementary School,69.38%,,59.00%,Y,463,321
+ia,67950000,Waterloo CSD,0550,Lou Henry Elementary School,49.51%,,59.00%,Y,420,208
+ia,67950000,Waterloo CSD,0553-1,Lowell Elementary School,64.69%,,59.00%,Y,285,184
+ia,67950000,Waterloo CSD,0565,Orange Elementary School,31.97%,,59.00%,Y,542,173
+ia,67950000,Waterloo CSD,0427-34,Poyner Elementary School,41.89%,,59.00%,Y,366,153
+ia,67950000,Waterloo CSD,0118-8,West High School,34.40%,,59.00%,Y,1613,555
+ia,68400000,Waverly-Shell Rock CSD,0436-14,Shell Rock Elementary School,30.29%,,,N,N/A,
+ia,68540000,Wayne CSD,0109-61,Wayne Community High School,35.45%,,,N,N/A,
+ia,68540000,Wayne CSD,0418-55,Wayne Elementary School,46.72%,,,N,N/A,
+ia,68670000,Webster City CSD,0445-14,Pleasant View Elementary School,39.54%,,,N,N/A,
+ia,68670000,Webster City CSD,0472-5,Sunset Heights Elementary School,39.22%,,,N,N/A,
+ia,68670000,Webster City CSD,0209-47,Webster City Middle School,32.60%,,,N,N/A,
+ia,69210000,West Bend-Mallard CSD,0109-62,West Bend-Mallard High School,32.96%,,,N,N/A,
+ia,69370000,West Burlington Ind School District,0409-71,West Burlington Elem School,35.73%,,,N,N/A,
+ia,69370000,West Burlington Ind School District,0109-63,West Burlington High School,33.91%,,,N,N/A,
+ia,69430000,West Central CSD,0109-64,West Central Charter High School,44.48%,,,N,N/A,
+ia,62640000,West Central Valley CSD,0409-72,Dexter Elementary School,30.39%,,,N,N/A,
+ia,62640000,West Central Valley CSD,0405-4,Stuart  Elementary School,33.47%,,,N,N/A,
+ia,62640000,West Central Valley CSD,0109-65,West Central Valley High School,30.16%,,,N,N/A,
+ia,69500000,West Delaware County CSD,0427-35,Lambert Elementary School,46.64%,,,N,N/A,
+ia,69570000,West Des Moines CSD,0418-56,Clive South Elementary School,43.70%,,,N,N/A,
+ia,69570000,West Des Moines CSD,0427-36,Crestview Elementary School,54.09%,,,N,N/A,
+ia,69570000,West Des Moines CSD,0447,Hillside Elementary,45.90%,,,N,N/A,
+ia,69570000,West Des Moines CSD,0218-12,Indian Hills Junior High School,35.13%,,,N,N/A,
+ia,69570000,West Des Moines CSD,0118-9,Walnut Creek Campus,53.54%,,,N,N/A,
+ia,59220000,West Fork CSD,0109-66,West Fork High School,66.33%,,,N,N/A,
+ia,69690000,West Harrison CSD,0109-67,West Harrison High School,34.44%,,,N,N/A,
+ia,69750000,West Liberty CSD,0409-73,West Elementary School,32.91%,,,N,N/A,
+ia,69750000,West Liberty CSD,0427-37,West Liberty Early Childhood Center,47.75%,,,N,N/A,
+ia,69870000,West Monona CSD,0409-74,West Monona Elementary School,41.21%,,,N,N/A,
+ia,69870000,West Monona CSD,0109-68,West Monona MS/HS,40.16%,,,N,N/A,
+ia,69900000,West Sioux CSD,0409-75,Hawarden Elementary School,41.74%,,,N,N/A,
+ia,69900000,West Sioux CSD,0418-57,Ireton Elementary School,34.76%,,,N,N/A,
+ia,69610000,Western Dubuque CSD,0427-38,Dyersville Elementary School,35.85%,,,N,N/A,
+ia,70020000,Whiting CSD,0109-69,Whiting Senior High School,40.00%,,,N,N/A,
+ia,70470000,Winfield-Mt Union CSD,0172-23,Winfield-Mt Union Jr-Sr High School,44.42%,,,N,N/A,
+ia,70920000,Woodbine CSD,0409-76,Woodbine Elementary School,34.18%,,,N,N/A,
+ia,71100000,Woodward-Granger CSD,0996,Grandwood School,36.96%,,,N,N/A,

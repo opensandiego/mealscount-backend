@@ -1,288 +1,280 @@
 state,District Code,District Name,School Code,School Name,individual_isp,proxy_isp,participating_in_cep,claiming_isp,total_enrolled,total_eligible
-hi,2406-6,Connections Public Charter School,396-PCS,Kress PCS,53.89%,,Y,63.11%,347,187
-hi,1434-6,DOE School Food Services Branch,134,Abraham Lincoln Elementary,42.18%,,N,,339,143
-hi,1434-6,DOE School Food Services Branch,224,Admiral Arthur W. Radford High,6.96%,,N,,1278,89
-hi,1434-6,DOE School Food Services Branch,335,Ahuimanu Elementary,20.00%,,N,,315,63
-hi,1434-6,DOE School Food Services Branch,200,Aiea Elementary,66.86%,,Y,62.81%,347,232
-hi,1434-6,DOE School Food Services Branch,202,Aiea High,23.60%,,N,,1000,236
-hi,1434-6,DOE School Food Services Branch,201,Aiea Intermediate,26.62%,,N,,586,156
-hi,1434-6,DOE School Food Services Branch,300,Aikahi Elementary,6.07%,,N,,461,28
-hi,1434-6,DOE School Food Services Branch,100,Aina Haina Elementary,8.46%,,N,,461,39
-hi,1434-6,DOE School Food Services Branch,101,Ala Wai Elementary,40.16%,,N,,381,153
-hi,1434-6,DOE School Food Services Branch,203,Aliamanu Elementary ,11.66%,,N,,609,71
-hi,1434-6,DOE School Food Services Branch,204,Aliamanu Middle,8.44%,,N,,711,60
-hi,1434-6,DOE School Food Services Branch,102,Aliiolani Elementary,21.27%,,N,,221,47
-hi,1434-6,DOE School Food Services Branch,227,Alvah A. Scott Elementary,25.66%,,N,,495,127
-hi,1434-6,DOE School Food Services Branch,250,August Ahrens Elementary,26.10%,,N,,1272,332
-hi,1434-6,DOE School Food Services Branch,251,Barbers Point Elementary,42.93%,,N,,552,237
-hi,1434-6,DOE School Food Services Branch,323,Benjamin Parker Elementary,37.50%,,N,,344,129
-hi,1434-6,DOE School Food Services Branch,324,Blanche Pope Elementary,59.76%,,Y,62.70%,238,142
-hi,1434-6,DOE School Food Services Branch,104,Central Middle School,57.80%,,Y,62.81%,416,240
-hi,1434-6,DOE School Food Services Branch,448,Chiefess Kamakahelei Middle,22.05%,,N,,975,215
-hi,1434-6,DOE School Food Services Branch,367,Chiefess Kapiolani Elementary,70.05%,,Y,62.81%,376,263
-hi,1434-6,DOE School Food Services Branch,207,Danile K. Inouye Elementary,2.03%,,N,,740,15
-hi,1434-6,DOE School Food Services Branch,451,Eleele Elementary,26.74%,,N,,516,138
-hi,1434-6,DOE School Food Services Branch,463,Elsie H. Wilcox Elementary,26.77%,,N,,833,223
-hi,1434-6,DOE School Food Services Branch,302,Enchanted Lake Elementary,20.45%,,N,,401,82
-hi,1434-6,DOE School Food Services Branch,351,Ernest Bowen de Silva Elementary,19.96%,,N,,466,93
-hi,1434-6,DOE School Food Services Branch,254,Ewa Beach Elementary,20.78%,,N,,799,166
-hi,1434-6,DOE School Food Services Branch,253,Ewa Elementary,32.11%,,N,,1090,350
-hi,1434-6,DOE School Food Services Branch,296,Ewa Makai Middle ,16.59%,,N,,874,145
-hi,1434-6,DOE School Food Services Branch,152,George Washington Middle,34.23%,,N,,780,267
-hi,1434-6,DOE School Food Services Branch,235,Gustave H. Webling Elementary,15.71%,,N,,471,74
-hi,1434-6,DOE School Food Services Branch,352,Haaheo Elementary,46.19%,,N,,197,91
-hi,1434-6,DOE School Food Services Branch,108,Hahaione Elementary,6.05%,,N,,562,34
-hi,1434-6,DOE School Food Services Branch,401,Haiku Elementary,35.17%,,N,,472,166
-hi,1434-6,DOE School Food Services Branch,206,Haleiwa Elementary,30.71%,,N,,241,74
-hi,1434-6,DOE School Food Services Branch,402,Hana High and Elementary,42.11%,,Y,62.70%,378,159
-hi,1434-6,DOE School Food Services Branch,452,Hanalei Elementary,19.72%,,N,,284,56
-hi,1434-6,DOE School Food Services Branch,303,Hauula Elementary,42.07%,,N,,347,146
-hi,1434-6,DOE School Food Services Branch,470,Hawaii School for the Deaf and the Blind,46.43%,,N,,56,26
-hi,1434-6,DOE School Food Services Branch,304,Heeia Elementary,36.00%,,N,,461,166
-hi,1434-6,DOE School Food Services Branch,208,Helemano Elementary,24.96%,,N,,565,141
-hi,1434-6,DOE School Food Services Branch,154,Henry J. Kaiser High,6.84%,,N,,1125,77
-hi,1434-6,DOE School Food Services Branch,400,Henry Perrine Baldwin High,20.96%,,N,,1360,285
-hi,1434-6,DOE School Food Services Branch,255,Highlands Intermediate,24.15%,,N,,907,219
-hi,1434-6,DOE School Food Services Branch,355,Hilo High,45.28%,,N,,1122,508
-hi,1434-6,DOE School Food Services Branch,356,Hilo Intermediate,47.75%,,N,,511,244
-hi,1434-6,DOE School Food Services Branch,357,Hilo Union Elementary,73.20%,,Y,62.81%,446,326
-hi,1434-6,DOE School Food Services Branch,109,Hokulani Elementary,8.08%,,N,,334,27
-hi,1434-6,DOE School Food Services Branch,280,Holomua Elementary,20.52%,,N,,1194,245
-hi,1434-6,DOE School Food Services Branch,358,Holualoa Elementary,23.36%,,N,,518,121
-hi,1434-6,DOE School Food Services Branch,359,Honaunau Elementary,31.65%,,Y,62.81%,168,53
-hi,1434-6,DOE School Food Services Branch,361,Honokaa Elementary,43.00%,,N,,400,172
-hi,1434-6,DOE School Food Services Branch,360,Honokaa High and Intermediate,32.19%,,N,,640,206
-hi,1434-6,DOE School Food Services Branch,276,Honowai Elementary,39.55%,,N,,665,263
-hi,1434-6,DOE School Food Services Branch,293,Hookele Elementary,14.36%,,N,,766,110
-hi,1434-6,DOE School Food Services Branch,363,Hookena Elementary,55.46%,,Y,62.81%,114,63
-hi,1434-6,DOE School Food Services Branch,209,Horace Meek Hickam Elementary,0.50%,,N,,604,3
-hi,1434-6,DOE School Food Services Branch,404,Iao Intermediate,28.51%,,N,,954,272
-hi,1434-6,DOE School Food Services Branch,210,Iliahi Elementary,30.81%,,N,,370,114
-hi,1434-6,DOE School Food Services Branch,279,Ilima Intermediate,23.09%,,N,,862,199
-hi,1434-6,DOE School Food Services Branch,256,Iroquois Point Elementary,18.55%,,N,,733,136
-hi,1434-6,DOE School Food Services Branch,301,James B. Castle High,21.35%,,N,,1143,244
-hi,1434-6,DOE School Food Services Branch,252,James Campbell High,16.48%,,N,,3089,509
-hi,1434-6,DOE School Food Services Branch,153,John H. Wilson Elementary,5.06%,,N,,573,29
-hi,1434-6,DOE School Food Services Branch,107,Joseph J. Fern Elementary,59.59%,,Y,62.81%,435,259
-hi,1434-6,DOE School Food Services Branch,305,Kaaawa Elementary,22.50%,,N,,120,27
-hi,1434-6,DOE School Food Services Branch,211,Kaala Elementary,57.92%,,Y,62.81%,439,254
-hi,1434-6,DOE School Food Services Branch,330,Kaelepulu Elementary,11.00%,,N,,209,23
-hi,1434-6,DOE School Food Services Branch,113,Kaewai Elementary,67.18%,,Y,62.81%,316,212
-hi,1434-6,DOE School Food Services Branch,371,Kahakai Elementary,38.79%,,N,,758,294
-hi,1434-6,DOE School Food Services Branch,114,Kahala Elementary,8.42%,,N,,380,32
-hi,1434-6,DOE School Food Services Branch,306,Kahaluu Elementary,42.91%,,Y,62.81%,293,126
-hi,1434-6,DOE School Food Services Branch,331,Kahuku Elementary,35.81%,,N,,430,154
-hi,1434-6,DOE School Food Services Branch,307,Kahuku High and Intermediate,24.44%,,N,,1391,340
-hi,1434-6,DOE School Food Services Branch,405,Kahului Elementary,29.08%,,N,,980,285
-hi,1434-6,DOE School Food Services Branch,308,Kailua Elementary,34.35%,,N,,361,124
-hi,1434-6,DOE School Food Services Branch,309,Kailua High,25.14%,,N,,740,186
-hi,1434-6,DOE School Food Services Branch,310,Kailua Intermediate,15.70%,,N,,726,114
-hi,1434-6,DOE School Food Services Branch,281,Kaimiloa Elementary,31.58%,,N,,665,210
-hi,1434-6,DOE School Food Services Branch,115,Kaimuki High,39.15%,,N,,682,267
-hi,1434-6,DOE School Food Services Branch,116,Kaimuki Middle,8.18%,,N,,990,81
-hi,1434-6,DOE School Food Services Branch,311,Kainalu Elementary,17.27%,,N,,440,76
-hi,1434-6,DOE School Food Services Branch,453,Kalaheo Elementary,18.75%,,N,,464,87
-hi,1434-6,DOE School Food Services Branch,312,Kalaheo High,9.38%,,N,,778,73
-hi,1434-6,DOE School Food Services Branch,119,Kalani High,7.96%,,N,,1370,109
-hi,1434-6,DOE School Food Services Branch,365,Kalanianaole Elementary,64.48%,,Y,62.81%,331,213
-hi,1434-6,DOE School Food Services Branch,287,Kaleiopuu Elementary,24.38%,,N,,886,216
-hi,1434-6,DOE School Food Services Branch,120,Kalihi Elementary,63.07%,,Y,62.81%,251,158
-hi,1434-6,DOE School Food Services Branch,123,Kalihi Waena Elementary,50.00%,,N,,488,244
-hi,1434-6,DOE School Food Services Branch,121,Kalihi-Kai Elementary,40.31%,,N,,578,233
-hi,1434-6,DOE School Food Services Branch,122,Kalihi-Uka Elementary,32.19%,,N,,233,75
-hi,1434-6,DOE School Food Services Branch,431,Kamalii Elementary,21.57%,,N,,510,110
-hi,1434-6,DOE School Food Services Branch,155,Kamiloiki Elementary,9.23%,,N,,379,35
-hi,1434-6,DOE School Food Services Branch,313,Kaneohe Elementary,16.48%,,N,,613,101
-hi,1434-6,DOE School Food Services Branch,283,Kanoelani Elementary,20.67%,,N,,774,160
-hi,1434-6,DOE School Food Services Branch,454,Kapaa Elementary,36.74%,,N,,939,345
-hi,1434-6,DOE School Food Services Branch,455,Kapaa High,20.02%,,N,,1069,214
-hi,1434-6,DOE School Food Services Branch,447,Kapaa Middle,28.92%,,N,,581,168
-hi,1434-6,DOE School Food Services Branch,124,Kapalama Elementary,21.75%,,N,,593,129
-hi,1434-6,DOE School Food Services Branch,282,Kapolei Elementary,30.36%,,N,,863,262
-hi,1434-6,DOE School Food Services Branch,292,Kapolei High,20.92%,,N,,1969,412
-hi,1434-6,DOE School Food Services Branch,291,Kapolei Middle,28.11%,,N,,1526,429
-hi,1434-6,DOE School Food Services Branch,315,Kapunahala Elementary,24.19%,,N,,554,134
-hi,1434-6,DOE School Food Services Branch,368,Kau High & Pahala Elementary,48.68%,,Y,62.70%,512,249
-hi,1434-6,DOE School Food Services Branch,456,Kauai High,16.19%,,N,,1124,182
-hi,1434-6,DOE School Food Services Branch,125,Kauluwela Elementary,58.72%,,Y,62.81%,431,253
-hi,1434-6,DOE School Food Services Branch,369,Kaumana Elementary,48.06%,,N,,283,136
-hi,1434-6,DOE School Food Services Branch,407,Kaunakakai Elementary,50.64%,,Y,62.70%,313,159
-hi,1434-6,DOE School Food Services Branch,378,Ke Kula O Ehunuikaimalino,45.69%,,Y,62.81%,208,95
-hi,1434-6,DOE School Food Services Branch,353,Keaau Elementary,59.31%,,Y,62.70%,308,183
-hi,1434-6,DOE School Food Services Branch,354,Keaau High,52.98%,,Y,62.70%,1014,537
-hi,1434-6,DOE School Food Services Branch,370,Keaau Middle,61.43%,,Y,62.70%,727,447
-hi,1434-6,DOE School Food Services Branch,388,Kealakehe Elementary,48.45%,,N,,1003,486
-hi,1434-6,DOE School Food Services Branch,392,Kealakehe High,27.60%,,N,,1268,350
-hi,1434-6,DOE School Food Services Branch,390,Kealakehe Intermediate,36.24%,,N,,712,258
-hi,1434-6,DOE School Food Services Branch,372,Keaukaha Elementary,63.53%,,Y,62.81%,109,69
-hi,1434-6,DOE School Food Services Branch,458,Kekaha Elementary,40.28%,,Y,62.70%,323,130
-hi,1434-6,DOE School Food Services Branch,317,Keolu Elementary,31.33%,,N,,150,47
-hi,1434-6,DOE School Food Services Branch,391,Keonepoko Elementary,77.81%,,Y,62.70%,581,452
-hi,1434-6,DOE School Food Services Branch,294,Keoneula Elementary,15.15%,,N,,1036,157
-hi,1434-6,DOE School Food Services Branch,409,Kihei Elementary,24.97%,,N,,773,193
-hi,1434-6,DOE School Food Services Branch,459,Kilauea Elementary,25.88%,,N,,313,81
-hi,1434-6,DOE School Food Services Branch,410,Kilohana Elementary,61.25%,,Y,62.70%,82,50
-hi,1434-6,DOE School Food Services Branch,118,King David Kalakaua Middle,34.09%,,N,,1106,377
-hi,1434-6,DOE School Food Services Branch,406,King Kamehameha III Elementary,20.03%,,N,,739,148
-hi,1434-6,DOE School Food Services Branch,457,King Kaumualii Elementary,27.26%,,N,,609,166
-hi,1434-6,DOE School Food Services Branch,435,King Kekaulike High,22.61%,,N,,1079,244
-hi,1434-6,DOE School Food Services Branch,130,King Liholiho Elementary,15.07%,,N,,471,71
-hi,1434-6,DOE School Food Services Branch,135,King William Lunalilo Elementary,38.12%,,N,,362,138
-hi,1434-6,DOE School Food Services Branch,212,Kipapa Elementary ,31.69%,,N,,609,193
-hi,1434-6,DOE School Food Services Branch,395,Kohala Elementary,41.55%,,N,,349,145
-hi,1434-6,DOE School Food Services Branch,373,Kohala High,23.39%,,N,,248,58
-hi,1434-6,DOE School Food Services Branch,366,Kohala Middle,37.85%,,N,,177,67
-hi,1434-6,DOE School Food Services Branch,127,Koko Head Elementary,8.22%,,N,,304,25
-hi,1434-6,DOE School Food Services Branch,460,Koloa Elementary,27.39%,,N,,387,106
-hi,1434-6,DOE School Food Services Branch,375,Konawaena Elementary,36.25%,,N,,560,203
-hi,1434-6,DOE School Food Services Branch,374,Konawaena High,30.20%,,N,,808,244
-hi,1434-6,DOE School Food Services Branch,376,Konawaena Middle,30.78%,,N,,627,193
-hi,1434-6,DOE School Food Services Branch,412,Kula Elementary,27.99%,,N,,443,124
-hi,1434-6,DOE School Food Services Branch,103,Kula Kaiapuni O Anuenue,46.73%,,N,,443,207
-hi,1434-6,DOE School Food Services Branch,413,Lahaina Intermediate,19.48%,,N,,734,143
-hi,1434-6,DOE School Food Services Branch,414,Lahainaluna High,14.59%,,N,,987,144
-hi,1434-6,DOE School Food Services Branch,319,Laie Elementary,25.80%,,N,,659,170
-hi,1434-6,DOE School Food Services Branch,415,Lanai High & Elementary,24.57%,,Y,62.70%,580,143
-hi,1434-6,DOE School Food Services Branch,129,Lanakila Elementary,35.41%,,N,,401,142
-hi,1434-6,DOE School Food Services Branch,268,Lehua Elementary,36.08%,,N,,255,92
-hi,1434-6,DOE School Food Services Branch,271,Leihoku Elementary,50.66%,,Y,62.70%,858,435
-hi,1434-6,DOE School Food Services Branch,214,Leilehua High,21.10%,,N,,1687,356
-hi,1434-6,DOE School Food Services Branch,416,Lihikai Elementary,35.13%,,N,,874,307
-hi,1434-6,DOE School Food Services Branch,133,Linapuni Elementary,78.22%,,Y,62.70%,214,167
-hi,1434-6,DOE School Food Services Branch,430,Lokelani Intermediate,17.39%,,N,,575,100
-hi,1434-6,DOE School Food Services Branch,136,Maemae Elementary,12.39%,,N,,686,85
-hi,1434-6,DOE School Food Services Branch,257,Maili Elementary,59.62%,,Y,62.70%,789,470
-hi,1434-6,DOE School Food Services Branch,236,Major Sheldon Wheeler Elementary,5.25%,,N,,800,42
-hi,1434-6,DOE School Food Services Branch,237,Major Sheldon Wheeler Middle,4.08%,,N,,759,31
-hi,1434-6,DOE School Food Services Branch,258,Makaha Elementary,55.15%,,Y,62.70%,553,305
-hi,1434-6,DOE School Food Services Branch,259,Makakilo Elementary,28.99%,,N,,507,147
-hi,1434-6,DOE School Food Services Branch,215,Makalapa Elementary,12.54%,,N,,614,77
-hi,1434-6,DOE School Food Services Branch,417,Makawao Elementary,27.42%,,N,,558,153
-hi,1434-6,DOE School Food Services Branch,260,Manana Elementary,25.99%,,N,,377,98
-hi,1434-6,DOE School Food Services Branch,137,Manoa Elementary,6.86%,,N,,539,37
-hi,1434-6,DOE School Food Services Branch,418,Maui High,16.21%,,N,,1949,316
-hi,1434-6,DOE School Food Services Branch,428,Maui Waena Intermediate,25.47%,,N,,1178,300
-hi,1434-6,DOE School Food Services Branch,286,Mauka Lani Elementary,33.08%,,N,,650,215
-hi,1434-6,DOE School Food Services Branch,419,Maunaloa Elementary,81.82%,,Y,62.70%,36,29
-hi,1434-6,DOE School Food Services Branch,321,Maunawili Elementary,20.45%,,N,,357,73
-hi,1434-6,DOE School Food Services Branch,216,Mililani High,9.25%,,N,,2572,238
-hi,1434-6,DOE School Food Services Branch,240,Mililani Ike Elementary,3.35%,,N,,687,23
-hi,1434-6,DOE School Food Services Branch,241,Mililani Mauka Elementary,7.87%,,N,,813,64
-hi,1434-6,DOE School Food Services Branch,238,Mililani Middle,11.29%,,N,,1896,214
-hi,1434-6,DOE School Food Services Branch,242,Mililani Uka Elementary,13.97%,,N,,687,96
-hi,1434-6,DOE School Food Services Branch,234,Mililani Waena Elementary,15.59%,,N,,802,125
-hi,1434-6,DOE School Food Services Branch,217,Moanalua Elementary,8.85%,,N,,655,58
-hi,1434-6,DOE School Food Services Branch,218,Moanalua High,9.71%,,N,,1926,187
-hi,1434-6,DOE School Food Services Branch,219,Moanalua Middle,10.24%,,N,,820,84
-hi,1434-6,DOE School Food Services Branch,322,Mokapu Elementary,0.56%,,N,,897,5
-hi,1434-6,DOE School Food Services Branch,220,Mokulele Elementary,2.29%,,N,,306,7
-hi,1434-6,DOE School Food Services Branch,421,Molokai High,43.11%,,Y,62.70%,302,130
-hi,1434-6,DOE School Food Services Branch,434,Molokai Middle,49.24%,,Y,62.70%,200,98
-hi,1434-6,DOE School Food Services Branch,285,Momilani Elementary,6.92%,,N,,419,29
-hi,1434-6,DOE School Food Services Branch,379,Mountain View Elementary,76.11%,,Y,62.70%,492,374
-hi,1434-6,DOE School Food Services Branch,380,Na'alehu Elementary,72.61%,,Y,62.70%,423,307
-hi,1434-6,DOE School Food Services Branch,261,Nanaikapono Elementary,63.57%,,Y,62.70%,834,530
-hi,1434-6,DOE School Food Services Branch,262,Nanakuli Elementary,50.55%,,Y,62.70%,404,204
-hi,1434-6,DOE School Food Services Branch,263,Nanakuli High & Intermediate,49.22%,,Y,62.70%,1009,497
-hi,1434-6,DOE School Food Services Branch,221,Nimitz Elementary,1.00%,,N,,698,7
-hi,1434-6,DOE School Food Services Branch,139,Niu Valley Middle,6.94%,,N,,864,60
-hi,1434-6,DOE School Food Services Branch,140,Noelani Elementary,7.48%,,N,,468,35
-hi,1434-6,DOE School Food Services Branch,141,Nuuanu Elementary,6.04%,,N,,364,22
-hi,1434-6,DOE School Food Services Branch,475,Olomana School,47.79%,,Y,62.70%,127,61
-hi,1434-6,DOE School Food Services Branch,382,Paauilo Elementary & Intermediate,42.93%,,N,,198,85
-hi,1434-6,DOE School Food Services Branch,381,Pahoa Elementary,74.36%,,Y,62.70%,556,413
-hi,1434-6,DOE School Food Services Branch,383,Pahoa High & Intermediate,68.62%,,Y,62.70%,556,382
-hi,1434-6,DOE School Food Services Branch,422,Paia Elementary,37.81%,,N,,402,152
-hi,1434-6,DOE School Food Services Branch,264,Palisades Elementary,23.76%,,N,,442,105
-hi,1434-6,DOE School Food Services Branch,142,Palolo Elementary,84.40%,,Y,62.81%,266,225
-hi,1434-6,DOE School Food Services Branch,143,Pauoa Elementary,30.50%,,N,,282,86
-hi,1434-6,DOE School Food Services Branch,265,Pearl City Elementary,30.52%,,N,,426,130
-hi,1434-6,DOE School Food Services Branch,266,Pearl City High,16.79%,,N,,1572,264
-hi,1434-6,DOE School Food Services Branch,267,Pearl City Highlands Elementary,17.93%,,N,,552,99
-hi,1434-6,DOE School Food Services Branch,222,Pearl Harbor Elementary,12.83%,,N,,561,72
-hi,1434-6,DOE School Food Services Branch,223,Pearl Harbor Kai Elementary,1.51%,,N,,464,7
-hi,1434-6,DOE School Food Services Branch,243,Pearl Ridge Elementary,13.04%,,N,,537,70
-hi,1434-6,DOE School Food Services Branch,269,Pohakea Elementary,34.72%,,N,,527,183
-hi,1434-6,DOE School Food Services Branch,433,Pomaikai Elementary,10.31%,,N,,611,63
-hi,1434-6,DOE School Food Services Branch,126,Prince David Kawananakoa Middle,22.95%,,N,,767,176
-hi,1434-6,DOE School Food Services Branch,128,Prince Jonah Kuhio Elementary,46.35%,,N,,233,108
-hi,1434-6,DOE School Food Services Branch,131,Princess Miriam K. Likelike Elementary,48.70%,,N,,345,168
-hi,1434-6,DOE School Food Services Branch,429,Princess Nahienaena Elementary,22.11%,,N,,760,168
-hi,1434-6,DOE School Food Services Branch,117,Princess Victoria Kaiulani Elementary,56.68%,,Y,62.81%,357,202
-hi,1434-6,DOE School Food Services Branch,426,Pukalani Elementary,32.69%,,N,,416,136
-hi,1434-6,DOE School Food Services Branch,314,Puohala Elementary,41.18%,,N,,272,112
-hi,1434-6,DOE School Food Services Branch,436,Pu'u Kukui Elementary,22.10%,,N,,792,175
-hi,1434-6,DOE School Food Services Branch,145,Puuhale Elementary,48.71%,,Y,62.81%,241,117
-hi,1434-6,DOE School Food Services Branch,112,Queen Kaahumanu Elementary,47.18%,,N,,532,251
-hi,1434-6,DOE School Food Services Branch,225,Red Hill Elementary,12.77%,,N,,470,60
-hi,1434-6,DOE School Food Services Branch,148,Robert Louis Stevenson Middle,30.34%,,N,,646,196
-hi,1434-6,DOE School Food Services Branch,147,Royal Elementary,35.53%,,N,,380,135
-hi,1434-6,DOE School Food Services Branch,239,Salt Lake Elementary,24.02%,,N,,737,177
-hi,1434-6,DOE School Food Services Branch,420,Samuel Enoka Kalama Intermediate,33.06%,,N,,859,284
-hi,1434-6,DOE School Food Services Branch,226,Samuel K. Solomon Elementary,1.12%,,N,,891,10
-hi,1434-6,DOE School Food Services Branch,318,Samuel Wilder King Intermediate,27.92%,,N,,616,172
-hi,1434-6,DOE School Food Services Branch,105,Sanford B. Dole Middle,53.34%,,Y,62.81%,743,396
-hi,1434-6,DOE School Food Services Branch,325,Sunset Beach Elementary,17.87%,,N,,442,79
-hi,1434-6,DOE School Food Services Branch,146,Theodore Roosevelt High,21.19%,,N,,1364,289
-hi,1434-6,DOE School Food Services Branch,111,Thomas Jefferson Elementary,36.63%,,N,,374,137
-hi,1434-6,DOE School Food Services Branch,229,Wahiawa Elementary,44.75%,,N,,476,213
-hi,1434-6,DOE School Food Services Branch,230,Wahiawa Middle,41.92%,,N,,792,332
-hi,1434-6,DOE School Food Services Branch,326,Waiahole Elementary,52.17%,,N,,92,48
-hi,1434-6,DOE School Food Services Branch,384,Waiakea Elementary,45.93%,,N,,884,406
-hi,1434-6,DOE School Food Services Branch,389,Waiakea High,30.71%,,N,,1221,375
-hi,1434-6,DOE School Food Services Branch,385,Waiakea Intermediate,36.18%,,N,,854,309
-hi,1434-6,DOE School Food Services Branch,386,Waiakeawaena Elementary,43.96%,,N,,728,320
-hi,1434-6,DOE School Food Services Branch,231,Waialua Elementary,20.67%,,N,,566,117
-hi,1434-6,DOE School Food Services Branch,232,Waialua High & Intermediate,16.52%,,N,,666,110
-hi,1434-6,DOE School Food Services Branch,270,Waianae Elementary,68.77%,,Y,62.70%,506,348
-hi,1434-6,DOE School Food Services Branch,272,Waianae High,47.29%,,Y,62.70%,1673,791
-hi,1434-6,DOE School Food Services Branch,273,Waianae Intermediate,59.11%,,Y,62.70%,951,562
-hi,1434-6,DOE School Food Services Branch,288,Waiau Elementary,30.63%,,N,,480,147
-hi,1434-6,DOE School Food Services Branch,424,Waihee Elementary,36.45%,,N,,716,261
-hi,1434-6,DOE School Food Services Branch,290,Waikele Elementary,22.79%,,N,,610,139
-hi,1434-6,DOE School Food Services Branch,150,Waikiki Elementary,8.95%,,N,,592,53
-hi,1434-6,DOE School Food Services Branch,393,Waikoloa Elementary and Middle,31.27%,,N,,841,263
-hi,1434-6,DOE School Food Services Branch,425,Wailuku Elementary,46.61%,,N,,693,323
-hi,1434-6,DOE School Food Services Branch,233,Waimalu Elementary,33.85%,,N,,452,153
-hi,1434-6,DOE School Food Services Branch,327,Waimanalo Elementary & Intermediate,53.14%,,Y,62.70%,428,227
-hi,1434-6,DOE School Food Services Branch,464,Waimea Canyon Middle,28.82%,,N,,458,132
-hi,1434-6,DOE School Food Services Branch,387,Waimea Elementary,46.45%,,Y,62.81%,543,252
-hi,1434-6,DOE School Food Services Branch,462,Waimea High,22.16%,,N,,564,125
-hi,1434-6,DOE School Food Services Branch,274,Waipahu Elementary,56.30%,,Y,62.81%,1086,611
-hi,1434-6,DOE School Food Services Branch,277,Waipahu High,22.80%,,N,,2531,577
-hi,1434-6,DOE School Food Services Branch,278,Waipahu Intermediate,30.20%,,N,,1308,395
-hi,1434-6,DOE School Food Services Branch,106,Wallace Rider Farrington High,32.89%,,N,,2232,734
-hi,1434-6,DOE School Food Services Branch,399,West Hawaii Explorations Academy,24.08%,,N,,245,59
-hi,1434-6,DOE School Food Services Branch,138,William McKinley High,28.37%,,N,,1572,446
-hi,1434-6,DOE School Food Services Branch,110,William P. Jarrett Middle,51.71%,,Y,62.81%,259,134
-hi,1434-6,DOE School Food Services Branch,228,William R. Shafter Elementary,1.09%,,N,,460,5
-hi,2413-6,Hawaii Academy of Arts & Sciences PCS,561-PCS,Hawaii Academy of Arts & Sciences,51.08%,,Y,57.34%,628,321
-hi,1443-5,Ho'okako'o Schools,275-PCS,Kamaile Academy PCS,67.58%,,Y,68.99%,934,631
-hi,1443-5,Ho'okako'o Schools,411-PCS,Kualapu'u Elementary PCS,61.33%,,Y,68.99%,345,212
-hi,1443-5,Ho'okako'o Schools,394-PCS,Waimea Middle Public Conversion Charter School,42.56%,,Y,68.99%,256,109
-hi,2410-4,Ka 'Umeke Ka'eo PCS,707-PCS,Keaukaha Elementary PCS,75.00%,,Y,57.21%,109,82
-hi,2410-4,Ka 'Umeke Ka'eo PCS,562-PCS,Pa Hoaka PCS,52.21%,,Y,57.21%,99,52
-hi,1433-8,Ka Waihona o ka Na'auao PCS,545-PCS,Ka Waihona o ka Na'auao PCS,36.51%,,N,,630,230
-hi,1444-3,Kamalani Academy PCS,553-PCS,Kamalani Academy PCS,12.36%,,N,,267,33
-hi,1436-2,Kaohao PCS,320-PCS,Ka'ohao PCS,6.63%,,N,,332,22
-hi,2411-2,Ke Ana La'ahana PCS,549-PCS,Ke Ana La'ahana PCS,68.42%,,Y,68.42%,36,25
-hi,4407-5,Ke Kula Ni'ihau O Kekaha Learning Center PCS,556-PCS,Ke Kula Ni'ihau O Kekaha Learning Center PCS,48.39%,,Y,64.71%,49,24
-hi,2414-7,Ke Kula O Nawahikalaniopu'u Iki Lab PCS,701-PCS,Alo Kehau O Ka 'Aina Mauna PCS,38.90%,,N,,36,14
-hi,2414-7,Ke Kula O Nawahikalaniopu'u Iki Lab PCS,720-PCS,Ke Kula 'o Nawahiokalaniopu'u Iki PCS,43.19%,,N,,345,149
-hi,2414-7,Ke Kula O Nawahikalaniopu'u Iki Lab PCS,702-PCS,Ma'ilikukahi,34.15%,,N,,41,14
-hi,3406-1,Kihei PCS,554-PCS,Kihei PCS,12.11%,,N,,446,54
-hi,2417-1,Kona Pacific PCS,566-PCS,Kona Pacific PCS,32.43%,,N,,222,72
-hi,2415-5,Kua O Ka La PCS,557-PCS,Kua O Ka La,74.27%,,N,,206,153
-hi,2415-5,Kua O Ka La PCS,,Mauna Kea Kalapana Church PCS,,,Y,48.65%,20,
-hi,2415-5,Kua O Ka La PCS,-0,Nani Mau PCS,,,Y,48.65%,111,
-hi,2415-5,Kua O Ka La PCS,-1,Pu'ula Church PCS,,,Y,48.65%,17,
-hi,2418-0,Laupahoehoe Community PCS,377-PCS,Laupahoehoe Community PCS,50.75%,,Y,69.45%,275,140
-hi,1442-7,Malama Honua PCS,550-PCS,Malama Honua PCS,23.53%,,N,,102,24
-hi,2412-1,Na Wai Ola PCS,398-PCS,Na Wai Ola PCS,73.84%,,Y,77.11%,166,123
-hi,4405-9,St. Catherine School,803-PCS,St. Catherine School,11.96%,,N,,184,22
-hi,2401-5,St. Joseph School,805-PS,St. Joseph School,16.78%,,N,,304,51
-hi,2409-1,Volcano School of Arts & Sciences,-2,Keakealani Middle School PCS,,,Y,40.85%,74,
-hi,2409-1,Volcano School of Arts & Sciences,-3,Old Volcano Road PCS,,,Y,40.85%,139,
-hi,2409-1,Volcano School of Arts & Sciences,560-PCS,Volcano School of Arts & Sciences,38.24%,,N,,204,78
-hi,1422-2,Voyager PCS,541-PCS,Voyager PCS,15.79%,,N,,285,45
-hi,1429-0,Waialae Elementary PCS,149-PCS,Waialae Elementary PCS,10.69%,,N,,552,59
+hi,2406-6,Connections PCS,396-PCS,Connections PCS,59.17%,,63.11%,Y,360,213
+hi,2413-9,Hawaii Academy of Arts and Sciences PCS,561-PCS,Hawaii Academy of Arts and Sciences PCS,53.86%,,53.86%,Y,700,377
+hi,1443-5,Ho'okako'o Schools,275-PCS,Kamaile Academy PCS,67.46%,,68.99%,Y,965,651
+hi,1443-5,Ho'okako'o Schools,411-PCS,Kualapuu Elementary PCS,62.57%,,68.99%,Y,350,219
+hi,1443-5,Ho'okako'o Schools,394-PCS,Waimea Middle PCS,56.53%,,68.99%,Y,260,147
+hi,2410-4,Ka 'Umeke Ka'eo PCS,707-PCS,Ka 'Umeke Ka'eo PCS,58.41%,,60.67%,Y,239,140
+hi,2410-4,Ka 'Umeke Ka'eo PCS,562-PCS,Pa Hoaka PCS,58.33%,,,N,96,56
+hi,2411-2,Ke Ana La'ahana PCS,549-PCS,Ke Ana La'ahana PCS,47.83%,,78.72%,Y,46,22
+hi,4407-5,Ke Kula Ni'ihau O Kekaha Learning Center PCS,556-PCS,Ke Kula Ni'ihau O Kekaha Learning Center PCS,42.19%,,64.71%,Y,64,27
+hi,2414-7,Ke Kula O Nawahiokalaniopu'u Iki Laboratory PCS,701-PCS,Alo Kehau O ka 'Aina Mauna PCS,58.82%,,,N,34,20
+hi,2414-7,Ke Kula O Nawahiokalaniopu'u Iki Laboratory PCS,563-PCS,Ke Kula 'o Nawahiokalani'opu'u Iki PCS,46.92%,,,N,373,175
+hi,2414-7,Ke Kula O Nawahiokalaniopu'u Iki Laboratory PCS,702-PCS,Ma'ilikukahi,42.31%,,,N,52,22
+hi,2415-5,Kua 'O Ka La PCS,716-PCS,Kua 'O Ka La PCS,64.86%,,55.30%,Y,96,62
+hi,2415-5,Kua 'O Ka La PCS,718-PCS,Mauna Kea Kalapana Church,,,,N,,
+hi,2415-5,Kua 'O Ka La PCS,717-PCS,Pu'ula Church,63.64%,,,N,22,14
+hi,2418-0,Laupahoehoe Community PCS,377-PCS,Laupahoehoe Community PCS,53.53%,,69.45%,Y,241,129
+hi,2412-1 ,Na Wai Ola PCS,398-PCS,Na Wai Ola PCS,72.84%,,77.11%,Y,162,118
+hi,1434-6,State of Hawaii - Department of Education,134,Abraham Lincoln Elementary,45.32%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,224,Admiral Arthur W. Radford High,7.75%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,335,Ahuimanu Elementary,25.00%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,200,Aiea Elem School,68.69%,,62.50%,Y,313,215
+hi,1434-6,State of Hawaii - Department of Education,202,Aiea High,23.77%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,201,Aiea Intermediate,29.78%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,300,Aikahi Elementary,7.69%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,100,Aina Haina Elementary,9.69%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,101,Ala Wai Elementary,43.23%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,203,Aliamanu Elementary,14.77%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,204,Aliamanu Middle,8.66%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,102,Aliiolani Elementary,26.14%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,227,Alvah A. Scott Elementary,25.10%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,250,August Ahrens Elementary,27.10%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,251,Barbers Point Elementary,46.09%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,323,Benjamin Parker Elementary,39.35%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,103,Anuenue School,58.69%,,62.50%,Y,535,314
+hi,1434-6,State of Hawaii - Department of Education,221,Chester W. Nimitz Elementary,0.15%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,448,Chiefess Kamakahelei Middle,30.78%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,324,Blanche Pope Elementary,67.10%,,62.50%,Y,231,155
+hi,1434-6,State of Hawaii - Department of Education,207,Daniel K. Inouye Elementary,2.40%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,451,Eleele Elementary,31.01%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,463,Elsie H. Wilcox Elementary,34.97%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,302,Enchanted Lake Elementary,24.26%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,351,Ernest Bowen de Silva Elementary,19.88%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,254,Ewa Beach Elementary,23.19%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,253,Ewa Elementary,33.74%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,296,Ewa Makai Middle,20.85%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,152,George Washington Middle,38.18%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,235,Gustave H. Webling Elementary,12.47%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,352,Haaheo Elementary,34.17%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,108,Hahaione Elementary,8.51%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,401,Haiku Elementary,33.26%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,206,Haleiwa Elementary,33.33%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,104,Central Middle School,59.65%,,62.50%,Y,399,238
+hi,1434-6,State of Hawaii - Department of Education,452,Hanalei Elementary,32.47%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,303,Hauula Elementary,42.56%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,304,Heeia Elementary,35.56%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,208,Helemano Elementary,30.15%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,154,Henry J. Kaiser High,8.13%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,400,Henry Perrine Baldwin High,22.14%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,367,Chiefess Kapiolani Elementary,71.58%,,62.50%,Y,387,277
+hi,1434-6,State of Hawaii - Department of Education,255,Highlands Intermediate,22.67%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,355,Hilo High,41.22%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,402,Hana High & Elem School,45.12%,,52.57%,Y,379,171
+hi,1434-6,State of Hawaii - Department of Education,470,HI School for the Deaf & Blind,47.69%,,62.50%,Y,65,31
+hi,1434-6,State of Hawaii - Department of Education,109,Hokulani Elementary,10.91%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,280,Holomua Elementary,21.31%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,358,Holualoa Elementary,31.70%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,356,Hilo Inter School,50.00%,,52.57%,Y,526,263
+hi,1434-6,State of Hawaii - Department of Education,361,Honokaa Elementary,41.92%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,360,Honokaa High and Intermediate,40.54%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,297,Honouliuli Middle School,0.00%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,276,Honowai Elementary,41.13%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,293,Hookele Elementary,19.05%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,363,Hookena Elem School,66.13%,,62.50%,Y,124,82
+hi,1434-6,State of Hawaii - Department of Education,209,Horace Meek Hickam Elementary,0.00%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,404,Iao Intermediate,30.82%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,210,Iliahi Elementary,33.77%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,279,Ilima Intermediate,26.74%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,256,Iroquois Point Elementary,17.67%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,301,James B. Castle High,23.03%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,252,James Campbell High,17.78%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,153,John H. Wilson Elementary,5.71%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,357,Hilo Union Elem School,72.51%,,62.50%,Y,451,327
+hi,1434-6,State of Hawaii - Department of Education,305,Kaaawa Elementary,29.91%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,359,Honaunau Elem School,80.12%,,52.57%,Y,171,137
+hi,1434-6,State of Hawaii - Department of Education,330,Kaelepulu Elementary,12.04%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,107,Joseph J. Fern Elementary,58.96%,,62.50%,Y,424,250
+hi,1434-6,State of Hawaii - Department of Education,371,Kahakai Elementary,43.93%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,114,Kahala Elementary,10.95%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,211,Kaala Elem School,56.32%,,62.50%,Y,467,263
+hi,1434-6,State of Hawaii - Department of Education,331,Kahuku Elementary,28.71%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,307,Kahuku High & Intermediate,25.52%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,405,Kahului Elementary,29.38%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,308,Kailua Elementary,34.97%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,309,Kailua High,25.77%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,310,Kailua Intermediate,13.53%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,281,Kaimiloa Elementary,32.47%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,115,Kaimuki High,40.32%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,116,Kaimuki Middle,9.90%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,311,Kainalu Elementary,16.52%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,453,Kalaheo Elementary,33.01%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,312,Kalaheo High,9.77%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,119,Kalani High,9.43%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,113,Kaewai Elem School,63.81%,,62.50%,Y,315,201
+hi,1434-6,State of Hawaii - Department of Education,287,Kaleiopuu Elementary,30.47%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,306,Kahaluu Elem School,51.40%,,52.57%,Y,286,147
+hi,1434-6,State of Hawaii - Department of Education,121,Kalihi-kai Elementary,35.15%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,122,Kalihi-uka Elementary,31.56%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,365,Kalanianaole Elem & Inter,64.71%,,62.50%,Y,306,198
+hi,1434-6,State of Hawaii - Department of Education,431,Kamalii Elementary,18.11%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,155,Kamiloiki Elementary,7.11%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,313,Kaneohe Elementary,17.13%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,283,Kanoelani Elementary,18.99%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,454,Kapaa Elementary,39.24%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,455,Kapaa High,23.41%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,447,Kapaa Middle,30.08%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,124,Kapalama Elementary,26.34%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,282,Kapolei Elementary,31.45%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,292,Kapolei High,23.75%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,291,Kapolei Middle,30.01%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,315,Kapunahala Elementary,27.55%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,120,Kalihi Elem School,57.58%,,62.50%,Y,198,114
+hi,1434-6,State of Hawaii - Department of Education,456,Kauai High,25.00%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,123,Kalihi-Waena Elem School,51.76%,,52.57%,Y,510,264
+hi,1434-6,State of Hawaii - Department of Education,369,Kaumana Elementary,43.08%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,368,Kau High & Pahala Elem School,72.05%,,62.50%,Y,526,379
+hi,1434-6,State of Hawaii - Department of Education,125,Kauluwela Elem School,62.72%,,62.50%,Y,448,281
+hi,1434-6,State of Hawaii - Department of Education,407,Kaunakakai Elem School,60.37%,,62.50%,Y,328,198
+hi,1434-6,State of Hawaii - Department of Education,378,Ke Kula O Ehunuikaimalino,50.21%,,52.57%,Y,243,122
+hi,1434-6,State of Hawaii - Department of Education,353,Keaau Elem School,58.32%,,62.50%,Y,859,501
+hi,1434-6,State of Hawaii - Department of Education,354,Keaau High School,56.33%,,62.50%,Y,1035,583
+hi,1434-6,State of Hawaii - Department of Education,392,Kealakehe High,33.95%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,390,Kealakehe Intermediate,45.69%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,370,Keaau Middle School,62.76%,,62.50%,Y,760,477
+hi,1434-6,State of Hawaii - Department of Education,388,Kealakehe Elem School,55.60%,,52.57%,Y,955,531
+hi,1434-6,State of Hawaii - Department of Education,317,Keolu Elementary,29.37%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,372,Keaukaha Elem School,64.29%,,62.50%,Y,434,279
+hi,1434-6,State of Hawaii - Department of Education,294,Keoneula Elementary,15.62%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,409,Kihei Elementary,25.28%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,459,Kilauea Elementary,28.03%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,458,Kekaha Elem School,38.99%,,52.57%,Y,318,124
+hi,1434-6,State of Hawaii - Department of Education,118,King David Kalakaua Middle,33.18%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,406,King Kamehameha III Elementary,21.95%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,457,King Kaumualii Elementary,30.35%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,435,King Kekaulike High,22.51%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,130,King Liholiho Elementary,13.85%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,135,King William Lunalilo Elementary,45.15%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,212,Kipapa Elementary,31.90%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,395,Kohala Elementary,46.61%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,373,Kohala High,33.46%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,366,Kohala Middle,42.41%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,127,Koko Head Elementary,10.51%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,460,Koloa Elementary,36.39%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,375,Konawaena Elementary,44.11%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,374,Konawaena High,39.08%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,376,Konawaena Middle,43.30%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,391,Keonepoko Elem School,72.42%,,62.50%,Y,591,428
+hi,1434-6,State of Hawaii - Department of Education,410,Kilohana Elem School,59.21%,,62.50%,Y,76,45
+hi,1434-6,State of Hawaii - Department of Education,413,Lahaina Intermediate,21.29%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,414,Lahainaluna High,13.64%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,319,Laie Elementary,25.77%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,415,Lanai High & Elementary,22.88%,,,N,590,135
+hi,1434-6,State of Hawaii - Department of Education,129,Lanakila Elementary,31.23%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,268,Lehua Elementary,40.68%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,412,Kula Elem School,46.88%,,52.57%,Y,465,218
+hi,1434-6,State of Hawaii - Department of Education,214,Leilehua High,25.26%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,416,Lihikai Elementary,35.27%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,271,Leihoku Elem School,57.28%,,62.50%,Y,845,484
+hi,1434-6,State of Hawaii - Department of Education,430,Lokelani Intermediate,23.12%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,136,Maemae Elementary,10.61%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,133,Linapuni Elem School,74.33%,,52.57%,Y,187,139
+hi,1434-6,State of Hawaii - Department of Education,236,Major Sheldon Wheeler Elementary,3.98%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,237,Major Sheldon Wheeler Middle,4.42%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,257,Maili Elem School,57.16%,,62.50%,Y,719,411
+hi,1434-6,State of Hawaii - Department of Education,259,Makakilo Elementary,30.57%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,215,Makalapa Elementary,12.01%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,417,Makawao Elementary,32.84%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,260,Manana Elementary,23.68%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,137,Manoa Elementary,6.72%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,418,Maui High,17.14%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,428,Maui Waena Intermediate,23.08%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,286,Mauka Lani Elementary,31.91%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,258,Makaha Elem School,60.49%,,62.50%,Y,486,294
+hi,1434-6,State of Hawaii - Department of Education,321,Maunawili Elementary,20.94%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,216,Mililani High,9.80%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,240,Mililani Ike Elementary,3.00%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,241,Mililani Mauka Elementary,9.14%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,238,Mililani Middle,12.69%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,242,Mililani Uka Elementary,14.82%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,234,Mililani Waena Elementary,15.28%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,217,Moanalua Elementary,9.97%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,218,Moanalua High,10.17%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,219,Moanalua Middle,10.54%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,322,Mokapu Elementary,1.06%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,220,Mokulele Elementary,5.98%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,419,Maunaloa Elem School,78.13%,,52.57%,Y,32,25
+hi,1434-6,State of Hawaii - Department of Education,421,Molokai High School,45.82%,,52.57%,Y,323,148
+hi,1434-6,State of Hawaii - Department of Education,285,Momilani Elementary,6.39%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,434,Molokai Middle School,49.43%,,52.57%,Y,174,86
+hi,1434-6,State of Hawaii - Department of Education,379,Mountain View Elem School,74.16%,,62.50%,Y,503,373
+hi,1434-6,State of Hawaii - Department of Education,380,Naalehu Elem School,74.25%,,62.50%,Y,435,323
+hi,1434-6,State of Hawaii - Department of Education,261,Nanaikapono Elem School,65.97%,,62.50%,Y,764,504
+hi,1434-6,State of Hawaii - Department of Education,262,Nanakuli Elem School,53.16%,,52.57%,Y,412,219
+hi,1434-6,State of Hawaii - Department of Education,461,Niihau High & Elem School,18.18%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,139,Niu Valley Middle,8.44%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,140,Noelani Elementary,9.48%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,141,Nuuanu Elementary,9.75%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,263,Nanakuli High & Inter School,50.45%,,52.57%,Y,1007,508
+hi,1434-6,State of Hawaii - Department of Education,382,Paauilo Elementary & Intermediate,45.50%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,475,Olomana School,58.97%,,62.50%,Y,117,69
+hi,1434-6,State of Hawaii - Department of Education,381,Pahoa Elem School,77.78%,,52.57%,Y,405,315
+hi,1434-6,State of Hawaii - Department of Education,422,Paia Elementary,36.36%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,264,Palisades Elementary,25.06%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,383,Pahoa High & Inter School,68.62%,,62.50%,Y,615,422
+hi,1434-6,State of Hawaii - Department of Education,143,Pauoa Elementary,32.23%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,265,Pearl City Elementary,30.97%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,266,Pearl City High,21.17%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,267,Pearl City Highlands Elementary,18.60%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,222,Pearl Harbor Elementary,11.96%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,223,Pearl Harbor Kai Elementary,2.36%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,243,Pearl Ridge Elementary,13.69%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,269,Pohakea Elementary,34.98%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,433,Pomaikai Elementary,9.92%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,126,Prince David Kawananakoa Middle,25.03%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,142,Palolo Elem School,84.31%,,52.57%,Y,274,231
+hi,1434-6,State of Hawaii - Department of Education,128,Prince Jonah Kuhio Elementary,57.14%,,52.57%,Y,189,108
+hi,1434-6,State of Hawaii - Department of Education,429,Princess Nahienaena Elementary,25.86%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,131,Princess Miriam K. Likelike Elementary,51.81%,,62.50%,Y,332,172
+hi,1434-6,State of Hawaii - Department of Education,426,Pukalani Elementary,35.75%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,117,Princess Victoria Kaiulani Elementary,61.19%,,62.50%,Y,335,205
+hi,1434-6,State of Hawaii - Department of Education,314,Puohala Elementary,51.50%,,,N,266,137
+hi,1434-6,State of Hawaii - Department of Education,436,Puu Kukui Elementary,21.63%,,,N,,
+hi,state-of-hawaii---department-of-education,State of Hawaii - Department of Education,,Puohala Elem School,,,52.57%,Y,266,
+hi,1434-6,State of Hawaii - Department of Education,145,Puuhale Elementary,55.47%,,,N,247,137
+hi,1434-6,State of Hawaii - Department of Education,112,Queen Kaahumanu Elementary,46.30%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,225,Red Hill Elementary,10.21%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,148,Robert Louis Stevenson Middle,29.06%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,147,Royal Elementary,39.20%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,239,Salt Lake Elementary,27.07%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,420,Samuel Enoka Kalama Intermediate,32.67%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,226,Samuel K. Solomon Elementary,1.95%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,318,Samuel Wilder King Intermediate,31.45%,,,N,,
+hi,state-of-hawaii---department-of-education,State of Hawaii - Department of Education,-0,Puuhale Elem School,,,52.57%,Y,247,
+hi,1434-6,State of Hawaii - Department of Education,325,Sunset Beach Elementary,19.76%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,146,Theodore Roosevelt High,20.41%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,111,Thomas Jefferson Elementary,35.06%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,229,Wahiawa Elementary,45.54%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,230,Wahiawa Middle,38.61%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,326,Waiahole Elementary,42.86%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,105,Sanford B. Dole Middle,57.00%,,62.50%,Y,707,403
+hi,1434-6,State of Hawaii - Department of Education,389,Waiakea High,28.90%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,385,Waiakea Intermediate,38.05%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,386,Waiakeawaena Elementary,41.23%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,231,Waialua Elementary,22.08%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,232,Waialua High & Intermediate,19.49%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,384,Waiakea Elem School,47.47%,,52.57%,Y,870,413
+hi,1434-6,State of Hawaii - Department of Education,270,Waianae Elem School,70.06%,,62.50%,Y,471,330
+hi,state-of-hawaii---department-of-education,State of Hawaii - Department of Education,-1,Waianae High School,,,52.57%,Y,1731,
+hi,1434-6,State of Hawaii - Department of Education,273,Waianae Intermediate,55.91%,,,N,939,525
+hi,1434-6,State of Hawaii - Department of Education,288,Waiau Elementary,31.33%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,424,Waihee Elementary,39.74%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,290,Waikele Elementary,25.13%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,150,Waikiki Elementary,11.07%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,393,Waikoloa School,39.19%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,425,Wailuku Elementary,43.10%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,233,Waimalu Elementary,31.04%,,,N,,
+hi,state-of-hawaii---department-of-education,State of Hawaii - Department of Education,-2,Waianae Inter School,,,52.57%,Y,939,
+hi,1434-6,State of Hawaii - Department of Education,464,Waimea Canyon Middle,35.52%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,327,Waimanalo Elem & Inter School,56.14%,,62.50%,Y,415,233
+hi,1434-6,State of Hawaii - Department of Education,462,Waimea High,31.80%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,387,Waimea Elem School,51.13%,,52.57%,Y,532,272
+hi,1434-6,State of Hawaii - Department of Education,277,Waipahu High,23.61%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,278,Waipahu Intermediate,31.07%,,,N,1016,316
+hi,1434-6,State of Hawaii - Department of Education,106,Wallace Rider Farrington High,33.74%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,138,William McKinley High,32.63%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,274,Waipahu Elem School,57.68%,,62.50%,Y,1016,586
+hi,1434-6,State of Hawaii - Department of Education,228,William R. Shafter Elementary,1.13%,,,N,,
+hi,1434-6,State of Hawaii - Department of Education,110,William P. Jarrett Middle,49.43%,,52.57%,Y,263,130
+hi,2409-1,Volcano School of Arts and Sciences PCS,705-PCS,Keakealani Middle School PCS,40.79%,,,N,76,31
+hi,2409-1,Volcano School of Arts and Sciences PCS,560-PCS,Volcano School of Arts and Sciences PCS,47.83%,,44.44%,Y,261,125

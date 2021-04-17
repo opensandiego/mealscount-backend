@@ -1,1357 +1,455 @@
 state,District Code,District Name,School Code,School Name,individual_isp,proxy_isp,participating_in_cep,claiming_isp,total_enrolled,total_eligible
-al,103-0000,Alabaster City Board of Education,103-0010,Creek View Elementary,21.77%,,N,,,
-al,103-0000,Alabaster City Board of Education,103-0005,Meadow View Elementary,25.45%,,N,,,
-al,103-0000,Alabaster City Board of Education,103-0050,Thompson High School,13.26%,,N,,,
-al,103-0000,Alabaster City Board of Education,103-0020,Thompson Intermediate,20.20%,,N,,,
-al,103-0000,Alabaster City Board of Education,103-0040,Thompson Middle School,17.24%,,N,,,
-al,103-0000,Alabaster City Board of Education,103-0030,Thompson Sixth Grade Center,16.43%,,N,,,
-al,101-0000,Albertville City Board of Education,101-0200,Albertville Elementary School,42.43%,,Y,60.50%,854,362
-al,101-0000,Albertville City Board of Education,101-0020,Albertville High School,31.61%,,Y,40.79%,1293,409
-al,101-0000,Albertville City Board of Education,101-0010,Albertville Middle School,38.77%,,Y,40.79%,705,273
-al,101-0000,Albertville City Board of Education,101-0005,Albertville Primary School,54.93%,,Y,60.50%,1108,609
-al,101-0000,Albertville City Board of Education,101-0035,Big Spring Lake Elem School,43.58%,,Y,61.70%,517,225
-al,101-0000,Albertville City Board of Education,101-0110,Evans Elementary School,43.49%,,Y,50.00%,772,336
-al,102-0000,Alexander City Board of Education,102-0010,Alexander City Middle Sch,44.89%,,N,,421,189
-al,102-0000,Alexander City Board of Education,102-0020,Benjamin Russell High Sch,33.06%,,N,,856,283
-al,102-0000,Alexander City Board of Education,102-0030,Jim Pearson Elem School,65.89%,,N,,818,539
-al,102-0000,Alexander City Board of Education,102-0040,Nathaniel H Stephens Elem,54.21%,,N,,487,264
-al,102-0000,Alexander City Board of Education,102-0050,William L Radney Elem Sch,51.86%,,N,,484,251
-al,104-0000,Andalusia City Board of Education,104-0025,Andalusia Elementary School,49.48%,,N,,1055,522
-al,104-0000,Andalusia City Board of Education,104-0025-0,Andalusia Elementary School,49.48%,,N,,1055,522
-al,104-0000,Andalusia City Board of Education,104-0010,Andalusia High School,32.15%,,N,,507,163
-al,104-0000,Andalusia City Board of Education,104-0010-0,Andalusia High School,32.15%,,N,,507,163
-al,104-0000,Andalusia City Board of Education,104-0020,Andalusia Junior High School,39.18%,,N,,268,105
-al,104-0000,Andalusia City Board of Education,104-0020-0,Andalusia Junior High School,39.18%,,N,,268,105
-al,105-0000,Anniston City Board of Education,105-0010,Anniston High School,70.98%,,Y,78.73%,457,324
-al,105-0000,Anniston City Board of Education,105-0015,Anniston Middle School,72.92%,,Y,78.73%,340,248
-al,105-0000,Anniston City Board of Education,105-0025,Cobb Pre-K Academy,100.00%,,Y,78.73%,139,139
-al,105-0000,Anniston City Board of Education,,Constantine Elementary Sch,,,Y,78.73%,,
-al,105-0000,Anniston City Board of Education,105-0060,Golden Springs Elem School,76.92%,,Y,78.73%,371,285
-al,105-0000,Anniston City Board of Education,105-0110,Randolph Park Elem School,78.50%,,Y,78.73%,320,251
-al,105-0000,Anniston City Board of Education,105-0130,Tenth St Elementary School,81.42%,,Y,78.73%,352,287
-al,106-0000,Arab City Board of Education,106-0010,Arab Elementary School,23.94%,,N,,,
-al,106-0000,Arab City Board of Education,106-0020,Arab High School,13.52%,,N,,,
-al,106-0000,Arab City Board of Education,106-0030,Arab Junior High School,19.90%,,N,,,
-al,106-0000,Arab City Board of Education,106-0040,Arab Primary School,39.29%,,N,,700,275
-al,107-0000,Athens City Board of Education,107-0010,Athens Elementary School,56.45%,,N,,372,210
-al,107-0000,Athens City Board of Education,107-0030,Athens High School,24.95%,,N,,,
-al,107-0000,Athens City Board of Education,107-0015,Athens Intermediate Sch,34.35%,,N,,620,213
-al,107-0000,Athens City Board of Education,107-0020,Athens Middle School,29.82%,,N,,,
-al,107-0000,Athens City Board of Education,107-0025,Athens Renaissance School,17.56%,,N,,,
-al,107-0000,Athens City Board of Education,107-0035,Brookhill Elementary School,28.89%,,N,,,
-al,107-0000,Athens City Board of Education,107-0050,James L Cowart Elem School,29.59%,,N,,,
-al,107-0000,Athens City Board of Education,107-0040,Julian Newman Elem School,37.00%,,N,,300,111
-al,109-0000,Attalla City Board of Education,109-0025,Etowah High School,32.29%,,N,,542,175
-al,109-0000,Attalla City Board of Education,109-0026,Etowah Middle School,39.29%,,N,,364,143
-al,109-0000,Attalla City Board of Education,109-0040,Stowers Hill Intermediate,53.58%,,N,,601,322
-al,110-0000,Auburn City Board of Education,110-0005,Auburn Early Ed Facility,28.57%,,N,,,
-al,110-0000,Auburn City Board of Education,110-0010,Auburn High School,10.13%,,N,,,
-al,110-0000,Auburn City Board of Education,110-0020,Auburn Jr. High School,14.55%,,N,,,
-al,110-0000,Auburn City Board of Education,110-0040,Cary Woods Elementary Sch,20.75%,,N,,,
-al,110-0000,Auburn City Board of Education,110-0085,Creekside Elementary School,19.08%,,N,,,
-al,110-0000,Auburn City Board of Education,110-0050,Dean Rd Elementary School,16.47%,,N,,,
-al,110-0000,Auburn City Board of Education,110-0060,Drake Middle School,15.06%,,N,,,
-al,110-0000,Auburn City Board of Education,110-0055,East Samford School,16.92%,,N,,,
-al,110-0000,Auburn City Board of Education,110-0080,Margaret Yarbrough School,21.52%,,N,,,
-al,110-0000,Auburn City Board of Education,110-0065,Ogletree School,11.81%,,N,,,
-al,110-0000,Auburn City Board of Education,110-0045,Pick Elementary School,18.01%,,N,,,
-al,110-0000,Auburn City Board of Education,110-0075,Richland Elementary School,27.18%,,N,,,
-al,110-0000,Auburn City Board of Education,110-0070,Wrights Mill Rd Elem School,17.07%,,N,,,
-al,001-0000,Autauga County Board of Education,001-0015,Autaugaville School,66.39%,,N,,244,162
-al,001-0000,Autauga County Board of Education,001-K001,Autaugaville School,66.39%,,N,,244,162
-al,001-0000,Autauga County Board of Education,001-0040,Billingsley High School,47.32%,,N,,596,282
-al,001-0000,Autauga County Board of Education,001-0065,Daniel Pratt Elementary,25.55%,,N,,,
-al,001-0000,Autauga County Board of Education,001-0050,Marbury High School,24.26%,,N,,,
-al,001-0000,Autauga County Board of Education,001-0052,Marbury Middle School,31.25%,,N,,448,140
-al,001-0000,Autauga County Board of Education,001-0055,Pine Level Elementary,37.13%,,N,,940,349
-al,001-0000,Autauga County Board of Education,001-0060,Prattville Elementary Sch,33.67%,,N,,603,203
-al,001-0000,Autauga County Board of Education,001-0086,Prattville High School,21.33%,,N,,,
-al,001-0000,Autauga County Board of Education,001-0070,Prattville Intermediate Sch,33.72%,,N,,611,206
-al,001-0000,Autauga County Board of Education,001-0080,Prattville Junior High Sch,25.18%,,N,,,
-al,001-0000,Autauga County Board of Education,001-0085,Prattville Kindergarten Sch,42.71%,,N,,473,202
-al,001-0000,Autauga County Board of Education,001-0090,Prattville Primary School,30.37%,,N,,629,191
-al,002-0000,Baldwin County Board of Education,002-0005,Baldwin County High School,30.94%,,N,,1060,328
-al,002-0000,Baldwin County Board of Education,002-0015,Bay Minette Elementary,51.21%,,N,,867,444
-al,002-0000,Baldwin County Board of Education,002-0012,Bay Minette Middle School,43.57%,,N,,482,210
-al,002-0000,Baldwin County Board of Education,002-0025,Central Baldwin Middle Sch,33.14%,,N,,694,230
-al,002-0000,Baldwin County Board of Education,002-0042,Daphne East Elem School ,16.43%,,N,,,
-al,002-0000,Baldwin County Board of Education,002-0041,Daphne Elem School ,37.80%,,N,,738,279
-al,002-0000,Baldwin County Board of Education,002-0035,Daphne High School,15.47%,,N,,,
-al,002-0000,Baldwin County Board of Education,002-0037,Daphne Middle School,18.59%,,N,,,
-al,002-0000,Baldwin County Board of Education,002-0045,Delta Elementary School,50.23%,,N,,221,111
-al,002-0000,Baldwin County Board of Education,002-0047,Elberta Elementary School,34.58%,,N,,853,295
-al,002-0000,Baldwin County Board of Education,002-0050,Elberta High School,29.21%,,N,,,
-al,002-0000,Baldwin County Board of Education,002-0060,Elsanor School,43.85%,,N,,358,157
-al,002-0000,Baldwin County Board of Education,002-0073,Fairhope Elem School,21.08%,,N,,,
-al,002-0000,Baldwin County Board of Education,002-0065,Fairhope High School,12.45%,,N,,,
-al,002-0000,Baldwin County Board of Education,002-0071,Fairhope Intermediate Sch,14.95%,,N,,,
-al,002-0000,Baldwin County Board of Education,002-0070,Fairhope Middle Sch,13.89%,,N,,,
-al,002-0000,Baldwin County Board of Education,002-0078,Foley Elementary,51.57%,,N,,1340,691
-al,002-0000,Baldwin County Board of Education,002-0083,Foley High School,29.35%,,N,,,
-al,002-0000,Baldwin County Board of Education,002-0085,Foley Intermediate,44.40%,,N,,545,242
-al,002-0000,Baldwin County Board of Education,002-0080,Foley Middle School,39.37%,,N,,762,300
-al,002-0000,Baldwin County Board of Education,002-0087,Gulf Shores Elementary Sch,27.57%,,N,,,
-al,002-0000,Baldwin County Board of Education,002-0089,Gulf Shores High School,12.65%,,N,,,
-al,002-0000,Baldwin County Board of Education,002-0086,Gulf Shores Middle School,17.32%,,N,,,
-al,002-0000,Baldwin County Board of Education,002-0135,J Larry Newton School,28.02%,,N,,,
-al,002-0000,Baldwin County Board of Education,002-0088,Loxley Elementary,46.03%,,N,,504,232
-al,002-0000,Baldwin County Board of Education,002-0093,Magnolia Elementary School,47.39%,,N,,842,399
-al,002-0000,Baldwin County Board of Education,002-0095,Orange Beach Elementary,13.36%,,N,,,
-al,002-0000,Baldwin County Board of Education,002-0100,Perdido Elementary School,40.61%,,N,,527,214
-al,002-0000,Baldwin County Board of Education,002-0105,Pine Grove Elementary Sch,65.61%,,N,,506,332
-al,002-0000,Baldwin County Board of Education,002-0115,Robertsdale Elementary Sch,42.06%,,N,,1089,458
-al,002-0000,Baldwin County Board of Education,002-0117,Robertsdale High School,24.73%,,N,,,
-al,002-0000,Baldwin County Board of Education,002-0119,Rockwell Elementary,11.52%,,N,,,
-al,002-0000,Baldwin County Board of Education,002-0120,Rosinton School,32.16%,,N,,283,91
-al,002-0000,Baldwin County Board of Education,002-0130,Silverhill School,37.83%,,N,,452,171
-al,002-0000,Baldwin County Board of Education,002-0140,Spanish Fort Elem School,15.73%,,N,,,
-al,002-0000,Baldwin County Board of Education,002-0145,Spanish Fort High,8.04%,,N,,,
-al,002-0000,Baldwin County Board of Education,002-0142,Spanish Fort Middle School,9.21%,,N,,,
-al,002-0000,Baldwin County Board of Education,002-0150,Stapleton School,36.98%,,N,,192,71
-al,002-0000,Baldwin County Board of Education,002-0160,Summerdale Elementary Sch,45.74%,,N,,551,252
-al,002-0000,Baldwin County Board of Education,002-0170,Swift Elem School,45.30%,,N,,117,53
-al,002-0000,Baldwin County Board of Education,002-0040,W.J. Carroll Intermediate,30.13%,,N,,468,141
-al,003-0000,Barbour County Board of Education,003-0025,Barbour County  Primary School,83.44%,,Y,79.76%,278,232
-al,003-0000,Barbour County Board of Education,003-0020,Barbour County High School,72.07%,,Y,79.76%,323,233
-al,003-0000,Barbour County Board of Education,003-0035,Barbour County Intermediate School,76.77%,,Y,79.76%,244,187
-al,113-0000,Bessemer City Board of Education,113-0015,Abrams Elementary School,81.57%,,Y,72.45%,346,282
-al,113-0000,Bessemer City Board of Education,113-0080,Bessemer City High School,63.40%,,Y,72.45%,997,632
-al,113-0000,Bessemer City Board of Education,113-0040,Bessemer City Middle School,67.06%,,Y,72.45%,742,498
-al,113-0000,Bessemer City Board of Education,113-0065,Charles F Hard Elem Sch,91.76%,,Y,72.45%,322,295
-al,113-0000,Bessemer City Board of Education,113-0060,Greenwood Elementary School,58.48%,,Y,72.45%,275,161
-al,113-0000,Bessemer City Board of Education,113-0090,Jonesboro Elementary School,77.43%,,Y,72.45%,575,445
-al,113-0000,Bessemer City Board of Education,-0,New Horizon/Alt Spec. Ed.,,,Y,72.45%,,
-al,113-0000,Bessemer City Board of Education,113-0120,Westhills Elementary School,60.77%,,Y,72.45%,348,211
-al,004-0000,Bibb County Board of Education,004-0010,Bibb County High School,36.79%,,N,,492,181
-al,004-0000,Bibb County Board of Education,004-0040,Brent Elementary School,50.18%,,N,,556,279
-al,004-0000,Bibb County Board of Education,004-0030,Centreville Middle Sch,44.85%,,N,,515,231
-al,004-0000,Bibb County Board of Education,004-0050,Randolph Elementary School,46.19%,,N,,197,91
-al,004-0000,Bibb County Board of Education,004-0070,West Blocton Elementary Sch,44.71%,,N,,293,131
-al,004-0000,Bibb County Board of Education,004-0080,West Blocton High School,30.21%,,N,,437,132
-al,004-0000,Bibb County Board of Education,004-0075,West Blocton Middle School,31.63%,,N,,449,142
-al,004-0000,Bibb County Board of Education,004-0095,Woodstock Elementary School,42.76%,,N,,304,130
-al,114-0000,Birmingham City Board of Education,114-0802,Arrington Middle School,69.18%,,Y,69.67%,316,219
-al,114-0000,Birmingham City Board of Education,114-0010,Avondale Elementary School ,69.72%,,Y,69.67%,583,406
-al,114-0000,Birmingham City Board of Education,114-0040,Barrett Elementary School,84.35%,,Y,69.67%,453,382
-al,114-0000,Birmingham City Board of Education,114-0045,Bush Hills Academy ,82.67%,,Y,69.67%,480,397
-al,114-0000,Birmingham City Board of Education,114-0070,Bush Kindergarten through 8th grade,78.21%,,Y,69.67%,361,282
-al,114-0000,Birmingham City Board of Education,114-0110,Central Park Elementary Sch,80.62%,,Y,69.67%,498,401
-al,114-0000,Birmingham City Board of Education,114-0050,Charles A Brown Elem School,76.20%,,Y,69.67%,409,312
-al,114-0000,Birmingham City Board of Education,114-0130,Christian Alternative Sch,41.98%,,Y,69.67%,648,272
-al,114-0000,Birmingham City Board of Education,114-0212,EPIC School,43.06%,,Y,69.67%,409,176
-al,114-0000,Birmingham City Board of Education,114-0095,George Washington Carver H School,63.35%,,Y,69.67%,762,483
-al,114-0000,Birmingham City Board of Education,114-0270,Glen Iris Elementary School,53.95%,,Y,69.67%,732,395
-al,114-0000,Birmingham City Board of Education,114-0320,Green Acres Middle School,72.92%,,Y,69.67%,367,268
-al,114-0000,Birmingham City Board of Education,114-0340,Hemphill Elementary School,83.30%,,Y,69.67%,502,418
-al,114-0000,Birmingham City Board of Education,114-0370,Hudson Elementary School,86.57%,,Y,69.67%,684,592
-al,114-0000,Birmingham City Board of Education,114-0395,Huffman Academy,70.76%,,Y,69.67%,854,604
-al,114-0000,Birmingham City Board of Education,114-0390,Huffman High School-Magnet,56.54%,,Y,69.67%,1365,772
-al,114-0000,Birmingham City Board of Education,114-0380,Huffman Middle School-Magnt,58.40%,,Y,69.67%,394,230
-al,114-0000,Birmingham City Board of Education,114-0400,Inglenook Elementary School,80.34%,,Y,69.67%,457,367
-al,114-0000,Birmingham City Board of Education,114-0415,Jackson-Olin High School,70.08%,,Y,69.67%,823,577
-al,114-0000,Birmingham City Board of Education,114-0857,Jones Valley K-8,80.17%,,Y,69.67%,371,297
-al,114-0000,Birmingham City Board of Education,-1,Kennedy Alternative Program,,,Y,69.67%,,
-al,114-0000,Birmingham City Board of Education,-2,Lewis Elementary School,,,Y,69.67%,,
-al,114-0000,Birmingham City Board of Education,114-0505,Martha Gaskins Middle School,68.43%,,Y,69.67%,525,359
-al,114-0000,Birmingham City Board of Education,114-0550,Minor Elementary School,79.58%,,Y,69.67%,439,349
-al,114-0000,Birmingham City Board of Education,114-0331,New Hayes K 8,88.10%,,Y,69.67%,806,710
-al,114-0000,Birmingham City Board of Education,114-0610,Norwood Elementary School,78.93%,,Y,69.67%,303,239
-al,114-0000,Birmingham City Board of Education,114-0250,Oliver K-5 School,89.83%,,Y,69.67%,444,399
-al,114-0000,Birmingham City Board of Education,114-0735,Ossie Ware Mitchell,71.12%,,Y,69.67%,336,239
-al,114-0000,Birmingham City Board of Education,114-0625,Oxmoor Valley,80.37%,,Y,69.67%,525,422
-al,114-0000,Birmingham City Board of Education,114-0630,Parker High School,65.73%,,Y,69.67%,675,444
-al,114-0000,Birmingham City Board of Education,114-0651,Phillips Academy,37.14%,,Y,69.67%,703,261
-al,114-0000,Birmingham City Board of Education,114-0700,Princeton Elementary School,48.35%,,Y,69.67%,247,119
-al,114-0000,Birmingham City Board of Education,114-0720,Ramsay High School,28.50%,,Y,69.67%,787,224
-al,114-0000,Birmingham City Board of Education,114-0750,Robinson Elementary School,73.49%,,Y,69.67%,443,326
-al,114-0000,Birmingham City Board of Education,114-0790,Smith Middle School,71.97%,,Y,69.67%,446,321
-al,114-0000,Birmingham City Board of Education,114-0795,South Hampton Elementary,76.90%,,Y,69.67%,552,424
-al,114-0000,Birmingham City Board of Education,114-0775,Sun Valley Elementary Sch,76.75%,,Y,69.67%,625,480
-al,114-0000,Birmingham City Board of Education,114-0830,Tuggle Elementary School,74.26%,,Y,69.67%,532,395
-al,114-0000,Birmingham City Board of Education,114-0850,Washington Elementary Sch,77.84%,,Y,69.67%,546,425
-al,114-0000,Birmingham City Board of Education,114-0710,WE Putnam Mdsch-Magnet,76.71%,,Y,69.67%,329,252
-al,114-0000,Birmingham City Board of Education,114-0858,Wenonah High School,66.36%,,Y,69.67%,684,454
-al,114-0000,Birmingham City Board of Education,114-0880,West End Academy,85.78%,,Y,69.67%,624,535
-al,114-0000,Birmingham City Board of Education,114-0900,Wilkerson Middle School,68.73%,,Y,69.67%,306,210
-al,114-0000,Birmingham City Board of Education,114-0920,Woodlawn High School-Magnet,73.11%,,Y,69.67%,739,540
-al,114-0000,Birmingham City Board of Education,114-0930,Wylam Elementary School,78.48%,,Y,69.67%,414,325
-al,005-0000,Blount County Board of Education,005-0020,Appalachian  School,31.71%,,N,,555,176
-al,005-0000,Blount County Board of Education,005-0030,Blountsville Elementary Sch,36.59%,,N,,645,236
-al,005-0000,Blount County Board of Education,005-0041,Cleveland Elementary School,28.84%,,N,,,
-al,005-0000,Blount County Board of Education,005-0040,Cleveland High School,19.83%,,N,,,
-al,005-0000,Blount County Board of Education,005-0055,Hayden Elementary School,21.39%,,N,,,
-al,005-0000,Blount County Board of Education,005-0050,Hayden High School,14.38%,,N,,,
-al,005-0000,Blount County Board of Education,005-0057,Hayden Middle School,19.58%,,N,,,
-al,005-0000,Blount County Board of Education,005-0045,Hayden Primary School,29.60%,,N,,,
-al,005-0000,Blount County Board of Education,005-0060,JB Pennington High School,26.98%,,N,,,
-al,005-0000,Blount County Board of Education,005-0071,Locust Fork Elementary School,33.60%,,N,,494,166
-al,005-0000,Blount County Board of Education,005-0070,Locust Fork High School,21.15%,,N,,,
-al,005-0000,Blount County Board of Education,005-0105,Southeastern Elementary Sch,25.39%,,N,,,
-al,005-0000,Blount County Board of Education,005-0121,Susan Moore Elementary School,42.31%,,N,,598,253
-al,005-0000,Blount County Board of Education,005-0120,Susan Moore High School,31.44%,,N,,547,172
-al,115-0000,Boaz City School System,115-0045,Boaz Elementary School,55.18%,,N,,502,277
-al,115-0000,Boaz City School System,115-0060,Boaz High School,27.21%,,N,,,
-al,115-0000,Boaz City School System,115-0050,Boaz Intermediate School,37.54%,,N,,357,134
-al,115-0000,Boaz City School System,115-0065,Boaz Middle School,37.00%,,N,,554,205
-al,115-0000,Boaz City School System,115-0080,Corley Elementary School,42.82%,,N,,362,155
-al,116-0000,Brewton City Board of Education,116-0010,Brewton Elementary School,38.98%,,N,,413,161
-al,116-0000,Brewton City Board of Education,116-0020,Brewton Middle School,34.79%,,N,,365,127
-al,006-0000,Bullock County Board of Education,006-0050,Bullock County High School,63.26%,,Y,75.26%,389,246
-al,006-0000,Bullock County Board of Education,006-0030,South Highlands Middle School,73.15%,,Y,75.26%,424,310
-al,006-0000,Bullock County Board of Education,006-0040,Union Springs Elem School,79.61%,,Y,75.26%,646,514
-al,007-0000,Butler County Board of Education,007-0085,Georgiana School,73.07%,,N,,401,293
-al,007-0000,Butler County Board of Education,007-0050,Greenville Elementary School,62.22%,,N,,315,196
-al,007-0000,Butler County Board of Education,007-0030,Greenville High School,53.15%,,N,,604,321
-al,007-0000,Butler County Board of Education,007-0040,Greenville Middle School,61.23%,,N,,668,409
-al,007-0000,Butler County Board of Education,007-0060,Mc Kenzie High School,38.31%,,N,,449,172
-al,007-0000,Butler County Board of Education,007-0080,WO Parmer School,73.61%,,N,,576,424
-al,008-0000,Calhoun County Board of Education,008-0005,Alexandria Elementary Sch,46.87%,,N,,670,314
-al,008-0000,Calhoun County Board of Education,008-0010,Alexandria High School,26.05%,,N,,,
-al,008-0000,Calhoun County Board of Education,008-0015,Alexandria Middle School,34.59%,,N,,555,192
-al,008-0000,Calhoun County Board of Education,008-0125,Ohatchee Elementary School,39.14%,,N,,442,173
-al,008-0000,Calhoun County Board of Education,008-0130,Ohatchee High School,24.60%,,N,,,
-al,008-0000,Calhoun County Board of Education,008-0140,Pleasant Valley Elementary School,36.92%,,N,,539,199
-al,008-0000,Calhoun County Board of Education,008-0135,Pleasant Valley High School,26.40%,,N,,,
-al,008-0000,Calhoun County Board of Education,008-0150,Saks Elementary School,60.54%,,N,,446,270
-al,008-0000,Calhoun County Board of Education,008-0160,Saks High School,37.47%,,N,,371,139
-al,008-0000,Calhoun County Board of Education,008-0165,Saks Middle School,49.05%,,N,,367,180
-al,008-0000,Calhoun County Board of Education,008-0175,Weaver Elementary School,46.21%,,N,,634,293
-al,008-0000,Calhoun County Board of Education,008-0180,Weaver High School,39.11%,,N,,496,194
-al,008-0000,Calhoun County Board of Education,008-0205,Wellborn Elementary School,57.55%,,N,,636,366
-al,008-0000,Calhoun County Board of Education,008-0200,Wellborn High School,39.66%,,N,,532,211
-al,008-0000,Calhoun County Board of Education,008-0215,White Plains Elementary School,32.36%,,N,,581,188
-al,008-0000,Calhoun County Board of Education,008-0210,White Plains High School,17.72%,,N,,,
-al,008-0000,Calhoun County Board of Education,008-0220,White Plains Middle School,22.65%,,N,,,
-al,009-0000,Chambers County Board of Education,009-0130,Bob Harding Shawmut Elem,53.53%,,Y,52.73%,269,144
-al,009-0000,Chambers County Board of Education,009-0030,Fairfax Elementary School,55.02%,,Y,52.73%,478,263
-al,009-0000,Chambers County Board of Education,009-0040,Five Points Elementary Sch,65.12%,,Y,52.73%,86,56
-al,009-0000,Chambers County Board of Education,009-0060,Huguley Elementary School,54.29%,,Y,52.73%,455,247
-al,009-0000,Chambers County Board of Education,009-0100,John P Powell Middle School,64.18%,,Y,52.73%,134,86
-al,009-0000,Chambers County Board of Education,009-0070,Lafayette Eastside Elem Sch,72.43%,,Y,52.73%,301,218
-al,009-0000,Chambers County Board of Education,009-0080,Lafayette High School,52.56%,,Y,52.73%,234,123
-al,009-0000,Chambers County Board of Education,009-0090,Lafayette Lanier Elem Sch,44.95%,,Y,52.73%,198,89
-al,009-0000,Chambers County Board of Education,009-0140,Valley High School,31.96%,,N,,754,241
-al,009-0000,Chambers County Board of Education,009-0150,W F Burns Middle School,37.95%,,Y,52.73%,606,230
-al,010-0000,Cherokee County Board of Education,010-0020,Cedar Bluff High School,42.98%,,N,,598,257
-al,010-0000,Cherokee County Board of Education,010-0030,Centre Elementary School,48.74%,,N,,634,309
-al,010-0000,Cherokee County Board of Education,010-0035,Centre Middle School,38.06%,,N,,494,188
-al,010-0000,Cherokee County Board of Education,010-0050,Cherokee County High School,28.42%,,N,,,
-al,010-0000,Cherokee County Board of Education,010-0060,Gaylesville High School,47.20%,,N,,411,194
-al,010-0000,Cherokee County Board of Education,010-0100,Sand Rock High School,32.74%,,N,,785,257
-al,010-0000,Cherokee County Board of Education,010-0110,Spring Garden High School,33.08%,,N,,532,176
-al,121-0000,Chickasaw City Board of Education,121-0010,Chickasaw City Elementary,80.17%,,Y,77.68%,610,489
-al,121-0000,Chickasaw City Board of Education,121-0020,Chickasaw City High School,64.83%,,Y,77.68%,256,166
-al,121-0000,Chickasaw City Board of Education,121-0015,Chickasaw Middle School,74.17%,,Y,77.68%,254,188
-al,011-0000,Chilton County Board of Education,011-0010,Chilton County High School,26.16%,,N,,,
-al,011-0000,Chilton County Board of Education,011-0020,Clanton Elementary School,56.91%,,N,,868,494
-al,011-0000,Chilton County Board of Education,011-0030,Clanton Intermediate School,41.65%,,N,,701,292
-al,011-0000,Chilton County Board of Education,011-0050,Clanton Middle School,33.72%,,N,,611,206
-al,011-0000,Chilton County Board of Education,011-0060,Isabella High School,33.02%,,N,,751,248
-al,011-0000,Chilton County Board of Education,011-0065,Jemison Elementary School,49.40%,,N,,753,372
-al,011-0000,Chilton County Board of Education,011-0070,Jemison High School,24.80%,,N,,,
-al,011-0000,Chilton County Board of Education,011-0067,Jemison Intermediate School,43.92%,,N,,576,253
-al,011-0000,Chilton County Board of Education,011-0068,Jemison Middle School,37.91%,,N,,364,138
-al,011-0000,Chilton County Board of Education,011-0080,Maplesville High School,41.03%,,N,,446,183
-al,011-0000,Chilton County Board of Education,011-0100,Thorsby High School,31.18%,,N,,651,203
-al,011-0000,Chilton County Board of Education,011-0110,Verbena High School,49.16%,,N,,596,293
-al,012-0000,Choctaw County Board of Education,012-0025,Choctaw County Elementary School,81.98%,,Y,65.25%,344,282
-al,012-0000,Choctaw County Board of Education,012-0020,Choctaw County High School,65.75%,,Y,65.25%,327,215
-al,012-0000,Choctaw County Board of Education,012-0075,Southern Choctaw Elem Sch,65.03%,,Y,65.25%,326,212
-al,012-0000,Choctaw County Board of Education,012-0080,Southern Choctaw High Sch,45.42%,,Y,65.25%,295,134
-al,167-0000,City of Leeds Board of Education,167-0010,Leeds Elementary School,33.05%,,N,,472,156
-al,167-0000,City of Leeds Board of Education,167-0030,Leeds High School,24.11%,,N,,,
-al,167-0000,City of Leeds Board of Education,167-0020,Leeds Middle School,29.41%,,N,,,
-al,167-0000,City of Leeds Board of Education,167-0005,Leeds Primary School,48.76%,,N,,564,275
-al,013-0000,Clarke County Board of Education,013-0010,Clarke County High School,53.58%,,Y,55.43%,373,200
-al,013-0000,Clarke County Board of Education,013-0050,Grove Hill Elementary Sch,67.86%,,Y,55.43%,328,223
-al,013-0000,Clarke County Board of Education,013-0065,Jackson High School,40.47%,,Y,55.43%,594,240
-al,013-0000,Clarke County Board of Education,013-0070,Jackson Intermediate School,52.45%,,Y,55.43%,365,191
-al,013-0000,Clarke County Board of Education,013-0060,Jackson Middle School,48.00%,,Y,55.43%,390,187
-al,013-0000,Clarke County Board of Education,013-0080,Joe M Gillmore Elem School,61.73%,,Y,55.43%,407,251
-al,013-0000,Clarke County Board of Education,013-0100,Wilson Hall Middle School,61.07%,,Y,55.43%,285,174
-al,014-0000,Clay County Board of Education,014-0010,Ashland Elementary School,36.18%,,N,,503,182
-al,014-0000,Clay County Board of Education,014-0085,Central High School of Clay County,26.21%,,N,,,
-al,014-0000,Clay County Board of Education,014-0084,Central Junior High School of Clay County,34.18%,,N,,275,94
-al,014-0000,Clay County Board of Education,014-0060,Lineville Elementary School,37.84%,,N,,547,207
-al,015-0000,Cleburne County Board of Education,015-0010,Cleburne County Elem School,47.22%,,N,,324,153
-al,015-0000,Cleburne County Board of Education,015-0020,Cleburne County High School,29.93%,,N,,,
-al,015-0000,Cleburne County Board of Education,015-0015,Cleburne County Middle School,32.27%,,N,,251,81
-al,015-0000,Cleburne County Board of Education,015-0030,Fruithurst Elementary Sch,46.67%,,N,,240,112
-al,015-0000,Cleburne County Board of Education,015-0040,Pleasant Grove Elem School,52.38%,,N,,231,121
-al,015-0000,Cleburne County Board of Education,015-0045,Ranburne Elementary School,35.65%,,N,,359,128
-al,015-0000,Cleburne County Board of Education,015-0050,Ranburne High School,21.98%,,N,,,
-al,016-0000,Coffee County Board of Education,016-0020,Kinston High School,31.42%,,N,,522,164
-al,016-0000,Coffee County Board of Education,016-0035,New Brockton Elementary Sch,47.85%,,N,,627,300
-al,016-0000,Coffee County Board of Education,016-0040,New Brockton High School,34.29%,,N,,420,144
-al,016-0000,Coffee County Board of Education,016-0060,Zion Chapel High School,39.85%,,N,,813,324
-al,017-0000,Colbert County Board of Education,017-0040,Cherokee Elementary School,53.85%,,N,,312,168
-al,017-0000,Colbert County Board of Education,017-0060,Cherokee High School,36.75%,,N,,234,86
-al,017-0000,Colbert County Board of Education,017-0070,Colbert County High School,39.74%,,N,,390,155
-al,017-0000,Colbert County Board of Education,017-0075,Colbert Heights Elem Sch,50.10%,,N,,525,263
-al,017-0000,Colbert County Board of Education,017-0080,Colbert Heights High School,31.79%,,N,,453,144
-al,017-0000,Colbert County Board of Education,017-0090,Hatton Elementary School,50.00%,,N,,252,126
-al,017-0000,Colbert County Board of Education,017-0110,Leighton Elementary School,56.09%,,N,,353,198
-al,017-0000,Colbert County Board of Education,017-0140,New Bethel Elementary Sch,36.94%,,N,,157,58
-al,017-0000,Colbert County Board of Education,017-3999,Tennessee Valley Juvenile Detention School Program,0.00%,,N,,,
-al,018-0000,Conecuh County Board of Education,018-0010,Conecuh County Jr High Sch,71.61%,,Y,69.49%,174,125
-al,018-0000,Conecuh County Board of Education,018-0020,Evergreen City School,75.70%,,Y,69.49%,420,318
-al,018-0000,Conecuh County Board of Education,018-0035,Hillcrest High School,58.52%,,Y,69.49%,398,233
-al,018-0000,Conecuh County Board of Education,018-0040,Lyeffion Junior High School,64.74%,,Y,69.49%,171,111
-al,018-0000,Conecuh County Board of Education,018-0050,Marshall Middle School,60.39%,,Y,69.49%,141,85
-al,018-0000,Conecuh County Board of Education,018-0070,Repton Junior High School,57.75%,,Y,69.49%,138,80
-al,019-0000,Coosa County Board of Education,019-0003,Central Elem School ,59.17%,,Y,52.74%,341,202
-al,019-0000,Coosa County Board of Education,019-0005,Central High School,45.56%,,Y,52.74%,262,119
-al,020-0000,Covington County Board of Education,020-0030,Fleeta School,65.31%,,N,,196,128
-al,020-0000,Covington County Board of Education,020-0040,Florala High School,40.81%,,N,,223,91
-al,020-0000,Covington County Board of Education,020-0050,Pleasant Home School,33.76%,,N,,548,185
-al,020-0000,Covington County Board of Education,020-0065,Red Level Elementary School,58.15%,,N,,325,189
-al,020-0000,Covington County Board of Education,020-0060,Red Level High School,34.66%,,N,,251,87
-al,020-0000,Covington County Board of Education,020-0070,Straughn Elementary School,43.78%,,N,,635,278
-al,020-0000,Covington County Board of Education,020-0080,Straughn High School,22.19%,,N,,,
-al,020-0000,Covington County Board of Education,020-0075,Straughn Middle School,34.34%,,N,,265,91
-al,020-0000,Covington County Board of Education,020-0090,WS Harlan Elem Sch,55.75%,,N,,287,160
-al,021-0000,Crenshaw County Board of Education,021-0010,Brantley High School,42.91%,,Y,49.22%,547,235
-al,021-0000,Crenshaw County Board of Education,021-0030,Highland Home High School,45.25%,,Y,48.48%,858,388
-al,021-0000,Crenshaw County Board of Education,021-0050,Luverne High School,50.53%,,Y,49.22%,863,436
-al,125-0000,Cullman City Board of Education,125-0050,Cullman City Primary School,27.57%,,N,,,
-al,125-0000,Cullman City Board of Education,125-0010,Cullman Middle School,14.95%,,N,,,
-al,125-0000,Cullman City Board of Education,125-0020,Cullman Senior High School,12.94%,,N,,,
-al,125-0000,Cullman City Board of Education,125-0030,East Elementary School,13.82%,,N,,,
-al,125-0000,Cullman City Board of Education,125-0040,West Elementary School,19.14%,,N,,,
-al,022-0000,Cullman County Board of Education,022-0031,Cold Springs Elem Sch,29.21%,,N,,,
-al,022-0000,Cullman County Board of Education,022-0030,Cold Springs High School,19.10%,,N,,,
-al,022-0000,Cullman County Board of Education,022-0035,Cullman Child Dev Center,54.69%,,N,,256,140
-al,022-0000,Cullman County Board of Education,022-0061,Fairview Elem Sch,32.12%,,N,,551,177
-al,022-0000,Cullman County Board of Education,022-0060,Fairview High School,20.09%,,N,,,
-al,022-0000,Cullman County Board of Education,022-0062,Fairview Middle Sch,28.48%,,N,,,
-al,022-0000,Cullman County Board of Education,022-0081,Good Hope Elem Sch,27.35%,,N,,,
-al,022-0000,Cullman County Board of Education,022-0080,Good Hope High School,23.74%,,N,,,
-al,022-0000,Cullman County Board of Education,022-0082,Good Hope Middle Sch,19.83%,,N,,,
-al,022-0000,Cullman County Board of Education,022-0085,Good Hope Primary School,34.62%,,N,,338,117
-al,022-0000,Cullman County Board of Education,022-0091,Hanceville Elem Sch,40.57%,,N,,594,241
-al,022-0000,Cullman County Board of Education,022-0090,Hanceville High School,26.76%,,N,,,
-al,022-0000,Cullman County Board of Education,022-0092,Hanceville Middle Sch,35.79%,,N,,299,107
-al,022-0000,Cullman County Board of Education,022-0086,Harmony School,52.75%,,N,,218,115
-al,022-0000,Cullman County Board of Education,022-0101,Holly Pond Elem Sch,35.48%,,N,,341,121
-al,022-0000,Cullman County Board of Education,022-0100,Holly Pond High School,21.27%,,N,,,
-al,022-0000,Cullman County Board of Education,022-0102,Holly Pond Middle School,28.37%,,N,,,
-al,022-0000,Cullman County Board of Education,022-0020,Parkside Elementary School,42.01%,,N,,319,134
-al,022-0000,Cullman County Board of Education,022-0141,Vinemont Elem Sch,41.10%,,N,,489,201
-al,022-0000,Cullman County Board of Education,022-0140,Vinemont High School,25.00%,,N,,,
-al,022-0000,Cullman County Board of Education,022-0142,Vinemont Middle Sch,34.71%,,N,,242,84
-al,022-0000,Cullman County Board of Education,022-0150,Welti Elem Sch,41.76%,,N,,170,71
-al,022-0000,Cullman County Board of Education,022-0161,West Point Elem Sch,35.62%,,N,,511,182
-al,022-0000,Cullman County Board of Education,022-0160,West Point High School,21.98%,,N,,,
-al,022-0000,Cullman County Board of Education,022-0163,West Point Intermediate,29.67%,,N,,,
-al,022-0000,Cullman County Board of Education,022-0162,West Point Middle Sch,27.78%,,N,,,
-al,023-0000,Dale County Board of Education,023-0010,Ariton High School,32.97%,,N,,734,242
-al,023-0000,Dale County Board of Education,023-0020,Dale County High School,47.05%,,N,,474,223
-al,023-0000,Dale County Board of Education,023-0040,George W Long High School,24.57%,,N,,,
-al,023-0000,Dale County Board of Education,023-0030,GW Long Elementary School,33.69%,,N,,463,156
-al,023-0000,Dale County Board of Education,023-0050,Midland City Elementary Sch,67.06%,,N,,425,285
-al,023-0000,Dale County Board of Education,023-0060,Newton Elementary School,53.49%,,N,,258,138
-al,023-0000,Dale County Board of Education,023-0080,South Dale Middle Sch,52.46%,,N,,406,213
-al,126-0000,Daleville City Board of Education,126-0010,Daleville High School,43.38%,,N,,468,203
-al,126-0000,Daleville City Board of Education,126-0015,Windham Elementary School,64.33%,,N,,642,413
-al,024-0000,Dallas County Board of Education,024-0010,Brantley Elementary School,83.25%,,Y,81.11%,227,189
-al,024-0000,Dallas County Board of Education,024-0220,Bruce K Craig Elem Sch,85.55%,,Y,73.90%,273,234
-al,024-0000,Dallas County Board of Education,024-0020,Dallas County High School,57.57%,,Y,67.24%,497,286
-al,024-0000,Dallas County Board of Education,024-0070,J E Terry Elementary School,71.32%,,Y,81.11%,134,96
-al,024-0000,Dallas County Board of Education,024-0080,Keith Middle-High School,77.27%,,Y,67.24%,284,219
-al,024-0000,Dallas County Board of Education,024-0100,Salem Elementary School,88.27%,,Y,73.90%,200,177
-al,024-0000,Dallas County Board of Education,024-0120,Southside High School,73.50%,,Y,67.24%,356,262
-al,024-0000,Dallas County Board of Education,024-0215,Southside Primary School,86.70%,,Y,81.11%,232,201
-al,024-0000,Dallas County Board of Education,024-0130,Tipton Middle School,84.68%,,Y,67.24%,216,183
-al,024-0000,Dallas County Board of Education,024-0150,Valley Grande Elem School,58.13%,,Y,73.90%,500,291
-al,024-0000,Dallas County Board of Education,024-0170,William R Martin Middle School,58.17%,,Y,67.24%,274,159
-al,127-0000,Decatur City Board of Education,127-0010,Austin High School,28.40%,,N,,1067,303
-al,127-0000,Decatur City Board of Education,127-0015,Austin Jr. High School,33.11%,,N,,734,243
-al,127-0000,Decatur City Board of Education,127-0020,Austinville Elementary Sch,58.29%,,Y,61.37%,375,219
-al,127-0000,Decatur City Board of Education,127-0070,Banks-Caddell Elementary,58.30%,,Y,61.37%,482,281
-al,127-0000,Decatur City Board of Education,127-0110,Benjamin Davis Elementary,35.14%,,N,,276,97
-al,127-0000,Decatur City Board of Education,127-0023,Cedar Ridge Middle School,39.84%,,N,,743,296
-al,127-0000,Decatur City Board of Education,127-0025,Chestnut Grove Elem School,42.04%,,N,,421,177
-al,127-0000,Decatur City Board of Education,127-0031,Decatur High Developmental School,52.38%,,N,,42,22
-al,127-0000,Decatur City Board of Education,127-0030,Decatur High School,36.43%,,N,,1021,372
-al,127-0000,Decatur City Board of Education,127-0071,Decatur Middle School,41.35%,,N,,827,342
-al,127-0000,Decatur City Board of Education,127-0050,Eastwood Elementary School,44.83%,,N,,232,104
-al,127-0000,Decatur City Board of Education,127-0055,Frances Nungester Elem Sch,54.43%,,Y,61.37%,387,211
-al,127-0000,Decatur City Board of Education,127-0068,Julian Harris Elem School,32.38%,,N,,349,113
-al,127-0000,Decatur City Board of Education,127-0060,Leon Sheffield Magnet,25.00%,,N,,316,79
-al,127-0000,Decatur City Board of Education,127-0080,Oak Park Elementary School,64.83%,,Y,61.37%,405,263
-al,127-0000,Decatur City Board of Education,127-0090,Walter Jackson Elem School,45.67%,,N,,289,132
-al,127-0000,Decatur City Board of Education,127-0100,West Decatur Elementary Sch,53.42%,,Y,61.37%,308,165
-al,127-0000,Decatur City Board of Education,127-0120,Woodmeade Elementary School,56.14%,,Y,61.37%,386,217
-al,025-0000,DeKalb County Board of Education,025-0030,Collinsville High School,51.22%,,Y,57.63%,939,481
-al,025-0000,DeKalb County Board of Education,025-0040,Crossville Elementary School,65.94%,,Y,57.63%,599,395
-al,025-0000,DeKalb County Board of Education,025-0045,Crossville High School,49.49%,,Y,57.63%,590,292
-al,025-0000,DeKalb County Board of Education,025-0042,Crossville Middle School,65.30%,,Y,57.63%,827,540
-al,025-0000,DeKalb County Board of Education,025-0065,Fyffe High School,36.91%,,N,,959,354
-al,025-0000,DeKalb County Board of Education,025-0070,Geraldine School,41.92%,,N,,1176,493
-al,025-0000,DeKalb County Board of Education,025-0090,Henagar Junior High School,43.15%,,N,,248,107
-al,025-0000,DeKalb County Board of Education,025-0100,Ider School,40.43%,,N,,658,266
-al,025-0000,DeKalb County Board of Education,025-0120,Moon Lake School,38.36%,,N,,73,28
-al,025-0000,DeKalb County Board of Education,025-0130,Plainview School,38.12%,,N,,1254,478
-al,025-0000,DeKalb County Board of Education,025-0140,Ruhuma Junior High School,54.60%,,Y,57.63%,163,89
-al,025-0000,DeKalb County Board of Education,025-0150,Sylvania School,39.10%,,N,,913,357
-al,025-0000,DeKalb County Board of Education,025-0170,Valley Head High School,45.26%,,N,,464,210
-al,128-0000,Demopolis City Board of Education,128-0050,Demopolis High School,30.04%,,N,,669,201
-al,128-0000,Demopolis City Board of Education,128-0010,Demopolis Middle School,42.11%,,N,,513,216
-al,128-0000,Demopolis City Board of Education,128-0020,US Jones Elementary Sch,45.30%,,N,,521,236
-al,128-0000,Demopolis City Board of Education,128-0040,Westside Elementary School,54.14%,,Y,57.86%,515,279
-al,130-0000,Dothan City Board of Education,130-0012,Beverlye Middle School,29.69%,,N,,,
-al,130-0000,Dothan City Board of Education,130-0010,"Carver Magnet School for Mathematics, Science and Technology ",13.42%,,N,,,
-al,130-0000,Dothan City Board of Education,130-0020,Cloverdale Elementary School,83.22%,,N,,429,357
-al,130-0000,Dothan City Board of Education,130-0030,Dothan High School,44.96%,,N,,1101,495
-al,130-0000,Dothan City Board of Education,130-0125,Dothan Pre School Center,99.74%,,N,,382,381
-al,130-0000,Dothan City Board of Education,130-0050,Girard Elementary School,74.92%,,N,,315,236
-al,130-0000,Dothan City Board of Education,130-0060,Girard Middle School,63.74%,,N,,546,348
-al,130-0000,Dothan City Board of Education,130-0070,Grandview Elementary School,83.17%,,N,,398,331
-al,130-0000,Dothan City Board of Education,130-0080,Heard Elementary School,27.75%,,N,,,
-al,130-0000,Dothan City Board of Education,130-0085,Hidden Lake Elementary School,42.10%,,N,,544,229
-al,130-0000,Dothan City Board of Education,130-0092,Highlands Elementary School ,27.15%,,N,,,
-al,130-0000,Dothan City Board of Education,130-0095,Honeysuckle Middle School,70.06%,,N,,511,358
-al,130-0000,Dothan City Board of Education,130-0150,Jerry Lee Faine Elementary School,84.75%,,N,,354,300
-al,130-0000,Dothan City Board of Education,130-0097,Kelly Springs Elementary School,45.66%,,N,,438,200
-al,130-0000,Dothan City Board of Education,130-0110,Montana Street Academic Magnet School,18.91%,,N,,,
-al,130-0000,Dothan City Board of Education,130-0105,Morris Slingluff Elementary School,69.92%,,N,,379,265
-al,130-0000,Dothan City Board of Education,130-0115,Northview High School,35.79%,,N,,1249,447
-al,130-0000,Dothan City Board of Education,130-0130,Selma St Elementary School,78.88%,,N,,464,366
-al,131-0000,Elba City Board of Education,131-0010,Elba Elementary School,67.36%,,Y,59.28%,334,225
-al,131-0000,Elba City Board of Education,131-0020,Elba High School,48.43%,,Y,59.28%,302,146
-al,026-0000,Elmore County Board of Education,026-0042,Airport Road Intermediate School,41.50%,,N,,653,271
-al,026-0000,Elmore County Board of Education,026-0035,Coosada Elementary School,46.36%,,N,,934,433
-al,026-0000,Elmore County Board of Education,026-0005,Eclectic Elementary School,40.38%,,N,,577,233
-al,026-0000,Elmore County Board of Education,026-0008,Eclectic Middle School ,30.89%,,N,,518,160
-al,026-0000,Elmore County Board of Education,026-0010,Elmore County High School,23.82%,,N,,,
-al,026-0000,Elmore County Board of Education,026-0018,Holtville Elementary School,43.04%,,N,,762,328
-al,026-0000,Elmore County Board of Education,026-0020,Holtville High School,25.76%,,N,,,
-al,026-0000,Elmore County Board of Education,026-0019,Holtville Middle School,31.03%,,N,,593,184
-al,026-0000,Elmore County Board of Education,026-0023,Millbrook MiddleJunior Hs,45.46%,,N,,1278,581
-al,026-0000,Elmore County Board of Education,026-0062,Redland Elementary,18.55%,,N,,,
-al,026-0000,Elmore County Board of Education,026-0050,Stanhope Elmore High School,26.92%,,N,,,
-al,026-0000,Elmore County Board of Education,026-0065,Wetumpka Elementary School,51.91%,,N,,1021,530
-al,026-0000,Elmore County Board of Education,026-0070,Wetumpka High School,23.89%,,N,,,
-al,026-0000,Elmore County Board of Education,026-0075,Wetumpka Middle,33.92%,,N,,1020,346
-al,132-0000,Enterprise City Board of Education,132-0030,Coppinville School,29.60%,,N,,,
-al,132-0000,Enterprise City Board of Education,132-0040,Dauphin Junior High School,19.96%,,N,,,
-al,132-0000,Enterprise City Board of Education,132-0045,Early Education Center,49.04%,,N,,624,306
-al,132-0000,Enterprise City Board of Education,132-0050,Enterprise High School,20.35%,,N,,,
-al,132-0000,Enterprise City Board of Education,132-0065,Harrand Creek Elem School,36.00%,,N,,500,180
-al,132-0000,Enterprise City Board of Education,132-0070,Hillcrest Elementary School,35.81%,,N,,754,270
-al,132-0000,Enterprise City Board of Education,132-0080,Holly Hill Elementary Sch,20.52%,,N,,,
-al,132-0000,Enterprise City Board of Education,132-0090,Pinedale Elementary School,36.25%,,N,,502,182
-al,132-0000,Enterprise City Board of Education,132-0100,Rucker Blvd Elementary Sch,41.47%,,N,,504,209
-al,ephesus-academy,Ephesus Academy,-3,Ephesus Academy,,,Y,45.24%,168,
-al,027-0000,Escambia County Board of Education,-4,Escambia Co Alternative School,,,Y,50.11%,,
-al,027-0000,Escambia County Board of Education,027-0025,Escambia County High School,59.64%,,Y,54.82%,417,249
-al,027-0000,Escambia County Board of Education,027-0040,Escambia County Middle School,73.27%,,Y,62.16%,572,419
-al,027-0000,Escambia County Board of Education,027-0048,Flomaton Elementary School,41.81%,,Y,50.11%,407,170
-al,027-0000,Escambia County Board of Education,027-0050,Flomaton High School,26.35%,,Y,50.11%,479,126
-al,027-0000,Escambia County Board of Education,027-0070,Huxford Elementary School,43.62%,,Y,54.82%,279,122
-al,027-0000,Escambia County Board of Education,027-0080,McCall Junior High School,36.71%,,Y,62.16%,234,86
-al,027-0000,Escambia County Board of Education,027-0103,Rachel Patterson Elem School,75.75%,,Y,50.11%,507,384
-al,027-0000,Escambia County Board of Education,027-0105,WS Neal Elementary School,60.21%,,Y,54.82%,545,328
-al,027-0000,Escambia County Board of Education,027-0110,WS Neal High School,44.67%,,Y,54.82%,410,183
-al,027-0000,Escambia County Board of Education,027-0108,WS Neal Middle School,53.38%,,Y,54.82%,423,226
-al,028-0000,Etowah County Board of Education,028-0010,Carlisle Elementary School,39.51%,,N,,329,130
-al,028-0000,Etowah County Board of Education,028-0020,Duck Springs Elementary Sch,39.20%,,N,,199,78
-al,028-0000,Etowah County Board of Education,028-0040,Gaston High School,27.38%,,N,,,
-al,028-0000,Etowah County Board of Education,028-0050,Glencoe Elementary School,24.12%,,N,,,
-al,028-0000,Etowah County Board of Education,028-0060,Glencoe High School,12.74%,,N,,,
-al,028-0000,Etowah County Board of Education,028-0065,Glencoe Middle School,16.98%,,N,,,
-al,028-0000,Etowah County Board of Education,028-0110,Highland Elementary School,54.38%,,N,,160,87
-al,028-0000,Etowah County Board of Education,028-0080,Hokes Bluff Elementary Sch,27.70%,,N,,,
-al,028-0000,Etowah County Board of Education,028-0075,Hokes Bluff High School,14.10%,,N,,,
-al,028-0000,Etowah County Board of Education,028-0070,Hokes Bluff Middle School,19.86%,,N,,,
-al,028-0000,Etowah County Board of Education,028-0090,Ivalee Elementary School,34.70%,,N,,219,76
-al,028-0000,Etowah County Board of Education,028-0100,John S Jones Elementary Sch,25.92%,,N,,,
-al,028-0000,Etowah County Board of Education,028-0115,Rainbow Middle School,13.44%,,N,,,
-al,028-0000,Etowah County Board of Education,028-0120,Sardis High School,23.92%,,N,,,
-al,028-0000,Etowah County Board of Education,028-0125,Sardis Middle School,26.23%,,N,,,
-al,028-0000,Etowah County Board of Education,028-0135,Southside Elementary School,15.38%,,N,,,
-al,028-0000,Etowah County Board of Education,028-0130,Southside High School,12.01%,,N,,,
-al,028-0000,Etowah County Board of Education,028-0140,West End Elementary School,45.99%,,N,,424,195
-al,028-0000,Etowah County Board of Education,028-0150,West End High School,26.50%,,N,,,
-al,028-0000,Etowah County Board of Education,028-0160,Whitesboro Elementary Sch,31.09%,,N,,312,97
-al,133-0000,Eufaula City Board of Education,133-0034,Eufaula Elementary School,64.62%,,Y,58.76%,571,369
-al,133-0000,Eufaula City Board of Education,133-0010,Eufaula High School,44.44%,,Y,58.76%,765,340
-al,133-0000,Eufaula City Board of Education,133-0040,Eufaula Primary School,73.00%,,Y,58.76%,711,519
-al,133-0000,Eufaula City Board of Education,133-0030,Moorer Middle School,54.37%,,Y,58.76%,572,311
-al,137-0000,Fairfield City Board of Education,137-0010,Donald Elementary School,78.83%,,Y,77.86%,384,303
-al,137-0000,Fairfield City Board of Education,137-0020,Fairfield High School,72.43%,,Y,77.86%,797,577
-al,137-0000,Fairfield City Board of Education,137-0037,Forrest Hills Community Development Center- Tri-City Pre-K,100.00%,,Y,77.86%,144,144
-al,137-0000,Fairfield City Board of Education,137-0040,Glen Oaks Elementary School,75.08%,,Y,77.86%,311,233
-al,137-0000,Fairfield City Board of Education,137-0050,Robinson Elementary School,87.55%,,Y,77.86%,297,260
-al,029-0000,Fayette County Board of Education,029-0010,Berry Elementary School,50.79%,,N,,315,160
-al,029-0000,Fayette County Board of Education,029-0020,Berry High School,38.94%,,N,,226,88
-al,029-0000,Fayette County Board of Education,029-0025,Fayette County High School,36.02%,,N,,397,143
-al,029-0000,Fayette County Board of Education,029-0050,Fayette Elementary School,52.57%,,N,,525,276
-al,029-0000,Fayette County Board of Education,029-0030,Fayette Middle School,40.65%,,N,,401,163
-al,029-0000,Fayette County Board of Education,029-0040,Hubbertville School,39.08%,,N,,435,170
-al,141-0000,Florence City Board of Education,141-0040,Florence Freshman Center,31.88%,,N,,345,110
-al,141-0000,Florence City Board of Education,141-0020,Florence High School,29.02%,,N,,1051,305
-al,141-0000,Florence City Board of Education,141-0100,Florence Middle School,43.08%,,N,,643,277
-al,141-0000,Florence City Board of Education,141-0050,Forest Hills School,27.05%,,Y,54.31%,833,225
-al,141-0000,Florence City Board of Education,141-0070,Handy School,100.00%,,Y,54.31%,58,58
-al,141-0000,Florence City Board of Education,141-0080,Harlan Elementary School,75.39%,,Y,54.31%,447,337
-al,141-0000,Florence City Board of Education,141-0095,Hibbett Middle School,46.91%,,Y,54.31%,581,273
-al,141-0000,Florence City Board of Education,141-0090,Weeden Elementary School,65.17%,,Y,54.31%,425,277
-al,143-0000,Fort Payne City Board of Education,143-0025,Fort Payne Middle School,37.97%,,N,,1064,404
-al,143-0000,Fort Payne City Board of Education,143-0020,Ft Payne High School,30.66%,,N,,936,287
-al,143-0000,Fort Payne City Board of Education,143-0030,Williams Ave Elementary Sch,42.71%,,N,,501,214
-al,143-0000,Fort Payne City Board of Education,143-0040,Wills Valley Elementary School,51.29%,,N,,778,399
-al,030-0000,Franklin County Board of Education,030-0010,Belgreen High School,40.46%,,N,,561,227
-al,030-0000,Franklin County Board of Education,030-0015,East Franklin Jr High Sch,32.88%,,N,,222,73
-al,030-0000,Franklin County Board of Education,030-0035,Phil Campbell Elementary,45.98%,,N,,435,200
-al,030-0000,Franklin County Board of Education,030-0030,Phil Campbell High School,29.19%,,N,,,
-al,030-0000,Franklin County Board of Education,030-0040,Red Bay High School,21.22%,,N,,,
-al,030-0000,Franklin County Board of Education,030-0060,Tharptown Elementary,45.97%,,N,,546,251
-al,030-0000,Franklin County Board of Education,030-0065,Tharptown High School,37.82%,,N,,349,132
-al,030-0000,Franklin County Board of Education,030-0090,Vina High School,32.18%,,N,,261,84
-al,144-0000,Gadsden City Board of Education,144-0060,Donehoo Elementary School,59.50%,,N,,279,166
-al,144-0000,Gadsden City Board of Education,144-0140,Emma Sansom Middle Sch,47.88%,,N,,353,169
-al,144-0000,Gadsden City Board of Education,144-0120,Eura Brown Elementary Sch,9.94%,,N,,,
-al,144-0000,Gadsden City Board of Education,144-0135,Gadsden City High School,33.25%,,N,,1519,505
-al,144-0000,Gadsden City Board of Education,144-0050,Gadsden Middle School,32.62%,,N,,466,152
-al,144-0000,Gadsden City Board of Education,144-0125,George W Floyd Elem School,70.93%,,N,,375,266
-al,144-0000,Gadsden City Board of Education,144-0040,Litchfield Middle School,61.21%,,N,,214,131
-al,144-0000,Gadsden City Board of Education,144-0190,Mitchell Elementary School,25.55%,,N,,,
-al,144-0000,Gadsden City Board of Education,144-0085,Oscar W Adams Elem School,66.44%,,N,,438,291
-al,144-0000,Gadsden City Board of Education,144-0210,Ray Thompson Elementary Sch,68.42%,,N,,228,156
-al,144-0000,Gadsden City Board of Education,144-0240,Striplin Elementary School,61.01%,,N,,436,266
-al,144-0000,Gadsden City Board of Education,144-0270,Walnut Park Elementary Sch,58.85%,,N,,243,143
-al,146-0000,Geneva City Board of Education,146-0010,Geneva High School,31.30%,,N,,361,113
-al,146-0000,Geneva City Board of Education,146-0030,Geneva Middle School,37.54%,,N,,309,116
-al,146-0000,Geneva City Board of Education,146-0020,Mulkey Elementary School,36.82%,,N,,592,218
-al,031-0000,Geneva County Board of Education,031-0015,Geneva County Elem School,53.98%,,N,,402,217
-al,031-0000,Geneva County Board of Education,031-0020,Geneva County High School,34.96%,,N,,226,79
-al,031-0000,Geneva County Board of Education,031-0022,Geneva County Middle School,40.80%,,N,,174,71
-al,031-0000,Geneva County Board of Education,031-0035,Samson Elementary School,69.84%,,N,,368,257
-al,031-0000,Geneva County Board of Education,031-0040,Samson High School,40.00%,,N,,185,74
-al,031-0000,Geneva County Board of Education,031-0045,Samson Middle School,56.55%,,N,,145,82
-al,031-0000,Geneva County Board of Education,031-0047,Slocomb Elementary School,46.84%,,N,,585,274
-al,031-0000,Geneva County Board of Education,031-0060,Slocomb High School,27.98%,,N,,,
-al,031-0000,Geneva County Board of Education,031-0050,Slocomb Middle School,42.56%,,N,,289,123
-al,032-0000,Greene County Board of Education,032-0025,Eutaw Primary,77.07%,,Y,74.54%,362,279
-al,032-0000,Greene County Board of Education,032-0030,Greene County High School,67.11%,,Y,74.54%,340,228
-al,032-0000,Greene County Board of Education,-5,Paramount Jr. High School,,,Y,74.54%,,
-al,032-0000,Greene County Board of Education,032-0040,Robert Brown Middle School,72.75%,,Y,74.54%,378,275
-al,154-0000,Guntersville City Board of Education,154-0020,Cherokee Elementary School,33.00%,,N,,406,134
-al,154-0000,Guntersville City Board of Education,154-0030,Guntersville Elementary Sch,42.35%,,N,,451,191
-al,154-0000,Guntersville City Board of Education,154-0040,Guntersville High School,24.13%,,N,,,
-al,154-0000,Guntersville City Board of Education,154-0010,Guntersville Middle School,32.73%,,N,,443,145
-al,033-0000,Hale County Board of Education,033-0041,Greensboro Elementary School,79.57%,,N,,607,483
-al,033-0000,Hale County Board of Education,033-0043,Greensboro High School,59.42%,,N,,345,205
-al,033-0000,Hale County Board of Education,033-0042,Greensboro Middle School,68.80%,,N,,250,172
-al,033-0000,Hale County Board of Education,033-0050,Hale County High School,30.62%,,N,,356,109
-al,033-0000,Hale County Board of Education,033-0055,Hale County Middle School,32.01%,,N,,303,97
-al,033-0000,Hale County Board of Education,033-0060,Moundville Elementary Sch,43.20%,,N,,632,273
-al,155-0000,Haleyville City Board of Education,155-0025,Haleyville Elementary Sch,40.75%,,N,,773,315
-al,155-0000,Haleyville City Board of Education,155-0030,Haleyville High School,21.54%,,N,,,
-al,155-0000,Haleyville City Board of Education,155-0035,Haleyville Middle School,33.25%,,N,,391,130
-al,156-0000,Hartselle City Board of Education,156-0005,Barkley Bridge Elem Sch,22.98%,,N,,,
-al,156-0000,Hartselle City Board of Education,156-0010,Crestline Elementary School,32.88%,,N,,511,168
-al,156-0000,Hartselle City Board of Education,156-0020,F E Burleson Elementary Sch,32.46%,,N,,536,174
-al,156-0000,Hartselle City Board of Education,156-0040,Hartselle High School,11.76%,,N,,,
-al,156-0000,Hartselle City Board of Education,156-0025,Hartselle Intermediate School,15.98%,,N,,,
-al,156-0000,Hartselle City Board of Education,156-0030,Hartselle Junior High Sch,15.94%,,N,,,
-al,034-0000,Henry County Board of Education,-6,Abbeville Alternative,,,Y,65.88%,,
-al,034-0000,Henry County Board of Education,034-0017,Abbeville Elementary School,71.39%,,Y,65.88%,416,297
-al,034-0000,Henry County Board of Education,034-0020,Abbeville High School,59.25%,,Y,65.88%,346,205
-al,034-0000,Henry County Board of Education,034-0030,Headland Elementary School,37.88%,,N,,800,303
-al,034-0000,Henry County Board of Education,034-0040,Headland High School,19.48%,,N,,,
-al,034-0000,Henry County Board of Education,034-0035,Headland Middle School,27.51%,,N,,,
-al,157-0000,Homewood City Board of Education,157-0010,Edgewood Elementary School,6.58%,,N,,,
-al,157-0000,Homewood City Board of Education,157-0020,Hall Kent Elementary School,26.02%,,N,,,
-al,157-0000,Homewood City Board of Education,157-0035,Homewood High School,9.74%,,N,,,
-al,157-0000,Homewood City Board of Education,157-0030,Homewood Middle School,11.55%,,N,,,
-al,157-0000,Homewood City Board of Education,157-0040,Shades Cahaba Elem School,6.80%,,N,,,
-al,158-0000,Hoover City Board of Education,158-0070,Berry Middle School,10.29%,,N,,,
-al,158-0000,Hoover City Board of Education,158-0080,Bluff Park Elementary Sch,11.53%,,N,,,
-al,158-0000,Hoover City Board of Education,158-0420,Brocks Gap Intermediate School,5.34%,,N,,,
-al,158-0000,Hoover City Board of Education,158-0415,Bumpus Middle School ,5.63%,,N,,,
-al,158-0000,Hoover City Board of Education,158-0380,Deer Valley Elementary School,6.01%,,N,,,
-al,158-0000,Hoover City Board of Education,158-0350,Green Valley Elementary Sch,32.56%,,N,,519,169
-al,158-0000,Hoover City Board of Education,158-0360,Greystone Elementary Sch,3.56%,,N,,,
-al,158-0000,Hoover City Board of Education,158-0365,Gwin Elementary School,22.99%,,N,,,
-al,158-0000,Hoover City Board of Education,158-0400,Hoover High School,10.17%,,N,,,
-al,158-0000,Hoover City Board of Education,158-0425,Ira F Simmons Jr High,19.47%,,N,,,
-al,158-0000,Hoover City Board of Education,158-0410,Riverchase Elem School,13.52%,,N,,,
-al,158-0000,Hoover City Board of Education,158-0760,Rocky Ridge Elementary Sch,22.97%,,N,,,
-al,158-0000,Hoover City Board of Education,158-0810,Shades Mountain Elem School,19.47%,,N,,,
-al,158-0000,Hoover City Board of Education,158-0815,South Shades Crest Elem Sch,8.99%,,N,,,
-al,158-0000,Hoover City Board of Education,158-0010,Spain Park High School,8.17%,,N,,,
-al,158-0000,Hoover City Board of Education,158-0820,Trace Crossings Elem School,30.37%,,N,,721,219
-al,035-0000,Houston County Board of Education,035-0012,Ashford Elementary School,50.45%,,N,,664,335
-al,035-0000,Houston County Board of Education,035-0010,Ashford High School,35.68%,,N,,723,258
-al,035-0000,Houston County Board of Education,035-0020,Cottonwood High School,48.18%,,N,,770,371
-al,035-0000,Houston County Board of Education,035-0040,Houston County High School,50.96%,,N,,365,186
-al,035-0000,Houston County Board of Education,035-0052,Rehobeth Elementary School,42.05%,,N,,1139,479
-al,035-0000,Houston County Board of Education,035-0050,Rehobeth High School,25.39%,,N,,,
-al,035-0000,Houston County Board of Education,035-0054,Rehobeth Middle School,36.56%,,N,,599,219
-al,035-0000,Houston County Board of Education,035-0070,Webb Elementary School,65.91%,,N,,443,292
-al,035-0000,Houston County Board of Education,035-0080,Wicksburg High School,26.01%,,N,,,
-al,159-0000,Huntsville City Board of Education,159-0025,Acad For Academics & Arts,30.78%,,Y,54.81%,637,196
-al,159-0000,Huntsville City Board of Education,159-0080,Acad For Sci & Foreign Lang,32.48%,,Y,54.81%,539,175
-al,159-0000,Huntsville City Board of Education,159-0010,Blossomwood Elementary Sch,44.56%,,Y,54.81%,715,319
-al,159-0000,Huntsville City Board of Education,159-0034,Challenger Elementary Sch,28.46%,,N,,534,152
-al,159-0000,Huntsville City Board of Education,159-0037,Challenger Middle School,22.85%,,N,,499,114
-al,159-0000,Huntsville City Board of Education,-7,Chapman Middle School,,,Y,54.81%,,
-al,159-0000,Huntsville City Board of Education,159-0040,Chapman P-8,56.35%,,Y,54.81%,611,344
-al,159-0000,Huntsville City Board of Education,159-0052,Columbia High School,40.33%,,Y,54.81%,983,396
-al,159-0000,Huntsville City Board of Education,159-0120,Farley Elementary School,33.51%,,Y,54.81%,358,120
-al,159-0000,Huntsville City Board of Education,159-0132,Goldsmith-Schiffman Elementary,10.58%,,N,,907,96
-al,159-0000,Huntsville City Board of Education,159-0135,Hampton Cove Elementary,13.16%,,N,,646,85
-al,159-0000,Huntsville City Board of Education,159-0138,Hampton Cove Middle,6.45%,,N,,682,44
-al,159-0000,Huntsville City Board of Education,159-0140,Highlands Elementary School,72.90%,,Y,54.81%,511,373
-al,159-0000,Huntsville City Board of Education,159-0160,Huntsville High School,16.33%,,N,,1751,286
-al,159-0000,Huntsville City Board of Education,159-0170,Huntsville Junior High School,42.37%,,N,,465,197
-al,159-0000,Huntsville City Board of Education,159-0370,James Dawson Elementary School,70.86%,,Y,54.81%,424,300
-al,159-0000,Huntsville City Board of Education,159-0410,James E Williams P-6 School,37.00%,,Y,54.81%,555,205
-al,159-0000,Huntsville City Board of Education,159-0415,James E. Williams Junior High School,32.20%,,Y,54.81%,525,169
-al,159-0000,Huntsville City Board of Education,159-0172,Jemison High School,56.36%,,Y,54.81%,763,430
-al,159-0000,Huntsville City Board of Education,-8,JO Johnson High School,,,Y,54.81%,711,
-al,159-0000,Huntsville City Board of Education,159-0180,Jones Valley Elementary Sch,39.54%,,N,,483,191
-al,159-0000,Huntsville City Board of Education,159-0190,Lakewood Elementary School,80.72%,,Y,54.81%,457,369
-al,159-0000,Huntsville City Board of Education,159-0200,Lee High School,43.69%,,Y,54.81%,783,342
-al,159-0000,Huntsville City Board of Education,159-0060,M.L. King Junior Elementary School,83.99%,,Y,54.81%,503,422
-al,159-0000,Huntsville City Board of Education,159-0230,McDonnell Elementary School,71.96%,,Y,54.81%,492,354
-al,159-0000,Huntsville City Board of Education,159-0240,Monte Sano Elementary Sch,19.85%,,N,,272,54
-al,159-0000,Huntsville City Board of Education,159-0250,Montview Elementary School,75.94%,,Y,54.81%,250,190
-al,159-0000,Huntsville City Board of Education,159-0220,Morris P-8 School,64.33%,,Y,54.81%,509,327
-al,159-0000,Huntsville City Board of Education,159-0270,Mountain Gap PK-8,23.15%,,N,,851,197
-al,159-0000,Huntsville City Board of Education,159-0460,New Century Tech Demo High Sch,13.79%,,Y,54.81%,416,57
-al,159-0000,Huntsville City Board of Education,159-0273,Providence Elementary,48.32%,,Y,54.81%,832,402
-al,159-0000,Huntsville City Board of Education,-9,Providence Middle School,,,Y,54.81%,,
-al,159-0000,Huntsville City Board of Education,159-0280,Ridgecrest Elementary Sch,69.22%,,Y,54.81%,695,481
-al,159-0000,Huntsville City Board of Education,159-0290,Roger B Chaffee Elem School,38.00%,,Y,54.81%,441,168
-al,159-0000,Huntsville City Board of Education,159-0300,Rolling Hills Elem School,75.82%,,Y,54.81%,510,387
-al,159-0000,Huntsville City Board of Education,159-0305,Ronald McNair Jr. High,66.35%,,Y,54.81%,346,230
-al,159-0000,Huntsville City Board of Education,159-0315,Sonnie Hereford Elementary School,81.25%,,Y,54.81%,624,507
-al,159-0000,Huntsville City Board of Education,-10,University Place Elem Sch,,,Y,54.81%,503,
-al,159-0000,Huntsville City Board of Education,159-0340,Virgil Grissom High Sch,19.75%,,N,,1752,346
-al,159-0000,Huntsville City Board of Education,159-0350,Weatherly Heights Elem Sch,28.54%,,N,,529,151
-al,159-0000,Huntsville City Board of Education,159-0400,Whitesburg PK-8,42.02%,,Y,54.81%,1073,451
-al,036-0000,Jackson County Board of Education,036-0015,Bridgeport Elementary Sch,42.06%,,Y,43.73%,241,101
-al,036-0000,Jackson County Board of Education,036-0010,Bridgeport Middle School,45.38%,,Y,43.73%,124,56
-al,036-0000,Jackson County Board of Education,036-0020,Bryant School,30.13%,,N,,156,47
-al,036-0000,Jackson County Board of Education,036-0030,Dutton Elementary School,42.03%,,Y,43.73%,236,99
-al,036-0000,Jackson County Board of Education,036-0040,Flat Rock School,34.56%,,Y,43.73%,128,44
-al,036-0000,Jackson County Board of Education,036-0050,Hollywood School,55.49%,,Y,43.73%,178,99
-al,036-0000,Jackson County Board of Education,-11,Jackson Cty Alternative Sch,,,Y,43.73%,,
-al,036-0000,Jackson County Board of Education,036-0070,Macedonia School,32.26%,,N,,124,40
-al,036-0000,Jackson County Board of Education,036-0075,North Jackson High School,30.02%,,N,,463,139
-al,036-0000,Jackson County Board of Education,036-0080,North Sand Mountain School,28.05%,,N,,656,184
-al,036-0000,Jackson County Board of Education,036-0100,Pisgah High School,32.21%,,N,,596,192
-al,036-0000,Jackson County Board of Education,036-0110,Rosalie Elementary School,48.62%,,Y,43.73%,189,92
-al,036-0000,Jackson County Board of Education,036-0120,Section High School,37.37%,,Y,43.73%,533,199
-al,036-0000,Jackson County Board of Education,036-0130,Skyline High School,26.67%,,N,,525,140
-al,036-0000,Jackson County Board of Education,036-0135,Stevenson Elementary School,52.66%,,Y,43.73%,352,185
-al,036-0000,Jackson County Board of Education,036-0140,Stevenson Middle School,36.68%,,Y,43.73%,299,110
-al,036-0000,Jackson County Board of Education,036-0150,Woodville High School,36.19%,,Y,43.73%,501,181
-al,162-0000,Jacksonville City Board of Education,162-0020,Jacksonville High School,28.19%,,N,,,
-al,162-0000,Jacksonville City Board of Education,162-0010,Kitty Stone Elementary Sch,44.15%,,N,,931,411
-al,163-0000,Jasper City Board of Education,163-0040,Jasper High School,22.31%,,N,,,
-al,163-0000,Jasper City Board of Education,163-0045,Jasper Junior High School,27.01%,,N,,,
-al,163-0000,Jasper City Board of Education,163-0010,Maddox Intermediate School,28.48%,,N,,,
-al,163-0000,Jasper City Board of Education,163-0020,Memorial Park Elem School,35.94%,,N,,409,147
-al,163-0000,Jasper City Board of Education,163-0030,TR Simmons Elementary Sch,44.64%,,N,,522,233
-al,037-0000,Jefferson County Board of Education,037-0030,Adamsville Elementary Sch,55.49%,,N,,319,177
-al,037-0000,Jefferson County Board of Education,037-0050,Bagley Elementary School,20.19%,,N,,,
-al,037-0000,Jefferson County Board of Education,037-0095,Bragg Middle,22.02%,,N,,,
-al,037-0000,Jefferson County Board of Education,037-0110,Brighton School,67.65%,,N,,408,276
-al,037-0000,Jefferson County Board of Education,037-0135,Brookville Elementary Sch,58.88%,,N,,214,126
-al,037-0000,Jefferson County Board of Education,037-0138,Bryan Elementary School,15.64%,,N,,,
-al,037-0000,Jefferson County Board of Education,037-0160,Center Point Elementary Sch,72.06%,,N,,705,508
-al,037-0000,Jefferson County Board of Education,037-0280,Center Point High School,61.49%,,N,,727,447
-al,037-0000,Jefferson County Board of Education,037-0170,Chalkville Elementary Sch,57.61%,,N,,1170,674
-al,037-0000,Jefferson County Board of Education,037-0180,Clay Elementary School,28.16%,,N,,,
-al,037-0000,Jefferson County Board of Education,037-0185,Clay-Chalkville High Sch,33.09%,,N,,1242,411
-al,037-0000,Jefferson County Board of Education,037-0190,Clay-Chalkville Middle Sch,41.84%,,N,,944,395
-al,037-0000,Jefferson County Board of Education,037-0200,Concord Elementary School,25.29%,,N,,,
-al,037-0000,Jefferson County Board of Education,037-0210,Corner High Sch,12.36%,,N,,,
-al,037-0000,Jefferson County Board of Education,037-0211,Corner Middle School,17.28%,,N,,,
-al,037-0000,Jefferson County Board of Education,037-0220,Crumly Chapel Elem Sch,65.43%,,N,,376,246
-al,037-0000,Jefferson County Board of Education,037-0270,Erwin Intermediate School,74.84%,,N,,608,455
-al,037-0000,Jefferson County Board of Education,037-0275,Erwin Middle School,72.11%,,N,,606,437
-al,037-0000,Jefferson County Board of Education,037-0290,Fultondale Elementary Sch,48.18%,,N,,909,438
-al,037-0000,Jefferson County Board of Education,037-0295,Fultondale High School,31.48%,,N,,610,192
-al,037-0000,Jefferson County Board of Education,037-0300,Gardendale Elementary Sch,22.08%,,N,,,
-al,037-0000,Jefferson County Board of Education,037-0310,Gardendale High School,18.10%,,N,,,
-al,037-0000,Jefferson County Board of Education,037-0842,Grantswood Comm School,47.85%,,N,,349,167
-al,037-0000,Jefferson County Board of Education,037-0360,Greenwood Elementary Sch,36.61%,,N,,254,93
-al,037-0000,Jefferson County Board of Education,037-0670,Gresham Elementary School,50.14%,,N,,361,181
-al,037-0000,Jefferson County Board of Education,037-0400,Hillview Elementary School,59.21%,,N,,277,164
-al,037-0000,Jefferson County Board of Education,037-0410,Hueytown Elementary School,45.02%,,N,,1004,452
-al,037-0000,Jefferson County Board of Education,037-0420,Hueytown High School,34.60%,,N,,1136,393
-al,037-0000,Jefferson County Board of Education,037-0730,Hueytown Middle,44.65%,,N,,916,409
-al,037-0000,Jefferson County Board of Education,037-0430,Irondale Community School,46.01%,,N,,376,173
-al,037-0000,Jefferson County Board of Education,037-0431,Irondale Middle School,39.33%,,N,,567,223
-al,037-0000,Jefferson County Board of Education,037-0737,JCIB Middle School,13.42%,,N,,,
-al,037-0000,Jefferson County Board of Education,037-0440,Kermit Johnson School,38.92%,,N,,812,316
-al,037-0000,Jefferson County Board of Education,037-0500,Lipscomb Elementary,60.42%,,N,,240,145
-al,037-0000,Jefferson County Board of Education,037-0525,McAdory Elementary School,28.46%,,N,,,
-al,037-0000,Jefferson County Board of Education,037-0520,McAdory High School,28.42%,,N,,,
-al,037-0000,Jefferson County Board of Education,037-0528,McAdory Middle School,30.71%,,N,,876,269
-al,037-0000,Jefferson County Board of Education,037-0580,Minor Community School,70.90%,,N,,409,290
-al,037-0000,Jefferson County Board of Education,037-0585,Minor High School,49.06%,,N,,954,468
-al,037-0000,Jefferson County Board of Education,037-0078,Minor Middle School,53.86%,,N,,687,370
-al,037-0000,Jefferson County Board of Education,037-0610,Mortimer Jordan High School,18.13%,,N,,,
-al,037-0000,Jefferson County Board of Education,037-0630,Mt Olive Elementary School,23.99%,,N,,,
-al,037-0000,Jefferson County Board of Education,037-0660,North Highland Elem School,53.96%,,N,,341,184
-al,037-0000,Jefferson County Board of Education,037-0662,North Jefferson Middle,23.10%,,N,,,
-al,037-0000,Jefferson County Board of Education,037-0685,Oak Grove Elementary School,36.21%,,N,,522,189
-al,037-0000,Jefferson County Board of Education,037-0690,Oak Grove High School,24.63%,,N,,,
-al,037-0000,Jefferson County Board of Education,037-0700,Pinson Elementary School,46.64%,,N,,849,396
-al,037-0000,Jefferson County Board of Education,037-0710,Pinson Valley High School,35.38%,,N,,995,352
-al,037-0000,Jefferson County Board of Education,037-0736,Pleasant Grove Elem School,40.42%,,N,,715,289
-al,037-0000,Jefferson County Board of Education,037-0735,Pleasant Grove High School,33.07%,,N,,747,247
-al,037-0000,Jefferson County Board of Education,037-0790,Rudd Middle School,37.86%,,N,,795,301
-al,037-0000,Jefferson County Board of Education,037-0795,Shades Valley High Sch,24.23%,,N,,,
-al,037-0000,Jefferson County Board of Education,037-0840,Snow Rogers Elementary Sch,22.51%,,N,,,
-al,037-0000,Jefferson County Board of Education,037-0910,Warrior Elementary School,51.95%,,N,,333,173
-al,037-0000,Jefferson County Board of Education,037-0940,West Jefferson Elementary School,44.06%,,N,,143,63
-al,037-0000,Jefferson County Board of Education,037-0845,Wm E Burkett Multi-Hnd Ctr,80.49%,,N,,328,264
-al,038-0000,Lamar County Board of Education,038-0090,Lamar County High School,34.21%,,N,,649,222
-al,038-0000,Lamar County Board of Education,038-0055,South Lamar School,35.30%,,N,,592,209
-al,038-0000,Lamar County Board of Education,038-0060,Sulligent School,41.38%,,N,,766,317
-al,038-0000,Lamar County Board of Education,038-0080,Vernon Elem School,54.69%,,N,,309,169
-al,165-0000,Lanett City Board of Education,165-0040,Lanett Junior High School,57.76%,,N,,116,67
-al,165-0000,Lanett City Board of Education,165-0030,Lanett Senior High School,58.59%,,N,,227,133
-al,165-0000,Lanett City Board of Education,165-0010,W. O. Lance Elem. (Lanett Central Elem.),68.99%,,N,,603,416
-al,039-0000,Lauderdale County Board of Education,039-0025,Brooks Elementary School,30.27%,,N,,892,270
-al,039-0000,Lauderdale County Board of Education,039-0020,Brooks High School,18.68%,,N,,,
-al,039-0000,Lauderdale County Board of Education,039-0030,Central High School,31.03%,,N,,1289,400
-al,039-0000,Lauderdale County Board of Education,039-0060,Kilby School,11.98%,,N,,,
-al,039-0000,Lauderdale County Board of Education,039-0070,Lauderdale Cty High Sch,28.63%,,N,,,
-al,039-0000,Lauderdale County Board of Education,039-0080,Lexington School,22.39%,,N,,,
-al,039-0000,Lauderdale County Board of Education,039-0110,Rogers High School,26.26%,,N,,,
-al,039-0000,Lauderdale County Board of Education,039-0120,Underwood Elementary School,37.78%,,N,,360,136
-al,039-0000,Lauderdale County Board of Education,039-0130,Waterloo High School,39.57%,,N,,374,148
-al,039-0000,Lauderdale County Board of Education,039-0140,Wilson High School,37.33%,,N,,1267,473
-al,040-0000,Lawrence County Board of Education,040-0025,East Lawrence Elementary School,53.55%,,Y,62.25%,549,294
-al,040-0000,Lawrence County Board of Education,040-0020,East Lawrence High School,32.95%,,N,,349,115
-al,040-0000,Lawrence County Board of Education,040-0035,East Lawrence Middle School,42.75%,,N,,407,174
-al,040-0000,Lawrence County Board of Education,040-0040,Hatton Elementary School,37.79%,,Y,47.03%,465,176
-al,040-0000,Lawrence County Board of Education,040-0050,Hatton High School,26.51%,,N,,381,101
-al,040-0000,Lawrence County Board of Education,040-0060,Hazlewood Elementary School,68.44%,,Y,62.25%,250,171
-al,040-0000,Lawrence County Board of Education,040-0090,Lawrence County High School,28.95%,,N,,601,174
-al,040-0000,Lawrence County Board of Education,040-0110,Moulton Elementary School,50.08%,,Y,47.03%,681,341
-al,040-0000,Lawrence County Board of Education,040-0120,Moulton Middle School,39.34%,,N,,577,227
-al,040-0000,Lawrence County Board of Education,040-0130,Mt Hope Elementary School,64.79%,,Y,62.25%,130,84
-al,040-0000,Lawrence County Board of Education,040-0030,R A Hubbard High School,52.14%,,N,,140,73
-al,040-0000,Lawrence County Board of Education,-12,Sch Site - Family Ed CampusMoulton,,,Y,62.25%,,
-al,040-0000,Lawrence County Board of Education,040-0140,Speake Elementary School,63.82%,,Y,62.25%,181,116
-al,041-0000,Lee County Board of Education,041-0011,Beauregard Elementary Sch,48.44%,,N,,675,327
-al,041-0000,Lee County Board of Education,041-0010,Beauregard High School,28.41%,,N,,,
-al,041-0000,Lee County Board of Education,041-0021,Beulah Elementary School,47.02%,,N,,738,347
-al,041-0000,Lee County Board of Education,041-0020,Beulah High School,32.50%,,N,,517,168
-al,041-0000,Lee County Board of Education,041-0061,East Smiths Station,35.37%,,N,,916,324
-al,041-0000,Lee County Board of Education,041-0031,Loachapoka Elementary Sch,67.63%,,N,,346,234
-al,041-0000,Lee County Board of Education,041-0030,Loachapoka High School,58.26%,,N,,230,134
-al,041-0000,Lee County Board of Education,041-0040,Sanford Middle School,37.05%,,N,,583,216
-al,041-0000,Lee County Board of Education,041-0063,Smiths Station Freshman Center,23.11%,,N,,,
-al,041-0000,Lee County Board of Education,041-0060,Smiths Station High School,18.54%,,N,,,
-al,041-0000,Lee County Board of Education,041-0070,Smiths Station Jr. High,25.88%,,N,,,
-al,041-0000,Lee County Board of Education,041-0062,South Smiths Station,35.00%,,N,,760,266
-al,041-0000,Lee County Board of Education,041-0072,Wacoochee Elementary School,37.91%,,N,,612,232
-al,041-0000,Lee County Board of Education,041-0050,West Smiths Station,33.41%,,N,,820,274
-al,042-0000,Limestone County Board of Education,042-0010,Ardmore High School,16.68%,,N,,,
-al,042-0000,Limestone County Board of Education,042-0012,Blue Springs Elementary School,44.18%,,N,,464,205
-al,042-0000,Limestone County Board of Education,042-0015,Cedar Hill Elementary School,27.39%,,N,,,
-al,042-0000,Limestone County Board of Education,042-0020,Clements High School,28.54%,,N,,,
-al,042-0000,Limestone County Board of Education,042-0025,Creekside Elementary School,15.75%,,N,,,
-al,042-0000,Limestone County Board of Education,042-0024,Creekside Primary School,22.52%,,N,,,
-al,042-0000,Limestone County Board of Education,042-0030,East Limestone High School,13.88%,,N,,,
-al,042-0000,Limestone County Board of Education,042-0051,Elkmont Elementary School,42.63%,,N,,380,162
-al,042-0000,Limestone County Board of Education,042-0050,Elkmont High School,27.90%,,N,,,
-al,042-0000,Limestone County Board of Education,042-0040,Johnson Elementary School,41.56%,,N,,320,133
-al,042-0000,Limestone County Board of Education,042-0090,Piney Chapel Elem School,40.96%,,N,,188,77
-al,042-0000,Limestone County Board of Education,042-0080,Sugar Creek Elementary School,38.07%,,N,,662,252
-al,042-0000,Limestone County Board of Education,042-0121,Tanner Elementary School,52.35%,,N,,361,189
-al,042-0000,Limestone County Board of Education,042-0120,Tanner High School,42.62%,,N,,420,179
-al,042-0000,Limestone County Board of Education,042-0140,West Limestone High School,30.45%,,N,,775,236
-al,168-0000,Linden City Board of Education,168-0010,George P Austin Jr High Sch,70.10%,,Y,68.08%,88,62
-al,168-0000,Linden City Board of Education,168-0020,Linden Elementary School,70.83%,,Y,68.08%,220,156
-al,168-0000,Linden City Board of Education,168-0030,Linden High School,66.27%,,Y,68.08%,140,93
-al,043-0000,Lowndes County Board of Education,043-0015,Calhoun High School,56.00%,,Y,75.79%,204,114
-al,043-0000,Lowndes County Board of Education,043-0020,Central Elementary School,79.61%,,Y,75.79%,282,225
-al,043-0000,Lowndes County Board of Education,043-0025,Central High School,66.20%,,Y,75.79%,259,171
-al,043-0000,Lowndes County Board of Education,043-0030,Ft Deposit Elementary Sch,78.21%,,Y,75.79%,227,178
-al,043-0000,Lowndes County Board of Education,043-0040,Hayneville Middle School,75.14%,,Y,75.79%,170,128
-al,043-0000,Lowndes County Board of Education,043-0080,Jackson Steele Elem. School,76.82%,,Y,75.79%,168,129
-al,043-0000,Lowndes County Board of Education,043-0050,Lowndes County Middle Sch,74.82%,,Y,75.79%,144,108
-al,043-0000,Lowndes County Board of Education,-13,Project Success Learning Center,,,Y,75.79%,,
-al,044-0000,Macon County Board of Education,044-0010,Booker T Washington High,57.81%,,Y,67.56%,499,288
-al,044-0000,Macon County Board of Education,044-0020,D C Wolfe School,75.23%,,Y,67.56%,121,91
-al,044-0000,Macon County Board of Education,044-0025,George Washington Carver School,77.33%,,Y,67.56%,454,351
-al,044-0000,Macon County Board of Education,044-0060,Notasulga High School,69.51%,,Y,67.56%,295,205
-al,044-0000,Macon County Board of Education,044-0100,Tuskegee Inst Middle School,67.65%,,Y,67.56%,219,148
-al,044-0000,Macon County Board of Education,044-0095,Tuskegee Public School,71.71%,,Y,67.56%,354,254
-al,169-0000,Madison City Board of Education,169-0080,Bob Jones High School,6.97%,,N,,,
-al,169-0000,Madison City Board of Education,169-0030,Columbia Elementary School,12.44%,,N,,,
-al,169-0000,Madison City Board of Education,169-0082,Discovery Middle School,8.95%,,N,,,
-al,169-0000,Madison City Board of Education,169-0010,Heritage Elementary School,12.19%,,N,,,
-al,169-0000,Madison City Board of Education,169-0075,Horizon Elementary School,12.29%,,N,,,
-al,169-0000,Madison City Board of Education,169-0095,James Clemens High School,7.32%,,N,,,
-al,169-0000,Madison City Board of Education,169-0083,Liberty Middle School,9.27%,,N,,,
-al,169-0000,Madison City Board of Education,169-0085,Madison School,12.29%,,N,,,
-al,169-0000,Madison City Board of Education,169-0090,Mill Creek Elementary School,22.33%,,N,,,
-al,169-0000,Madison City Board of Education,169-0020,Rainbow Elementary,34.30%,,N,,755,259
-al,169-0000,Madison City Board of Education,169-0220,West Madison School,12.55%,,N,,,
-al,045-0000,Madison County Board of Education,045-0030,Buckhorn High School,14.54%,,N,,,
-al,045-0000,Madison County Board of Education,045-0035,Buckhorn Middle School,18.68%,,N,,,
-al,045-0000,Madison County Board of Education,045-0040,Central School,20.84%,,N,,,
-al,045-0000,Madison County Board of Education,045-0230,Endeavor Elementary,23.85%,,N,,,
-al,045-0000,Madison County Board of Education,045-0060,Harvest School,33.14%,,N,,697,231
-al,045-0000,Madison County Board of Education,045-0063,Hazel Green Elem Sch,39.17%,,N,,702,275
-al,045-0000,Madison County Board of Education,045-0070,Hazel Green High School,18.97%,,N,,,
-al,045-0000,Madison County Board of Education,045-0185,Legacy Elementary,17.17%,,N,,,
-al,045-0000,Madison County Board of Education,045-0132,Lynn Fanning Elem School,23.51%,,N,,,
-al,045-0000,Madison County Board of Education,045-0090,Madison County Elem School,45.59%,,N,,408,186
-al,045-0000,Madison County Board of Education,045-0095,Madison County High School,17.66%,,N,,,
-al,045-0000,Madison County Board of Education,045-0110,Madison Cross Roads Elem School,39.76%,,N,,918,365
-al,045-0000,Madison County Board of Education,045-0115,Meridianville Middle School,20.37%,,N,,,
-al,045-0000,Madison County Board of Education,045-0130,Monrovia  Elem School,17.68%,,N,,,
-al,045-0000,Madison County Board of Education,045-0120,Monrovia Middle School,13.31%,,N,,,
-al,045-0000,Madison County Board of Education,045-0215,Moore's Mill Intermediate School,22.61%,,N,,,
-al,045-0000,Madison County Board of Education,045-0135,Mt Carmel Elementary School,27.54%,,N,,,
-al,045-0000,Madison County Board of Education,045-0141,New Hope Elementary School,35.45%,,N,,725,257
-al,045-0000,Madison County Board of Education,045-0140,New Hope High School,20.80%,,N,,,
-al,045-0000,Madison County Board of Education,045-0150,New Market School,37.28%,,N,,397,148
-al,045-0000,Madison County Board of Education,045-0170,Owens Cross Rds Jr High Sch,36.99%,,N,,392,145
-al,045-0000,Madison County Board of Education,045-0180,Riverton Elementary School,24.49%,,N,,,
-al,045-0000,Madison County Board of Education,045-0190,Sparkman High School,13.34%,,N,,,
-al,045-0000,Madison County Board of Education,045-0195,Sparkman Middle,28.42%,,N,,,
-al,045-0000,Madison County Board of Education,045-0191,Sparkman Ninth Grade School,18.04%,,N,,,
-al,045-0000,Madison County Board of Education,045-0210,Walnut Grove Middle School,46.44%,,N,,267,124
-al,800-0000,"MAEF Public Charter Schools, Inc. (ACCEL)",800-0010,Acceleration Day and Evening Academy,61.13%,,Y,61.13%,265,162
-al,046-0000,Marengo County Board of Education,046-0010,Amelia L Johnson High Sch,73.56%,,N,,174,128
-al,046-0000,Marengo County Board of Education,046-0060,Marengo High School,75.81%,,N,,248,188
-al,046-0000,Marengo County Board of Education,046-0090,Sweet Water High School,37.03%,,N,,586,217
-al,047-0000,Marion County Board of Education,047-0010,Brilliant School,49.61%,,N,,256,127
-al,047-0000,Marion County Board of Education,047-0060,Guin Elementary School,48.50%,,N,,266,129
-al,047-0000,Marion County Board of Education,047-0065,Hackleburg Elementary School,38.54%,,N,,288,111
-al,047-0000,Marion County Board of Education,047-0070,Hackleburg High school,33.66%,,N,,202,68
-al,047-0000,Marion County Board of Education,047-0075,Hamilton Elementary School,48.95%,,N,,621,304
-al,047-0000,Marion County Board of Education,047-0090,Hamilton High School,24.12%,,N,,,
-al,047-0000,Marion County Board of Education,047-0080,Hamilton Middle School,36.44%,,N,,472,172
-al,047-0000,Marion County Board of Education,047-0095,Marion County Alternative,41.67%,,N,,12,5
-al,047-0000,Marion County Board of Education,047-0100,Marion County High School,35.68%,,N,,241,86
-al,047-0000,Marion County Board of Education,047-0105,Phillips Elementary School,53.78%,,N,,251,135
-al,047-0000,Marion County Board of Education,047-0110,Phillips High School,41.63%,,N,,209,87
-al,048-0000,Marshall County Board of Education,048-0035,Asbury Elementary,55.08%,,Y,53.06%,534,294
-al,048-0000,Marshall County Board of Education,048-0030,Asbury School,41.43%,,Y,53.06%,546,226
-al,048-0000,Marshall County Board of Education,048-0120,Brindlee Mountain Elementary School,55.36%,,N,,233,129
-al,048-0000,Marshall County Board of Education,048-0042,Brindlee Mountain High School,42.78%,,N,,575,246
-al,048-0000,Marshall County Board of Education,048-0180,Brindlee Mountain Primary School,52.66%,,N,,207,109
-al,048-0000,Marshall County Board of Education,048-0070,Claysville Junior High Sch,70.87%,,N,,127,90
-al,048-0000,Marshall County Board of Education,048-0090,Douglas Elementary School,58.55%,,N,,550,322
-al,048-0000,Marshall County Board of Education,048-0100,Douglas High School,38.16%,,N,,587,224
-al,048-0000,Marshall County Board of Education,048-0105,Douglas Middle School,40.21%,,N,,480,193
-al,048-0000,Marshall County Board of Education,048-0145,Kate D Smith DAR Elem Sch,43.89%,,N,,458,201
-al,048-0000,Marshall County Board of Education,048-0140,Kate D Smith DAR High Sch,24.89%,,N,,438,109
-al,048-0000,Marshall County Board of Education,048-0143,Kate Duncan Smith DAR Mid,34.66%,,N,,427,148
-al,048-0000,Marshall County Board of Education,048-0095,Robert D. Sloman Primary School,46.77%,,N,,434,203
-al,171-0000,Midfield City Board of Education,171-0010,Midfield Elementary School,80.10%,,Y,75.07%,403,323
-al,171-0000,Midfield City Board of Education,171-0020,Midfield High School,67.28%,,Y,75.07%,342,230
-al,171-0000,Midfield City Board of Education,171-0040,Rutledge School,76.51%,,Y,75.07%,318,243
-al,049-0000,Mobile County Board of Education ,049-0042,Allentown Elementary School,42.14%,,Y,57.54%,833,351
-al,049-0000,Mobile County Board of Education ,049-0136,Alma Bryant High School,38.55%,,Y,57.54%,1637,631
-al,049-0000,Mobile County Board of Education ,049-0050,Augusta Evans School,44.87%,,Y,57.54%,263,118
-al,049-0000,Mobile County Board of Education ,049-0700,AW Holloway Elem,89.37%,,Y,57.54%,630,563
-al,049-0000,Mobile County Board of Education ,049-0100,Baker High School,30.04%,,Y,57.54%,2527,759
-al,049-0000,Mobile County Board of Education ,049-0080,Ben C Rain High School,74.33%,,Y,57.54%,670,498
-al,049-0000,Mobile County Board of Education ,049-0090,Booker T Washington Mdsch,88.98%,,Y,57.54%,254,226
-al,049-0000,Mobile County Board of Education ,049-0035,Booth Elementay,59.91%,,Y,57.54%,454,272
-al,049-0000,Mobile County Board of Education ,049-0132,Breitling Elem School,49.01%,,Y,57.54%,557,273
-al,049-0000,Mobile County Board of Education ,049-0138,Burns Middle School,59.06%,,Y,57.54%,850,502
-al,049-0000,Mobile County Board of Education ,049-0150,Calcedeaver Elementary Sch,60.24%,,Y,57.54%,249,150
-al,049-0000,Mobile County Board of Education ,049-0156,Calloway-Smith Middle School,80.82%,,Y,57.54%,657,531
-al,049-0000,Mobile County Board of Education ,049-0112,Causey Middle School,41.77%,,Y,57.54%,1518,634
-al,049-0000,Mobile County Board of Education ,049-0750,CF Vigor High School,76.97%,,Y,57.54%,547,421
-al,049-0000,Mobile County Board of Education ,049-0740,Chastang-Fournier,85.69%,,Y,57.54%,594,509
-al,049-0000,Mobile County Board of Education ,049-0190,Citronelle High School,45.27%,,Y,57.54%,793,359
-al,049-0000,Mobile County Board of Education ,049-0410,Clark-Shaw Magnet School,26.39%,,Y,57.54%,758,200
-al,049-0000,Mobile County Board of Education ,049-0275,Collier Elementary School,53.44%,,Y,57.54%,786,420
-al,049-0000,Mobile County Board of Education ,049-0270,Collins-Rhodes Elementary,86.84%,,Y,57.54%,585,508
-al,049-0000,Mobile County Board of Education ,049-0195,Continuous Learning Center,71.67%,,Y,57.54%,120,86
-al,049-0000,Mobile County Board of Education ,049-0340,Cora Castlen Elem,45.75%,,Y,57.54%,435,199
-al,049-0000,Mobile County Board of Education ,049-0228,Dauphin Island Elem Sch,20.51%,,Y,57.54%,78,16
-al,049-0000,Mobile County Board of Education ,049-0231,Dawes Intermediate School,27.74%,,Y,57.54%,548,152
-al,049-0000,Mobile County Board of Education ,049-0070,Denton Magnet School of Technology,38.19%,,Y,57.54%,343,131
-al,049-0000,Mobile County Board of Education ,049-0240,Dixon Elementary School,64.10%,,Y,57.54%,493,316
-al,049-0000,Mobile County Board of Education ,049-0245,Dr. Robert W. Gilliard Elementary School,85.82%,,Y,57.54%,797,684
-al,049-0000,Mobile County Board of Education ,049-0250,Dunbar Creative Perf Arts,50.11%,,Y,57.54%,471,236
-al,049-0000,Mobile County Board of Education ,049-0506,Eichold-Mertz School of Math Science and Technology,32.13%,,Y,57.54%,498,160
-al,049-0000,Mobile County Board of Education ,049-0290,Elizabeth Fonde Elem School,80.83%,,Y,57.54%,605,489
-al,049-0000,Mobile County Board of Education ,049-0260,ER Dickson Elementary Sch,63.04%,,Y,57.54%,901,568
-al,049-0000,Mobile County Board of Education ,049-0210,Erwin Craighead Elem School,93.12%,,Y,57.54%,509,474
-al,049-0000,Mobile County Board of Education ,-14,ET Belsaw - Mt Vernon,,,Y,57.54%,,
-al,049-0000,Mobile County Board of Education ,049-0310,Forest Hill Elementary Sch,83.30%,,Y,57.54%,539,449
-al,049-0000,Mobile County Board of Education ,049-0320,George Hall Elementary Sch,89.92%,,Y,57.54%,377,339
-al,049-0000,Mobile County Board of Education ,049-0490,Grand Bay Middle School,42.63%,,Y,57.54%,814,347
-al,049-0000,Mobile County Board of Education ,049-0345,Grant Elementary School,88.65%,,Y,57.54%,282,250
-al,049-0000,Mobile County Board of Education ,049-0720,Hankins Middle School,65.92%,,Y,57.54%,848,559
-al,049-0000,Mobile County Board of Education ,049-0380,Hollingers Island Elem Sch,61.72%,,Y,57.54%,290,179
-al,049-0000,Mobile County Board of Education ,049-0385,Howard Elementary School,84.77%,,Y,57.54%,453,384
-al,049-0000,Mobile County Board of Education ,049-0388,Hutchens Elementary School,32.35%,,Y,57.54%,609,197
-al,049-0000,Mobile County Board of Education ,049-0390,Indian Springs Elem Sch,76.31%,,Y,57.54%,401,306
-al,049-0000,Mobile County Board of Education ,049-0323,J. E. Turner Elementary School,53.11%,,Y,57.54%,531,282
-al,049-0000,Mobile County Board of Education ,049-0400,John Will Elementary School,80.68%,,Y,57.54%,533,430
-al,049-0000,Mobile County Board of Education ,049-0735,Just 4 Dvl Laboratory,100.00%,,Y,57.54%,284,284
-al,049-0000,Mobile County Board of Education ,049-0420,Kate Shephard Elem School,65.17%,,Y,57.54%,603,393
-al,049-0000,Mobile County Board of Education ,049-0730,Le Flore High School,70.27%,,Y,57.54%,629,442
-al,049-0000,Mobile County Board of Education ,049-0621,Lott Middle School,51.96%,,Y,57.54%,510,265
-al,049-0000,Mobile County Board of Education ,-15,Mae Eanes Middle School,,,Y,57.54%,,
-al,049-0000,Mobile County Board of Education ,049-0060,Mary B Austin Elem School,41.52%,,Y,57.54%,525,218
-al,049-0000,Mobile County Board of Education ,049-0460,Mary G Montgomery High Sch,36.91%,,Y,57.54%,1948,719
-al,049-0000,Mobile County Board of Education ,049-0140,Mary W Burroughs Elem Sch,76.61%,,Y,57.54%,342,262
-al,049-0000,Mobile County Board of Education ,049-0470,Maryvale Elementary School,92.84%,,Y,57.54%,475,441
-al,049-0000,Mobile County Board of Education ,049-0120,Mattie T Blount High School,68.90%,,Y,57.54%,1013,698
-al,049-0000,Mobile County Board of Education ,049-0473,McDavid-Jones Elementary School,58.56%,,Y,57.54%,929,544
-al,049-0000,Mobile County Board of Education ,049-0475,Meadowlake Elementary,51.88%,,Y,57.54%,426,221
-al,049-0000,Mobile County Board of Education ,049-0500,Mobile Cty Training Mdsch,93.96%,,Y,57.54%,182,171
-al,049-0000,Mobile County Board of Education ,049-0510,Morningside Elementary Sch,92.00%,,Y,57.54%,500,460
-al,049-0000,Mobile County Board of Education ,049-0540,Nan Gray Davis Elem School,59.66%,,Y,57.54%,533,318
-al,049-0000,Mobile County Board of Education ,049-0021,North Mobile Middle,64.44%,,Y,57.54%,464,299
-al,049-0000,Mobile County Board of Education ,049-0550,Old Shell CreativePerf Art,36.94%,,Y,57.54%,379,140
-al,049-0000,Mobile County Board of Education ,049-0560,Olive J Dodge Elem School,61.55%,,Y,57.54%,1056,650
-al,049-0000,Mobile County Board of Education ,049-0570,Orchard Elementary School,71.06%,,Y,57.54%,508,361
-al,049-0000,Mobile County Board of Education ,049-0622,O'Rourke Elem Sch,46.23%,,Y,57.54%,1060,490
-al,049-0000,Mobile County Board of Education ,049-0859,Pearl Haskew Elementary School,58.39%,,Y,57.54%,548,320
-al,049-0000,Mobile County Board of Education ,049-0040,Peter F Alba Middle School,58.40%,,Y,57.54%,536,313
-al,049-0000,Mobile County Board of Education ,049-0595,Pillans Middle School,87.03%,,Y,57.54%,509,443
-al,049-0000,Mobile County Board of Education ,049-5160,Regional School For The Deaf and Blind,67.35%,,Y,57.54%,49,33
-al,049-0000,Mobile County Board of Education ,049-0650,Scarborough Model Middle School,78.86%,,Y,57.54%,563,444
-al,049-0000,Mobile County Board of Education ,049-0656,Semmes Elementary School,48.06%,,Y,57.54%,566,272
-al,049-0000,Mobile County Board of Education ,049-0660,Semmes Middle School,48.08%,,Y,57.54%,1383,665
-al,049-0000,Mobile County Board of Education ,049-0590,Sidney Phillips Preparatory,24.97%,,Y,57.54%,733,183
-al,049-0000,Mobile County Board of Education ,049-0770,Spencer-Westlawn Elementary School,83.63%,,Y,57.54%,556,465
-al,049-0000,Mobile County Board of Education ,049-0530,SS Murphy High School,50.85%,,Y,57.54%,1475,750
-al,049-0000,Mobile County Board of Education ,049-0690,St. Elmo Elementary School,60.18%,,Y,57.54%,442,266
-al,049-0000,Mobile County Board of Education ,049-0710,Tanner Williams Elem School,39.94%,,Y,57.54%,308,123
-al,049-0000,Mobile County Board of Education ,049-0705,Taylor-White Elementary,46.95%,,Y,57.54%,394,185
-al,049-0000,Mobile County Board of Education ,049-0495,The Pathway 6-8,82.67%,,Y,57.54%,202,167
-al,049-0000,Mobile County Board of Education ,049-0715,Theodore High School,49.96%,,Y,57.54%,1411,705
-al,049-0000,Mobile County Board of Education ,049-0350,WC Griggs Elementary Sch,57.25%,,Y,57.54%,683,391
-al,049-0000,Mobile County Board of Education ,049-0760,WD Robbins Elementary Sch,91.77%,,Y,57.54%,389,357
-al,049-0000,Mobile County Board of Education ,049-0200,WH Council Traditional Sch,33.86%,,Y,57.54%,638,216
-al,049-0000,Mobile County Board of Education ,049-0430,WH Leinkauf Elementary Sch,85.65%,,Y,57.54%,627,537
-al,049-0000,Mobile County Board of Education ,049-0790,Whitley Elementary School,93.99%,,Y,57.54%,333,313
-al,049-0000,Mobile County Board of Education ,049-0800,Williamson High School and Middle Grades Preparatory Academy,84.38%,,Y,57.54%,704,594
-al,049-0000,Mobile County Board of Education ,049-0810,Wilmer Elementary School,66.67%,,Y,57.54%,576,384
-al,049-0000,Mobile County Board of Education ,-16,Wm Henry Brazier Elem Sch,,,Y,57.54%,,
-al,049-0000,Mobile County Board of Education ,049-0230,WP Davidson High School,34.20%,,Y,57.54%,1614,552
-al,050-0000,Monroe County Board of Education,050-0020,Excel High School,35.63%,,N,,1044,372
-al,050-0000,Monroe County Board of Education,050-0055,JF Shields High School,73.28%,,Y,64.54%,232,170
-al,050-0000,Monroe County Board of Education,050-0060,JU Blacksher School,32.43%,,N,,703,228
-al,050-0000,Monroe County Board of Education,-17,Monroe Co Alternative Sch,,,Y,64.54%,,
-al,050-0000,Monroe County Board of Education,050-0070,Monroe County High School,46.91%,,Y,64.54%,356,167
-al,050-0000,Monroe County Board of Education,050-0090,Monroe Intermediate School,78.82%,,Y,64.54%,85,67
-al,050-0000,Monroe County Board of Education,050-0100,Monroeville Elementary Sch,71.90%,,Y,64.54%,548,394
-al,050-0000,Monroe County Board of Education,050-0110,Monroeville Middle School,61.94%,,Y,64.54%,381,236
-al,051-0000,Montgomery County Board of Education,051-0020,Baldwin Magnet School,13.45%,,Y,60.44%,524,70
-al,051-0000,Montgomery County Board of Education,051-0030,Bear Exploration Center,14.86%,,Y,60.44%,512,76
-al,051-0000,Montgomery County Board of Education,051-0050,Bellingrath Middle School,85.30%,,Y,60.44%,456,389
-al,051-0000,Montgomery County Board of Education,051-0060,Booker T Washington Magnet High School,21.21%,,Y,60.44%,399,85
-al,051-0000,Montgomery County Board of Education,051-0085,Brewbaker Intermediate Sch,77.31%,,Y,60.44%,696,538
-al,051-0000,Montgomery County Board of Education,051-0090,Brewbaker Middle School,69.58%,,Y,60.44%,800,557
-al,051-0000,Montgomery County Board of Education,051-0095,Brewbaker Primary School,74.88%,,Y,60.44%,612,458
-al,051-0000,Montgomery County Board of Education,051-0097,Brewbaker Technology Magnet,18.39%,,Y,60.44%,521,96
-al,051-0000,Montgomery County Board of Education,051-0100,Capitol Heights Middle School,79.39%,,Y,60.44%,608,483
-al,051-0000,Montgomery County Board of Education,051-0110,Carver Elementary School,60.75%,,Y,60.44%,460,279
-al,051-0000,Montgomery County Board of Education,051-0130,Carver Senior High School,64.23%,,Y,60.44%,1076,691
-al,051-0000,Montgomery County Board of Education,051-0140,Catoma Elementary School,70.73%,,Y,60.44%,301,213
-al,051-0000,Montgomery County Board of Education,051-0150,Childrens Center,28.26%,,Y,60.44%,96,27
-al,051-0000,Montgomery County Board of Education,051-0170,Chisholm Elementary School,79.81%,,Y,60.44%,517,413
-al,051-0000,Montgomery County Board of Education,051-0500,Crump Elementary School,79.01%,,Y,60.44%,644,509
-al,051-0000,Montgomery County Board of Education,051-0200,Dalraida Elementary School,52.96%,,Y,60.44%,757,401
-al,051-0000,Montgomery County Board of Education,051-0210,Dannelly Elementary School,73.54%,,Y,60.44%,577,424
-al,051-0000,Montgomery County Board of Education,051-0220,Davis Elementary School,86.37%,,Y,60.44%,421,364
-al,051-0000,Montgomery County Board of Education,051-0225,Dozier Elementary School,59.96%,,Y,60.44%,454,272
-al,051-0000,Montgomery County Board of Education,051-0230,Dunbar-Ramer School,71.01%,,Y,60.44%,158,112
-al,051-0000,Montgomery County Board of Education,051-0475,E.D. Nixon School,84.40%,,Y,60.44%,428,361
-al,051-0000,Montgomery County Board of Education,051-0440,Fitzpatrick Elementary Sch,84.28%,,Y,60.44%,523,441
-al,051-0000,Montgomery County Board of Education,051-0250,Flowers Elementary School,66.11%,,Y,60.44%,428,283
-al,051-0000,Montgomery County Board of Education,-18,Floyd  Elementary School,,,Y,60.44%,400,
-al,051-0000,Montgomery County Board of Education,051-0260,Floyd Middle Magnet School,22.36%,,Y,60.44%,494,110
-al,051-0000,Montgomery County Board of Education,051-0270,Forest Ave Elementary Sch,9.58%,,Y,60.44%,685,66
-al,051-0000,Montgomery County Board of Education,051-0275,Garrett Elementary School,53.59%,,Y,60.44%,607,325
-al,051-0000,Montgomery County Board of Education,-19,Georgia Washington Middle School,,,Y,60.44%,501,
-al,051-0000,Montgomery County Board of Education,051-0300,Goodwyn Middle School,66.67%,,Y,60.44%,537,358
-al,051-0000,Montgomery County Board of Education,051-0305,Halcyon Elementary School,49.92%,,Y,60.44%,501,250
-al,051-0000,Montgomery County Board of Education,051-0340,Highland Ave Elementary Sch,87.26%,,Y,60.44%,435,380
-al,051-0000,Montgomery County Board of Education,051-0350,Highland Gardens Elem Sch,84.50%,,Y,60.44%,459,388
-al,051-0000,Montgomery County Board of Education,051-0370,Jefferson Davis High School,60.07%,,Y,60.44%,1744,1048
-al,051-0000,Montgomery County Board of Education,051-0560,Jim Winfrey Wilson Jr. Elementary School,31.00%,,Y,60.44%,464,144
-al,051-0000,Montgomery County Board of Education,051-0105,Johnnie R. Carr Middle School,37.06%,,Y,60.44%,752,279
-al,051-0000,Montgomery County Board of Education,051-0380,Johnson Elementary School,87.45%,,Y,60.44%,463,405
-al,051-0000,Montgomery County Board of Education,051-0387,L.A.M.P. Magnet High School,5.52%,,Y,60.44%,504,28
-al,051-0000,Montgomery County Board of Education,051-0390,Lanier Senior High School,72.54%,,Y,60.44%,998,724
-al,051-0000,Montgomery County Board of Education,051-0400,Lee High School,66.44%,,Y,60.44%,1461,971
-al,051-0000,Montgomery County Board of Education,051-0420,MacMillan International Acad,29.40%,,Y,60.44%,355,104
-al,051-0000,Montgomery County Board of Education,051-0385,Martin Luther King Elementary,79.55%,,Y,60.44%,324,258
-al,051-0000,Montgomery County Board of Education,051-0240,McIntyre Comprehensive Academy,86.16%,,Y,60.44%,50,43
-al,051-0000,Montgomery County Board of Education,051-0470,Morningview Elementary Sch,64.82%,,Y,60.44%,578,375
-al,051-0000,Montgomery County Board of Education,-20,MPACT,,,Y,60.44%,,
-al,051-0000,Montgomery County Board of Education,051-0478,Park Crossing High School,32.50%,,Y,60.44%,1243,404
-al,051-0000,Montgomery County Board of Education,-21,Paterson Academy of Creative Education,,,Y,60.44%,,
-al,051-0000,Montgomery County Board of Education,051-0520,Pintlala Elementary School,61.04%,,Y,60.44%,152,93
-al,051-0000,Montgomery County Board of Education,051-0530,Southlawn Elementary School,87.06%,,Y,60.44%,318,277
-al,051-0000,Montgomery County Board of Education,051-0535,Southlawn Middle School,83.72%,,Y,60.44%,494,414
-al,051-0000,Montgomery County Board of Education,051-0463,T S Morris Elementary School,91.10%,,Y,60.44%,568,517
-al,051-0000,Montgomery County Board of Education,051-0540,Vaughn Rd Elementary School,69.05%,,Y,60.44%,512,354
-al,051-0000,Montgomery County Board of Education,051-0055,W. M. Blount Elem School,14.19%,,Y,60.44%,434,62
-al,051-0000,Montgomery County Board of Education,051-0458,Walter T McKee Middle School,77.70%,,Y,60.44%,781,607
-al,051-0000,Montgomery County Board of Education,051-0456,Walter T McKee Pre K Center,100.00%,,Y,60.44%,182,182
-al,051-0000,Montgomery County Board of Education,051-0550,Wares Ferry Rd Elem Sch,75.76%,,Y,60.44%,448,339
-al,052-0000,Morgan County Board of Education,052-0005,Albert P Brewer High School,25.56%,,N,,,
-al,052-0000,Morgan County Board of Education,052-0010,Cotaco School,42.98%,,N,,463,199
-al,052-0000,Morgan County Board of Education,052-0030,Danville High School,22.57%,,N,,,
-al,052-0000,Morgan County Board of Education,052-0025,Danville Middle School,26.53%,,N,,,
-al,052-0000,Morgan County Board of Education,052-0020,Danville-Neel Elem Sch,36.12%,,N,,526,190
-al,052-0000,Morgan County Board of Education,052-0040,Eva School,35.92%,,N,,373,134
-al,052-0000,Morgan County Board of Education,052-0055,Falkville Elementary School,43.71%,,N,,302,132
-al,052-0000,Morgan County Board of Education,052-0060,Falkville High School,24.81%,,N,,,
-al,052-0000,Morgan County Board of Education,052-0090,Laceys Spring Elem School,46.30%,,N,,311,144
-al,052-0000,Morgan County Board of Education,052-0145,Priceville Elementary School,32.26%,,N,,685,221
-al,052-0000,Morgan County Board of Education,052-0150,Priceville High School,11.04%,,N,,,
-al,052-0000,Morgan County Board of Education,052-0147,Pricevillle Junior High School,18.41%,,N,,,
-al,052-0000,Morgan County Board of Education,052-0140,Sparkman Elementary School,61.57%,,N,,216,133
-al,052-0000,Morgan County Board of Education,052-0170,Union Hill School,37.95%,,N,,440,167
-al,052-0000,Morgan County Board of Education,052-0175,West Morgan Elementary Sch,40.38%,,N,,572,231
-al,052-0000,Morgan County Board of Education,052-0180,West Morgan High School,20.78%,,N,,,
-al,052-0000,Morgan County Board of Education,052-0177,West Morgan Middle School,34.07%,,N,,452,154
-al,175-0000,Mt Brook City BOE,175-0010,Brookwood Forest Elem Sch,3.29%,,N,,,
-al,175-0000,Mt Brook City BOE,175-0020,Cherokee Bend Elem School,1.06%,,N,,,
-al,175-0000,Mt Brook City BOE,175-0030,Crestline Elementary School,2.95%,,N,,,
-al,175-0000,Mt Brook City BOE,175-0040,Mountain Brook Elem School,5.88%,,N,,,
-al,175-0000,Mt Brook City BOE,175-0050,Mt Brook High School,0.19%,,N,,,
-al,175-0000,Mt Brook City BOE,175-0060,Mt Brook Junior High School,0.40%,,N,,,
-al,176-0000,Muscle Shoals City Board of Education,176-0020,Highland Park Elem School,22.84%,,N,,,
-al,176-0000,Muscle Shoals City Board of Education,176-0030,Howell-Graves Preschool,39.85%,,N,,271,108
-al,176-0000,Muscle Shoals City Board of Education,176-0005,McBride Elementary School,19.42%,,N,,,
-al,176-0000,Muscle Shoals City Board of Education,176-0040,Muscle Shoals High School,12.20%,,N,,,
-al,176-0000,Muscle Shoals City Board of Education,176-0010,Muscle Shoals Middle School,17.81%,,N,,,
-al,176-0000,Muscle Shoals City Board of Education,176-0050,Webster Elementary School,14.85%,,N,,,
-al,178-0000,Oneonta City Board of Education,178-0010,Oneonta Elementary School,23.94%,,N,,,
-al,178-0000,Oneonta City Board of Education,178-0020,Oneonta High School,10.26%,,N,,,
-al,179-0000,Opelika City Board of Education,179-0020,Carver Primary School,59.16%,,N,,404,239
-al,179-0000,Opelika City Board of Education,179-0030,Jeter Primary School,51.48%,,N,,338,174
-al,179-0000,Opelika City Board of Education,179-0045,Morris Ave Intermediate Sch,45.18%,,N,,301,136
-al,179-0000,Opelika City Board of Education,179-0010,Northside Intermediate School,41.38%,,N,,406,168
-al,179-0000,Opelika City Board of Education,179-0055,Opelika High School,33.69%,,N,,1205,406
-al,179-0000,Opelika City Board of Education,179-0060,Opelika Middle School,43.90%,,N,,1073,471
-al,179-0000,Opelika City Board of Education,179-0090,Southview Primary School,43.47%,,N,,444,193
-al,179-0000,Opelika City Board of Education,179-0100,WForest Intermediate Sch,61.17%,,N,,376,230
-al,180-0000,Opp City Board of Education,180-0030,Opp Elem School,50.85%,,N,,531,270
-al,180-0000,Opp City Board of Education,180-0010,Opp High School,30.55%,,N,,347,106
-al,180-0000,Opp City Board of Education,180-0020,Opp Middle School,41.96%,,N,,398,167
-al,181-0000,Oxford City Board of Education,181-0005,CE Hanna School,38.50%,,N,,639,246
-al,181-0000,Oxford City Board of Education,181-0070,Coldwater Elementary School,48.52%,,N,,371,180
-al,181-0000,Oxford City Board of Education,181-0040,DeArmanville Elementary,39.87%,,N,,474,189
-al,181-0000,Oxford City Board of Education,181-0010,Oxford Elementary School,44.08%,,N,,819,361
-al,181-0000,Oxford City Board of Education,181-0020,Oxford High School,26.72%,,N,,,
-al,181-0000,Oxford City Board of Education,181-0030,Oxford Middle School,33.85%,,N,,641,217
-al,182-0000,Ozark City Board of Education,182-0010,Carroll High School,43.60%,,N,,688,300
-al,182-0000,Ozark City Board of Education,182-0060,DA Smith Middle School,50.22%,,N,,462,232
-al,182-0000,Ozark City Board of Education,182-0040,Harry N Mixon Intermediate School,58.77%,,N,,473,278
-al,182-0000,Ozark City Board of Education,182-0050,Joseph W Lisenby Primary Sch,70.22%,,N,,544,382
-al,177-0000,Pelham City Board of Education,177-0085,Pelham High School,11.63%,,N,,,
-al,177-0000,Pelham City Board of Education,177-0155,Pelham Oaks Elementary School,20.46%,,N,,,
-al,177-0000,Pelham City Board of Education,177-0087,Pelham Park Middle School,14.62%,,N,,,
-al,177-0000,Pelham City Board of Education,177-0150,Pelham Ridge Elementary School,18.37%,,N,,,
-al,183-0000,Pell City Board of Education,183-0040,Coosa Valley Elementary Sch,38.20%,,N,,466,178
-al,183-0000,Pell City Board of Education,183-0080,Duran Junior High School,28.62%,,N,,,
-al,183-0000,Pell City Board of Education,183-0085,Duran South School,28.62%,,N,,,
-al,183-0000,Pell City Board of Education,183-0050,Eden Elementary,52.97%,,N,,472,250
-al,183-0000,Pell City Board of Education,183-0060,Iola Roberts Elementary Sch,48.99%,,N,,396,194
-al,183-0000,Pell City Board of Education,183-0100,Pell City High School,26.46%,,N,,,
-al,183-0000,Pell City Board of Education,183-0110,Walter M Kennedy School,39.83%,,N,,477,190
-al,183-0000,Pell City Board of Education,183-0090,Williams Intermediate School,36.89%,,N,,591,218
-al,053-0000,Perry County Board of Education,053-0025,Francis Marion School,76.08%,,Y,80.18%,715,544
-al,053-0000,Perry County Board of Education,053-0040,Robert C Hatch High School,85.05%,,Y,80.18%,602,512
-al,184-0000,Phenix City Board of Education,184-0035,Central High Freshman Academy,37.03%,,N,,451,167
-al,184-0000,Phenix City Board of Education,184-0030,Central High School,35.41%,,N,,1237,438
-al,184-0000,Phenix City Board of Education,184-0045,Lakewood Elementary School ,17.70%,,N,,,
-al,184-0000,Phenix City Board of Education,184-0047,Lakewood Primary School,20.14%,,N,,,
-al,184-0000,Phenix City Board of Education,184-0050,Meadowlane Elementary Sch,85.79%,,N,,183,157
-al,184-0000,Phenix City Board of Education,184-0053,Phenix City Elem School,64.57%,,N,,683,441
-al,184-0000,Phenix City Board of Education,184-0040,Phenix City Intermediate School,44.01%,,N,,1143,503
-al,184-0000,Phenix City Board of Education,184-0070,Ridgecrest Elementary Sch,57.60%,,N,,757,436
-al,184-0000,Phenix City Board of Education,184-0080,Sherwood Elementary School,43.03%,,N,,581,250
-al,184-0000,Phenix City Board of Education,184-0100,South Girard School,42.53%,,N,,482,205
-al,184-0000,Phenix City Board of Education,184-0130,Westview Elementary School,81.64%,,N,,621,507
-al,054-0000,Pickens County Board of Education,054-0010,Aliceville Elementary Sch,72.27%,,N,,494,357
-al,054-0000,Pickens County Board of Education,054-0020,Aliceville High School,52.77%,,N,,235,124
-al,054-0000,Pickens County Board of Education,054-0030,Aliceville Middle School,64.23%,,N,,123,79
-al,054-0000,Pickens County Board of Education,054-0060,Gordo Elementary School,42.34%,,N,,640,271
-al,054-0000,Pickens County Board of Education,054-0070,Gordo High School,28.57%,,N,,,
-al,054-0000,Pickens County Board of Education,054-0080,Pickens County High School,54.45%,,N,,281,153
-al,054-0000,Pickens County Board of Education,054-0090,Reform Elementary School,60.78%,,N,,232,141
-al,185-0000,Piedmont City Board of Education,185-0030,Piedmont Elementary School,49.91%,,N,,529,264
-al,185-0000,Piedmont City Board of Education,185-0020,Piedmont High School,34.33%,,N,,300,103
-al,185-0000,Piedmont City Board of Education,185-0025,Piedmont Middle School,35.89%,,N,,287,103
-al,055-0000,Pike County Board of Education,055-0010,Banks Primary School,54.28%,,Y,59.84%,369,200
-al,055-0000,Pike County Board of Education,055-0025,Goshen Elementary School,64.26%,,Y,59.84%,454,292
-al,055-0000,Pike County Board of Education,055-0030,Goshen High School,39.33%,,Y,59.84%,434,171
-al,055-0000,Pike County Board of Education,055-0039,Pike County Elementary Sch,76.73%,,Y,59.84%,454,348
-al,055-0000,Pike County Board of Education,055-0040,Pike County High School,61.29%,,Y,59.84%,443,272
-al,186-0000,Pike Road Schools,186-0015,Pike Road High School,14.66%,,N,,,
-al,186-0000,Pike Road Schools,186-0010,Pike Road Historic School,17.50%,,N,,,
-al,186-0000,Pike Road Schools,186-0005,Pike Road Schools,16.10%,,N,,,
-al,056-0000,Randolph County Board of Education,056-0020,Randolph County High School,47.26%,,N,,438,207
-al,056-0000,Randolph County Board of Education,056-0030,Rock Mills Junior High Sch,59.56%,,N,,183,109
-al,056-0000,Randolph County Board of Education,056-0040,Wadley High School,43.24%,,N,,414,179
-al,056-0000,Randolph County Board of Education,056-0010,Wedowee Elementary School,55.67%,,N,,300,167
-al,056-0000,Randolph County Board of Education,056-0050,Wedowee Middle School,56.54%,,N,,214,121
-al,056-0000,Randolph County Board of Education,056-0070,Woodland Elementary School,48.78%,,N,,369,180
-al,056-0000,Randolph County Board of Education,056-0060,Woodland High School,34.19%,,N,,272,93
-al,188-0000,Roanoke City Board of Education,188-0020,Handley High School,38.40%,,Y,50.94%,461,177
-al,188-0000,Roanoke City Board of Education,188-0010,Handley Middle School,49.00%,,Y,50.94%,573,281
-al,188-0000,Roanoke City Board of Education,188-0030,Knight Enloe Elementary Sch,62.73%,,Y,50.94%,503,316
-al,057-0000,Russell County Board of Education,057-0020,Dixie Elementary School,58.99%,,Y,58.64%,216,127
-al,057-0000,Russell County Board of Education,057-0030,Ladonia Elementary School,58.55%,,Y,58.64%,436,255
-al,057-0000,Russell County Board of Education,057-0040,Mt Olive Intermediate School,24.80%,,N,,379,94
-al,057-0000,Russell County Board of Education,057-0035,Mt Olive Primary School,28.32%,,N,,392,111
-al,057-0000,Russell County Board of Education,057-0050,Oliver Elementary School,48.83%,,Y,58.64%,407,199
-al,057-0000,Russell County Board of Education,057-0075,Russell Co. Middle School,38.54%,,N,,781,301
-al,057-0000,Russell County Board of Education,057-0065,Russell County High School,30.44%,,N,,854,260
-al,189-0000,Russellville City Board of Education ,189-0010,Russellville Elementary Sch,39.39%,,N,,556,219
-al,189-0000,Russellville City Board of Education ,189-0030,Russellville High School,24.76%,,N,,715,177
-al,189-0000,Russellville City Board of Education ,189-0020,Russellville Middle School,34.21%,,N,,532,182
-al,189-0000,Russellville City Board of Education ,189-0040,West Elementary School,46.30%,,N,,689,319
-al,187-0000,Saraland City Board of Education,187-0010,Saraland Early Education Center,33.54%,,N,,480,161
-al,187-0000,Saraland City Board of Education,187-0630,Saraland Elementary School ,26.60%,,N,,,
-al,187-0000,Saraland City Board of Education,187-0635,Saraland High School,16.95%,,N,,,
-al,187-0000,Saraland City Board of Education,187-0020,Saraland Middle School / Nelson Adams Campus,24.86%,,N,,,
-al,196-0000,Satsuma City Board of Education,196-0010,Robert E. Lee Elementary School,25.48%,,N,,,
-al,196-0000,Satsuma City Board of Education,196-0020,Satsuma City High School,14.02%,,N,,,
-al,190-0000,Scottsboro City Board of Education,190-0020,Caldwell Elementary School,34.07%,,N,,543,185
-al,190-0000,Scottsboro City Board of Education,190-0050,Collins Intermediate School,31.61%,,N,,560,177
-al,190-0000,Scottsboro City Board of Education,190-0030,Scottsboro High School,19.92%,,N,,,
-al,190-0000,Scottsboro City Board of Education,190-0040,Scottsboro Junior High Sch,28.16%,,N,,,
-al,190-0000,Scottsboro City Board of Education,190-0028,Thurston T Nelson Elem Sch,54.58%,,N,,262,143
-al,191-0000,Selma City Board of Education,191-0010,Byrd Early Learning,100.00%,,Y,78.97%,153,153
-al,191-0000,Selma City Board of Education,191-0020,Cedar Park Elementary Sch,88.15%,,Y,78.97%,158,139
-al,191-0000,Selma City Board of Education,191-0030,Clark Elementary School,82.04%,,Y,78.97%,352,289
-al,191-0000,Selma City Board of Education,191-0060,Edgewood Elementary School,81.82%,,Y,78.97%,302,247
-al,191-0000,Selma City Board of Education,191-0080,Knox Elementary School,86.63%,,Y,78.97%,181,157
-al,191-0000,Selma City Board of Education,191-0090,Meadowview Elementary Sch,58.33%,,Y,78.97%,281,164
-al,191-0000,Selma City Board of Education,191-0100,Payne Elementary School,85.44%,,Y,78.97%,215,184
-al,191-0000,Selma City Board of Education,191-0120,R.B. Hudson Middle School ,82.29%,,Y,78.97%,424,349
-al,191-0000,Selma City Board of Education,191-0050,School Of Discovery,81.82%,,Y,78.97%,235,192
-al,191-0000,Selma City Board of Education,191-0110,Selma High School,70.16%,,Y,78.97%,809,568
-al,191-0000,Selma City Board of Education,191-0045,Sophia P Kingston Elementary School,88.37%,,Y,78.97%,138,122
-al,192-0000,Sheffield City Board of Education,192-0090,LE Willson Elem School,62.67%,,Y,60.28%,367,230
-al,192-0000,Sheffield City Board of Education,192-0050,Sheffield High School,45.96%,,Y,60.28%,235,108
-al,192-0000,Sheffield City Board of Education,192-0055,Sheffield Jr High School,50.74%,,Y,60.28%,136,69
-al,192-0000,Sheffield City Board of Education,192-0020,WA Threadgill Primary Sch,71.87%,,Y,60.28%,327,235
-al,059-0000,Shelby County Board of Education,059-0018,Calera Elementary School,30.85%,,N,,765,236
-al,059-0000,Shelby County Board of Education,059-0010,Calera High School,20.00%,,N,,,
-al,059-0000,Shelby County Board of Education,059-0015,Calera Intermediate School,27.19%,,N,,,
-al,059-0000,Shelby County Board of Education,059-0019,Calera Middle School,22.70%,,N,,,
-al,059-0000,Shelby County Board of Education,059-0020,Chelsea High School,6.91%,,N,,,
-al,059-0000,Shelby County Board of Education,059-0023,Chelsea Middle School,8.52%,,N,,,
-al,059-0000,Shelby County Board of Education,059-0200,Chelsea Park Elementary School,12.58%,,N,,,
-al,059-0000,Shelby County Board of Education,059-0040,Columbiana Middle School,30.72%,,N,,433,133
-al,059-0000,Shelby County Board of Education,059-0045,Elvin Hill Elementary Sch,42.23%,,N,,528,223
-al,059-0000,Shelby County Board of Education,059-0026,Forest Oaks School,10.64%,,N,,,
-al,059-0000,Shelby County Board of Education,059-0050,Helena Elementary School,16.63%,,N,,,
-al,059-0000,Shelby County Board of Education,059-0051,Helena High School,7.26%,,N,,,
-al,059-0000,Shelby County Board of Education,059-0053,Helena Intermediate,11.09%,,N,,,
-al,059-0000,Shelby County Board of Education,059-0052,Helena Middle School,8.22%,,N,,,
-al,059-0000,Shelby County Board of Education,059-0055,Inverness Elementary School,20.97%,,N,,,
-al,059-0000,Shelby County Board of Education,059-0035,Linda Nolen Learning Center,37.74%,,N,,53,20
-al,059-0000,Shelby County Board of Education,059-0070,Montevallo Elementary Sch,46.38%,,N,,690,320
-al,059-0000,Shelby County Board of Education,059-0060,Montevallo High School,36.17%,,N,,412,149
-al,059-0000,Shelby County Board of Education,059-0080,Montevallo Middle School,40.36%,,N,,332,134
-al,059-0000,Shelby County Board of Education,059-0075,Mt. Laurel Elementary School,11.73%,,N,,,
-al,059-0000,Shelby County Board of Education,059-0083,Oak Mountain Elementary Sch,16.73%,,N,,,
-al,059-0000,Shelby County Board of Education,059-0081,Oak Mountain High School,6.27%,,N,,,
-al,059-0000,Shelby County Board of Education,059-0082,Oak Mountain Intermediate,9.59%,,N,,,
-al,059-0000,Shelby County Board of Education,059-0084,Oak Mountain Middle School,8.26%,,N,,,
-al,059-0000,Shelby County Board of Education,059-0090,Shelby County High School,25.10%,,N,,,
-al,059-0000,Shelby County Board of Education,059-0110,Shelby Elementary School,44.28%,,N,,201,89
-al,059-0000,Shelby County Board of Education,059-0170,Vincent Elementary School,44.19%,,N,,387,171
-al,059-0000,Shelby County Board of Education,059-0160,Vincent Middle/High Sch,38.48%,,N,,460,177
-al,059-0000,Shelby County Board of Education,059-0180,Wilsonville Elementary Sch,36.60%,,N,,194,71
-al,058-0000,St. Clair County Board of Education,058-0005,Ashville Elementary School,49.89%,,N,,441,220
-al,058-0000,St. Clair County Board of Education,058-0010,Ashville High School,24.68%,,N,,,
-al,058-0000,St. Clair County Board of Education,058-0013,Ashville Middle School,33.53%,,N,,343,115
-al,058-0000,St. Clair County Board of Education,058-0030,Margaret Elementary,34.65%,,N,,707,245
-al,058-0000,St. Clair County Board of Education,058-0065,Moody Elementary School,36.12%,,N,,886,320
-al,058-0000,St. Clair County Board of Education,058-0075,Moody High School,19.81%,,N,,,
-al,058-0000,St. Clair County Board of Education,058-0080,Moody Jr. High,24.74%,,N,,,
-al,058-0000,St. Clair County Board of Education,058-0070,Moody Middle School,27.69%,,N,,,
-al,058-0000,St. Clair County Board of Education,058-0137,Odenville Elementary School,46.54%,,N,,492,229
-al,058-0000,St. Clair County Board of Education,058-0139,Odenville Intermediate School,34.88%,,N,,344,120
-al,058-0000,St. Clair County Board of Education,058-0138,Odenville Middle School,24.01%,,N,,,
-al,058-0000,St. Clair County Board of Education,058-0120,Ragland High School,44.12%,,N,,476,210
-al,058-0000,St. Clair County Board of Education,058-0135,Springville Elementary,21.52%,,N,,,
-al,058-0000,St. Clair County Board of Education,058-0130,Springville High School,12.60%,,N,,,
-al,058-0000,St. Clair County Board of Education,058-0133,Springville Middle School,15.82%,,N,,,
-al,058-0000,St. Clair County Board of Education,058-0140,St. Clair County High School,22.45%,,N,,,
-al,058-0000,St. Clair County Board of Education,058-0150,Steele Junior High School,41.14%,,N,,175,72
-al,060-0000,Sumter County Board of Education,060-0020,Kinterbish Junior High Sch,75.69%,,Y,71.25%,155,117
-al,060-0000,Sumter County Board of Education,060-0060,Livingston Junior High Sch,75.05%,,Y,71.25%,531,399
-al,060-0000,Sumter County Board of Education,-22,North Sumter Jr High School,,,Y,71.25%,85,
-al,060-0000,Sumter County Board of Education,060-0080,Sumter Central High School,60.04%,,Y,71.25%,498,299
-al,060-0000,Sumter County Board of Education,060-0070,York West End Jr High Sch,81.28%,,Y,71.25%,258,210
-al,193-0000,Sylacauga City Board of Education,193-0015,Indian Valley Elem School,56.00%,,N,,525,294
-al,193-0000,Sylacauga City Board of Education,193-0035,Nichols-Lawson Middle School,36.64%,,N,,494,181
-al,193-0000,Sylacauga City Board of Education,193-0040,Pinecrest Elementary School,44.21%,,N,,484,214
-al,193-0000,Sylacauga City Board of Education,193-0050,Sylacauga High School,30.23%,,N,,655,198
-al,194-0000,Talladega City Board of Education,194-0010,CL Salter Elementary Sch,67.27%,,N,,275,185
-al,194-0000,Talladega City Board of Education,194-0045,Evelyn D Houston Elem Sch,61.59%,,N,,479,295
-al,194-0000,Talladega City Board of Education,194-0050,Graham Elementary School,63.67%,,N,,245,156
-al,194-0000,Talladega City Board of Education,194-0070,Raymond L Young Elem School,44.44%,,N,,234,104
-al,194-0000,Talladega City Board of Education,194-0080,Talladega High School,46.56%,,N,,494,230
-al,194-0000,Talladega City Board of Education,194-0085,Zora Ellis Junior High Sch,48.56%,,N,,278,135
-al,061-0000,Talladega County Board of Education,061-0010,AH Watwood Elementary Sch,59.69%,,N,,325,194
-al,061-0000,Talladega County Board of Education,061-0020,BB Comer High School,41.54%,,N,,402,167
-al,061-0000,Talladega County Board of Education,061-0021,BB Comer Memorial Elem,57.17%,,N,,565,323
-al,061-0000,Talladega County Board of Education,061-0030,Charles R Drew Middle Sch,32.02%,,N,,431,138
-al,061-0000,Talladega County Board of Education,061-0040,Childersburg Elementary Sch,55.56%,,N,,252,140
-al,061-0000,Talladega County Board of Education,061-0050,Childersburg High School,40.84%,,N,,382,156
-al,061-0000,Talladega County Board of Education,061-0051,Childersburg Middle Sch,48.48%,,N,,427,207
-al,061-0000,Talladega County Board of Education,061-0080,Fayetteville High School,17.29%,,N,,,
-al,061-0000,Talladega County Board of Education,061-0165,Lincoln Elementary School,35.86%,,N,,792,284
-al,061-0000,Talladega County Board of Education,061-0170,Lincoln High School,26.60%,,N,,,
-al,061-0000,Talladega County Board of Education,061-0115,Munford Elem School,38.26%,,N,,690,264
-al,061-0000,Talladega County Board of Education,061-0120,Munford High School,22.34%,,N,,,
-al,061-0000,Talladega County Board of Education,061-0135,Munford Middle School,31.17%,,N,,385,120
-al,061-0000,Talladega County Board of Education,061-0173,Stemley Road Elem School,64.23%,,N,,397,255
-al,061-0000,Talladega County Board of Education,061-0160,Sycamore School,46.89%,,N,,209,98
-al,061-0000,Talladega County Board of Education,061-0060,Talladega Cty Central High,44.65%,,N,,159,71
-al,061-0000,Talladega County Board of Education,061-0180,Winterboro High School,30.91%,,N,,317,98
-al,062-0000,Tallapoosa County Board of Education,062-0015,Dadeville Elementary School,55.95%,,N,,672,376
-al,062-0000,Tallapoosa County Board of Education,062-0020,Dadeville High School,41.43%,,N,,490,203
-al,062-0000,Tallapoosa County Board of Education,062-0065,Horseshoe Bend High School,29.69%,,N,,,
-al,062-0000,Tallapoosa County Board of Education,062-0085,Reeltown Elementary School,48.90%,,N,,499,244
-al,062-0000,Tallapoosa County Board of Education,062-0080,Reeltown High School,37.16%,,N,,409,152
-al,195-0000,Tallassee City Board of Education,195-0010,Southside Middle School,39.96%,,N,,548,219
-al,195-0000,Tallassee City Board of Education,195-0020,Tallassee Elementary School,48.73%,,N,,669,326
-al,195-0000,Tallassee City Board of Education,195-0030,Tallassee High School,28.97%,,N,,,
-al,197-0000,Tarrant City Board of Education,197-0020,Tarrant Elementary School,67.05%,,Y,67.18%,332,223
-al,197-0000,Tarrant City Board of Education,197-0030,Tarrant High School,54.03%,,Y,67.18%,466,252
-al,197-0000,Tarrant City Board of Education,197-0035,Tarrant Intermediate School,61.69%,,Y,67.18%,372,229
-al,198-0000,Thomasville City Board of Education,198-0020,Thomasville Elementary Sch,54.00%,,N,,613,331
-al,198-0000,Thomasville City Board of Education,198-0010,Thomasville High School,35.53%,,N,,546,194
-al,199-0000,Troy City Board of Education,199-0010,Charles Henderson High Sch,36.14%,,N,,581,210
-al,199-0000,Troy City Board of Education,199-0015,Charles Henderson Middle,44.60%,,N,,287,128
-al,199-0000,Troy City Board of Education,199-0070,Troy Elementary School,59.34%,,N,,1001,594
-al,205-0000,Trussville City Board of Education,205-0695,Cahaba Elementary School,7.99%,,N,,,
-al,205-0000,Trussville City Board of Education,205-0380,Hewitt Middle School,5.92%,,N,,,
-al,205-0000,Trussville City Board of Education,205-0890,Hewitt-Trussville High School,4.54%,,N,,,
-al,205-0000,Trussville City Board of Education,205-0400,Magnolia Elementary School,11.52%,,N,,,
-al,205-0000,Trussville City Board of Education,205-0693,Paine Elementary School,8.82%,,N,,,
-al,200-0000,Tuscaloosa City Board of Education,200-0020,Arcadia Elementary School,57.63%,,Y,61.41%,321,185
-al,200-0000,Tuscaloosa City Board of Education,200-0030,Central Elementary School,78.15%,,Y,61.41%,292,228
-al,200-0000,Tuscaloosa City Board of Education,200-0160,Central High School,52.35%,,Y,61.41%,736,385
-al,200-0000,Tuscaloosa City Board of Education,200-0060,Eastwood Middle School,52.73%,,Y,61.41%,786,414
-al,200-0000,Tuscaloosa City Board of Education,200-0140,Martin L King Jr Elem Sch,79.09%,,Y,61.41%,481,380
-al,200-0000,Tuscaloosa City Board of Education,-23,Northington Elementary Sch,,,Y,61.41%,453,
-al,200-0000,Tuscaloosa City Board of Education,200-0075,Northridge High School,17.90%,,N,,1039,186
-al,200-0000,Tuscaloosa City Board of Education,200-0106,Northridge Middle School,27.63%,,N,,800,221
-al,200-0000,Tuscaloosa City Board of Education,200-0090,Oakdale Elementary School,80.32%,,Y,61.41%,290,233
-al,200-0000,Tuscaloosa City Board of Education,200-0055,Paul W. Bryant High School,40.84%,,Y,61.41%,1145,468
-al,200-0000,Tuscaloosa City Board of Education,200-0105,Rock Quarry Elementary School,14.33%,,N,,586,84
-al,200-0000,Tuscaloosa City Board of Education,200-0110,Skyland Elementary School,70.12%,,Y,61.41%,334,234
-al,200-0000,Tuscaloosa City Board of Education,200-0131,Southview Elementary School,66.73%,,Y,61.41%,516,344
-al,200-0000,Tuscaloosa City Board of Education,200-0010,The Alberta School of Performing Arts Elementary and Middle School,59.86%,,Y,61.41%,555,332
-al,200-0000,Tuscaloosa City Board of Education,200-0156,Tuscaloosa Elementary Magnet School,15.94%,,N,,276,44
-al,200-0000,Tuscaloosa City Board of Education,200-0157,Tuscaloosa Middle Magnet School,12.94%,,N,,170,22
-al,200-0000,Tuscaloosa City Board of Education,200-0180,University Place Elementary School,63.93%,,Y,61.41%,396,253
-al,200-0000,Tuscaloosa City Board of Education,-24,University Place Middle School,,,Y,61.41%,157,
-al,200-0000,Tuscaloosa City Board of Education,200-0185,Verner Elementary School,24.01%,,N,,554,133
-al,200-0000,Tuscaloosa City Board of Education,200-0200,Westlawn Middle School,70.99%,,Y,61.41%,369,262
-al,200-0000,Tuscaloosa City Board of Education,200-0195,Woodland Forrest Elem Sch,46.20%,,Y,61.41%,480,222
-al,063-0000,Tuscaloosa County Board of Education,063-0045,Big Sandy Elementary,30.92%,,N,,359,111
-al,063-0000,Tuscaloosa County Board of Education,063-0020,Brookwood Elementary School,45.07%,,N,,537,242
-al,063-0000,Tuscaloosa County Board of Education,063-0030,Brookwood High School,23.91%,,N,,962,230
-al,063-0000,Tuscaloosa County Board of Education,063-0025,Brookwood Middle School,27.10%,,N,,808,219
-al,063-0000,Tuscaloosa County Board of Education,063-0040,Buhl Elementary School,42.21%,,N,,263,111
-al,063-0000,Tuscaloosa County Board of Education,063-0170,Collins-Riverside Middle School,43.20%,,N,,507,219
-al,063-0000,Tuscaloosa County Board of Education,063-0050,Cottondale Elementary Sch,48.98%,,N,,394,193
-al,063-0000,Tuscaloosa County Board of Education,063-0060,Crestmont Elementary School,53.45%,,Y,63.97%,348,186
-al,063-0000,Tuscaloosa County Board of Education,063-0115,Davis-Emerson Middle School,52.41%,,N,,395,207
-al,063-0000,Tuscaloosa County Board of Education,063-0163,Duncanville Middle School,28.23%,,N,,457,129
-al,063-0000,Tuscaloosa County Board of Education,063-0075,Echols Middle School,20.50%,,N,,800,164
-al,063-0000,Tuscaloosa County Board of Education,063-0080,Englewood Elementary School,31.29%,,N,,556,174
-al,063-0000,Tuscaloosa County Board of Education,063-0200,Faucett-Vestavia Elementary,23.75%,,N,,459,109
-al,063-0000,Tuscaloosa County Board of Education,063-0085,Flatwoods Elementary School,43.34%,,N,,443,192
-al,063-0000,Tuscaloosa County Board of Education,063-0100,Hillcrest High School,22.72%,,N,,1329,302
-al,063-0000,Tuscaloosa County Board of Education,063-0105,Hillcrest Middle School,30.12%,,N,,518,156
-al,063-0000,Tuscaloosa County Board of Education,063-0010,Holt Elementary School,62.55%,,Y,63.97%,502,314
-al,063-0000,Tuscaloosa County Board of Education,063-0120,Holt High School,46.23%,,N,,385,178
-al,063-0000,Tuscaloosa County Board of Education,063-0125,Huntington Place Elem Sch,11.89%,,N,,572,68
-al,063-0000,Tuscaloosa County Board of Education,063-0127,Lakeview Elementary School,29.88%,,N,,686,205
-al,063-0000,Tuscaloosa County Board of Education,063-0130,Matthews Elementary School,67.09%,,Y,63.97%,474,318
-al,063-0000,Tuscaloosa County Board of Education,063-0070,Maxwell Elementary School,43.01%,,N,,558,240
-al,063-0000,Tuscaloosa County Board of Education,063-0140,Myrtlewood Elementary Sch,37.80%,,N,,291,110
-al,063-0000,Tuscaloosa County Board of Education,063-0155,Northport Elementary,16.91%,,N,,615,104
-al,063-0000,Tuscaloosa County Board of Education,063-0160,Northside High School,18.34%,,N,,458,84
-al,063-0000,Tuscaloosa County Board of Education,063-0162,Northside Middle School,25.60%,,N,,375,96
-al,063-0000,Tuscaloosa County Board of Education,063-0166,Sispsey Valley Middle/High School,24.79%,,N,,476,118
-al,063-0000,Tuscaloosa County Board of Education,063-0165,Sprayberry Regional Ed Center,81.07%,,Y,63.97%,169,137
-al,063-0000,Tuscaloosa County Board of Education,063-0005,Taylorville Primary School,42.20%,,N,,609,257
-al,063-0000,Tuscaloosa County Board of Education,063-0180,Tuscaloosa County High Sch,24.89%,,N,,1559,388
-al,063-0000,Tuscaloosa County Board of Education,063-0190,Vance Elementary School,34.34%,,N,,530,182
-al,063-0000,Tuscaloosa County Board of Education,063-0205,Walker Elementary School,25.95%,,N,,655,170
-al,063-0000,Tuscaloosa County Board of Education,063-0210,Westwood Elementary School,33.13%,,N,,329,109
-al,201-0000,Tuscumbia City Board of Education,201-0010,Deshler High School,25.11%,,N,,,
-al,201-0000,Tuscumbia City Board of Education,201-0020,Deshler Middle School,31.94%,,N,,335,107
-al,201-0000,Tuscumbia City Board of Education,201-0040,G.W. Trenholm Primary School,49.59%,,N,,367,182
-al,201-0000,Tuscumbia City Board of Education,201-0030,RE Thompson  Intermediate Sch,36.83%,,N,,353,130
-al,202-0000,Vestavia Hills City Board of Education,202-0050,Liberty Park Middle,1.92%,,N,,,
-al,202-0000,Vestavia Hills City Board of Education,202-0030,Louis Pizitz Middle School,4.30%,,N,,,
-al,202-0000,Vestavia Hills City Board of Education,202-0005,Vestavia Hills Elem Central,4.29%,,N,,,
-al,202-0000,Vestavia Hills City Board of Education,202-0040,Vestavia Hills Elem Liberty Pk,2.62%,,N,,,
-al,202-0000,Vestavia Hills City Board of Education,202-0010,Vestavia Hills Elem Sch East,5.43%,,N,,,
-al,202-0000,Vestavia Hills City Board of Education,202-0015,Vestavia Hills Elem Sch West,4.21%,,N,,,
-al,202-0000,Vestavia Hills City Board of Education,202-0140,Vestavia Hills Elementary Cahaba Heights,6.50%,,N,,,
-al,202-0000,Vestavia Hills City Board of Education,202-0020,Vestavia Hills High School,3.05%,,N,,,
-al,064-0000,Walker County Board of Education,064-0030,Bankhead Middle School,33.90%,,N,,295,100
-al,064-0000,Walker County Board of Education,064-0010,Carbon Hill ElemJr High/High School,45.13%,,N,,554,250
-al,064-0000,Walker County Board of Education,064-0020,Carbon Hill High School,35.73%,,N,,361,129
-al,064-0000,Walker County Board of Education,064-0040,Cordova Elementary School,47.69%,,N,,390,186
-al,064-0000,Walker County Board of Education,064-0050,Cordova High School,33.33%,,N,,474,158
-al,064-0000,Walker County Board of Education,064-0060,Curry Elementary School,45.80%,,N,,548,251
-al,064-0000,Walker County Board of Education,064-0070,Curry High School,28.18%,,N,,,
-al,064-0000,Walker County Board of Education,064-0065,Curry Middle School,34.20%,,N,,345,118
-al,064-0000,Walker County Board of Education,064-0080,Dora High School,37.00%,,N,,473,175
-al,064-0000,Walker County Board of Education,064-0130,Lupton Junior High School,43.82%,,N,,461,202
-al,064-0000,Walker County Board of Education,064-0170,Oakman High School,31.85%,,N,,383,122
-al,064-0000,Walker County Board of Education,064-0160,Oakman Middle School,44.96%,,N,,694,312
-al,064-0000,Walker County Board of Education,064-0180,Parrish Elementary School,60.99%,,N,,223,136
-al,064-0000,Walker County Board of Education,064-0225,Sumiton Elementary,50.32%,,N,,630,317
-al,064-0000,Walker County Board of Education,064-0220,Sumiton Middle School,49.83%,,N,,574,286
-al,064-0000,Walker County Board of Education,064-0270,Valley Junior High School,45.75%,,N,,612,280
-al,065-0000,Washington County Board of Education,065-0010,Chatom Elementary School,39.16%,,N,,263,103
-al,065-0000,Washington County Board of Education,065-0030,Fruitdale High School,40.43%,,N,,376,152
-al,065-0000,Washington County Board of Education,065-0040,Leroy High School,37.70%,,N,,573,216
-al,065-0000,Washington County Board of Education,065-0020,McIntosh Elementary School,71.15%,,Y,64.85%,271,193
-al,065-0000,Washington County Board of Education,065-0050,McIntosh High School,60.53%,,Y,64.85%,187,113
-al,065-0000,Washington County Board of Education,065-0060,Millry High School,24.89%,,N,,462,115
-al,065-0000,Washington County Board of Education,065-0090,Washington County High Sch,32.53%,,N,,501,163
-al,066-0000,Wilcox County Board of Education,066-0010,ABC Elementary School,90.52%,,Y,80.65%,116,105
-al,066-0000,Wilcox County Board of Education,066-0140,Camden Sch Of Arts & Technology,74.88%,,Y,80.65%,215,161
-al,066-0000,Wilcox County Board of Education,066-0045,JE Hobbs Elementary School,85.54%,,Y,80.65%,505,432
-al,066-0000,Wilcox County Board of Education,066-0085,Pine Hill Elementary School (F.S. Ervin),90.39%,,Y,80.65%,229,207
-al,066-0000,Wilcox County Board of Education,066-0135,Wilcox Central High Sch,71.54%,,Y,80.65%,506,362
-al,066-0000,Wilcox County Board of Education,-25,Wilcox County Alternative School,,,Y,80.65%,,
-al,204-0000,Winfield City Board of Education,204-0010,Winfield Elementary School,38.89%,,N,,540,210
-al,204-0000,Winfield City Board of Education,204-0020,Winfield High School,19.01%,,N,,,
-al,204-0000,Winfield City Board of Education,204-0015,Winfield Middle School,33.77%,,N,,385,130
-al,067-0000,Winston County Board of Education,067-0015,Addison Elementary School,40.56%,,N,,323,131
-al,067-0000,Winston County Board of Education,067-0010,Addison High School,20.40%,,N,,,
-al,067-0000,Winston County Board of Education,067-0020,Double Springs Elem School,42.22%,,N,,360,152
-al,067-0000,Winston County Board of Education,067-0025,Double Springs Middle School,27.86%,,N,,,
-al,067-0000,Winston County Board of Education,067-0035,Lynn Elementary School,40.74%,,N,,162,66
-al,067-0000,Winston County Board of Education,067-0030,Lynn High School,26.25%,,N,,,
-al,067-0000,Winston County Board of Education,067-0045,Meek Elementary School,40.38%,,N,,156,63
-al,067-0000,Winston County Board of Education,067-0040,Meek High School,25.33%,,N,,,
-al,067-0000,Winston County Board of Education,067-0060,Winston County High School,21.95%,,N,,,
+al,105-0000,Anniston City Board of Education,105-0010,Anniston High School,78.73%,,,N,457,360
+al,105-0000,Anniston City Board of Education,105-0015,Anniston Middle School,78.73%,,,N,340,268
+al,105-0000,Anniston City Board of Education,105-0025,Cobb Pre-K Academy,78.73%,,,N,139,109
+al,105-0000,Anniston City Board of Education,105-0060,Golden Springs Elem School,78.73%,,,N,371,292
+al,105-0000,Anniston City Board of Education,105-0110,Randolph Park Elem School,78.73%,,,N,320,252
+al,105-0000,Anniston City Board of Education,105-0130,Tenth St Elementary School,78.73%,,,N,352,277
+al,003-0000,Barbour County Board of Education,003-0020,Barbour County High School,76.07%,,,N,265,202
+al,003-0000,Barbour County Board of Education,003-0025,Barbour County  Primary School,76.07%,,,N,140,106
+al,003-0000,Barbour County Board of Education,003-0035,Barbour County Intermediate School,76.07%,,,N,297,226
+al,113-0000,Bessemer City Board of Education,113-0015,Abrams Elementary School,72.45%,,,N,346,251
+al,113-0000,Bessemer City Board of Education,113-0040,Bessemer City Middle School,72.45%,,,N,742,538
+al,113-0000,Bessemer City Board of Education,113-0060,Greenwood Elementary School,72.45%,,,N,275,199
+al,113-0000,Bessemer City Board of Education,113-0065,Charles F Hard Elem Sch,72.45%,,,N,322,233
+al,113-0000,Bessemer City Board of Education,113-0080,Bessemer City High School,72.45%,,,N,997,722
+al,113-0000,Bessemer City Board of Education,113-0090,Jonesboro Elementary School,72.45%,,,N,575,417
+al,113-0000,Bessemer City Board of Education,113-0120,Westhills Elementary School,72.45%,,,N,348,252
+al,114-0000,Birmingham City Board of Education,114-0010,Avondale Elementary School ,69.37%,,,N,583,404
+al,114-0000,Birmingham City Board of Education,114-0040,Barrett Elementary School,69.37%,,,N,453,314
+al,114-0000,Birmingham City Board of Education,114-0050,Charles A Brown Elem School,69.37%,,,N,409,284
+al,114-0000,Birmingham City Board of Education,114-0095,George Washington Carver H School,69.37%,,,N,762,529
+al,114-0000,Birmingham City Board of Education,114-0110,Central Park Elementary Sch,69.37%,,,N,498,345
+al,114-0000,Birmingham City Board of Education,114-0130,Christian Alternative Sch,69.37%,,,N,648,450
+al,114-0000,Birmingham City Board of Education,114-0212,EPIC School,69.37%,,,N,409,284
+al,114-0000,Birmingham City Board of Education,114-0250,Oliver K-5 School,69.37%,,,N,444,308
+al,114-0000,Birmingham City Board of Education,114-0270,Glen Iris Elementary School,69.37%,,,N,732,508
+al,114-0000,Birmingham City Board of Education,114-0320,Green Acres Middle School,69.37%,,,N,367,255
+al,114-0000,Birmingham City Board of Education,114-0340,Hemphill Elementary School,69.37%,,,N,502,348
+al,114-0000,Birmingham City Board of Education,114-0370,Hudson Elementary School,69.37%,,,N,684,474
+al,114-0000,Birmingham City Board of Education,114-0380,Huffman Middle School-Magnt,69.37%,,,N,394,273
+al,114-0000,Birmingham City Board of Education,114-0390,Huffman High School-Magnet,69.37%,,,N,1365,947
+al,114-0000,Birmingham City Board of Education,114-0400,Inglenook Elementary School,69.37%,,,N,457,317
+al,114-0000,Birmingham City Board of Education,114-0415,Jackson-Olin High School,69.37%,,,N,823,571
+al,114-0000,Birmingham City Board of Education,114-0505,Martha Gaskins Middle School,69.37%,,,N,525,364
+al,114-0000,Birmingham City Board of Education,114-0550,Minor Elementary School,69.37%,,,N,439,305
+al,114-0000,Birmingham City Board of Education,114-0610,Norwood Elementary School,69.37%,,,N,303,210
+al,114-0000,Birmingham City Board of Education,114-0630,Parker High School,69.37%,,,N,675,468
+al,114-0000,Birmingham City Board of Education,114-0700,Princeton Elementary School,69.37%,,,N,247,171
+al,114-0000,Birmingham City Board of Education,114-0710,WE Putnam Mdsch-Magnet,69.37%,,,N,329,228
+al,114-0000,Birmingham City Board of Education,114-0720,Ramsay High School,69.37%,,,N,787,546
+al,114-0000,Birmingham City Board of Education,114-0750,Robinson Elementary School,69.37%,,,N,443,307
+al,114-0000,Birmingham City Board of Education,114-0775,Sun Valley Elementary Sch,69.37%,,,N,625,434
+al,114-0000,Birmingham City Board of Education,114-0790,Smith Middle School,69.37%,,,N,446,309
+al,114-0000,Birmingham City Board of Education,114-0795,South Hampton Elementary,69.37%,,,N,552,383
+al,114-0000,Birmingham City Board of Education,114-0830,Tuggle Elementary School,69.37%,,,N,532,369
+al,114-0000,Birmingham City Board of Education,114-0850,Washington Elementary Sch,69.37%,,,N,546,379
+al,114-0000,Birmingham City Board of Education,114-0857,Jones Valley K-8,69.37%,,,N,371,257
+al,114-0000,Birmingham City Board of Education,114-0858,Wenonah High School,69.37%,,,N,684,474
+al,114-0000,Birmingham City Board of Education,114-0900,Wilkerson Middle School,69.37%,,,N,306,212
+al,114-0000,Birmingham City Board of Education,114-0920,Woodlawn High School-Magnet,69.37%,,,N,739,513
+al,114-0000,Birmingham City Board of Education,114-0930,Wylam Elementary School,69.37%,,,N,414,287
+al,114-0000,Birmingham City Board of Education,114-0651,Phillips Academy,69.37%,,,N,703,488
+al,114-0000,Birmingham City Board of Education,114-0735,Ossie Ware Mitchell,69.37%,,,N,336,233
+al,114-0000,Birmingham City Board of Education,114-0045,Bush Hills Academy ,69.37%,,,N,480,333
+al,114-0000,Birmingham City Board of Education,114-0395,Huffman Academy,69.37%,,,N,854,592
+al,114-0000,Birmingham City Board of Education,114-0880,West End Academy,69.37%,,,N,624,433
+al,114-0000,Birmingham City Board of Education,114-0331,New Hayes K 8,69.37%,,,N,806,559
+al,114-0000,Birmingham City Board of Education,114-0625,Oxmoor Valley,69.37%,,,N,525,364
+al,114-0000,Birmingham City Board of Education,114-0803,Arrington Elementary School,69.37%,,,N,379,263
+al,006-0000,Bullock County Board of Education,006-0030,South Highlands Middle School,72.11%,,,N,484,349
+al,006-0000,Bullock County Board of Education,006-0040,Union Springs Elem School,72.11%,,,N,608,438
+al,006-0000,Bullock County Board of Education,006-0050,Bullock County High School,72.11%,,,N,371,268
+al,009-0000,Chambers County Board of Education,009-0030,Fairfax Elementary School,52.73%,,,N,478,252
+al,009-0000,Chambers County Board of Education,009-0040,Five Points Elementary Sch,52.73%,,,N,86,45
+al,009-0000,Chambers County Board of Education,009-0060,Huguley Elementary School,52.73%,,,N,455,240
+al,009-0000,Chambers County Board of Education,009-0070,Lafayette Eastside Elem Sch,52.73%,,,N,301,159
+al,009-0000,Chambers County Board of Education,009-0080,Lafayette High School,52.73%,,,N,234,123
+al,009-0000,Chambers County Board of Education,009-0090,Lafayette Lanier Elem Sch,52.73%,,,N,198,104
+al,009-0000,Chambers County Board of Education,009-0100,John P Powell Middle School,52.73%,,,N,134,71
+al,009-0000,Chambers County Board of Education,009-0130,Bob Harding Shawmut Elem,52.73%,,,N,269,142
+al,009-0000,Chambers County Board of Education,009-0150,W F Burns Middle School,52.73%,,,N,606,320
+al,121-0000,Chickasaw City Board of Education,121-0010,Chickasaw City Elementary,80.49%,,77.68%,Y,610,491
+al,121-0000,Chickasaw City Board of Education,121-0020,Chickasaw City High School,71.48%,,77.68%,Y,256,183
+al,121-0000,Chickasaw City Board of Education,121-0015,Chickasaw Middle School,77.17%,,77.68%,Y,254,196
+al,012-0000,Choctaw County Board of Education,012-0020,Choctaw County High School,65.25%,,,N,327,213
+al,012-0000,Choctaw County Board of Education,012-0025,Choctaw County Elementary School,65.25%,,,N,344,224
+al,012-0000,Choctaw County Board of Education,012-0075,Southern Choctaw Elem Sch,65.25%,,,N,326,213
+al,012-0000,Choctaw County Board of Education,012-0080,Southern Choctaw High Sch,65.25%,,,N,295,192
+al,013-0000,Clarke County Board of Education,013-0010,Clarke County High School,55.89%,,,N,297,166
+al,013-0000,Clarke County Board of Education,013-0050,Grove Hill Elementary Sch,55.89%,,,N,339,189
+al,013-0000,Clarke County Board of Education,013-0060,Jackson Middle School,55.89%,,,N,347,194
+al,013-0000,Clarke County Board of Education,013-0065,Jackson High School,55.89%,,,N,432,241
+al,013-0000,Clarke County Board of Education,013-0070,Jackson Intermediate School,55.89%,,,N,325,182
+al,013-0000,Clarke County Board of Education,013-0080,Joe M Gillmore Elem School,55.89%,,,N,384,215
+al,013-0000,Clarke County Board of Education,013-0100,Wilson Hall Middle School,55.89%,,,N,246,137
+al,018-0000,Conecuh County Board of Education,018-0010,Conecuh County Jr High Sch,68.39%,,69.49%,Y,174,119
+al,018-0000,Conecuh County Board of Education,018-0020,Evergreen City School,80.48%,,69.49%,Y,420,338
+al,018-0000,Conecuh County Board of Education,018-0035,Hillcrest High School,62.81%,,69.49%,Y,398,250
+al,018-0000,Conecuh County Board of Education,018-0040,Lyeffion Junior High School,66.67%,,69.49%,Y,171,114
+al,018-0000,Conecuh County Board of Education,018-0050,Marshall Middle School,65.96%,,69.49%,Y,141,93
+al,018-0000,Conecuh County Board of Education,018-0070,Repton Junior High School,63.77%,,69.49%,Y,138,88
+al,019-0000,Coosa County Board of Education,019-0003,Central Elem School ,52.74%,,,N,341,180
+al,019-0000,Coosa County Board of Education,019-0005,Central High School,52.74%,,,N,262,138
+al,021-0000,Crenshaw County Board of Education,021-0010,Brantley High School,49.22%,,,N,547,269
+al,021-0000,Crenshaw County Board of Education,021-0030,Highland Home High School,48.48%,,,N,858,416
+al,021-0000,Crenshaw County Board of Education,021-0050,Luverne High School,49.22%,,,N,863,425
+al,126-0000,Daleville City Board of Education,126-0010,Daleville High School,54.25%,,,N,480,260
+al,126-0000,Daleville City Board of Education,126-0015,Windham Elementary School,54.25%,,,N,650,353
+al,024-0000,Dallas County Board of Education,024-0010,Brantley Elementary School,67.16%,,81.11%,Y,227,152
+al,024-0000,Dallas County Board of Education,024-0020,Dallas County High School,87.50%,,67.24%,Y,497,435
+al,024-0000,Dallas County Board of Education,024-0070,J E Terry Elementary School,82.82%,,81.11%,Y,134,111
+al,024-0000,Dallas County Board of Education,024-0080,Keith Middle-High School,60.20%,,67.24%,Y,284,171
+al,024-0000,Dallas County Board of Education,024-0100,Salem Elementary School,91.00%,,73.90%,Y,200,182
+al,024-0000,Dallas County Board of Education,024-0120,Southside High School,86.45%,,67.24%,Y,356,308
+al,024-0000,Dallas County Board of Education,024-0130,Tipton Middle School,55.53%,,67.24%,Y,216,120
+al,024-0000,Dallas County Board of Education,024-0150,Valley Grande Elem School,77.82%,,73.90%,Y,500,389
+al,024-0000,Dallas County Board of Education,024-0170,William R Martin Middle School,72.75%,,67.24%,Y,274,199
+al,024-0000,Dallas County Board of Education,024-0215,Southside Primary School,82.87%,,81.11%,Y,232,192
+al,024-0000,Dallas County Board of Education,024-0220,Bruce K Craig Elem Sch,58.03%,,73.90%,Y,273,158
+al,127-0000,Decatur City Board of Education,127-0020,Austinville Elementary Sch,61.37%,,,N,375,230
+al,127-0000,Decatur City Board of Education,127-0025,Chestnut Grove Elem School,44.52%,,,N,427,190
+al,127-0000,Decatur City Board of Education,127-0050,Eastwood Elementary School,44.52%,,,N,252,112
+al,127-0000,Decatur City Board of Education,127-0055,Frances Nungester Elem Sch,61.37%,,,N,387,238
+al,127-0000,Decatur City Board of Education,127-0070,Banks-Caddell Elementary,61.37%,,,N,482,296
+al,127-0000,Decatur City Board of Education,127-0068,Julian Harris Elem School,44.52%,,,N,421,187
+al,127-0000,Decatur City Board of Education,127-0080,Oak Park Elementary School,61.37%,,,N,405,249
+al,127-0000,Decatur City Board of Education,127-0090,Walter Jackson Elem School,44.52%,,,N,306,136
+al,127-0000,Decatur City Board of Education,127-0100,West Decatur Elementary Sch,61.37%,,,N,308,189
+al,127-0000,Decatur City Board of Education,127-0120,Woodmeade Elementary School,61.37%,,,N,386,237
+al,025-0000,DeKalb County Board of Education,025-0030,Collinsville High School,57.63%,,,N,939,541
+al,025-0000,DeKalb County Board of Education,025-0042,Crossville Middle School,57.63%,,,N,827,477
+al,025-0000,DeKalb County Board of Education,025-0140,Ruhuma Junior High School,57.63%,,,N,163,94
+al,025-0000,DeKalb County Board of Education,025-0040,Crossville Elementary School,57.63%,,,N,599,345
+al,025-0000,DeKalb County Board of Education,025-0045,Crossville High School,57.63%,,,N,590,340
+al,128-0000,Demopolis City Board of Education,128-0040,Westside Elementary School,57.86%,,,N,515,298
+al,131-0000,Elba City Board of Education,131-0010,Elba Elementary School,59.28%,,,N,334,198
+al,131-0000,Elba City Board of Education,131-0020,Elba High School,59.28%,,,N,302,179
+al,B8U-0000,Ephesus Academy,B8U-S001,Ephesus Academy,45.24%,,,N,168,76
+al,027-0000,Escambia County Board of Education,027-0025,Escambia County High School,54.82%,,,N,417,229
+al,027-0000,Escambia County Board of Education,027-0040,Escambia County Middle School,62.16%,,,N,572,356
+al,027-0000,Escambia County Board of Education,027-0048,Flomaton Elementary School,50.11%,,,N,407,204
+al,027-0000,Escambia County Board of Education,027-0050,Flomaton High School,50.11%,,,N,479,240
+al,027-0000,Escambia County Board of Education,027-0070,Huxford Elementary School,54.82%,,,N,279,153
+al,027-0000,Escambia County Board of Education,027-0080,McCall Junior High School,62.16%,,,N,234,145
+al,027-0000,Escambia County Board of Education,027-0103,Rachel Patterson Elem School,50.11%,,,N,507,254
+al,027-0000,Escambia County Board of Education,027-0105,WS Neal Elementary School,54.82%,,,N,545,299
+al,027-0000,Escambia County Board of Education,027-0108,WS Neal Middle School,54.82%,,,N,423,232
+al,027-0000,Escambia County Board of Education,027-0110,WS Neal High School,54.82%,,,N,410,225
+al,133-0000,Eufaula City Board of Education,133-0010,Eufaula High School,58.76%,,,N,765,450
+al,133-0000,Eufaula City Board of Education,133-0030,Moorer Middle School,58.76%,,,N,572,336
+al,133-0000,Eufaula City Board of Education,133-0034,Eufaula Elementary School,58.76%,,,N,571,336
+al,133-0000,Eufaula City Board of Education,133-0040,Eufaula Primary School,58.76%,,,N,711,418
+al,137-0000,Fairfield City Board of Education,137-0010,Donald Elementary School,81.46%,,,N,318,259
+al,137-0000,Fairfield City Board of Education,137-0020,Fairfield High School,81.46%,,,N,767,625
+al,137-0000,Fairfield City Board of Education,137-0040,Glen Oaks Elementary School,81.46%,,,N,326,266
+al,137-0000,Fairfield City Board of Education,137-0050,Robinson Elementary School,81.46%,,,N,228,186
+al,137-0000,Fairfield City Board of Education,137-0037,Forrest Hills Community Development Center- Tri-City Pre-K,81.46%,,,N,87,71
+al,141-0000,Florence City Board of Education ,141-0020,Florence High School,44.56%,,,N,1045,466
+al,141-0000,Florence City Board of Education ,141-0040,Florence Freshman Center,44.56%,,,N,324,144
+al,141-0000,Florence City Board of Education ,141-0050,Forest Hills School,44.56%,,,N,805,359
+al,141-0000,Florence City Board of Education ,141-0070,Handy School,44.56%,,,N,222,99
+al,141-0000,Florence City Board of Education ,141-0080,Harlan Elementary School,44.56%,,,N,370,165
+al,141-0000,Florence City Board of Education ,141-0090,Weeden Elementary School,44.56%,,,N,394,176
+al,141-0000,Florence City Board of Education ,141-0095,Hibbett Middle School,44.56%,,,N,622,277
+al,141-0000,Florence City Board of Education ,141-0100,Florence Middle School,44.56%,,,N,695,310
+al,032-0000,Greene County Board of Education,032-0025,Eutaw Primary,74.54%,,,N,362,270
+al,032-0000,Greene County Board of Education,032-0030,Greene County High School,74.54%,,,N,340,253
+al,032-0000,Greene County Board of Education,032-0040,Robert Brown Middle School,74.54%,,,N,378,282
+al,034-0000,Henry County Board of Education,034-0017,Abbeville Elementary School,65.45%,,,N,404,264
+al,034-0000,Henry County Board of Education,034-0020,Abbeville High School,65.45%,,,N,337,221
+al,159-0000,Huntsville City Board of Education,159-0010,Blossomwood Elementary Sch,54.66%,,,N,647,354
+al,159-0000,Huntsville City Board of Education,159-0025,Academy for Academics & Arts Elementary School,54.66%,,,N,377,206
+al,159-0000,Huntsville City Board of Education,159-0040,Chapman Elementary School,44.25%,,,N,209,92
+al,159-0000,Huntsville City Board of Education,159-0050,Chapman Middle ,51.15%,,,N,394,202
+al,159-0000,Huntsville City Board of Education,159-0052,Columbia High School,51.15%,,,N,863,441
+al,159-0000,Huntsville City Board of Education,159-0060,M.L. King Junior Elementary School,54.63%,,,N,540,295
+al,159-0000,Huntsville City Board of Education,159-0080,Academy for Science & Foreign Language Elementary School,53.66%,,,N,274,147
+al,159-0000,Huntsville City Board of Education,159-0120,Farley Elementary School,53.92%,,,N,391,211
+al,159-0000,Huntsville City Board of Education,159-0140,Highlands Elementary School,53.66%,,,N,438,235
+al,159-0000,Huntsville City Board of Education,159-0170,Huntsville Junior High School,51.15%,,,N,463,237
+al,159-0000,Huntsville City Board of Education,159-0190,Lakewood Elementary School,54.63%,,,N,457,250
+al,159-0000,Huntsville City Board of Education,159-0200,Lee High School,44.25%,,,N,733,324
+al,159-0000,Huntsville City Board of Education,159-0220,Morris Elementary At Risk,54.66%,,,N,548,300
+al,159-0000,Huntsville City Board of Education,159-0230,McDonnell Elementary School,51.15%,,,N,505,258
+al,159-0000,Huntsville City Board of Education,159-0250,Montview Elementary School,53.66%,,,N,227,122
+al,159-0000,Huntsville City Board of Education,159-0280,Ridgecrest Elementary Sch,44.25%,,,N,565,250
+al,159-0000,Huntsville City Board of Education,159-0290,Roger B Chaffee Elem School,53.92%,,,N,416,224
+al,159-0000,Huntsville City Board of Education,159-0300,Rolling Hills Elem School,53.92%,,,N,490,264
+al,159-0000,Huntsville City Board of Education,159-0370,James Dawson Elementary School,53.92%,,,N,436,235
+al,159-0000,Huntsville City Board of Education,159-0390,Whitesburg Elementary School,54.63%,,,N,398,217
+al,159-0000,Huntsville City Board of Education,159-0400,Whitesburg Midlde School,54.66%,,,N,593,324
+al,159-0000,Huntsville City Board of Education,159-0410,James E Williams P-6 School,54.63%,,,N,521,285
+al,159-0000,Huntsville City Board of Education,159-0460,New Century Tech Demo High Sch,44.25%,,,N,442,196
+al,159-0000,Huntsville City Board of Education,159-0415,James E. Williams Junior High School,54.63%,,,N,582,318
+al,159-0000,Huntsville City Board of Education,159-0273,Providence Elementary,44.25%,,,N,817,362
+al,159-0000,Huntsville City Board of Education,159-0305,Ronald McNair Jr. High,54.66%,,,N,432,236
+al,159-0000,Huntsville City Board of Education,159-0315,Sonnie Hereford Elementary School,54.66%,,,N,611,334
+al,159-0000,Huntsville City Board of Education,159-0172,Jemison High School,54.66%,,,N,740,404
+al,159-0000,Huntsville City Board of Education,159-0026,Academy for Academics and Arts Middle School,54.66%,,,N,210,115
+al,159-0000,Huntsville City Board of Education,159-0081,Academy of Science & Foreign Language Middle School,53.66%,,,N,194,104
+al,159-0000,Huntsville City Board of Education,159-0221,Morris Middle School,54.66%,,,N,488,267
+al,036-0000,Jackson County Board of Education,036-0010,Bridgeport Middle School,43.73%,,,N,124,54
+al,036-0000,Jackson County Board of Education,036-0015,Bridgeport Elementary Sch,43.73%,,,N,241,105
+al,036-0000,Jackson County Board of Education,036-0030,Dutton Elementary School,43.73%,,,N,236,103
+al,036-0000,Jackson County Board of Education,036-0040,Flat Rock School,43.73%,,,N,128,56
+al,036-0000,Jackson County Board of Education,036-0050,Hollywood School,43.73%,,,N,178,78
+al,036-0000,Jackson County Board of Education,036-0110,Rosalie Elementary School,43.73%,,,N,189,83
+al,036-0000,Jackson County Board of Education,036-0120,Section High School,43.73%,,,N,533,233
+al,036-0000,Jackson County Board of Education,036-0135,Stevenson Elementary School,43.73%,,,N,352,154
+al,036-0000,Jackson County Board of Education,036-0140,Stevenson Middle School,43.73%,,,N,299,131
+al,036-0000,Jackson County Board of Education,036-0150,Woodville High School,43.73%,,,N,501,219
+al,037-0000,Jefferson County Board of Education,037-0030,Adamsville Elementary Sch,62.95%,,,N,329,207
+al,037-0000,Jefferson County Board of Education,037-0078,Minor Middle School,62.95%,,,N,706,444
+al,037-0000,Jefferson County Board of Education,037-0110,Brighton School,62.95%,,,N,420,264
+al,037-0000,Jefferson County Board of Education,037-0135,Brookville Elementary Sch,62.95%,,,N,190,120
+al,037-0000,Jefferson County Board of Education,037-0160,Center Point Elementary Sch,62.95%,,,N,693,436
+al,037-0000,Jefferson County Board of Education,037-0170,Chalkville Elementary Sch,62.95%,,,N,1146,721
+al,037-0000,Jefferson County Board of Education,037-0220,Crumly Chapel Elem Sch,62.95%,,,N,359,226
+al,037-0000,Jefferson County Board of Education,037-0270,Erwin Intermediate School,62.95%,,,N,643,405
+al,037-0000,Jefferson County Board of Education,037-0280,Center Point High School,62.95%,,,N,752,473
+al,037-0000,Jefferson County Board of Education,037-0400,Hillview Elementary School,62.95%,,,N,256,161
+al,037-0000,Jefferson County Board of Education,037-0500,Lipscomb Elementary,62.95%,,,N,257,162
+al,037-0000,Jefferson County Board of Education,037-0580,Minor Community School,62.95%,,,N,461,290
+al,037-0000,Jefferson County Board of Education,037-0585,Minor High School,62.95%,,,N,924,582
+al,037-0000,Jefferson County Board of Education,037-0660,Hueytown Primary School,62.95%,,,N,331,208
+al,037-0000,Jefferson County Board of Education,037-0845,Wm E Burkett Multi-Hnd Ctr,62.95%,,,N,246,155
+al,037-0000,Jefferson County Board of Education,037-0910,Warrior Elementary School,62.95%,,,N,345,217
+al,037-0000,Jefferson County Board of Education,037-0275,Erwin Middle School,62.95%,,,N,660,415
+al,165-0000,Lanett City Board of Education,165-0010,W. O. Lance Elem. (Lanett Central Elem.),66.80%,,,N,655,438
+al,165-0000,Lanett City Board of Education,165-0030,Lanett Senior High School,66.80%,,,N,218,146
+al,165-0000,Lanett City Board of Education,165-0040,Lanett Junior High School,66.80%,,,N,130,87
+al,040-0000,Lawrence County Board of Education,040-0025,East Lawrence Elementary School,62.25%,,,N,549,342
+al,040-0000,Lawrence County Board of Education,040-0040,Hatton Elementary School,47.03%,,,N,465,219
+al,040-0000,Lawrence County Board of Education,040-0060,Hazlewood Elementary School,62.25%,,,N,250,156
+al,040-0000,Lawrence County Board of Education,040-0110,Moulton Elementary School,47.03%,,,N,681,320
+al,040-0000,Lawrence County Board of Education,040-0130,Mt Hope Elementary School,62.25%,,,N,130,81
+al,040-0000,Lawrence County Board of Education,040-0140,Speake Elementary School,62.25%,,,N,181,113
+al,802-0000,Lead Academy,802-0010,Lead Academy,53.06%,,,N,294,156
+al,168-0000,Linden City Board of Education,168-0010,George P Austin Jr High Sch,69.32%,,68.08%,Y,88,61
+al,168-0000,Linden City Board of Education,168-0020,Linden Elementary School,69.09%,,68.08%,Y,220,152
+al,168-0000,Linden City Board of Education,168-0030,Linden High School,65.71%,,68.08%,Y,140,92
+al,043-0000,Lowndes County Board of Education,043-0015,Calhoun High School,75.79%,,,N,204,155
+al,043-0000,Lowndes County Board of Education,043-0020,Central Elementary School,75.79%,,,N,282,214
+al,043-0000,Lowndes County Board of Education,043-0025,Central High School,75.79%,,,N,259,196
+al,043-0000,Lowndes County Board of Education,043-0030,Ft Deposit Elementary Sch,75.79%,,,N,227,172
+al,043-0000,Lowndes County Board of Education,043-0040,Hayneville Middle School,75.79%,,,N,170,129
+al,043-0000,Lowndes County Board of Education,043-0050,Lowndes County Middle Sch,75.79%,,,N,144,109
+al,043-0000,Lowndes County Board of Education,043-0080,Jackson Steele Elem. School,75.79%,,,N,168,127
+al,044-0000,Macon County Board of Education,044-0010,Booker T Washington High,68.29%,,,N,464,317
+al,044-0000,Macon County Board of Education,044-0020,D C Wolfe School,68.29%,,,N,110,75
+al,044-0000,Macon County Board of Education,044-0025,George Washington Carver School,68.29%,,,N,433,296
+al,044-0000,Macon County Board of Education,044-0060,Notasulga High School,68.29%,,,N,319,218
+al,044-0000,Macon County Board of Education,044-0095,Tuskegee Public School,68.29%,,,N,322,220
+al,044-0000,Macon County Board of Education,044-0100,Tuskegee Inst Middle School,68.29%,,,N,237,162
+al,800-0000,"MAEF Public Charter Schools, Inc. (ACCEL)",800-0010,Acceleration Day and Evening Academy,64.66%,,64.66%,Y,275,178
+al,048-0000,Marshall County Board of Education,048-0030,Asbury School,53.06%,,,N,546,290
+al,048-0000,Marshall County Board of Education,048-0035,Asbury Elementary,53.06%,,,N,534,283
+al,171-0000,Midfield City Board of Education,171-0010,Midfield Elementary School,79.16%,,75.07%,Y,403,319
+al,171-0000,Midfield City Board of Education,171-0020,Midfield High School,68.13%,,75.07%,Y,342,233
+al,171-0000,Midfield City Board of Education,171-0040,Rutledge School,77.36%,,75.07%,Y,318,246
+al,049-0000,Mobile County Board of Education ,049-0035,Booth Elementay,57.54%,,,N,454,261
+al,049-0000,Mobile County Board of Education ,049-0040,Peter F Alba Middle School,57.54%,,,N,536,308
+al,049-0000,Mobile County Board of Education ,049-0042,Allentown Elementary School,57.54%,,,N,833,479
+al,049-0000,Mobile County Board of Education ,049-0050,Augusta Evans School,57.54%,,,N,263,151
+al,049-0000,Mobile County Board of Education ,049-0060,Mary B Austin Elem School,57.54%,,,N,525,302
+al,049-0000,Mobile County Board of Education ,049-0070,Denton Magnet School of Technology,57.54%,,,N,343,197
+al,049-0000,Mobile County Board of Education ,049-0080,Ben C Rain High School,57.54%,,,N,670,386
+al,049-0000,Mobile County Board of Education ,049-0090,Booker T Washington Mdsch,57.54%,,,N,254,146
+al,049-0000,Mobile County Board of Education ,049-0100,Baker High School,57.54%,,,N,2527,1454
+al,049-0000,Mobile County Board of Education ,049-0112,Causey Middle School,57.54%,,,N,1518,873
+al,049-0000,Mobile County Board of Education ,049-0120,Mattie T Blount High School,57.54%,,,N,1013,583
+al,049-0000,Mobile County Board of Education ,049-0132,Breitling Elem School,57.54%,,,N,557,320
+al,049-0000,Mobile County Board of Education ,049-0136,Alma Bryant High School,57.54%,,,N,1637,942
+al,049-0000,Mobile County Board of Education ,049-0138,Burns Middle School,57.54%,,,N,850,489
+al,049-0000,Mobile County Board of Education ,049-0140,Mary W Burroughs Elem Sch,57.54%,,,N,342,197
+al,049-0000,Mobile County Board of Education ,049-0150,Calcedeaver Elementary Sch,57.54%,,,N,249,143
+al,049-0000,Mobile County Board of Education ,049-0156,Calloway-Smith Middle School,57.54%,,,N,657,378
+al,049-0000,Mobile County Board of Education ,049-0190,Citronelle High School,57.54%,,,N,793,456
+al,049-0000,Mobile County Board of Education ,049-0195,Continuous Learning Center,57.54%,,,N,120,69
+al,049-0000,Mobile County Board of Education ,049-0200,WH Council Traditional Sch,57.54%,,,N,638,367
+al,049-0000,Mobile County Board of Education ,049-0210,Erwin Craighead Elem School,57.54%,,,N,509,293
+al,049-0000,Mobile County Board of Education ,049-0228,Dauphin Island Elem Sch,57.54%,,,N,78,45
+al,049-0000,Mobile County Board of Education ,049-0230,WP Davidson High School,57.54%,,,N,1614,929
+al,049-0000,Mobile County Board of Education ,049-0240,Dixon Elementary School,57.54%,,,N,493,284
+al,049-0000,Mobile County Board of Education ,049-0245,Dr. Robert W. Gilliard Elementary School,57.54%,,,N,797,459
+al,049-0000,Mobile County Board of Education ,049-0250,Dunbar Creative Perf Arts,57.54%,,,N,471,271
+al,049-0000,Mobile County Board of Education ,049-0260,ER Dickson Elementary Sch,57.54%,,,N,901,518
+al,049-0000,Mobile County Board of Education ,049-0270,Collins-Rhodes Elementary,57.54%,,,N,585,337
+al,049-0000,Mobile County Board of Education ,049-0275,Collier Elementary School,57.54%,,,N,786,452
+al,049-0000,Mobile County Board of Education ,049-0290,Elizabeth Fonde Elem School,57.54%,,,N,605,348
+al,049-0000,Mobile County Board of Education ,049-0310,Forest Hill Elementary Sch,57.54%,,,N,539,310
+al,049-0000,Mobile County Board of Education ,049-0320,George Hall Elementary Sch,57.54%,,,N,377,217
+al,049-0000,Mobile County Board of Education ,049-0323,J. E. Turner Elementary School,57.54%,,,N,531,306
+al,049-0000,Mobile County Board of Education ,049-0340,Cora Castlen Elem,57.54%,,,N,435,250
+al,049-0000,Mobile County Board of Education ,049-0345,Grant Elementary School,57.54%,,,N,282,162
+al,049-0000,Mobile County Board of Education ,049-0350,WC Griggs Elementary Sch,57.54%,,,N,683,393
+al,049-0000,Mobile County Board of Education ,049-0506,Eichold-Mertz School of Math Science and Technology,57.54%,,,N,498,287
+al,049-0000,Mobile County Board of Education ,049-0380,Hollingers Island Elem Sch,57.54%,,,N,290,167
+al,049-0000,Mobile County Board of Education ,049-0385,Howard Elementary School,57.54%,,,N,453,261
+al,049-0000,Mobile County Board of Education ,049-0388,Hutchens Elementary School,57.54%,,,N,609,350
+al,049-0000,Mobile County Board of Education ,049-0390,Indian Springs Elem Sch,57.54%,,,N,401,231
+al,049-0000,Mobile County Board of Education ,049-0400,John Will Elementary School,57.54%,,,N,533,307
+al,049-0000,Mobile County Board of Education ,049-0410,Clark-Shaw Magnet School,57.54%,,,N,758,436
+al,049-0000,Mobile County Board of Education ,049-0420,Kate Shephard Elem School,57.54%,,,N,603,347
+al,049-0000,Mobile County Board of Education ,049-0430,WH Leinkauf Elementary Sch,57.54%,,,N,627,361
+al,049-0000,Mobile County Board of Education ,049-0460,Mary G Montgomery High Sch,57.54%,,,N,1948,1121
+al,049-0000,Mobile County Board of Education ,049-0470,Maryvale Elementary School,57.54%,,,N,475,273
+al,049-0000,Mobile County Board of Education ,049-0473,McDavid-Jones Elementary School,57.54%,,,N,929,535
+al,049-0000,Mobile County Board of Education ,049-0475,Meadowlake Elementary,57.54%,,,N,426,245
+al,049-0000,Mobile County Board of Education ,049-0490,Grand Bay Middle School,57.54%,,,N,814,468
+al,049-0000,Mobile County Board of Education ,049-0500,Mobile Cty Training Mdsch,57.54%,,,N,182,105
+al,049-0000,Mobile County Board of Education ,049-0510,Morningside Elementary Sch,57.54%,,,N,500,288
+al,049-0000,Mobile County Board of Education ,049-0530,SS Murphy High School,57.54%,,,N,1475,849
+al,049-0000,Mobile County Board of Education ,049-0540,Nan Gray Davis Elem School,57.54%,,,N,533,307
+al,049-0000,Mobile County Board of Education ,049-0550,Old Shell CreativePerf Art,57.54%,,,N,379,218
+al,049-0000,Mobile County Board of Education ,049-0560,Olive J Dodge Elem School,57.54%,,,N,1056,608
+al,049-0000,Mobile County Board of Education ,049-0570,Orchard Elementary School,57.54%,,,N,508,292
+al,049-0000,Mobile County Board of Education ,049-0590,Sidney Phillips Preparatory,57.54%,,,N,733,422
+al,049-0000,Mobile County Board of Education ,049-0595,Pillans Middle School,57.54%,,,N,509,293
+al,049-0000,Mobile County Board of Education ,049-0621,Lott Middle School,57.54%,,,N,510,293
+al,049-0000,Mobile County Board of Education ,049-0622,O'Rourke Elem Sch,57.54%,,,N,1060,610
+al,049-0000,Mobile County Board of Education ,049-0650,Scarborough Model Middle School,57.54%,,,N,563,324
+al,049-0000,Mobile County Board of Education ,049-0656,Semmes Elementary School,57.54%,,,N,566,326
+al,049-0000,Mobile County Board of Education ,049-0660,Semmes Middle School,57.54%,,,N,1383,796
+al,049-0000,Mobile County Board of Education ,049-0690,St. Elmo Elementary School,57.54%,,,N,442,254
+al,049-0000,Mobile County Board of Education ,049-0700,AW Holloway Elem,57.54%,,,N,630,363
+al,049-0000,Mobile County Board of Education ,049-0710,Tanner Williams Elem School,57.54%,,,N,308,177
+al,049-0000,Mobile County Board of Education ,049-0715,Theodore High School,57.54%,,,N,1411,812
+al,049-0000,Mobile County Board of Education ,049-0720,Hankins Middle School,57.54%,,,N,848,488
+al,049-0000,Mobile County Board of Education ,049-0730,Le Flore High School,57.54%,,,N,629,362
+al,049-0000,Mobile County Board of Education ,049-0735,Just 4 Dvl Laboratory,57.54%,,,N,284,163
+al,049-0000,Mobile County Board of Education ,049-0740,Chastang-Fournier,57.54%,,,N,594,342
+al,049-0000,Mobile County Board of Education ,049-0750,CF Vigor High School,57.54%,,,N,547,315
+al,049-0000,Mobile County Board of Education ,049-0760,WD Robbins Elementary Sch,57.54%,,,N,389,224
+al,049-0000,Mobile County Board of Education ,049-0770,Spencer-Westlawn Elementary School,57.54%,,,N,556,320
+al,049-0000,Mobile County Board of Education ,049-0790,Whitley Elementary School,57.54%,,,N,333,192
+al,049-0000,Mobile County Board of Education ,049-0800,Williamson High School and Middle Grades Preparatory Academy,57.54%,,,N,704,405
+al,049-0000,Mobile County Board of Education ,049-0810,Wilmer Elementary School,57.54%,,,N,576,331
+al,049-0000,Mobile County Board of Education ,049-0859,Pearl Haskew Elementary School,57.54%,,,N,548,315
+al,049-0000,Mobile County Board of Education ,049-5160,H. L. Sonny Callahan School For The Deaf and Blind,57.54%,,,N,49,28
+al,049-0000,Mobile County Board of Education ,049-0021,North Mobile Middle,57.54%,,,N,464,267
+al,049-0000,Mobile County Board of Education ,049-0231,Dawes Intermediate School,57.54%,,,N,548,315
+al,049-0000,Mobile County Board of Education ,049-0495,The Pathway 6-8,57.54%,,,N,202,116
+al,049-0000,Mobile County Board of Education ,049-0705,Taylor-White Elementary,57.54%,,,N,394,227
+al,050-0000,Monroe County Board of Education,050-0055,JF Shields High School,64.63%,,,N,242,156
+al,050-0000,Monroe County Board of Education,050-0070,Monroe County High School,64.63%,,,N,339,219
+al,050-0000,Monroe County Board of Education,050-0090,Monroe Intermediate School,64.63%,,,N,86,56
+al,050-0000,Monroe County Board of Education,050-0100,Monroeville Elementary Sch,64.63%,,,N,527,341
+al,050-0000,Monroe County Board of Education,050-0110,Monroeville Middle School,64.63%,,,N,381,246
+al,051-0000,Montgomery County Board of Education,051-0020,Baldwin Magnet School,60.44%,,,N,524,317
+al,051-0000,Montgomery County Board of Education,051-0030,Bear Exploration Center,60.44%,,,N,512,309
+al,051-0000,Montgomery County Board of Education,051-0050,Bellingrath Middle School,60.44%,,,N,456,276
+al,051-0000,Montgomery County Board of Education,051-0055,W. M. Blount Elem School,60.44%,,,N,434,262
+al,051-0000,Montgomery County Board of Education,051-0060,Booker T Washington Magnet High School,60.44%,,,N,399,241
+al,051-0000,Montgomery County Board of Education,051-0085,Brewbaker Intermediate Sch,60.44%,,,N,696,421
+al,051-0000,Montgomery County Board of Education,051-0090,Brewbaker Middle School,60.44%,,,N,800,484
+al,051-0000,Montgomery County Board of Education,051-0095,Brewbaker Primary School,60.44%,,,N,612,370
+al,051-0000,Montgomery County Board of Education,051-0097,Brewbaker Technology Magnet,60.44%,,,N,521,315
+al,051-0000,Montgomery County Board of Education,051-0100,Capitol Heights Middle School,60.44%,,,N,608,367
+al,051-0000,Montgomery County Board of Education,051-0110,Carver Elementary School,60.44%,,,N,460,278
+al,051-0000,Montgomery County Board of Education,051-0130,Carver Senior High School,60.44%,,,N,1076,650
+al,051-0000,Montgomery County Board of Education,051-0140,Catoma Elementary School,60.44%,,,N,301,182
+al,051-0000,Montgomery County Board of Education,051-0150,Childrens Center,60.44%,,,N,96,58
+al,051-0000,Montgomery County Board of Education,051-0170,Chisholm Elementary School,60.44%,,,N,517,312
+al,051-0000,Montgomery County Board of Education,051-0200,Dalraida Elementary School,60.44%,,,N,757,458
+al,051-0000,Montgomery County Board of Education,051-0210,Dannelly Elementary School,60.44%,,,N,577,349
+al,051-0000,Montgomery County Board of Education,051-0220,Davis Elementary School,60.44%,,,N,421,254
+al,051-0000,Montgomery County Board of Education,051-0225,Dozier Elementary School,60.44%,,,N,454,274
+al,051-0000,Montgomery County Board of Education,051-0230,Dunbar-Ramer School,60.44%,,,N,158,95
+al,051-0000,Montgomery County Board of Education,051-0240,McIntyre Comprehensive Academy,60.44%,,,N,50,30
+al,051-0000,Montgomery County Board of Education,051-0250,Flowers Elementary School,60.44%,,,N,428,259
+al,051-0000,Montgomery County Board of Education,051-0260,Floyd Middle Magnet School,60.44%,,,N,494,299
+al,051-0000,Montgomery County Board of Education,051-0270,Forest Ave Elementary Sch,60.44%,,,N,685,414
+al,051-0000,Montgomery County Board of Education,051-0275,Garrett Elementary School,60.44%,,,N,607,367
+al,051-0000,Montgomery County Board of Education,051-0300,Goodwyn Middle School,60.44%,,,N,537,325
+al,051-0000,Montgomery County Board of Education,051-0305,Halcyon Elementary School,60.44%,,,N,501,303
+al,051-0000,Montgomery County Board of Education,051-0340,Highland Ave Elementary Sch,60.44%,,,N,435,263
+al,051-0000,Montgomery County Board of Education,051-0350,Highland Gardens Elem Sch,60.44%,,,N,459,277
+al,051-0000,Montgomery County Board of Education,051-0370,Jefferson Davis High School,60.44%,,,N,1744,1054
+al,051-0000,Montgomery County Board of Education,051-0380,Johnson Elementary School,60.44%,,,N,463,280
+al,051-0000,Montgomery County Board of Education,051-0385,Martin Luther King Elementary,60.44%,,,N,324,196
+al,051-0000,Montgomery County Board of Education,051-0387,L.A.M.P. Magnet High School,60.44%,,,N,504,305
+al,051-0000,Montgomery County Board of Education,051-0390,Lanier Senior High School,60.44%,,,N,998,603
+al,051-0000,Montgomery County Board of Education,051-0400,Lee High School,60.44%,,,N,1461,883
+al,051-0000,Montgomery County Board of Education,051-0420,MacMillan International Acad,60.44%,,,N,355,215
+al,051-0000,Montgomery County Board of Education,051-0440,Fitzpatrick Elementary Sch,60.44%,,,N,523,316
+al,051-0000,Montgomery County Board of Education,051-0458,Walter T McKee Middle School,60.44%,,,N,781,472
+al,051-0000,Montgomery County Board of Education,051-0463,T S Morris Elementary School,60.44%,,,N,568,343
+al,051-0000,Montgomery County Board of Education,051-0470,Morningview Elementary Sch,60.44%,,,N,578,349
+al,051-0000,Montgomery County Board of Education,051-0475,E.D. Nixon School,60.44%,,,N,428,259
+al,051-0000,Montgomery County Board of Education,051-0500,Crump Elementary School,60.44%,,,N,644,389
+al,051-0000,Montgomery County Board of Education,051-0520,Pintlala Elementary School,60.44%,,,N,152,92
+al,051-0000,Montgomery County Board of Education,051-0530,Southlawn Elementary School,60.44%,,,N,318,192
+al,051-0000,Montgomery County Board of Education,051-0535,Southlawn Middle School,60.44%,,,N,494,299
+al,051-0000,Montgomery County Board of Education,051-0540,Vaughn Rd Elementary School,60.44%,,,N,512,309
+al,051-0000,Montgomery County Board of Education,051-0550,Wares Ferry Rd Elem Sch,60.44%,,,N,448,271
+al,051-0000,Montgomery County Board of Education,051-0105,Johnnie R. Carr Middle School,60.44%,,,N,752,455
+al,051-0000,Montgomery County Board of Education,051-0560,Jim Winfrey Wilson Jr. Elementary School,60.44%,,,N,464,280
+al,051-0000,Montgomery County Board of Education,051-0456,Walter T McKee Pre K Center,60.44%,,,N,182,110
+al,051-0000,Montgomery County Board of Education,051-0478,Park Crossing High School,60.44%,,,N,1243,751
+al,B5F-0000,New Life Christian Church Academy,B5F-S001,New Life Christian Academy,42.50%,,,N,80,34
+al,182-0000,Ozark City Board of Education,182-0010,Carroll High School,41.37%,,,N,655,271
+al,182-0000,Ozark City Board of Education,182-0040,Harry N Mixon Intermediate School,61.93%,,,N,436,270
+al,182-0000,Ozark City Board of Education,182-0050,Joseph W Lisenby Primary Sch,61.29%,,,N,536,329
+al,182-0000,Ozark City Board of Education,182-0060,DA Smith Middle School,61.29%,,,N,456,279
+al,053-0000,Perry County Board of Education,053-0025,Francis Marion School,76.08%,,80.18%,Y,715,544
+al,053-0000,Perry County Board of Education,053-0040,Robert C Hatch High School,85.08%,,80.18%,Y,602,512
+al,055-0000,Pike County Board of Education,055-0010,Banks Primary School,59.84%,,,N,369,221
+al,055-0000,Pike County Board of Education,055-0025,Goshen Elementary School,59.84%,,,N,454,272
+al,055-0000,Pike County Board of Education,055-0030,Goshen High School,59.84%,,,N,434,260
+al,055-0000,Pike County Board of Education,055-0039,Pike County Elementary Sch,59.84%,,,N,454,272
+al,055-0000,Pike County Board of Education,055-0040,Pike County High School,59.84%,,,N,443,265
+al,188-0000,Roanoke City Board of Education,188-0010,Handley Middle School,51.11%,,,N,524,268
+al,188-0000,Roanoke City Board of Education,188-0020,Handley High School,51.11%,,,N,467,239
+al,188-0000,Roanoke City Board of Education,188-0030,Knight Enloe Elementary Sch,51.11%,,,N,490,250
+al,057-0000,Russell County Board of Education,057-0020,Dixie Elementary School,58.64%,,,N,216,127
+al,057-0000,Russell County Board of Education,057-0030,Ladonia Elementary School,58.64%,,,N,436,256
+al,057-0000,Russell County Board of Education,057-0050,Oliver Elementary School,58.64%,,,N,407,239
+al,191-0000,Selma City Board of Education,191-0030,Clark Elementary School,0.84%,,78.97%,Y,352,3
+al,191-0000,Selma City Board of Education,191-0045,Sophia P Kingston Elementary School,0.81%,,78.97%,Y,138,1
+al,191-0000,Selma City Board of Education,191-0050,School Of Discovery,0.90%,,78.97%,Y,235,2
+al,191-0000,Selma City Board of Education,191-0060,Edgewood Elementary School,0.58%,,78.97%,Y,302,2
+al,191-0000,Selma City Board of Education,191-0080,Knox Elementary School,0.91%,,78.97%,Y,181,2
+al,191-0000,Selma City Board of Education,191-0090,Meadowview Elementary Sch,0.82%,,78.97%,Y,281,2
+al,191-0000,Selma City Board of Education,191-0100,Payne Elementary School,0.80%,,78.97%,Y,215,2
+al,191-0000,Selma City Board of Education,191-0110,Selma High School,0.70%,,78.97%,Y,809,6
+al,191-0000,Selma City Board of Education,191-0120,R.B. Hudson Middle School ,0.89%,,78.97%,Y,424,4
+al,192-0000,Sheffield City Board of Education,192-0020,WA Threadgill Primary Sch,60.84%,,,N,299,182
+al,192-0000,Sheffield City Board of Education,192-0050,Sheffield High School,60.84%,,,N,227,138
+al,192-0000,Sheffield City Board of Education,192-0055,Sheffield Jr High School,60.84%,,,N,157,96
+al,192-0000,Sheffield City Board of Education,192-0090,LE Willson Elem School,60.84%,,,N,341,207
+al,060-0000,Sumter County Board of Education,060-0020,Kinterbish Junior High Sch,82.98%,,71.93%,Y,141,117
+al,060-0000,Sumter County Board of Education,060-0060,Livingston Junior High Sch,72.44%,,71.93%,Y,468,339
+al,060-0000,Sumter County Board of Education,060-0070,York West End Jr High Sch,80.19%,,71.93%,Y,212,170
+al,060-0000,Sumter County Board of Education,060-0080,Sumter Central High School,63.24%,,71.93%,Y,408,258
+al,197-0000,Tarrant City Board of Education,197-0020,Tarrant Elementary School,67.18%,,,N,332,223
+al,197-0000,Tarrant City Board of Education,197-0030,Tarrant High School,67.18%,,,N,466,313
+al,197-0000,Tarrant City Board of Education,197-0035,Tarrant Intermediate School,67.18%,,,N,372,250
+al,199-0000,Troy City Board of Education ,199-0010,Charles Henderson High Sch,40.07%,,,N,534,214
+al,199-0000,Troy City Board of Education ,199-0015,Charles Henderson Middle,53.43%,,,N,277,148
+al,199-0000,Troy City Board of Education ,199-0070,Troy Elementary School,58.05%,,,N,975,566
+al,200-0000,Tuscaloosa City Board of Education,200-0010,The Alberta School of Performing Arts Elementary and Middle School,61.41%,,,N,555,341
+al,200-0000,Tuscaloosa City Board of Education,200-0020,Arcadia Elementary School,61.41%,,,N,321,197
+al,200-0000,Tuscaloosa City Board of Education,200-0030,Central Elementary School,61.41%,,,N,292,179
+al,200-0000,Tuscaloosa City Board of Education,200-0055,Paul W. Bryant High School,61.41%,,,N,1145,703
+al,200-0000,Tuscaloosa City Board of Education,200-0060,Eastwood Middle School,61.41%,,,N,786,483
+al,200-0000,Tuscaloosa City Board of Education,200-0090,Oakdale Elementary School,61.41%,,,N,290,178
+al,200-0000,Tuscaloosa City Board of Education,200-0110,Skyland Elementary School,61.41%,,,N,334,205
+al,200-0000,Tuscaloosa City Board of Education,200-0140,Martin L King Jr Elem Sch,61.41%,,,N,481,295
+al,200-0000,Tuscaloosa City Board of Education,200-0160,Central High School,61.41%,,,N,736,452
+al,200-0000,Tuscaloosa City Board of Education,200-0180,University Place Elementary School,61.41%,,,N,396,243
+al,200-0000,Tuscaloosa City Board of Education,200-0195,Woodland Forrest Elem Sch,61.41%,,,N,480,295
+al,200-0000,Tuscaloosa City Board of Education,200-0200,Westlawn Middle School,61.41%,,,N,369,227
+al,200-0000,Tuscaloosa City Board of Education,200-0131,Southview Elementary School,61.41%,,,N,516,317
+al,063-0000,Tuscaloosa County Board of Education,063-0010,Holt Elementary School,63.97%,,,N,502,321
+al,063-0000,Tuscaloosa County Board of Education,063-0060,Crestmont Elementary School,63.97%,,,N,348,223
+al,063-0000,Tuscaloosa County Board of Education,063-0130,Matthews Elementary School,63.97%,,,N,474,303
+al,063-0000,Tuscaloosa County Board of Education,063-0165,Sprayberry Regional Ed Center,63.97%,,,N,169,108
+al,065-0000,Washington County Board of Education,065-0020,McIntosh Elementary School,68.29%,,,N,251,171
+al,065-0000,Washington County Board of Education,065-0050,McIntosh High School,68.29%,,,N,181,124
+al,066-0000,Wilcox County Board of Education,066-0010,ABC Elementary School,80.65%,,,N,116,94
+al,066-0000,Wilcox County Board of Education,066-0045,JE Hobbs Elementary School,80.65%,,,N,505,407
+al,066-0000,Wilcox County Board of Education,066-0085,Pine Hill Elementary School (F.S. Ervin),80.65%,,,N,229,185
+al,066-0000,Wilcox County Board of Education,066-0135,Wilcox Central High Sch,80.65%,,,N,506,408
+al,066-0000,Wilcox County Board of Education,066-0140,Camden Sch Of Arts & Technology,80.65%,,,N,215,173
