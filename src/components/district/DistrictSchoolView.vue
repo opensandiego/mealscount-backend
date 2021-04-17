@@ -9,7 +9,6 @@
                 @click="set_sort('grouping')">Recommended Grouping <img v-bind:src="image.qmark"></th>
             <th scope="col" @click="set_sort('school_code')">School Code</th>
             <th scope="col" @click="set_sort('school_name')">School Name</th>
-            <th scope="col" v-tooltip title="School type is based on FRAC CEP file designations">School Type <img v-bind:src="image.qmark"></th>
             <th v-tooltip
                 title="Pre-loaded data is based on the publicly available FRAC CEP file. Please edit with your updated enrollment data."
                 scope="col" 

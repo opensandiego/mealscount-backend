@@ -13,7 +13,6 @@
         <td v-else v-tooltip title="Schools marked in group 0 are not included in the grouping calculation" >0</td>
         <td>{{ school.school_code }}</td>
         <td>{{ school.school_name }}</td>
-        <td>{{ school.school_type }}</td>
         <td>{{ school.total_enrolled | toCount }}</td>
         <td>{{ school.total_eligible | toCount }}</td>
         <td>{{ school.daily_breakfast_served | toCount }}</td>

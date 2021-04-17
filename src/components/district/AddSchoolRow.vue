@@ -8,13 +8,6 @@
             <input placeholder="School Name" v-model="school.school_name" />
         </td>
         <td>
-            <select v-model="school.school_type">
-                <option value="Public">Public</option>
-                <option value="Charter">Public</option>
-                <option value="Other">Public</option>
-            </select>
-        </td>
-        <td>
             <input type="number" v-model.number="school.total_enrolled" min="1" />
         </td>
         <td>
@@ -25,6 +18,9 @@
         </td>
         <td>
             <input type="number" v-model.number="school.daily_lunch_served" min="0"/>
+        </td>
+        <td>
+            <input type="checkbox" v-model="school.severe_need" />
         </td>
         <td>
             <input type="checkbox" v-model="school.active" />

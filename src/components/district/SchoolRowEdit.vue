@@ -6,7 +6,6 @@
         <td><button class="btn btn-secondary" @click="$emit('remove')">remove</button></td>
         <td>{{ school.school_code }}</td>
         <td>{{ school.school_name }}</td>
-        <td>{{ school.school_type }}</td>
         <td>
             <input type="number" v-model="school.total_enrolled" />
         </td>
