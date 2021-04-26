@@ -21,6 +21,14 @@
                  >
                  FAQs and Contact Information for {{ state.name }}
                </router-link>
+
+               <router-link
+                 class="btn btn-primary"
+                 :to="{name:'district-custom', params: {state_code:state.state_code} }"
+                 >
+                 Custom District
+               </router-link>
+
            </div>
 
         </div>

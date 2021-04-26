@@ -134,8 +134,8 @@ def optimize():
         d_obj.get("name","DistrictName"),
         d_obj.get("code","DistrictCode"),
         state=state,
-        sfa_certified=d_obj["sfa_certified"],
-        hhfka_sixty=d_obj["hhfka_sixty"]
+        sfa_certified=d_obj.get("sfa_certified",True),
+        hhfka_sixty=d_obj.get("hhfka_sixty","more")
     )
 
     i = 1 
@@ -185,8 +185,8 @@ def calculate():
         d_obj.get("name","DistrictName"),
         d_obj.get("code","DistrictCode"),
         state=state,
-        sfa_certified=d_obj["sfa_certified"],
-        hhfka_sixty=d_obj["hhfka_sixty"]
+        sfa_certified=d_obj.get("sfa_certified",True),
+        hhfka_sixty=d_obj.get("hhfka_sixty","more")
     )
 
     # TODO consolidate with optimize() above

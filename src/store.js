@@ -113,6 +113,7 @@ export default new Vuex.Store({
         load_districts({ commit, dispatch }, state_code) {
             //const url =`/api/districts/${state_code}/` 
             const url = `/static/${state_code}/districts.json`;
+            console.log("loading districts of ",state_code)
             axios.get(url).then(resp => {
                 console.log(`setting ${resp.data.length} districts for ${state_code}`)
                 resp.data.forEach(d => d.data = null);
@@ -129,9 +130,12 @@ export default new Vuex.Store({
             })
         },
         new_district({ commit, dispatch }, state_code) {
+            console.log("creating new district for ",state_code.state)
             const d = {
-                state_code: state_code,
+                state_code: state_code.state,
                 code: 'new',
+                sfa_certified: true,
+                hhfka_sixty: "more",
                 schools: [],
                 rates: DEFAULT_RATES,
                 best_index: 0,
@@ -144,7 +148,11 @@ export default new Vuex.Store({
             // TODO make the async option triggered explicitely from index.html data- tag
             const url = `/api/districts/optimize-async/`; 
             axios.post(url, district).then(resp => {
-                const d = resp.data;
+                let d = resp.data;
+                if(d.error){
+                    alert("Error encountered, please refresh: " + d.error)
+                    return
+                }
                 if (resp.data.results_url != undefined) {
                     setTimeout(t => {
                         dispatch("poll_for_results", { url: d.results_url, count: TIMEOUT })

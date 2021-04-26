@@ -3,11 +3,6 @@
     <h1>Getting Help</h1>
     <p>Here are some resources to help you get started with Meals Count.</p>
 
-    <h2>User Guide</h2>
-    <p>
-      <a href="https://docs.google.com/presentation/d/e/2PACX-1vSX2yOcHjysywwN0RDOOcsK8ULiJDf7T7dcRvQNqOWtlqb-wOVUsBcdDuN7gCyeVDZl2PmoUupus33P/pub?start=false&loop=false&delayms=60000" _target="blank">User Guide</a>
-    </p>
-
     <h2>Resources</h2>
     <ul>
       <li>
@@ -18,17 +13,19 @@
           href="https://www.fns.usda.gov/nslp/community-eligibility-provision-resource-center"
         >USDA CEP Resource Center</a>
       </li>
-      <li><a target="_blank" href="https://youtu.be/gJJA5-P0yAM">Meals Count webinar</a>
-        <ul>
-          <li>CEP overview at 4:00</li>
-          <li>Meals Count at 25:37</li>
-          <li>Financial calculators at 54:20</li>
-          <li>Q&amp;A session at 1:01:04</li>
-        </ul>
-      </li>
       <li><a target="_blank" href="https://www.nourishca.org/webinar-materials-cep-lcff/">Nourish CA (formerly CFPA) Webinar on CEP &amp; the Local Control Funding Formula (LCFF)</a></li>
       <li><a target="_blank" href="https://youtu.be/BmYN_GPhuRc">Tutorial by San Diego Hunger on managing CSV Files in Meals Count</a></li>
       <li><a target="_blank" href="http://bestpractices.nokidhungry.org/webinars/walk-through-new-cep-grouping-tool-meals-count">Meals Count Webinar with No Kid Hungry</a></li>
+      <li><a target="_blank" href="http://bestpractices.nokidhungry.org/webinars/including-community-eligibility-provision-your-back-school-plans">Webinar Including CEP in Your Back-to-School Plans (4/13/21)</a></li>
+      <li><a target="_blank" href="https://frac.org/wp-content/uploads/frac-facts-community-eligibility-provision-1.pdf">FRAC Facts: Community Eligibility Provision</a></li>
+      <li><a target="_blank" href="http://bestpractices.nokidhungry.org/resource/promoting-educational-equity-community-eligibility-provision-cep">Promoting Educational Equity with CEP</a></li>
+      <li><a target="_blank" href="http://bestpractices.nokidhungry.org/resource/cep-benefits-students-families-and-schools">CEP Benefits Students, Families, and Schools</a></li>
+      <li><a target="_blank" href="http://bestpractices.nokidhungry.org/resource/title-i-and-cep-helpful-info-school-nutrition-staff">Title I &amp; CEP: Helpful Info for School Nutrition</a></li>
+    </ul>
+
+    <h5>Older Webinar / Videos</h5>
+    <ul>
+      <li><a target="_blank" href="https://youtu.be/gJJA5-P0yAM">2020 Meals Count webinar</a></li>
     </ul>
   </section>
 </template>
