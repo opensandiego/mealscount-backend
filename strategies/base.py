@@ -339,7 +339,7 @@ class BaseCEPStrategy(ABC):
     def as_dict(self):
         return {
             "name": self.name,
-            "groups": [g.as_dict() for g in self.groups],
+            "groups": self.groups and [g.as_dict() for g in self.groups] or [],
             "isp":  self.isp,
             "total_enrolled": self.total_enrolled,
             "free_rate": isp_to_free_rate(self.isp),

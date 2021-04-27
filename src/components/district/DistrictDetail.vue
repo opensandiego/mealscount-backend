@@ -276,6 +276,10 @@ export default {
         alert("Please fill in all breakfast and lunch daily participation")
         return false;
       }
+      if(this.district.schools.filter( s => s.active).length == 0){
+        alert("Please have at least one school included in optimization")
+        return false;
+      }
       this.editMode = false
       this.$store.dispatch("run_district",this.district);
       this.showLoading = true

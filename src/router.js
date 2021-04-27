@@ -116,6 +116,17 @@ export default new Router({
                 )
             }
         },
+        {
+            path: '/explore/custom/:state_code', 
+            name: 'district-custom',
+            component: DistrictDetail,
+            props: true,
+            beforeEnter: (to, from, next) => {
+                store.dispatch("new_district",{state:to.params.state_code}).then(
+                    () => { store.dispatch("load_district_data").then(next) }
+                )
+            }
+        },
     ],
     scrollBehavior (to, from, savedPosition) {
         return { x: 0, y: 0 }

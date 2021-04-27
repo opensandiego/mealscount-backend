@@ -152,13 +152,16 @@
         <div class="row">
           <div class="col-12 text-center">
             <a target="_blank" href="https://opensandiego.org"
-              ><img class="logo" v-bind:src="logos.openSD_logo"
-            /></a>
+              ><img class="logo" v-bind:src="logos.openSD_logo" alt="Open San Diego" />
+            </a>
             <a target="_blank" href="https://www.nourishca.org">
-              <img class="logo" v-bind:src="logos.nourishca_logo" />
+              <img class="logo" v-bind:src="logos.nourishca_logo" alt="Nourish CA" />
             </a>
             <a target="_blank" href="https://www.sandiegohungercoalition.org/">
-              <img class="logo" v-bind:src="logos.hunger_logo" />
+              <img class="logo" v-bind:src="logos.hunger_logo" alt="San Diego Hunger Coalition" />
+            </a>
+            <a target="_blank" href="https://www.nokidhungry.org/">
+              <img class="logo" v-bind:src="logos.nokidhungry_logo" alt="No Kid Hungry" />
             </a>
           </div>
         </div>
@@ -199,6 +202,7 @@
 import NourishCALogo from "../assets/nourishca_logo.png";
 import OPENSD from "../assets/openSD.jpeg";
 import HUNGER from "../assets/hunger.jpg";
+import NOKIDHUNGRY from "../assets/nokidhungry_logo.png"
 import HOMEPAGE_HERO from "../assets/homepage_hero.jpg";
 import HOMEPAGE_WORKER from "../assets/Image_worker-food.png";
 import LOCATE_ICON from "../assets/locate-icon.svg";
@@ -215,7 +219,7 @@ import FANCYW from "../assets/white-line-underline.png"
 export default {
   data() {
     return {
-      logos: { nourishca_logo: NourishCALogo, openSD_logo: OPENSD, hunger_logo: HUNGER },
+      logos: { nourishca_logo: NourishCALogo, openSD_logo: OPENSD, hunger_logo: HUNGER, nokidhungry_logo: NOKIDHUNGRY },
       icons: {
         locate: LOCATE_ICON,
         inputdata: INPUTDATA_ICON,
