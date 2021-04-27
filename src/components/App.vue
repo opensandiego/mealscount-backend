@@ -84,7 +84,10 @@
                 <a href="https://www.nourishca.org">Nourish California</a>
               </li>
               <li>
-                <a href="https://www.sandiegohungercoalition.org/">SD Hunger</a>
+                <a href="https://www.sandiegohungercoalition.org/">San Diego Hunger Coalition</a>
+              </li>
+              <li>
+                <a href="https://www.nokidhungry.org/">No Kid Hungry</a>
               </li>
               <li>
                 <a href="https://www.codeforamerica.org/">Code For America</a>
