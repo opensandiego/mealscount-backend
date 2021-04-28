@@ -200,7 +200,7 @@
 
 <script>
 import NourishCALogo from "../assets/nourishca_logo.png";
-import OPENSD from "../assets/openSD.jpeg";
+import OPENSD from "../assets/opensandiego_logo.png";
 import HUNGER from "../assets/hunger.jpg";
 import NOKIDHUNGRY from "../assets/nokidhungry_logo.png"
 import HOMEPAGE_HERO from "../assets/homepage_hero.jpg";
