@@ -194,7 +194,7 @@ class CEPGroup(object):
         } 
 
 class CEPDistrict(object):
-    def __init__(self,name,code,sfa_certified=False,hhfka_sixty="more",state="ca"):
+    def __init__(self,name,code,sfa_certified=True,hhfka_sixty="more",state="ca"):
         self.name = name
         self.code = code
         self._schools = [] 
