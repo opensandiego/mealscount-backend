@@ -78,7 +78,6 @@ def write_schools(rows):
                     school['District Name'] = district_codes[school['District Code']]
                 else:
                     district_codes.setdefault(school['District Code'], school['District Name'])
-
                 latest.writerow(school)
 
     # TODO
@@ -105,6 +104,13 @@ if __name__ == "__main__":
 
     rows = parse_file(args.csv_file[0]) 
     print("Found %i schools" % len(rows))
+
+    districts = {}
+    for s in rows:
+        districts.setdefault(s['District Code'],0)
+        districts[s['District Code']] += 1
+    print("%i of %i districts over 12 schools" % (len([d for d in districts.values() if d > 12]),len(districts)))
+
     print("\t%i with enrollment data" %  len([s for s in rows if s['total_enrolled']]))
     print("\t%i with isp data" %  len([s for s in rows if s['total_eligible']]))
 
