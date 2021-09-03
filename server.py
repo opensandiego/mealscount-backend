@@ -129,7 +129,7 @@ def optimize_async():
                 "t":"pageview",
                 "dp":"/xls-calculator/%s/" % event.get("state_code","unknown"),
             }
-            requests.post("https://www.google-analytics.com",params)
+            requests.post("https://www.google-analytics.com/collect",params)
 
  
 
