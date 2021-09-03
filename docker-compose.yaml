@@ -10,7 +10,7 @@ services:
       - FLASK_APP=server.py
     working_dir: /code/
     volumes:
-      - ./:/code/:cached
+      - ./:/code/
     depends_on:
       - build
 
@@ -19,4 +19,4 @@ services:
     working_dir: /code/
     command: sh -c "npm install . && npm run build && npm run watch"
     volumes:
-      - ./:/code/:cached
+      - ./:/code/

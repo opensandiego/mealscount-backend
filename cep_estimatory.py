@@ -91,7 +91,7 @@ Expected CSV File columns
 
     # Reduce to target district if specified
     if target_district != None:
-        schools = [s for s in schools if s.get("District Code",s.get("district_code",None)) == target_district]
+        schools = [s for s in schools if s.get("District Code",s.get("district_code",s.get("district",None))) == target_district]
 
     # Naive Groupings
     #DistrictClass = OneToOneCEPDistrict

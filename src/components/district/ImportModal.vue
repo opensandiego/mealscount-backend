@@ -132,6 +132,7 @@ export default {
               district.hhfka_sixty = "more";
             }
             district.schools = [];
+            const school_codes = {}
             rows.forEach( row => {
                 if( row["total_enrolled"] == undefined ){ return; }
                 if( row["included_in_optimization"] != undefined){
@@ -141,6 +142,10 @@ export default {
                 if( row.school_code == null || row.school_code == ""){
                   row.school_code = "school-"+(district.schools.length+1)
                 }
+                if( !school_codes[row.school_code] ){
+                  row.school_code = row.school_code + "-" + (district.schools.length+1)
+                }
+                school_codes[row.school_code] = true
                 if(row.total_enrolled && row.school_name){
                   district.schools.push( row );
                 }
