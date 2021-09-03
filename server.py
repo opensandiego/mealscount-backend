@@ -66,17 +66,6 @@ def get_district(state,code,district_params):
 
 @app.route("/api/districts/optimize-async/", methods=['POST'])
 def optimize_async():
-    if os.environ.get("GOOGLE_ANALYTICS_ID",False):
-        if "VBA-Web" in request.headers.get("User-Agent",""):
-            params = {
-                "v":1,
-                "tid":os.environ.get("GOOGLE_ANALYTICS_ID"),
-                "cid":555,
-                "t":"pageview",
-                "dp":"/xls-calculator/%s/" % event.get("state_code","unknown"),
-            }
-            requests.post("https://www.google-analytics.com",params)
-
     if not os.environ.get("AWS_ACCESS_KEY_ID",False):
        return optimize() 
 
@@ -130,6 +119,17 @@ def optimize_async():
     }
     if response.get("FunctionError",None):
         result["function_error"] = response.get("FunctionError")
+
+    if os.environ.get("GOOGLE_ANALYTICS_ID",False):
+        if "VBA-Web" in request.headers.get("User-Agent",""):
+            params = {
+                "v":1,
+                "tid":os.environ.get("GOOGLE_ANALYTICS_ID"),
+                "cid":555,
+                "t":"pageview",
+                "dp":"/xls-calculator/%s/" % event.get("state_code","unknown"),
+            }
+            requests.post("https://www.google-analytics.com",params)
 
  
 
