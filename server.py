@@ -10,6 +10,7 @@ from io import BytesIO
 
 import boto3
 import base64
+import requests
 
 import csv,codecs,os,os.path
 from strategies.base import CEPDistrict,CEPSchool
@@ -118,6 +119,17 @@ def optimize_async():
     }
     if response.get("FunctionError",None):
         result["function_error"] = response.get("FunctionError")
+
+    if os.environ.get("GOOGLE_ANALYTICS_ID",False):
+        if "VBA-Web" in request.headers["UserAgent"]:
+            params = {
+                "v":1,
+                "tid":os.environ.get("GOOGLE_ANALYTICS_ID"),
+                "cid":555,
+                "t":"pageview",
+                "dp":"/xls-calculator/%s/" % event.get("state_code","unknown"),
+            }
+            requests.post("https://www.google-analytics.com",params)
 
     return result
 
