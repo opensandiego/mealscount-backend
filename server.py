@@ -279,7 +279,7 @@ def states():
 
 # sanity check route
 @app.route('/', defaults={'path':''})
-#@app.route('/<path:path>')
+@app.route('/<path:path>')
 def catch_all(path):
     return render_template('index.html', 
         analytics_id=os.environ.get("GOOGLE_ANALYTICS_ID",False),
