@@ -8,6 +8,7 @@ module.exports = {
   output: { 
     path: path.resolve(__dirname,'dist'), 
     filename: 'static/index_bundle.js?' + process.env.SOURCE_VERSION,
+    publicPath: '/'
   }, 
   module: {
     rules: [
@@ -58,8 +59,9 @@ module.exports = {
       filename: 'index.html',
       title: 'Output Management',
       template: 'src/index.html',
-      inject: true,
+      //inject: true,
       favicon: 'src/assets/favicon.png',
+      //publicPath: '/static/',
     }),
   ],
   devServer: {
