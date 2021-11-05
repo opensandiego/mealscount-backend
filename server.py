@@ -121,7 +121,7 @@ def optimize_async():
         result["function_error"] = response.get("FunctionError")
 
     if os.environ.get("GOOGLE_ANALYTICS_ID",False):
-        if "VBA-Web" in request.headers.get("User-Agent",""):
+        if "vba-web" in request.headers.get("User-Agent","").lower():
             params = {
                 "v":1,
                 "tid":os.environ.get("GOOGLE_ANALYTICS_ID"),
@@ -129,9 +129,7 @@ def optimize_async():
                 "t":"pageview",
                 "dp":"/xls-calculator/%s/" % event.get("state_code","unknown"),
             }
-            requests.post("https://www.google-analytics.com/collect",params)
-
- 
+            requests.post("https://www.google-analytics.com/collect",params,headers={"user-agent":request.headers.get("User-Agent"))
 
     return result
 
