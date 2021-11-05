@@ -70,6 +70,11 @@
                 >
               </li>
               <li>
+                <a
+                  href="http://bestpractices.nokidhungry.org/cep-calculator"
+                  >No Kid Hungry CEP Calculator (With Meals Count Integration)</a>
+              </li>              
+              <li>
                 <router-link to="/help">Help</router-link>
               </li>
             </ul>
