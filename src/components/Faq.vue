@@ -5,6 +5,7 @@
 
     <h3>What are the current deadlines?</h3>
     <p>
+      <a href="https://www.fns.usda.gov/cn/cep-statutory-annual-notification-and-publication-requirements-and-sy" target="_blank" >USDA Election Deadlines</a>
       <!-- The updated deadlines as of <a href="https://fns-prod.azureedge.net/sites/default/files/resource-files/COVID19NationWideWaiver82s.pdf">the 3/26/2021 USDA Memo</a> are: -->
       <table class="table">
         <thead>
