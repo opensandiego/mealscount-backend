@@ -14,6 +14,8 @@
         >USDA CEP Resource Center</a>
       </li>
       <li><a target="_blank" href="https://www.nourishca.org/webinar-materials-cep-lcff/">Nourish CA (formerly CFPA) Webinar on CEP &amp; the Local Control Funding Formula (LCFF)</a></li>
+      <li><a target="_blank" href="https://state.nokidhungry.org/california/cep/">No Kid Hungry California CEP Resources</a></li>
+      <li><a target="_blank" href="http://bestpractices.nokidhungry.org/programs/community-eligibility-provision">No Kid Hungry CEP Resources</a></li>
       <li><a target="_blank" href="https://youtu.be/BmYN_GPhuRc">Tutorial by San Diego Hunger on managing CSV Files in Meals Count</a></li>
       <li><a target="_blank" href="http://bestpractices.nokidhungry.org/webinars/walk-through-new-cep-grouping-tool-meals-count">Meals Count Webinar with No Kid Hungry</a></li>
       <li><a target="_blank" href="http://bestpractices.nokidhungry.org/webinars/including-community-eligibility-provision-your-back-school-plans">Webinar Including CEP in Your Back-to-School Plans (4/13/21)</a></li>

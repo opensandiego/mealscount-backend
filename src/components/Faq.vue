@@ -5,40 +5,40 @@
 
     <h3>What are the current deadlines?</h3>
     <p>
-      The updated deadlines as of <a href="https://fns-prod.azureedge.net/sites/default/files/resource-files/COVID19NationWideWaiver82s.pdf">the 3/26/2021 USDA Memo</a> are:
+      <!-- The updated deadlines as of <a href="https://fns-prod.azureedge.net/sites/default/files/resource-files/COVID19NationWideWaiver82s.pdf">the 3/26/2021 USDA Memo</a> are: -->
       <table class="table">
         <thead>
           <tr>
             <th scope="col">CEP Requirement</th>
             <th scope="col">Annual Deadline</th>
-            <th scope="col">Waiver Deadline</th>
+            <!-- <th scope="col">Waiver Deadline</th> -->
           </tr>
         </thead>
         <tbody>
           <tr>
             <td>Data Used to Calculate ISP</td>
             <td>April 1</td>
-            <td>Anytime between July 1, 2020, and June 30, 2021</td>
+            <!-- <td>Anytime between July 1, 2020, and June 30, 2021</td> -->
           </tr>
           <tr>
             <td>LEA Notification</td>
             <td>April 15</td>
-            <td>June 30, 2021</td>
+            <!-- <td>June 30, 2021</td> -->
           </tr>
           <tr>
             <td>State Agency Notification</td>
             <td>April 15</td>
-            <td>June 30, 2021</td>
+            <!-- <td>June 30, 2021</td> -->
           </tr>
           <tr>
             <td>State Agency Publication</td>
             <td>May 1</td>
-            <td>June 30, 2021</td>
+            <!-- <td>June 30, 2021</td> -->
           </tr>
           <tr>
-            <td>Elect CEP for SY 2021-2022</td>
+            <td>Elect CEP for SY 2022-2023</td>
             <td>June 30</td>
-            <td>September 30, 2021</td>
+            <!-- <td>September 30, 2021</td> -->
           </tr>
         </tbody>
       </table>
