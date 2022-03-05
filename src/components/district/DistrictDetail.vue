@@ -273,7 +273,7 @@ export default {
         return (s.daily_breakfast_served == 0 ||  s.daily_lunch_served == 0 )
       })
       if(null_adp.length > 0){
-        alert("Please fill in all breakfast and lunch daily participation")
+        alert("Please fill in all breakfast and lunch daily participation. You can use the 'Set as % enrolled' to quickly prefill with a percentage.")
         return false;
       }
       if(this.district.schools.filter( s => s.active).length == 0){

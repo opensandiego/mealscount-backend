@@ -78,6 +78,10 @@ export default {
         "sfa_certified",
         "hhfka_sixty",
         "severe_need",
+        "free_breakfast_rate",
+        "paid_breakfast_rate",
+        "free_lunch_rate",
+        "paid_lunch_rate",
         "estimated_school_reimbursement",
       ].join(',') + '\n'
 
@@ -97,6 +101,10 @@ export default {
             this.district.sfa_certified,
             this.district.hhfka_sixty,
             s.severe_need,
+            s.rates.free_bfast,
+            s.rates.paid_bfast,
+            s.rates.free_lunch,
+            s.rates.paid_lunch,
             (s.school_code in this.reimbursement_index)?this.reimbursement_index[s.school_code]:'',
           ].join(',') + "\n"
           i += 1
