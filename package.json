@@ -5,6 +5,7 @@
   "scripts": {
     "watch": "webpack --watch",
     "build": "webpack",
+    "postinstall": "python3 generate_state_json.py",
     "local_dev": "concurrently \"npm run watch\" \"FLASK_ENV=development venv/bin/python server.py\"",
     "docker_dev": "concurrently \"npm run watch\" \"gunicorn server:app\"",
     "start": "webpack-dev-server --config ./webpack.config.js --mode development",
