@@ -13,6 +13,16 @@ services:
       - ./:/code
     depends_on:
       - build
+    
+  jupyter:
+    build: ./
+    command: sh -c "jupyter notebook --allow-root --ip=0.0.0.0"
+    ports:
+      - "8888:8888"
+    working_dir: /code/
+    volumes:
+      - ./:/code
+    profiles: ["jupyter"]
 
   build:
     image: node:14
