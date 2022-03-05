@@ -270,7 +270,7 @@ export default {
     submit(){
       console.log("Submitting for optimization",this.district) 
       const null_adp = this.district.schools.filter( s => {
-        return (s.daily_breakfast_served == null ||  s.daily_lunch_served == null)
+        return (s.daily_breakfast_served == 0 ||  s.daily_lunch_served == 0 )
       })
       if(null_adp.length > 0){
         alert("Please fill in all breakfast and lunch daily participation")

@@ -13,10 +13,12 @@
             <input type="number" v-model="school.total_eligible" />
         </td>
         <td>
-            <input type="number" v-model="school.daily_breakfast_served" min="0" required />
+            <input type="number" v-model="school.daily_breakfast_served" min="0" required v-bind:class="{ error: school.daily_breakfast_served == 0 || school.daily_lunch_served == 0}" />
+            Meals Served
         </td>
         <td>
-            <input type="number" v-model="school.daily_lunch_served" min="0" required />
+            <input type="number" v-model="school.daily_lunch_served" min="0" required v-bind:class="{ error: school.daily_breakfast_served == 0 || school.daily_lunch_served == 0}" />
+            Meals Served
         </td>
         <td>
             <input type="checkbox" v-model="school.severe_need" />
