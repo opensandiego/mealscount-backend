@@ -12,7 +12,6 @@ CMD python /code/server.py --host=0.0.0.0
 FROM node:14 AS npm_build
 COPY --from=base /code/ ./code
 WORKDIR /code/
-RUN npm install node-sass
 RUN npm install .
 RUN npm run build
 
