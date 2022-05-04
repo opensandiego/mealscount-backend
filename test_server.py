@@ -51,7 +51,39 @@ class CEPTestCase(unittest.TestCase):
         result = self.client.post('/api/districts/optimize/', data = "{Broken JSON}")
         self.assertEqual(result.status_code,200)
         self.assertTrue("error" in result.json)
-                
+
+    def test_empty_schools(self):
+        # https://sentry.io/organizations/mealscount-dev/issues/2432273179/
+        for_lambda = {
+           "code": 'District Name', 
+            "name": 'District Name', 
+            "schools": [{
+                "daily_breakfast_served": 0, 
+                "daily_lunch_served": 0, 
+                "school_code": '', 
+                "school_name": '', 
+                "severe_need": False, 
+                "total_eligible": 0, 
+                "total_enrolled": 0
+            } for i in range(8)],
+            "state_code": 'AL', 
+            "strategies_to_run": [
+                'Pairs', 
+                'OneToOne', 
+                'Exhaustive', 
+                'OneGroup', 
+                'Spread', 
+                'Binning', 
+                'NYCMODA?fresh_starts=50&iterations=1000', 
+                'GreedyLP'
+            ]
+        }
+        from lambda_function import test_run
+        import datetime
+        sobj = oceanside()
+        result = test_run(sobj,datetime.datetime.now())
+        # Testing for an exception which does not seem to be happening.
+        #self.assertEqual(result,1)
 
 # Mostly accurate, severe need is not accurate
 def oceanside():
@@ -81,4 +113,5 @@ def oceanside():
     ],
     "state_code": "ca"
     })
+
 

@@ -103,7 +103,7 @@ def test_run(event,n):
                     zf.writestr('data.json', json.dumps(event))
                 event = {"zipped": base64.b64encode(mf.getvalue()) }
 
-        lambda_handler(event,TestContext(),local_output="AWS_ACCESS_KEY_ID" not in os.environ)
+        return lambda_handler(event,TestContext(),local_output="AWS_ACCESS_KEY_ID" not in os.environ)
 
 if __name__ == "__main__":
     # For Local Testing
