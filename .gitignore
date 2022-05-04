@@ -250,4 +250,5 @@ working/
 
 lambda_venv/
 function.zip
-.aws_env
+.env
+
