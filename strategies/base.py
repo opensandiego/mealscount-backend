@@ -289,7 +289,7 @@ class BaseCEPStrategy(ABC):
 
     def __init__(self,params={},name=None):
         self.params = params
-        self.groups = None
+        self.groups = []
         if name: self.name = name
 
     @property
@@ -335,6 +335,12 @@ class BaseCEPStrategy(ABC):
     def reimbursement(self):
         r = sum([g.est_reimbursement() for g in self.groups])
         return r
+
+    def school_reimbursement(self,school):
+        for g in self.groups:
+            if school in g.schools:
+                return g.school_reimbursement(school)
+        return 0
 
     def as_dict(self):
         return {
