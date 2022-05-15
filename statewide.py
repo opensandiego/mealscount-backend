@@ -100,6 +100,8 @@ def output(districts,results,state,lastyear_groupings):
       "mealscount_reimbursement",
       "lastyear_grouping",
       "mealscount_grouping",
+#      "lunch_rate",
+#      "breakfast_rate",
     ))
     for d in districts.values():
       school_results = [r for r in results if r["code"] == d.code][0]["schools"]

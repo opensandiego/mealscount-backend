@@ -371,61 +371,61 @@ class CEPRate(object):
         if state == "AK":
             # Lunch
             if hhfka_sixty == "less":
-                self.free_lunch_rate = 5.70
-                self.paid_lunch_rate = 0.54
+                self.free_lunch_rate = 5.94
+                self.paid_lunch_rate = 0.57
             elif hhfka_sixty == "more":
-                self.free_lunch_rate = 5.72
-                self.paid_lunch_rate = 0.56
+                self.free_lunch_rate = 5.96
+                self.paid_lunch_rate = 0.59
             else:  #max
                 self.free_lunch_rate = 5.94
                 self.paid_lunch_rate = 0.65
             # Breakfast 
             if not severe_need:
-                self.free_breakfast_rate = 3.03
-                self.paid_breakfast_rate = 0.49
+                self.free_breakfast_rate = 3.15
+                self.paid_breakfast_rate = 0.50
             else:
-                self.free_breakfast_rate = 3.64 
-                self.paid_breakfast_rate = 0.49
+                self.free_breakfast_rate = 3.78 
+                self.paid_breakfast_rate = 0.50
 
         ## Puerto Rico, Guam, Hawaii, Virgin Islands ##
         elif state in ("PR","GM","HI","VI"):
             # Lunch
             if hhfka_sixty == "less":
-                self.free_lunch_rate = 4.11 
-                self.paid_lunch_rate = 0.39
-            elif hhfka_sixty == "more":
-                self.free_lunch_rate = 4.13
+                self.free_lunch_rate = 4.28
                 self.paid_lunch_rate = 0.41
+            elif hhfka_sixty == "more":
+                self.free_lunch_rate = 4.30
+                self.paid_lunch_rate = 0.43
             else:  #max
                 self.free_lunch_rate = 4.30
                 self.paid_lunch_rate = 0.47
             # Breakfast 
             if not severe_need:
-                self.free_breakfast_rate = 2.21 
-                self.paid_breakfast_rate = 0.37
+                self.free_breakfast_rate = 2.29 
+                self.paid_breakfast_rate = 0.38
             else:
-                self.free_breakfast_rate = 2.64 
-                self.paid_breakfast_rate = 0.37
+                self.free_breakfast_rate = 2.74 
+                self.paid_breakfast_rate = 0.38
 
         ## Contiguous 48 ##
         else:
             # Lunch
             if hhfka_sixty == "less":
-                self.free_lunch_rate = 3.51
-                self.paid_lunch_rate = 0.33
-            elif hhfka_sixty == "more":
-                self.free_lunch_rate = 3.53
+                self.free_lunch_rate = 3.66
                 self.paid_lunch_rate = 0.35
+            elif hhfka_sixty == "more":
+                self.free_lunch_rate = 3.68
+                self.paid_lunch_rate = 0.37
             else:  #max
                 self.free_lunch_rate = 3.68
                 self.paid_lunch_rate = 0.41
             # Breakfast 
             if not severe_need:
-                self.free_breakfast_rate = 1.89 
-                self.paid_breakfast_rate = 0.32
+                self.free_breakfast_rate = 1.97 
+                self.paid_breakfast_rate = 0.33
             else:
-                self.free_breakfast_rate = 2.26 
-                self.paid_breakfast_rate = 0.32
+                self.free_breakfast_rate = 2.35 
+                self.paid_breakfast_rate = 0.33
 
     def as_dict(self):
         return {
