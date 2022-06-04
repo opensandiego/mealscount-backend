@@ -88,7 +88,7 @@ def optimize_async():
         event["strategies_to_run"] = [
             "Pairs",
             "OneToOne",
-            "Exhaustive?evaluate_by=%s" % evaulate_by,
+            "Exhaustive?evaluate_by=%s" % evaluate_by,
             "OneGroup",
             "Spread",
             "Binning",
