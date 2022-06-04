@@ -79,6 +79,9 @@
                   v-on:click="openHistoryModal"
                 >History</button>
 
+                <span>Max Groups: <input type="number" v-model="maxGroups" /></span>
+                <span>Eval by: <select v-model="evaluateBy" ><option value="coverage">Coverage</option><option value="reimbursement">Reimbursement</option></select></span>
+
                 <span class="optimize_badge badge badge-secondary" v-if="'optimization_info'in district">Optimized on {{ district.optimization_info.timestamp }} in {{ district.optimization_info.time.toFixed(2) }}s</span>
                 <span class="optimize_badge badge badge-secondary" v-else-if="district.revision">Manually adjusted</span>
                 <span v-if="edited && district.revision != undefined" class="badge badge-primary" >edited rev #{{district.revision}} </span>
@@ -180,6 +183,8 @@ export default {
       showImport: false,
       showLoading: false,
       showHistoryModal: false,
+      maxGroups: 10,
+      evaluateBy: "reimbursement",
     }
   },
   mounted(){
@@ -269,6 +274,8 @@ export default {
     },
     submit(){
       console.log("Submitting for optimization",this.district) 
+      this.district.max_groups = this.maxGroups
+      this.district.evaluate_by = this.evaluateBy
       const null_adp = this.district.schools.filter( s => {
         return (s.daily_breakfast_served == 0 ||  s.daily_lunch_served == 0 )
       })

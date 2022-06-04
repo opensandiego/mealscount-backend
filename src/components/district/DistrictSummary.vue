@@ -10,6 +10,12 @@
           <dt>District-Wide ISP</dt>
           <dd v-if="district != null">{{ (district.overall_isp*100).toFixed(1) }}%</dd>
           <dt>
+            Students in CEP
+          </dt>
+            <dd v-if="best_strategy != null">
+              {{ best_strategy.covered_students }} of {{ best_strategy.total_enrolled }}
+            </dd>
+          <dt>
             Estimated Annual Reimbursement 
             <sup>1</sup>
           </dt>
@@ -18,7 +24,7 @@
               <br />
               ( optimized with {{ best_strategy.name }} strategy )
               <br />
-              <a class="btn btn-primary" data-toggle="collapse"h href="#by-group" role="button" aria-expanded="false" aria-controls="by-group">
+              <a class="btn btn-primary" data-toggle="collapse" href="#by-group" role="button" aria-expanded="false" aria-controls="by-group">
                 By Group
               </a>
               <table class="table collapse" id="by-group">
@@ -26,6 +32,7 @@
                   <tr>
                     <th>Group Number</th>
                     <th>Schools</th>
+                    <th>Students</th>
                     <th>Group ISP</th>
                     <th>Est. Reimbursement</th>
                   </tr>
@@ -34,6 +41,7 @@
                   <tr v-for="(group,index) in best_strategy.groups" v-bind:key="group.name">
                     <td>Group {{ (index+1) }}</td>
                     <td>{{ group.school_codes.length }} School<span v-if="group.school_codes.length > 1">s</span></td>
+                    <td>{{ group.total_enrolled }}</td>
                     <td>{{ (group.isp*100).toFixed(1) }}%</td>
                     <td class="text-right">{{ (group.est_reimbursement * schoolDays)|toUSD }}</td>
                   </tr>

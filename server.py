@@ -83,17 +83,18 @@ def optimize_async():
     )
     event["key"] = key
 
+    max_groups,evaluate_by = int(event.get("max_groups",10)),event.get("evaluate_by","reimbursement")
     if not event.get("strategies_to_run",False):
         event["strategies_to_run"] = [
             "Pairs",
             "OneToOne",
-            "Exhaustive",
+            "Exhaustive?evaluate_by=%s" % evaulate_by,
             "OneGroup",
             "Spread",
             "Binning",
         ] 
         if len(event["schools"]) > 11:
-            event["strategies_to_run"].append("NYCMODA?fresh_starts=50&iterations=1000")
+            event["strategies_to_run"].append("NYCMODA?fresh_starts=50&iterations=1000&ngroups=%s&evaluate_by=%s" % (max_groups,evaluate_by))
             event["strategies_to_run"].append("GreedyLP")
 
     # Large school districts (LA) don't fit in our 256kb Event Invocation limit on Lambda,
@@ -167,17 +168,29 @@ def optimize():
         return {"error":"No schools provided"}
 
     # TODO allow this as a param
+    max_groups,evaluate_by = int(d_obj.get("max_groups",10)),d_obj.get("evaluate_by","reimbursement")
     add_strategies(
         district,
-        *["Pairs","OneToOne","Exhaustive","OneGroup","Spread","Binning","NYCMODA?fresh_starts=10&iterations=150","GreedyLP"]
+        *[
+            "Pairs",
+            "OneToOne",
+            "Exhaustive?evaluate_by=%s"%evaluate_by,
+            "OneGroup",
+            "Spread",
+            "Binning",
+            "NYCMODA?fresh_starts=50&iterations=1000&ngroups=%s&evaluate_by=%s"%(max_groups,evaluate_by),
+            "GreedyLP"
+        ]
     )
 
     t0 = time.time()
     district.run_strategies()
-    district.evaluate_strategies()
+    district.evaluate_strategies(max_groups=max_groups,evaluate_by=evaluate_by)
 
     result = district.as_dict()
     result["state_code"] = state
+    result["evaluate_by"] = evaluate_by
+    result["max_groups"] = max_groups
     result["optimization_info"] = {
         "timestamp":str(datetime.datetime.now()),
         "time": time.time() - t0
@@ -230,7 +243,7 @@ def calculate():
     custom.groupings = groupings # not really official way to set this
     district.strategies.append(custom)
     district.run_strategies()
-    district.evaluate_strategies()
+    district.evaluate_strategies(max_groups=int(d_obj.get("max_groups",10)),evaluate_by=d_obj.get("evaluate_by","reimbursement"))
 
     result = district.as_dict()
     result["state_code"] = state

@@ -23,6 +23,7 @@
                 <li class="revision" v-for="edited in history" v-bind:key="edited.revision">
                     Revision #{{ edited.revision }} 
                     {{ (edited.est_reimbursement * schoolDays) | toUSD }}
+                    {{ edited.strategies[edited.best_index].covered_students }}
 
                     <span v-if="edited.revision == current_revision">(current)</span>
 

@@ -123,7 +123,8 @@ class CEPGroup(object):
     @property
     def covered_students(self):
         ''' number of students qualified for free rate'''
-        return round(self.free_rate * self.total_enrolled,0)
+        # NOTE changing this to be just how many students are in CEP
+        return self.cep_eligible and self.total_enrolled or 0 #round(self.free_rate * self.total_enrolled,0)
 
     @property
     def cep_eligible(self):
@@ -223,10 +224,12 @@ class CEPDistrict(object):
         for s in self.strategies:
             s.create_groups(self)
 
-    def evaluate_strategies(self,evaluate_by="reimbursement"):
+    def evaluate_strategies(self,evaluate_by="reimbursement",max_groups=None):
         best = None
         for s in self.strategies:
             if s.groups == None:
+                continue
+            if max_groups and len(s.groups) > max_groups:
                 continue
             # TODO evaluate on total reimbursement, not students_covered
             if evaluate_by == "reimbursement":
@@ -349,7 +352,7 @@ class BaseCEPStrategy(ABC):
             "isp":  self.isp,
             "total_enrolled": self.total_enrolled,
             "free_rate": isp_to_free_rate(self.isp),
-            "total_eligible": self.students_covered,
+            "covered_students": self.students_covered,
             "reimbursement": self.reimbursement,
             'basis':  'estimated',
             #"This estimate of reimbursement revenue is based off school meal participation rates from a sample"

@@ -36,6 +36,7 @@ def lambda_handler(event, context, local_output=False):
 
     key = d_obj["key"]
 
+    max_groups,evaluate_by = d_obj.get("max_groups",10),d_obj.get("evaluate_by","reimbursement")
     schools = d_obj["schools"]
     district = CEPDistrict(d_obj["name"],d_obj["code"],state=d_obj["state_code"])
 
@@ -53,7 +54,7 @@ def lambda_handler(event, context, local_output=False):
         i += 1
         district.add_school(CEPSchool(row))
 
-    strategies = d_obj.get("strategies_to_run",["Pairs","OneToOne","Exhaustive","OneGroup","Spread","Binning","NYCMODA?fresh_starts=50&iterations=1000","GreedyLP"])
+    strategies = d_obj.get("strategies_to_run",["Pairs","OneToOne","Exhaustive?evaluate_by=%s"% evaluate_by,"OneGroup","Spread","Binning","NYCMODA?fresh_starts=50&iterations=1000&ngroups=%s&evaluate_by=%s" % (max_groups,evaluate_by),"GreedyLP"])
     add_strategies(
         district,
         *strategies
@@ -61,10 +62,12 @@ def lambda_handler(event, context, local_output=False):
 
     t0 = time.time()
     district.run_strategies()
-    district.evaluate_strategies()
+    district.evaluate_strategies(max_groups=max_groups,evaluate_by=evaluate_by)
 
     result = district.as_dict()
     result["state_code"] = state
+    result["max_groups"] = max_groups
+    result["evaluate_by"] = evaluate_by
     result["optimization_info"] = {
         "timestamp":str(datetime.datetime.now()),
         "time": time.time() - t0

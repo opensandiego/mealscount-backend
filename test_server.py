@@ -23,7 +23,6 @@ class CEPTestCase(unittest.TestCase):
         self.assertEqual(obj["sfa_certified"],True)
         self.assertEqual(obj["hhfka_sixty"],"less")
 
-
     def test_lambda(self):
         from lambda_function import test_run
         import datetime
@@ -40,6 +39,22 @@ class CEPTestCase(unittest.TestCase):
         sobj = oceanside()
         sobj["schools"] = []
         result = self.client.post('/api/districts/optimize/', json = sobj)
+
+    def test_max_groups(self):
+        # empty school list
+        sobj = oceanside()
+        sobj["max_groups"] = 2
+        result = self.client.post('/api/districts/optimize/', json = sobj)
+        obj = result.json
+        self.assertEqual(len(obj["strategies"][obj["best_index"]]["groups"]),2)
+
+    def test_evaluate_by(self):
+        # empty school list
+        sobj = oceanside()
+        sobj["evaluate_by"] = "coverage"
+        result = self.client.post('/api/districts/optimize/', json = sobj)
+        obj = result.json
+        self.assertEqual(obj["evaluate_by"],"coverage")
 
     def test_bad_total_enrolled_field(self):
         sobj = oceanside()
