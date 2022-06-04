@@ -36,7 +36,7 @@ def lambda_handler(event, context, local_output=False):
 
     key = d_obj["key"]
 
-    max_groups,evaluate_by = d_obj.get("max_groups",10),d_obj.get("evaluate_by","reimbursement")
+    max_groups,evaluate_by = int(d_obj.get("max_groups",10)),d_obj.get("evaluate_by","reimbursement")
     schools = d_obj["schools"]
     district = CEPDistrict(d_obj["name"],d_obj["code"],state=d_obj["state_code"])
 
