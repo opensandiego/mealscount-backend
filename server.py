@@ -243,7 +243,7 @@ def calculate():
     custom.groupings = groupings # not really official way to set this
     district.strategies.append(custom)
     district.run_strategies()
-    district.evaluate_strategies(max_groups=int(d_obj.get("max_groups",10)),evaluate_by=d_obj.get("evaluate_by","reimbursement"))
+    district.evaluate_strategies(max_groups=len(custom.groupings)+1)
 
     result = district.as_dict()
     result["state_code"] = state
