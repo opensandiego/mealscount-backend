@@ -83,7 +83,10 @@ def optimize_async():
     )
     event["key"] = key
 
-    max_groups,evaluate_by = int(event.get("max_groups",10)),event.get("evaluate_by","reimbursement")
+    max_groups = event.get("max_groups",10)
+    if max_groups != None: max_groups = int(max_groups)
+    evaluate_by = event.get("evaluate_by","reimbursement")
+
     if not event.get("strategies_to_run",False):
         event["strategies_to_run"] = [
             "Pairs",
@@ -168,7 +171,9 @@ def optimize():
         return {"error":"No schools provided"}
 
     # TODO allow this as a param
-    max_groups,evaluate_by = int(d_obj.get("max_groups",10)),d_obj.get("evaluate_by","reimbursement")
+    max_groups = d_obj.get("max_groups",10)
+    if max_groups != None: max_groups = int(max_groups)
+    evaluate_by = d_obj.get("evaluate_by","reimbursement")
     add_strategies(
         district,
         *[
@@ -178,7 +183,7 @@ def optimize():
             "OneGroup",
             "Spread",
             "Binning",
-            "NYCMODA?fresh_starts=50&iterations=1000&ngroups=%s&evaluate_by=%s"%(max_groups,evaluate_by),
+            "NYCMODA?fresh_starts=100&iterations=2000&ngroups=%s&evaluate_by=%s"%(max_groups,evaluate_by),
             "GreedyLP"
         ]
     )

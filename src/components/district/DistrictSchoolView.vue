@@ -129,6 +129,8 @@ export default {
       this.schools.forEach(s => {
         if(s.school_code in this.best_group_index){
           s.grouping = this.best_group_index[s.school_code];
+        }else if(s.group){
+          s.grouping = s.group;
         }else{
           s.grouping = null;
         }

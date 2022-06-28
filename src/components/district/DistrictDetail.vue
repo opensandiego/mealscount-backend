@@ -79,7 +79,11 @@
                   v-on:click="openHistoryModal"
                 >History</button>
 
-                <span>Max Groups: <input type="number" v-model="maxGroups" /></span>
+                <span> 
+                  Max Groups: <input style="width: auto;" type="checkbox" v-model="useMaxGroups" />
+                  <input v-if="useMaxGroups" type="number" v-model="maxGroups" />
+                  &nbsp;
+                </span>
                 <span>Eval by: <select v-model="evaluateBy" ><option value="coverage">Coverage</option><option value="reimbursement">Reimbursement</option></select></span>
 
                 <span class="optimize_badge badge badge-secondary" v-if="'optimization_info'in district">Optimized on {{ district.optimization_info.timestamp }} in {{ district.optimization_info.time.toFixed(2) }}s</span>
@@ -184,6 +188,7 @@ export default {
       showLoading: false,
       showHistoryModal: false,
       maxGroups: 10,
+      useMaxGroups: false,
       evaluateBy: "reimbursement",
     }
   },
@@ -274,10 +279,10 @@ export default {
     },
     submit(){
       console.log("Submitting for optimization",this.district) 
-      this.district.max_groups = this.maxGroups
+      this.district.max_groups = this.useMaxGroups?this.maxGroups:null;
       this.district.evaluate_by = this.evaluateBy
       const null_adp = this.district.schools.filter( s => {
-        return (s.daily_breakfast_served == 0 ||  s.daily_lunch_served == 0 )
+        return (s.daily_breakfast_served == 0 && s.daily_lunch_served == 0 )
       })
       if(null_adp.length > 0){
         alert("Please fill in all breakfast and lunch daily participation. You can use the 'Set as % enrolled' to quickly prefill with a percentage.")
@@ -315,6 +320,11 @@ export default {
     },
     closeImportModal(){
       this.showImport = false;
+      console.log(this.district.schools)
+      if(this.district.schools.filter(s => s.group).length == this.district.schools.length){
+        alert("groupings imported, recalculating")
+        this.recalculate()
+      }
     },
     closeFirstTimeModal(){
       this.showFirstTimeModal = false;

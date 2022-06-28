@@ -138,7 +138,11 @@ export default {
                 if( row["included_in_optimization"] != undefined){
                   row.active = row.included_in_optimization;
                 }else{ row.active = true; }
-                row.grouping = null;
+                if(row["group"] != undefined){
+                  row["grouping"] = row["group"]
+                }else{
+                  row["grouping"] = null;
+                }
                 if( row.school_code == null || row.school_code == ""){
                   row.school_code = "school-"+(district.schools.length+1)
                 }
@@ -150,6 +154,7 @@ export default {
                   district.schools.push( row );
                 }
             })
+            console.log("imported",district.schools)
             self.showComplete = true
             alert("Imported " + district.schools.length + " Schools")
           }catch(error){

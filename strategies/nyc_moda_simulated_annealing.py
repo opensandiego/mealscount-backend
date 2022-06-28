@@ -30,7 +30,7 @@ class NYCMODASimulatedAnnealingCEPStrategy(BaseCEPStrategy):
                 consolidate_groups = self.params.get("regroup",False),
                 fresh_starts = int(self.params.get("fresh_starts",10)),
                 iterations = int(self.params.get("iterations", 150)),
-                ngroups = self.params.get("ngroups",None) and int(self.params.get("ngroups",None)) or None,
+                ngroups = self.params.get("ngroups",None) and self.params.get("ngroups") not in ("None","null") and int(self.params.get("ngroups",None)) or None,
                 evaluate_by = self.params.get("evaluate_by","reimbursement"),
             )
             # prune 0 school groups since we don't need to report them
@@ -115,7 +115,10 @@ class NYCMODASimulatedAnnealingCEPStrategy(BaseCEPStrategy):
 
             elif evaluate_by == "coverage":
                 step_c = round(g1.covered_students + g2.covered_students)
-                passing = step_c > start_c
+                if step_c == start_c:
+                    passing = step_r > start_r
+                else:
+                    passing = step_c > start_c
             elif evaluate_by == "schools":
                 step_s = (g1.cep_eligible and 1 or 0) +  (g2.cep_eligible and 1 or 0)
                 if start_s < step_s:
