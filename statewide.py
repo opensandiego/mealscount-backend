@@ -40,7 +40,7 @@ def run(csv_file,state,csv_encoding,debug,max_groups):
   # Optimize with max reimbursement
   strategies = [s%{"ngroups":max_groups} for s in STRATEGIES]
   results = optimize(districts,strategies)
-  # TODO optimize with max coverage
+  # Optimize with max coverage
   results_coverage = optimize(districts,strategies,goal="coverage")
 
   # Run Naive Baselines
@@ -84,9 +84,9 @@ def run(csv_file,state,csv_encoding,debug,max_groups):
   print("MealsCount:",mc_reimb,deltapercent(mc_reimb,lastyear_reimb,"over last year"),deltapercent(mc_reimb,baseline_reimb,"over baseline"))
 
   # Output Groupings
-  output(districts,results,state,lastyear_groupings)
+  output(districts,results,results_coverage,state,lastyear_groupings)
 
-def output(districts,results,state,lastyear_groupings):
+def output(districts,results,results_coverage,state,lastyear_groupings):
   fname = "statewide-%s-output.csv" % state
   print("Writing results to %s" % fname)
   with open(fname,"w") as f:
@@ -109,16 +109,21 @@ def output(districts,results,state,lastyear_groupings):
       "lastyear_reimbursement",
       "mealscount_reimbursement",
       "mealscount_coverage",
+      "mc_coverage_reimbursement",
+      "mc_coverage_coverage",
       "lastyear_grouping",
       "mealscount_grouping",
+      "coverage_grouping",
     ))
     for d in districts.values():
       school_results = [r for r in results if r["code"] == d.code][0]["schools"]
+      cov_school_results = [r for r in results_coverage if r["code"] == d.code][0]["schools"]
       for s in d.schools:
         lastyear_group = [g[1] for g in lastyear_groupings if g[2] == s.code and g[0] == d.code]
         if lastyear_group: lastyear_group = lastyear_group[0]
         else: lastyear_group = ""
         sr = [sr for sr in school_results if sr["school_code"] == s.code][0]
+        csr = [sr for sr in cov_school_results if sr["school_code"] == s.code][0]
         writer.writerow((
           d.code,
           d.name,
@@ -137,8 +142,11 @@ def output(districts,results,state,lastyear_groupings):
           d.strategies[2].school_reimbursement(s),
           sr["reimbursement"],
           sr["coverage"],
+          csr["reimbursement"],
+          csr["coverage"],
           lastyear_group,
           sr["grouping"],
+          csr["grouping"],
         ))
 
 def load_from_csv(csv_file,csv_encoding,state):
