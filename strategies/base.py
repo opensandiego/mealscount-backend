@@ -366,7 +366,9 @@ class AbstractStateFunding(object):
     def get_funding(self,school):
         return 0
 
-# Rates Updated for 2021-2022
+# Rates Updated for 2022-2023
+# Temporary, Page 10
+# https://public-inspection.federalregister.gov/2022-15892.pdf
 class CEPRate(object):
     def __init__(self,state,sfa_certified,hhfka_sixty,severe_need):
         state = state.upper()
@@ -374,61 +376,61 @@ class CEPRate(object):
         if state == "AK":
             # Lunch
             if hhfka_sixty == "less":
-                self.free_lunch_rate = 5.94
-                self.paid_lunch_rate = 0.57
+                self.free_lunch_rate = 6.77
+                self.paid_lunch_rate = 1.01
             elif hhfka_sixty == "more":
-                self.free_lunch_rate = 5.96
-                self.paid_lunch_rate = 0.59
+                self.free_lunch_rate = 6.79
+                self.paid_lunch_rate = 1.03
             else:  #max
-                self.free_lunch_rate = 5.94
-                self.paid_lunch_rate = 0.65
+                self.free_lunch_rate = 7.02
+                self.paid_lunch_rate = 1.11
             # Breakfast 
             if not severe_need:
-                self.free_breakfast_rate = 3.15
-                self.paid_breakfast_rate = 0.50
+                self.free_breakfast_rate = 3.53
+                self.paid_breakfast_rate = 0.69
             else:
-                self.free_breakfast_rate = 3.78 
-                self.paid_breakfast_rate = 0.50
+                self.free_breakfast_rate = 4.21
+                self.paid_breakfast_rate = 0.69
 
         ## Puerto Rico, Guam, Hawaii, Virgin Islands ##
         elif state in ("PR","GM","HI","VI"):
             # Lunch
             if hhfka_sixty == "less":
-                self.free_lunch_rate = 4.28
-                self.paid_lunch_rate = 0.41
+                self.free_lunch_rate = 5.00
+                self.paid_lunch_rate = 0.84
             elif hhfka_sixty == "more":
-                self.free_lunch_rate = 4.30
-                self.paid_lunch_rate = 0.43
+                self.free_lunch_rate = 5.02
+                self.paid_lunch_rate = 0.86
             else:  #max
-                self.free_lunch_rate = 4.30
-                self.paid_lunch_rate = 0.47
+                self.free_lunch_rate = 5.19
+                self.paid_lunch_rate = 0.92
             # Breakfast 
             if not severe_need:
-                self.free_breakfast_rate = 2.29 
-                self.paid_breakfast_rate = 0.38
+                self.free_breakfast_rate = 2.61
+                self.paid_breakfast_rate = 0.55
             else:
-                self.free_breakfast_rate = 2.74 
-                self.paid_breakfast_rate = 0.38
+                self.free_breakfast_rate = 3.09
+                self.paid_breakfast_rate = 0.55
 
         ## Contiguous 48 ##
         else:
             # Lunch
             if hhfka_sixty == "less":
-                self.free_lunch_rate = 3.66
-                self.paid_lunch_rate = 0.35
+                self.free_lunch_rate = 4.33 
+                self.paid_lunch_rate = 0.77
             elif hhfka_sixty == "more":
-                self.free_lunch_rate = 3.68
-                self.paid_lunch_rate = 0.37
+                self.free_lunch_rate = 4.35 
+                self.paid_lunch_rate = 0.79
             else:  #max
-                self.free_lunch_rate = 3.68
-                self.paid_lunch_rate = 0.41
+                self.free_lunch_rate = 4.50
+                self.paid_lunch_rate = 0.85
             # Breakfast 
             if not severe_need:
-                self.free_breakfast_rate = 1.97 
-                self.paid_breakfast_rate = 0.33
+                self.free_breakfast_rate = 2.26
+                self.paid_breakfast_rate = 0.50
             else:
-                self.free_breakfast_rate = 2.35 
-                self.paid_breakfast_rate = 0.33
+                self.free_breakfast_rate = 2.67
+                self.paid_breakfast_rate = 0.50
 
     def as_dict(self):
         return {
