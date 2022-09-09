@@ -82,14 +82,14 @@ class CEPTestCase(unittest.TestCase,CEPTestMixin):
     def test_rate_determination(self):
         # State, SFA, 60%, Severe Need 
         r = CEPRate("ak",True,"more",True)
-        self.assertEqual(r.paid_lunch_rate,0.59)
-        self.assertEqual(r.free_breakfast_rate,3.78)
+        self.assertEqual(r.paid_lunch_rate,1.03)
+        self.assertEqual(r.free_breakfast_rate,4.21)
         r = CEPRate("ny",True,"less",False)
-        self.assertEqual(r.free_breakfast_rate,1.97)
-        self.assertEqual(r.paid_lunch_rate,0.35)
+        self.assertEqual(r.free_breakfast_rate,2.26)
+        self.assertEqual(r.paid_lunch_rate,0.77)
         r = CEPRate("tx",True,"max",True)
-        self.assertEqual(r.paid_breakfast_rate,0.33)
-        self.assertEqual(r.free_lunch_rate,3.68)
+        self.assertEqual(r.paid_breakfast_rate,0.50)
+        self.assertEqual(r.free_lunch_rate,4.50)
     
     def test_group(self):
         district = self.create_default_districts()

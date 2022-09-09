@@ -121,7 +121,32 @@ class CEPTestCase(unittest.TestCase):
         from lambda_function import test_run
         import datetime
         result = test_run(for_lambda,datetime.datetime.now())
- 
+
+    def test_max_groups_and_evalby_none(self):
+        # https://sentry.io/organizations/mealscount-dev/issues/3555682831/
+        for_lambda = {
+           "code": 'District Name', 
+            "name": 'District Name', 
+            "schools": [{
+                "daily_breakfast_served": 500, 
+                "daily_lunch_served": 800, 
+                "school_code": 'XYZ', 
+                "school_name": 'XYZ', 
+                "severe_need": False, 
+                "total_eligible": 1000, 
+                "total_enrolled": 0 # Seen this.
+            } for i in range(2)],
+            "state_code": 'MI', 
+            "strategies_to_run": [
+                'Pairs', 
+            ],
+            "max_groups":None,
+            #"evaluate_by":None,
+        }
+        from lambda_function import test_run
+        import datetime
+        result = test_run(for_lambda,datetime.datetime.now())
+  
 # Mostly accurate, severe need is not accurate
 def oceanside():
     return copy.deepcopy({
