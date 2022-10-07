@@ -36,11 +36,10 @@
     </section>
     -->
     <section class="container mt-3">
-      <iframe src="" width="640" height="1212" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
     <iframe 
       src="https://docs.google.com/forms/d/e/1FAIpQLSdRIVVX2szGOyyA9eCOiMBwhFXq6eleX43JOJdIFFLw2n-ttw/viewform?embedded=true"
       width="100%" 
-      height="1400" 
+      height="1500" 
       frameborder="0" 
       marginheight="0" 
       marginwidth="0">Loading…
