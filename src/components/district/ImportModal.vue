@@ -52,7 +52,7 @@
 
 <script>
 //import Papa from "papaparse";  // no longer needed, XLSX does this and more!
-import XLSX from "xlsx";
+import * as XLSX from "xlsx";
 
 const REQUIRED_COLS = [
   "school_name",
