@@ -1,4 +1,5 @@
-import csv,codecs,multiprocessing,time
+import csv,codecs,time
+from multiprocessing import Pool, cpu_count, freeze_support
 from re import I
 import click
 from strategies.base import CEPDistrict,CEPSchool
@@ -11,7 +12,7 @@ STRATEGIES = [
   "Exhaustive",
   "OneGroup",
   "Spread",
-  "Binning",
+  #"Binning",
   "GreedyLP",
   "NYCMODA?fresh_starts=50&iterations=1000&ngroups=%(ngroups)s",
 ]
@@ -22,8 +23,8 @@ STRATEGIES = [
 @click.option("--csv-encoding",default="utf-8",help="CSV Encoding (e.g. utf-8, latin1)")
 @click.option("--debug",is_flag=True,help="Run a quick test run on districts of < 5 schools just to test")
 @click.option("--max-groups",default=10,help="Paramter for max groups limiter on monte carlo")
-def run(csv_file,state,csv_encoding,debug,max_groups):
-
+@click.option("--output-file",default=None,help="output file (default is ./statewide-XX-output.csv)")
+def run(csv_file,state,csv_encoding,debug,max_groups,output_file):
   # Load
   districts,schools,lastyear_groupings = load_from_csv(csv_file,csv_encoding,state)
 
@@ -84,10 +85,10 @@ def run(csv_file,state,csv_encoding,debug,max_groups):
   print("MealsCount:",mc_reimb,deltapercent(mc_reimb,lastyear_reimb,"over last year"),deltapercent(mc_reimb,baseline_reimb,"over baseline"))
 
   # Output Groupings
-  output(districts,results,results_coverage,state,lastyear_groupings)
+  output(districts,results,results_coverage,state,lastyear_groupings,output_file=output_file)
 
-def output(districts,results,results_coverage,state,lastyear_groupings):
-  fname = "statewide-%s-output.csv" % state
+def output(districts,results,results_coverage,state,lastyear_groupings,output_file):
+  fname = output_file or "statewide-%s-output.csv" % state
   print("Writing results to %s" % fname)
   with open(fname,"w") as f:
     writer = csv.writer(f)
@@ -171,9 +172,9 @@ def optimize(districts,strategies,goal="reimbursement"):
   district_map = dict([(d.code,d) for d in districts.values()])
   t0 = time.time()
   # We use multiprocessing to speed this all up
-  PROCESSES = multiprocessing.cpu_count() - 1
+  PROCESSES = cpu_count() - 1
   with click.progressbar(length=sum([len(d.schools) for d in districts.values()]),label='Running Strategies on Districts') as bar:
-    with multiprocessing.Pool(PROCESSES) as pool:
+    with Pool(PROCESSES) as pool:
         results = [pool.apply_async(mp_processor, (d,goal,strategies)) for d in districts.values()]
         for r in results:
             result = r.get()
@@ -214,5 +215,7 @@ def mp_processor(district,goal,strategies):
 
  
 if __name__ == '__main__':
+    # https://docs.python.org/3.7/library/multiprocessing.html?highlight=process#multiprocessing.freeze_support
+    freeze_support()
     run()
 
