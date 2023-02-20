@@ -11,6 +11,9 @@ class BinCEPStrategy(BaseCEPStrategy):
     *Note possibly not optimal as we are maximizing for a threshold, not the overall average.
       '''
     name="Binning"
+    exposed_options = [
+        ('isp_width','The width of the bins (e.g. 2%% is 0.02)',float,0.02),
+    ]
     def create_groups(self,district):
         self.groups = []
         if len(district.schools) == 0: return

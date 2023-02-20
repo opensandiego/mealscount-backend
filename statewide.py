@@ -167,7 +167,7 @@ def load_from_csv(csv_file,csv_encoding,state):
         districts[row["district_code"]].add_school(school)
   return districts,schools,lastyear_groupings
 
-def optimize(districts,strategies,goal="reimbursement"):
+def optimize(districts,strategies,goal="reimbursement",progress_callback=None):
   # Optimize with standard Strategies
   #print("optimizing with %s" % (','.join(strategies)))
   district_map = dict([(d.code,d) for d in districts.values()])
@@ -180,8 +180,11 @@ def optimize(districts,strategies,goal="reimbursement"):
     processed = 0
     def update(self,n):
       self.processed += n
-      sys.stdout.write("%0.4f\n"%(float(self.processed)/count))
-      sys.stdout.flush()
+      if progress_callback:
+        progress_callback(self.processed/count)
+      else:
+        sys.stdout.write("%0.4f\n"%(float(self.processed)/count))
+        sys.stdout.flush()
   
   #with click.progressbar(length=count,label='Running Strategies on Districts') as bar:
   #with Progress() as progress:

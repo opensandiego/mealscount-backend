@@ -289,6 +289,9 @@ class BaseCEPStrategy(ABC):
     groups = None
     name = "Abstract Strategy"
     params = {}
+    # Options we want to show in the Statewide UI
+    # list of tuples: (key,desc,type,default)
+    exposed_options = []
 
     def __init__(self,params={},name=None):
         self.params = params

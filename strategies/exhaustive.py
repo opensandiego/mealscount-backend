@@ -9,6 +9,10 @@ class ExhaustiveCEPStrategy(BaseCEPStrategy):
 
       '''
     name="Exhaustive"
+    exposed_options = [
+        #('max_count','The largest number of schools',int,10),
+        #('evaluate_by','',str,'reimbursement'),
+    ]
     def create_groups(self,district):
         # some debugging/optimization required
 

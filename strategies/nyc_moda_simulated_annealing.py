@@ -14,6 +14,14 @@ T_MIN = 0.40 * MULTIPLIER
 class NYCMODASimulatedAnnealingCEPStrategy(BaseCEPStrategy):
     '''NYC MODA Simulated Annealing  '''
     name = "SimulatedAnnealing"
+    exposed_options = [
+        #('clear_groups','clears groups ',bool,False),
+        #('regroup','',bool,False),
+        ('iterations','The number of iterations on each fresh start',150,int),
+        ('fresh_starts','The number of randomized starting points',10,int),
+        ('ngroups','Max number of groups to create',int,None),
+        #('evaluate_by','',str,'reimbursement'),
+    ]
 
     def create_groups(self,district):
         self.debug = self.params.get("step_debug",False)
