@@ -5,6 +5,7 @@ import click
 from strategies.base import CEPDistrict,CEPSchool
 from strategies.naive import CustomGroupsCEPStrategy,OneGroupCEPStrategy,OneToOneCEPStrategy
 from cep_estimatory import add_strategies
+import sys
 
 STRATEGIES = [
   "Pairs",
@@ -29,13 +30,13 @@ def run(csv_file,state,csv_encoding,debug,max_groups,output_file):
   districts,schools,lastyear_groupings = load_from_csv(csv_file,csv_encoding,state)
 
   # Summary Import Stats
-  print("Processed %i schools from %s into %i districts" % (len(schools),state,len(districts)))
-  print("%i schools with ADP > 100%%" % len([s 
-    for s in schools if s.bfast_served > s.total_enrolled or s.lunch_served > s.total_enrolled
-  ]))
+  #print("Processed %i schools from %s into %i districts" % (len(schools),state,len(districts)))
+  #print("%i schools with ADP > 100%%" % len([s 
+  #  for s in schools if s.bfast_served > s.total_enrolled or s.lunch_served > s.total_enrolled
+  #]))
 
   if debug:
-    print("Trimming districts for debug run")
+    #print("Trimming districts for debug run")
     districts = {c:d for c,d in districts.items() if len(d.schools) <= 5}
 
   # Optimize with max reimbursement
@@ -78,18 +79,18 @@ def run(csv_file,state,csv_encoding,debug,max_groups,output_file):
     return "%0.1f%% %s %s" % (diff,diff>0 and "increase" or "decrease",explain)
 
   baseline_reimb = max(sum([d["onegroup_reimb"] for d in district_results.values()]),sum([d["onegroup_reimb"] for d in district_results.values()]))
-  print("Naive Baseline:",baseline_reimb)
+  #print("Naive Baseline:",baseline_reimb)
   lastyear_reimb = sum([d["lastyear_reimb"] for d in district_results.values()])
-  print("Last Year:",lastyear_reimb,deltapercent(lastyear_reimb,baseline_reimb,"over baseline"))
+  #print("Last Year:",lastyear_reimb,deltapercent(lastyear_reimb,baseline_reimb,"over baseline"))
   mc_reimb = sum([d["reimb"] for d in district_results.values()])
-  print("MealsCount:",mc_reimb,deltapercent(mc_reimb,lastyear_reimb,"over last year"),deltapercent(mc_reimb,baseline_reimb,"over baseline"))
+  #print("MealsCount:",mc_reimb,deltapercent(mc_reimb,lastyear_reimb,"over last year"),deltapercent(mc_reimb,baseline_reimb,"over baseline"))
 
   # Output Groupings
   output(districts,results,results_coverage,state,lastyear_groupings,output_file=output_file)
 
 def output(districts,results,results_coverage,state,lastyear_groupings,output_file):
   fname = output_file or "statewide-%s-output.csv" % state
-  print("Writing results to %s" % fname)
+  #print("Writing results to %s" % fname)
   with open(fname,"w") as f:
     writer = csv.writer(f)
     writer.writerow((
@@ -168,20 +169,32 @@ def load_from_csv(csv_file,csv_encoding,state):
 
 def optimize(districts,strategies,goal="reimbursement"):
   # Optimize with standard Strategies
-  print("optimizing with %s" % (','.join(strategies)))
+  #print("optimizing with %s" % (','.join(strategies)))
   district_map = dict([(d.code,d) for d in districts.values()])
   t0 = time.time()
   # We use multiprocessing to speed this all up
   PROCESSES = cpu_count() - 1
-  with click.progressbar(length=sum([len(d.schools) for d in districts.values()]),label='Running Strategies on Districts') as bar:
-    with Pool(PROCESSES) as pool:
-        results = [pool.apply_async(mp_processor, (d,goal,strategies)) for d in districts.values()]
-        for r in results:
-            result = r.get()
-            _d = district_map[result["code"]]
-            bar.update(len(_d.schools))
+
+  count = sum([len(d.schools) for d in districts.values()])
+  class Progress(object):
+    processed = 0
+    def update(self,n):
+      self.processed += n
+      sys.stdout.write("%0.4f\n"%(float(self.processed)/count))
+      sys.stdout.flush()
+  
+  #with click.progressbar(length=count,label='Running Strategies on Districts') as bar:
+  #with Progress() as progress:
+  progress = Progress()
+  with Pool(PROCESSES) as pool:
+      results = [pool.apply_async(mp_processor, (d,goal,strategies)) for d in districts.values()]
+      for r in results:
+          result = r.get()
+          _d = district_map[result["code"]]
+          #bar.update(len(_d.schools))
+          progress.update(len(_d.schools))
   total_time = time.time() - t0
-  print("Optimized in %0.1fs" % total_time)
+  #print("Optimized in %0.1fs" % total_time)
   return [r.get() for r in results]
  
 def mp_processor(district,goal,strategies):
