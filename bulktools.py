@@ -175,13 +175,13 @@ def load_from_csv(csv_file,csv_encoding,state):
         districts[row["district_code"]].add_school(school)
   return districts,schools,lastyear_groupings
 
-def optimize(districts,strategies,goal="reimbursement",progress_callback=None):
+def optimize(districts,strategies,goal="reimbursement",poolTrack={},progress_callback=None):
   # Optimize with standard Strategies
   #print("optimizing with %s" % (','.join(strategies)))
   district_map = dict([(d.code,d) for d in districts.values()])
   t0 = time.time()
   # We use multiprocessing to speed this all up
-  PROCESSES = cpu_count() - 1
+  PROCESSES = max(cpu_count() - 1,1)
 
   count = sum([len(d.schools) for d in districts.values()])
   class Progress(object):
@@ -193,17 +193,19 @@ def optimize(districts,strategies,goal="reimbursement",progress_callback=None):
       else:
         sys.stdout.write("%0.4f\n"%(float(self.processed)/count))
         sys.stdout.flush()
-  
-  #with click.progressbar(length=count,label='Running Strategies on Districts') as bar:
-  #with Progress() as progress:
+
+  # TODO Cancel?
   progress = Progress()
   with Pool(PROCESSES) as pool:
-      results = [pool.apply_async(mp_processor, (d,goal,strategies)) for d in districts.values()]
-      for r in results:
-          result = r.get()
-          _d = district_map[result["code"]]
-          #bar.update(len(_d.schools))
-          progress.update(len(_d.schools))
+    # a bit convoluted
+    # let launching thread reach out and terminate if user wants to cancel
+    poolTrack['pool'] = pool
+    results = [pool.apply_async(mp_processor, (d,goal,strategies)) for d in districts.values()]
+    for r in results:
+        result = r.get()
+        _d = district_map[result["code"]]
+        #bar.update(len(_d.schools))
+        progress.update(len(_d.schools))
   total_time = time.time() - t0
   #print("Optimized in %0.1fs" % total_time)
   return [r.get() for r in results]

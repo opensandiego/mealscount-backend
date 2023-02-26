@@ -20,6 +20,7 @@ class MealsCountDesktop(object):
     self.configFrame = None
     self.runFrame = None
     self.strategyVars = []
+    self.processPool = {}
 
     # Save prefs for each load
     self.config = configparser.ConfigParser() 
@@ -104,11 +105,24 @@ class MealsCountDesktop(object):
       messagebox.showinfo("Saved %i district optimizations to %s" %(len(self.districts),save_file.name))
 
   def handle_cancel(self):
-    pass
+    if 'pool' in self.processPool:
+      self.processPool['pool'].terminate()
+      del self.processPool['pool']
+      self.progressVar.set(0)
 
   def run(self,districts,strategies,goal):
+    if 'pool' in self.processPool:
+      messagebox.showerror("Please cancel current job before starting a new one")
+      return
     self.write_cfg()
-    self.results = optimize(districts,strategies,goal=goal,progress_callback=lambda n: self.handle_progress(n))
+    self.results = optimize(
+      districts,
+      strategies,
+      goal=goal,
+      poolTrack=self.processPool,
+      progress_callback=lambda n: self.handle_progress(n),
+    )
+    del self.processPool['pool']
     messagebox.showinfo("Complete","Optimization complete\n%i results" % len(self.results))
     self.resultRows = output_rows(
       self.districts,
@@ -171,12 +185,11 @@ class MealsCountDesktop(object):
   def addRunFrame(self):
     runFrame = ttk.LabelFrame(self.frame,text="Run Optimization",padding=10) 
     ttk.Button(runFrame, text="Run",command=self.handle_run).grid(column=0, row=0)
-
+    cancel = ttk.Button(runFrame, text="Cancel", command=self.handle_cancel)
+    cancel.grid(column=1, row=0)
     self.testRunVar = BooleanVar(value=True)
-    ttk.Checkbutton(runFrame,text="Test Run of 5 districts only",variable=self.testRunVar).grid(column=1,row=0)
+    ttk.Checkbutton(runFrame,text="Test Run of 5 districts only",variable=self.testRunVar).grid(column=2,row=0)
 
-    #cancel = ttk.Button(runFrame, text="Cancel", command=self.handle_cancel)
-    #cancel.grid(column=1, row=0)
     self.progressVar = IntVar()
     ttk.Progressbar(runFrame,maximum=100,variable=self.progressVar).grid(column=0,row=1,columnspan=2,sticky='nesw')
     self.runFrame = runFrame
