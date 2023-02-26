@@ -86,14 +86,19 @@ def run(csv_file,state,csv_encoding,debug,max_groups,output_file):
   #print("MealsCount:",mc_reimb,deltapercent(mc_reimb,lastyear_reimb,"over last year"),deltapercent(mc_reimb,baseline_reimb,"over baseline"))
 
   # Output Groupings
-  output(districts,results,results_coverage,state,lastyear_groupings,output_file=output_file)
-
-def output(districts,results,results_coverage,state,lastyear_groupings,output_file):
+  rows = output_rows(districts,results,results_coverage,lastyear_groupings)
   fname = output_file or "statewide-%s-output.csv" % state
-  #print("Writing results to %s" % fname)
-  with open(fname,"w") as f:
-    writer = csv.writer(f)
-    writer.writerow((
+  with open(fname,'w') as file:
+    write_to_csv(file)
+
+def write_to_csv(rows,output_file):
+  writer = csv.writer(output_file)
+  for row in rows:
+    writer.writerow(row)
+
+def output_rows(districts,results,results_coverage,lastyear_groupings):
+  rows = []
+  rows.append((
       "district_code",
       "district_name",
       "school_code",
@@ -106,50 +111,53 @@ def output(districts,results,results_coverage,state,lastyear_groupings,output_fi
       "paid_bfast_rate",
       "free_lunch_rate",
       "paid_lunch_rate",
-      "onegroup_reimbursement",
-      "onetoone_reimbursement",
-      "lastyear_reimbursement",
+      #"onegroup_reimbursement",
+      #"onetoone_reimbursement",
+      #"lastyear_reimbursement",
       "mealscount_reimbursement",
-      "mealscount_coverage",
-      "mc_coverage_reimbursement",
-      "mc_coverage_coverage",
-      "lastyear_grouping",
+      #"mealscount_coverage",
+      #"mc_coverage_reimbursement",
+      #"mc_coverage_coverage",
+      #"lastyear_grouping",
       "mealscount_grouping",
-      "coverage_grouping",
+      #"coverage_grouping",
     ))
-    for d in districts.values():
-      school_results = [r for r in results if r["code"] == d.code][0]["schools"]
-      cov_school_results = [r for r in results_coverage if r["code"] == d.code][0]["schools"]
-      for s in d.schools:
-        lastyear_group = [g[1] for g in lastyear_groupings if g[2] == s.code and g[0] == d.code]
-        if lastyear_group: lastyear_group = lastyear_group[0]
-        else: lastyear_group = ""
-        sr = [sr for sr in school_results if sr["school_code"] == s.code][0]
-        csr = [sr for sr in cov_school_results if sr["school_code"] == s.code][0]
-        writer.writerow((
-          d.code,
-          d.name,
-          s.code,
-          s.name,
-          s.total_enrolled,
-          s.total_eligible,
-          s.bfast_served,
-          s.lunch_served,
-          sr["rates"]["free_bfast"],
-          sr["rates"]["paid_bfast"],
-          sr["rates"]["free_lunch"],
-          sr["rates"]["paid_lunch"],
-          d.strategies[0].school_reimbursement(s),
-          d.strategies[1].school_reimbursement(s),
-          d.strategies[2].school_reimbursement(s),
-          sr["reimbursement"],
-          sr["coverage"],
-          csr["reimbursement"],
-          csr["coverage"],
-          lastyear_group,
-          sr["grouping"],
-          csr["grouping"],
-        ))
+  for d in districts.values():
+    schools = [r for r in results if r["code"] == d.code]
+    if not schools: continue
+    school_results = schools[0]["schools"]
+    #cov_school_results = [r for r in results_coverage if r["code"] == d.code][0]["schools"]
+    for s in d.schools:
+      lastyear_group = [g[1] for g in lastyear_groupings if g[2] == s.code and g[0] == d.code]
+      if lastyear_group: lastyear_group = lastyear_group[0]
+      else: lastyear_group = ""
+      sr = [sr for sr in school_results if sr["school_code"] == s.code][0]
+      #csr = [sr for sr in cov_school_results if sr["school_code"] == s.code][0]
+      rows.append((
+        d.code,
+        d.name,
+        s.code,
+        s.name,
+        s.total_enrolled,
+        s.total_eligible,
+        s.bfast_served,
+        s.lunch_served,
+        sr["rates"]["free_bfast"],
+        sr["rates"]["paid_bfast"],
+        sr["rates"]["free_lunch"],
+        sr["rates"]["paid_lunch"],
+        #d.strategies[0].school_reimbursement(s),
+        #d.strategies[1].school_reimbursement(s),
+        #d.strategies[2].school_reimbursement(s),
+        sr["reimbursement"],
+        #sr["coverage"],
+        #csr["reimbursement"],
+        #csr["coverage"],
+        #lastyear_group,
+        sr["grouping"],
+        #csr["grouping"],
+      ))
+  return rows
 
 def load_from_csv(csv_file,csv_encoding,state):
   districts = {}
