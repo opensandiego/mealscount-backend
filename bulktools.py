@@ -43,7 +43,8 @@ def run(csv_file,state,csv_encoding,debug,max_groups,output_file):
   strategies = [s%{"ngroups":max_groups} for s in STRATEGIES]
   results = optimize(districts,strategies)
   # Optimize with max coverage
-  results_coverage = optimize(districts,strategies,goal="coverage")
+  with Pool(cpu_count()-1) as pool:
+    results_coverage = optimize(districts,strategies,pool,goal="coverage")
 
   # Run Naive Baselines
   for d in districts.values():
@@ -92,7 +93,8 @@ def run(csv_file,state,csv_encoding,debug,max_groups,output_file):
     write_to_csv(file)
 
 def write_to_csv(rows,output_file):
-  writer = csv.writer(output_file)
+  writer = csv.writer(output_file,dialect='excel')
+  print(rows)
   for row in rows:
     writer.writerow(row)
 
@@ -175,13 +177,12 @@ def load_from_csv(csv_file,csv_encoding,state):
         districts[row["district_code"]].add_school(school)
   return districts,schools,lastyear_groupings
 
-def optimize(districts,strategies,goal="reimbursement",poolTrack={},progress_callback=None):
+def optimize(districts,strategies,pool,goal="reimbursement",progress_callback=None):
   # Optimize with standard Strategies
   #print("optimizing with %s" % (','.join(strategies)))
   district_map = dict([(d.code,d) for d in districts.values()])
   t0 = time.time()
-  # We use multiprocessing to speed this all up
-  PROCESSES = max(cpu_count() - 1,1)
+
 
   count = sum([len(d.schools) for d in districts.values()])
   class Progress(object):
@@ -194,18 +195,16 @@ def optimize(districts,strategies,goal="reimbursement",poolTrack={},progress_cal
         sys.stdout.write("%0.4f\n"%(float(self.processed)/count))
         sys.stdout.flush()
 
-  # TODO Cancel?
   progress = Progress()
-  with Pool(PROCESSES) as pool:
-    # a bit convoluted
-    # let launching thread reach out and terminate if user wants to cancel
-    poolTrack['pool'] = pool
-    results = [pool.apply_async(mp_processor, (d,goal,strategies)) for d in districts.values()]
-    for r in results:
-        result = r.get()
-        _d = district_map[result["code"]]
-        #bar.update(len(_d.schools))
-        progress.update(len(_d.schools))
+  # a bit convoluted
+  # let launching thread reach out and terminate if user wants to cancel
+  results = [pool.apply_async(mp_processor, (d,goal,strategies)) for d in districts.values()]
+  for r in results:
+      result = r.get()
+      _d = district_map[result["code"]]
+      #bar.update(len(_d.schools))
+      progress.update(len(_d.schools))
+
   total_time = time.time() - t0
   #print("Optimized in %0.1fs" % total_time)
   return [r.get() for r in results]

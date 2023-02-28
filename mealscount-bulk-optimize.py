@@ -10,7 +10,7 @@ import sys
 
 
 class MealsCountDesktop(object):
-  def __init__(self,app_path):
+  def __init__(self,app_path,pool):
     self.filename = None
     self.districts = None
     self.root = None
@@ -20,7 +20,7 @@ class MealsCountDesktop(object):
     self.configFrame = None
     self.runFrame = None
     self.strategyVars = []
-    self.processPool = {}
+    self.running = False
 
     # Save prefs for each load
     self.config = configparser.ConfigParser() 
@@ -36,6 +36,9 @@ class MealsCountDesktop(object):
     self.config['current'] = {}
     self.cfg = self.config['current']
     self.configLocation = os.path.join(app_path,"mealscount.cfg")
+
+    self.pool = pool
+
     if os.path.exists(self.configLocation):
       self.config.read(self.configLocation)
     else:
@@ -105,25 +108,25 @@ class MealsCountDesktop(object):
       messagebox.showinfo("Saved %i district optimizations to %s" %(len(self.districts),save_file.name))
 
   def handle_cancel(self):
-    if 'pool' in self.processPool:
-      self.processPool['pool'].terminate()
-      del self.processPool['pool']
+    if self.running:
+      self.pool.terminate()
       self.progressVar.set(0)
 
   def run(self,districts,strategies,goal):
-    if 'pool' in self.processPool:
+    if self.running:
       messagebox.showerror("Please cancel current job before starting a new one")
       return
     self.write_cfg()
+    self.running = True
     self.results = optimize(
       districts,
       strategies,
       goal=goal,
-      poolTrack=self.processPool,
+      pool=self.pool,
       progress_callback=lambda n: self.handle_progress(n),
     )
-    del self.processPool['pool']
     messagebox.showinfo("Complete","Optimization complete\n%i results" % len(self.results))
+    self.running = False
     self.resultRows = output_rows(
       self.districts,
       self.results,
@@ -208,13 +211,15 @@ class MealsCountDesktop(object):
     self.root.mainloop()
 
 def init(app_path):
-  win = MealsCountDesktop(app_path)
-  win.initialize()
-  win.addFileFrame()
-  win.addConfigureFrame()
-  win.addRunFrame()
-  win.addResultFrame()
-  win.loop() 
+  process_count = max(multiprocessing.cpu_count() - 1,1)
+  with multiprocessing.Pool(process_count) as pool:
+    win = MealsCountDesktop(app_path,pool)
+    win.initialize()
+    win.addFileFrame()
+    win.addConfigureFrame()
+    win.addRunFrame()
+    win.addResultFrame()
+    win.loop() 
 
 if __name__=="__main__":
   app_path = ""
