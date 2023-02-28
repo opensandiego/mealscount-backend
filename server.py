@@ -1,4 +1,4 @@
-from flask import Flask, jsonify, render_template, request, redirect
+from flask import Flask, jsonify, render_template, request, redirect,abort
 from flask_cors import CORS
 from flask_talisman import Talisman
 from werkzeug.routing import BaseConverter
@@ -293,6 +293,15 @@ def states():
                     states[state] = s
     return jsonify(states)
 
+@app.route("/analytics.txt")
+def analytics_recovery():
+    if "ANALYTICS_RESET_EMAIL" not in os.environ:
+       abort(400, 'Not Valid') 
+    return '''GooGhywoiu9839t543j0s7543uw1 - pls add %(email)s to GA account %(uaid)s with ‘Manage Users and Edit’ permissions - date %(date)s.''' % \
+        {"email":os.environ.get("ANALYTICS_RESET_EMAIL"),
+         "uaid":os.environ.get("GOOGLE_ANALYTICS_ID"),
+         "date":datetime.datetime.now().isoformat()}
+
 # sanity check route
 @app.route('/', defaults={'path':''})
 @app.route('/<path:path>')
@@ -301,6 +310,7 @@ def catch_all(path):
         analytics_id=os.environ.get("GOOGLE_ANALYTICS_ID",False),
         olark_id = os.environ.get("OLARK_ID",False),
     )
+
 
 if "DYNO" in os.environ:
     # INiti Sentry
