@@ -1,7 +1,7 @@
 from tkinter import ttk,Tk,PhotoImage,filedialog,StringVar,BooleanVar,BOTH,messagebox,IntVar
 import tksheet
 import os,os.path,configparser
-from bulktools import optimize,load_from_csv,output_rows,write_to_csv
+from bulktools import optimize,load_from_file,output_rows,write_to_excel
 from strategies import STRATEGIES
 from us.states import STATES
 import threading
@@ -10,7 +10,7 @@ import sys
 
 
 class MealsCountDesktop(object):
-  def __init__(self,app_path,pool):
+  def __init__(self,app_path):
     self.filename = None
     self.districts = None
     self.root = None
@@ -20,7 +20,7 @@ class MealsCountDesktop(object):
     self.configFrame = None
     self.runFrame = None
     self.strategyVars = []
-    self.running = False
+    self.running = None
 
     # Save prefs for each load
     self.config = configparser.ConfigParser() 
@@ -37,7 +37,7 @@ class MealsCountDesktop(object):
     self.cfg = self.config['current']
     self.configLocation = os.path.join(app_path,"mealscount.cfg")
 
-    self.pool = pool
+    self.create_pool()
 
     if os.path.exists(self.configLocation):
       self.config.read(self.configLocation)
@@ -70,10 +70,10 @@ class MealsCountDesktop(object):
 
   def handle_choose_file(self):
     self.filename = filedialog.askopenfilename(
-      title="Select csv file",
-      filetypes=(("CSV Files","*.csv"),("XLS Files","*.xls"),("XLSX Files","*.xlsx"))
+      title="Select file",
+      filetypes=(("XLSX Files","*.xlsx"),("CSV Files","*.csv"))
     )
-    districts,schools,lastyear_groupings = load_from_csv(self.filename,csv_encoding="utf-8",state=self.stateCombobox.get())
+    districts,schools,lastyear_groupings = load_from_file(self.filename,state=self.stateCombobox.get())
     self.file_selected.config(text="Selected %s\nFound %i Districts, %i Schools" % (
       os.path.basename(self.filename),
       len(districts),
@@ -81,8 +81,10 @@ class MealsCountDesktop(object):
     ))
     self.districts = districts
 
-  def handle_progress(self,n):
-    self.progressVar.set(round(n*100))
+  def handle_progress(self,n,status):
+    if n != None:
+      self.progressVar.set(round(n*100))
+    self.runStatusVar.set(status)
 
   def handle_run(self):
     if not self.districts:
@@ -98,35 +100,54 @@ class MealsCountDesktop(object):
     districts = self.districts 
     if self.testRunVar.get():
       districts = {c:d for c,d in self.districts.items() if len(d.schools) <= 5}
-    t = threading.Thread(target=lambda: self.run(districts,strategies,goal))
-    t.start()
+    if self.running:
+      messagebox.showerror("Please cancel current job before starting a new one")
+      return
+    self.handle_progress(0,"Starting..")
+    self.clear_results()
+    self.running = threading.Thread(target=lambda: self.run(districts,strategies,goal),daemon=True)
+    self.running.start()
 
   def handle_save_as(self):
-    save_file = filedialog.asksaveasfile()
+    save_file = filedialog.asksaveasfile(mode="wb",defaultextension="xlsx")
     if(save_file):
-      write_to_csv(self.resultRows,save_file)
+      write_to_excel(self.resultRows,save_file)
+      save_file.close()
       messagebox.showinfo("Saved %i district optimizations to %s" %(len(self.districts),save_file.name))
 
   def handle_cancel(self):
     if self.running:
       self.pool.terminate()
       self.progressVar.set(0)
+      # TODO nicely stop thread
+      self.running = None
+      self.create_pool()
 
   def run(self,districts,strategies,goal):
-    if self.running:
-      messagebox.showerror("Please cancel current job before starting a new one")
-      return
     self.write_cfg()
-    self.running = True
-    self.results = optimize(
+    async_results = optimize(
       districts,
       strategies,
       goal=goal,
       pool=self.pool,
       progress_callback=lambda n: self.handle_progress(n),
     )
-    messagebox.showinfo("Complete","Optimization complete\n%i results" % len(self.results))
-    self.running = False
+
+    # Track progress
+    district_map = dict([(d.code,d) for d in districts.values()])
+    count = sum([len(d.schools) for d in districts.values()])
+    processed = 0
+    for r in async_results:
+      # TODO handle cancel as gracefully as possible
+      result = r.get()
+      _d = district_map[result["code"]] 
+      processed += len(_d.schools)
+      self.handle_progress(processed/count,"Processed %s" % _d.name)
+
+    self.handle_progress(None,"Processing Complete")
+
+    # Pull results 
+    self.results = [r.get() for r in async_results] 
     self.resultRows = output_rows(
       self.districts,
       self.results,
@@ -134,13 +155,18 @@ class MealsCountDesktop(object):
       [], #TODO add in lastyear comparison
     )
     self.show_results()
+    self.running = None
+    messagebox.showinfo("Complete","Optimization complete\n%i results" % len(self.results))
+
+  def clear_results(self):
+    self.resultSheet.set_sheet_data([])
 
   def show_results(self):
     self.resultSheet.set_sheet_data(self.resultRows)
 
   def addFileFrame(self):
     fileFrame = ttk.LabelFrame(self.frame,text="Select File",padding=10)
-    ttk.Button(fileFrame, text="Select CSV", command=self.handle_choose_file).grid(row=0,column=0,sticky="nw")
+    ttk.Button(fileFrame, text="Select File", command=self.handle_choose_file).grid(row=0,column=0,sticky="nw")
     self.file_selected = ttk.Label(fileFrame,text="")
     self.file_selected.grid(row=0,column=1,stick="ne")
     fileFrame.grid(row=1,column=0)
@@ -192,11 +218,13 @@ class MealsCountDesktop(object):
     cancel.grid(column=1, row=0)
     self.testRunVar = BooleanVar(value=True)
     ttk.Checkbutton(runFrame,text="Test Run of 5 districts only",variable=self.testRunVar).grid(column=2,row=0)
+    self.runStatusVar = StringVar(value='')
+    ttk.Label(runFrame,textvariable=self.runStatusVar).grid(column=3,row=0)
 
     self.progressVar = IntVar()
     ttk.Progressbar(runFrame,maximum=100,variable=self.progressVar).grid(column=0,row=1,columnspan=2,sticky='nesw')
     self.runFrame = runFrame
-    runFrame.grid(row=3,column=0,columnspan=2,sticky='nesw')
+    runFrame.grid(row=3,column=0,columnspan=4,sticky='nesw')
 
   def addResultFrame(self):
     resultFrame = ttk.LabelFrame(self.frame,text="Results",padding=10)
@@ -209,17 +237,20 @@ class MealsCountDesktop(object):
 
   def loop(self):
     self.root.mainloop()
+  
+  def create_pool(self):
+    process_count = max(multiprocessing.cpu_count() - 1,1)
+    self.pool = multiprocessing.Pool(process_count)
 
 def init(app_path):
-  process_count = max(multiprocessing.cpu_count() - 1,1)
-  with multiprocessing.Pool(process_count) as pool:
-    win = MealsCountDesktop(app_path,pool)
+    win = MealsCountDesktop(app_path)
     win.initialize()
     win.addFileFrame()
     win.addConfigureFrame()
     win.addRunFrame()
     win.addResultFrame()
     win.loop() 
+    if win.pool: win.pool.close()
 
 if __name__=="__main__":
   app_path = ""

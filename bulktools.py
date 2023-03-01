@@ -5,6 +5,7 @@ import click
 from strategies.base import CEPDistrict,CEPSchool
 from strategies.naive import CustomGroupsCEPStrategy,OneGroupCEPStrategy,OneToOneCEPStrategy
 from cep_estimatory import add_strategies
+import pandas
 import sys
 
 STRATEGIES = [
@@ -27,7 +28,7 @@ STRATEGIES = [
 @click.option("--output-file",default=None,help="output file (default is ./statewide-XX-output.csv)")
 def run(csv_file,state,csv_encoding,debug,max_groups,output_file):
   # Load
-  districts,schools,lastyear_groupings = load_from_csv(csv_file,csv_encoding,state)
+  districts,schools,lastyear_groupings = load_from_file(csv_file,csv_encoding,state)
 
   # Summary Import Stats
   #print("Processed %i schools from %s into %i districts" % (len(schools),state,len(districts)))
@@ -41,7 +42,12 @@ def run(csv_file,state,csv_encoding,debug,max_groups,output_file):
 
   # Optimize with max reimbursement
   strategies = [s%{"ngroups":max_groups} for s in STRATEGIES]
+  t0 = time.time()
   results = optimize(districts,strategies)
+  total_time = time.time() - t0
+  print("Optimized in %0.1fs" % total_time)
+  results = [r.get() for r in results]
+
   # Optimize with max coverage
   with Pool(cpu_count()-1) as pool:
     results_coverage = optimize(districts,strategies,pool,goal="coverage")
@@ -90,13 +96,13 @@ def run(csv_file,state,csv_encoding,debug,max_groups,output_file):
   rows = output_rows(districts,results,results_coverage,lastyear_groupings)
   fname = output_file or "statewide-%s-output.csv" % state
   with open(fname,'w') as file:
-    write_to_csv(file)
+    write_to_excel(rows,file)
 
-def write_to_csv(rows,output_file):
-  writer = csv.writer(output_file,dialect='excel')
-  print(rows)
-  for row in rows:
-    writer.writerow(row)
+def write_to_excel(rows,output_file):
+  cols = rows[0]
+  data = [dict(zip(cols,row)) for row in rows[1:]]
+  df = pandas.DataFrame(data)
+  df.to_excel(output_file,index=False)
 
 def output_rows(districts,results,results_coverage,lastyear_groupings):
   rows = []
@@ -160,15 +166,21 @@ def output_rows(districts,results,results_coverage,lastyear_groupings):
         #csr["grouping"],
       ))
   return rows
-
-def load_from_csv(csv_file,csv_encoding,state):
+def load_from_file(filename,state):
   districts = {}
   schools = []
   lastyear_groupings = []
-  for row in csv.DictReader(open(csv_file,encoding=csv_encoding)):
+
+  try:
+    df = pandas.read_csv(filename,encoding='latin-1') 
+  except:
+    df = pandas.read_excel(filename)
+
+  #import code; code.interact()
+  for row in df.to_dict('records'):
     school = CEPSchool(row)
     schools.append(school)
-    if "cep_grouping" in row and row["cep_grouping"].strip():
+    if "cep_grouping" in row and row["cep_grouping"]:
       lastyear_groupings.append((row["district_code"],row["cep_grouping"],row["school_code"]))
 
     if row["district_code"] not in districts:
@@ -178,36 +190,7 @@ def load_from_csv(csv_file,csv_encoding,state):
   return districts,schools,lastyear_groupings
 
 def optimize(districts,strategies,pool,goal="reimbursement",progress_callback=None):
-  # Optimize with standard Strategies
-  #print("optimizing with %s" % (','.join(strategies)))
-  district_map = dict([(d.code,d) for d in districts.values()])
-  t0 = time.time()
-
-
-  count = sum([len(d.schools) for d in districts.values()])
-  class Progress(object):
-    processed = 0
-    def update(self,n):
-      self.processed += n
-      if progress_callback:
-        progress_callback(self.processed/count)
-      else:
-        sys.stdout.write("%0.4f\n"%(float(self.processed)/count))
-        sys.stdout.flush()
-
-  progress = Progress()
-  # a bit convoluted
-  # let launching thread reach out and terminate if user wants to cancel
-  results = [pool.apply_async(mp_processor, (d,goal,strategies)) for d in districts.values()]
-  for r in results:
-      result = r.get()
-      _d = district_map[result["code"]]
-      #bar.update(len(_d.schools))
-      progress.update(len(_d.schools))
-
-  total_time = time.time() - t0
-  #print("Optimized in %0.1fs" % total_time)
-  return [r.get() for r in results]
+  return [pool.apply_async(mp_processor, (d,goal,strategies)) for d in districts.values()]
  
 def mp_processor(district,goal,strategies):
   add_strategies(district,*strategies)
