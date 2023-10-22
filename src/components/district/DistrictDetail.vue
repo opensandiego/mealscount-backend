@@ -28,6 +28,15 @@
       <div class="row">
         <div class="col-sm alert alert-warning" role="alert">
           <strong>⚠️ PLEASE NOTE</strong>
+          <p>The CEP Eligibility minimum ISP has been updated to 25% or greater (from 40%) follwing the <a target="_blank" href="https://www.fns.usda.gov/cn/cep-final-rule-summary">CEP Final Rule</a></p>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-sm alert alert-warning" role="alert">
+          <strong>⚠️ PLEASE NOTE</strong>
           <p>The current reimbursement rates include the temporary funds provided through the Keep Kids Fed Act (KKFA). Use the estimated reimbursement for comparison from FY23 to potential changes in FY24 but know the estimated amount includes these temporary funds.</p>
         </div>
       </div>

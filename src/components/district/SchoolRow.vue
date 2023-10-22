@@ -27,7 +27,7 @@
             {{ ( (school.total_eligible / school.total_enrolled) * 100).toFixed(1) }}%
         </td>
         <td>
-            {{  ((school.total_eligible / school.total_enrolled)>=0.4)?"✔️":""  }}
+            {{  ((school.total_eligible / school.total_enrolled)>=0.25)?"✔️":""  }}
         </td> 
         <td class="text-right">
             <span class="school_reimb">{{ reimbursement|toUSD }}</span>

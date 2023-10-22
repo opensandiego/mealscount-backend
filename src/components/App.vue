@@ -1,9 +1,7 @@
 <template>
   <div>
     <div v-if="show_motd" class="flex-column text-center alert-warning py-1 small">
-          <!--<strong>Reminder</strong> - Download your data <strong>BEFORE April 1st 2021</strong>! All student data must be current as of <strong>April 1</strong> of the year prior to implementing the CEP. -->
-          <!--<a target="_blank" href="https://www.fns.usda.gov/cn/covid-19-cep-deadlines-waiver">learn more &raquo;</a>-->
-          <strong>REMINDER:</strong> Download your Direct Certification Data by April 1st! <router-link to="/faq">Learn More</router-link>!
+          <strong>UPDATE</strong> - The minimum ISP threshold has been updated to 25% (from 40%) following the <a target="_blank" href="https://www.fns.usda.gov/cn/cep-final-rule-summary">CEP Final Rule Summary</a>.
     </div>
 
     <nav class="navbar navbar-expand-lg d-flex align-items-center">
@@ -156,7 +154,7 @@ import FOOTERGREEN from "../assets/green-angle.svg";
 export default {
   data() {
     return {
-      show_motd: false,
+      show_motd: true,
       logo: MealsCountLogo,
       footerM: {
         "background-image": "url('" + FOOTERM + "')",
