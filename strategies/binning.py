@@ -49,7 +49,7 @@ class BinCEPStrategy(BaseCEPStrategy):
         # Then gradually reduce the threshold in steps (of size isp_width), filling up each group
         # until the bin is just above the threshold
 
-        while len(the_rest) > 0 and threshold >= 0.40:
+        while len(the_rest) > 0 and threshold >= self.params.get("isp_threshold",self.isp_threshold):
             threshold = the_rest[-1].isp 
             #print("T",threshold)
             threshold -=  isp_width
@@ -59,7 +59,8 @@ class BinCEPStrategy(BaseCEPStrategy):
                 CEPGroup(   
                     district,
                     "ISP-%0.2f_to_%0.2f" % (threshold,isp_width+threshold),
-                    g
+                    g,
+                    self.isp_threshold
                 )
             )
     
@@ -69,6 +70,7 @@ class BinCEPStrategy(BaseCEPStrategy):
                     district,
                     "The-Rest-Low-ISP",
                     the_rest,
+                    self.isp_threshold,
                 )
             )
    

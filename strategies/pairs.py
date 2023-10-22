@@ -17,12 +17,12 @@ class PairsCEPStrategy(BaseCEPStrategy):
         self.create_matches(high_isp,low_isp,0.625,district)
 
         # then with the remaining low_isp schools, we pair up partial coverage (over 40%)
-        high_isp,low_isp = self.split_on_threshold(low_isp,0.4)
-        self.create_matches(high_isp,low_isp,0.4,district)
+        high_isp,low_isp = self.split_on_threshold(low_isp,self.isp_threshold)
+        self.create_matches(high_isp,low_isp,self.isp_threshold,district)
 
         # Finally, anything below is not CEP Eligible
         if len(low_isp) > 0:
-            self.groups.append(CEPGroup(district,"Not CEP Eligible", low_isp))
+            self.groups.append(CEPGroup(district,"Not CEP Eligible", low_isp,self.isp_threshold))
 
         assert sum([len(g.schools) for g in self.groups])  == len(schools)
 
@@ -41,13 +41,13 @@ class PairsCEPStrategy(BaseCEPStrategy):
         for school in high_isp:
             found_match = False
             for low_school in low_isp:
-                g = CEPGroup(district,"Group-of-%s"%school.code,[school,low_school])
+                g = CEPGroup(district,"Group-of-%s"%school.code,[school,low_school],self.isp_threshold)
                 if g.isp > threshold:
                     found_match = True
                     self.groups.append(g)
                     low_isp.remove(low_school)
                     break
             if not found_match:
-                g = CEPGroup(district,"Singleton-Group-of-%s"%school.code,[school])
+                g = CEPGroup(district,"Singleton-Group-of-%s"%school.code,[school],self.isp_threshold)
                 self.groups.append(g)
 

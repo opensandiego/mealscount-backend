@@ -13,7 +13,7 @@ import base64
 import requests
 
 import csv,codecs,os,os.path
-from strategies.base import CEPDistrict,CEPSchool
+from strategies.base import CEPDistrict,CEPSchool,DEFAULT_ISP_THRESHOLD
 from strategies.naive import CustomGroupsCEPStrategy
 from cep_estimatory import parse_strategy,add_strategies
 
@@ -185,8 +185,11 @@ def optimize():
             "Binning",
             "NYCMODA?fresh_starts=100&iterations=2000&ngroups=%s&evaluate_by=%s"%(max_groups,evaluate_by),
             "GreedyLP"
-        ]
+        ],
     )
+    if "isp_threshold" in d_obj:
+        for s in district.strategies:
+            s.isp_threshold = float(d_obj.get("isp_threshold"))
 
     t0 = time.time()
     district.run_strategies()
@@ -244,7 +247,7 @@ def calculate():
     # We direct this into the custom groups strategy which doesn't actually
     # do any optimization
 
-    custom = CustomGroupsCEPStrategy(params={},name="Custom Grouping")
+    custom = CustomGroupsCEPStrategy(params={},name="Custom Grouping",isp_threshold=float(d_obj.get("isp_threshold",DEFAULT_ISP_THRESHOLD)))
     custom.groupings = groupings # not really official way to set this
     district.strategies.append(custom)
     district.run_strategies()

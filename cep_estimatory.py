@@ -1,7 +1,7 @@
 import csv
 import click
 import tabulate
-from strategies.base import CEPSchool,CEPDistrict
+from strategies.base import CEPSchool,CEPDistrict,DEFAULT_ISP_THRESHOLD
 from strategies import STRATEGIES
 from urllib import parse
 import os,os.path
@@ -34,10 +34,10 @@ def parse_strategy(strategy):
     klass = STRATEGIES[strategy_param.path]
     return (klass,params,strategy)
 
-def add_strategies(district,*strategies):
+def add_strategies(district,*strategies,isp_threshold=DEFAULT_ISP_THRESHOLD):
     for s in strategies:
         Klass,params,name = parse_strategy(s) 
-        district.strategies.append( Klass(params,name) )
+        district.strategies.append( Klass(params,name,isp_threshold=isp_threshold) )
 
 @click.command()
 @click.option("--target-district",default=None,help="Specific district code to run")

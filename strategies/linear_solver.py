@@ -338,7 +338,7 @@ class GreedyLPStrategy(BaseCEPStrategy):
         
         # Run solver        
         solution = _LPOptimizer(target_isp=0.625,
-                                minimum_isp=0.400,
+                                minimum_isp=self.isp_threshold,
                                 free_breakfast=rates['free_bfast'],
                                 paid_breakfast=rates['paid_bfast'],
                                 free_lunch=rates['free_lunch'],
@@ -349,7 +349,7 @@ class GreedyLPStrategy(BaseCEPStrategy):
         # Optimizer failed most likely due to small sample size (n <= 10) or school ISPs too low to
         # satisfy mathematical constraints
         if df_group is None:
-            self.groups = [CEPGroup(district, "Singleton-Group", district.schools)]
+            self.groups = [CEPGroup(district, "Singleton-Group", district.schools,self.isp_threshold)]
             return
 
         # Pack groupings into CEP data structure
@@ -369,11 +369,11 @@ class GreedyLPStrategy(BaseCEPStrategy):
             
             # Create CEPGroup group
             self.groups.append(
-                CEPGroup(district, group_name=f"Group-{group_id}", schools=selected)
+                CEPGroup(district, group_name=f"Group-{group_id}", schools=selected,isp_threshold=self.isp_threshold)
             )
         
         # If any schools leftover, then place in a single CEPGroup
         if len(available):
             self.groups.append(
-                CEPGroup(district, group_name=f"Not Selected", schools=available)
+                CEPGroup(district, group_name=f"Not Selected", schools=available,isp_threshold=self.isp_threshold)
             )

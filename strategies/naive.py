@@ -6,7 +6,7 @@ class OneToOneCEPStrategy(BaseCEPStrategy):
 
     def create_groups(self,district):
         self.groups = [
-            CEPGroup(district,school.name,[school])
+            CEPGroup(district,school.name,[school],self.isp_threshold)
             for school in district.schools
         ] 
 
@@ -15,7 +15,7 @@ class OneGroupCEPStrategy(BaseCEPStrategy):
     name = "OneGroup"
     def create_groups(self,district):
         self.groups = [
-            CEPGroup(district,"%s - Consolidated" % district.name,district.schools)
+            CEPGroup(district,"%s - Consolidated" % district.name,district.schools,self.isp_threshold)
         ]
 
 
@@ -32,6 +32,6 @@ class CustomGroupsCEPStrategy(BaseCEPStrategy):
         self.groups = []
         for g in self.groupings:
             schools = [ s for s in district.schools if s.code in self.groupings[g]]
-            self.groups.append( CEPGroup(district,"Group %s" % g, schools) )
+            self.groups.append( CEPGroup(district,"Group %s" % g, schools,self.isp_threshold) )
 
 

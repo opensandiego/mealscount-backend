@@ -25,6 +25,10 @@ export default new Vuex.Store({
         set_district(state, district) {
             // These are the "raw" districts loaded from the server
             // if we have saved data for the district raw data, then prefill that now
+            if(district.isp_threshold == undefined){
+                // Initialize isp threshold to default
+                district.isp_threshold = 0.25
+            }
             if( state.district_data  && 
                 state.district_data[district.state_code] != undefined && 
                 state.district_data[district.state_code][district.code] != undefined){ 

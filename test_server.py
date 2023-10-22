@@ -34,6 +34,14 @@ class CEPTestCase(unittest.TestCase):
         del sobj["name"]
         result = self.client.post('/api/districts/optimize/', json = sobj)
 
+    def test_isp_threshold(self):
+        sobj = oceanside()
+        sobj["schools"] = sobj["schools"][:2]
+        sobj["isp_threshold"] = "0.4"
+        result = self.client.post('/api/districts/optimize/', json = sobj)
+        obj = result.json
+        self.assertEqual(obj["strategies"][0]["groups"][0]["isp_threshold"],0.4)
+
     def test_no_schools(self):
         # empty school list
         sobj = oceanside()

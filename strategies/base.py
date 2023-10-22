@@ -1,6 +1,9 @@
 from abc import ABC,abstractmethod
 from enum import Enum
 
+# As of 10.26.2023 this goes to 25% from 40% as a result of FDA rule (7 CFR 245.9(f)(3)(i))
+DEFAULT_ISP_THRESHOLD = 0.25
+
 # Shortcut to deal with commas in integers from csv
 def i(x):
     if type(x) != str: return int(x)
@@ -12,11 +15,11 @@ def i(x):
 
 # Free Rate from CEP Estimator
 # IF(E11*1.6>=1,1,IF(E11<0.4,0,E11*1.6))
-def isp_to_free_rate(isp):
+def isp_to_free_rate(isp,isp_threshold):
     free_rate = isp * 1.6
     if isp * 1.6 > 1:
         free_rate = 1
-    elif isp < 0.4:
+    elif isp < isp_threshold:
         free_rate = 0 
     return free_rate
 
@@ -85,7 +88,7 @@ class CEPSchool(object):
         return obj
 
 class CEPGroup(object):
-    def __init__(self,district,group_name,schools):
+    def __init__(self,district,group_name,schools,isp_threshold=DEFAULT_ISP_THRESHOLD):
         # Expected Columns:
         # district,school,total_enrolled,frpm,foster,homeless,migrant,direct_cert
 
@@ -93,6 +96,7 @@ class CEPGroup(object):
         self.name = group_name
         self.total_eligible,self.total_enrolled = 0,0
         self.schools = schools
+        self.isp_threshold = isp_threshold
         self.calculate()
 
     def calculate(self):
@@ -112,7 +116,7 @@ class CEPGroup(object):
             self.isp = round(self.total_eligible / float(self.total_enrolled), 4)
 
         # Then calculate free vs paid rate
-        self.free_rate = isp_to_free_rate(self.isp)
+        self.free_rate = isp_to_free_rate(self.isp,self.isp_threshold)
 
         self.paid_rate = 1.0 - self.free_rate
         if self.free_rate == 0:
@@ -192,16 +196,18 @@ class CEPGroup(object):
             "est_reimbursement": self.est_reimbursement(),
             "daily_breakfast_served": self.daily_breakfast_served,
             "daily_lunch_served": self.daily_lunch_served,
+            "isp_threshold": self.isp_threshold,
         } 
 
 class CEPDistrict(object):
-    def __init__(self,name,code,sfa_certified=True,hhfka_sixty="more",state="ca"):
+    def __init__(self,name,code,sfa_certified=True,hhfka_sixty="more",state="ca",isp_threshold=0.25):
         self.name = name
         self.code = code
         self._schools = [] 
         self.groups = []
         self.sfa_certified = sfa_certified # TODO provide as input
         self.hhfka_sixty = hhfka_sixty # Expect "less","more" or "max"
+        self.isp_threshold = isp_threshold
         assert( hhfka_sixty in ("less","more","max") ) 
         self.anticipated_rate_change = 0.02
         self.strategies = []
@@ -290,10 +296,11 @@ class BaseCEPStrategy(ABC):
     name = "Abstract Strategy"
     params = {}
 
-    def __init__(self,params={},name=None):
+    def __init__(self,params={},name=None,isp_threshold=DEFAULT_ISP_THRESHOLD):
         self.params = params
         self.groups = []
         if name: self.name = name
+        self.isp_threshold = isp_threshold
 
     @property
     def students_covered(self):
@@ -351,7 +358,7 @@ class BaseCEPStrategy(ABC):
             "groups": self.groups and [g.as_dict() for g in self.groups] or [],
             "isp":  self.isp,
             "total_enrolled": self.total_enrolled,
-            "free_rate": isp_to_free_rate(self.isp),
+            "free_rate": isp_to_free_rate(self.isp,self.isp_threshold),
             "covered_students": self.students_covered,
             "reimbursement": self.reimbursement,
             'basis':  'estimated',

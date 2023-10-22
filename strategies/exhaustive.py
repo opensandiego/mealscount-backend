@@ -20,7 +20,7 @@ class ExhaustiveCEPStrategy(BaseCEPStrategy):
         max_count = int(self.params.get("max_count",10))
         if len(schools) > max_count:
             self.groups = [
-                CEPGroup(district, school.name, [school])
+                CEPGroup(district, school.name, [school],self.isp_threshold)
                 for school in schools
             ]
         elif len(schools) == 0:
@@ -50,7 +50,7 @@ class ExhaustiveCEPStrategy(BaseCEPStrategy):
             # generate all CEPgroup objects for all possible groups
             possible_groups = {}
             for i, g in enumerate(powerset(schools)):
-                possible_groups[g] = CEPGroup(district, i, list(g))
+                possible_groups[g] = CEPGroup(district, i, list(g),self.isp_threshold)
 
             best_grouping = []
             # generate all partions

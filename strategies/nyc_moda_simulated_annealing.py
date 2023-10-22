@@ -9,11 +9,14 @@ from random import randint,sample,random,seed
 
 SCHOOL_YEAR = 180
 MULTIPLIER = 1.6
-T_MIN = 0.40 * MULTIPLIER
 
 class NYCMODASimulatedAnnealingCEPStrategy(BaseCEPStrategy):
     '''NYC MODA Simulated Annealing  '''
     name = "SimulatedAnnealing"
+
+    @property
+    def T_MIN(self):
+        return self.isp_threshold * MULTIPLIER
 
     def create_groups(self,district):
         self.debug = self.params.get("step_debug",False)
@@ -36,7 +39,7 @@ class NYCMODASimulatedAnnealingCEPStrategy(BaseCEPStrategy):
             # prune 0 school groups since we don't need to report them
             self.groups = [g for g in self.groups if len(g.schools) > 0]
         else:
-            self.groups = [ CEPGroup(district,"OneGroup",[ s for s in district.schools ]) ]
+            self.groups = [ CEPGroup(district,"OneGroup",[ s for s in district.schools ],self.isp_threshold) ]
 
         return self.groups
 
@@ -61,7 +64,7 @@ class NYCMODASimulatedAnnealingCEPStrategy(BaseCEPStrategy):
                 ng = randint(2,len(district.schools)-1)
             else:
                 ng = randint(2,ngroups)
-            groups = [CEPGroup(district,"Group %i" % i,[]) for i in range(ng)]
+            groups = [CEPGroup(district,"Group %i" % i,[],self.isp_threshold) for i in range(ng)]
             for s in district.schools:
                 groups[randint(0,ng-1)].schools.append(s)
             for g in groups: g.calculate() 
@@ -208,7 +211,8 @@ class NYCMODASimulatedAnnealingCEPStrategy(BaseCEPStrategy):
             self.groups.append(CEPGroup(
                 district,
                 "threshold %s" % g[0],
-                [ s for s in district.schools if s.code in g[1]["School"].to_numpy()]
+                [ s for s in district.schools if s.code in g[1]["School"].to_numpy()],
+                self.isp_threshold
             ))
 
     def dataframe_from_district(self,district):
@@ -260,7 +264,7 @@ class NYCMODASimulatedAnnealingCEPStrategy(BaseCEPStrategy):
         # enforcing threshold rules:
         df['applied_threshold'] = df['threshold']
         df.loc[df['applied_threshold']  > 1, 'applied_threshold'] = 1
-        df.loc[df['applied_threshold']  < T_MIN,'applied_threshold'] = 0 - cost*10**6
+        df.loc[df['applied_threshold']  < self.T_MIN,'applied_threshold'] = 0 - cost*10**6
 
         df['reimbursed'] = df['applied_threshold'] * df['meal']
 
