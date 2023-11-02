@@ -63,6 +63,10 @@ def lambda_handler(event, context, local_output=False):
         *strategies
     )
 
+    if "isp_threshold" in d_obj:
+        for s in district.strategies:
+            s.isp_threshold = float(d_obj.get("isp_threshold"))
+
     t0 = time.time()
     district.run_strategies()
     district.evaluate_strategies(max_groups=max_groups,evaluate_by=evaluate_by)
