@@ -39,12 +39,17 @@ class MealsCountDesktop(object):
 
     self.create_pool()
 
+    print("Checking config location ",self.configLocation)
     if os.path.exists(self.configLocation):
+      print("Found! loading config")
       self.config.read(self.configLocation)
+      print(self.config.sections())
     else:
+      print("writing config to ",self.configLocation)
       self.write_cfg()
 
   def write_cfg(self):
+    self.cfg["state"] = self.stateVar.get()
     with open(self.configLocation,'w') as configFile:
       self.config.write(configFile)
 
@@ -98,6 +103,7 @@ class MealsCountDesktop(object):
     ngroups = int(self.nGroupsVar.get()) 
     strategies.append("NYCMODA?fresh_starts=%i&iterations=%i&ngroups=%i" % (starts,iterations,ngroups))
     districts = self.districts 
+    # Update thresholds
     if self.testRunVar.get():
       districts = {c:d for c,d in self.districts.items() if len(d.schools) <= 5}
     if self.running:
@@ -125,10 +131,12 @@ class MealsCountDesktop(object):
 
   def run(self,districts,strategies,goal):
     self.write_cfg()
+    threshold = self.thresholdVar.get() == "40%" and 0.4 or 0.25
     async_results = optimize(
       districts,
       strategies,
       goal=goal,
+      isp_threshold=threshold,
       pool=self.pool,
       progress_callback=lambda n: self.handle_progress(n),
     )
@@ -155,8 +163,15 @@ class MealsCountDesktop(object):
       [], #TODO add in lastyear comparison
     )
     self.show_results()
+    total = sum([d['reimb'] for d in self.results])
     self.running = None
-    messagebox.showinfo("Complete","Optimization complete\n%i results" % len(self.results))
+    messagebox.showinfo(
+      "Complete",
+      '''Optimization complete
+      %i results
+      Total Estimated Reimbursement: %s
+      ''' % (len(self.results),'{:,}'.format(int(total)))
+      )
 
   def clear_results(self):
     self.resultSheet.set_sheet_data([])
@@ -169,35 +184,38 @@ class MealsCountDesktop(object):
     ttk.Button(fileFrame, text="Select File", command=self.handle_choose_file).grid(row=0,column=0,sticky="nw")
     self.file_selected = ttk.Label(fileFrame,text="")
     self.file_selected.grid(row=0,column=1,stick="ne")
-    fileFrame.grid(row=1,column=0)
+    fileFrame.grid(row=1,column=0,sticky="nsew")
 
   def addConfigureFrame(self):
     configFrame = ttk.LabelFrame(self.frame,text="Configure Run",padding=10)
 
     stateFrame = ttk.LabelFrame(configFrame,text="State")
-    stateFrame.grid(row=0,column=0,stick='nw')
-    ttk.Label(stateFrame,text="Select State").grid(row=0,column=0)
-    self.stateCombobox = ttk.Combobox(configFrame,values=[s.abbr for s in STATES],state="readonly")
-    self.stateCombobox.set(self.cfg.get('state'))
+    ttk.Label(stateFrame,text="Select State").grid(row=0,column=0,sticky="w")
+    self.stateVar = StringVar(value=self.cfg.get('state'))
+    self.stateCombobox = ttk.Combobox(stateFrame,values=[s.abbr for s in STATES],textvariable=self.stateVar)
     self.stateCombobox.grid(row=1,column=0)
+    stateFrame.grid(row=0,column=0,stick='nsew')
 
     optimizeForFrame = ttk.LabelFrame(configFrame,text="Optimize For",padding=5)
-    self.optimizeForVar = StringVar(value="reimbursement")
-    ttk.Radiobutton(optimizeForFrame,text="Max Reimbursement",value="reimbursement",var=self.optimizeForVar).grid(row=0,column=0)
-    ttk.Radiobutton(optimizeForFrame,text="Max Coverage",value="coverage",var=self.optimizeForVar).grid(row=1,column=0)
-    ttk.Label(optimizeForFrame,text="Max Number of Groups").grid(row=2,column=0)
-    self.nGroupsVar = StringVar(value='10')
-    ttk.Spinbox(optimizeForFrame,from_=5,to=1000,textvariable=self.nGroupsVar).grid(row=3,column=0)
-    optimizeForFrame.grid(row=0,column=1)
+    self.optimizeForVar = StringVar(value=self.cfg.get("optimizeFor"))
+    ttk.Radiobutton(optimizeForFrame,text="Max Reimbursement",value="reimbursement",var=self.optimizeForVar).grid(row=0,column=0,sticky="W")
+    ttk.Radiobutton(optimizeForFrame,text="Max Coverage",value="coverage",var=self.optimizeForVar).grid(row=1,column=0,sticky="W")
+    ttk.Label(optimizeForFrame,text="Max Number of Groups").grid(row=2,column=0,sticky="W")
+    self.nGroupsVar = StringVar(value=self.cfg.get("nGroups"))
+    ttk.Spinbox(optimizeForFrame,from_=5,to=1000,textvariable=self.nGroupsVar).grid(row=3,column=0,sticky="W")
+    ttk.Label(optimizeForFrame,text="ISP Threshold").grid(row=4,column=0,sticky="W")
+    self.thresholdVar = StringVar(value="25%")
+    ttk.Combobox(optimizeForFrame,values=["25%","40%"],state="25%",textvariable=self.thresholdVar).grid(row=5,column=0,sticky="W")
+    optimizeForFrame.grid(row=0,column=1,sticky="nsew")
 
     iterationsFrame = ttk.LabelFrame(configFrame,text="Iterations",padding=5)
     ttk.Label(iterationsFrame,text="Starts").grid(row=0,column=0)
-    self.startsVar = StringVar(value='50')
+    self.startsVar = StringVar(value=self.cfg.get("starts"))
     ttk.Spinbox(iterationsFrame,from_=50,to=1000,textvariable=self.startsVar).grid(row=0,column=1)
     ttk.Label(iterationsFrame,text="Iterations").grid(row=1,column=0)
-    self.iterationsVar = StringVar(value='1000')
+    self.iterationsVar = StringVar(value=self.cfg.get('iterations'))
     ttk.Spinbox(iterationsFrame,from_=1000,to=1000000,textvariable=self.iterationsVar).grid(row=1,column=1)
-    iterationsFrame.grid(row=0,column=2)
+    iterationsFrame.grid(row=0,column=2,sticky="nsew")
 
 #    strategyFrame = ttk.LabelFrame(configFrame,text="Strategies",padding=5)
 #    for i,strategy in enumerate(STRATEGIES.items()):
@@ -231,7 +249,7 @@ class MealsCountDesktop(object):
     ttk.Button(resultFrame, text="Save As",command=self.handle_save_as).grid(row=0,column=0)
     sheet=tksheet.Sheet(resultFrame)  
     #sheet.set_sheet_data([['a','b','c'],[1,2,3],[4,5,6]])
-    sheet.grid(row=1,column=0,sticky='nesw')
+    sheet.grid(row=1,column=0,columnspan=4,sticky='nesw')
     self.resultSheet = sheet
     resultFrame.grid(row=4,column=0,columnspan=2,sticky='nesw')
 

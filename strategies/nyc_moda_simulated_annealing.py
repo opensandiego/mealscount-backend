@@ -23,7 +23,6 @@ class NYCMODASimulatedAnnealingCEPStrategy(BaseCEPStrategy):
         # Use a seed to get consistent results
         seed( int(self.params.get("seed", 42 )))
 
-
         if self.params.get("original",False):
             self.do_nycmoda(district)
         elif len(district.schools) > 10: # less than 10 we do exhaustive

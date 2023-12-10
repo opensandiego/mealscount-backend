@@ -168,7 +168,7 @@ class _LPOptimizer:
         df        = df.merge(group_isp, on='group', how='inner')
         
         # CEP calculations
-        df_cep        = df.groupby(['group', 'group_isp'], as_index=False).sum()
+        df_cep        = df.groupby(['group', 'group_isp'], as_index=False).sum(numeric_only=True)
         df_cep['isp'] = df_cep['group_isp'].apply(lambda x: min(1, x * 1.6))
         
         # CEP breakfast
