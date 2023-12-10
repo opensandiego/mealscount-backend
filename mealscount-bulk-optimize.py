@@ -39,13 +39,10 @@ class MealsCountDesktop(object):
 
     self.create_pool()
 
-    print("Checking config location ",self.configLocation)
     if os.path.exists(self.configLocation):
-      print("Found! loading config")
       self.config.read(self.configLocation)
       print(self.config.sections())
     else:
-      print("writing config to ",self.configLocation)
       self.write_cfg()
 
   def write_cfg(self):
@@ -56,7 +53,7 @@ class MealsCountDesktop(object):
   def initialize(self):
     # root window
     root = Tk()
-    root.title("MealsCount Bulk Optimizer")
+    root.title("MealsCount Bulk Optimizer SY2324")
     #root.geometry("800x600")
     root.grid_columnconfigure(0,weight=1)
 
