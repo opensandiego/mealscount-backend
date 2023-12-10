@@ -373,9 +373,9 @@ class AbstractStateFunding(object):
     def get_funding(self,school):
         return 0
 
-# Rates Updated for 2022-2023
-# Temporary, Page 10
-# https://public-inspection.federalregister.gov/2022-15892.pdf
+# Rates Updated for 2023-2024
+# Based on table in
+# https://www.fns.usda.gov/sites/default/files/resource-files/SY23-24EstimatorCEP.xlsx
 class CEPRate(object):
     def __init__(self,state,sfa_certified,hhfka_sixty,severe_need):
         state = state.upper()
