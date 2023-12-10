@@ -1,48 +1,39 @@
-state,District Code,District Name,School Code,School Name,individual_isp,proxy_isp,participating_in_cep,claiming_isp,total_enrolled,total_eligible
-nd,40007,Belcourt Public Schools,8461,Tiny Turtles Preschool,44.12%,,72.28%,Y,34,15
-nd,40007,Belcourt Public Schools,8565,Turtle Mountain Elem,75.82%,,72.28%,Y,856,649
-nd,40007,Belcourt Public Schools,8566,Turtle Mountain MS,73.09%,,72.28%,Y,379,277
-nd,40007,Belcourt Public Schools,8567,Turtle Mountain HS,67.53%,,72.28%,Y,502,339
-nd,8001,Bismarck Public School,4580,Jeanette Myhre Elementary School,55.32%,,49.64%,Y,280,155
-nd,8001,Bismarck Public School,8050,South Central Alternative High School,41.73%,,41.73%,Y,127,53
-nd,8001,Bismarck Public School,9414,Will Moore Elementary,44.30%,,40.51%,Y,237,105
-nd,8001,Bismarck Public School,1897,Dorothy Moses Elementary,43.32%,,39.30%,Y,374,162
-nd,8001,Bismarck Public School,7090,Pioneer Elementary,31.12%,,32.52%,Y,289,90
-nd,40900,Dunseith Day School,1970,Dunseith Day Elementary School,69.81%,,69.81%,Y,265,185
-nd,40001,Dunseith Public School,1968,Dunseith Elementary,65.37%,,70.53%,Y,257,168
-nd,40001,Dunseith Public School,1966,Dunseith HS,75.47%,,70.53%,Y,269,203
-nd,18127,Emerado Public,2362,Emerado Public,39.00%,,40.74%,Y,108,42
-nd,39018,Fairmount Public,2739,Fairmount Public,33.00%,,,N,93,31
-nd,9001,Fargo Public Schools,2104,Ed Clapp Elementary,41.22%,,41.22%,Y,541,223
-nd,9001,Fargo Public Schools,4598,Jefferson Elementary,49.38%,,56.90%,Y,290,143
-nd,9001,Fargo Public Schools,5435,Madison Elementary,58.27%,,58.27%,Y,139,81
-nd,43004,Fort Yates Public School,2921,Fort Yates MS,50.75%,,50.75%,Y,201,102
-nd,3030,Four Winds Public School,2903,Tate Topa Elem,70.10%,,63.45%,Y,525,368
-nd,3030,Four Winds Public School,2910,Ft Totten HS,46.00%,,63.45%,Y,200,92
-nd,18001,Grand Forks Public Schools,5125,Lake Agassiz Elementary,44.91%,,,N,452,203
-nd,18001,Grand Forks Public Schools,9475,Winship Elementary,52.02%,,,N,198,103
-nd,18001,Grand Forks Public Schools,9313,West Elementary,40.00%,,,N,130,52
-nd,18001,Grand Forks Public Schools,892,Phoenix Elementary,38.42%,,,N,393,151
-nd,30001,Mandan Public School,8286,Mary Stark Elementary,50.00%,,50.00%,Y,214,107
-nd,3005,Minnewauken Public,5741,Minnewauken Public,61.69%,,61.69%,Y,261,161
-nd,51001,Minot Public Schools,8264,Sunnyside Elementary,46.82%,,,N,299,140
-nd,51001,Minot Public Schools,9149,Washington Elementary,45.12%,,,N,328,148
-nd,36800,North Dakota School for the Deaf,6710,North Dakota School for the Deaf,46.15%,,46.15%,Y,13,6
-nd,3016,Oberon Public School,6226,Oberon Public School,68.42%,,68.42%,Y,57,39
-nd,40409,Ojibwa Indian School,8120,Ojibwa Indian School,74.48%,,74.48%,Y,290,216
-nd,51016,Sawyer Public,7717,Sawyer Public,39.00%,,,N,47,18
-nd,43008,Selfridge Public School,7804,Selfridge Public School,64.10%,,64.10%,Y,78,50
-nd,43003,Solen Public Schools,1278,Cannonball Elementary,70.49%,,67.88%,Y,122,86
-nd,43003,Solen Public Schools,8036,Solen High School,63.38%,,67.88%,Y,71,45
-nd,40410,St Ann Catholic School,8119,St Ann's Catholic Elem,68.89%,,68.89%,Y,45,31
-nd,43409,St Bernard Mission School,8130,St. Bernard Mission School,45.76%,,59.32%,Y,59,27
-nd,40003,St John Public School,8152,St John Public,50.64%,,50.64%,Y,391,198
-nd,43900,Standing Rock Community School,2902,Standing Rock Community Elementary,59.28%,,54.03%,Y,415,246
-nd,43900,Standing Rock Community School,2905,Standing Rock Community High School,41.07%,,54.03%,Y,168,69
-nd,8900,Theodore Jamerson Public School,8830,Theodore Jamerson Elementary,68.94%,,,N,132,91
-nd,13037,Twin Buttes Public School,8582,Twin Buttes Elementary,72.34%,,72.34%,Y,47,34
-nd,8900,Theodore Jamerson Public School,,Theo Jamerson Elementary,0.00%,,68.94%,Y,132,0
-nd,3029,Warwick Public School,9219,Warwick Public School,65.45%,,65.45%,Y,246,161
-nd,9006,West Fargo Public Schools,9420,Willow Park Elementary,54.53%,,50.10%,Y,519,283
-nd,9006,West Fargo Public Schools,5071,LE Berger Elementary,38.67%,,37.47%,Y,419,162
-nd,26004,Zeeland Public,9849,Zeeland Public,32.00%,,,N,31,10
+state,District Code,District Name,School Code,School Name,individual_isp,proxy_isp,claiming_isp,participating_in_cep,total_enrolled,total_eligible
+nd,40007,Belcourt School District #7,8461,Tiny Turtle,67.14%,,67.41%,Y,23,15
+nd,40007,Belcourt School District #7,8567,Turtle Mountain HS,67.14%,,67.41%,Y,682,458
+nd,40007,Belcourt School District #7,8566,Turtle Mountain MS,67.14%,,67.41%,Y,310,208
+nd,40007,Belcourt School District #7,8565,Turtle Mountain Elem,67.14%,,67.41%,Y,559,375
+nd,8001,Bismarck Public Schools,8050,South Central High,50.55%,,50.55%,Y,91,46
+nd,8001,Bismarck Public Schools,4580,Jeanette Myhre,49.64%,,40.36%,Y,280,139
+nd,8001,Bismarck Public Schools,1897,Dorothy Moses,39.30%,,40.36%,Y,374,147
+nd,8001,Bismarck Public Schools,9414,Will Moore,40.51%,,40.36%,Y,237,96
+nd,8001,Bismarck Public Schools,7090,Pioneer Elementary,32.52%,,40.36%,Y,286,93
+nd,40900,Dunseith Day Elementary School,1970,Dunseith Day Elem,68.16%,,68.16%,Y,223,152
+nd,40001,Dunseith School District,1968,Dunseith Elementary,75.50%,,75.50%,Y,262,198
+nd,40001,Dunseith School District,1966,Dunseith HS,75.50%,,75.50%,Y,285,215
+nd,18127,Emerado Public School,2362,Emerado Public,43.86%,,43.86%,Y,114,50
+nd,9001,Fargo Public Schools,5435,Madison Elementary,58.27%,,48.35%,Y,139,81
+nd,9001,Fargo Public Schools,4598,Jefferson Elementary,56.90%,,48.35%,Y,290,165
+nd,9001,Fargo Public Schools,2104,Ed Clapp Elementary,41.22%,,48.35%,Y,541,223
+nd,9001,Fargo Public Schools,5223,Explorer Academy,72.00%,,,N,11,8
+nd,43004,Fort Yates Public School,2921,Fort Yates MS,50.75%,,65.38%,Y,52,26
+nd,3030,Four Winds Tribal School,2910,Ft Totten HS,63.45%,,68.22%,Y,178,113
+nd,3030,Four Winds Tribal School,2903,Tate Topa Elem,63.45%,,68.22%,Y,445,282
+nd,3005,Minnewaukan Public School,5741,Minnewauken Public,61.69%,,53.50%,Y,286,176
+nd,36800,North Dakota School for the Deaf,6710,North Dakota School for the Deaf,46.15%,,50.00%,Y,14,6
+nd,3016,Oberon Public School,6226,Oberon Public,71.15%,,71.15%,Y,52,37
+nd,40409,Ojibwa Indian School,8120,Ojibwa Indian School,64.73%,,64.73%,Y,258,167
+nd,43008,Selfridge Public School,7804,Selfridge Public,65.28%,,65.28%,Y,72,47
+nd,43003,Solen Public School,8036,Solen HS,71.10%,,71.10%,Y,89,63
+nd,43003,Solen Public School,1278,Cannonball Elementary,71.10%,,71.10%,Y,129,92
+nd,40410,St Anns Catholic Indian School,8119,St Anns Catholic Elem,68.89%,,68.89%,Y,45,31
+nd,43409,St Bernard Mission School,8130,St Bernard Mission School,59.32%,,60.47%,Y,43,26
+nd,40003,St John Public School,8152,St John Public,59.38%,,62.75%,Y,443,263
+nd,43900,Standing Rock School,2905,Standing Rock HS,54.03%,,64.44%,Y,362,196
+nd,43900,Standing Rock School,2902,Standing Rock Elem,54.03%,,64.44%,Y,251,136
+nd,13037,Twin Buttes School,8582,Twin Buttes Elementary,63.46%,,63.46%,Y,52,33
+nd,8900,United Tribes Tech College,8830,Theo Jamerson Elementary,68.94%,,74.14%,Y,58,40
+nd,3029,Warwick Public School,9219,Warwick Public,66.20%,,66.20%,Y,216,143
+nd,9006,West Fargo Public Schools,9420,Willow Park Elementary,50.10%,,44.46%,Y,519,260
+nd,9006,West Fargo Public Schools,5071,LE Berger,37.47%,,44.46%,Y,419,157
+nd,30001,Mandan Public Schools,8286,Mary Stark,50.00%,,50.00%,Y,214,107

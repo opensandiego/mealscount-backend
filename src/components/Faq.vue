@@ -68,7 +68,7 @@
     </h3>
     <p>The prepopulated California Meals Count data includes</p>
     <ul>
-      <li>Enrollment data from the 2020-2021 school year;</li>
+      <li>Enrollment data from the 2022-2023 school year;</li>
     </ul>
     <p>
       Please note that the school list may include some charter schools and may

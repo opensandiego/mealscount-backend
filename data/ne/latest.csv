@@ -1,734 +1,295 @@
-state,District Code,District Name,School Code,School Name,individual_isp,proxy_isp,participating_in_cep,claiming_isp,total_enrolled,total_eligible
-ne,090010,Ainsworth City School,001,Ainsworth High School,,27.07%,,N,,
-ne,090010,Ainsworth City School,002,Ainsworth Elementary School,,31.03%,,N,145,
-ne,090010,Ainsworth City School,003,Ainsworth Middle School,,32.46%,,N,114,
-ne,090010,Ainsworth City School,011,Ainsworth Little Paws Preschool,,56.76%,,N,37,
-ne,280709,All Saints School - Omaha,001-0,All Saints Catholic School,,56.44%,,N,163,
-ne,260070,Allen Consolidated Schools,001-1,Allen High School,,30.12%,,N,83,
-ne,260070,Allen Consolidated Schools,002-0,Allen Elementary School,,32.50%,,N,80,
-ne,070006,Alliance Public Schools,001-2,Alliance High School,,28.75%,,N,,
-ne,070006,Alliance Public Schools,002-1,Alliance Middle School,,39.38%,,N,259,
-ne,070006,Alliance Public Schools,004,Emerson Elementary School,,49.63%,,N,268,
-ne,070006,Alliance Public Schools,005,Grandview Elementary School,,37.91%,,N,306,
-ne,070006,Alliance Public Schools,006,Alliance Early Child Ed Prog,,58.33%,,N,72,
-ne,420002,Alma Public School,001-3,Alma High School,,35.98%,,N,164,
-ne,420002,Alma Public School,002-2,Alma Elementary At Alma,,30.69%,,N,189,
-ne,210044,Ansley Public School,001-4,Ansley High School,,22.62%,,N,,
-ne,210044,Ansley Public School,002-3,Ansley Elementary School,,34.74%,,N,95,
-ne,330018,Arapahoe Public School,001-5,Arapahoe High School,,25.00%,,N,,
-ne,330018,Arapahoe Public School,002-4,Arapahoe Elementary School,,39.91%,,N,213,
-ne,880021,Arcadia Public School,001-6,Arcadia High School,,17.65%,,N,,
-ne,880021,Arcadia Public School,002-5,Arcadia Elementary School,,33.78%,,N,74,
-ne,210089,Arnold Public School,001-7,Arnold High School,,9.09%,,N,,
-ne,210089,Arnold Public School,002-6,Arnold Elementary School,,31.63%,,N,98,
-ne,640029,Auburn Public School,001-8,Auburn High School,,26.91%,,N,,
-ne,640029,Auburn Public School,003-0,Auburn Middle School,,32.97%,,N,182,
-ne,640029,Auburn Public School,007,Calvert Elementary,,35.26%,,N,468,
-ne,200020,Bancroft-Rosalie School,006-0,Bancroft-Rosalie Jr/Sr High School,,26.92%,,N,,
-ne,200020,Bancroft-Rosalie School,001-9,Bancroft-Rosalie Elementary School,,44.07%,41.56%,Y,308,
-ne,040001,Banner County School,002-7,Banner County High School,,31.25%,,N,48,
-ne,040001,Banner County School,001-10,Banner County Elementary School,,55.56%,45.67%,Y,127,
-ne,620021,Bayard Public Schools,001-11,Bayard Secondary School,,35.75%,,N,179,
-ne,620021,Bayard Public Schools,002-8,Bayard Elementary School,,41.10%,,N,219,
-ne,340015,Beatrice Public School,001-12,Beatrice High School,,33.02%,,N,648,
-ne,340015,Beatrice Public School,002-9,Beatrice Middle School,,34.85%,,N,485,
-ne,340015,Beatrice Public School,004-0,Lincoln Elementary School,,54.34%,,N,219,
-ne,340015,Beatrice Public School,005-0,Stoddard Elementary School,,40.09%,,N,232,
-ne,340015,Beatrice Public School,006-1,Paddock Lane School,,54.94%,,N,324,
-ne,770001,Bellevue Public Schools,001-13,Bellevue East Sr High School,,27.06%,,N,,
-ne,770001,Bellevue Public Schools,002-10,Bellevue Mission Middle School,,34.13%,,N,416,
-ne,770001,Bellevue Public Schools,003-1,Avery Elementary School,,42.81%,,N,327,
-ne,770001,Bellevue Public Schools,004-1,Bellevue West Sr High School,,17.79%,,N,,
-ne,770001,Bellevue Public Schools,005-1,Logan Fontenelle Middle School,,34.30%,,N,446,
-ne,770001,Bellevue Public Schools,006-2,Belleaire Elementary School,,51.10%,,N,317,
-ne,770001,Bellevue Public Schools,007-0,Bertha Barber Elementary Sch,,40.99%,,N,161,
-ne,770001,Bellevue Public Schools,008,Betz Elementary School,,65.71%,,N,312,
-ne,770001,Bellevue Public Schools,009,Central Elementary School,,40.74%,,N,162,
-ne,770001,Bellevue Public Schools,010,Peter Sarpy Elementary School,,17.69%,,N,,
-ne,770001,Bellevue Public Schools,011-0,Birchcrest Elementary School,,51.23%,,N,365,
-ne,770001,Bellevue Public Schools,012,Fort Crook Elementary School,,21.34%,,N,,
-ne,770001,Bellevue Public Schools,013,Twin Ridge Elementary School,,36.63%,,N,273,
-ne,770001,Bellevue Public Schools,014,Wake Robin Elementary School,,32.23%,,N,515,
-ne,770001,Bellevue Public Schools,015,Lemay Elementary School,,17.85%,,N,,
-ne,770001,Bellevue Public Schools,016,Chap Center,,0.00%,,N,,
-ne,770001,Bellevue Public Schools,017,Leonard Lawrence Elem School,,21.70%,,N,,
-ne,770001,Bellevue Public Schools,018,Two Springs Elementary School,,14.57%,,N,,
-ne,770001,Bellevue Public Schools,019,Fairview Elementary School,,14.10%,,N,,
-ne,770001,Bellevue Public Schools,020,Lewis & Clark Middle School,,11.11%,,N,,
-ne,770001,Bellevue Public Schools,021,Bellevue Elementary School,,6.05%,,N,,
-ne,770001,Bellevue Public Schools,300,Sarpy Co Coop Head Start-Bellevue,,92.68%,,N,82,
-ne,890001,Blair Community Schools,001-14,Blair High School,,14.64%,,N,,
-ne,890001,Blair Community Schools,002-11,Blair North Elementary School,,24.34%,,N,,
-ne,890001,Blair Community Schools,003-2,Blair South Elementary School,,23.39%,,N,,
-ne,890001,Blair Community Schools,005-2,Blair Arbor Park Intermediate School,,18.38%,,N,,
-ne,890001,Blair Community Schools,006-3,Gerald Otte Blair Middle Sch,,15.28%,,N,,
-ne,890001,Blair Community Schools,007-1,Deerfield Elementary School,,32.18%,,N,289,
-ne,540586,Bloomfield School,001-15,Bloomfield Jr-Sr High School,,31.62%,,N,117,
-ne,540586,Bloomfield School,002-12,Bloomfield Elementary School,,22.07%,,N,,
-ne,620063,Bridgeport Public School,001-16,Bridgeport High School,,61.32%,40.18%,Y,448,
-ne,620063,Bridgeport Public School,002-13,Bridgeport Elementary School,,15.16%,,N,,
-ne,210025,Broken Bow Public School,001-17,Broken Bow High School,,20.61%,,N,,
-ne,210025,Broken Bow Public School,004-2,North Park Elementary School,,31.64%,,N,354,
-ne,210025,Broken Bow Public School,005-3,Sandhills Educ Services Coop,,74.29%,,N,35,
-ne,210025,Broken Bow Public School,006-4,Broken Bow Middle School,,26.67%,,N,,
-ne,210025,Broken Bow Public School,010-0,New Discoveries Preschool,,42.86%,,N,63,
-ne,210180,Callaway Public School,001-18,Callaway High School,,18.95%,,N,,
-ne,210180,Callaway Public School,002-14,Callaway Elementary School,,32.54%,,N,126,
-ne,780107,Cedar Bluffs Public School,001-19,Cedar Bluffs Secondary School,,30.38%,,N,158,
-ne,780107,Cedar Bluffs Public School,002-15,Cedar Bluffs Elementary School,,40.37%,,N,270,
-ne,800567,Centennial Public School,001-20,Centennial Jr-Sr High School,,24.52%,,N,,
-ne,800567,Centennial Public School,002-16,Centennial Elementary School,,35.71%,,N,252,
-ne,610004,Central City Public School,001-21,Central City High School,,24.77%,,N,,
-ne,610004,Central City Public School,002-17,Central City Middle School,,35.41%,,N,209,
-ne,610004,Central City Public School,004-3,Central City Elementary School,,35.65%,,N,317,
-ne,390060,Central Valley Public School,001-22,Central Valley High School,,27.05%,,N,,
-ne,390060,Central Valley Public School,002-18,Central Valley Elem - Scotia,,41.61%,,N,161,
-ne,390060,Central Valley Public School,003-3,Central Valley Pk - Greeley,,18.18%,,N,,
-ne,230002,Chadron City Schools,001-23,Chadron Senior High School,,17.09%,,N,,
-ne,230002,Chadron City Schools,002-19,Chadron Primary,,41.91%,,N,241,
-ne,230002,Chadron City Schools,003-4,Chadron Middle School,,21.15%,,N,,
-ne,230002,Chadron City Schools,004-4,Chadron Intermediate,,34.03%,,N,144,
-ne,160030,Cody-Kilgore Schools,001-24,Cody-Kilgore High School,,27.08%,,N,,
-ne,160030,Cody-Kilgore Schools,002-20,Cody-Kilgore Elementary School,,30.38%,,N,79,
-ne,160030,Cody-Kilgore Schools,003-5,Cody-Kilgore Middle School,,24.39%,,N,,
-ne,710001,Columbus Public School,001-25,Columbus High School,,25.31%,,N,,
-ne,710001,Columbus Public School,002-21,Columbus Middle School,,32.84%,,N,1139,
-ne,710001,Columbus Public School,003-6,Emerson Elementary School,,46.64%,,N,298,
-ne,710001,Columbus Public School,006-5,North Park Elementary,,39.88%,,N,346,
-ne,710001,Columbus Public School,007-2,West Park Elementary,,34.26%,,N,251,
-ne,710001,Columbus Public School,011-1,Lost Creek Elementary Sch,,29.52%,,N,,
-ne,710001,Columbus Public School,012-0,Centennial Elementary School,,41.73%,,N,369,
-ne,240011,Cozad Community Schools,001-26,Cozad High School,,29.68%,,N,,
-ne,240011,Cozad Community Schools,002-22,Cozad Middle School,,37.50%,,N,208,
-ne,240011,Cozad Community Schools,004-5,Cozad Elementary School,,41.22%,,N,393,
-ne,240011,Cozad Community Schools,005-4,Cozad Early Education Center,,46.97%,,N,66,
-ne,230071,Crawford Public Schools,001-27,Crawford High School,,35.37%,,N,82,
-ne,230071,Crawford Public Schools,002-23,Crawford Elementary School,,45.90%,,N,122,
-ne,250025,Creek Valley Schools,001-28,Creek Valley High School,,36.90%,,N,84,
-ne,250025,Creek Valley Schools,003-7,Creek Valley Elementary School,,47.57%,,N,103,
-ne,540013,Creighton Community Public School,001-29,Creighton Community High Sch,,36.17%,,N,141,
-ne,540013,Creighton Community Public School,002-24,Creighton Elementary School,,31.11%,,N,135,
-ne,760002,Crete Public Schools,002-25,Crete Elementary School,,52.33%,,N,621,
-ne,760002,Crete Public Schools,001-30,Crete High School,,28.76%,,N,,
-ne,760002,Crete Public Schools,006-6,Crete Intermediate School,,44.29%,43.51%,Y,416,
-ne,760002,Crete Public Schools,003-8,Crete Middle School,,34.06%,39.04%,Y,438,
-ne,720015,Cross County Community Schools,003-9,Cross County Middle School,,20.24%,,N,,
-ne,720015,Cross County Community Schools,004-6,Cross County High School,,19.64%,,N,,
-ne,720015,Cross County Community Schools,005-5,Cross County Elementary School,,30.86%,,N,162,
-ne,120056,David City Public School,001-31,David City Secondary School,,28.06%,,N,,
-ne,120056,David City Public School,002-26,David City Elementary School,,37.37%,,N,289,
-ne,120056,David City Public School,003-10,Bellwood Elementary School,,42.05%,,N,88,
-ne,850060,Deshler Public School,001-32,Deshler High School,,35.78%,,N,109,
-ne,850060,Deshler Public School,002-27,Deshler Elementary School,,32.17%,,N,143,
-ne,760044,Dorchester Public School,001-33,Dorchester High School,,31.87%,,N,91,
-ne,760044,Dorchester Public School,002-28,Dorchester Elementary School,,28.35%,,N,,
-ne,290117,Dundy County Public School,001-34,Dundy Co Stratton High School,,36.62%,,N,142,
-ne,290117,Dundy County Public School,002-29,Benkelman Elementary School,,39.16%,,N,143,
-ne,290117,Dundy County Public School,004-7,Stratton Elementary School,,48.48%,,N,33,
-ne,120502,East Butler Public School,001-35,High School At Brainard,,16.06%,,N,,
-ne,120502,East Butler Public School,002-30,Elementary School At Brainard,,10.69%,,N,,
-ne,120502,East Butler Public School,003-11,Elementary School At Dwight,,30.00%,,N,40,
-ne,470103,Elba Public School,002-31,Elba Secondary School,,51.79%,,N,56,
-ne,470103,Elba Public School,001-36,Elba Elementary School,,40.63%,45.45%,Y,121,
-ne,020018,Elgin Public School,001-37,Elgin High School,,37.25%,,N,51,
-ne,020018,Elgin Public School,002-32,Elgin Elementary School,,43.22%,,N,118,
-ne,260561,Emerson-Hubbard Schools,001-38,Emerson-Hubbard High School,,37.36%,,N,91,
-ne,260561,Emerson-Hubbard Schools,002-33,Emerson-Hubbard Elementary Sch,,31.25%,,N,160,
-ne,450029,Ewing Public School,001-39,Ewing High School,,21.82%,,N,,
-ne,450029,Ewing Public School,002-34,Ewing Elementary School,,42.68%,,N,82,
-ne,480008,Fairbury Public School,001-40,Fairbury Jr-Sr High School,,33.16%,,N,377,
-ne,480008,Fairbury Public School,003-12,Central Elementary School,,44.60%,,N,287,
-ne,480008,Fairbury Public School,008-0,Jefferson Intermediate School,,36.17%,,N,235,
-ne,740056,Falls City Public School,001-41,Falls City Senior High,,33.07%,,N,251,
-ne,740056,Falls City Public School,002-35,Falls City Middle School,,41.57%,,N,166,
-ne,740056,Falls City Public School,003-13,Falls City North Elementary,,47.90%,,N,309,
-ne,740056,Falls City Public School,004-8,Falls City South Elementary,,48.24%,,N,170,
-ne,300025,Fillmore County School District,001-42,Fillmore Central High School,,25.99%,,N,,
-ne,300025,Fillmore County School District,002-36,Fillmore Central Elementary,,27.39%,,N,,
-ne,300025,Fillmore County School District,006-7,Fillmore Central Middle School,,31.36%,,N,169,
-ne,310506,Franklin Public School,001-43,Franklin Secondary School,,34.15%,,N,123,
-ne,310506,Franklin Public School,002-37,Franklin Elementary School,,39.87%,,N,158,
-ne,270001,Fremont Public School,001-44,Fremont Senior High School,,30.20%,,N,1487,
-ne,270001,Fremont Public School,002-38,Fremont Middle School,,36.93%,,N,696,
-ne,270001,Fremont Public School,004-9,Fremont Learning Center,,0.00%,,N,,
-ne,270001,Fremont Public School,005-6,Grant Elementary School,,62.14%,,N,140,
-ne,270001,Fremont Public School,007-3,Linden Elementary School,,56.97%,,N,337,
-ne,270001,Fremont Public School,009-0,Washington Elementary School,,61.81%,,N,309,
-ne,270001,Fremont Public School,010-1,Clarmar Elementary School,,30.86%,,N,256,
-ne,270001,Fremont Public School,011-2,Howard Elementary School,,38.25%,,N,285,
-ne,270001,Fremont Public School,015-0,Milliken Park Elementary Sch,,46.30%,,N,216,
-ne,270001,Fremont Public School,016-0,Bell Field Elementary School,,46.23%,,N,305,
-ne,270001,Fremont Public School,017-0,Student Service Center,,0.00%,,N,,
-ne,270001,Fremont Public School,019-0,Johnson Crossing Academic Center (5-6),,41.82%,,N,617,
-ne,350001,Garden County Schools,001-45,Garden County Junior/Senior High School,,45.22%,,N,115,
-ne,350001,Garden County Schools,002-39,Garden County Elementary Sch,,65.10%,,N,149,
-ne,790016,Gering Public School,001-46,Gering High School,,32.38%,,N,559,
-ne,790016,Gering Public School,002-40,Gering Junior High School,,35.38%,,N,325,
-ne,790016,Gering Public School,003-14,Lincoln Elementary School,,42.99%,,N,335,
-ne,790016,Gering Public School,004-10,Geil Elementary School,,30.55%,,N,311,
-ne,790016,Gering Public School,005-7,Northfield Elementary School,,49.83%,,N,295,
-ne,790016,Gering Public School,007-4,Gering Early Childhood Program,,75.00%,,N,132,
-ne,100002,Gibbon Public School,001-47,Gibbon High School,,27.53%,,N,,
-ne,100002,Gibbon Public School,002-41,Gibbon Elementary School,,30.99%,,N,342,
-ne,810010,Gordon-Rushville Public Schools,004-11,Gordon-Rushville Ele-Rushville,,43.43%,,N,99,
-ne,810010,Gordon-Rushville Public Schools,002-42,Gordon-Rushville Elem-Gordon,,53.96%,58.60%,Y,186,
-ne,810010,Gordon-Rushville Public Schools,003-15,Gordon-Rushville High School,,31.32%,36.97%,Y,165,
-ne,810010,Gordon-Rushville Public Schools,001-48,Gordon-Rushville Middle School,,47.37%,46.15%,Y,247,
-ne,240020,Gothenburg Public School,001-49,Gothenburg Secondary School,,19.63%,,N,,
-ne,240020,Gothenburg Public School,002-43,Dudley Elementary School,,27.51%,,N,,
-ne,240020,Gothenburg Public School,006-8,Swede Preschool Academy,,61.54%,,N,26,
-ne,300701,Grace Lutheran School - Geneva,001-50,Grace Lutheran Elementary Sch,,,,N,14,
-ne,400002,Grand Island Public School,008-1,Barr Middle School,,47.43%,,N,719,
-ne,400002,Grand Island Public School,001-51,Dodge Elementary School,,58.06%,56.90%,Y,413,
-ne,400002,Grand Island Public School,025,Early Learning Center,,72.49%,59.58%,Y,240,
-ne,400002,Grand Island Public School,018-0,Engleman Elementary School,,12.68%,,N,,
-ne,400002,Grand Island Public School,005-8,Gates Elementary School,,40.70%,,N,398,
-ne,400002,Grand Island Public School,011-3,Grand Island Senior High School,,38.30%,,N,2559,
-ne,400002,Grand Island Public School,002-44,Howard Elementary School,,61.87%,62.57%,Y,366,
-ne,400002,Grand Island Public School,009-1,Jefferson Elementary School,,51.01%,60.12%,Y,341,
-ne,400002,Grand Island Public School,006-9,Knickrehm Elementary School,,68.94%,63.13%,Y,217,
-ne,400002,Grand Island Public School,003-16,Lincoln Elementary School,,57.51%,62.25%,Y,355,
-ne,400002,Grand Island Public School,013-0,Newell Elementary School,,40.48%,,N,462,
-ne,400002,Grand Island Public School,010-2,Seedling Mile Elem School,,52.80%,,N,125,
-ne,400002,Grand Island Public School,017-1,Shoemaker Elementary School,,32.65%,,N,389,
-ne,400002,Grand Island Public School,004-12,Walnut Middle School,,51.02%,,N,786,
-ne,400002,Grand Island Public School,015-1,Wasmer Elementary School,,54.71%,59.25%,Y,346,
-ne,400002,Grand Island Public School,014-0,West Lawn Elementary School,,56.57%,53.13%,Y,320,
-ne,400002,Grand Island Public School,019-1,Westridge Middle School,,27.60%,,N,,
-ne,400002,Grand Island Public School,029,Ef Starr Elementary,,0.00%,60.97%,Y,433,
-ne,140008,Hartington-Newcastle Public School,001-52,Hartington Newcastle High School,,20.98%,,N,,
-ne,140008,Hartington-Newcastle Public School,002-45,Hartington-Newcastle Elem At Hartington,,26.83%,,N,,
-ne,140008,Hartington-Newcastle Public School,003-17,Hartington-Newcastle Elem At Newcastle,,,,N,22,
-ne,180011,Harvard Public School,002-46,Harvard High School,,45.36%,,N,97,
-ne,180011,Harvard Public School,001-53,Harvard Elementary School,,47.83%,59.48%,Y,269,
-ne,180011,Harvard Public School,003-18,Harvard Middle School,,50.00%,,N,58,
-ne,010018,Hastings Public Schools,001-54,Hastings Senior High School,,39.23%,,N,1045,
-ne,010018,Hastings Public Schools,002-47,Hastings Middle School,,44.81%,,N,761,
-ne,010018,Hastings Public Schools,003-19,Alcott Elementary School,,54.99%,,N,351,
-ne,010018,Hastings Public Schools,004-13,Hawthorne Elementary School,,37.19%,,N,398,
-ne,010018,Hastings Public Schools,005-9,Lincoln Elementary School,,75.61%,,N,328,
-ne,010018,Hastings Public Schools,006-10,Longfellow Elementary School,,49.07%,,N,324,
-ne,010018,Hastings Public Schools,008-2,Raymond A Watson Elem School,,56.33%,,N,403,
-ne,810003,Hay Springs Public School,001-55,Hay Springs High School,,18.00%,,N,,
-ne,810003,Hay Springs Public School,002-48,Hay Springs Elementary School,,29.89%,,N,,
-ne,810003,Hay Springs Public School,003-20,Hay Springs Middle School,,19.51%,,N,,
-ne,810003,Hay Springs Public School,006-11,Hay Springs Early Childhood,,,,N,23,
-ne,430079,Hayes Center Public School,001-56,Hayes Center Secondary School,,31.43%,,N,35,
-ne,430079,Hayes Center Public School,002-49,Hayes Center Elementary School,,36.11%,,N,72,
-ne,720075,High Plains Community School,001-57,High Plains Community High Sch,,23.38%,,N,,
-ne,720075,High Plains Community School,002-50,High Plains Comm Elem/Clarks,,40.45%,,N,89,
-ne,720075,High Plains Community School,004-14,High Plains Elementary/Polk,,31.71%,,N,41,
-ne,720075,High Plains Community School,005-10,High Plains Community Ms,,30.19%,,N,53,
-ne,440070,Hitchcock County School,001-58,Hitchcock Co Jr/Sr High School,,30.34%,,N,145,
-ne,440070,Hitchcock County School,002-51,Hitchcock Co Elementary,,40.99%,,N,161,
-ne,690044,Holdrege Schools,001-59,Holdrege High School,,20.45%,,N,,
-ne,690044,Holdrege Schools,003-21,Holdrege Middle School,,27.49%,,N,,
-ne,690044,Holdrege Schools,008-3,Holdrege Public Schools Early Childhood Ed Ctr,,52.00%,,N,50,
-ne,690044,Holdrege Schools,012-1,Holdrege Elementary School,,34.78%,,N,368,
-ne,280722,Holy Name School,002-52,Holy Name Elementary School,,44.68%,,N,235,
-ne,220031,Homer Community School,001-60,Homer High School,,28.48%,,N,,
-ne,220031,Homer Community School,002-53,Homer Elementary School,,31.11%,,N,225,
-ne,190070,Howells-Dodge Consolidated School District,001-61,Howells Senior High School,,15.49%,,N,,
-ne,190070,Howells-Dodge Consolidated School District,002-54,Howells-Dodge Elementary School/Howells,,33.33%,,N,48,
-ne,190070,Howells-Dodge Consolidated School District,003-22,Howells-Dodge Elementary School/Dodge,,35.00%,,N,60,
-ne,740070,Humboldt/Tablerock-Steinauer,001-62,Htrs High School,,40.74%,,N,108,
-ne,740070,Humboldt/Tablerock-Steinauer,002-55,Htrs Middle School,,41.86%,,N,43,
-ne,740070,Humboldt/Tablerock-Steinauer,003-23,Htrs Elementary School,,45.93%,,N,209,
-ne,490050,Johnson County Central Public School,001-63,Johnson Co Central High School,,30.56%,,N,144,
-ne,490050,Johnson County Central Public School,002-56,Johnson Co Central Middle Sch,,32.46%,,N,114,
-ne,490050,Johnson County Central Public School,003-24,Johnson Co Central El-Tecumseh,,41.21%,,N,165,
-ne,490050,Johnson County Central Public School,004-15,Johnson Co Central Elem-Cook,,38.83%,,N,103,
-ne,100007,Kearney Public Schools,001-64,Kearney High School,,22.82%,,N,,
-ne,100007,Kearney Public Schools,002-57,Horizon Middle School,,25.98%,,N,,
-ne,100007,Kearney Public Schools,003-25,Bryant Elementary School,,56.75%,,N,252,
-ne,100007,Kearney Public Schools,004-16,Emerson Elementary School,,60.08%,,N,248,
-ne,100007,Kearney Public Schools,005-11,Kenwood Elementary School,,31.85%,,N,427,
-ne,100007,Kearney Public Schools,006-12,Northeast Elementary School,,32.00%,,N,375,
-ne,100007,Kearney Public Schools,007-5,Park Elementary School,,22.75%,,N,,
-ne,100007,Kearney Public Schools,008-4,Central Elementary School,,55.93%,,N,270,
-ne,100007,Kearney Public Schools,010-3,Windy Hills Elementary School,,22.73%,,N,,
-ne,100007,Kearney Public Schools,013-1,Glenwood Elementary School,,5.93%,,N,,
-ne,100007,Kearney Public Schools,014-1,Meadowlark Elementary School,,11.36%,,N,,
-ne,100007,Kearney Public Schools,015-2,Sunrise Middle School,,27.67%,,N,,
-ne,100007,Kearney Public Schools,027,Kearney Education Center,,59.51%,,N,205,
-ne,100007,Kearney Public Schools,028,Buffalo Hills Elementary,,10.32%,,N,,
-ne,530001,Kimball Public Schools,001-65,Kimball Jr/Sr High School,,30.73%,,N,179,
-ne,530001,Kimball Public Schools,003-26,Mary Lynch Elementary,,41.32%,,N,242,
-ne,710005,Lakeview Community Schools,001-66,Lakeview High School,,17.48%,,N,,
-ne,710005,Lakeview Community Schools,003-27,Shell Creek Elementary School,,20.68%,,N,,
-ne,710005,Lakeview Community Schools,004-17,Platte Center Elementary School,,47.62%,,N,126,
-ne,710005,Lakeview Community Schools,006-13,Lakeview Junior High School,,24.80%,,N,,
-ne,670069,Lewiston Consolidated School,001-67,Lewiston High School,,22.06%,,N,,
-ne,670069,Lewiston Consolidated School,002-58,Lewiston Elementary School,,42.06%,,N,126,
-ne,240001,Lexington Public Schools,001-68,Lexington High School,,34.49%,,N,896,
-ne,240001,Lexington Public Schools,002-59,Lexington Middle School,,39.36%,,N,653,
-ne,240001,Lexington Public Schools,003-28,Bryan Elementary School,,23.89%,,N,,
-ne,240001,Lexington Public Schools,004-18,Morton Elementary School,,53.87%,,N,284,
-ne,240001,Lexington Public Schools,005-12,Pershing Elementary School,,51.43%,,N,280,
-ne,240001,Lexington Public Schools,006-14,Sandoz Elementary School,,50.87%,,N,346,
-ne,240001,Lexington Public Schools,009-2,Early Learning Academy,,54.04%,,N,285,
-ne,170003,Leyton Public School,001-69,Leyton High School,,16.67%,,N,,
-ne,170003,Leyton Public School,003-29,Leyton Elementary/Junior High School,,32.41%,,N,108,
-ne,550001,Lincoln Public Schools,001-70,Lincoln High School,,40.80%,,N,2304,
-ne,550001,Lincoln Public Schools,002-60,Culler Middle School,,62.65%,,N,664,
-ne,550001,Lincoln Public Schools,003-30,Lincoln Northeast High School,,41.59%,,N,1748,
-ne,550001,Lincoln Public Schools,004-19,Dawes Middle School,,46.30%,,N,473,
-ne,550001,Lincoln Public Schools,005-13,Belmont Elementary School,,57.38%,,N,793,
-ne,550001,Lincoln Public Schools,006-15,Lincoln Southeast High School,,24.49%,,N,,
-ne,550001,Lincoln Public Schools,009-3,Lincoln East High School,,12.33%,,N,,
-ne,550001,Lincoln Public Schools,010-4,Irving Middle School,,29.19%,,N,,
-ne,550001,Lincoln Public Schools,011-4,Brownell Elementary School,,37.50%,,N,336,
-ne,550001,Lincoln Public Schools,012-2,Lefler Middle School,,39.83%,,N,590,
-ne,550001,Lincoln Public Schools,013-2,Mickle Middle School,,32.29%,,N,700,
-ne,550001,Lincoln Public Schools,014-2,Calvert Elementary School,,40.11%,,N,369,
-ne,550001,Lincoln Public Schools,015-3,Bryan Community School,,0.00%,,N,,
-ne,550001,Lincoln Public Schools,016-1,Mcphee Elementary School,,71.53%,,N,295,
-ne,550001,Lincoln Public Schools,017-2,Pound Middle School,,22.83%,,N,,
-ne,550001,Lincoln Public Schools,018-1,Clinton Elementary School,,70.95%,,N,475,
-ne,550001,Lincoln Public Schools,019-2,Goodrich Middle School,,60.73%,,N,848,
-ne,550001,Lincoln Public Schools,021-0,Eastridge Elementary School,,24.12%,,N,,
-ne,550001,Lincoln Public Schools,022,Elliott Elementary School,,61.07%,,N,393,
-ne,550001,Lincoln Public Schools,023,Arnold Elementary School,,36.01%,,N,736,
-ne,550001,Lincoln Public Schools,024,Hartley Elementary School,,62.69%,,N,402,
-ne,550001,Lincoln Public Schools,027-0,Holmes Elementary School,,34.99%,,N,403,
-ne,550001,Lincoln Public Schools,028-0,Huntington Elementary School,,54.75%,,N,495,
-ne,550001,Lincoln Public Schools,029-0,Lakeview Elementary School,,54.08%,,N,429,
-ne,550001,Lincoln Public Schools,030,Morley Elementary School,,16.87%,,N,,
-ne,550001,Lincoln Public Schools,031,Meadow Lane Elementary School,,27.96%,,N,,
-ne,550001,Lincoln Public Schools,032,Beattie Elementary School,,16.76%,,N,,
-ne,550001,Lincoln Public Schools,033,Norwood Park Elementary School,,47.60%,,N,271,
-ne,550001,Lincoln Public Schools,034,Everett Elementary School,,64.49%,,N,445,
-ne,550001,Lincoln Public Schools,035,Pershing Elementary School,,43.60%,,N,461,
-ne,550001,Lincoln Public Schools,036,Prescott Elementary School,,46.44%,,N,534,
-ne,550001,Lincoln Public Schools,037,Randolph Elementary School,,37.52%,,N,501,
-ne,550001,Lincoln Public Schools,038,Riley Elementary School,,40.37%,,N,322,
-ne,550001,Lincoln Public Schools,039,Saratoga Elementary School,,60.53%,,N,266,
-ne,550001,Lincoln Public Schools,040,Sheridan Elementary School,,11.57%,,N,,
-ne,550001,Lincoln Public Schools,041,West Lincoln Elementary School,,60.62%,,N,513,
-ne,550001,Lincoln Public Schools,042,Pyrtle Elementary School,,16.63%,,N,,
-ne,550001,Lincoln Public Schools,043,Rousseau Elementary School,,20.91%,,N,,
-ne,550001,Lincoln Public Schools,045,Kahoa Elementary School,,17.93%,,N,,
-ne,550001,Lincoln Public Schools,046,Zeman Elementary School,,28.09%,,N,,
-ne,550001,Lincoln Public Schools,047,Hill Elementary School,,19.01%,,N,,
-ne,550001,Lincoln Public Schools,049,Fredstrom Elementary School,,14.17%,,N,,
-ne,550001,Lincoln Public Schools,050,Humann Elementary School,,20.84%,,N,,
-ne,550001,Lincoln Public Schools,051,Donald D Sherrill Education Cntr - Elem,,0.00%,,N,,
-ne,550001,Lincoln Public Schools,052,Nuernberger Education Center,,0.00%,,N,,
-ne,550001,Lincoln Public Schools,053,Park Middle School,,50.59%,,N,854,
-ne,550001,Lincoln Public Schools,054,Campbell Elementary School,,47.08%,,N,667,
-ne,550001,Lincoln Public Schools,055,Cavett Elementary School,,7.94%,,N,,
-ne,550001,Lincoln Public Schools,056,Maxey Elementary School,,7.43%,,N,,
-ne,550001,Lincoln Public Schools,057,Roper Elementary School,,32.08%,,N,876,
-ne,550001,Lincoln Public Schools,058,Lux Middle School,,13.54%,,N,,
-ne,550001,Lincoln Public Schools,059,Scott Middle School,,10.69%,,N,,
-ne,550001,Lincoln Public Schools,066,Special Ed Yankee Hill Program,,0.00%,,N,,
-ne,550001,Lincoln Public Schools,070,North Star High School,,36.98%,,N,2193,
-ne,550001,Lincoln Public Schools,071,Southwest High School,,12.45%,,N,,
-ne,550001,Lincoln Public Schools,076,Adams Elementary School,,7.61%,,N,,
-ne,550001,Lincoln Public Schools,077,Schoo Middle School,,24.42%,,N,,
-ne,550001,Lincoln Public Schools,078,Kooser Elementary School,,22.91%,,N,,
-ne,550001,Lincoln Public Schools,079,Kloefkorn Elementary,,3.30%,,N,,
-ne,550001,Lincoln Public Schools,082,Wysong Elementary,,2.23%,,N,,
-ne,550001,Lincoln Public Schools,301,Infant Toddler At Lincoln High School,,,,N,15,
-ne,550001,Lincoln Public Schools,303,Infant Toddler At Lincoln Northeast High School,,,,N,5,
-ne,550001,Lincoln Public Schools,305,Infant Toddler At Lincoln North Star High School,,,,N,5,
-ne,550001,Lincoln Public Schools,308,Infant Toddler At Bryan Community School,,,,N,9,
-ne,550001,Lincoln Public Schools,311,Educare Of Lincoln,,62.76%,,N,145,
-ne,270594,Logan View Public School,001-71,Logan View Jr/Sr High School,,23.44%,,N,,
-ne,270594,Logan View Public School,009-4,Logan View Elementary,,32.65%,,N,291,
-ne,820001,Loup City Public School,001-72,Loup City High School,,24.65%,,N,,
-ne,820001,Loup City Public School,002-61,Loup City Elementary School,,43.16%,,N,190,
-ne,580025,Loup County Public School,001-73,Loup County High School,,44.44%,,N,27,
-ne,580025,Loup County Public School,002-62,Loup County Elementary School,,37.21%,,N,43,
-ne,110020,Lyons-Decatur N.E. School,001-74,Northeast Secondary School,,34.65%,,N,101,
-ne,110020,Lyons-Decatur N.E. School,002-63,Northeast Elementary At Lyons,,40.44%,,N,183,
-ne,590001,Madison Public School,001-75,Madison High School,,33.33%,,N,165,
-ne,590001,Madison Public School,002-64,Madison Elementary School,,51.55%,,N,194,
-ne,590001,Madison Public School,003-31,Madison Middle School,,50.00%,,N,102,
-ne,590001,Madison Public School,005-14,Madison Preschool,,39.34%,,N,61,
-ne,560007,Maxwell Public Schools,001-76,Maxwell High School,,23.90%,,N,,
-ne,560007,Maxwell Public Schools,002-65,Maxwell Elementary School,,33.57%,,N,143,
-ne,320046,Maywood Public School,001-77,Maywood High School,,40.85%,,N,71,
-ne,320046,Maywood Public School,002-66,Maywood Elementary School,,31.58%,,N,95,
-ne,730017,Mccook Public School,001-78,Mc Cook Senior High School,,20.38%,,N,,
-ne,730017,Mccook Public School,002-67,Mc Cook Junior High School,,33.89%,,N,301,
-ne,730017,Mccook Public School,003-32,Mc Cook Elementary School,,36.22%,,N,439,
-ne,730017,Mccook Public School,006-16,Central Elementary School,,37.38%,,N,214,
-ne,780072,Mead Public School,001-79,Mead High School,,19.66%,,N,,
-ne,780072,Mead Public School,002-68,Mead Elementary School,,30.67%,,N,150,
-ne,320125,Medicine Valley School,001-80,Medicine Valley Jr-Sr High School,,26.53%,,N,,
-ne,320125,Medicine Valley School,003-33,Medicine Valley Elementary,,40.44%,,N,136,
-ne,480303,Meridian Public School,001-81,Meridian High School,,27.43%,,N,,
-ne,480303,Meridian Public School,002-69,Meridian Elementary School,,43.85%,,N,130,
-ne,280017,Millard Public Schools,001-82,Millard South High School,,17.94%,,N,,
-ne,280017,Millard Public Schools,002-70,Millard Central Middle School,,32.82%,,N,838,
-ne,280017,Millard Public Schools,003-34,Bryan Elementary School,,32.02%,,N,381,
-ne,280017,Millard Public Schools,004-20,Millard North High School,,10.77%,,N,,
-ne,280017,Millard Public Schools,006-17,Millard North Middle School,,17.71%,,N,,
-ne,280017,Millard Public Schools,007-6,Grace Abbott Elem School,,9.43%,,N,,
-ne,280017,Millard Public Schools,008-5,Cody Elementary School,,41.49%,,N,323,
-ne,280017,Millard Public Schools,009-5,Norris Elementary School,,25.00%,,N,,
-ne,280017,Millard Public Schools,010-5,Sandoz Elementary School,,36.81%,,N,383,
-ne,280017,Millard Public Schools,011-5,Willa Cather Elementary School,,12.22%,,N,,
-ne,280017,Millard Public Schools,012-3,Hitchcock Elementary School,,15.97%,,N,,
-ne,280017,Millard Public Schools,013-3,Montclair Elementary School,,17.66%,,N,,
-ne,280017,Millard Public Schools,014-3,Holling Heights Elem School,,48.24%,,N,369,
-ne,280017,Millard Public Schools,015-4,J Sterling Morton Elem School,,22.55%,,N,,
-ne,280017,Millard Public Schools,016-2,Walt Disney Elementary School,,30.05%,,N,386,
-ne,280017,Millard Public Schools,017-3,Neihardt Elementary School,,20.30%,,N,,
-ne,280017,Millard Public Schools,018-2,Cottonwood Elementary School,,17.11%,,N,,
-ne,280017,Millard Public Schools,019-3,Harvey Oaks Elementary School,,17.30%,,N,,
-ne,280017,Millard Public Schools,020-0,Norman Rockwell Elem School,,25.23%,,N,,
-ne,280017,Millard Public Schools,024-0,Ackerman Elementary School,,13.44%,,N,,
-ne,280017,Millard Public Schools,025-0,Harry Andersen Middle School,,16.58%,,N,,
-ne,280017,Millard Public Schools,026,Kiewit Middle School,,9.38%,,N,,
-ne,280017,Millard Public Schools,027-1,Ezra Millard Elementary Sch,,10.99%,,N,,
-ne,280017,Millard Public Schools,028-1,Willowdale Elementary School,,9.23%,,N,,
-ne,280017,Millard Public Schools,029-1,Russell Middle School,,7.45%,,N,,
-ne,280017,Millard Public Schools,030-0,Millard West High School,,4.75%,,N,,
-ne,280017,Millard Public Schools,031-0,Aldrich Elementary,,3.89%,,N,,
-ne,280017,Millard Public Schools,032-0,Black Elk Elementary School,,12.46%,,N,,
-ne,280017,Millard Public Schools,033-0,Rohwer Elementary School,,5.25%,,N,,
-ne,280017,Millard Public Schools,034-0,Wheeler Elementary School,,7.95%,,N,,
-ne,280017,Millard Public Schools,035-0,Beadle Middle School,,5.88%,,N,,
-ne,280017,Millard Public Schools,038-0,Reeder Elementary School,,3.73%,,N,,
-ne,280017,Millard Public Schools,039-0,Reagan Elementary,,5.51%,,N,,
-ne,280017,Millard Public Schools,040-0,Upchurch Elementary,,6.74%,,N,,
-ne,790002,Minatare Public Schools,001-83,Minatare Elementary School,,60.81%,48.96%,Y,96,
-ne,790002,Minatare Public Schools,002-71,Minatare High School,,0.00%,64.22%,Y,109,
-ne,790031,Mitchell Public School,001-84,Mitchell Secondary School,,26.18%,,N,,
-ne,790031,Mitchell Public School,002-72,Mitchell Elementary School,,34.92%,,N,398,
-ne,790011,Morrill Public School,001-85,Morrill High School,,39.78%,,N,181,
-ne,790011,Morrill Public School,003-35,Morrill Elementary,,54.75%,,N,179,
-ne,790011,Morrill Public School,005-15,Tri Community Preschool,,89.36%,,N,47,
-ne,022001,Nebr. Unified District 1,002-73,Clearwater Elementary School,,17.24%,,N,,
-ne,022001,Nebr. Unified District 1,004-21,Orchard Elementary School,,33.72%,,N,86,
-ne,022001,Nebr. Unified District 1,006-18,Verdigre Elementary School,,34.09%,,N,88,
-ne,022001,Nebr. Unified District 1,009-6,Verdigre High School,,28.07%,,N,,
-ne,660111,Nebraska City Schools,001-86,Nebraska City High School,,28.54%,,N,,
-ne,660111,Nebraska City Schools,002-74,Nebraska City Middle School,,35.76%,,N,330,
-ne,660111,Nebraska City Schools,004-22,Nebraska City Northside Elem,,47.72%,,N,373,
-ne,660111,Nebraska City Schools,006-19,Hayward Elementary School,,38.27%,,N,324,
-ne,20009,Neligh-Oakdale School,001-87,Neligh-Oakdale High School,,20.63%,,N,,
-ne,020009,Neligh-Oakdale School,004-23,Westward Elementary School,,30.83%,,N,120,
-ne,020009,Neligh-Oakdale School,005-16,Eastward Elementary School,,31.00%,,N,100,
-ne,280775,Nelson Mandela Elementary School,001-88,Nelson Mandela Elementary,,63.27%,57.49%,Y,207,
-ne,590013,Newman Grove Public School,001-89,Newman Grove High School,,38.18%,,N,55,
-ne,590013,Newman Grove Public School,002-75,Newman Grove Elementary School,,38.66%,,N,119,
-ne,540501,Niobrara Public School,001-90,Niobrara Secondary School,,31.76%,,N,85,
-ne,540501,Niobrara Public School,002-76,Niobrara Elementary School,,50.70%,,N,142,
-ne,590002,Norfolk Public Schools,001-91,Norfolk Senior High School,,28.40%,,N,,
-ne,590002,Norfolk Public Schools,002-77,Norfolk Jr High School,,33.39%,,N,641,
-ne,590002,Norfolk Public Schools,003-36,Grant Elementary School,,68.33%,,N,221,
-ne,590002,Norfolk Public Schools,004-24,Jefferson Elementary School,,56.28%,,N,231,
-ne,590002,Norfolk Public Schools,005-17,Lincoln Elementary School,,31.18%,,N,279,
-ne,590002,Norfolk Public Schools,008-6,Washington Elementary School,,55.65%,,N,248,
-ne,590002,Norfolk Public Schools,009-7,Westside Elementary School,,55.96%,,N,218,
-ne,590002,Norfolk Public Schools,010-6,Bel Air Elementary School,,19.95%,,N,,
-ne,590002,Norfolk Public Schools,012-4,Woodland Park Elementary Sch,,35.29%,,N,238,
-ne,590002,Norfolk Public Schools,014-4,Norfolk Middle School,,34.14%,,N,665,
-ne,560001,North Platte Public School,011-6,Adams Middle School,,33.28%,,N,607,
-ne,560001,North Platte Public School,001-92,Buffalo Elementary School,,73.94%,66.00%,Y,150,
-ne,560001,North Platte Public School,013-4,Cody Elementary School,,41.58%,45.31%,Y,256,
-ne,560001,North Platte Public School,007-7,Eisenhower Elementary School,,25.97%,20.18%,Y,218,
-ne,560001,North Platte Public School,002-78,Jefferson Elementary School,,56.44%,65.46%,Y,304,
-ne,560001,North Platte Public School,016-3,Lake Maloney Elementary School,,12.82%,,N,,
-ne,560001,North Platte Public School,003-37,Lincoln Elementary School,,76.68%,69.74%,Y,228,
-ne,560001,North Platte Public School,004-25,Madison Middle School,,37.90%,,N,314,
-ne,560001,North Platte Public School,010-7,Mcdonald Elementary School,,17.58%,,N,,
-ne,560001,North Platte Public School,009-8,North Platte High School,,30.38%,,N,1241,
-ne,560001,North Platte Public School,012-5,Osgood Elementary School,,24.56%,,N,,
-ne,560001,North Platte Public School,005-18,Washington Elementary School,,39.13%,40.00%,Y,265,
-ne,400082,Northwest Public Schools,001-93,Northwest High School,,14.97%,,N,,
-ne,400082,Northwest Public Schools,002-79,Cedar Hollow School,,15.09%,,N,,
-ne,400082,Northwest Public Schools,003-38,1R Elementary,,18.58%,,N,,
-ne,400082,Northwest Public Schools,004-26,St Libory Elementary School,,20.15%,,N,,
-ne,400082,Northwest Public Schools,005-19,Chapman Elementary School,,46.60%,,N,103,
-ne,450007,O'Neill Public Schools,001-94,O'Neill High School,,30.25%,,N,357,
-ne,450007,O'Neill Public Schools,002-80,O'Neill Elementary School,,39.22%,,N,459,
-ne,110014,Oakland-Craig Schools,001-95,Oakland Craig Junior-Senior High,,24.88%,,N,,
-ne,110014,Oakland-Craig Schools,003-39,Oakland Craig Elementary,,32.66%,,N,248,
-ne,510001,Ogallala Public School,001-96,Ogallala High School,,27.27%,,N,,
-ne,510001,Ogallala Public School,007-8,Prairie View School,,43.41%,,N,615,
-ne,280001,Omaha Public Schools,055-0,Adams Elem School,,65.07%,,N,292,
-ne,280001,Omaha Public Schools,225,Alfonza W Davis Middle School,,36.01%,,N,772,
-ne,280001,Omaha Public Schools,022-0,Alice Buffett Magnet Ms,,24.54%,,N,,
-ne,280001,Omaha Public Schools,210,Ashland Park/Robbins Elem Sch,,55.94%,,N,926,
-ne,280001,Omaha Public Schools,204,Bancroft Elementary,,69.88%,,N,810,
-ne,280001,Omaha Public Schools,059-0,Beals Elem School,,59.54%,,N,351,
-ne,280001,Omaha Public Schools,061,Belle Ryan Elem School,,64.97%,,N,294,
-ne,280001,Omaha Public Schools,063,Belvedere Elementary School,,89.31%,,N,449,
-ne,280001,Omaha Public Schools,001-97,Benson Magnet High School,,64.43%,,N,1487,
-ne,280001,Omaha Public Schools,065,Benson West Elem School,,75.10%,,N,506,
-ne,280001,Omaha Public Schools,019-4,Beveridge Magnet Middle School,,41.49%,,N,858,
-ne,280001,Omaha Public Schools,045-0,Blackburn Alternative Program,,0.00%,,N,,
-ne,280001,Omaha Public Schools,067,Boyd Elem School,,61.96%,,N,347,
-ne,280001,Omaha Public Schools,003-40,Bryan High School,,47.82%,,N,1968,
-ne,280001,Omaha Public Schools,021-1,Bryan Middle School,,55.52%,,N,870,
-ne,280001,Omaha Public Schools,005-20,Burke High School,,30.15%,,N,2073,
-ne,280001,Omaha Public Schools,200,Career Center,,0.00%,,N,,
-ne,280001,Omaha Public Schools,069,Castelar Elementary School,,64.85%,,N,660,
-ne,280001,Omaha Public Schools,071-0,Catlin Magnet Center,,43.83%,,N,162,
-ne,280001,Omaha Public Schools,072,Central High School,,39.59%,,N,2799,
-ne,280001,Omaha Public Schools,073,Central Park Elem School,,85.60%,,N,382,
-ne,280001,Omaha Public Schools,075,Chandler View Elem School,,61.86%,,N,679,
-ne,280001,Omaha Public Schools,079-0,Columbian Elem School,,23.95%,,N,,
-ne,280001,Omaha Public Schools,081,Conestoga Magnet Elem School,,78.99%,,N,376,
-ne,280001,Omaha Public Schools,085,Crestridge Magnet Center,,36.96%,,N,395,
-ne,280001,Omaha Public Schools,089,Dodge Elem School,,56.76%,,N,414,
-ne,280001,Omaha Public Schools,052-0,Druid Hill Elementary School,,90.24%,78.72%,Y,329,
-ne,280001,Omaha Public Schools,093,Dundee Elem School,,36.68%,,N,518,
-ne,280001,Omaha Public Schools,300-0,Early Childhood Center At Gateway,,81.82%,,N,66,
-ne,280001,Omaha Public Schools,308-0,Early Childhood Center At Yates,,0.00%,,N,,
-ne,280001,Omaha Public Schools,095,Edison Elem School,,56.61%,,N,484,
-ne,280001,Omaha Public Schools,219,Esl Teen Literacy Program,,0.00%,,N,,
-ne,280001,Omaha Public Schools,097,Field Club Elem School,,70.24%,,N,662,
-ne,280001,Omaha Public Schools,099,Florence Elem School,,73.33%,,N,225,
-ne,280001,Omaha Public Schools,101,Fontenelle Elem School,,80.94%,,N,614,
-ne,280001,Omaha Public Schools,007-9,Franklin Elem School,,83.44%,79.41%,Y,306,
-ne,280001,Omaha Public Schools,104,Fullerton Magnet Center,,31.79%,,N,519,
-ne,280001,Omaha Public Schools,226,Gateway Elementary,,57.16%,,N,915,
-ne,280001,Omaha Public Schools,105,Gilder Elem School,,62.29%,,N,358,
-ne,280001,Omaha Public Schools,107,Gomez Heritage Elementary Sch,,63.34%,,N,832,
-ne,280001,Omaha Public Schools,109,Harrison Elem School,,35.24%,,N,315,
-ne,280001,Omaha Public Schools,111,Hartman Elem School,,72.30%,,N,491,
-ne,280001,Omaha Public Schools,113,Highland Elem School,,70.38%,,N,476,
-ne,280001,Omaha Public Schools,115,Indian Hill Elem School,,85.56%,,N,630,
-ne,280001,Omaha Public Schools,195,Integrated Learning Program,,0.00%,,N,,
-ne,280001,Omaha Public Schools,131,J P Lord Program,,0.00%,,N,,
-ne,280001,Omaha Public Schools,201,Jackson Elementary School,,72.96%,,N,233,
-ne,280001,Omaha Public Schools,121,Jefferson Elem School,,60.21%,,N,485,
-ne,280001,Omaha Public Schools,123,Joslyn Elem School,,38.13%,,N,375,
-ne,280001,Omaha Public Schools,125,Kellom Elementary School,,76.57%,,N,525,
-ne,280001,Omaha Public Schools,066-0,Kennedy Elem School,,90.57%,77.33%,Y,247,
-ne,280001,Omaha Public Schools,011-7,King Elementary School,,81.38%,79.89%,Y,378,
-ne,280001,Omaha Public Schools,207,King Science/Tech Magnet M S,,65.86%,,N,700,
-ne,280001,Omaha Public Schools,029-2,Lewis & Clark Middle School,,56.63%,,N,897,
-ne,280001,Omaha Public Schools,174,Liberty Elementary School,,76.75%,,N,727,
-ne,280001,Omaha Public Schools,012-6,Lothrop Magnet Center,,90.58%,78.41%,Y,301,
-ne,280001,Omaha Public Schools,139,Masters Elem School,,59.04%,,N,293,
-ne,280001,Omaha Public Schools,035-1,Mc Millan Magnet Middle School,,72.06%,,N,766,
-ne,280001,Omaha Public Schools,141,Miller Park Elem School,,90.63%,,N,395,
-ne,280001,Omaha Public Schools,143,Minne Lusa Elem School,,80.65%,,N,372,
-ne,280001,Omaha Public Schools,037-0,Monroe Middle School,,77.84%,,N,835,
-ne,280001,Omaha Public Schools,039-1,Morton Magnet Middle School,,54.04%,,N,731,
-ne,280001,Omaha Public Schools,147,Mount View Elem School,,80.05%,,N,381,
-ne,280001,Omaha Public Schools,023-0,Nathan Hale Magnet Middle School,,78.37%,,N,615,
-ne,280001,Omaha Public Schools,041-0,Norris Middle School,,65.22%,,N,1153,
-ne,280001,Omaha Public Schools,149,Oak Valley Elem School,,54.44%,,N,248,
-ne,280001,Omaha Public Schools,009-9,Omaha North Magnet High School,,48.46%,,N,2045,
-ne,280001,Omaha Public Schools,212,Omaha Northwest High Magnet School,,54.04%,,N,1734,
-ne,280001,Omaha Public Schools,213,Omaha Public Schools Homebased,,0.00%,,N,,
-ne,280001,Omaha Public Schools,013-5,Omaha South Magnet High School,,49.71%,,N,2788,
-ne,280001,Omaha Public Schools,051-0,Parrish Program,,0.00%,,N,,
-ne,280001,Omaha Public Schools,153,Pawnee Elem School,,48.48%,,N,429,
-ne,280001,Omaha Public Schools,148,Picotte Elementary School,,24.93%,,N,,
-ne,280001,Omaha Public Schools,155,Pinewood Elem School,,56.02%,,N,266,
-ne,280001,Omaha Public Schools,159,Ponca Elem School,,28.48%,,N,,
-ne,280001,Omaha Public Schools,209,Prairie Wind Elem School,,51.40%,,N,751,
-ne,280001,Omaha Public Schools,033-1,R M Marrs Magnet Middle School,,56.97%,,N,1248,
-ne,280001,Omaha Public Schools,165,Rose Hill Elem School,,58.82%,,N,289,
-ne,280001,Omaha Public Schools,168,Saddlebrook Elementary School,,13.57%,,N,,
-ne,280001,Omaha Public Schools,223,Secondary Success Program,,0.00%,,N,,
-ne,280001,Omaha Public Schools,173,Sherman Elem School,,83.70%,,N,227,
-ne,280001,Omaha Public Schools,214,Skinner Magnet Center,,84.15%,,N,429,
-ne,280001,Omaha Public Schools,175,Spring Lake Magnet Center,,64.93%,,N,804,
-ne,280001,Omaha Public Schools,177,Springville Elem School,,36.73%,,N,441,
-ne,280001,Omaha Public Schools,178,Standing Bear Elementary Sch,,23.43%,,N,,
-ne,280001,Omaha Public Schools,179,Sunny Slope Elem School,,56.87%,,N,415,
-ne,280001,Omaha Public Schools,215,Transition Program At Pva,,0.00%,,N,,
-ne,280001,Omaha Public Schools,224,Uno/Ops Middle College Program,,0.00%,,N,,
-ne,280001,Omaha Public Schools,185,Wakonda Elem School,,80.30%,,N,401,
-ne,280001,Omaha Public Schools,187,Walnut Hill Elem School,,77.20%,,N,443,
-ne,280001,Omaha Public Schools,189,Washington Elem School,,43.49%,,N,315,
-ne,280001,Omaha Public Schools,191,Western Hills Magnet Center,,64.86%,,N,333,
-ne,280001,Omaha Public Schools,046-0,Wilson Focus School,,41.05%,,N,229,
-ne,880005,Ord Public Schools,001-98,Ord Jr-Sr High School,,30.86%,,N,269,
-ne,880005,Ord Public Schools,002-81,Ord Elementary School,,39.58%,,N,336,
-ne,770027,Papillion-La Vista School,001-99,Papillion La Vista Senior High,,16.95%,,N,,
-ne,770027,Papillion-La Vista School,002-82,Papillion Middle School,,15.87%,,N,,
-ne,770027,Papillion-La Vista School,003-41,G Stanley Hall Elementary Sch,,41.52%,,N,395,
-ne,770027,Papillion-La Vista School,004-27,La Vista Middle School,,17.40%,,N,,
-ne,770027,Papillion-La Vista School,005-21,La Vista West Elementary Sch,,38.12%,,N,341,
-ne,770027,Papillion-La Vista School,006-20,Tara Heights Elementary School,,17.17%,,N,,
-ne,770027,Papillion-La Vista School,007-10,Trumble Park Elementary School,,16.44%,,N,,
-ne,770027,Papillion-La Vista School,008-7,Parkview Heights Elem School,,35.48%,,N,451,
-ne,770027,Papillion-La Vista School,009-10,Carriage Hill Elementary Sch,,32.58%,,N,442,
-ne,770027,Papillion-La Vista School,010-8,Golden Hills Elementary School,,34.21%,,N,304,
-ne,770027,Papillion-La Vista School,011-8,Portal Elementary School,,13.46%,,N,,
-ne,770027,Papillion-La Vista School,012-7,Anderson Grove Elementary Sch,,12.46%,,N,,
-ne,770027,Papillion-La Vista School,013-6,Hickory Hill Elementary Sch,,13.05%,,N,,
-ne,770027,Papillion-La Vista School,014-5,Rumsey Station Elementary Sch,,7.99%,,N,,
-ne,770027,Papillion-La Vista School,016-4,Walnut Creek Elementary,,14.40%,,N,,
-ne,770027,Papillion-La Vista School,018-3,Papillion La Vista South Hs,,11.71%,,N,,
-ne,770027,Papillion-La Vista School,019-5,Patriot Elementary,,6.44%,,N,,
-ne,770027,Papillion-La Vista School,020-1,Bell Elementary,,7.05%,,N,,
-ne,770027,Papillion-La Vista School,021-2,Prairie Queen Elementary,,1.52%,,N,,
-ne,770027,Papillion-La Vista School,022-1,Liberty Middle School,,12.50%,,N,,
-ne,770027,Papillion-La Vista School,300-1,Sarpy Co Coop Head Start-Papillion-La Vista,,83.13%,,N,83,
-ne,670001,Pawnee City Public School,001-100,Pawnee City Secondary School,,28.24%,,N,,
-ne,670001,Pawnee City Public School,002-83,Pawnee City Elementary Sch,,46.91%,,N,162,
-ne,510006,Paxton Consolidated School,001-101,Paxton High School,,28.71%,,N,,
-ne,510006,Paxton Consolidated School,002-84,Paxton Elementary School,,34.75%,,N,118,
-ne,700005,Plainview Public School,001-102,Plainview Secondary School,,29.10%,,N,,
-ne,700005,Plainview Public School,002-85,Plainview Elementary School,,35.87%,,N,184,
-ne,130001,Plattsmouth Comm. Schools,001-103,Plattsmouth High School,,21.11%,,N,,
-ne,130001,Plattsmouth Comm. Schools,003-42,Plattsmouth Middle School,,28.45%,,N,,
-ne,130001,Plattsmouth Comm. Schools,009-11,Plattsmouth Elementary School,,35.46%,,N,454,
-ne,170009,Potter-Dix Public School,001-104,Potter-Dix Jr/Sr High School,,34.83%,,N,89,
-ne,170009,Potter-Dix Public School,003-43,Potter-Dix Elementary School,,38.24%,,N,102,
-ne,280054,Ralston Public Schools,001-105,Ralston High School,,32.78%,,N,1077,
-ne,280054,Ralston Public Schools,003-44,Karen Western Elementary Sch,,59.89%,61.69%,Y,201,
-ne,280054,Ralston Public Schools,002-86,Ralston Middle School,,40.79%,,N,456,
-ne,280054,Ralston Public Schools,004-28,Mockingbird Elementary School,,57.69%,,N,390,
-ne,280054,Ralston Public Schools,006-21,Seymour Elementary School,,45.85%,,N,253,
-ne,280054,Ralston Public Schools,007-11,Blumfield Elementary School,,49.10%,,N,389,
-ne,280054,Ralston Public Schools,008-8,Wildewood Elementary School,,33.77%,,N,305,
-ne,280054,Ralston Public Schools,009-12,Meadows Elementary School,,35.88%,,N,354,
-ne,140045,Randolph Public Schools,001-106,Randolph High School,,17.00%,,N,,
-ne,140045,Randolph Public Schools,002-87,Randolph Elementary School,,30.26%,,N,152,
-ne,100069,Ravenna Public Schools,001-107,Ravenna Senior High,,18.14%,,N,,
-ne,100069,Ravenna Public Schools,002-88,Ravenna Elementary School,,36.36%,,N,242,
-ne,910002,Red Cloud Community School,001-108,Red Cloud High School,,40.24%,,N,82,
-ne,910002,Red Cloud Community School,002-89,Red Cloud Elementary School,,50.30%,,N,169,
-ne,060075,Riverside Public School,001-109,Riverside High School,,20.00%,,N,,
-ne,060075,Riverside Public School,002-90,Riverside Middle School,,29.09%,,N,,
-ne,060075,Riverside Public School,003-45,Riverside Elementary - Cedar Rapids,,44.16%,,N,77,
-ne,060075,Riverside Public School,004-29,Riverside Elementary - Spalding,,15.09%,,N,,
-ne,750100,Rock County Public Schools,001-110,Rock County High School,,29.36%,,N,,
-ne,750100,Rock County Public Schools,003-46,Pony Lake School,,0.00%,,N,,
-ne,750100,Rock County Public Schools,006-22,Bassett Grade School,,32.00%,,N,125,
-ne,550708,Sacred Heart School - Lincoln,001-111,Sacred Heart Elem School,,34.21%,,N,152,
-ne,280741,Sacred Heart School - Omaha,001-112,Sacred Heart Elementary School,,62.59%,59.40%,Y,133,
-ne,050071,Sandhills Public Schools,001-113,High School At Dunning,,20.00%,,N,,
-ne,050071,Sandhills Public Schools,002-91,Elementary School At Halsey,,34.00%,,N,50,
-ne,540505,Santee Community School,001-114,Santee High School,,91.89%,,N,74,
-ne,540505,Santee Community School,002-92,Santee Elementary School,,96.26%,,N,107,
-ne,210084,Sargent Public School,001-115,Sargent High School,,29.63%,,N,,
-ne,210084,Sargent Public School,002-93,Sargent Elementary School,,51.69%,,N,89,
-ne,190123,Schuyler Community Schools,001-116,Schuyler Central High School,,26.86%,,N,,
-ne,190123,Schuyler Community Schools,002-94,Richland Elementary School,,45.16%,,N,31,
-ne,190123,Schuyler Community Schools,003-47,Schuyler Elementary School,,38.63%,,N,787,
-ne,190123,Schuyler Community Schools,005-22,Schuyler Elementary-Fisher'S,,21.54%,,N,,
-ne,190123,Schuyler Community Schools,008-9,Schuyler Middle School,,36.41%,,N,401,
-ne,190123,Schuyler Community Schools,009-13,North Ward Prekindergarten,,44.05%,,N,84,
-ne,790032,Scottsbluff Public Schools,001-117,Scottsbluff Senior High School,,40.96%,,N,1023,
-ne,790032,Scottsbluff Public Schools,002-95,Bluffs Middle School,,42.73%,,N,777,
-ne,790032,Scottsbluff Public Schools,003-48,Lincoln Heights Elementary Sch,,59.20%,,N,326,
-ne,790032,Scottsbluff Public Schools,004-30,Longfellow Elementary School,,43.44%,,N,419,
-ne,790032,Scottsbluff Public Schools,005-23,Roosevelt Elementary School,,80.77%,,N,312,
-ne,790032,Scottsbluff Public Schools,006-23,Westmoor Elementary School,,51.44%,,N,418,
-ne,790032,Scottsbluff Public Schools,008-10,Lake Minatare School,,31.58%,,N,76,
-ne,790032,Scottsbluff Public Schools,010-9,Early Childhood Learning Center,,62.50%,,N,120,
-ne,270062,Scribner-Snyder Schools,001-118,Scribner-Snyder Secondary Sch,,46.07%,,N,89,
-ne,270062,Scribner-Snyder Schools,002-96,Elementary School At Scribner,,40.00%,,N,115,
-ne,170001,Sidney Public School,001-119,Sidney High School,,25.00%,,N,,
-ne,170001,Sidney Public School,002-97,Sidney Middle School,,27.38%,,N,,
-ne,170001,Sidney Public School,003-49,Central Elementary School,,41.01%,,N,217,
-ne,170001,Sidney Public School,004-31,North Ward Elementary School,,35.57%,,N,194,
-ne,170001,Sidney Public School,005-24,South Ward Elementary School,,30.81%,,N,172,
-ne,170001,Sidney Public School,006-24,West Elementary School,,37.30%,,N,185,
-ne,010123,Silver Lake Public School,001-120,Silver Lake High School,,19.35%,,N,,
-ne,010123,Silver Lake Public School,002-98,Silver Lake Elem Sch-Bladen,,31.82%,,N,154,
-ne,830500,Sioux County Schools,001-121,Sioux County High School,,29.03%,,N,,
-ne,830500,Sioux County Schools,004-32,Harrison Grade School,,27.45%,,N,,
-ne,830500,Sioux County Schools,006-25,Pink School,,25.00%,,N,,
-ne,830500,Sioux County Schools,009-14,Chalk Butte School,,,,N,10,
-ne,652005,South Central Nebraska Unified District #5,001-122,Sandy Creek High School,,22.40%,,N,,
-ne,652005,South Central Nebraska Unified District #5,002-99,Sandy Creek Elementary School,,37.06%,,N,170,
-ne,652005,South Central Nebraska Unified District #5,006-26,Lawrence/Nelson High Sch,,32.31%,,N,65,
-ne,652005,South Central Nebraska Unified District #5,007-12,Lawrence/Nelson Elementary Sch,,27.66%,,N,,
-ne,652005,South Central Nebraska Unified District #5,010-10,Clay Co Learning Center - Fairfield,,35.82%,,N,67,
-ne,652005,South Central Nebraska Unified District #5,011-9,Lawrence Early Learning Center,,22.22%,,N,,
-ne,652005,South Central Nebraska Unified District #5,012-8,Sandy Creek Middle School,,30.77%,,N,91,
-ne,250095,South Platte Public Schools,001-123,South Platte High School,,26.37%,,N,,
-ne,250095,South Platte Public Schools,002-100,So Platte Elem At Big Springs,,51.58%,,N,95,
-ne,220011,South Sioux City School District #11,001-124,South Sioux High School,,33.39%,,N,1189,
-ne,220011,South Sioux City School District #11,003-50,South Sioux City Middle School,,43.32%,,N,808,
-ne,220011,South Sioux City School District #11,004-33,E N Swett Elementary School,,52.42%,,N,269,
-ne,220011,South Sioux City School District #11,005-25,Harney Elementary School,,58.36%,,N,353,
-ne,220011,South Sioux City School District #11,006-27,Lewis & Clark Elementary Sch,,62.86%,,N,245,
-ne,220011,South Sioux City School District #11,007-13,Dakota City Elementary School,,52.04%,,N,196,
-ne,220011,South Sioux City School District #11,008-11,Cardinal Elementary School,,39.48%,,N,423,
-ne,220011,South Sioux City School District #11,011-10,Covington Elementary School,,49.74%,,N,382,
-ne,340001,Southern Public Schools,001-125,Southern High School,,42.51%,,N,167,
-ne,340001,Southern Public Schools,002-101,Southern Elementary School,,64.77%,,N,193,
-ne,330540,Southern Valley Schools,001-126,Southern Valley Jr/Sr High,,28.35%,,N,,
-ne,330540,Southern Valley Schools,007-14,So Valley Elementary School,,36.98%,,N,192,
-ne,730179,Southwest Public Schools,005-26,Southwest Elementary-Indianola,,37.82%,,N,156,
-ne,730179,Southwest Public Schools,007-15,Southwest Jr/Sr High School,,25.33%,,N,,
-ne,390702,Spalding Academy,001-127,Spalding Academy High School,,44.83%,,N,29,
-ne,390702,Spalding Academy,002-102,Spalding Academy Elem School,,13.46%,,N,,
-ne,490702,St. Andrew'S School,001-128,St Andrew Elementary School,,61.11%,66.67%,Y,27,
-ne,870701,St. Augustine Indian Mission School,001-129,St Augustine Elementary School,,44.86%,56.99%,Y,93,
-ne,060017,St. Edward Public School,001-130,St Edward High School,,32.50%,,N,80,
-ne,060017,St. Edward Public School,002-103,St Edward Elementary School,,45.63%,,N,103,
-ne,550714,St. Mary'S School - Lincoln,001-131,St Mary'S Elementary School,,30.87%,,N,149,
-ne,880701,St. Mary'S School - Ord,001-132,St Mary'S Elementary School,,30.95%,,N,42,
-ne,280757,St. Paul Lutheran School -  Omaha,001-133,St Paul Lutheran Elem School,,60.87%,,N,46,
-ne,280759,St. Peter And Paul School,001-134,Sts Peter & Paul Elem School,,31.54%,51.17%,Y,299,
-ne,570501,Stapleton Public School,001-135,Stapleton High School,,20.79%,,N,,
-ne,570501,Stapleton Public School,002-104,Stapleton Elementary School,,34.91%,,N,106,
-ne,490033,Sterling Public School,001-136,Sterling High School,,18.00%,,N,,
-ne,490033,Sterling Public School,002-105,Sterling Elementary School,,31.03%,,N,116,
-ne,240101,Sumner Eddyville Miller School,001-137,Junior-Senior High At Sumner,,29.47%,,N,,
-ne,240101,Sumner Eddyville Miller School,002-106,Elementary School At Sumner,,42.86%,,N,112,
-ne,650011,Superior Public School,001-138,Superior Jr/Sr High School,,31.47%,,N,197,
-ne,650011,Superior Public School,005-27,Superior Elementary School,,46.35%,,N,233,
-ne,180002,Sutton Public Schools,001-139,Sutton Secondary School,,25.53%,,N,,
-ne,180002,Sutton Public Schools,002-107,Sutton Elementary School,,31.53%,,N,222,
-ne,850070,Thayer Central Community Schools,001-140,Thayer Central High School,,19.77%,,N,,
-ne,850070,Thayer Central Community Schools,003-51,Thayer Central Elementary,,32.89%,,N,298,
-ne,860001,Thedford Rural High School,001-141,Thedford High School,,34.48%,,N,58,
-ne,860001,Thedford Rural High School,003-52,Thedford Elem Attendance Cntr,,32.86%,,N,70,
-ne,630030,Twin River Public School,001-142,Twin River Sr High School,,15.03%,,N,,
-ne,630030,Twin River Public School,003-53,Twin River Elem-Genoa,,25.64%,,N,,
-ne,630030,Twin River Public School,004-34,Twin River Elem-Silver Creek,,40.00%,,N,30,
-ne,870016,Umo 'Ho' Nation Public School,002-108,Umo N Ho N Nation High School,,,,N,128,
-ne,870016,Umo 'Ho' Nation Public School,001-143,Umo N Ho N Nation Elem School,,98.44%,85.49%,Y,455,
-ne,870016,Umo 'Ho' Nation Public School,003-54,Umo N Ho N Nation Middle Sch,,95.56%,,N,90,
-ne,160006,Valentine Community Schools,001-144,Valentine High School,,24.49%,,N,,
-ne,160006,Valentine Community Schools,002-109,Valentine Elementary School,,38.11%,,N,244,
-ne,160006,Valentine Community Schools,003-55,Valentine Middle School,,25.00%,,N,,
-ne,780039,Wahoo Public Schools,001-145,Wahoo High School,,14.51%,,N,,
-ne,780039,Wahoo Public Schools,002-110,Wahoo Middle School,,17.21%,,N,,
-ne,780039,Wahoo Public Schools,003-56,Wahoo Elementary School,,27.88%,,N,,
-ne,780039,Wahoo Public Schools,004-35,Wahoo Pre-School,,66.67%,,N,48,
-ne,900560,Wakefield Community School,001-146,Wakefield High School,,22.71%,,N,,
-ne,900560,Wakefield Community School,002-111,Wakefield Elementary School,,37.84%,,N,333,
-ne,870013,Walthill Public School,001-147,Walthill High School,,59.76%,,N,169,
-ne,870013,Walthill Public School,002-112,Walthill Elementary School,,82.32%,65.33%,Y,300,
-ne,150536,Wauneta-Palisade Public School,001-148,Wauneta-Palisade High School,,25.37%,,N,,
-ne,150536,Wauneta-Palisade Public School,003-57,Palisade Attendance Center,,41.18%,,N,119,
-ne,150536,Wauneta-Palisade Public School,004-36,Wauneta Palisade Middle School,,47.17%,,N,53,
-ne,900017,Wayne Public School,001-149,Wayne High School,,16.83%,,N,,
-ne,900017,Wayne Public School,005-28,Wayne Elementary School,,28.32%,,N,,
-ne,900017,Wayne Public School,006-28,Wayne Junior High School,,20.00%,,N,,
-ne,900017,Wayne Public School,300-2,Wayne Early Learning Center,,52.78%,,N,36,
-ne,200001,West Point Public School,001-150,West Point-Beemer High School,,31.90%,,N,279,
-ne,200001,West Point Public School,002-113,West Point Elementary School,,38.78%,,N,263,
-ne,200001,West Point Public School,004-37,West Point - Beemer Middle School,,36.08%,,N,194,
-ne,280066,Westside Community Schools,003-58,Carl A Swanson Elementary Sch,,11.56%,,N,,
-ne,280066,Westside Community Schools,005-29,Hillside Elementary School,,32.82%,,N,390,
-ne,280066,Westside Community Schools,007-16,Loveland Elementary School,,18.18%,,N,,
-ne,280066,Westside Community Schools,008-12,Oakdale Elementary School,,13.55%,,N,,
-ne,280066,Westside Community Schools,009-15,Paddock Road Elementary School,,30.04%,,N,263,
-ne,280066,Westside Community Schools,016-5,Prairie Lane Elementary School,,12.75%,,N,,
-ne,280066,Westside Community Schools,013-7,Rockbrook Elementary School,,17.14%,,N,,
-ne,280066,Westside Community Schools,011-11,Sunset Hills Elementary School,,8.38%,,N,,
-ne,280066,Westside Community Schools,049-0,Westbrook Elementary School,,48.19%,40.54%,Y,624,
-ne,280066,Westside Community Schools,010-11,Westgate Elementary School,,51.65%,55.16%,Y,281,
-ne,280066,Westside Community Schools,001-151,Westside High School,,20.14%,,N,,
-ne,280066,Westside Community Schools,018-4,Westside Middle School,,25.34%,,N,,
-ne,870017,Winnebago Public School,002-114,Winnebago High School,,66.67%,,N,174,
-ne,870017,Winnebago Public School,001-152,Winnebago Elementary School,,76.46%,73.00%,Y,537,
-ne,400083,Wood River Rural Schools,001-153,Wood River Rural High School,,29.03%,,N,,
-ne,400083,Wood River Rural Schools,002-115,Wood River Rural Middle School,,29.57%,,N,,
-ne,400083,Wood River Rural Schools,003-59,Wood River Elementary School,,44.36%,,N,257,
-ne,140101,Wynot Public School,001-154,Wynot High School,,16.67%,,N,,
-ne,140101,Wynot Public School,002-116,Wynot Elementary School,,30.67%,,N,75,
-ne,140101,Wynot Public School,003-60,Wynot Middle School,,31.48%,,N,54,
-ne,930012,York Public Schools,001-155,York High School,,23.94%,,N,,
-ne,930012,York Public Schools,003-61,York Middle School,,29.43%,,N,,
-ne,930012,York Public Schools,007-17,York Elementary School,,39.92%,,N,531,
-ne,010705,Zion Lutheran School - Hastings,001-156,Zion Lutheran Elementary Sch,,31.94%,,N,72,
+state,District Code,District Name,School Code,School Name,individual_isp,proxy_isp,claiming_isp,participating_in_cep,total_enrolled,total_eligible
+ne,90010,AINSWORTH CITY SCHOOL,11,AINSWORTH LITTLE PAWS PRESCHOOL,58.97%,,,N,39,23
+ne,70006,ALLIANCE PUBLIC SCHOOLS,1,ALLIANCE HIGH SCHOOL,42.55%,,,N,423,180
+ne,70006,ALLIANCE PUBLIC SCHOOLS,4,EMERSON ELEMENTARY SCHOOL,44.16%,,,N,308,136
+ne,210044,ANSLEY PUBLIC SCHOOL,2,ANSLEY ELEMENTARY SCHOOL,44.95%,,,N,109,49
+ne,640029,AUBURN PUBLIC SCHOOL,1-0,AUBURN HIGH SCHOOL,51.27%,,,N,236,121
+ne,410504,AURORA PUBLIC SCHOOLS,4-0,AURORA PRESCHOOL,40.30%,,,N,67,27
+ne,200020,Bancroft-Rosalie School,1-1,Bancroft-Rosalie School,41.56%,,41.56%,Y,308,128
+ne,040001,Banner County School,1-2,Banner County School,45.67%,,45.67%,Y,127,58
+ne,340015,BEATRICE PUBLIC SCHOOL,4-1,LINCOLN ELEMENTARY SCHOOL,48.97%,,,N,194,95
+ne,340015,BEATRICE PUBLIC SCHOOL,6,PADDOCK LANE SCHOOL,50.00%,,,N,366,183
+ne,340015,BEATRICE PUBLIC SCHOOL,11-0,BEATRICE COMMUNITY PRESCHOOL,54.42%,,,N,215,117
+ne,770001,BELLEVUE PUBLIC SCHOOLS,6-0,BELLEAIRE ELEMENTARY SCHOOL,48.83%,,,N,299,146
+ne,770001,BELLEVUE PUBLIC SCHOOLS,8,BETZ ELEMENTARY SCHOOL,55.63%,,,N,293,163
+ne,770001,BELLEVUE PUBLIC SCHOOLS,11-1,BIRCHCREST ELEMENTARY SCHOOL,43.06%,,,N,360,155
+ne,620063,Bridgeport Public School,1-3,Bridgeport Public School,40.18%,,40.18%,Y,448,180
+ne,230002,CHADRON CITY SCHOOLS,4-2,CHADRON INTERMEDIATE,43.15%,,,N,146,63
+ne,710001,COLUMBUS PUBLIC SCHOOL,3,EMERSON ELEMENTARY SCHOOL,47.96%,,,N,294,141
+ne,760002,Crete Public Schools,6-1,Crete Intermediate,43.51%,,41.20%,Y,416,181
+ne,760002,Crete Public Schools,3-0,Crete Middle School,39.04%,,41.20%,Y,438,171
+ne,760002,Crete Public Schools,8-0,CRETE PRESCHOOL,54.02%,,,N,224,121
+ne,290117,DUNDY COUNTY PUBLIC SCHOOL,1-4,DUNDY CO STRATTON HIGH SCHOOL,40.80%,,,N,125,51
+ne,290117,DUNDY COUNTY PUBLIC SCHOOL,2-0,BENKELMAN ELEMENTARY SCHOOL,40.14%,,,N,142,57
+ne,470103,Elba Public School,1-5,Elba Public School,45.45%,,45.45%,Y,121,55
+ne,260561,EMERSON-HUBBARD SCHOOLS,4-3,EMERSON-HUBBARD MIDDLE SCHOOL,46.15%,,,N,65,30
+ne,480008,FAIRBURY PUBLIC SCHOOL,3-1,CENTRAL ELEMENTARY SCHOOL,42.40%,,,N,283,120
+ne,740056,FALLS CITY PUBLIC SCHOOL,2-1,FALLS CITY MIDDLE SCHOOL,44.91%,,,N,167,75
+ne,310506,FRANKLIN PUBLIC SCHOOL,2-2,FRANKLIN ELEMENTARY SCHOOL,40.88%,,,N,159,65
+ne,270001,FREMONT PUBLIC SCHOOL,2-3,FREMONT MIDDLE SCHOOL,42.46%,,,N,756,321
+ne,270001,FREMONT PUBLIC SCHOOL,5,GRANT ELEMENTARY SCHOOL,60.96%,,,N,146,89
+ne,270001,FREMONT PUBLIC SCHOOL,7,LINDEN ELEMENTARY SCHOOL,41.62%,,,N,346,144
+ne,270001,FREMONT PUBLIC SCHOOL,9,WASHINGTON ELEMENTARY SCHOOL,50.41%,,,N,365,184
+ne,270001,FREMONT PUBLIC SCHOOL,15,MILLIKEN PARK ELEMENTARY SCH,40.86%,,,N,257,105
+ne,270001,FREMONT PUBLIC SCHOOL,16,BELL FIELD ELEMENTARY SCHOOL,50.00%,,,N,306,153
+ne,270001,FREMONT PUBLIC SCHOOL,19,JOHNSON CROSSING ACADEMIC CENTER (5-6),41.71%,,,N,700,292
+ne,350001,GARDEN COUNTY SCHOOLS,1-6,GARDEN COUNTY JUNIOR/SENIOR HIGH SCHOOL,46.73%,,,N,107,50
+ne,350001,GARDEN COUNTY SCHOOLS,2-4,GARDEN COUNTY ELEMENTARY SCH,46.77%,,,N,124,58
+ne,790016,GERING PUBLIC SCHOOL,5-0,NORTHFIELD ELEMENTARY SCHOOL,48.44%,,,N,256,124
+ne,790016,GERING PUBLIC SCHOOL,7-0,GERING EARLY CHILDHOOD PROGRAM,51.21%,,,N,248,127
+ne,810010,Gordon-Rushville Public Schools,2-5,Gordon-Rushville Elementary at Gordon,78.77%,,48.80%,Y,179,141
+ne,810010,Gordon-Rushville Public Schools,3-2,Gordon-Rushville High School,40.30%,,48.80%,Y,134,54
+ne,810010,Gordon-Rushville Public Schools,1-7,Gordon-Rushville Middle School,30.43%,,48.80%,Y,230,70
+ne,240020,GOTHENBURG PUBLIC SCHOOL,6-2,SWEDE PRESCHOOL ACADEMY,65.71%,,,N,35,23
+ne,400002,Grand Island Public School,1-8,Dodge Elementary,56.90%,,59.68%,Y,413,235
+ne,400002,Grand Island Public School,25,Early Learning Center,59.58%,,59.68%,Y,240,143
+ne,400002,Grand Island Public School,29,EF Starr Elementary,60.97%,,59.68%,Y,433,264
+ne,400002,Grand Island Public School,2-6,Howard Elementary,62.57%,,59.68%,Y,366,229
+ne,400002,Grand Island Public School,9-0,Jefferson Elementary,60.12%,,59.68%,Y,341,205
+ne,400002,Grand Island Public School,6-3,Knickrehm Elementary,63.13%,,59.68%,Y,217,137
+ne,400002,Grand Island Public School,3-3,Lincoln Elementary,62.25%,,59.68%,Y,355,221
+ne,400002,Grand Island Public School,13,Seedling Mile Elementary,55.93%,,59.27%,Y,118,66
+ne,400002,Grand Island Public School,15-0,Wasmer Elementary,59.25%,,59.68%,Y,346,205
+ne,400002,Grand Island Public School,14,West Lawn Elementary,60.61%,,59.27%,Y,297,180
+ne,400002,Grand Island Public School,2-7,BARR MIDDLE SCHOOL,43.60%,,,N,789,344
+ne,400002,Grand Island Public School,4-4,WALNUT MIDDLE SCHOOL,45.53%,,,N,872,397
+ne,400002,Grand Island Public School,5-1,GATES ELEMENTARY SCHOOL,47.40%,,,N,327,155
+ne,400002,Grand Island Public School,12,STARR ELEMENTARY SCHOOL,63.10%,,,N,420,265
+ne,400002,Grand Island Public School,15-1,SEEDLING MILE ELEM SCHOOL,54.17%,,,N,96,52
+ne,400002,Grand Island Public School,16-0,STOLLEY PARK ELEM SCHOOL,42.02%,,,N,307,129
+ne,400002,Grand Island Public School,22,EARLY LEARNING CENTER,57.88%,,,N,273,158
+ne,180011,Harvard Public School,1-9,Harvard School,59.48%,,59.48%,Y,269,160
+ne,10018,HASTINGS PUBLIC SCHOOLS,3-4,ALCOTT ELEMENTARY SCHOOL,53.18%,,,N,299,159
+ne,10018,HASTINGS PUBLIC SCHOOLS,5-2,LINCOLN ELEMENTARY SCHOOL,68.12%,,,N,345,235
+ne,10018,HASTINGS PUBLIC SCHOOLS,6-4,LONGFELLOW ELEMENTARY SCHOOL,40.38%,,,N,317,128
+ne,690044,HOLDREGE SCHOOLS,8-1,HOLDREGE PUBLIC SCHOOLS EARLY CHILDHOOD ED CTR,69.39%,,,N,49,34
+ne,280722,Holy Name School,1-10,Holy Name School,57.47%,,57.47%,Y,261,150
+ne,280722,Holy Name School,2-8,HOLY NAME ELEMENTARY SCHOOL,56.37%,,,N,259,146
+ne,540505,Isanti Community School,1-11,Isanti School,76.00%,,76.00%,Y,250,190
+ne,280702,JESUIT ACADEMY,1-12,JESUIT ACADEMY,47.30%,,,N,74,35
+ne,490050,JOHNSON COUNTY CENTRAL PUBLIC SCHOOL,4-5,JOHNSON CO CENTRAL ELEM-COOK,42.17%,,,N,83,35
+ne,100007,KEARNEY PUBLIC SCHOOLS,3-5,BRYANT ELEMENTARY SCHOOL,44.53%,,,N,247,110
+ne,100007,KEARNEY PUBLIC SCHOOLS,4-6,EMERSON ELEMENTARY SCHOOL,55.42%,,,N,240,133
+ne,100007,KEARNEY PUBLIC SCHOOLS,8-2,CENTRAL ELEMENTARY SCHOOL,50.19%,,,N,269,135
+ne,530001,KIMBALL PUBLIC SCHOOLS,3-6,MARY LYNCH ELEMENTARY,43.98%,,,N,241,106
+ne,670069,LEWISTON CONSOLIDATED SCHOOL,2-9,LEWISTON ELEMENTARY SCHOOL,42.59%,,,N,108,46
+ne,240001,LEXINGTON PUBLIC SCHOOLS,4-7,MORTON ELEMENTARY SCHOOL,47.68%,,,N,323,154
+ne,240001,LEXINGTON PUBLIC SCHOOLS,5-3,PERSHING ELEMENTARY SCHOOL,48.80%,,,N,334,163
+ne,240001,LEXINGTON PUBLIC SCHOOLS,6-5,SANDOZ ELEMENTARY SCHOOL,46.05%,,,N,304,140
+ne,240001,LEXINGTON PUBLIC SCHOOLS,9-1,EARLY LEARNING ACADEMY,54.79%,,,N,261,143
+ne,550001,Lincoln Public Schools,12-0,Belmont Elementary,65.57%,,71.20%,Y,819,537
+ne,550001,Lincoln Public Schools,11-2,Clinton Elementary,78.34%,,71.20%,Y,397,311
+ne,550001,Lincoln Public Schools,8-3,Elliott Elementary,67.72%,,71.20%,Y,378,256
+ne,550001,Lincoln Public Schools,15-2,Everett Elementary,65.25%,,71.20%,Y,377,246
+ne,550001,Lincoln Public Schools,1-13,Hartley Elementary ,69.28%,,71.20%,Y,345,239
+ne,550001,Lincoln Public Schools,36,Huntington Elementary,66.76%,,71.20%,Y,373,249
+ne,550001,Lincoln Public Schools,2-10,McPhee Elementary,67.71%,,71.20%,Y,288,195
+ne,550001,Lincoln Public Schools,20,West Lincoln Elementary,68.80%,,71.20%,Y,500,344
+ne,550001,Lincoln Public Schools,1-14,LINCOLN HIGH SCHOOL,43.71%,,,N,2304,1007
+ne,550001,Lincoln Public Schools,2-11,CULLER MIDDLE SCHOOL,61.20%,,,N,719,440
+ne,550001,Lincoln Public Schools,3-7,LINCOLN NORTHEAST HIGH SCHOOL,48.39%,,,N,1862,901
+ne,550001,Lincoln Public Schools,4-8,DAWES MIDDLE SCHOOL,62.04%,,,N,411,255
+ne,550001,Lincoln Public Schools,5-4,BELMONT ELEMENTARY SCHOOL,71.57%,,,N,837,599
+ne,550001,Lincoln Public Schools,11-3,BROWNELL ELEMENTARY SCHOOL,50.77%,,,N,323,164
+ne,550001,Lincoln Public Schools,12-1,LEFLER MIDDLE SCHOOL,44.19%,,,N,568,251
+ne,550001,Lincoln Public Schools,14-0,CALVERT ELEMENTARY SCHOOL,53.44%,,,N,363,194
+ne,550001,Lincoln Public Schools,16-1,MCPHEE ELEMENTARY SCHOOL,77.89%,,,N,303,236
+ne,550001,Lincoln Public Schools,18,CLINTON ELEMENTARY SCHOOL,90.55%,,,N,402,364
+ne,550001,Lincoln Public Schools,19-0,GOODRICH MIDDLE SCHOOL,61.46%,,,N,833,512
+ne,550001,Lincoln Public Schools,22-0,ELLIOTT ELEMENTARY SCHOOL,77.98%,,,N,386,301
+ne,550001,Lincoln Public Schools,23,ARNOLD ELEMENTARY SCHOOL,46.37%,,,N,744,345
+ne,550001,Lincoln Public Schools,24,HARTLEY ELEMENTARY SCHOOL,82.80%,,,N,343,284
+ne,550001,Lincoln Public Schools,27,HOLMES ELEMENTARY SCHOOL,42.07%,,,N,397,167
+ne,550001,Lincoln Public Schools,28,HUNTINGTON ELEMENTARY SCHOOL,77.42%,,,N,372,288
+ne,550001,Lincoln Public Schools,29-0,LAKEVIEW ELEMENTARY SCHOOL,65.12%,,,N,410,267
+ne,550001,Lincoln Public Schools,33,NORWOOD PARK ELEMENTARY SCHOOL,53.53%,,,N,241,129
+ne,550001,Lincoln Public Schools,34,EVERETT ELEMENTARY SCHOOL,73.28%,,,N,378,277
+ne,550001,Lincoln Public Schools,35,PERSHING ELEMENTARY SCHOOL,58.53%,,,N,434,254
+ne,550001,Lincoln Public Schools,36-0,PRESCOTT ELEMENTARY SCHOOL,55.91%,,,N,499,279
+ne,550001,Lincoln Public Schools,37,RANDOLPH ELEMENTARY SCHOOL,48.30%,,,N,441,213
+ne,550001,Lincoln Public Schools,38,RILEY ELEMENTARY SCHOOL,54.74%,,,N,327,179
+ne,550001,Lincoln Public Schools,39,SARATOGA ELEMENTARY SCHOOL,68.49%,,,N,238,163
+ne,550001,Lincoln Public Schools,41,WEST LINCOLN ELEMENTARY SCHOOL,70.70%,,,N,512,362
+ne,550001,Lincoln Public Schools,53,PARK MIDDLE SCHOOL,52.71%,,,N,848,447
+ne,550001,Lincoln Public Schools,54,CAMPBELL ELEMENTARY SCHOOL,66.89%,,,N,598,400
+ne,550001,Lincoln Public Schools,57,ROPER ELEMENTARY SCHOOL,41.86%,,,N,817,342
+ne,550001,Lincoln Public Schools,65,ECSE - HOMEBASED,71.87%,,,N,455,327
+ne,550001,Lincoln Public Schools,70,NORTH STAR HIGH SCHOOL,44.07%,,,N,2242,988
+ne,590001,MADISON PUBLIC SCHOOL,3-8,MADISON MIDDLE SCHOOL,42.37%,,,N,118,50
+ne,590001,MADISON PUBLIC SCHOOL,5-5,MADISON PRESCHOOL,48.39%,,,N,62,30
+ne,790002,Minatare Public Schools,1-15,Minatare Elementary School,48.96%,,57.07%,Y,96,47
+ne,790002,Minatare Public Schools,2-12,Minatare High School,64.22%,,57.07%,Y,109,70
+ne,790002,Minatare Public Schools,1-16,MINATARE HIGH SCHOOL,69.88%,,,N,83,58
+ne,790002,Minatare Public Schools,2-13,MINATARE ELEMENTARY SCHOOL,55.56%,,,N,63,35
+ne,790002,Minatare Public Schools,3-9,MINATARE PRE-START PRE-SCHOOL,80.00%,,,N,15,12
+ne,790011,MORRILL PUBLIC SCHOOL,1-17,MORRILL HIGH SCHOOL,49.41%,,,N,170,84
+ne,790011,MORRILL PUBLIC SCHOOL,3-10,MORRILL ELEMENTARY,47.88%,,,N,165,79
+ne,790011,MORRILL PUBLIC SCHOOL,5-6,TRI COMMUNITY PRESCHOOL,53.45%,,,N,58,31
+ne,660111,NEBRASKA CITY SCHOOLS,4-9,NEBRASKA CITY NORTHSIDE ELEM,44.96%,,,N,407,183
+ne,660111,NEBRASKA CITY SCHOOLS,6-6,HAYWARD ELEMENTARY SCHOOL,45.58%,,,N,283,129
+ne,280775,Nelson Mandela Elementary School,1-18,NELSON MANDELA ELEMENTARY,57.49%,,57.49%,Y,207,119
+ne,540501,NIOBRARA PUBLIC SCHOOL,1-19,NIOBRARA SECONDARY SCHOOL,40.48%,,,N,84,34
+ne,540501,NIOBRARA PUBLIC SCHOOL,2-14,NIOBRARA ELEMENTARY SCHOOL,66.33%,,,N,98,65
+ne,590002,NORFOLK PUBLIC SCHOOLS,3-11,GRANT ELEMENTARY SCHOOL,60.93%,,,N,215,131
+ne,590002,NORFOLK PUBLIC SCHOOLS,4-10,JEFFERSON ELEMENTARY SCHOOL,48.42%,,,N,221,107
+ne,590002,NORFOLK PUBLIC SCHOOLS,8-4,WASHINGTON ELEMENTARY SCHOOL,45.45%,,,N,220,100
+ne,590002,NORFOLK PUBLIC SCHOOLS,9-2,WESTSIDE ELEMENTARY SCHOOL,44.76%,,,N,210,94
+ne,560001,North Platte Public School,1-20,Buffalo Elementary,66.00%,,50.87%,Y,150,99
+ne,560001,North Platte Public School,13-0,Cody Elementary,45.31%,,50.87%,Y,256,116
+ne,560001,North Platte Public School,7-1,Eisenhower Elementary,20.18%,,50.87%,Y,218,44
+ne,560001,North Platte Public School,2-15,Jefferson Elementary,65.46%,,50.87%,Y,304,199
+ne,560001,North Platte Public School,3-12,Lincoln Elementary,69.74%,,50.87%,Y,228,159
+ne,560001,North Platte Public School,5-7,Washington Elementary,40.00%,,50.87%,Y,265,106
+ne,560001,North Platte Public School,3-13,BUFFALO ELEMENTARY SCHOOL,75.00%,,,N,64,48
+ne,560001,North Platte Public School,4-11,MADISON MIDDLE SCHOOL,40.00%,,,N,270,108
+ne,560001,North Platte Public School,5-8,CODY ELEMENTARY SCHOOL,55.71%,,,N,210,117
+ne,560001,North Platte Public School,6-7,JEFFERSON ELEMENTARY SCHOOL,66.36%,,,N,327,217
+ne,560001,North Platte Public School,7-2,LINCOLN ELEMENTARY SCHOOL,73.94%,,,N,307,227
+ne,560001,North Platte Public School,9-3,WASHINGTON ELEMENTARY SCHOOL,41.07%,,,N,224,92
+ne,560001,North Platte Public School,12-2,OSGOOD ELEMENTARY SCHOOL,47.37%,,,N,38,18
+ne,400082,NORTHWEST PUBLIC SCHOOLS,6-8,LOCKWOOD ELEMENTARY SCHOOL,48.15%,,,N,27,13
+ne,510001,OGALLALA PUBLIC SCHOOL,7-3,PRAIRIE VIEW SCHOOL,40.55%,,,N,550,223
+ne,280001,Omaha Public Schools,54-0,Adams,63.08%,,62.50%,Y,260,164
+ne,280001,Omaha Public Schools,86,Alice Buffett Middle School,37.50%,,62.50%,Y,1040,390
+ne,280001,Omaha Public Schools,1-21,Ashland Park/Robbins,63.08%,,62.50%,Y,845,533
+ne,280001,Omaha Public Schools,2-16,Bancroft,69.95%,,62.50%,Y,752,526
+ne,280001,Omaha Public Schools,30,Beals,92.63%,,62.50%,Y,190,176
+ne,280001,Omaha Public Schools,56,Belle Ryan ,57.40%,,62.50%,Y,331,190
+ne,280001,Omaha Public Schools,57-0,Belvedere,84.00%,,62.50%,Y,400,336
+ne,280001,Omaha Public Schools,79,Benson High,62.09%,,62.50%,Y,1390,863
+ne,280001,Omaha Public Schools,3-14,Benson West,69.94%,,62.50%,Y,479,335
+ne,280001,Omaha Public Schools,45,Beveridge Jr High,57.25%,,62.50%,Y,800,458
+ne,280001,Omaha Public Schools,32,Blackburn,95.50%,,62.50%,Y,111,106
+ne,280001,Omaha Public Schools,58,Boyd,64.32%,,62.50%,Y,454,292
+ne,280001,Omaha Public Schools,78,Bryan High,63.39%,,62.50%,Y,1677,1063
+ne,280001,Omaha Public Schools,48,Bryan Jr High ,62.42%,,62.50%,Y,833,520
+ne,280001,Omaha Public Schools,77,Burke High,40.20%,,62.50%,Y,1868,751
+ne,280001,Omaha Public Schools,110,Career Center,100.00%,,62.50%,Y,1,1
+ne,280001,Omaha Public Schools,4-12,Castelar,72.45%,,62.50%,Y,657,476
+ne,280001,Omaha Public Schools,59,Catlin,44.52%,,62.50%,Y,146,65
+ne,280001,Omaha Public Schools,71,Central High,55.29%,,62.50%,Y,2550,1410
+ne,280001,Omaha Public Schools,5-9,Central Park,84.83%,,62.50%,Y,389,330
+ne,280001,Omaha Public Schools,24-0,Chandler View,66.41%,,62.50%,Y,649,431
+ne,280001,Omaha Public Schools,46,Columbian,24.30%,,62.50%,Y,251,61
+ne,280001,Omaha Public Schools,47,Conestoga,84.28%,,62.50%,Y,369,311
+ne,280001,Omaha Public Schools,44,Crestridge,43.92%,,62.50%,Y,337,148
+ne,280001,Omaha Public Schools,118,Davis Middle School,48.81%,,62.50%,Y,717,350
+ne,280001,Omaha Public Schools,70-0,Dodge,58.67%,,62.50%,Y,421,247
+ne,280001,Omaha Public Schools,52,Druid Hill,88.34%,,62.50%,Y,343,303
+ne,280001,Omaha Public Schools,42,Dundee,37.28%,,62.50%,Y,456,170
+ne,280001,Omaha Public Schools,88,Early Childhood Center,64.20%,,62.50%,Y,81,52
+ne,280001,Omaha Public Schools,50,Edison,56.95%,,62.50%,Y,439,250
+ne,280001,Omaha Public Schools,82,ESL Teen Literacy Center,100.00%,,62.50%,Y,1,1
+ne,280001,Omaha Public Schools,6-9,Field Club,66.46%,,62.50%,Y,635,422
+ne,280001,Omaha Public Schools,36-1,Florence,70.08%,,62.50%,Y,244,171
+ne,280001,Omaha Public Schools,72,Fontenelle ,77.55%,,62.50%,Y,548,425
+ne,280001,Omaha Public Schools,7-4,Franklin,85.67%,,62.50%,Y,328,281
+ne,280001,Omaha Public Schools,29-1,Fullerton,34.85%,,62.50%,Y,485,169
+ne,280001,Omaha Public Schools,111,Gateway Elementary,71.22%,,62.50%,Y,820,584
+ne,280001,Omaha Public Schools,128,Gifford Park Elementary School,32.68%,,62.50%,Y,820,268
+ne,280001,Omaha Public Schools,80,Gilder,61.71%,,62.50%,Y,363,224
+ne,280001,Omaha Public Schools,63,Gomez Heritage,67.53%,,62.50%,Y,810,547
+ne,280001,Omaha Public Schools,60,Hale Jr High,77.26%,,62.50%,Y,642,496
+ne,280001,Omaha Public Schools,81,Harrison,33.81%,,62.50%,Y,281,95
+ne,280001,Omaha Public Schools,76,Hartman,82.25%,,62.50%,Y,479,394
+ne,280001,Omaha Public Schools,8-5,Highland,68.84%,,62.50%,Y,475,327
+ne,280001,Omaha Public Schools,9-4,Indian Hill,79.32%,,62.50%,Y,643,510
+ne,280001,Omaha Public Schools,91,Integrated Learning Program,54.62%,,62.50%,Y,130,71
+ne,280001,Omaha Public Schools,64,J.P. Lord,52.31%,,62.50%,Y,65,34
+ne,280001,Omaha Public Schools,10,Jackson,72.31%,,62.50%,Y,242,175
+ne,280001,Omaha Public Schools,69,Jefferson,64.85%,,62.50%,Y,478,310
+ne,280001,Omaha Public Schools,68,Joslyn,42.39%,,62.50%,Y,335,142
+ne,280001,Omaha Public Schools,67,Kellom,88.39%,,62.50%,Y,310,274
+ne,280001,Omaha Public Schools,66,Kennedy,87.22%,,62.50%,Y,227,198
+ne,280001,Omaha Public Schools,130,Kennedy Early Childhood Center,94.55%,,62.50%,Y,55,52
+ne,280001,Omaha Public Schools,11-4,King,81.09%,,62.50%,Y,386,313
+ne,280001,Omaha Public Schools,55,King Science Center,68.12%,,62.50%,Y,759,517
+ne,280001,Omaha Public Schools,22-1,Lewis and Clark,63.61%,,62.50%,Y,882,561
+ne,280001,Omaha Public Schools,84,Liberty Elementary School,92.77%,,62.50%,Y,595,552
+ne,280001,Omaha Public Schools,12-3,Lothrop,85.98%,,62.50%,Y,371,319
+ne,280001,Omaha Public Schools,85,Marrs Middle School,75.24%,,62.50%,Y,1147,863
+ne,280001,Omaha Public Schools,62,Masters,55.51%,,62.50%,Y,272,151
+ne,280001,Omaha Public Schools,49,McMillan Jr High,76.38%,,62.50%,Y,779,595
+ne,280001,Omaha Public Schools,121,Metro Community North,100.00%,,62.50%,Y,1,1
+ne,280001,Omaha Public Schools,13-1,Miller Park,85.28%,,62.50%,Y,428,365
+ne,280001,Omaha Public Schools,14-1,Minne Lusa,77.01%,,62.50%,Y,348,268
+ne,280001,Omaha Public Schools,61,Monroe Jr High,82.32%,,62.50%,Y,809,666
+ne,280001,Omaha Public Schools,41-0,Morton Jr High,62.37%,,62.50%,Y,752,469
+ne,280001,Omaha Public Schools,18-0,Mount View,75.36%,,62.50%,Y,345,260
+ne,280001,Omaha Public Schools,53-0,Norris Jr High,72.47%,,62.50%,Y,1206,874
+ne,280001,Omaha Public Schools,75,North High,65.09%,,62.50%,Y,1670,1087
+ne,280001,Omaha Public Schools,73,Northwest High,75.24%,,62.50%,Y,1583,1191
+ne,280001,Omaha Public Schools,34-0,Oak Valley,51.66%,,62.50%,Y,271,140
+ne,280001,Omaha Public Schools,129,Omaha Virtual School,32.38%,,62.50%,Y,210,68
+ne,280001,Omaha Public Schools,19-1,Parrish ,32.73%,,62.50%,Y,110,36
+ne,280001,Omaha Public Schools,20-0,Pawnee,49.77%,,62.50%,Y,442,220
+ne,280001,Omaha Public Schools,21,"Picotte, Sara",24.18%,,62.50%,Y,335,81
+ne,280001,Omaha Public Schools,33-0,Pinewood,54.34%,,62.50%,Y,219,119
+ne,280001,Omaha Public Schools,23-0,Ponca,30.28%,,62.50%,Y,142,43
+ne,280001,Omaha Public Schools,51,Prairie Wind,56.27%,,62.50%,Y,702,395
+ne,280001,Omaha Public Schools,26,Rosehill,55.72%,,62.50%,Y,271,151
+ne,280001,Omaha Public Schools,97,Saddlebrook Elementary,19.86%,,62.50%,Y,433,86
+ne,280001,Omaha Public Schools,125,Secondary Success Program,85.71%,,62.50%,Y,21,18
+ne,280001,Omaha Public Schools,38-0,Sherman,80.50%,,62.50%,Y,241,194
+ne,280001,Omaha Public Schools,15-3,Skinner,81.98%,,62.50%,Y,444,364
+ne,280001,Omaha Public Schools,43,South High,67.41%,,62.50%,Y,2725,1837
+ne,280001,Omaha Public Schools,16-2,Spring Lake,67.64%,,62.50%,Y,785,531
+ne,280001,Omaha Public Schools,27-0,Springville,43.39%,,62.50%,Y,431,187
+ne,280001,Omaha Public Schools,87,Standing Bear Elementary,24.52%,,62.50%,Y,571,140
+ne,280001,Omaha Public Schools,28-0,Sunny Slope,56.10%,,62.50%,Y,426,239
+ne,280001,Omaha Public Schools,83,Transition North Site,49.41%,,62.50%,Y,85,42
+ne,280001,Omaha Public Schools,126,Transition-South Site,47.27%,,62.50%,Y,55,26
+ne,280001,Omaha Public Schools,89,UNO-OPS Pilot Program,41.30%,,62.50%,Y,46,19
+ne,280001,Omaha Public Schools,40,Wakonda,71.88%,,62.50%,Y,409,294
+ne,280001,Omaha Public Schools,17,Walnut Hill,78.54%,,62.50%,Y,410,322
+ne,280001,Omaha Public Schools,35-0,Washington,39.30%,,62.50%,Y,313,123
+ne,280001,Omaha Public Schools,37-0,Western Hills,59.09%,,62.50%,Y,330,195
+ne,280001,Omaha Public Schools,31,Wilson Focus School,42.38%,,62.50%,Y,210,89
+ne,770027,PAPILLION-LA VISTA SCHOOL,5-10,LA VISTA WEST ELEMENTARY SCH,44.62%,,,N,316,141
+ne,510006,PAXTON CONSOLIDATED SCHOOL,2-17,PAXTON ELEMENTARY SCHOOL,44.68%,,,N,94,42
+ne,130001,PLATTSMOUTH COMM. SCHOOLS,10-0,PLATTSMOUTH EARLY CHILDHOOD,56.94%,,,N,144,82
+ne,280054,Ralston Public Schools,3-15,Karen Western Elementary,61.69%,,61.69%,Y,201,124
+ne,280054,Ralston Public Schools,3-16,RALSTON MIDDLE SCHOOL,40.96%,,,N,481,197
+ne,280054,Ralston Public Schools,4-13,MOCKINGBIRD ELEMENTARY SCHOOL,49.87%,,,N,387,193
+ne,280054,Ralston Public Schools,7-5,BLUMFIELD ELEMENTARY SCHOOL,47.51%,,,N,362,172
+ne,910002,RED CLOUD COMMUNITY SCHOOL,2-18,RED CLOUD ELEMENTARY SCHOOL,43.21%,,,N,162,70
+ne,280741,Sacred Heart School - Omaha,1-22,Sacred Heart School ,60.87%,,60.87%,Y,138,84
+ne,50071,SANDHILLS PUBLIC SCHOOLS,2-19,ELEMENTARY SCHOOL AT HALSEY,42.31%,,,N,52,22
+ne,210084,SARGENT PUBLIC SCHOOL,2-20,SARGENT ELEMENTARY SCHOOL,40.23%,,,N,87,35
+ne,190123,SCHUYLER COMMUNITY SCHOOLS,9-5,NORTH WARD PREKINDERGARTEN,42.17%,,,N,83,35
+ne,190123,SCHUYLER COMMUNITY SCHOOLS,10-1,SCHUYLER HEADSTART,45.65%,,,N,92,42
+ne,790032,Scottsbluff Public Schools,2-21,Lincoln Heights Elementary,56.50%,,74.11%,Y,331,187
+ne,790032,Scottsbluff Public Schools,1-23,Roosevelt Elementary,85.87%,,74.11%,Y,269,231
+ne,790032,Scottsbluff Public Schools,12-4,Scottsbluff P.S. Preschool,93.48%,,74.11%,Y,138,129
+ne,790032,Scottsbluff Public Schools,2-22,BLUFFS MIDDLE SCHOOL,43.35%,,,N,775,336
+ne,790032,Scottsbluff Public Schools,3-17,LINCOLN HEIGHTS ELEMENTARY SCH,54.40%,,,N,318,173
+ne,790032,Scottsbluff Public Schools,4-14,LONGFELLOW ELEMENTARY SCHOOL,42.32%,,,N,371,157
+ne,790032,Scottsbluff Public Schools,5-11,ROOSEVELT ELEMENTARY SCHOOL,78.51%,,,N,242,190
+ne,790032,Scottsbluff Public Schools,6-10,WESTMOOR ELEMENTARY SCHOOL,48.86%,,,N,395,193
+ne,790032,Scottsbluff Public Schools,10-2,EARLY CHILDHOOD LEARNING CENTER,61.31%,,,N,137,84
+ne,170001,SIDNEY PUBLIC SCHOOL,3-18,CENTRAL ELEMENTARY SCHOOL,44.77%,,,N,239,107
+ne,220011,SOUTH SIOUX CITY SCHOOL DISTRICT #11,3-19,SOUTH SIOUX CITY MIDDLE SCHOOL,43.05%,,,N,827,356
+ne,220011,SOUTH SIOUX CITY SCHOOL DISTRICT #11,4-15,E N SWETT ELEMENTARY SCHOOL,54.19%,,,N,179,97
+ne,220011,SOUTH SIOUX CITY SCHOOL DISTRICT #11,5-12,HARNEY ELEMENTARY SCHOOL,53.55%,,,N,366,196
+ne,220011,SOUTH SIOUX CITY SCHOOL DISTRICT #11,6-11,LEWIS & CLARK ELEMENTARY SCH,57.51%,,,N,233,134
+ne,220011,SOUTH SIOUX CITY SCHOOL DISTRICT #11,7-6,DAKOTA CITY ELEMENTARY SCHOOL,45.97%,,,N,211,97
+ne,220011,SOUTH SIOUX CITY SCHOOL DISTRICT #11,8-6,CARDINAL ELEMENTARY SCHOOL,43.51%,,,N,393,171
+ne,220011,SOUTH SIOUX CITY SCHOOL DISTRICT #11,11-5,COVINGTON ELEMENTARY SCHOOL,47.03%,,,N,404,190
+ne,340001,Southern Public Schools,1-24,Southern Elementary School,46.53%,,46.53%,Y,202,94
+ne,340001,Southern Public Schools,2-23,Southern Jr.-Sr. High School,37.57%,,37.57%,Y,181,68
+ne,340001,Southern Public Schools,1-25,SOUTHERN JR-SR HIGH SCHOOL,40.11%,,,N,182,73
+ne,340001,Southern Public Schools,2-24,SOUTHERN ELEMENTARY SCHOOL,47.52%,,,N,202,96
+ne,490702,St. Andrew's School,1-26,St. Andrew's School,66.67%,,66.67%,Y,27,18
+ne,280759,St. Peter and Paul School,1-27,St. Peter and Paul School ,51.17%,,51.17%,Y,299,153
+ne,650011,SUPERIOR PUBLIC SCHOOL,2-25,SUPERIOR MIDDLE SCHOOL,40.91%,,,N,88,36
+ne,860001,Thedford Rural High School,1-28,Thedford Elementary School,35.44%,,42.42%,Y,79,28
+ne,860001,Thedford Rural High School,2-26,Thedford High School,52.83%,,42.42%,Y,53,28
+ne,870016,Umo 'ho' Nation Public School,1-29,Umo ,85.49%,,85.49%,Y,455,389
+ne,780039,WAHOO PUBLIC SCHOOLS,4-16,WAHOO PRE-SCHOOL,79.55%,,,N,44,35
+ne,870013,Walthill Public School,2-27,Walthill Public School ,65.33%,,65.33%,Y,300,196
+ne,280066,Westside Community Schools,49-0,Westbrook Elementary,40.54%,,45.08%,Y,624,253
+ne,280066,Westside Community Schools,10-3,Westgate Elementary,55.16%,,45.08%,Y,281,155
+ne,280066,Westside Community Schools,13-2,WESTGATE ELEMENTARY SCHOOL,56.06%,,,N,289,162
+ne,280066,Westside Community Schools,23-1,WESTBROOK ELEMENTARY SCHOOL,46.45%,,,N,549,255
+ne,870017,Winnebago Public School,1-30,Winnebago Public School,64.04%,,64.04%,Y,534,342
+ne,930012,YORK PUBLIC SCHOOLS,8-7,PRESCHOOL LEARNING ACADEMY,49.66%,,,N,147,73

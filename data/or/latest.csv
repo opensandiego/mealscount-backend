@@ -1,1313 +1,725 @@
-state,District Code,District Name,School Code,School Name,individual_isp,proxy_isp,participating_in_cep,claiming_isp,total_enrolled,total_eligible
-or,2301001,Adrian SD 61,10792,Adrian Elem,,0.3054,,N,203,
-or,2301001,Adrian SD 61,10790,Adrian High,,0.1619,,N,N/A,
-or,201001,Alsea SD 7J,15014,Alsea Schools,,0.7866,49.7%,Y,175,
-or,3601002,Amity SD 4J,10161,Amity Elementary,,0.3035,,N,346,
-or,3601002,Amity SD 4J,10159,Amity High,,0.1893,,N,N/A,
-or,3601002,Amity SD 4J,10160,Amity Middle,,0.2232,,N,N/A,
-or,2301002,Annex SD 29,10162,Annex Charter School,,0.3409,51.3%,Y,78,
-or,3401003,Arco Iris,15340,Arco Iris Spanish Immersion Charter School,,0.0835,,N,N/A,
-or,1101001,Arlington SD,14198,Arlington Community Charter,,0.2753,,N,N/A,
-or,2613012,Arthur Academy,15204,Arthur Academy Portland,,0.2686,,N,N/A,
-or,2613012,Arthur Academy,15352,Yankton Arthur Academy,,0.1795,,N,N/A,
-or,1501002,Ashland SD 5,10469,Ashland High,,0.1909,,N,N/A,
-or,1501002,Ashland SD 5,10470,Ashland Middle,,0.2305,,N,N/A,
-or,1501002,Ashland SD 5,10471,Bellview Elem,,0.2844,,N,N/A,
-or,1501002,Ashland SD 5,10473,Helman Elem,,0.1972,,N,N/A,
-or,1501002,Ashland SD 5,13858,John Muir School,,0.3333,,N,132,
-or,1501002,Ashland SD 5,10475,Walker Elem,,0.2972,,N,N/A,
-or,1501002,Ashland SD 5,13644,Willow Wind Community Learning Center,,0.13,,N,N/A,
-or,401002,Astoria SD,10010,Astor Elementary,,0.2845,,N,N/A,
-or,401002,Astoria SD,10008,Astoria High School,,0.2003,,N,N/A,
-or,401002,Astoria SD,10009,Astoria Middle School,,0.3004,,N,476,
-or,401002,Astoria SD,10011,Gray PreK,,,,N,N/A,
-or,401002,Astoria SD,16010,Gray School,,,,N,N/A,
-or,401002,Astoria SD,10012,Lewis and Clark Elementary,,0.3091,,N,427,
-or,3001001,Athena-Weston SD 29J,14206,Athena Elementary,,0.4348,40.2%,Y,147,
-or,3001001,Athena-Weston SD 29J,11116,Weston Middle,,0.3307,40.2%,Y,254,
-or,3001001,Athena-Weston SD 29J,11115,Weston-McEwen High,,0.2944,,N,N/A,
-or,102001,Baker SD 5J,10001,Baker High School,,0.2314,,N,N/A,
-or,102001,Baker SD 5J,10016,Baker Middle School,,0.3058,,N,291,
-or,102001,Baker SD 5J,10017,Brooklyn Elementary,,0.4851,,N,437,
-or,102001,Baker SD 5J,10019,Haines Elementary,,0.1747,,N,N/A,
-or,102001,Baker SD 5J,10022,South Baker Elementary,,0.4096,,N,376,
-or,602001,Bandon SD 54,10353,Bandon Sr High,,0.2098,,N,N/A,
-or,602001,Bandon SD 54,10354,Harbor Lights Middle,,0.3413,,N,252,
-or,602001,Bandon SD 54,10355,Ocean Crest Elem,,0.3954,,N,263,
-or,3402001,Banks SD,10025,Banks Elementary,,0.1546,,N,N/A,
-or,3402001,Banks SD,10023,Banks High School,,0.094,,N,N/A,
-or,3402001,Banks SD,10024,Banks Jr. High,,0.1518,,N,N/A,
-or,3402002,Beaverton SD 48J,11189,Aloha High School,,0.2341,,N,N/A,
-or,3402002,Beaverton SD 48J,11202,Aloha-Huber Park Elem,,0.38,40.1%,Y,929,
-or,3402002,Beaverton SD 48J,11535,Arts & Communications High School,,0.0853,,N,N/A,
-or,3402002,Beaverton SD 48J,11203,Barnes Elem,,0.2717,40.1%,Y,615,
-or,3402002,Beaverton SD 48J,11204,Beaver Acres Elem,,0.3229,40.1%,Y,714,
-or,3402002,Beaverton SD 48J,11191,Beaverton High,,0.1932,,N,N/A,
-or,3402002,Beaverton SD 48J,11205,Bethany Elem,,0.0923,,N,N/A,
-or,3402002,Beaverton SD 48J,14276,Bonny Slope Elementary,,0.0723,,N,N/A,
-or,3402002,Beaverton SD 48J,11206,Cedar Mill Elem,,0.0629,,N,N/A,
-or,3402002,Beaverton SD 48J,11195,Cedar Park Middle,,0.1398,,N,N/A,
-or,3402002,Beaverton SD 48J,11207,Chehalem Elem,,0.3542,40.1%,Y,487,
-or,3402002,Beaverton SD 48J,11196,Conestoga Middle,,0.1545,,N,N/A,
-or,3402002,Beaverton SD 48J,11208,Cooper Mountain Elem,,0.0902,,N,N/A,
-or,3402002,Beaverton SD 48J,11209,Elmonica Elem,,0.2132,,N,N/A,
-or,3402002,Beaverton SD 48J,11210,Errol Hassell Elem,,0.1846,,N,N/A,
-or,3402002,Beaverton SD 48J,11211,Findley Elem,,0.0124,,N,N/A,
-or,3402002,Beaverton SD 48J,11212,Fir Grove Elem,,0.2963,40.1%,Y,388,
-or,3402002,Beaverton SD 48J,11197,Five Oaks Middle,,0.2863,,N,N/A,
-or,3402002,Beaverton SD 48J,11213,Greenway Elem,,0.3705,40.1%,Y,356,
-or,3402002,Beaverton SD 48J,11214,Hazeldale Elem,,0.2884,40.1%,Y,473,
-or,3402002,Beaverton SD 48J,14279,Health Science School,,0.073,,N,N/A,
-or,3402002,Beaverton SD 48J,11198,Highland Park Middle,,0.1592,,N,N/A,
-or,3402002,Beaverton SD 48J,11215,Hiteon Elem,,0.1472,,N,N/A,
-or,3402002,Beaverton SD 48J,13791,International School of Beaverton,,0.0578,,N,N/A,
-or,3402002,Beaverton SD 48J,12776,Jacob Wismer Elementary,,0.0262,,N,N/A,
-or,3402002,Beaverton SD 48J,11216,Kinnaman Elem,,0.3366,40.1%,Y,625,
-or,3402002,Beaverton SD 48J,11217,McKay Elem,,0.2523,40.1%,Y,333,
-or,3402002,Beaverton SD 48J,11218,McKinley Elementary,,0.392,40.1%,Y,661,
-or,3402002,Beaverton SD 48J,11199,Meadow Park Middle,,0.1913,,N,N/A,
-or,3402002,Beaverton SD 48J,11192,Merlo Station High,,0.3259,40.1%,Y,130,
-or,3402002,Beaverton SD 48J,11219,Montclair Elem,,0.1344,,N,N/A,
-or,3402002,Beaverton SD 48J,11200,Mountain View Middle,,0.2543,,N,N/A,
-or,3402002,Beaverton SD 48J,15966,Mountainside High School,,0.0737,,N,N/A,
-or,3402002,Beaverton SD 48J,11220,Nancy Ryles Elem,,0.1465,,N,N/A,
-or,3402002,Beaverton SD 48J,11221,Oak Hills Elem,,0.0976,,N,N/A,
-or,3402002,Beaverton SD 48J,11222,Raleigh Hills Elem,,0.2429,,N,N/A,
-or,3402002,Beaverton SD 48J,11223,Raleigh Park Elem,,0.2676,,N,N/A,
-or,3402002,Beaverton SD 48J,11224,Ridgewood Elem,,0.1316,,N,N/A,
-or,3402002,Beaverton SD 48J,11225,Rock Creek Elem,,0.0907,,N,N/A,
-or,3402002,Beaverton SD 48J,15965,Sato Elementary,,0.0848,,N,N/A,
-or,3402002,Beaverton SD 48J,11533,Scholls Heights,,0.0607,,N,N/A,
-or,3402002,Beaverton SD 48J,11226,Sexton Mountain Elem,,0.0733,,N,N/A,
-or,3402002,Beaverton SD 48J,11536,Southridge,,0.1812,,N,N/A,
-or,3402002,Beaverton SD 48J,14521,Springville K-8,,0.0645,,N,N/A,
-or,3402002,Beaverton SD 48J,11534,Stoller Middle School,,0.0518,,N,N/A,
-or,3402002,Beaverton SD 48J,11193,Sunset High,,0.0543,,N,N/A,
-or,3402002,Beaverton SD 48J,11227,Terra Linda Elem,,0.1555,,N,N/A,
-or,3402002,Beaverton SD 48J,11228,Vose Elem,,0.2696,40.1%,Y,736,
-or,3402002,Beaverton SD 48J,11229,West Tualatin View Elem,,0.0807,,N,N/A,
-or,3402002,Beaverton SD 48J,11194,Westview High,,0.1105,,N,N/A,
-or,3402002,Beaverton SD 48J,11201,Whitford Middle,,0.2456,,N,N/A,
-or,3402002,Beaverton SD 48J,11230,William Walker Elem,,0.3196,40.1%,Y,554,
-or,902004,"Bend International
-School",15681,Bend International School,,0.196,,N,N/A,
-or,902001,Bend/LaPine SD,10045,Amity Creek Elementary,,0.0888,,N,N/A,
-or,902001,Bend/LaPine SD,10036,Bear Creek Elementary,,0.2953,40.7%,Y,553,
-or,902001,Bend/LaPine SD,10027,Bend High School,,0.1429,,N,N/A,
-or,902001,Bend/LaPine SD,10037,Buckingham Elementary,,0.2216,,N,N/A,
-or,902001,Bend/LaPine SD,10031,Cascade Middle School,,0.1182,,N,N/A,
-or,902001,Bend/LaPine SD,10038,Elk Meadow Elementary,,0.2373,,N,N/A,
-or,902001,Bend/LaPine SD,13454,Ensworth Elementary,,0.45,40.7%,Y,199,
-or,902001,Bend/LaPine SD,10032,High Desert Middle School,,0.2002,,N,N/A,
-or,902001,Bend/LaPine SD,12304,High Lakes Elementary,,0.075,,N,N/A,
-or,902001,Bend/LaPine SD,10040,Highland Elementary,,0.0485,,N,N/A,
-or,902001,Bend/LaPine SD,12318,Jewell Elementary,,0.2051,,N,N/A,
-or,902001,Bend/LaPine SD,10039,Juniper Elementary,,0.3289,,N,456,
-or,902001,Bend/LaPine SD,10042,LaPine Elementary,,0.4395,40.7%,Y,378,
-or,902001,Bend/LaPine SD,10028,LaPine High School,,0.3199,40.7%,Y,462,
-or,902001,Bend/LaPine SD,10033,LaPine Middle School,,0.3665,40.7%,Y,344,
-or,902001,Bend/LaPine SD,10043,Lava Ridge Elementary,,0.1767,,N,N/A,
-or,902001,Bend/LaPine SD,10029,Marshall High School,,0.459,40.7%,Y,101,
-or,902001,Bend/LaPine SD,10030,Mountain View High School,,0.1679,,N,N/A,
-or,902001,Bend/LaPine SD,16252,North Star Elementary,,0.173,,N,N/A,
-or,902001,Bend/LaPine SD,15662,Pacific Crest Middle School,,0.0561,,N,N/A,
-or,902001,Bend/LaPine SD,10034,Pilot Butte Middle School,,0.3181,40.7%,Y,659,
-or,902001,Bend/LaPine SD,13175,Pine Ridge Elem,,0.1494,,N,N/A,
-or,902001,Bend/LaPine SD,14227,Ponderosa Elementary,,0.1619,,N,N/A,
-or,902001,Bend/LaPine SD,15664,Realms Middle School,,0.0728,,N,N/A,
-or,902001,Bend/LaPine SD,14788,Rosland Elementary,,0.5251,40.7%,Y,220,
-or,902001,Bend/LaPine SD,15661,Silver Rail Elementary,,0.168,,N,N/A,
-or,902001,Bend/LaPine SD,12303,Sky View Middle School,,0.1516,,N,N/A,
-or,902001,Bend/LaPine SD,16077,Skyline/Realms High School,,0.0487,,N,N/A,
-or,902001,Bend/LaPine SD,12278,STRIVE,,,40.7%,Y,31,
-or,902001,Bend/LaPine SD,12774,Summit High School,,0.0485,,N,N/A,
-or,902001,Bend/LaPine SD,10046,Three Rivers Elementary,,0.2674,40.7%,Y,453,
-or,902001,Bend/LaPine SD,14475,W.E. Miller Elementary,,0.059,,N,N/A,
-or,902001,Bend/LaPine SD,10041,Westside Village School,,0.2519,,N,N/A,
-or,2002002,Bethel SD 52,10581,Cascade Middle,,0.4677,40.4%,Y,368,
-or,2002002,Bethel SD 52,10583,Clear Lake Elem,,0.3822,40.4%,Y,257,
-or,2002002,Bethel SD 52,10584,Danebo Elem,,0.4209,40.4%,Y,291,
-or,2002002,Bethel SD 52,10585,Fairfield Elem,,0.5297,40.4%,Y,379,
-or,2002002,Bethel SD 52,10586,Irving Elem,,0.2128,40.4%,Y,327,
-or,2002002,Bethel SD 52,12985,Kalapuya High School,,0.3922,48.3%,Y,149,
-or,2002002,Bethel SD 52,10587,Malabon Elem,,0.4144,40.4%,Y,419,
-or,2002002,Bethel SD 52,10588,Meadow View School,,0.2214,40.4%,Y,765,
-or,2002002,Bethel SD 52,12984,Prairie Mountain School,,0.3033,40.4%,Y,678,
-or,2002002,Bethel SD 52,10582,Shasta Middle,,0.3162,40.4%,Y,377,
-or,2002002,Bethel SD 52,10580,Willamette High,,0.239,,N,N/A,
-or,2002003,Blachly SD 90,10590,Triangle Lake School,,0.219,,N,N/A,
-or,802001,Brookings-Harbor SD 17,10389,Azalea Middle,,0.3253,,N,372,
-or,802001,Brookings-Harbor SD 17,10388,Brooking-Harbor High,,0.2595,,N,N/A,
-or,802001,Brookings-Harbor SD 17,10390,Kalmiopsis Elem,,0.4323,,N,731,
-or,102002,Burnt River SD,10048,Burnt River Public School,,0.3333,,N,42,
-or,1502001,Butte Falls SD 91,14200,Butte Falls Charter School,,0.3132,50.5%,Y,105,
-or,1003001,Camas Valley SD 21J,10406,Camas Valley School,,0.2944,,N,N/A,
-or,303003,Canby SD 86,13754,Baker Prairie Middle School,,0.1941,,N,N/A,
-or,303003,Canby SD 86,10199,Canby High,,0.1432,,N,N/A,
-or,303003,Canby SD 86,10200,Canby SD 86,,0.0667,,N,N/A,
-or,303003,Canby SD 86,10201,Carus School,,0.2854,,N,N/A,
-or,303003,Canby SD 86,10202,Eccles Elem,,0.1762,,N,N/A,
-or,303003,Canby SD 86,10203,Knight Elem,,0.3161,,N,348,
-or,303003,Canby SD 86,13753,Lee Elementary,,0.2015,,N,N/A,
-or,303003,Canby SD 86,10205,Ninety-One School,,0.1602,,N,N/A,
-or,303003,Canby SD 86,10204,Trost Elem,,0.2238,,N,N/A,
-or,2403005,Cascade SD 005,10814,Aumsville Elem,,0.3573,,N,613,
-or,2403005,Cascade SD 005,10813,Cascade Jr High,,0.2449,,N,N/A,
-or,2403005,Cascade SD 005,16024,Cascade Opportunity Center,,0.4051,,N,79,
-or,2403005,Cascade SD 005,10812,Cascade Sr High,,0.1758,,N,N/A,
-or,2403005,Cascade SD 005,10815,Cloverdale Elem,,0.1657,,N,N/A,
-or,2403005,Cascade SD 005,10817,Turner Elem,,0.2458,,N,N/A,
-or,2603006,Centennial SD 28J,13132,Butler Creek Elem,,0.2679,,N,N/A,
-or,2603006,Centennial SD 28J,10922,Centennial High,,0.306,,N,1745,
-or,2603006,Centennial SD 28J,10924,Centennial Middle,,0.3695,,N,912,
-or,2603006,Centennial SD 28J,10923,Centennial Park School,,0.4412,,N,102,
-or,2603006,Centennial SD 28J,10929,Harold Oliver Elem,,0.5278,60.5%,Y,438,
-or,2603006,Centennial SD 28J,10925,Meadows Elem,,0.445,,N,373,
-or,2603006,Centennial SD 28J,10930,Parklane Elem,,0.5294,60.5%,Y,378,
-or,2603006,Centennial SD 28J,10926,Patrick Lynch Elem,,0.4037,,N,488,
-or,2603006,Centennial SD 28J,10928,Pleasant Valley Elem,,0.2317,,N,N/A,
-or,2603006,Centennial SD 28J,10927,Powell Butte Elem,,0.5582,60.5%,Y,508,
-or,803001,Central Curry SD 1,10081,Gold Beach High School,,0.2638,40.8%,Y,332,
-or,803001,Central Curry SD 1,10052,Riley Creek Elementary,,0.4143,40.8%,Y,149,
-or,2203003,Central Linn SD 552,11682,Central Linn Elementary,,0.3036,,N,336,
-or,2203003,Central Linn SD 552,10737,Central Linn High,,0.2141,,N,N/A,
-or,1503002,Central Point SD,11626,Cent. Pt. Elementary,,0.4028,40.4%,Y,578,
-or,1503002,Central Point SD,13820,"Crater Academy of Health and Public
-Services",,0.2269,,N,N/A,
-or,1503002,Central Point SD,13823,Crater Renaissance Academy,,0.3053,40.4%,Y,400,
-or,1503002,Central Point SD,13821,"Crater School of Business, Innovation,
-Science",,0.1687,,N,N/A,
-or,1503002,Central Point SD,11629,Hanby Middle,,0.2955,40.4%,Y,381,
-or,1503002,Central Point SD,11627,Jewett Elementary,,0.3578,41.1%,Y,650,
-or,1503002,Central Point SD,11630,Patrick Elementary,,0.4794,40.4%,Y,288,
-or,1503002,Central Point SD,11628,Richardson Elementary,,0.2346,,N,N/A,
-or,1503002,Central Point SD,11631,Sams Valley Elementary,,0.3074,40.1%,Y,314,
-or,1503002,Central Point SD,11625,Scenic Middle,,0.2325,,N,N/A,
-or,2703001,Central SD 13J,12999,Ash Creek,,0.403,43.7%,Y,547,
-or,2703001,Central SD 13J,11089,Central High,,0.2459,,N,N/A,
-or,2703001,Central SD 13J,11092,Independence Elem,,0.5058,43.7%,Y,419,
-or,2703001,Central SD 13J,11093,Monmouth Elem,,0.3474,43.7%,Y,545,
-or,2703001,Central SD 13J,11090,Talmadge  Middle,,0.3723,43.7%,Y,757,
-or,2403006,Chemawa Indian School,11379,Chemawa Indian School,,0.0057,56.3%,Y,277,
-or,3403005,City View Charter School,15670,City View Charter School,,0.0898,,N,N/A,
-or,503001,Clatskanie SD 6J,10327,Clatskanie Elem,,0.298,,N,N/A,
-or,503001,Clatskanie SD 6J,10325,Clatskanie High,,0.2432,,N,N/A,
-or,303007,Colton SD,10209,Colton Elem,,0.2008,,N,N/A,
-or,303007,Colton SD,10207,Colton High,,0.1538,,N,N/A,
-or,303007,Colton SD,10208,Colton Middle,,0.1469,,N,N/A,
-or,2603012,"Community Transitional
-School",11400,Community Transitional School,,,83.3%,Y,96,
-or,1103001,Condon SD 25J,14199,Condon Elementary School,,0.1981,,N,N/A,
-or,1103001,Condon SD 25J,10457,Condon High,,0.2326,,N,N/A,
-or,603004,Coos Bay SD  009,10359,Eastside Elementary,,0.4719,44.1%,Y,436,
-or,603004,Coos Bay SD  009,13503,Harding Building,,0.3608,44.1%,Y,117,
-or,603004,Coos Bay SD  009,15885,Lighthouse Charter School,,0.2143,44.1%,Y,210,
-or,603004,Coos Bay SD  009,10363,Madison Elem,,0.6227,44.1%,Y,250,
-or,603004,Coos Bay SD  009,10356,Marshfield Sr High,,0.2757,44.1%,Y,940,
-or,603004,Coos Bay SD  009,10357,Millicoma Middle,,0.3613,44.1%,Y,522,
-or,603004,Coos Bay SD  009,10358,Sunset Middle,,0.5379,44.1%,Y,411,
-or,603005,Coquille SD,16300,Coquille Jr./Sr. High,,0.2447,,N,N/A,
-or,603005,Coquille SD,15501,Coquille Valley Elementary,,0.329,42.1%,Y,381,
-or,603005,Coquille SD,10057,Lincoln Elementary,,0.2551,42.1%,Y,190,
-or,603005,Coquille SD,16017,Powers Elementary,,0.3953,42.1%,Y,75,
-or,603005,Coquille SD,16016,Powers High School,,0.4884,42.1%,Y,47,
-or,603005,Coquille SD,16324,Winter Lakes Elementary,,0.0506,42.1%,Y,103,
-or,603005,Coquille SD,15023,Winter Lakes High School,,0.4373,42.1%,Y,359,
-or,2603013,Corbett SD 39,10932,Corbett School,,0.1314,,N,N/A,
-or,2603013,Corbett SD 39,15282,Springdale School - CAPS,,0.7886,,N,175,
-or,203003,Corvallis SD 509J,10175,Adams Elem,,0.1671,,N,N/A,
-or,203003,Corvallis SD 509J,10172,Cheldelin Middle,,0.1634,,N,N/A,
-or,203003,Corvallis SD 509J,10170,Corvallis High,,0.1702,,N,N/A,
-or,203003,Corvallis SD 509J,10171,Crescent Valley High,,0.1094,,N,N/A,
-or,203003,Corvallis SD 509J,10177,Franklin School,,0.0975,,N,N/A,
-or,203003,Corvallis SD 509J,10178,Garfield Elem,,0.3036,,N,448,
-or,203003,Corvallis SD 509J,10180,Hoover Elem,,0.1018,,N,N/A,
-or,203003,Corvallis SD 509J,10182,Jefferson Elem,,0.1763,,N,N/A,
-or,203003,Corvallis SD 509J,10183,Lincoln Elem,,0.2713,,N,N/A,
-or,203003,Corvallis SD 509J,13491,Linus Pauling,,0.2444,,N,N/A,
-or,203003,Corvallis SD 509J,10184,Mt View Elem,,0.3265,,N,291,
-or,203003,Corvallis SD 509J,10185,Wilson Elem,,0.3889,,N,414,
-or,3103003,Cove SD 15,11151,Cove School,,0.1975,,N,N/A,
-or,1303001,Crane Elem SD #4,10466,Crane Elem,,0.1667,,N,N/A,
-or,1303002,Crane Union High School,10467,Crane Union High,,0.1494,,N,N/A,
-or,2003008,Creswell SD 40,10594,Creslane Elem,,0.3086,,N,674,
-or,2003008,Creswell SD 40,10592,Creswell High,,0.1896,,N,N/A,
-or,2003008,Creswell SD 40,10593,Creswell Middle,,0.247,,N,N/A,
-or,703001,Crook Co SD,15675,Barnes Butte Elementary,,0.3979,,N,656,
-or,703001,Crook Co SD,10058,Crook Co High School,,0.198,,N,N/A,
-or,703001,Crook Co SD,10059,Crook Co Middle School,,0.2991,,N,N/A,
-or,703001,Crook Co SD,10061,Crooked River Elementary,,0.4184,,N,643,
-or,703001,Crook Co SD,10063,Paulina Elementary,,,,N,N/A,
-or,703001,Crook Co SD,15101,Pioneer Alt Ed,,0.6667,,N,51,
-or,2003009,"Crow-Applegate-Lorane
-SD 66",10597,Applegate Elem,,0.2278,,N,N/A,
-or,2003009,"Crow-Applegate-Lorane
-SD 66",10595,Crow High,,0.1761,,N,N/A,
-or,1603003,Culver SD,14202,Culver Elementary School,,0.3163,,N,313,
-or,1603003,Culver SD,10080,Culver High School,,0.202,,N,N/A,
-or,1603003,Culver SD,14201,Culver Middle School,,0.2857,,N,N/A,
-or,2704001,Dallas SD,11095,Dallas High (Morrison Campus),,0.322,,N,59,
-or,2704001,Dallas SD,10079,Dallas High School,,0.2631,,N,N/A,
-or,2704001,Dallas SD,10066,LaCreole Middle School,,0.3188,,N,712,
-or,2704001,Dallas SD,10068,Lyle Elementary,,0.439,,N,410,
-or,2704001,Dallas SD,10069,Oakdale Heights Elementary,,0.4005,,N,387,
-or,2704001,Dallas SD,13852,Polk Adolescent Day Treatment Center,,,,N,N/A,
-or,2704001,Dallas SD,10072,Whitworth Elementary,,0.3372,,N,436,
-or,2604001,David Douglas SD 40,10937,Alice Ott Middle,,0.369,46.3%,Y,708,
-or,2604001,David Douglas SD 40,13847,Arthur Academy Charter School,,0.1486,,N,N/A,
-or,2604001,David Douglas SD 40,10939,Cherry Park Elem,,0.3732,46.3%,Y,467,
-or,2604001,David Douglas SD 40,14626,Community Transition Program,,,,N,N/A,
-or,2604001,David Douglas SD 40,10936,David Douglas High,,0.3579,46.3%,Y,2550,
-or,2604001,David Douglas SD 40,12494,Earl Boyles,,0.3555,46.3%,Y,420,
-or,2604001,David Douglas SD 40,10935,Fir Ridge Campus,,,,N,172,
-or,2604001,David Douglas SD 40,10938,Floyd Light Middle,,0.3834,46.3%,Y,727,
-or,2604001,David Douglas SD 40,10940,Gilbert Heights Elem,,0.4419,46.3%,Y,560,
-or,2604001,David Douglas SD 40,10941,Gilbert Park Elem,,0.5352,46.3%,Y,528,
-or,2604001,David Douglas SD 40,10942,Lincoln Park Elem,,0.5918,,N,561,
-or,2604001,David Douglas SD 40,10943,Menlo Park Elem,,0.4549,46.3%,Y,474,
-or,2604001,David Douglas SD 40,10944,Mill Park Elem,,0.6099,,N,523,
-or,2604001,David Douglas SD 40,13660,Ron Russell Middle School,,0.4676,46.3%,Y,883,
-or,2604001,David Douglas SD 40,10945,Ventura Park Elem,,0.4403,46.3%,Y,407,
-or,2604001,David Douglas SD 40,10946,West Powellhurst Elem,,0.5556,46.3%,Y,403,
-or,1004001,Days Creek SD 15,13793,Days Creek Charter School,,0.3991,42.1%,Y,190,
-or,3604001,Dayton SD 008,11300,Dayton Grade School,,0.2611,41.1%,Y,436,
-or,3604001,Dayton SD 008,14193,Dayton High School,,0.1505,,N,N/A,
-or,3604001,Dayton SD 008,11299,Dayton Jr High,,0.2122,,N,N/A,
-or,1204001,Dayville SD 16J,10460,Dayville School,,0.1739,,N,N/A,
-or,2604005,"De La Salle North
-Catholic High School",13794,De La Salle North Catholic HS,,,,N,N/A,
-or,1704002,Dome School,12314,Dome School,,,,N,N/A,
-or,3304001,Dufur SD 29,16014,Celilo Pre-school,,,42.3%,Y,0,
-or,3304001,Dufur SD 29,11180,Dufur School,,0.2118,42.3%,Y,326,
-or,2405002,Eagle Charter School,15210,Eagle Charter School,,0.375,,N,144,
-or,1505001,Eagle Point SD,15672,Academia Aguilitas Preschool,,0.945,44.3%,Y,31,
-or,1505001,Eagle Point SD,15508,Crater Lake Charter Academy K-12,,0.3832,44.3%,Y,297,
-or,1505001,Eagle Point SD,11613,Eagle Point High School,,0.2728,44.3%,Y,1010,
-or,1505001,Eagle Point SD,11614,Eagle Point Middle School,,0.3033,44.3%,Y,441,
-or,1505001,Eagle Point SD,13134,Eagle Rock Elem,,0.2939,44.3%,Y,323,
-or,1505001,Eagle Point SD,11615,Hillside Elementary,,0.3856,44.3%,Y,475,
-or,1505001,Eagle Point SD,11622,Lake Creek Learning Center,,0.2576,44.3%,Y,63,
-or,1505001,Eagle Point SD,11617,Lower Table Rock Elementary,,0.945,44.3%,Y,412,
-or,1505001,Eagle Point SD,11618,Shady Cove Elem,,0.4793,44.3%,Y,250,
-or,1505001,Eagle Point SD,11620,Upper Table Rock Elementary,,0.945,44.3%,Y,399,
-or,1505001,Eagle Point SD,15285,URCEO - At-Risk,,0.5714,44.3%,Y,52,
-or,1505001,Eagle Point SD,13133,White Mountain Middle Sch,,0.44,44.3%,Y,368,
-or,1805001,Eagle Ridge High School,16145,Eagle Ridge High School,,0.4511,,N,184,
-or,3005001,Echo SD 5,11120,Echo School,,0.2105,,N,N/A,
-or,3105002,Elgin SD 23,11153,Elgin High,,0.4066,,N,182,
-or,3105002,Elgin SD 23,11154,Stella Mayfield Elem,,0.4,,N,275,
-or,1005001,Elkton SD 34,10411,Elkton Elem,,0.3938,,N,160,
-or,1005001,Elkton SD 34,10410,Elkton High,,0.7241,,N,87,
-or,3205001,Enterprise SD 21,14191,Enterprise Elementary,,0.2037,,N,N/A,
-or,3205001,Enterprise SD 21,11168,Enterprise High,,0.1429,,N,N/A,
-or,305002,Estacada SD,13260,Clackamas River,,0.2384,,N,N/A,
-or,305002,Estacada SD,10211,Estacada High,,0.1925,,N,N/A,
-or,305002,Estacada SD,10212,Estacada Middle School,,0.2404,,N,N/A,
-or,305002,Estacada SD,10215,River Mill Elem,,0.2472,,N,N/A,
-or,2005005,Eugene SD 4J,10614,Adams Elem,,0.3169,40.4%,Y,477,
-or,2005005,Eugene SD 4J,10613,Arts and Technology Academy,,0.3677,40.4%,Y,439,
-or,2005005,Eugene SD 4J,10615,Awbrey Park Elem,,0.3243,40.4%,Y,441,
-or,2005005,Eugene SD 4J,13649,Bertha Holt Elementary,,0.4126,40.4%,Y,501,
-or,2005005,Eugene SD 4J,14956,Buena Vista Elementary,,0.1978,,N,N/A,
-or,2005005,Eugene SD 4J,10605,Cal Young Middle,,0.209,,N,N/A,
-or,2005005,Eugene SD 4J,10626,Camas Ridge Community School,,0.3225,40.4%,Y,361,
-or,2005005,Eugene SD 4J,15473,Center Point,,,,N,N/A,
-or,2005005,Eugene SD 4J,10646,Charlemagne French Immersion School,,0.0819,,N,N/A,
-or,2005005,Eugene SD 4J,13502,Chavez,,0.5747,40.4%,Y,430,
-or,2005005,Eugene SD 4J,10606,Colin Kelly Middle,,0.3362,40.4%,Y,452,
-or,2005005,Eugene SD 4J,10641,Corridor Alternative,,0.1128,,N,N/A,
-or,2005005,Eugene SD 4J,10620,Edgewood Elem,,0.1724,,N,N/A,
-or,2005005,Eugene SD 4J,10622,Edison Elem,,0.3354,40.4%,Y,311,
-or,2005005,Eugene SD 4J,10650,Education Options East,,0.1394,40.4%,Y,123,
-or,2005005,Eugene SD 4J,10645,Family School,,0.2469,40.4%,Y,152,
-or,2005005,Eugene SD 4J,15826,Fox Hollow School,,0.5177,40.4%,Y,50,
-or,2005005,Eugene SD 4J,10625,Gilham Elem,,0.2409,,N,N/A,
-or,2005005,Eugene SD 4J,10599,Henry D Sheldon High,,0.1401,,N,N/A,
-or,2005005,Eugene SD 4J,10627,Howard Elem,,0.4953,40.4%,Y,504,
-or,2005005,Eugene SD 4J,10607,James Madison Middle,,0.3245,40.4%,Y,439,
-or,2005005,Eugene SD 4J,10608,James Monroe Middle,,0.2847,,N,N/A,
-or,2005005,Eugene SD 4J,10609,John F Kennedy Middle,,0.3018,40.4%,Y,373,
-or,2005005,Eugene SD 4J,10629,McCornack Elem,,0.4277,40.4%,Y,324,
-or,2005005,Eugene SD 4J,10602,North Eugene High,,0.2462,,N,N/A,
-or,2005005,Eugene SD 4J,10631,River Road Elem,,0.3855,40.4%,Y,462,
-or,2005005,Eugene SD 4J,10603,South Eugene High,,0.1243,,N,N/A,
-or,2005005,Eugene SD 4J,10611,Spencer Butte Middle,,0.1525,,N,N/A,
-or,2005005,Eugene SD 4J,10633,Spring Creek Elem,,0.3234,40.4%,Y,294,
-or,2005005,Eugene SD 4J,10612,Theodore Roosevelt Middle,,0.173,,N,N/A,
-or,2005005,Eugene SD 4J,10634,Twin Oaks Elem,,0.2833,40.4%,Y,233,
-or,2005005,Eugene SD 4J,10638,Willagillespie Elem,,0.3448,40.4%,Y,522,
-or,2005005,Eugene SD 4J,10604,Winston Churchill High,,0.2223,,N,N/A,
-or,2706001,Falls City SD 57,11097,Fall City Elem,,0.5833,58.0%,Y,130,
-or,2706001,Falls City SD 57,11096,Fall City High,,0.3457,58.0%,Y,77,
-or,2006003,Fern Ridge SD 28J,10654,Elmira Elem,,0.3368,,N,285,
-or,2006003,Fern Ridge SD 28J,10651,Elmira High,,0.2284,,N,N/A,
-or,2006003,Fern Ridge SD 28J,10652,Fern Ridge Middle,,0.3013,,N,375,
-or,2006003,Fern Ridge SD 28J,10656,Veneta Elem,,0.3483,,N,356,
-or,2006003,Fern Ridge SD 28J,16192,West Lane Technical Learning Center,,0.0106,,N,N/A,
-or,3406003,"Forest Grove Community
-School",15128,Forest Grove Community School,,0.1176,,N,N/A,
-or,3406001,Forest Grove SD 15,15529,"CALC-Community Alternative Learning
-Center",,0.3621,,N,58,
-or,3406001,Forest Grove SD 15,11233,Cornelius Elem,,0.383,54.3%,Y,383,
-or,3406001,Forest Grove SD 15,15530,CREATE,,0.7241,,N,29,
-or,3406001,Forest Grove SD 15,11234,Dilley Elem,,0.2151,,N,N/A,
-or,3406001,Forest Grove SD 15,11235,Echo Shaw Elem,,0.2278,42.1%,Y,451,
-or,3406001,Forest Grove SD 15,13283,Fern Hill Elementary,,0.428,54.3%,Y,262,
-or,3406001,Forest Grove SD 15,11231,Forest Grove High,,0.2277,,N,N/A,
-or,3406001,Forest Grove SD 15,11237,Harvey Clark Elem,,0.2154,,N,N/A,
-or,3406001,Forest Grove SD 15,11238,Joseph Gale Elem,,0.4077,54.3%,Y,509,
-or,3406001,Forest Grove SD 15,11232,Neil Armstrong Middle,,0.2556,,N,N/A,
-or,3406001,Forest Grove SD 15,15531,Oak Grove Academy,,0.4565,,N,46,
-or,3406001,Forest Grove SD 15,11239,Tom McCall Upper Elem,,0.2735,,N,N/A,
-or,3506001,Fossil SD 21J,11291,Fossil School,,0.945,,N,77,
-or,2306001,"Four Rivers Community
-School",13186,Four Rivers Community School,,0.4258,58.8%,Y,257,
-or,2306001,"Four Rivers Community
-School",15866,Senior Prep,,0.945,51.7%,Y,91,
-or,3407001,Gaston SD 511J,11242,Gaston Elem,,0.2691,,N,N/A,
-or,3407001,Gaston SD 511J,14209,Gaston Jr/Sr High,,0.2056,,N,N/A,
-or,2407001,Gervais SD,15653,Daycare,,0.1163,49.3%,Y,65,
-or,2407001,Gervais SD,15276,Gervais Elementary,,0.3447,49.3%,Y,420,
-or,2407001,Gervais SD,10073,Gervais High School,,0.2074,41.5%,Y,286,
-or,2407001,Gervais SD,10076,Gervais Middle School,,0.298,41.5%,Y,251,
-or,2407001,Gervais SD,15277,Samuel Brown Academy,,0.4286,41.5%,Y,29,
-or,307001,Gladstone SD 115,14405,"Gladstone Center for Children and Families
-(GCCF)",,0.3152,,N,165,
-or,307001,Gladstone SD 115,10216,Gladstone High,,0.2105,,N,N/A,
-or,307001,Gladstone SD 115,10218,John Wetten Elem,,0.3024,,N,658,
-or,307001,Gladstone SD 115,10217,Walter L Kraxberger Middle,,0.2489,,N,N/A,
-or,1007001,Glendale SD 77,10413,Glendale Elem,,0.3586,40.0%,Y,210,
-or,1007001,Glendale SD 77,10412,Glendale High,,0.2414,40.0%,Y,90,
-or,1007002,Glide SD 12,10417,Glide Elem,,0.2932,,N,N/A,
-or,1007002,Glide SD 12,10414,Glide High,,0.2137,,N,N/A,
-or,1007002,Glide SD 12,10415,Glide Middle,,0.2206,,N,N/A,
-or,1707001,Grants Pass SD,10090,Allen Dale Elementary,,0.3982,41.1%,Y,449,
-or,1707001,Grants Pass SD,15524,Family Solutions,,,,N,*,
-or,1707001,Grants Pass SD,10087,Grants Pass High School,,0.3038,41.1%,Y,1829,
-or,1707001,Grants Pass SD,10091,Highland Elementary,,0.3215,41.1%,Y,444,
-or,1707001,Grants Pass SD,10092,Lincoln Elementary,,0.3774,41.1%,Y,453,
-or,1707001,Grants Pass SD,10088,North Middle School,,0.3516,41.1%,Y,789,
-or,1707001,Grants Pass SD,10093,Parkside Elementary,,0.5238,41.1%,Y,438,
-or,1707001,Grants Pass SD,10094,Redwood Elementary,,0.3663,41.1%,Y,471,
-or,1707001,Grants Pass SD,10095,Riverside Elementary,,0.5586,41.1%,Y,437,
-or,1707001,Grants Pass SD,10089,South Middle School,,0.3864,41.1%,Y,718,
-or,2207001,Greater Albany SD 8J,12512,Albany Options,,0.4556,,N,169,
-or,2207001,Greater Albany SD 8J,10741,Calapooia Middle,,0.4026,,N,770,
-or,2207001,Greater Albany SD 8J,10744,Central Elem,,0.4306,50.3%,Y,150,
-or,2207001,Greater Albany SD 8J,10745,Clover Ridge Elem,,0.2091,,N,N/A,
-or,2207001,Greater Albany SD 8J,10746,Lafayette Elem,,0.3937,50.3%,Y,314,
-or,2207001,Greater Albany SD 8J,10747,Liberty Elem,,0.2147,,N,N/A,
-or,2207001,Greater Albany SD 8J,10742,Memorial Middle,,0.3491,,N,676,
-or,2207001,Greater Albany SD 8J,10748,North Albany Elem,,0.1273,,N,N/A,
-or,2207001,Greater Albany SD 8J,10743,North Albany Middle,,0.2074,,N,N/A,
-or,2207001,Greater Albany SD 8J,10749,Oak Elem,,0.328,50.3%,Y,328,
-or,2207001,Greater Albany SD 8J,10757,Oak Grove Intermed,,0.1078,,N,N/A,
-or,2207001,Greater Albany SD 8J,10750,Periwinkle Elemenetary School,,0.3862,50.3%,Y,429,
-or,2207001,Greater Albany SD 8J,10739,South Albany High,,0.2401,,N,N/A,
-or,2207001,Greater Albany SD 8J,10751,South Shore Elem,,0.3961,50.3%,Y,402,
-or,2207001,Greater Albany SD 8J,10752,Sunrise Elem,,0.6469,50.3%,Y,350,
-or,2207001,Greater Albany SD 8J,10753,Takena Elem,,0.4468,50.3%,Y,142,
-or,2207001,Greater Albany SD 8J,10754,Tangent Elem,,0.438,50.3%,Y,156,
-or,2207001,Greater Albany SD 8J,14492,Timber Ridge,,0.197,,N,N/A,
-or,2207001,Greater Albany SD 8J,10755,Waverly Elem,,0.5799,50.3%,Y,247,
-or,2207001,Greater Albany SD 8J,10740,West Albany High,,0.1675,,N,N/A,
-or,2607003,Gresham-Barlow SD 10J,13855,Arthur Academy Charter School,,0.1017,,N,N/A,
-or,2607003,Gresham-Barlow SD 10J,13850,Center for Advance Learning,,,,N,N/A,
-or,2607003,Gresham-Barlow SD 10J,10949,Clear Creek Middle,,0.3951,,N,648,
-or,2607003,Gresham-Barlow SD 10J,10950,Deep Creek - Damascus School,,0.1399,,N,N/A,
-or,2607003,Gresham-Barlow SD 10J,10951,Dexter McCarty Middle,,0.3421,,N,532,
-or,2607003,Gresham-Barlow SD 10J,10955,East Gresham Elem,,0.4787,54.8%,Y,380,
-or,2607003,Gresham-Barlow SD 10J,10956,East Orient Elem,,0.1532,,N,N/A,
-or,2607003,Gresham-Barlow SD 10J,10952,Gordon Russell Middle,,0.3128,,N,796,
-or,2607003,Gresham-Barlow SD 10J,10947,Gresham High,,0.2851,,N,N/A,
-or,2607003,Gresham-Barlow SD 10J,10957,Hall Elem,,0.5093,54.8%,Y,435,
-or,2607003,Gresham-Barlow SD 10J,10958,Highland Elem,,0.4744,54.8%,Y,497,
-or,2607003,Gresham-Barlow SD 10J,13166,Hogan Cedars Elem,,0.3261,,N,552,
-or,2607003,Gresham-Barlow SD 10J,10959,Hollydale Elem,,0.4518,,N,425,
-or,2607003,Gresham-Barlow SD 10J,10960,Kelly Creek Elem,,0.3573,,N,515,
-or,2607003,Gresham-Barlow SD 10J,16002,Metro East Web Academy,,0.0202,,N,N/A,
-or,2607003,Gresham-Barlow SD 10J,10961,North Gresham Elem,,0.4012,,N,506,
-or,2607003,Gresham-Barlow SD 10J,10962,Powell Valley Elem,,0.3423,,N,444,
-or,2607003,Gresham-Barlow SD 10J,10948,Sam  Barlow High,,0.1767,,N,N/A,
-or,2607003,Gresham-Barlow SD 10J,13851,Springwater Trail High,,0.1492,,N,N/A,
-or,2607003,Gresham-Barlow SD 10J,10963,West Gresham Elem,,0.308,,N,289,
-or,2607003,Gresham-Barlow SD 10J,10953,West Orient Middle,,0.2022,,N,N/A,
-or,1308001,Harney Co SD 3,13566,Burns High School,,0.2105,,N,N/A,
-or,1308001,Harney Co SD 3,10098,Henry L Slater Elementary,,0.4621,,N,396,
-or,1308001,Harney Co SD 3,10099,Hines Middle School,,0.3286,,N,210,
-or,2308001,Harper SD 66,10796,Harper Elem/High,,0.4624,,N,93,
-or,2208001,Harrisburg SD,10103,Harrisburg Elementary,,0.3349,,N,424,
-or,2208001,Harrisburg SD,10100,Harrisburg High School,,0.276,,N,N/A,
-or,2208001,Harrisburg SD,10101,Harrisburg Middle School,,0.0702,,N,N/A,
-or,3008005,Hermiston SD 8,11122,Armand Larive Middle,,0.2846,,N,N/A,
-or,3008005,Hermiston SD 8,12792,Desert View,,0.2738,,N,N/A,
-or,3008005,Hermiston SD 8,11121,Hermiston High,,0.2283,,N,N/A,
-or,3008005,Hermiston SD 8,11124,Highland Hills Elem,,0.2267,,N,N/A,
-or,3008005,Hermiston SD 8,11125,Rocky Heights Elem,,0.2612,,N,N/A,
-or,3008005,Hermiston SD 8,11123,Sandstone Middle,,0.285,,N,N/A,
-or,3008005,Hermiston SD 8,11126,Sunset Elem,,0.3669,,N,646,
-or,3008005,Hermiston SD 8,11127,West Park Elem,,0.3902,,N,592,
-or,3408001,Hillsboro SD 1J,11250,Brookwood Elem,,0.2124,41.2%,Y,349,
-or,3408001,Hillsboro SD 1J,11251,Butternut Creek Elem,,0.1734,,N,N/A,
-or,3408001,Hillsboro SD 1J,11243,Century High,,0.1255,,N,N/A,
-or,3408001,Hillsboro SD 1J,11253,Eastwood Elem,,0.27,41.2%,Y,467,
-or,3408001,Hillsboro SD 1J,11249,Evergreen Jr High,,0.1698,,N,N/A,
-or,3408001,Hillsboro SD 1J,11254,Farmington View Elem,,0.1626,,N,N/A,
-or,3408001,Hillsboro SD 1J,14268,Free Orchards Elementary,,0.2276,41.2%,Y,395,
-or,3408001,Hillsboro SD 1J,11244,Glencoe High,,0.1372,,N,N/A,
-or,3408001,Hillsboro SD 1J,11255,Groner Elem,,0.1167,,N,N/A,
-or,3408001,Hillsboro SD 1J,11245,Hillsboro High,,0.1943,41.2%,Y,1229,
-or,3408001,Hillsboro SD 1J,16170,HSD Schools CTS,,0.6741,,N,135,
-or,3408001,Hillsboro SD 1J,13313,Imlay Elementary,,0.1943,,N,N/A,
-or,3408001,Hillsboro SD 1J,11256,Indian Hills Elem,,0.165,,N,N/A,
-or,3408001,Hillsboro SD 1J,11247,J W Poynter Middle,,0.1831,,N,N/A,
-or,3408001,Hillsboro SD 1J,11257,Jackson Elem,,0.1298,,N,N/A,
-or,3408001,Hillsboro SD 1J,11258,Ladd Acres Elem,,0.1728,,N,N/A,
-or,3408001,Hillsboro SD 1J,11259,Lenox Elem,,0.1333,,N,N/A,
-or,3408001,Hillsboro SD 1J,13165,Liberty High,,0.1605,,N,N/A,
-or,3408001,Hillsboro SD 1J,14267,Lincoln Street Elementary,,0.3916,41.2%,Y,457,
-or,3408001,Hillsboro SD 1J,11647,Miller,,,41.2%,Y,82,
-or,3408001,Hillsboro SD 1J,11260,Minter Bridge Elem,,0.2447,41.2%,Y,439,
-or,3408001,Hillsboro SD 1J,11261,Mooberry Elem,,0.2257,41.2%,Y,419,
-or,3408001,Hillsboro SD 1J,11262,North Plains Elem,,0.1448,,N,N/A,
-or,3408001,Hillsboro SD 1J,12300,Orenco Elemenary,,0.1322,,N,N/A,
-or,3408001,Hillsboro SD 1J,12301,Patterson Elementary,,0.0949,,N,N/A,
-or,3408001,Hillsboro SD 1J,14266,Quatama Elementary,,0.1862,,N,N/A,
-or,3408001,Hillsboro SD 1J,11248,R A Brown Middle,,0.1573,,N,N/A,
-or,3408001,Hillsboro SD 1J,11264,Reedville Elem,,0.2548,41.2%,Y,257,
-or,3408001,Hillsboro SD 1J,14530,Rosedale Elementary School,,0.1749,,N,N/A,
-or,3408001,Hillsboro SD 1J,14529,South Meadows Middle School,,0.221,41.2%,Y,731,
-or,3408001,Hillsboro SD 1J,11265,Tobias Elem,,0.2418,,N,N/A,
-or,3408001,Hillsboro SD 1J,11266,W L Henry Elem,,0.2985,41.2%,Y,380,
-or,3408001,Hillsboro SD 1J,11267,W V McKinney Elem,,0.298,41.2%,Y,488,
-or,3408001,Hillsboro SD 1J,11268,West Union Elem,,0.2458,41.2%,Y,358,
-or,3408001,Hillsboro SD 1J,11269,Witch Hazel Elem,,0.2644,41.2%,Y,508,
-or,2608006,"Holy Redeemer Area
-School",11349,Holy Redeemer Area School,,,,N,N/A,
-or,1408001,Hood River SD,10111,Cascade Locks School,,0.4,50.7%,Y,77,
-or,1408001,Hood River SD,10110,Hood River Middle School,,0.2105,,N,N/A,
-or,1408001,Hood River SD,10108,Hood River Valley High School,,0.1416,,N,N/A,
-or,1408001,Hood River SD,10112,May Street Elementary,,0.2233,,N,N/A,
-or,1408001,Hood River SD,10113,Mid Valley Elementary,,0.2672,50.2%,Y,504,
-or,1408001,Hood River SD,10114,Parkdale Elementary,,0.2619,49.0%,Y,204,
-or,1408001,Hood River SD,10116,Westside Elementary,,0.153,,N,N/A,
-or,1408001,Hood River SD,10109,Wy'East Middle School,,0.2409,42.5%,Y,405,
-or,2408003,"Howard Street Charter
-School",15338,Howard Street Charter School,,0.1099,,N,N/A,
-or,108001,Huntington SD,10118,Huntington School,,0.8525,,N,61,
-or,3109001,Imbler SD 11,11155,Imbler Charter School,,0.1267,,N,N/A,
-or,2509001,Ione SD R2,13177,Ione School,,0.2066,,N,N/A,
-or,2609003,"Ivy School, The",15504,Ivy School,,0.1271,,N,N/A,
-or,1610001,Jefferson Co SD 509,10530,Bridges High School,,0.945,57.9%,Y,85,
-or,1610001,Jefferson Co SD 509,13578,Buff Elementary,,0.4727,57.9%,Y,322,
-or,1610001,Jefferson Co SD 509,10525,Jefferson County Middle,,0.4968,57.9%,Y,458,
-or,1610001,Jefferson Co SD 509,10526,Madras Elementary,,0.4828,57.9%,Y,424,
-or,1610001,Jefferson Co SD 509,10524,Madras High,,0.4275,57.9%,Y,642,
-or,1610001,Jefferson Co SD 509,10527,Metolius Elem,,0.5486,57.9%,Y,303,
-or,1610001,Jefferson Co SD 509,15534,Roots Program,,0.0938,57.9%,Y,25,
-or,1610001,Jefferson Co SD 509,15369,Warm Springs K-8 Academy,,0.6743,57.9%,Y,648,
-or,2410001,Jefferson SD 14J,10822,Jefferson Elem,,0.3767,,N,361,
-or,2410001,Jefferson SD 14J,10820,Jefferson High,,0.2519,,N,N/A,
-or,2410001,Jefferson SD 14J,10821,Jefferson Middle,,0.2347,,N,N/A,
-or,410001,Jewell SD 8,10315,Jewell School,,0.2431,,N,N/A,
-or,2410002,JGEMS,15281,JGEMS,,0.1429,,N,N/A,
-or,1207001,John Day SD 3,10082,Grant Union Jr./Sr. High School,,0.2491,,N,N/A,
-or,1207001,John Day SD 3,10084,Humbolt Elementary,,0.3557,,N,298,
-or,1207001,John Day SD 3,10086,Seneca Elementary,,0.1905,,N,N/A,
-or,3210001,Joseph SD 6,15902,Joseph K-12,,0.3258,,N,264,
-or,2010001,Junction City SD 69,10657,Junction City High,,0.2319,,N,N/A,
-or,2010001,Junction City SD 69,10659,Laurel Elem,,0.3058,,N,484,
-or,2010001,Junction City SD 69,10658,Oaklea Middle,,0.2549,,N,N/A,
-or,2010001,Junction City SD 69,10660,Territorial Elem,,0.1702,,N,N/A,
-or,2611004,Kairos PDX,15527,Kairos PDX,,0.2986,,N,N/A,
-or,1511001,Kids Unlimited of Oregon,15445,Kids Unlimited of Oregon,,0.3489,55.5%,Y,429,
-or,211001,"Kings Valley Charter
-School",15140,Kings Valley Charter School,,0.1815,,N,N/A,
-or,1811002,Klamath Co SD,10557,Bonanza Elem,,0.4941,45.6%,Y,228,
-or,1811002,Klamath Co SD,10549,Bonanza High,,0.4183,45.6%,Y,387,
-or,1811002,Klamath Co SD,10554,Brixner Jr High,,0.3697,45.6%,Y,185,
-or,1811002,Klamath Co SD,10558,Chiloquin Elem,,0.6283,45.6%,Y,171,
-or,1811002,Klamath Co SD,10550,Chiloquin High,,0.5076,45.6%,Y,116,
-or,1811002,Klamath Co SD,14807,Falcon Heights Henley HS,,0.5833,45.6%,Y,114,
-or,1811002,Klamath Co SD,10560,Ferguson Elem,,0.3849,45.6%,Y,534,
-or,1811002,Klamath Co SD,10561,Gearhart Elem,,,45.6%,Y,10,
-or,1811002,Klamath Co SD,10562,Gilchrist Elem,,0.5571,45.6%,Y,116,
-or,1811002,Klamath Co SD,10551,Gilchrist High,,0.5052,45.6%,Y,81,
-or,1811002,Klamath Co SD,10563,Henley Elem,,0.209,45.6%,Y,555,
-or,1811002,Klamath Co SD,10552,Henley High,,0.1806,45.6%,Y,648,
-or,1811002,Klamath Co SD,10555,Henley Middle,,0.2049,45.6%,Y,136,
-or,1811002,Klamath Co SD,10564,Keno Elem,,0.3431,45.6%,Y,224,
-or,1811002,Klamath Co SD,10553,Lost River High,,0.2292,45.6%,Y,217,
-or,1811002,Klamath Co SD,10565,Malin Elem,,0.3534,45.6%,Y,127,
-or,1811002,Klamath Co SD,14508,Mazama High School,,0.2669,45.6%,Y,710,
-or,1811002,Klamath Co SD,10568,Merrill Elem,,0.3563,45.6%,Y,147,
-or,1811002,Klamath Co SD,10566,Peterson Elem,,0.3933,45.6%,Y,622,
-or,1811002,Klamath Co SD,13916,Sage Community School,,0.0862,,N,58,
-or,1811002,Klamath Co SD,10567,Shasta Elem,,0.4411,45.6%,Y,592,
-or,1811002,Klamath Co SD,10569,Stearns Elem,,0.608,45.6%,Y,324,
-or,1811005,Klamath Falls SD,10125,Joseph Conger Elementary,,0.608,55.1%,Y,387,
-or,1811005,Klamath Falls SD,15677,Klamath Learning Center,,0.945,55.1%,Y,156,
-or,1811005,Klamath Falls SD,10121,Klamath Union High School,,0.3351,55.1%,Y,604,
-or,1811005,Klamath Falls SD,10126,Mills Elementary,,0.7453,55.1%,Y,371,
-or,1811005,Klamath Falls SD,10127,Pelican Elementary,,0.6089,55.1%,Y,230,
-or,1811005,Klamath Falls SD,10123,Ponderosa Jr High,,0.5096,55.1%,Y,619,
-or,1811005,Klamath Falls SD,10129,Roosevelt Elementary,,0.3153,55.1%,Y,386,
-or,411001,Knappa SD 4,10317,Hilda Lahti Elem,,0.1973,,N,N/A,
-or,411001,Knappa SD 4,10316,Knappa High,,0.1645,,N,N/A,
-or,3112001,LaGrande SD,11159,Central Elem,,0.3669,41.3%,Y,475,
-or,3112001,LaGrande SD,11160,Greenwood Elem,,0.521,41.3%,Y,293,
-or,3112001,LaGrande SD,11161,Island City Elem,,0.3868,41.3%,Y,312,
-or,3112001,LaGrande SD,11157,La Grande High,,0.2532,,N,N/A,
-or,3112001,LaGrande SD,11158,La Grande Middle,,0.3065,41.3%,Y,531,
-or,312001,Lake Oswego SD 7J,10225,Forest Hills Elem,,0.0412,,N,N/A,
-or,312001,Lake Oswego SD 7J,10226,Hallinan Elem,,0.0486,,N,N/A,
-or,312001,Lake Oswego SD 7J,10227,Lake Grove Elem,,0.0388,,N,N/A,
-or,312001,Lake Oswego SD 7J,10223,Lake Oswego Jr High,,0.0498,,N,N/A,
-or,312001,Lake Oswego SD 7J,10220,Lake Oswego Sr High,,0.0363,,N,N/A,
-or,312001,Lake Oswego SD 7J,10221,Lakeridge High,,0.0282,,N,N/A,
-or,312001,Lake Oswego SD 7J,10222,Lakeridge Jr High,,0.0246,,N,N/A,
-or,312001,Lake Oswego SD 7J,10228,Oak Creek Elem,,0.0494,,N,N/A,
-or,312001,Lake Oswego SD 7J,10230,River Grove Elem,,0.0348,,N,N/A,
-or,312001,Lake Oswego SD 7J,10232,Westridge Elem,,0.0213,,N,N/A,
-or,1912001,Lakeview SD,10572,Daly Middle,,0.225,,N,N/A,
-or,1912001,Lakeview SD,10573,Fremont/Hay Elem,,0.3478,,N,368,
-or,1912001,Lakeview SD,14203,Lakeview Sr High School,,0.1955,,N,N/A,
-or,1912001,Lakeview SD,10574,Union Elem,,0.1176,,N,N/A,
-or,2012007,Lane ESD,13675,Lane School,,,,N,N/A,
-or,2212001,"Lebanon Community SD
-9",10764,Cascades School,,0.4554,44.6%,Y,326,
-or,2212001,"Lebanon Community SD
-9",10767,Green Acres Elem,,0.5291,44.6%,Y,341,
-or,2212001,"Lebanon Community SD
-9",10768,Hamilton Creek Elem,,0.38,44.6%,Y,298,
-or,2212001,"Lebanon Community SD
-9",10769,Lacomb Elem,,0.3138,44.6%,Y,242,
-or,2212001,"Lebanon Community SD
-9",10759,Lebanon High,,0.3046,,N,1251,
-or,2212001,"Lebanon Community SD
-9",13031,Pioneer School,,0.4558,44.6%,Y,347,
-or,2212001,"Lebanon Community SD
-9",13030,Riverview School,,0.3604,44.6%,Y,420,
-or,2212001,"Lebanon Community SD
-9",10762,Seven Oak Middle,,0.3785,44.0%,Y,600,
-or,2612007,"Lewis & Clark Montessori
-Charter School",15507,LCMCS,,0.1231,,N,N/A,
-or,2112001,Lincoln Co SD,10734,Crestview Heights,,0.4256,40.6%,Y,316,
-or,2112001,Lincoln Co SD,10728,Eddyville Charter School,,0.3925,40.6%,Y,194,
-or,2112001,Lincoln Co SD,10717,Newport High,,0.2645,40.6%,Y,631,
-or,2112001,Lincoln Co SD,10722,Newport Middle School,,0.3196,40.6%,Y,468,
-or,2112001,Lincoln Co SD,10730,Oceanlake Elem,,0.5304,40.6%,Y,375,
-or,2112001,Lincoln Co SD,14711,Olalla Center,,,40.6%,Y,6,
-or,2112001,Lincoln Co SD,10731,Sam Case Elem,,0.3505,40.6%,Y,470,
-or,2112001,Lincoln Co SD,10732,Siletz Valley School,,0.4286,40.6%,Y,204,
-or,2112001,Lincoln Co SD,10733,Taft Elem,,0.4444,40.6%,Y,540,
-or,2112001,Lincoln Co SD,10718,Taft High,,0.1977,40.6%,Y,749,
-or,2112001,Lincoln Co SD,10724,Toledo Elementary,,0.3606,40.6%,Y,427,
-or,2112001,Lincoln Co SD,10719,Toledo High,,0.2261,40.6%,Y,307,
-or,2112001,Lincoln Co SD,10720,Waldport High,,0.2287,40.6%,Y,259,
-or,2112001,Lincoln Co SD,15633,Yaquina View Elementary,,0.3786,40.6%,Y,445,
-or,1212001,Long Creek SD 17,10461,Long Creek School,,0.381,53.7%,Y,41,
-or,2012004,"Looking Glass
-Community Services",12285,River Front,,0.2222,,N,N/A,
-or,2012005,Lowell SD 71,10661,Lowell High,,0.3032,40.5%,Y,190,
-or,2012005,Lowell SD 71,10662,Lundy Elem,,0.454,46.2%,Y,171,
-or,2012005,Lowell SD 71,15451,Mountain View Academy,,0.1022,,N,N/A,
-or,2712001,"Luckiamute Valley
-Charter Schools",15995,Bridgeport,,0.5036,,N,139,
-or,2712001,"Luckiamute Valley
-Charter Schools",15994,Pedee,,0.945,,N,58,
-or,2013001,Mapleton SD 32,14211,Mapleton Elementary,,0.4842,56.6%,Y,73,
-or,2013001,Mapleton SD 32,10664,Mapleton Jr/Sr High,,0.3951,56.6%,Y,70,
-or,2013002,Marcola SD 79J,10667,Marcola Elem,,0.3885,,N,139,
-or,2013002,Marcola SD 79J,10666,Mohawk Jr/Sr High,,0.2193,,N,N/A,
-or,2013003,McKenzie SD 68,10669,MRCS K-12,,0.4348,47.7%,Y,199,
-or,3613001,McMinnville SD 40,11302,A Duniway Middle,,0.2764,,N,N/A,
-or,3613001,McMinnville SD 40,11305,Columbus Elem,,0.3367,43.4%,Y,496,
-or,3613001,McMinnville SD 40,11303,F Patton Middle,,0.3495,,N,864,
-or,3613001,McMinnville SD 40,11677,Grandhaven,,0.3869,43.4%,Y,526,
-or,3613001,McMinnville SD 40,11301,McMinnville High,,0.226,,N,N/A,
-or,3613001,McMinnville SD 40,11307,Memorial Elem,,0.2007,,N,N/A,
-or,3613001,McMinnville SD 40,11308,Newby Elem,,0.3301,43.4%,Y,564,
-or,3613001,McMinnville SD 40,14226,Sue Buel Elementary,,0.3633,43.4%,Y,518,
-or,3613001,McMinnville SD 40,11309,Wascher Elem,,0.2877,43.4%,Y,453,
-or,1513001,Medford SD 549,10498,Abraham Lincoln Elem,,0.2535,40.6%,Y,570,
-or,1513001,Medford SD 549,14407,Central Medford High,,0.4,40.6%,Y,206,
-or,1513001,Medford SD 549,10499,Griffin Creek Elem,,0.3179,40.6%,Y,604,
-or,1513001,Medford SD 549,10496,Hedrick Middle,,0.3029,40.6%,Y,1042,
-or,1513001,Medford SD 549,10500,Hoover Elem,,0.2331,40.6%,Y,709,
-or,1513001,Medford SD 549,10501,Howard Elem,,0.4123,40.6%,Y,410,
-or,1513001,Medford SD 549,10502,Jackson Elementary,,0.6866,40.6%,Y,405,
-or,1513001,Medford SD 549,10503,Jacksonville Elem,,0.2358,40.6%,Y,439,
-or,1513001,Medford SD 549,10504,Jefferson Elem,,0.4741,40.6%,Y,480,
-or,1513001,Medford SD 549,10505,Kennedy Elem,,0.4915,40.6%,Y,600,
-or,1513001,Medford SD 549,10506,Lone Pine Elem,,0.1818,,N,N/A,
-or,1513001,Medford SD 549,14806,Madrone Trail Public Charter,,0.319,40.6%,Y,238,
-or,1513001,Medford SD 549,10497,McLoughlin Middle,,0.4068,40.6%,Y,1007,
-or,1513001,Medford SD 549,10494,North Medford High,,0.2594,40.6%,Y,1667,
-or,1513001,Medford SD 549,10507,Oak Grove,,0.4758,40.6%,Y,472,
-or,1513001,Medford SD 549,10508,Roosevelt Elem,,0.6019,40.6%,Y,426,
-or,1513001,Medford SD 549,10509,Ruch Elem,,0.2785,40.6%,Y,215,
-or,1513001,Medford SD 549,10495,South Medford High,,0.2553,40.6%,Y,1776,
-or,1513001,Medford SD 549,15663,The Valley School of Southern Oregon,,0.1083,,N,N/A,
-or,1513001,Medford SD 549,10510,Washington Elem,,0.6386,40.6%,Y,359,
-or,1513001,Medford SD 549,10511,Wilson Elem,,0.5556,40.6%,Y,472,
-or,3013001,Milton-Freewater SD 7,11129,Central Middle,,0.3499,46.4%,Y,407,
-or,3013001,Milton-Freewater SD 7,11130,Ferndale Elem,,0.3993,,N,268,
-or,3013001,Milton-Freewater SD 7,16086,Gib Olinger Elementary,,0.4114,46.4%,Y,547,
-or,3013001,Milton-Freewater SD 7,11128,McLoughlin High,,0.2916,46.4%,Y,524,
-or,3513001,Mitchell SD 55,11292,Mitchell School,,0.3265,,N,49,
-or,314004,Molalla River Academy,15699,Molalla River Academy,,0.0852,,N,N/A,
-or,313001,Molalla River SD 35,10236,Clarkes Elem,,0.1862,,N,N/A,
-or,313001,Molalla River SD 35,10239,Molalla Elem,,0.3356,,N,432,
-or,313001,Molalla River SD 35,10234,Molalla High,,0.1567,,N,N/A,
-or,313001,Molalla River SD 35,10235,Molalla River Middle,,0.2709,,N,N/A,
-or,313001,Molalla River SD 35,10240,Mulino Elem,,0.2175,,N,N/A,
-or,313001,Molalla River SD 35,10241,Rural Dell Elem,,0.2047,,N,N/A,
-or,213001,Monroe SD,10188,Monroe Grade School,,0.2897,,N,N/A,
-or,213001,Monroe SD,10187,Monroe High,,0.1129,,N,N/A,
-or,1213001,Monument SD 8,10463,Monument School,,0.2295,,N,N/A,
-or,2613004,Morrison Center,11424,BreakThrough,,,,N,N/A,
-or,2613004,Morrison Center,11421,Counterpoint,,,,N,N/A,
-or,2513001,Morrow Co SD,10918,A C Houghton Elem,,0.3382,42.1%,Y,264,
-or,2513001,Morrow Co SD,10919,Heppner Elem,,0.1639,42.1%,Y,188,
-or,2513001,Morrow Co SD,10914,Heppner High,,0.1284,42.1%,Y,147,
-or,2513001,Morrow Co SD,13374,Irrigon Elementary,,0.3226,42.1%,Y,210,
-or,2513001,Morrow Co SD,10917,Irrigon Jr/Sr High School,,0.2564,42.1%,Y,364,
-or,2513001,Morrow Co SD,13505,Morrow Education Center,,0.7674,42.1%,Y,71,
-or,2513001,Morrow Co SD,10916,Riverside High,,0.1605,42.1%,Y,470,
-or,2513001,Morrow Co SD,10921,Sam Boardman Elem,,0.2159,42.1%,Y,374,
-or,2513001,Morrow Co SD,13373,Windy River Elementary,,0.2399,42.1%,Y,264,
-or,3313002,"Mosier Community
-School Foundation, Inc.",15896,Mosier Community School,,0.2049,,N,N/A,
-or,2413003,Mt. Angel SD 91,10823,John F Kennedy High,,0.1818,,N,N/A,
-or,2413003,Mt. Angel SD 91,10824,Mt Angel Middle,,0.2526,,N,N/A,
-or,2413003,Mt. Angel SD 91,10825,St Mary's Public School,,0.2955,,N,N/A,
-or,2613006,"Mt. Scott Learning
-Center",13059,Mt. Scott Learning Center,,0.5105,40.6%,Y,133,
-or,2613008,Multnomah ESD,12284,Arata Creek,,0.945,,N,55,
-or,2613008,Multnomah ESD,12828,Burlingame Creek,,,,N,N/A,
-or,2613008,Multnomah ESD,11915,Helensview,,0.4383,,N,162,
-or,2613008,Multnomah ESD,16012,Knott Creek School,,,,N,N/A,
-or,2613008,Multnomah ESD,14027,Wheatley School,,0.8214,,N,56,
-or,3413002,Muslim Educational,15876,Muslim Educational Trust (MET),,,,N,N/A,
-or,613002,Myrtle Point SD 41,10371,Myrtle Crest School,,0.2922,41.7%,Y,326,
-or,613002,Myrtle Point SD 41,10366,Myrtle Point High,,0.2412,45.8%,Y,262,
-or,2614007,"Native American Youth
-and Family Center",13859,Early College Academy,,0.5231,63.0%,Y,54,
-or,2914001,Neah-Kah-Nie SD 56,11104,Garibaldi Elem,,0.4094,,N,149,
-or,2914001,Neah-Kah-Nie SD 56,14213,Neah-Kah-Nie High School,,0.2564,,N,N/A,
-or,2914001,Neah-Kah-Nie SD 56,14214,Neah-Kah-Nie Middle School,,0.3575,,N,207,
-or,2914001,Neah-Kah-Nie SD 56,11105,Nehalem Elem,,0.2472,,N,N/A,
-or,2914002,Nestucca Valley SD 101J,11106,Nestucca High,,0.267,42.8%,Y,220,
-or,2914002,Nestucca Valley SD 101J,11108,Nestucca Valley Elem,,0.4164,42.8%,Y,266,
-or,2014003,Network Charter School,13580,Network Charter School,,0.566,44.4%,Y,115,
-or,2614006,New Avenues for Youth,12766,Day Service,,,,N,N/A,
-or,3614001,Newberg SD 29J,11313,Antonia Crater Elem,,0.2,,N,N/A,
-or,3614001,Newberg SD 29J,11311,Chehalem Valley Middle,,0.1776,,N,N/A,
-or,3614001,Newberg SD 29J,11314,Dundee Elem,,0.2188,,N,N/A,
-or,3614001,Newberg SD 29J,11315,Edwards Elem,,0.2743,45.1%,Y,566,
-or,3614001,Newberg SD 29J,11316,Ewing Young Elem,,0.1346,,N,N/A,
-or,3614001,Newberg SD 29J,13627,Joan Austin Elementary,,0.2676,,N,N/A,
-or,3614001,Newberg SD 29J,11317,Mabel Rush Elem,,0.1757,,N,N/A,
-or,3614001,Newberg SD 29J,11312,Mountain View Middle,,0.2407,,N,N/A,
-or,3614001,Newberg SD 29J,11310,Newberg Sr High,,0.142,,N,N/A,
-or,3614001,Newberg SD 29J,15393,Springbrook Education Center,,,45.1%,Y,151,
-or,1414001,"Next Door, Inc., The",11360,Klahre House,,,,N,N/A,
-or,614001,North Bend SD 13,10377,Hillcrest Elem,,0.4226,42.2%,Y,461,
-or,614001,North Bend SD 13,10378,North Bay Elem,,0.4832,42.2%,Y,473,
-or,614001,North Bend SD 13,10375,North Bend Middle School,,0.3379,42.2%,Y,561,
-or,614001,North Bend SD 13,10374,North Bend Sr High,,0.2344,,N,N/A,
-or,314001,North Clackamas SD 12,13195,Alder Creek Middle School,,0.2958,,N,N/A,
-or,314001,North Clackamas SD 12,10250,Ardenwald Elem,,0.327,,N,422,
-or,314001,North Clackamas SD 12,16194,Beatrice Morrow Cannady Elementary,,0.106,,N,N/A,
-or,314001,North Clackamas SD 12,10251,Bilquist Elem,,0.3616,,N,401,
-or,314001,North Clackamas SD 12,15030,Cascade Heights Charter School,,0.1116,,N,N/A,
-or,314001,North Clackamas SD 12,10243,Clackamas High,,0.1203,,N,N/A,
-or,314001,North Clackamas SD 12,14827,Clackamas High - East Campus,,0.0273,,N,N/A,
-or,314001,North Clackamas SD 12,13198,El Puente Magnet School,,0.2389,,N,N/A,
-or,314001,North Clackamas SD 12,10255,Happy Valley Elem,,0.0589,,N,N/A,
-or,314001,North Clackamas SD 12,14515,Happy Valley Middle School,,0.1037,,N,N/A,
-or,314001,North Clackamas SD 12,10256,Lewelling Elem,,0.3887,44.2%,Y,327,
-or,314001,North Clackamas SD 12,10257,Linwood Elem,,0.4517,46.7%,Y,282,
-or,314001,North Clackamas SD 12,10258,Milwaukie Elem,,0.3013,,N,156,
-or,314001,North Clackamas SD 12,10244,Milwaukie High,,0.2379,,N,N/A,
-or,314001,North Clackamas SD 12,10259,Mount Scott Elem,,0.1029,,N,N/A,
-or,314001,North Clackamas SD 12,13196,New Urban High School,,0.425,46.7%,Y,129,
-or,314001,North Clackamas SD 12,10262,Oak Grove Elem,,0.4042,,N,334,
-or,314001,North Clackamas SD 12,10263,Oregon Trail Elem,,0.122,,N,N/A,
-or,314001,North Clackamas SD 12,13834,Pace- High School,,,,N,N/A,
-or,314001,North Clackamas SD 12,10245,Putnum High,,0.2033,,N,N/A,
-or,314001,North Clackamas SD 12,10264,Riverside Elem,,0.2987,,N,N/A,
-or,314001,North Clackamas SD 12,14790,Rock Creek Middle School,,0.1665,,N,N/A,
-or,314001,North Clackamas SD 12,10246,Rowe Middle,,0.3863,44.2%,Y,819,
-or,314001,North Clackamas SD 12,14513,Scouters Mountain Elementary,,0.0917,,N,N/A,
-or,314001,North Clackamas SD 12,10272,Sojourner Elementary,,0.0943,,N,N/A,
-or,314001,North Clackamas SD 12,12513,Spring Mt Elem,,0.1127,,N,N/A,
-or,314001,North Clackamas SD 12,10265,Sunnyside Elem,,0.1828,,N,N/A,
-or,314001,North Clackamas SD 12,14514,Verne A. Duncan Elementary,,0.1967,,N,N/A,
-or,314001,North Clackamas SD 12,10266,View Acres Elem,,0.1944,,N,N/A,
-or,314001,North Clackamas SD 12,10267,Whitcomb Elem,,0.5291,44.2%,Y,380,
-or,1014001,North Douglas SD 22,10421,North Douglas Elem. Cafeteria,,0.3815,44.0%,Y,284,
-or,1014001,North Douglas SD 22,10420,North Douglas High,,0.1579,44.0%,Y,80,
-or,1914001,North Lake SD 14,10577,North Lake School,,0.5385,,N,234,
-or,2414002,North Marion SD 15,10826,North Marion High,,0.1556,,N,N/A,
-or,2414002,North Marion SD 15,10828,North Marion Intermediate,,0.2821,,N,N/A,
-or,2414002,North Marion SD 15,10827,North Marion Middle,,0.2848,,N,N/A,
-or,2414002,North Marion SD 15,12294,North Marion Primary,,0.285,,N,N/A,
-or,3114001,North Powder SD 8J,11165,Powder Valley School,,0.2873,,N,N/A,
-or,2414003,North Santiam SD 29,10832,Mari-Linn Elem,,0.3194,,N,216,
-or,2414003,North Santiam SD 29,13489,Regis High School,,,,N,N/A,
-or,2414003,North Santiam SD 29,10834,Stayton Elem,,0.435,,N,377,
-or,2414003,North Santiam SD 29,10829,Stayton High,,0.2187,,N,N/A,
-or,2414003,North Santiam SD 29,10830,Stayton Middle,,0.4004,,N,562,
-or,2414003,North Santiam SD 29,10835,Sublimity School,,0.1818,,N,N/A,
-or,3314003,North Wasco Co. SD,13353,Chenowith Elem,,0.4606,47.9%,Y,332,
-or,3314003,North Wasco Co. SD,13357,Colonel Wright Elem,,0.3799,47.9%,Y,258,
-or,3314003,North Wasco Co. SD,13358,Dry Hollow Elem,,0.3538,47.9%,Y,392,
-or,3314003,North Wasco Co. SD,13359,The Dalles High,,0.2079,47.9%,Y,1009,
-or,3314003,North Wasco Co. SD,13360,The Dalles Middle,,0.3426,47.9%,Y,648,
-or,3314003,North Wasco Co. SD,15120,Wahtonka Campus,,0.2642,47.9%,Y,30,
-or,2314001,Nyssa SD 26,15720,Nyssa Early Head Start Program,,,66.7%,Y,7,
-or,2314001,Nyssa SD 26,10800,Nyssa Elem,,0.5149,66.7%,Y,556,
-or,2314001,Nyssa SD 26,10798,Nyssa High,,0.3926,66.7%,Y,330,
-or,2314001,Nyssa SD 26,10799,Nyssa Middle,,0.4247,66.7%,Y,263,
-or,1015001,Oakland SD,11612,Lincoln Middle School,,0.407,,N,199,
-or,1015001,Oakland SD,14197,Oakland Elementary,,0.3839,,N,224,
-or,1015001,Oakland SD,10422,Oakland High,,0.2108,,N,N/A,
-or,2015001,Oakridge SD 76,10672,Oakridge Elem,,0.5325,51.5%,Y,312,
-or,2015001,Oakridge SD 76,13799,Oakridge Jr/Sr High,,0.2069,51.5%,Y,80,
-or,2015001,Oakridge SD 76,15188,Westridge Alternative Education Prog.,,,51.5%,Y,159,
-or,2315001,Ontario SD,10804,Aiken Elem,,0.5502,65.5%,Y,292,
-or,2315001,Ontario SD,10803,Alameda Elem,,0.6073,65.5%,Y,398,
-or,2315001,Ontario SD,10805,Cairo Elem,,0.557,65.5%,Y,147,
-or,2315001,Ontario SD,10806,May Roberts Elem,,0.7775,65.5%,Y,389,
-or,2315001,Ontario SD,10802,Ontario Middle,,0.5399,65.5%,Y,330,
-or,2315001,Ontario SD,10801,Ontario Sr High,,0.3784,,N,695,
-or,2315001,Ontario SD,10807,Pioneer Elem,,0.5847,65.5%,Y,110,
-or,2615002,Open School Inc.,15853,Open School East,,0.6,64.3%,Y,112,
-or,315002,Oregon City SD 62,10278,Beavercreek Elem,,0.1704,,N,N/A,
-or,315002,Oregon City SD 62,10279,Candy Lane Elem,,0.2358,,N,N/A,
-or,315002,Oregon City SD 62,15696,Clackamas Academy of Industrial Sciences,,0.129,,N,N/A,
-or,315002,Oregon City SD 62,16047,Clackamas ESD,,,40.3%,Y,121,
-or,315002,Oregon City SD 62,15523,Eastham Preschool,,0.5556,,N,54,
-or,315002,Oregon City SD 62,10280,Gaffney Lane Elem,,0.2754,,N,N/A,
-or,315002,Oregon City SD 62,10276,Gardiner Middle,,0.2144,,N,N/A,
-or,315002,Oregon City SD 62,15879,Heron Creek - Clackamas River,,0.6977,,N,43,
-or,315002,Oregon City SD 62,14001,Heron Creek - Eastham,,0.5769,,N,52,
-or,315002,Oregon City SD 62,10281,Holcomb Elem,,0.3803,,N,610,
-or,315002,Oregon City SD 62,15697,Jackson Campus - Alt Ed,,0.945,,N,31,
-or,315002,Oregon City SD 62,10282,Jennings Lodge Elem,,0.2573,,N,N/A,
-or,315002,Oregon City SD 62,10283,John McLoughlin Elem,,0.1246,,N,N/A,
-or,315002,Oregon City SD 62,10277,Ogden Middle,,0.2188,,N,N/A,
-or,315002,Oregon City SD 62,10274,Oregon City High,,0.1537,,N,N/A,
-or,315002,Oregon City SD 62,10288,Oregon Service Learning Academy,,0.3182,,N,176,
-or,315002,Oregon City SD 62,10287,Redland Elem,,0.2021,,N,N/A,
-or,2415003,"Oregon School for the
-Deaf",11385,Oregon School for the Deaf,,0.2456,,N,N/A,
-or,315003,Oregon Trail SD 46,10291,Boring Middle,,0.16,,N,N/A,
-or,315003,Oregon Trail SD 46,10292,Cedar Ridge Middle,,0.2073,,N,N/A,
-or,315003,Oregon Trail SD 46,10296,Firwood Elem,,0.2184,,N,N/A,
-or,315003,Oregon Trail SD 46,10297,Kelso Elem,,0.1332,,N,N/A,
-or,315003,Oregon Trail SD 46,10298,Naas Elem,,0.1871,,N,N/A,
-or,315003,Oregon Trail SD 46,14854,Oregon Trail Primary Academy,,0.1329,,N,N/A,
-or,315003,Oregon Trail SD 46,10299,Sandy Grade,,0.2953,,N,N/A,
-or,315003,Oregon Trail SD 46,10290,Sandy High,,0.1469,,N,N/A,
-or,315003,Oregon Trail SD 46,10300,Welches Elem,,0.2455,,N,N/A,
-or,315003,Oregon Trail SD 46,10293,Welches Middle,,0.1619,,N,N/A,
-or,2616002,Parkrose SD 3,10965,Parkrose High,,0.3039,42.0%,Y,949,
-or,2616002,Parkrose SD 3,10966,Parkrose Middle,,0.3763,42.0%,Y,773,
-or,2616002,Parkrose SD 3,10967,Prescott Elem,,0.422,42.0%,Y,355,
-or,2616002,Parkrose SD 3,10968,Russell Elem,,0.399,42.0%,Y,379,
-or,2616002,Parkrose SD 3,10969,Sacramento Elem,,0.3225,42.0%,Y,302,
-or,2616002,Parkrose SD 3,10970,Shaver Elem,,0.466,42.0%,Y,305,
-or,3016001,Pendleton SD 16,11136,McKay Creek Elem,,0.2257,49.5%,Y,257,
-or,3016001,Pendleton SD 16,15606,Pendleton Early Learning Center (PELC),,0.3063,49.5%,Y,397,
-or,3016001,Pendleton SD 16,11133,Pendleton High,,0.226,,N,N/A,
-or,3016001,Pendleton SD 16,11137,Sherwood Heights Elem,,0.4921,49.5%,Y,444,
-or,3016001,Pendleton SD 16,11134,Sunridge Middle,,0.3871,,N,744,
-or,3016001,Pendleton SD 16,11138,Washington Elem,,0.4588,49.5%,Y,434,
-or,2716001,Perrydale SD 21,11098,Perrydale School,,0.1754,,N,N/A,
-or,216001,Philomath SD 17J,10193,Blodgett Elem,,0.4091,,N,22,
-or,216001,Philomath SD 17J,12530,Clemens Primary,,0.2118,,N,N/A,
-or,216001,Philomath SD 17J,10195,Philomath Elem,,0.2461,,N,N/A,
-or,216001,Philomath SD 17J,10191,Philomath High,,0.1306,,N,N/A,
-or,216001,Philomath SD 17J,10192,Philomath Middle,,0.2615,,N,N/A,
-or,1016002,"Phoenix School of
-Roseburg",11356,Phoenix School,,0.4709,45.8%,Y,166,
-or,1516001,Phoenix-Talent SD,13385,Armadillo Charter School,,0.4479,48.5%,Y,84,
-or,1516001,Phoenix-Talent SD,10515,Orchard Hill Elem,,0.488,48.5%,Y,405,
-or,1516001,Phoenix-Talent SD,10516,Phoenix Elem,,0.4829,48.5%,Y,374,
-or,1516001,Phoenix-Talent SD,10513,Phoenix High,,0.3036,48.5%,Y,654,
-or,1516001,Phoenix-Talent SD,10517,Talent Elem,,0.3951,48.5%,Y,454,
-or,1516001,Phoenix-Talent SD,10514,Talent Middle,,0.4098,48.5%,Y,564,
-or,3016002,Pilot Rock SD 2,11142,Pilot Rock Elem,,0.2994,41.1%,Y,138,
-or,3016002,Pilot Rock SD 2,11141,Pilot Rock High,,0.3109,41.1%,Y,176,
-or,116001,"Pine-Eagle Charter
-School",14194,Pine Eagle Charter School,,0.2582,,N,N/A,
-or,2016002,Pleasant Hill SD 1,10676,Pleasant Hill Elementary,,0.2461,,N,N/A,
-or,2016002,Pleasant Hill SD 1,10674,Pleasant Hill High School,,0.1734,,N,N/A,
-or,816001,Port Orford-Langlois SD,10386,Driftwood Elem,,0.4917,45.3%,Y,177,
-or,816001,Port Orford-Langlois SD,10384,Pacific High,,0.3191,45.3%,Y,44,
-or,2616010,Portland OIC,15894,RAHS Lents,,,41.6%,Y,89,
-or,2616010,Portland OIC,15630,RAHS New Columbia,,,50.6%,Y,79,
-or,2616010,Portland OIC,11437,RAHS North,,,48.6%,Y,109,
-or,2616010,Portland OIC,16328,RAMS (Rosemary Anderson Middle School),,,86.7%,Y,30,
-or,2616010,Portland OIC,15528,Rosemary Anderson High School East,,0.5067,48.6%,Y,134,
-or,2616011,Portland SD,11000,Abernethy Elem,,0.0827,,N,N/A,
-or,2616011,Portland SD,15025,Access,,,,N,N/A,
-or,2616011,Portland SD,11001,Ainsworth Elem,,0.0542,,N,N/A,
-or,2616011,Portland SD,11002,Alameda Elem,,0.0453,,N,N/A,
-or,2616011,Portland SD,14872,Alliance HS @ Meek,,0.5433,40.3%,Y,324,
-or,2616011,Portland SD,11004,Arleta Elem,,0.2846,40.4%,Y,516,
-or,2616011,Portland SD,11005,Astor Elem,,0.235,40.3%,Y,414,
-or,2616011,Portland SD,11006,Atkinson Elem,,0.1501,,N,N/A,
-or,2616011,Portland SD,11008,Beach Elem,,0.2421,40.3%,Y,437,
-or,2616011,Portland SD,10982,Beaumont Middle,,0.207,40.3%,Y,574,
-or,2616011,Portland SD,10971,Benson High,,0.1863,40.3%,Y,1020,
-or,2616011,Portland SD,14256,Beverly Cleary Hollyrood/Fernwood,,0.0455,,N,N/A,
-or,2616011,Portland SD,11009,Boise/Eliot Elem,,0.5376,40.3%,Y,342,
-or,2616011,Portland SD,11010,Bridger Elem,,0.2824,40.4%,Y,508,
-or,2616011,Portland SD,11011,Bridlemile Elem,,0.0904,,N,N/A,
-or,2616011,Portland SD,11013,Buckman Elem,,0.2005,40.3%,Y,423,
-or,2616011,Portland SD,11014,Capitol Hill Elem,,0.1322,,N,N/A,
-or,2616011,Portland SD,10995,Cesar Chavez,,0.4703,40.3%,Y,549,
-or,2616011,Portland SD,11015,Chapman Elem,,0.2616,40.3%,Y,475,
-or,2616011,Portland SD,11016,Chief Joseph Elem,,0.1966,40.3%,Y,335,
-or,2616011,Portland SD,10972,Cleveland High,,0.1108,,N,N/A,
-or,2616011,Portland SD,14245,Creative Science,,0.1325,,N,N/A,
-or,2616011,Portland SD,11019,Creston Elem,,0.277,40.4%,Y,382,
-or,2616011,Portland SD,15515,CTC NE,,0.945,,N,70,
-or,2616011,Portland SD,15514,CTC SE,,0.945,,N,67,
-or,2616011,Portland SD,11067,Da Vinci Middle,,0.1369,,N,N/A,
-or,2616011,Portland SD,11020,Duniway Elem,,0.0664,,N,N/A,
-or,2616011,Portland SD,11022,Faubion Elem,,0.3722,40.3%,Y,797,
-or,2616011,Portland SD,11023,Forest Park Elem,,0.0172,,N,N/A,
-or,2616011,Portland SD,10973,Franklin High,,0.2078,,N,N/A,
-or,2616011,Portland SD,10986,George Middle,,0.5426,40.3%,Y,437,
-or,2616011,Portland SD,11024,Glencoe Elem,,0.1131,,N,N/A,
-or,2616011,Portland SD,10974,Grant High,,0.0699,,N,N/A,
-or,2616011,Portland SD,10987,Gray Middle,,0.1098,,N,N/A,
-or,2616011,Portland SD,11025,Grout Elem,,0.3747,40.3%,Y,402,
-or,2616011,Portland SD,16084,Harriet Tubman MS,,0.3871,40.3%,Y,412,
-or,2616011,Portland SD,14257,Harrison Park,,0.4985,40.4%,Y,631,
-or,2616011,Portland SD,11026,Hayhurst Elem,,0.2085,40.3%,Y,393,
-or,2616011,Portland SD,10989,Hosford Middle,,0.1616,,N,N/A,
-or,2616011,Portland SD,11030,Irvington Elem,,0.2036,,N,N/A,
-or,2616011,Portland SD,10990,Jackson Middle,,0.1404,,N,N/A,
-or,2616011,Portland SD,11031,James John Elementary,,0.3649,40.3%,Y,351,
-or,2616011,Portland SD,10975,Jefferson High,,0.3354,40.3%,Y,623,
-or,2616011,Portland SD,11032,Kelly Elementary,,0.4351,40.3%,Y,611,
-or,2616011,Portland SD,10992,Lane Middle,,0.4607,40.4%,Y,446,
-or,2616011,Portland SD,11035,Laurelhurst Elem,,0.0644,,N,N/A,
-or,2616011,Portland SD,11036,Lee Elem,,0.427,40.3%,Y,308,
-or,2616011,Portland SD,11037,Lent Elem,,0.4461,40.4%,Y,471,
-or,2616011,Portland SD,11038,Lewis Elem,,0.1719,,N,N/A,
-or,2616011,Portland SD,10976,Lincoln High,,0.0413,,N,N/A,
-or,2616011,Portland SD,11039,Llewellyn Elem,,0.0781,,N,N/A,
-or,2616011,Portland SD,10977,Madison High,,0.3285,40.3%,Y,1028,
-or,2616011,Portland SD,11040,Maplewood Elem,,0.1114,,N,N/A,
-or,2616011,Portland SD,11041,Markham Elem,,0.3516,40.3%,Y,433,
-or,2616011,Portland SD,11034,Martin Luther King Jr School,,0.4223,40.3%,Y,337,
-or,2616011,Portland SD,11042,Marysville Elem,,0.5063,40.4%,Y,422,
-or,2616011,Portland SD,11069,Metropolitan Learning Ctr,,0.1018,,N,N/A,
-or,2616011,Portland SD,10993,Mt Tabor Middle,,0.0897,,N,N/A,
-or,2616011,Portland SD,14092,Ockley Green,,0.3191,40.3%,Y,478,
-or,2616011,Portland SD,15844,Odyssey @ East Sylvan,,0.9061,,N,245,
-or,2616011,Portland SD,11044,Peninsula Elementary,,0.2677,40.3%,Y,257,
-or,2616011,Portland SD,13801,Pioneer Programs,,,40.3%,Y,106,
-or,2616011,Portland SD,11045,Richmond Elem,,0.043,,N,N/A,
-or,2616011,Portland SD,11046,Rieke Elem,,0.0842,,N,N/A,
-or,2616011,Portland SD,11047,Rigler Elem,,0.4116,40.3%,Y,301,
-or,2616011,Portland SD,10980,Roosevelt High,,0.3394,40.3%,Y,1165,
-or,2616011,Portland SD,13804,Rosa Parks Elem,,0.6655,40.3%,Y,284,
-or,2616011,Portland SD,11048,Rose City Park Elem,,0.1948,40.3%,Y,529,
-or,2616011,Portland SD,10988,Roseway Heights Middle School,,0.3669,40.3%,Y,610,
-or,2616011,Portland SD,11049,Sabin Elem,,0.1449,,N,N/A,
-or,2616011,Portland SD,11050,Scott Elem,,0.4608,40.3%,Y,477,
-or,2616011,Portland SD,10996,Sellwood Middle,,0.0908,,N,N/A,
-or,2616011,Portland SD,11051,Sitton Elementary,,0.533,40.3%,Y,416,
-or,2616011,Portland SD,11052,Skyline Elem,,0.0635,,N,N/A,
-or,2616011,Portland SD,11054,Stephenson Elem,,0.067,,N,N/A,
-or,2616011,Portland SD,11055,Sunnyside Environmental School,,0.1447,,N,N/A,
-or,2616011,Portland SD,11056,Vernon Elem,,0.2869,40.3%,Y,596,
-or,2616011,Portland SD,11057,Vestal Elem,,0.4183,40.4%,Y,248,
-or,2616011,Portland SD,10998,West Sylvan Middle,,0.0631,,N,N/A,
-or,2616011,Portland SD,11059,Whitman Elem,,0.45,40.3%,Y,265,
-or,2616011,Portland SD,10981,Wilson High,,0.1227,,N,N/A,
-or,2616011,Portland SD,11012,Winterhaven Middle,,0.0736,,N,N/A,
-or,2616011,Portland SD,11061,Woodlawn Elementary,,0.3952,40.3%,Y,330,
-or,2616011,Portland SD,11064,Woodmere Elem,,0.4349,40.3%,Y,292,
-or,2616011,Portland SD,11065,Woodstock Elem,,0.1436,,N,N/A,
-or,2616011,Portland SD,16035,Youth Progress Association,,,40.3%,Y,8,
-or,2616024,Portland Village School,14410,Portland Village School,,0.2005,,N,N/A,
-or,1216001,Prairie City SD 4,10465,Prairie City School,,0.2959,,N,N/A,
-or,1516002,Prospect SD 59,10519,Prospect School,,0.5459,58.2%,Y,225,
-or,518001,Rainier SD 13,14196,Hudson Park Elementary,,0.3366,,N,514,
-or,518001,Rainier SD 13,13849,North Columbia Academy,,0.2917,,N,N/A,
-or,518001,Rainier SD 13,10330,Rainier Jr/Sr High School,,0.2371,,N,N/A,
-or,918002,Redmond SD 2J,15832,Early Learning Center at Hugh Hartman,,0.277,40.8%,Y,439,
-or,918002,Redmond SD 2J,10401,Edwin Brown Education,,,40.8%,Y,626,
-or,918002,Redmond SD 2J,13805,Elton Gregory Middle,,0.2807,,N,N/A,
-or,918002,Redmond SD 2J,10396,John Tuck Elem,,0.3288,40.8%,Y,416,
-or,918002,Redmond SD 2J,10397,M A Lynch Elem,,0.4672,40.8%,Y,357,
-or,918002,Redmond SD 2J,10394,Obsidian Middle,,0.2614,,N,N/A,
-or,918002,Redmond SD 2J,10392,Redmond High,,0.1759,,N,N/A,
-or,918002,Redmond SD 2J,15889,Redmond Proficiency Academy HS,,0.2147,,N,N/A,
-or,918002,Redmond SD 2J,15136,Redmond Proficiency Academy MS,,0.3962,,N,530,
-or,918002,Redmond SD 2J,15137,Ridgeview HS,,0.1573,,N,N/A,
-or,918002,Redmond SD 2J,14743,Sage Elementary,,0.3062,,N,650,
-or,918002,Redmond SD 2J,10398,Terrebonne Elem,,0.2517,,N,N/A,
-or,918002,Redmond SD 2J,13806,Tom McCall,,0.2108,,N,N/A,
-or,918002,Redmond SD 2J,10399,Tumalo Elem,,0.2032,,N,N/A,
-or,918002,Redmond SD 2J,10400,Vern Patrick Elem,,0.3481,40.8%,Y,373,
-or,1018001,Reedsport SD 105,10426,Highland Elem,,0.5291,53.4%,Y,337,
-or,1018001,Reedsport SD 105,10424,Reedsport Community Charter School,,0.4134,48.1%,Y,335,
-or,2618002,Reynolds SD 7,11077,Alder Elem,,0.6446,58.8%,Y,493,
-or,2618002,Reynolds SD 7,15682,Alder Pre K,,0.5676,,N,37,
-or,2618002,Reynolds SD 7,13481,Arthur Academy,,0.2022,,N,N/A,
-or,2618002,Reynolds SD 7,16021,Cornerstone,,0.4773,,N,44,
-or,2618002,Reynolds SD 7,11078,Davis Elem,,0.5849,58.8%,Y,443,
-or,2618002,Reynolds SD 7,11079,Fairview Elementary,,0.4495,58.8%,Y,379,
-or,2618002,Reynolds SD 7,14812,Four Creeks,,,72.7%,Y,33,
-or,2618002,Reynolds SD 7,11080,Glenfair Elem,,0.6931,58.8%,Y,513,
-or,2618002,Reynolds SD 7,11081,Hartley Elem,,0.5806,58.8%,Y,480,
-or,2618002,Reynolds SD 7,11074,Hauton B Lee Middle,,0.5395,58.8%,Y,724,
-or,2618002,Reynolds SD 7,11082,Margaret Scott Elem,,0.57,58.8%,Y,428,
-or,2618002,Reynolds SD 7,13032,Multnomah Learning Academy -,,0.4468,,N,282,
-or,2618002,Reynolds SD 7,15707,"Multnomah Learning Academy Middle
-School",,0.0764,,N,N/A,
-or,2618002,Reynolds SD 7,11073,Reynolds High,,0.3522,40.1%,Y,2421,
-or,2618002,Reynolds SD 7,13214,Reynolds Learning Academy,,0.6203,58.8%,Y,208,
-or,2618002,Reynolds SD 7,11075,Reynolds Middle,,0.4803,58.8%,Y,902,
-or,2618002,Reynolds SD 7,14801,Rockwood Prepatory Academy,,0.0658,40.1%,Y,317,
-or,2618002,Reynolds SD 7,13213,Salish Ponds Elementary,,0.4639,58.8%,Y,459,
-or,2618002,Reynolds SD 7,11083,Sweetbriar Elem,,0.3107,,N,338,
-or,2618002,Reynolds SD 7,11084,Troutdale Elem,,0.3779,40.1%,Y,427,
-or,2618002,Reynolds SD 7,11076,Walt Morey Middle,,0.2714,,N,N/A,
-or,2618002,Reynolds SD 7,11085,Wilkes Elem,,0.5383,58.8%,Y,443,
-or,2618002,Reynolds SD 7,11086,Woodland Elem,,0.3326,40.1%,Y,449,
-or,1018002,Riddle SD 70,10428,Riddle Elem,,0.5022,,N,231,
-or,1018002,Riddle SD 70,10427,Riddle High,,0.4294,,N,170,
-or,1518001,Rogue River SD 35,10523,Rogue River Elem,,0.4837,,N,490,
-or,1518001,Rogue River SD 35,10520,Rogue River Jr/Sr High,,0.3244,,N,373,
-or,1518001,Rogue River SD 35,16153,South Valley Academy,,0.6984,,N,63,
-or,1018004,Roseburg SD 4,10432,Eastwood Elem,,0.5086,41.4%,Y,404,
-or,1018004,Roseburg SD 4,10433,Fir Grove Elem,,0.541,41.4%,Y,291,
-or,1018004,Roseburg SD 4,10434,Fullerton IV Elem,,0.4205,41.4%,Y,330,
-or,1018004,Roseburg SD 4,10439,Green Elementary,,0.3714,41.4%,Y,277,
-or,1018004,Roseburg SD 4,10435,Hucrest Elem,,0.2043,41.4%,Y,451,
-or,1018004,Roseburg SD 4,10430,John Fremont Jr High,,0.3254,41.4%,Y,639,
-or,1018004,Roseburg SD 4,10431,Joseph Lane Middle School,,0.3645,41.4%,Y,644,
-or,1018004,Roseburg SD 4,10436,Melrose Elem,,0.1676,,N,N/A,
-or,1018004,Roseburg SD 4,10437,Rose School,,,,N,N/A,
-or,1018004,Roseburg SD 4,10429,Roseburg Sr High,,0.2103,41.4%,Y,1235,
-or,1018004,Roseburg SD 4,10440,Sunnyslope Elementary,,0.5184,41.4%,Y,261,
-or,1018004,Roseburg SD 4,10438,Winchester Elem,,0.4722,41.4%,Y,325,
-or,1519002,Sacred Heart School,11363,Sacred Heart School,,,,N,N/A,
-or,2419004,Salem/Keizer SD 24J,10850,Auburn Elem,,0.4877,40.1%,Y,602,
-or,2419004,Salem/Keizer SD 24J,13119,Baker,,,40.1%,Y,11,
-or,2419004,Salem/Keizer SD 24J,15154,Battle Creek Elementary School,,0.2891,40.1%,Y,590,
-or,2419004,Salem/Keizer SD 24J,15674,BIC,,,40.1%,Y,16,
-or,2419004,Salem/Keizer SD 24J,10853,Brush College Elem,,0.1818,40.1%,Y,322,
-or,2419004,Salem/Keizer SD 24J,10854,Bush Elem,,0.519,40.1%,Y,285,
-or,2419004,Salem/Keizer SD 24J,10855,Candalaria Elem,,0.168,,N,N/A,
-or,2419004,Salem/Keizer SD 24J,12869,Centennial CTP,,0.945,40.1%,Y,14,
-or,2419004,Salem/Keizer SD 24J,10856,Chapman Hill Elem,,0.2094,40.1%,Y,389,
-or,2419004,Salem/Keizer SD 24J,15153,Chavez Elementary,,0.4953,40.1%,Y,625,
-or,2419004,Salem/Keizer SD 24J,12791,Claggett Creek Secondary,,0.3883,40.1%,Y,986,
-or,2419004,Salem/Keizer SD 24J,10857,Clear Lake Elem,,0.2506,40.1%,Y,387,
-or,2419004,Salem/Keizer SD 24J,10841,Crossler Middle,,0.213,40.1%,Y,931,
-or,2419004,Salem/Keizer SD 24J,15673,CTEC,,0.0518,,N,N/A,
-or,2419004,Salem/Keizer SD 24J,10858,Cummings Elem,,0.3812,40.1%,Y,448,
-or,2419004,Salem/Keizer SD 24J,13679,Downtown Learning Center,,,40.1%,Y,87,
-or,2419004,Salem/Keizer SD 24J,10889,Early College High School,,0.1544,40.1%,Y,178,
-or,2419004,Salem/Keizer SD 24J,10859,Englewood Elem,,0.4362,40.1%,Y,361,
-or,2419004,Salem/Keizer SD 24J,10873,Eyre Elementary,,0.4563,40.1%,Y,604,
-or,2419004,Salem/Keizer SD 24J,12996,Forest Ridge Elementary,,0.2267,40.1%,Y,282,
-or,2419004,Salem/Keizer SD 24J,10861,Four Corners Elem,,0.5177,40.1%,Y,475,
-or,2419004,Salem/Keizer SD 24J,10863,Grant Community School,,0.3474,40.1%,Y,367,
-or,2419004,Salem/Keizer SD 24J,10864,Gubser Elem,,0.2872,40.1%,Y,539,
-or,2419004,Salem/Keizer SD 24J,12788,Hallman Elementary,,0.6104,40.1%,Y,406,
-or,2419004,Salem/Keizer SD 24J,12789,Hammond Elementary,,0.312,40.1%,Y,529,
-or,2419004,Salem/Keizer SD 24J,13116,Harritt Elementary,,0.3713,40.1%,Y,500,
-or,2419004,Salem/Keizer SD 24J,10865,Hayesville Elem,,0.5277,40.1%,Y,370,
-or,2419004,Salem/Keizer SD 24J,12866,Highland,,0.6061,40.1%,Y,370,
-or,2419004,Salem/Keizer SD 24J,10868,Hoover Elem,,0.5791,40.1%,Y,410,
-or,2419004,Salem/Keizer SD 24J,10842,Houck Middle,,0.4612,40.1%,Y,1053,
-or,2419004,Salem/Keizer SD 24J,10843,Judson Middle,,0.2438,40.1%,Y,973,
-or,2419004,Salem/Keizer SD 24J,14997,Kalapuya Elementary,,0.2235,40.1%,Y,558,
-or,2419004,Salem/Keizer SD 24J,10869,Keizer Elem,,0.4259,40.1%,Y,636,
-or,2419004,Salem/Keizer SD 24J,10870,Kennedy Elem,,0.4425,40.1%,Y,397,
-or,2419004,Salem/Keizer SD 24J,12787,Lamb Elementary,,0.4988,40.1%,Y,410,
-or,2419004,Salem/Keizer SD 24J,12997,Lee Elementary,,0.3091,40.1%,Y,313,
-or,2419004,Salem/Keizer SD 24J,10844,Leslie Middle,,0.3784,40.1%,Y,768,
-or,2419004,Salem/Keizer SD 24J,10872,Liberty Elem,,0.328,40.1%,Y,461,
-or,2419004,Salem/Keizer SD 24J,10837,McKay High,,0.4078,40.1%,Y,2240,
-or,2419004,Salem/Keizer SD 24J,10874,McKinley Elem,,0.2609,40.1%,Y,338,
-or,2419004,Salem/Keizer SD 24J,10836,McNary High,,0.2197,40.1%,Y,1971,
-or,2419004,Salem/Keizer SD 24J,15050,Micah Community Transition Program,,0.945,40.1%,Y,16,
-or,2419004,Salem/Keizer SD 24J,12515,Miller Elem,,0.4799,40.1%,Y,393,
-or,2419004,Salem/Keizer SD 24J,10876,Morningside Elem,,0.3169,40.1%,Y,341,
-or,2419004,Salem/Keizer SD 24J,10878,Myers Elem,,0.25,40.1%,Y,461,
-or,2419004,Salem/Keizer SD 24J,10838,North Salem High,,0.3646,40.1%,Y,1774,
-or,2419004,Salem/Keizer SD 24J,14283,Optimum Learning Environmental School,,0.0714,40.1%,Y,129,
-or,2419004,Salem/Keizer SD 24J,10845,Parrish Middle,,0.5218,40.1%,Y,736,
-or,2419004,Salem/Keizer SD 24J,10879,Pringle Elem,,0.29,40.1%,Y,564,
-or,2419004,Salem/Keizer SD 24J,10880,Richmond Elem,,0.6302,40.1%,Y,293,
-or,2419004,Salem/Keizer SD 24J,14834,Riverfront Learning Center CTP,,0.5763,40.1%,Y,40,
-or,2419004,Salem/Keizer SD 24J,13626,Roberts High School,,0.945,40.1%,Y,101,
-or,2419004,Salem/Keizer SD 24J,16015,Roberts HS Lit Center,,0.7083,40.1%,Y,38,
-or,2419004,Salem/Keizer SD 24J,10882,Salem Heights Elem,,0.3393,40.1%,Y,315,
-or,2419004,Salem/Keizer SD 24J,10883,Schirle Elem,,0.2162,40.1%,Y,425,
-or,2419004,Salem/Keizer SD 24J,10884,Scott Elem,,0.478,40.1%,Y,545,
-or,2419004,Salem/Keizer SD 24J,15737,SK Online,,0.1553,40.1%,Y,280,
-or,2419004,Salem/Keizer SD 24J,15007,Sophomore Connections,,0.6071,40.1%,Y,58,
-or,2419004,Salem/Keizer SD 24J,10839,South Salem High,,0.2128,40.1%,Y,1981,
-or,2419004,Salem/Keizer SD 24J,10840,Sprague High,,0.1466,40.1%,Y,1604,
-or,2419004,Salem/Keizer SD 24J,15208,St. Vincent de Paul Catholic School,,0.4789,,N,71,
-or,2419004,Salem/Keizer SD 24J,10846,Stephens Middle,,0.4063,40.1%,Y,1102,
-or,2419004,Salem/Keizer SD 24J,14996,Straub Middle School,,0.1566,,N,N/A,
-or,2419004,Salem/Keizer SD 24J,16149,Summit CFP,,0.945,40.1%,Y,21,
-or,2419004,Salem/Keizer SD 24J,10885,Sumpter Elem,,0.1826,40.1%,Y,557,
-or,2419004,Salem/Keizer SD 24J,10886,Swegle Elem,,0.5104,40.1%,Y,614,
-or,2419004,Salem/Keizer SD 24J,16029,Teen Parent,,0.7234,,N,47,
-or,2419004,Salem/Keizer SD 24J,13830,Valley Inquiry Charter,,0.1803,40.1%,Y,165,
-or,2419004,Salem/Keizer SD 24J,10847,Waldo Middle,,0.449,40.1%,Y,1229,
-or,2419004,Salem/Keizer SD 24J,10848,Walker Middle,,0.2465,40.1%,Y,710,
-or,2419004,Salem/Keizer SD 24J,10887,Washington Elem,,0.5074,40.1%,Y,406,
-or,2419004,Salem/Keizer SD 24J,12790,Weddle Elementary,,0.5556,40.1%,Y,405,
-or,2419004,Salem/Keizer SD 24J,12998,West High,,0.15,40.1%,Y,1670,
-or,2419004,Salem/Keizer SD 24J,10849,Whiteaker Middle,,0.2016,40.1%,Y,767,
-or,2419004,Salem/Keizer SD 24J,16030,Winema,,0.6415,40.1%,Y,41,
-or,2419004,Salem/Keizer SD 24J,10860,Wright Elementary,,0.3464,40.1%,Y,397,
-or,2419004,Salem/Keizer SD 24J,10888,Yoshikai Elem,,0.515,40.1%,Y,512,
-or,2219006,"Sand Ridge Charter
-School",15293,Sand Ridge Charter School S. Main Campus,,0.4491,,N,167,
-or,2219006,"Sand Ridge Charter
-School",15292,"Sand Ridge Charter School Sodaville
-Campus",,0.344,,N,218,
-or,2219006,"Sand Ridge Charter
-School",15294,Sweet Home Charter School,,0.194,,N,201,
-or,2219001,Santiam Canyon SD 129,10775,Santiam Elementary School,,0.4551,,N,323,
-or,2219001,Santiam Canyon SD 129,10774,Santiam Junior/Senior High School,,0.3643,,N,280,
-or,2619020,Sauvie Island School,15021,Sauvie Island School,,0.0776,,N,N/A,
-or,519001,Scappoose SD,10337,Grant Watts Elem,,0.2113,,N,N/A,
-or,519001,Scappoose SD,16144,Head Start,,0.0417,,N,N/A,
-or,519001,Scappoose SD,10338,Petersen Elem,,0.1996,,N,N/A,
-or,519001,Scappoose SD,10335,Scappoose High,,0.1184,,N,N/A,
-or,519001,Scappoose SD,10336,Scappoose Middle,,0.1837,,N,N/A,
-or,519001,Scappoose SD,10340,Warren Elem,,0.221,,N,N/A,
-or,2219002,Scio SD 95,10780,Centennial Elem,,0.2716,,N,N/A,
-or,2219002,Scio SD 95,10778,Scio High,,0.1724,,N,N/A,
-or,2219002,Scio SD 95,10779,Scio Middle,,0.239,,N,N/A,
-or,419001,Seaside SD 10,10319,Broadway Middle,,0.3005,,N,396,
-or,419001,Seaside SD 10,10321,Gearhart Elem,,0.2632,,N,N/A,
-or,419001,Seaside SD 10,10322,Seaside Heights Elem,,0.3386,,N,440,
-or,419001,Seaside SD 10,10318,Seaside High,,0.2225,,N,N/A,
-or,2619004,Serendipity Center,11442,Serendipity Center,,0.0673,43.0%,Y,114,
-or,3619001,Sheridan SD 48J,13460,Faulconer -Chapman School,,0.4737,48.9%,Y,469,
-or,3619001,Sheridan SD 48J,11318,Sheridan High,,0.3293,48.9%,Y,204,
-or,3619001,Sheridan SD 48J,14738,Sheridan Japanese School,,0.0938,,N,N/A,
-or,2819001,Sherman Co SD,14602,Sherman County School,,0.161,,N,N/A,
-or,3419001,Sherwood SD 88J,11273,Archer Glen Elem,,0.0561,,N,N/A,
-or,3419001,Sherwood SD 88J,14579,Edy Ridge Elementary,,0.0681,,N,N/A,
-or,3419001,Sherwood SD 88J,11274,J Clyde Hopkins Elem,,0.186,,N,N/A,
-or,3419001,Sherwood SD 88J,14580,Laurel Ridge Middle School,,0.0615,,N,N/A,
-or,3419001,Sherwood SD 88J,12509,Middleton Elem,,0.035,,N,N/A,
-or,3419001,Sherwood SD 88J,13807,Sherwood High,,0.0518,,N,N/A,
-or,3419001,Sherwood SD 88J,11272,Sherwood Middle,,0.0826,,N,N/A,
-or,2419006,Silver Falls SD 4,10894,Butte Creek Elem,,0.125,,N,N/A,
-or,2419006,Silver Falls SD 4,15022,Community Roots Charter,,0.1587,,N,N/A,
-or,2419006,Silver Falls SD 4,10898,Mark Twain Elementary,,0.2821,,N,N/A,
-or,2419006,Silver Falls SD 4,10901,Robert Frost Elem,,0.2542,,N,N/A,
-or,2419006,Silver Falls SD 4,10902,Scotts Mills Elem,,0.1377,,N,N/A,
-or,2419006,Silver Falls SD 4,10903,Silver Crest Elem,,0.125,,N,N/A,
-or,2419006,Silver Falls SD 4,10891,Silverton High -  Pine Street,,0.1306,,N,N/A,
-or,2419006,Silver Falls SD 4,15825,Silverton Middle School,,0.2381,,N,N/A,
-or,2419006,Silver Falls SD 4,10904,Victor Point Elem,,0.0654,,N,N/A,
-or,919001,Sisters SD 6,10404,Sisters Elem,,0.1984,,N,N/A,
-or,919001,Sisters SD 6,10402,Sisters High,,0.1272,,N,N/A,
-or,919001,Sisters SD 6,10403,Sisters Middle,,0.138,,N,N/A,
-or,2019002,Siuslaw SD 97J,10680,Siuslaw Elem,,0.4419,42.3%,Y,610,
-or,2019002,Siuslaw SD 97J,10678,Siuslaw High,,0.3258,42.3%,Y,402,
-or,2019002,Siuslaw SD 97J,10679,Siuslaw Middle,,0.4731,42.3%,Y,394,
-or,2019006,South Lane SD 45J,10684,Al Kennedy Alternative High School,,0.4762,58.0%,Y,69,
-or,2019006,South Lane SD 45J,10686,Bohemia Elem,,0.3384,,N,526,
-or,2019006,South Lane SD 45J,10683,Cottage Grove High,,0.2178,,N,N/A,
-or,2019006,South Lane SD 45J,10688,Dorena Elem,,0.3626,54.8%,Y,93,
-or,2019006,South Lane SD 45J,10689,Harrison Elem,,0.3302,,N,533,
-or,2019006,South Lane SD 45J,10685,Lincoln Middle School Pride Program,,0.2735,,N,N/A,
-or,2019006,South Lane SD 45J,10691,London Elem,,0.3667,,N,90,
-or,1019001,South Umpqua SD 19,10445,Canyonville School,,0.5,45.3%,Y,195,
-or,1019001,South Umpqua SD 19,10442,Coffenberry Middle,,0.4455,45.3%,Y,309,
-or,1019001,South Umpqua SD 19,10443,Myrtle Creek Elem,,0.4877,45.3%,Y,302,
-or,1019001,South Umpqua SD 19,10441,South Umpqua High,,0.303,45.3%,Y,384,
-or,1019001,South Umpqua SD 19,10444,Tri City Elem,,0.4903,45.3%,Y,299,
-or,3319001,South Wasco Co SD,11184,Maupin Elem,,0.4202,42.1%,Y,122,
-or,3319001,South Wasco Co SD,11183,South Wasco County High School,,0.3645,42.1%,Y,113,
-or,3519001,Spray SD,13826,Spray School,,0.2388,,N,N/A,
-or,2019007,Springfield SD 19,14376,Academy of Arts & Academics (A3),,0.3018,43.9%,Y,199,
-or,2019007,Springfield SD 19,10694,Agnes Stewart Middle,,0.4139,43.9%,Y,586,
-or,2019007,Springfield SD 19,10695,Briggs Middle,,0.3308,43.9%,Y,508,
-or,2019007,Springfield SD 19,10701,Centennial Elem,,0.4949,43.9%,Y,377,
-or,2019007,Springfield SD 19,14375,Community Transitions Program (CTP),,,43.9%,Y,42,
-or,2019007,Springfield SD 19,10702,Douglas Gardens Elem,,0.3534,43.9%,Y,366,
-or,2019007,Springfield SD 19,10703,Elizabeth Page Elem,,0.4047,43.9%,Y,359,
-or,2019007,Springfield SD 19,14377,Gateways High School,,0.5682,43.9%,Y,79,
-or,2019007,Springfield SD 19,10705,Guy Lee Elem,,0.4712,43.9%,Y,389,
-or,2019007,Springfield SD 19,10696,Hamlin Middle,,0.4002,43.9%,Y,669,
-or,2019007,Springfield SD 19,10706,Maple Elem,,0.3922,43.9%,Y,329,
-or,2019007,Springfield SD 19,10709,Mt Vernon Elem,,0.3826,43.9%,Y,493,
-or,2019007,Springfield SD 19,10710,Ridgeview Elem,,0.3507,43.9%,Y,402,
-or,2019007,Springfield SD 19,10711,Riverbend Elem,,0.3796,43.9%,Y,484,
-or,2019007,Springfield SD 19,10692,Springfield High,,0.3629,43.9%,Y,1305,
-or,2019007,Springfield SD 19,10712,Thurston Elem,,0.2626,43.9%,Y,451,
-or,2019007,Springfield SD 19,10693,Thurston High,,0.2189,43.9%,Y,1206,
-or,2019007,Springfield SD 19,10698,Thurston Middle,,0.256,43.9%,Y,551,
-or,2019007,Springfield SD 19,15105,Two Rivers-Dos Rios Elementary,,0.3993,43.9%,Y,457,
-or,2019007,Springfield SD 19,10713,Walterville Elem,,0.2563,43.9%,Y,152,
-or,2019007,Springfield SD 19,15162,Willamette Leadership Academy - High,,0.9156,43.9%,Y,134,
-or,2019007,Springfield SD 19,15308,Willamette Leadership Academy - Middle,,0.8813,43.9%,Y,173,
-or,2019007,Springfield SD 19,10714,Yolanda Elem,,0.3112,43.9%,Y,390,
-or,2619013,"St. Andrew Nativity
-School",12796,St. Andrew Nativity School,,,,N,N/A,
-or,919002,St. Francis School - Bend,11355,St. Francis School,,,,N,N/A,
-or,519003,St. Helens SD 502,10343,Columbia City School,,0.3254,,N,209,
-or,519003,St. Helens SD 502,13480,Columbia River Youth Corps,,,,N,N/A,
-or,519003,St. Helens SD 502,10344,Lewis & Clark Elem,,0.3415,,N,451,
-or,519003,St. Helens SD 502,10346,McBride Elem,,0.2462,,N,N/A,
-or,519003,St. Helens SD 502,10348,Plymouth High School,,0.3488,,N,86,
-or,519003,St. Helens SD 502,10341,St Helens High,,0.1621,,N,N/A,
-or,519003,St. Helens SD 502,10342,St Helens Middle,,0.2287,,N,N/A,
-or,3619002,St. James School,13361,St James School,,,,N,N/A,
-or,3419007,St. Matthew School,11473,St. Matthew School,,,,N,N/A,
-or,2419017,St. Paul Parochial School,13038,St. Paul Parochial School,,,,N,N/A,
-or,2419011,St. Paul SD 45,14205,St Paul Elementary,,0.2233,,N,N/A,
-or,2419011,St. Paul SD 45,10905,St Paul High,,0.0606,,N,N/A,
-or,2319001,St. Peter Catholic School,11378,St. Peter Catholic School,,,,N,N/A,
-or,3019001,Stanfield SD 61,11144,Stanfield Elementary School,,0.2841,,N,N/A,
-or,3019001,Stanfield SD 61,11143,Stanfield Secondary,,0.2883,,N,N/A,
-or,1719002,"Sunny Wolf Charter
-School",14843,Sunny Wolf Charter School,,0.6667,,N,99,
-or,1019003,Sutherlin SD 130,10448,East Sutherlin Primary,,0.431,,N,406,
-or,1019003,Sutherlin SD 130,10446,Sutherlin High,,0.2261,,N,N/A,
-or,1019003,Sutherlin SD 130,10447,Sutherlin Middle,,0.343,,N,344,
-or,1019003,Sutherlin SD 130,10449,West Sutherlin Intermed,,0.3413,,N,334,
-or,2219004,Sweet Home SD 55,10785,Foster Elem,,0.5775,42.4%,Y,340,
-or,2219004,Sweet Home SD 55,10786,Hawthorne Elem,,0.3866,42.4%,Y,361,
-or,2219004,Sweet Home SD 55,10787,Holley Elem,,0.3826,42.4%,Y,150,
-or,2219004,Sweet Home SD 55,10788,Oak Heights Elem,,0.4786,42.4%,Y,266,
-or,2219004,Sweet Home SD 55,10782,SH High School Dist #55,,0.3068,42.4%,Y,662,
-or,2219004,Sweet Home SD 55,10783,Sweet Home Jr High,,0.3756,42.4%,Y,350,
-or,1720001,Three Rivers SD,10537,Applegate Elem,,0.4019,46.8%,Y,121,
-or,1720001,Three Rivers SD,10538,Evergreen Elem,,0.7264,46.8%,Y,393,
-or,1720001,Three Rivers SD,10534,Fleming Middle,,0.3899,46.8%,Y,419,
-or,1720001,Three Rivers SD,10540,Fort Vannoy Elem,,0.4588,46.8%,Y,258,
-or,1720001,Three Rivers SD,10539,Fruitdale Elem,,0.5276,46.8%,Y,384,
-or,1720001,Three Rivers SD,10532,Hidden Valley High,,0.2975,46.8%,Y,587,
-or,1720001,Three Rivers SD,10533,Illinois Valley High,,0.645,46.8%,Y,301,
-or,1720001,Three Rivers SD,10535,Lincoln Savage Middle,,0.419,46.8%,Y,373,
-or,1720001,Three Rivers SD,10536,Lorna Byrne Middle,,0.6695,46.8%,Y,356,
-or,1720001,Three Rivers SD,10542,Madrona Elem,,0.4831,46.8%,Y,337,
-or,1720001,Three Rivers SD,13727,Manzanita Elementary,,0.4947,46.8%,Y,384,
-or,1720001,Three Rivers SD,10148,North Valley High School,,0.3147,46.8%,Y,453,
-or,1720001,Three Rivers SD,10546,Williams Elem,,0.5732,46.8%,Y,77,
-or,3420001,Tigard-Tualatin SD 23J,13611,Alberta Rider,,0.1354,,N,N/A,
-or,3420001,Tigard-Tualatin SD 23J,11280,Bridgeport Elem,,0.232,,N,N/A,
-or,3420001,Tigard-Tualatin SD 23J,11281,Charles Tigard Elem,,0.2428,,N,N/A,
-or,3420001,Tigard-Tualatin SD 23J,11282,Deer Creek Elem,,0.2056,,N,N/A,
-or,3420001,Tigard-Tualatin SD 23J,11289,Durham Education Center,,0.3021,,N,192,
-or,3420001,Tigard-Tualatin SD 23J,11283,Durham Elem,,0.2071,,N,N/A,
-or,3420001,Tigard-Tualatin SD 23J,11284,Edward Byrom Elem,,0.1093,,N,N/A,
-or,3420001,Tigard-Tualatin SD 23J,11277,Hazelbrook Middle,,0.1781,,N,N/A,
-or,3420001,Tigard-Tualatin SD 23J,11285,James Templeton Elem,,0.2711,,N,N/A,
-or,3420001,Tigard-Tualatin SD 23J,11286,Mary Woodward Elem,,0.1132,,N,N/A,
-or,3420001,Tigard-Tualatin SD 23J,11287,Metzger Elem,,0.2376,,N,N/A,
-or,3420001,Tigard-Tualatin SD 23J,11278,Thomas R Fowler Middle,,0.1784,,N,N/A,
-or,3420001,Tigard-Tualatin SD 23J,11275,Tigard High,,0.1283,,N,N/A,
-or,3420001,Tigard-Tualatin SD 23J,11288,Tualatin Elem,,0.2227,,N,N/A,
-or,3420001,Tigard-Tualatin SD 23J,11276,Tualatin High,,0.1107,,N,N/A,
-or,3420001,Tigard-Tualatin SD 23J,11279,Twality Middle,,0.1963,,N,N/A,
-or,2920002,Tillamook SD,11111,East Elem,,0.3121,40.6%,Y,529,
-or,2920002,Tillamook SD,11112,Liberty Elem,,0.3086,42.3%,Y,333,
-or,2920002,Tillamook SD,11113,South Prairie Elem,,0.3931,42.2%,Y,320,
-or,2920002,Tillamook SD,11109,Tillamook High,,0.2613,,N,N/A,
-or,2920002,Tillamook SD,11110,Tillamook Jr High,,0.2995,,N,N/A,
-or,2920002,Tillamook SD,14088,Wilson Alternative Education,,,40.6%,Y,55,
-or,920002,"Trinity Lutheran School -
-Bend",11652,Trinity Lutheran School,,,,N,N/A,
-or,3021002,Umatilla SD 6,11148,Clara Brownell Middle,,0.3977,60.8%,Y,293,
-or,3021002,Umatilla SD 6,11149,McNary Heights Elem,,0.4482,60.8%,Y,658,
-or,3021002,Umatilla SD 6,11147,Umatilla High,,0.3039,60.8%,Y,400,
-or,3121001,Union SD 5,14207,Union Elementary,,0.432,,N,206,
-or,3121001,Union SD 5,11166,Union High,,0.2251,,N,N/A,
-or,2322001,Vale SD 84,15310,Oregon Trail Learning Academy,,,50.0%,Y,14,
-or,2322001,Vale SD 84,14204,Vale Elementary,,0.4059,42.2%,Y,445,
-or,2322001,Vale SD 84,10808,Vale High,,0.1879,,N,N/A,
-or,2322001,Vale SD 84,10811,Vale Middle,,0.3025,42.2%,Y,112,
-or,2322001,Vale SD 84,10810,Willowcreek Elem,,0.1489,42.2%,Y,95,
-or,522001,Vernonia SD 47J,10352,Vernonia Elementary,,0.3379,,N,219,
-or,522001,Vernonia SD 47J,10349,Vernonia High,,0.1813,,N,N/A,
-or,522001,Vernonia SD 47J,13645,Vernonia Middle School,,0.2667,,N,N/A,
-or,2022001,Village School,13824,Village School,,0.2355,,N,N/A,
-or,3422001,Visitation School,11481,Visitation School,,,,N,N/A,
-or,3223001,Wallowa SD 12,14190,Wallowa Elementary,,0.2674,,N,N/A,
-or,3223001,Wallowa SD 12,11174,Wallowa High,,0.2019,,N,N/A,
-or,423001,"Warrenton-Hammond
-SD 30",10324,Warrenton Grade School,,0.2984,,N,N/A,
-or,423001,"Warrenton-Hammond
-SD 30",10323,Warrenton High,,0.2222,,N,N/A,
-or,2023009,"Wellsprings Friends
-School",13057,Wellsprings Friends School,,0.2593,,N,N/A,
-or,323001,West Linn SD,14839,Arts & Technology School,,0.23,,N,N/A,
-or,323001,West Linn SD,10303,Athey Creek Middle,,0.0412,,N,N/A,
-or,323001,West Linn SD,10306,Boeckman Creek Primary,,0.1598,,N,N/A,
-or,323001,West Linn SD,10304,Bolton Primary School,,0.0885,,N,N/A,
-or,323001,West Linn SD,10310,Boones Ferry Primary School,,0.2009,,N,N/A,
-or,323001,West Linn SD,10307,Cedaroak Park Primary,,0.0594,,N,N/A,
-or,323001,West Linn SD,10305,Inza R Wood Middle,,0.1476,,N,N/A,
-or,323001,West Linn SD,15148,Lowrie Primary School,,0.1218,,N,N/A,
-or,323001,West Linn SD,15942,Meridian Creek Middle School,,0.1278,,N,N/A,
-or,323001,West Linn SD,11672,Rosemont Ridge,,0.0562,,N,N/A,
-or,323001,West Linn SD,10308,Stafford Primary,,0.0321,,N,N/A,
-or,323001,West Linn SD,10309,Sunset Primary,,0.0781,,N,N/A,
-or,323001,West Linn SD,15149,Trillium Creek Primary School,,0.0337,,N,N/A,
-or,323001,West Linn SD,10301,West Linn High,,0.0378,,N,N/A,
-or,323001,West Linn SD,13496,Willamette Primary,,0.0734,,N,N/A,
-or,323001,West Linn SD,10302,Wilsonville High,,0.0906,,N,N/A,
-or,3623002,Willamina SD 30J,11326,Willamina Elem,,0.4391,48.2%,Y,387,
-or,3623002,Willamina SD 30J,11323,Willamina High,,0.3448,48.2%,Y,239,
-or,3623002,Willamina SD 30J,11324,Willamina Middle,,0.4554,48.2%,Y,214,
-or,1023001,Winston-Dillard SD 116,13049,Brockway Elementary,,0.5361,41.5%,Y,382,
-or,1023001,Winston-Dillard SD 116,15345,Dillard Alternative School,,0.76,41.5%,Y,37,
-or,1023001,Winston-Dillard SD 116,10450,Douglas High,,0.2946,41.5%,Y,362,
-or,1023001,Winston-Dillard SD 116,10452,Lookingglass Elem,,0.3191,41.5%,Y,190,
-or,1023001,Winston-Dillard SD 116,10453,McGovern Elem,,0.5161,41.5%,Y,237,
-or,1023001,Winston-Dillard SD 116,10451,Winston Middle,,0.4213,41.5%,Y,232,
-or,2423006,Woodburn SD 103,13839,AIS,,0.3429,48.4%,Y,260,
-or,2423006,Woodburn SD 103,13844,Arthur Academy,,0.2515,46.5%,Y,155,
-or,2423006,Woodburn SD 103,14262,Bridges,,,48.4%,Y,17,
-or,2423006,Woodburn SD 103,14006,Chemekata High School,,,43.8%,Y,16,
-or,2423006,Woodburn SD 103,10908,French Prairie Middle,,0.342,50.2%,Y,656,
-or,2423006,Woodburn SD 103,10910,Heritage Elem,,0.3252,50.2%,Y,887,
-or,2423006,Woodburn SD 103,10911,Lincoln Elem,,0.3512,46.5%,Y,765,
-or,2423006,Woodburn SD 103,10912,Nelie Muir Elem,,0.3844,46.5%,Y,485,
-or,2423006,Woodburn SD 103,13840,Success,,0.4419,46.5%,Y,63,
-or,2423006,Woodburn SD 103,10909,Valor Middle,,0.2994,46.5%,Y,648,
-or,2423006,Woodburn SD 103,13841,WAAST,,0.2801,50.2%,Y,399,
-or,2423006,Woodburn SD 103,13842,WACA,,0.2778,46.5%,Y,356,
-or,2423006,Woodburn SD 103,10913,Washington Elem,,0.396,50.2%,Y,474,
-or,2423006,Woodburn SD 103,13843,WEBSS,,0.2488,46.5%,Y,365,
-or,3625001,Yamhill-Carlton SD,11328,Yamhill Carlton Elementary,,0.2167,,N,N/A,
-or,3625001,Yamhill-Carlton SD,13829,Yamhill Carlton Intermediate,,0.1795,,N,N/A,
-or,3625001,Yamhill-Carlton SD,11327,Yamhill-Carlton High,,0.1881,,N,N/A,
-or,1025001,Yoncalla SD 32,10456,Yoncalla Elem,,0.5133,42.6%,Y,145,
-or,1025001,Yoncalla SD 32,10455,Yoncalla High,,0.3333,42.6%,Y,106,
-or,603004,Coos Bay SD  009,16464,Marshfield Junior High School,,,44.1%,Y,217,
-or,603005,Coquille SD,15500,Coquille Jr. High,,,42.1%,Y,360,
-or,2005005,Eugene SD 4J,16483,Eugene Online Academy,,,40.4%,Y,95,
-or,3013001,Milton-Freewater SD 7,11131,Freewater Elem,,,46.4%,Y,265,
-or,2616011,Portland SD,11003,Applegate Elem,,,40.3%,Y,70,
-or,2616011,Portland SD,16456,Clarendon Early Learning Academy,,,40.3%,Y,139,
-or,2616011,Portland SD,16455,DART School,,,40.3%,Y,10,
-or,2616011,Portland SD,16457,Portland International Scholars Academy (PISA),,,40.3%,Y,27,
+state,District Code,District Name,School Code,School Name,individual_isp,proxy_isp,claiming_isp,participating_in_cep,total_enrolled,total_eligible
+or,0201001,Alsea SD 7J,15014,Alsea Charter School,49.71%,,49.71%,Y,175,87
+or,2301002,Annex SD 29,10162,Annex Charter School,41.49%,,41.49%,Y,94,39
+or,0102001,Baker SD 5J,16662,Baker Early Learning Center,51.69%,,42.28%,Y,89,46
+or,0102001,Baker SD 5J,10001,Baker High School,35.00%,,42.28%,Y,440,154
+or,0102001,Baker SD 5J,10016,Baker Middle School,31.58%,,42.28%,Y,266,84
+or,0102001,Baker SD 5J,10017,Brooklyn Primary School,54.83%,,42.28%,Y,259,142
+or,0102001,Baker SD 5J,14855,Eagle Cap Innovative Jr/Sr High School,64.00%,,42.28%,Y,100,64
+or,0102001,Baker SD 5J,10019,Haines Elementary School,24.41%,,42.28%,Y,127,31
+or,0102001,Baker SD 5J,10022,South Baker Intermediate School,49.48%,,42.28%,Y,287,142
+or,0602001,Bandon SD 54,10354,Harbor Lights Middle School,41.59%,,41.39%,Y,226,94
+or,0602001,Bandon SD 54,10355,Ocean Crest Elementary School,41.20%,,41.39%,Y,250,103
+or,3402002,Beaverton SD 48J,11202,Aloha-Huber Park School,44.67%,,40.07%,Y,929,415
+or,3402002,Beaverton SD 48J,11203,Barnes Elementary School,40.98%,,40.07%,Y,615,252
+or,3402002,Beaverton SD 48J,11204,Beaver Acres Elementary School,35.57%,,40.07%,Y,714,254
+or,3402002,Beaverton SD 48J,11207,Chehalem Elementary School,39.43%,,40.07%,Y,487,192
+or,3402002,Beaverton SD 48J,11212,Fir Grove Elementary School,32.73%,,40.07%,Y,388,127
+or,3402002,Beaverton SD 48J,11213,Greenway Elementary School,44.66%,,40.07%,Y,356,159
+or,3402002,Beaverton SD 48J,11214,Hazeldale Elementary School,32.98%,,40.07%,Y,473,156
+or,3402002,Beaverton SD 48J,11216,Kinnaman Elementary School,39.04%,,40.07%,Y,625,244
+or,3402002,Beaverton SD 48J,11217,McKay Elementary School,31.53%,,40.07%,Y,333,105
+or,3402002,Beaverton SD 48J,11218,McKinley Elementary School,42.66%,,40.07%,Y,661,282
+or,3402002,Beaverton SD 48J,11192,Merlo Station High School,43.08%,,40.07%,Y,130,56
+or,3402002,Beaverton SD 48J,11228,Vose Elementary School,38.86%,,40.07%,Y,736,286
+or,3402002,Beaverton SD 48J,11230,William Walker Elementary School,50.00%,,40.07%,Y,554,277
+or,0902001,Bend-LaPine Administrative SD 1,10036,Bear Creek Elementary School,37.25%,,40.65%,Y,553,206
+or,0902001,Bend-LaPine Administrative SD 1,13454,Ensworth Elementary School,49.25%,,40.65%,Y,199,98
+or,0902001,Bend-LaPine Administrative SD 1,10042,LaPine Elementary School,45.50%,,40.65%,Y,378,172
+or,0902001,Bend-LaPine Administrative SD 1,10033,LaPine Middle School,44.19%,,40.65%,Y,344,152
+or,0902001,Bend-LaPine Administrative SD 1,10028,LaPine Senior High School,38.74%,,40.65%,Y,462,179
+or,0902001,Bend-LaPine Administrative SD 1,10029,Marshall High School,48.51%,,40.65%,Y,101,49
+or,0902001,Bend-LaPine Administrative SD 1,10034,Pilot Butte Middle School,38.24%,,40.65%,Y,659,252
+or,0902001,Bend-LaPine Administrative SD 1,14788,Rosland Elementary,57.27%,,40.65%,Y,220,126
+or,0902001,Bend-LaPine Administrative SD 1,12278,STRIVE,51.61%,,40.65%,Y,31,16
+or,0902001,Bend-LaPine Administrative SD 1,10046,Three Rivers Elementary School,29.14%,,40.65%,Y,453,132
+or,2002002,Bethel SD 52,10581,Cascade Middle School,48.10%,,40.35%,Y,368,177
+or,2002002,Bethel SD 52,10583,Clear Lake Elementary School,47.08%,,40.35%,Y,257,121
+or,2002002,Bethel SD 52,10584,Danebo Elementary School,47.77%,,40.35%,Y,291,139
+or,2002002,Bethel SD 52,10585,Fairfield Elementary School,58.84%,,40.35%,Y,379,223
+or,2002002,Bethel SD 52,10586,Irving Elementary School,25.69%,,40.35%,Y,327,84
+or,2002002,Bethel SD 52,10587,Malabon Elementary School,50.60%,,40.35%,Y,419,212
+or,2002002,Bethel SD 52,10588,Meadow View School,27.19%,,40.35%,Y,765,208
+or,2002002,Bethel SD 52,12984,Prairie Mountain School,37.17%,,40.35%,Y,678,252
+or,2002002,Bethel SD 52,10582,Shasta Middle School,37.67%,,40.35%,Y,377,142
+or,2002002,Bethel SD 52,12985,Kalapuya High School,48.32%,,48.32%,Y,112,54
+or,0802001,Brookings-Harbor SD 17,10389,Azalea Middle School,36.10%,,41.37%,Y,349,126
+or,0802001,Brookings-Harbor SD 17,10390,Kalmiopsis Elementary School,44.52%,,41.37%,Y,584,260
+or,1502001,Butte Falls SD 91,14200,Butte Falls Charter School,50.52%,,50.52%,Y,192,97
+or,2403005,Cascade SD 005,10814,Aumsville Elementary School,45.05%,,41.48%,Y,566,255
+or,2403005,Cascade SD 005,16024,Cascade Opportunity Center,44.04%,,41.48%,Y,109,48
+or,2403005,Cascade SD 005,10815,Cloverdale Elementary School,28.41%,,41.48%,Y,176,50
+or,2603006,Centennial SD 28J,13132,Butler Creek Elementary School,26.96%,,43.68%,Y,523,141
+or,2603006,Centennial SD 28J,10922,Centennial High School,35.86%,,43.68%,Y,1520,545
+or,2603006,Centennial SD 28J,10924,Centennial Middle School,41.39%,,43.68%,Y,732,303
+or,2603006,Centennial SD 28J,10925,Meadows Elementary,50.44%,,43.68%,Y,341,172
+or,2603006,Centennial SD 28J,16822,Oliver Middle School,52.25%,,43.68%,Y,423,221
+or,2603006,Centennial SD 28J,10930,Parklane Elementary School,61.19%,,43.68%,Y,420,257
+or,2603006,Centennial SD 28J,10926,Patrick Lynch Elementary,61.15%,,43.68%,Y,278,170
+or,2603006,Centennial SD 28J,10928,Pleasant Valley Elementary School,31.36%,,43.68%,Y,354,111
+or,2603006,Centennial SD 28J,10927,Powell Butte Elementary School,61.83%,,43.68%,Y,469,290
+or,0803001,Central Curry SD 1,10081,Gold Beach High School,29.53%,,40.75%,Y,332,98
+or,0803001,Central Curry SD 1,10052,Riley Creek Elementary School,45.78%,,40.75%,Y,149,68
+or,1503002,Central Point SD 6,11626,Central Point Elementary School,40.48%,,41.21%,Y,541,219
+or,1503002,Central Point SD 6,13823,Crater Renaissance Academy,42.05%,,41.21%,Y,440,185
+or,1503002,Central Point SD 6,11629,Hanby Middle School,34.11%,,41.21%,Y,384,131
+or,1503002,Central Point SD 6,11630,Patrick Elementary School,52.46%,,41.21%,Y,244,128
+or,1503002,Central Point SD 6,11627,Jewett Elementary School,41.18%,,41.18%,Y,612,252
+or,1503002,Central Point SD 6,11631,Sams Valley Elementary School,40.51%,,40.51%,Y,237,96
+or,2703001,Central SD 13J,12999,Ash Creek Elementary School,41.45%,,40.42%,Y,509,211
+or,2703001,Central SD 13J,11089,Central High School,33.89%,,40.42%,Y,1027,348
+or,2703001,Central SD 13J,11092,Independence Elementary School,45.50%,,40.42%,Y,367,167
+or,2703001,Central SD 13J,11093,Monmouth Elementary School,48.62%,,40.42%,Y,508,247
+or,2703001,Central SD 13J,11090,Talmadge Middle School,40.60%,,40.42%,Y,761,309
+or,2403006,Chemawa Indian School,11379,Chemawa Indian School,46.02%,,46.02%,Y,113,52
+or,2603012,Community Transitional School,11400,Community Transitional School,58.46%,,58.46%,Y,65,38
+or,0603004,Coos Bay SD 9,10359,Eastside School,49.69%,,43.57%,Y,324,161
+or,0603004,Coos Bay SD 9,13503,Harding Building,54.72%,,43.57%,Y,53,29
+or,0603004,Coos Bay SD 9,15885,Lighthouse Charter School,18.09%,,43.57%,Y,188,34
+or,0603004,Coos Bay SD 9,16516,Little Pirates Preschool,54.55%,,43.57%,Y,44,24
+or,0603004,Coos Bay SD 9,10363,Madison Elementary School,57.56%,,43.57%,Y,271,156
+or,0603004,Coos Bay SD 9,16464,Marshfield Junior High,45.24%,,43.57%,Y,252,114
+or,0603004,Coos Bay SD 9,10356,Marshfield Senior High School,35.83%,,43.57%,Y,734,263
+or,0603004,Coos Bay SD 9,10357,Millicoma School,40.88%,,43.57%,Y,455,186
+or,0603004,Coos Bay SD 9,10358,Sunset School,58.39%,,43.57%,Y,298,174
+or,0603005,Coquille SD 8,16300,Coquille Jr./Sr. High School,31.11%,,42.05%,Y,360,112
+or,0603005,Coquille SD 8,15501,Coquille Valley Elementary,42.78%,,42.05%,Y,381,163
+or,0603005,Coquille SD 8,10057,Lincoln School of Early Learning,45.79%,,42.05%,Y,190,87
+or,0603005,Coquille SD 8,16017,Powers Elementary School,50.67%,,42.05%,Y,75,38
+or,0603005,Coquille SD 8,16016,Powers High School,48.94%,,42.05%,Y,47,23
+or,0603005,Coquille SD 8,16324,Winter Lakes Elementary,52.43%,,42.05%,Y,103,54
+or,0603005,Coquille SD 8,15023,Winter Lakes High,44.57%,,42.05%,Y,359,160
+or,0203003,Corvallis SD 509J,10178,Garfield Elementary School,39.45%,,41.84%,Y,398,157
+or,0203003,Corvallis SD 509J,10185,Letitia Carson Elementary School,44.30%,,41.84%,Y,386,171
+or,2003008,Creswell SD 40,10594,Creslane Elementary School,41.62%,,41.62%,Y,382,159
+or,0703001,Crook Co SD,15675,Barnes Butte Elementary,41.12%,,40.12%,Y,394,162
+or,0703001,Crook Co SD,10061,Crooked River Elementary School,43.60%,,40.12%,Y,422,184
+or,0703001,Crook Co SD,10063,Paulina School,15.00%,,40.12%,Y,20,3
+or,0703001,Crook Co SD,16101,Pioneer Alt,56.00%,,40.12%,Y,50,28
+or,0703001,Crook Co SD,15101,Steins Pillar Elementary,32.09%,,40.12%,Y,268,86
+or,1603003,Culver SD,14202,Culver Elementary School,44.44%,,43.05%,Y,288,128
+or,1603003,Culver SD,10080,Culver High School,37.98%,,43.05%,Y,208,79
+or,1603003,Culver SD,14201,Culver Middle School,46.82%,,43.05%,Y,173,81
+or,2704001,Dallas SD,11095,Dallas High (Morrison Campus),53.16%,,40.67%,Y,79,42
+or,2704001,Dallas SD,10068,Lyle Elementary,41.27%,,40.67%,Y,315,130
+or,2704001,Dallas SD,10069,Oakdale Heights Elementary,41.01%,,40.67%,Y,356,146
+or,2704001,Dallas SD,13852,Polk Adolescent Day Treatment Center,43.75%,,40.67%,Y,16,7
+or,2704001,Dallas SD,10072,Whitworth Elementary,36.73%,,40.67%,Y,343,126
+or,2604001,David Douglas SD 40,10937,Alice Ott Middle School,45.75%,,47.45%,Y,588,269
+or,2604001,David Douglas SD 40,10939,Cherry Park Elementary School,46.00%,,47.45%,Y,450,207
+or,2604001,David Douglas SD 40,10936,David Douglas High School,37.67%,,47.45%,Y,2453,924
+or,2604001,David Douglas SD 40,12494,Earl Boyles Elementary,46.89%,,47.45%,Y,354,166
+or,2604001,David Douglas SD 40,10935,Fir Ridge Campus,55.65%,,47.45%,Y,124,69
+or,2604001,David Douglas SD 40,10938,Floyd Light Middle School,46.39%,,47.45%,Y,664,308
+or,2604001,David Douglas SD 40,10940,Gilbert Heights Elementary School,51.72%,,47.45%,Y,464,240
+or,2604001,David Douglas SD 40,10941,Gilbert Park Elementary School,54.70%,,47.45%,Y,468,256
+or,2604001,David Douglas SD 40,10942,Lincoln Park Elementary School,59.61%,,47.45%,Y,458,273
+or,2604001,David Douglas SD 40,10943,Menlo Park Elementary School,47.06%,,47.45%,Y,408,192
+or,2604001,David Douglas SD 40,10944,Mill Park Elementary School,59.60%,,47.45%,Y,453,270
+or,2604001,David Douglas SD 40,13660,Ron Russell Middle School,51.33%,,47.45%,Y,787,404
+or,2604001,David Douglas SD 40,10945,Ventura Park Elementary School,55.97%,,47.45%,Y,377,211
+or,2604001,David Douglas SD 40,10946,West Powellhurst Elementary School,56.38%,,47.45%,Y,337,190
+or,3604001,Dayton SD 008,11300,Dayton Grade School,44.48%,,41.92%,Y,362,161
+or,3604001,Dayton SD 008,11299,Dayton Jr High School,37.73%,,41.92%,Y,220,83
+or,1004001,Douglas County SD 15,13793,Days Creek Charter School,42.11%,,42.11%,Y,190,80
+or,1018004,Douglas County SD 4,10432,Eastwood Elementary School,55.20%,,41.36%,Y,404,223
+or,1018004,Douglas County SD 4,10433,Fir Grove Elementary School,59.11%,,41.36%,Y,291,172
+or,1018004,Douglas County SD 4,10434,Fullerton IV Elementary School,50.91%,,41.36%,Y,330,168
+or,1018004,Douglas County SD 4,10439,Green Elementary School,46.93%,,41.36%,Y,277,130
+or,1018004,Douglas County SD 4,10435,Hucrest Elementary School,23.06%,,41.36%,Y,451,104
+or,1018004,Douglas County SD 4,10430,John C Fremont Middle School,42.10%,,41.36%,Y,639,269
+or,1018004,Douglas County SD 4,10431,Joseph Lane Middle School,42.24%,,41.36%,Y,644,272
+or,1018004,Douglas County SD 4,10429,Roseburg High School,28.99%,,41.36%,Y,1235,358
+or,1018004,Douglas County SD 4,10440,Sunnyslope Elementary School,53.64%,,41.36%,Y,261,140
+or,1018004,Douglas County SD 4,10438,Winchester Elementary,53.23%,,41.36%,Y,325,173
+or,2405002,Eagle Charter,15210,Eagle Charter School,40.56%,,40.56%,Y,143,58
+or,1505001,Eagle Point SD 9,15508,Crater Lake Academy,42.76%,,44.29%,Y,297,127
+or,1505001,Eagle Point SD 9,11613,Eagle Point High School,37.33%,,44.29%,Y,1010,377
+or,1505001,Eagle Point SD 9,11614,Eagle Point Middle School,34.01%,,44.29%,Y,441,150
+or,1505001,Eagle Point SD 9,13134,Eagle Rock Elementary School,36.84%,,44.29%,Y,323,119
+or,1505001,Eagle Point SD 9,11615,Hillside Elementary,41.68%,,44.29%,Y,475,198
+or,1505001,Eagle Point SD 9,11622,Lake Creek Learning Center,31.75%,,44.29%,Y,63,20
+or,1505001,Eagle Point SD 9,11618,Shady Cove School,48.40%,,44.29%,Y,250,121
+or,1505001,Eagle Point SD 9,11617,Table Rock Elementary,57.28%,,44.29%,Y,412,236
+or,1505001,Eagle Point SD 9,11620,Upper Table Rock Elementary,57.14%,,44.29%,Y,399,228
+or,1505001,Eagle Point SD 9,15285,URCEO-Upper Rogue Center for Educational Opportunities,51.92%,,44.29%,Y,52,27
+or,1505001,Eagle Point SD 9,13133,White Mountain Middle School,58.15%,,44.29%,Y,368,214
+or,1805001,Eagle Ridge High School,16145,EagleRidge High School,48.92%,,48.92%,Y,186,91
+or,3105002,Elgin SD 43,11153,Elgin High School,37.29%,,40.29%,Y,235,88
+or,3105002,Elgin SD 43,11154,Stella Mayfield Elementary School,42.55%,,40.29%,Y,177,75
+or,2005005,Eugene SD 4J,10614,Adams Elementary School,32.08%,,40.43%,Y,477,153
+or,2005005,Eugene SD 4J,10613,Arts and Technology Academy at Jefferson,41.23%,,40.43%,Y,439,181
+or,2005005,Eugene SD 4J,10615,Awbrey Park Elementary School,36.28%,,40.43%,Y,441,160
+or,2005005,Eugene SD 4J,10626,Camas Ridge Community Elementary,31.02%,,40.43%,Y,361,112
+or,2005005,Eugene SD 4J,13502,Cesar Chavez Elementary School,59.07%,,40.43%,Y,430,254
+or,2005005,Eugene SD 4J,10622,Edison Elementary School,31.83%,,40.43%,Y,311,99
+or,2005005,Eugene SD 4J,10650,Eugene Education Options,50.41%,,40.43%,Y,123,62
+or,2005005,Eugene SD 4J,10645,Family School,38.82%,,40.43%,Y,152,59
+or,2005005,Eugene SD 4J,15826,Fox Hollow School,70.00%,,40.43%,Y,50,35
+or,2005005,Eugene SD 4J,13649,Holt Elementary School,43.91%,,40.43%,Y,501,220
+or,2005005,Eugene SD 4J,10627,Howard Elementary School,53.97%,,40.43%,Y,504,272
+or,2005005,Eugene SD 4J,10606,Kelly Middle School,38.50%,,40.43%,Y,452,174
+or,2005005,Eugene SD 4J,10609,Kennedy Middle School,35.12%,,40.43%,Y,373,131
+or,2005005,Eugene SD 4J,10607,Madison Middle School,34.85%,,40.43%,Y,439,153
+or,2005005,Eugene SD 4J,10629,McCornack Elementary School,45.68%,,40.43%,Y,324,148
+or,2005005,Eugene SD 4J,10631,River Road/El Camino del Rio Elementary School,46.54%,,40.43%,Y,462,215
+or,2005005,Eugene SD 4J,10633,Spring Creek Elementary School,35.03%,,40.43%,Y,294,103
+or,2005005,Eugene SD 4J,10634,Twin Oaks Elementary School,30.47%,,40.43%,Y,233,71
+or,2005005,Eugene SD 4J,10638,Willagillespie Elementary School,34.87%,,40.43%,Y,522,182
+or,2706001,Falls City SD 57,11097,Falls City Elementary School,61.72%,,59.79%,Y,128,79
+or,2706001,Falls City SD 57,11096,Falls City High School,56.06%,,59.79%,Y,66,37
+or,3406001,Forest Grove SD 15,11233,Cornelius Elementary School,58.75%,,54.25%,Y,383,225
+or,3406001,Forest Grove SD 15,13283,Fern Hill Elementary School,53.82%,,54.25%,Y,262,141
+or,3406001,Forest Grove SD 15,11238,Joseph Gale Elementary School,51.08%,,54.25%,Y,509,260
+or,3406001,Forest Grove SD 15,11235,Echo Shaw Elementary School,42.13%,,42.13%,Y,451,190
+or,2306001,Four Rivers Community School,13186,Four Rivers Community School,58.75%,,58.75%,Y,257,151
+or,2306001,Four Rivers Community School,15866,Four Rivers Sr. Prep,51.65%,,51.65%,Y,91,47
+or,2407001,Gervais SD 1,15653,Early Learning Center,36.59%,,46.08%,Y,41,15
+or,2407001,Gervais SD 1,15276,Gervais Elementary School,52.01%,,46.08%,Y,348,181
+or,2407001,Gervais SD 1,10073,Gervais High School,37.79%,,46.08%,Y,299,113
+or,2407001,Gervais SD 1,10076,Gervais Middle School,49.77%,,46.08%,Y,217,108
+or,1007001,Glendale SD 77,10413,Glendale Community Charter School Pre-K-12,41.23%,,46.59%,Y,114,47
+or,1007001,Glendale SD 77,10412,Glendale Elementary School,50.67%,,46.59%,Y,150,76
+or,1707001,Grants Pass SD,10090,Allen Dale Elementary School,47.19%,,43.04%,Y,409,193
+or,1707001,Grants Pass SD,15524,Family Solutions,100.00%,,43.04%,Y,3,3
+or,1707001,Grants Pass SD,16866,Gladiola High School,56.55%,,43.04%,Y,145,82
+or,1707001,Grants Pass SD,10087,Grants Pass High School,34.54%,,43.04%,Y,1844,637
+or,1707001,Grants Pass SD,10091,Highland Elementary School,40.50%,,43.04%,Y,358,145
+or,1707001,Grants Pass SD,10092,Lincoln Elementary School,47.51%,,43.04%,Y,402,191
+or,1707001,Grants Pass SD,10088,North Middle School,40.22%,,43.04%,Y,721,290
+or,1707001,Grants Pass SD,10093,Parkside Elementary,59.80%,,43.04%,Y,393,235
+or,1707001,Grants Pass SD,10094,Redwood Elementary School,42.62%,,43.04%,Y,413,176
+or,1707001,Grants Pass SD,10095,Riverside Elementary School,65.14%,,43.04%,Y,370,241
+or,1707001,Grants Pass SD,10089,South Middle School,40.64%,,43.04%,Y,657,267
+or,2207001,Greater Albany SD 8J,12512,Albany Options School,51.22%,,41.65%,Y,164,84
+or,2207001,Greater Albany SD 8J,10741,Calapooia Middle School,41.93%,,41.65%,Y,632,265
+or,2207001,Greater Albany SD 8J,10744,Central Elementary School,41.67%,,41.65%,Y,120,50
+or,2207001,Greater Albany SD 8J,10746,Lafayette Elementary School,52.38%,,41.65%,Y,252,132
+or,2207001,Greater Albany SD 8J,10747,Liberty Elementary School,26.80%,,41.65%,Y,291,78
+or,2207001,Greater Albany SD 8J,16310,Meadow Ridge Elementary,28.32%,,41.65%,Y,512,145
+or,2207001,Greater Albany SD 8J,10742,Memorial Middle School,39.92%,,41.65%,Y,491,196
+or,2207001,Greater Albany SD 8J,10749,Oak Elementary School,39.06%,,41.65%,Y,256,100
+or,2207001,Greater Albany SD 8J,10750,Periwinkle Elementary School,47.70%,,41.65%,Y,392,187
+or,2207001,Greater Albany SD 8J,10739,South Albany High School,33.58%,,41.65%,Y,1373,461
+or,2207001,Greater Albany SD 8J,10751,South Shore Elementary School,43.67%,,41.65%,Y,316,138
+or,2207001,Greater Albany SD 8J,10752,Sunrise Elementary School,67.53%,,41.65%,Y,348,235
+or,2207001,Greater Albany SD 8J,10753,Takena Elementary School,44.93%,,41.65%,Y,138,62
+or,2207001,Greater Albany SD 8J,10754,Tangent Elementary School,46.90%,,41.65%,Y,113,53
+or,2207001,Greater Albany SD 8J,10755,Waverly Elementary School,65.15%,,41.65%,Y,264,172
+or,2607003,Gresham-Barlow SD 10J,10949,Clear Creek Middle School,44.48%,,40.68%,Y,643,286
+or,2607003,Gresham-Barlow SD 10J,10951,Dexter McCarty Middle School,39.96%,,40.68%,Y,558,223
+or,2607003,Gresham-Barlow SD 10J,10955,East Gresham Elementary School,48.09%,,40.68%,Y,549,264
+or,2607003,Gresham-Barlow SD 10J,10952,Gordon Russell Middle School,36.92%,,40.68%,Y,734,271
+or,2607003,Gresham-Barlow SD 10J,10947,Gresham High School,35.83%,,40.68%,Y,1538,551
+or,2607003,Gresham-Barlow SD 10J,10957,Hall Elementary School,53.12%,,40.68%,Y,369,196
+or,2607003,Gresham-Barlow SD 10J,10958,Highland Elementary School,48.62%,,40.68%,Y,434,211
+or,2607003,Gresham-Barlow SD 10J,13166,Hogan Cedars Elementary School,41.41%,,40.68%,Y,483,200
+or,2607003,Gresham-Barlow SD 10J,10959,Hollydale Elementary School,41.95%,,40.68%,Y,503,211
+or,2607003,Gresham-Barlow SD 10J,10960,Kelly Creek Elementary School,31.99%,,40.68%,Y,397,127
+or,2607003,Gresham-Barlow SD 10J,10961,North Gresham Elementary School,44.59%,,40.68%,Y,518,231
+or,2607003,Gresham-Barlow SD 10J,10962,Powell Valley Elementary School,31.69%,,40.68%,Y,385,122
+or,2208001,Harrisburg SD 7J,10103,Harrisburg Elementary School,45.55%,,40.94%,Y,281,128
+or,2208001,Harrisburg SD 7J,10101,Harrisburg High School,35.34%,,40.94%,Y,232,82
+or,3008005,Hermiston SD 8,11122,Armand Larive Middle School,41.27%,,41.97%,Y,785,324
+or,3008005,Hermiston SD 8,12792,Desert View Elementary School,34.58%,,41.97%,Y,480,166
+or,3008005,Hermiston SD 8,11124,Highland Hills Elementary School,37.15%,,41.97%,Y,358,133
+or,3008005,Hermiston SD 8,16761,Loma Vista Elementary School,42.31%,,41.97%,Y,312,132
+or,3008005,Hermiston SD 8,11125,Rocky Heights Elementary School,43.21%,,41.97%,Y,368,159
+or,3008005,Hermiston SD 8,11123,Sandstone Middle School,37.00%,,41.97%,Y,527,195
+or,3008005,Hermiston SD 8,11126,Sunset Elementary School,48.11%,,41.97%,Y,424,204
+or,3008005,Hermiston SD 8,11127,West Park Elementary School,52.23%,,41.97%,Y,515,269
+or,3408001,Hillsboro SD 1J,11250,Brookwood Elementary School,31.52%,,41.15%,Y,349,110
+or,3408001,Hillsboro SD 1J,11253,Eastwood Elementary School,49.89%,,41.15%,Y,467,233
+or,3408001,Hillsboro SD 1J,14268,Free Orchards Elementary School,35.95%,,41.15%,Y,395,142
+or,3408001,Hillsboro SD 1J,11245,Hillsboro High School,32.22%,,41.15%,Y,1229,396
+or,3408001,Hillsboro SD 1J,14267,Lincoln Street Elementary School,66.30%,,41.15%,Y,457,303
+or,3408001,Hillsboro SD 1J,11647,Miller Education,35.37%,,41.15%,Y,82,29
+or,3408001,Hillsboro SD 1J,11260,Minter Bridge Elementary School,32.80%,,41.15%,Y,439,144
+or,3408001,Hillsboro SD 1J,11261,Mooberry Elementary School,40.33%,,41.15%,Y,419,169
+or,3408001,Hillsboro SD 1J,11264,Reedville Elementary School,42.41%,,41.15%,Y,257,109
+or,3408001,Hillsboro SD 1J,14529,South Meadows Middle School,38.85%,,41.15%,Y,731,284
+or,3408001,Hillsboro SD 1J,11266,W L Henry Elementary School,59.74%,,41.15%,Y,380,227
+or,3408001,Hillsboro SD 1J,11267,W Verne McKinney Elementary School,40.37%,,41.15%,Y,488,197
+or,3408001,Hillsboro SD 1J,11268,West Union Elementary School,33.80%,,41.15%,Y,358,121
+or,3408001,Hillsboro SD 1J,11269,Witch Hazel Elementary School,46.26%,,41.15%,Y,508,235
+or,1408001,Hood River County SD,10111,Cascade Locks School,40.91%,,42.42%,Y,66,27
+or,1408001,Hood River County SD,10113,Mid Valley Elementary School,48.00%,,42.42%,Y,425,204
+or,1408001,Hood River County SD,10114,Parkdale Elementary School,38.72%,,42.42%,Y,235,91
+or,1408001,Hood River County SD,10109,WyEast Middle School,38.82%,,42.42%,Y,389,151
+or,0108001,Huntington SD,10118,Huntington School,53.75%,,53.75%,Y,80,43
+or,1610001,Jefferson Co SD 509,10530,Bridges High School,76.67%,,58.56%,Y,60,46
+or,1610001,Jefferson Co SD 509,13578,Buff Elementary School,53.45%,,58.56%,Y,290,155
+or,1610001,Jefferson Co SD 509,10525,Jefferson County Middle School,49.28%,,58.56%,Y,414,204
+or,1610001,Jefferson Co SD 509,10526,Madras Elementary School,52.84%,,58.56%,Y,335,177
+or,1610001,Jefferson Co SD 509,10524,Madras High School,54.39%,,58.56%,Y,741,403
+or,1610001,Jefferson Co SD 509,10527,Metolius Elementary School,56.81%,,58.56%,Y,257,146
+or,1610001,Jefferson Co SD 509,15534,Roots Program,69.23%,,58.56%,Y,13,9
+or,1610001,Jefferson Co SD 509,15369,Warm Springs K-8 Academy,76.60%,,58.56%,Y,530,406
+or,2410001,Jefferson SD 14J,10822,Jefferson Elementary School,41.09%,,40.43%,Y,331,136
+or,2410001,Jefferson SD 14J,10821,Jefferson Middle School,39.23%,,40.43%,Y,181,71
+or,1511001,Kids Unlimited of Oregon,15445,Kids Unlimited Academy,55.48%,,55.48%,Y,429,238
+or,1511001,Kids Unlimited of Oregon,16426,Kids Unlimited Academy White City,58.33%,,58.33%,Y,132,77
+or,1811002,Klamath Co SD,10557,Bonanza Elementary School,57.92%,,45.96%,Y,221,128
+or,1811002,Klamath Co SD,10549,Bonanza Junior/Senior High School,61.03%,,45.96%,Y,213,130
+or,1811002,Klamath Co SD,10554,Brixner Junior High School,50.77%,,45.96%,Y,390,198
+or,1811002,Klamath Co SD,10558,Chiloquin Elementary School,66.37%,,45.96%,Y,223,148
+or,1811002,Klamath Co SD,10550,Chiloquin High School,64.08%,,45.96%,Y,142,91
+or,1811002,Klamath Co SD,14807,Falcon Heights,54.30%,,45.96%,Y,453,246
+or,1811002,Klamath Co SD,10560,Ferguson Elementary School,45.79%,,45.96%,Y,522,239
+or,1811002,Klamath Co SD,10561,Gearhart Elementary School,82.35%,,45.96%,Y,17,14
+or,1811002,Klamath Co SD,10562,Gilchrist Elementary School,51.59%,,45.96%,Y,126,65
+or,1811002,Klamath Co SD,10551,Gilchrist Junior/Senior High School,51.49%,,45.96%,Y,101,52
+or,1811002,Klamath Co SD,10563,Henley Elementary School,28.77%,,45.96%,Y,504,145
+or,1811002,Klamath Co SD,10552,Henley High School,24.67%,,45.96%,Y,612,151
+or,1811002,Klamath Co SD,10555,Henley Middle School,27.39%,,45.96%,Y,398,109
+or,1811002,Klamath Co SD,10564,Keno Elementary School,39.32%,,45.96%,Y,206,81
+or,1811002,Klamath Co SD,10553,Lost River High School,46.67%,,45.96%,Y,225,105
+or,1811002,Klamath Co SD,10565,Malin Elementary School,47.06%,,45.96%,Y,119,56
+or,1811002,Klamath Co SD,14508,Mazama High School,36.97%,,45.96%,Y,614,227
+or,1811002,Klamath Co SD,10568,Merrill Elementary School,54.44%,,45.96%,Y,169,92
+or,1811002,Klamath Co SD,10566,Peterson Elementary School,50.16%,,45.96%,Y,612,307
+or,1811002,Klamath Co SD,10567,Shasta Elementary School,52.24%,,45.96%,Y,513,268
+or,1811002,Klamath Co SD,10569,Stearns Elementary School,70.68%,,45.96%,Y,324,229
+or,1811005,Klamath Falls City Schools,10125,Joseph Conger Elementary School,62.02%,,55.10%,Y,387,240
+or,1811005,Klamath Falls City Schools,15677,Klamath Learning Center,66.03%,,55.10%,Y,156,103
+or,1811005,Klamath Falls City Schools,10121,Klamath Union High School,46.19%,,55.10%,Y,604,279
+or,1811005,Klamath Falls City Schools,10126,Mills Elementary School,81.94%,,55.10%,Y,371,304
+or,1811005,Klamath Falls City Schools,10127,Pelican Elementary School,54.35%,,55.10%,Y,230,125
+or,1811005,Klamath Falls City Schools,10123,Ponderosa Middle School,53.31%,,55.10%,Y,619,330
+or,1811005,Klamath Falls City Schools,10129,Roosevelt Elementary School,35.23%,,55.10%,Y,386,136
+or,3112001,La Grande SD 1,11159,Central Elementary School,38.39%,,40.44%,Y,409,157
+or,3112001,La Grande SD 1,11160,Greenwood Elementary School,61.97%,,40.44%,Y,284,176
+or,3112001,La Grande SD 1,11161,Island City Elementary School,41.70%,,40.44%,Y,271,113
+or,3112001,La Grande SD 1,11157,La Grande High School,32.00%,,40.44%,Y,650,208
+or,3112001,La Grande SD 1,11158,La Grande Middle School,40.22%,,40.44%,Y,552,222
+or,2212001,Lebanon Community SD 9,10764,Cascades School,55.99%,,42.51%,Y,309,173
+or,2212001,Lebanon Community SD 9,10767,Green Acres School,59.34%,,42.51%,Y,273,162
+or,2212001,Lebanon Community SD 9,10768,Hamilton Creek School,43.17%,,42.51%,Y,278,120
+or,2212001,Lebanon Community SD 9,10769,Lacomb School,39.11%,,42.51%,Y,248,97
+or,2212001,Lebanon Community SD 9,10759,Lebanon High School,34.82%,,42.51%,Y,1186,413
+or,2212001,Lebanon Community SD 9,13031,Pioneer School,48.32%,,42.51%,Y,358,173
+or,2212001,Lebanon Community SD 9,13030,Riverview School,37.19%,,42.51%,Y,398,148
+or,2212001,Lebanon Community SD 9,10762,Seven Oak Middle School,44.47%,,42.51%,Y,533,237
+or,2112001,Lincoln Co SD,10734,Crestview Heights School,49.31%,,43.72%,Y,288,142
+or,2112001,Lincoln Co SD,10728,Eddyville Charter School,41.07%,,43.72%,Y,224,92
+or,2112001,Lincoln Co SD,16724,Lincoln City Career Technical High School,53.33%,,43.72%,Y,45,24
+or,2112001,Lincoln Co SD,10717,Newport High School,32.71%,,43.72%,Y,642,210
+or,2112001,Lincoln Co SD,10722,Newport Middle School,37.76%,,43.72%,Y,482,182
+or,2112001,Lincoln Co SD,10730,Oceanlake Elementary School,61.02%,,43.72%,Y,295,180
+or,2112001,Lincoln Co SD,14711,Olalla Center,37.50%,,43.72%,Y,8,3
+or,2112001,Lincoln Co SD,10731,Sam Case Elementary,45.41%,,43.72%,Y,414,188
+or,2112001,Lincoln Co SD,10732,Siletz Valley Schools,57.40%,,43.72%,Y,223,128
+or,2112001,Lincoln Co SD,10733,Taft Elementary School,47.50%,,43.72%,Y,501,238
+or,2112001,Lincoln Co SD,10718,Taft Middle/High School,39.29%,,43.72%,Y,733,288
+or,2112001,Lincoln Co SD,10724,Toledo Elementary School,48.56%,,43.72%,Y,383,186
+or,2112001,Lincoln Co SD,10719,Toledo Jr./Senior High School,36.77%,,43.72%,Y,291,107
+or,2112001,Lincoln Co SD,10720,Waldport Middle/High School,44.21%,,43.72%,Y,285,126
+or,2112001,Lincoln Co SD,15633,Yaquina View Elementary,46.65%,,43.72%,Y,373,174
+or,1212001,Long Creek SD 17,10461,Long Creek School,53.66%,,53.66%,Y,41,22
+or,2012005,Lowell SD 71,10661,Lowell Junior/Senior High School,37.22%,,44.97%,Y,180,67
+or,2012005,Lowell SD 71,10662,Lundy Elementary School,53.54%,,44.97%,Y,198,106
+or,2013001,Mapleton SD 32,14211,Mapleton Elementary School,47.89%,,54.26%,Y,71,34
+or,2013001,Mapleton SD 32,10664,Mapleton Jr/Sr High School,62.07%,,54.26%,Y,58,36
+or,2013003,McKenzie SD 68,10669,McKenzie River Community School,47.74%,,47.74%,Y,199,95
+or,3613001,McMinnville SD 40,11305,Columbus Elementary School,42.92%,,41.47%,Y,445,191
+or,3613001,McMinnville SD 40,11302,Duniway Middle School,34.25%,,41.47%,Y,835,286
+or,3613001,McMinnville SD 40,11677,Grandhaven Elementary School,44.86%,,41.47%,Y,428,192
+or,3613001,McMinnville SD 40,11308,Newby Elementary School,43.08%,,41.47%,Y,448,193
+or,3613001,McMinnville SD 40,11303,Patton Middle School,41.67%,,41.47%,Y,816,340
+or,3613001,McMinnville SD 40,14226,Sue Buel Elementary,52.14%,,41.47%,Y,443,231
+or,3613001,McMinnville SD 40,11309,Wascher Elementary School,37.31%,,41.47%,Y,402,150
+or,1513001,Medford SD 549,10498,Abraham Lincoln Elementary,29.00%,,40.64%,Y,462,134
+or,1513001,Medford SD 549,14407,Central Medford High School,59.16%,,40.64%,Y,475,281
+or,1513001,Medford SD 549,10499,Griffin Creek Elementary School,34.03%,,40.64%,Y,529,180
+or,1513001,Medford SD 549,10496,Hedrick Middle School,31.43%,,40.64%,Y,1015,319
+or,1513001,Medford SD 549,10500,Hoover Elementary School,21.70%,,40.64%,Y,659,143
+or,1513001,Medford SD 549,10501,Howard Elementary School,57.78%,,40.64%,Y,379,219
+or,1513001,Medford SD 549,10502,Jackson Elementary School,66.76%,,40.64%,Y,352,235
+or,1513001,Medford SD 549,10503,Jacksonville Elementary School,24.87%,,40.64%,Y,382,95
+or,1513001,Medford SD 549,10504,Jefferson Elementary School,50.23%,,40.64%,Y,442,222
+or,1513001,Medford SD 549,10505,Kennedy Elementary School,47.31%,,40.64%,Y,465,220
+or,1513001,Medford SD 549,10506,Lone Pine Elementary School,22.59%,,40.64%,Y,518,117
+or,1513001,Medford SD 549,14806,Madrone Trail Public Charter School,32.47%,,40.64%,Y,231,75
+or,1513001,Medford SD 549,10497,McLoughlin Middle School,48.76%,,40.64%,Y,884,431
+or,1513001,Medford SD 549,10494,North Medford High School,34.78%,,40.64%,Y,1593,554
+or,1513001,Medford SD 549,10507,Oak Grove Elementary School,55.50%,,40.64%,Y,409,227
+or,1513001,Medford SD 549,10508,Roosevelt Elementary School,60.88%,,40.64%,Y,363,221
+or,1513001,Medford SD 549,10509,Ruch Outdoor Community School,34.33%,,40.64%,Y,233,80
+or,1513001,Medford SD 549,10495,South Medford High School,35.02%,,40.64%,Y,1679,588
+or,1513001,Medford SD 549,15663,The Valley School of Southern Oregon,8.26%,,40.64%,Y,121,10
+or,1513001,Medford SD 549,10510,Washington Elementary School,74.24%,,40.64%,Y,330,245
+or,1513001,Medford SD 549,10511,Wilson Elementary School,62.82%,,40.64%,Y,390,245
+or,3013001,Milton-Freewater Unified SD 7,11129,Central Middle School,46.25%,,44.69%,Y,400,185
+or,3013001,Milton-Freewater Unified SD 7,11130,Ferndale Elementary School,42.86%,,44.69%,Y,266,114
+or,3013001,Milton-Freewater Unified SD 7,16086,Gib Olinger Elementary School,49.11%,,44.69%,Y,507,249
+or,3013001,Milton-Freewater Unified SD 7,11128,McLoughlin High School,39.96%,,44.69%,Y,503,201
+or,1213001,Monument SD 8,10463,Monument School,46.15%,,46.15%,Y,65,30
+or,2513001,Morrow Co SD,10918,A C Houghton Elementary School,46.48%,,42.27%,Y,213,99
+or,2513001,Morrow Co SD,10919,Heppner Elementary School,24.02%,,42.27%,Y,179,43
+or,2513001,Morrow Co SD,10914,Heppner Junior/Senior High School,14.56%,,42.27%,Y,158,23
+or,2513001,Morrow Co SD,13374,Irrigon Elementary School,50.26%,,42.27%,Y,189,95
+or,2513001,Morrow Co SD,10917,Irrigon Junior/Senior High School,43.40%,,42.27%,Y,371,161
+or,2513001,Morrow Co SD,13505,Morrow Education Center,47.06%,,42.27%,Y,68,32
+or,2513001,Morrow Co SD,10916,Riverside Junior/Senior High School,43.15%,,42.27%,Y,489,211
+or,2513001,Morrow Co SD,10921,Sam Boardman Elementary School,51.16%,,42.27%,Y,346,177
+or,2513001,Morrow Co SD,13373,Windy River Elementary School,46.22%,,42.27%,Y,251,116
+or,2613006,Mt. Scott Learning Center,13059,Mt. Scott Learning Center,48.37%,,48.37%,Y,153,74
+or,0613002,Myrtle Point SD 41,10371,Myrtle Crest School,43.86%,,41.35%,Y,285,125
+or,0613002,Myrtle Point SD 41,10366,Myrtle Point High School,36.88%,,41.35%,Y,160,59
+or,2614007,Native American Youth Academy,13859,Many Nations Academy,65.71%,,65.71%,Y,35,23
+or,2914002,Nestucca Valley SD 101J,11106,Nestucca High School,38.18%,,42.80%,Y,220,84
+or,2914002,Nestucca Valley SD 101J,11108,Nestucca K8,46.62%,,42.80%,Y,266,124
+or,2014003,Network Charter School,13580,Network Charter School,58.59%,,58.59%,Y,99,58
+or,3614001,Newberg SD 29J,11315,Edwards Elementary School,36.67%,,35.60%,Y,450,165
+or,3614001,Newberg SD 29J,15393,Springbrook Education Center,33.61%,,35.60%,Y,241,81
+or,0614001,North Bend SD 13,10377,Hillcrest Elementary School,45.02%,,42.69%,Y,462,208
+or,0614001,North Bend SD 13,10378,North Bay Elementary School,45.51%,,42.69%,Y,468,213
+or,0614001,North Bend SD 13,10375,North Bend Middle School,37.88%,,42.69%,Y,499,189
+or,0314001,North Clackamas SD 12,10250,Ardenwald Elementary School,38.68%,,40.31%,Y,393,152
+or,0314001,North Clackamas SD 12,10251,Bilquist Elementary School,38.64%,,40.31%,Y,352,136
+or,0314001,North Clackamas SD 12,10256,Lewelling Elementary School,39.86%,,40.31%,Y,296,118
+or,0314001,North Clackamas SD 12,10257,Linwood Elementary School,50.68%,,40.31%,Y,219,111
+or,0314001,North Clackamas SD 12,10258,Milwaukie El Puente Elementary School,29.83%,,40.31%,Y,409,122
+or,0314001,North Clackamas SD 12,10244,Milwaukie High School,35.35%,,40.31%,Y,792,280
+or,0314001,North Clackamas SD 12,13196,New Urban High School,49.25%,,40.31%,Y,67,33
+or,0314001,North Clackamas SD 12,10262,Oak Grove Elementary,48.15%,,40.31%,Y,270,130
+or,0314001,North Clackamas SD 12,13834,Pace High School,36.36%,,40.31%,Y,11,4
+or,0314001,North Clackamas SD 12,10264,Riverside Elementary School,31.33%,,40.31%,Y,316,99
+or,0314001,North Clackamas SD 12,10246,Rowe Middle School,39.67%,,40.31%,Y,721,286
+or,0314001,North Clackamas SD 12,10267,Whitcomb Elementary School,61.15%,,40.31%,Y,381,233
+or,1014001,North Douglas SD 22,10421,North Douglas Elementary School,48.24%,,43.96%,Y,284,137
+or,1014001,North Douglas SD 22,10420,North Douglas High School,28.75%,,43.96%,Y,80,23
+or,1914001,North Lake SD 14,10577,North Lake School,54.15%,,54.15%,Y,253,137
+or,2414003,North Santiam SD 29,10832,Mari-Linn Elementary School,33.72%,,40.75%,Y,172,58
+or,2414003,North Santiam SD 29,10834,Stayton Elementary School,44.23%,,40.75%,Y,364,161
+or,2414003,North Santiam SD 29,10830,Stayton Middle School,40.63%,,40.75%,Y,448,182
+or,3314003,North Wasco County SD 21,13353,Chenowith Elementary School,67.77%,,47.85%,Y,332,225
+or,3314003,North Wasco County SD 21,13357,Colonel Wright Elementary School,50.00%,,47.85%,Y,258,129
+or,3314003,North Wasco County SD 21,13358,Dry Hollow Elementary School,45.92%,,47.85%,Y,392,180
+or,3314003,North Wasco County SD 21,15120,Innovations Academy,63.33%,,47.85%,Y,30,19
+or,3314003,North Wasco County SD 21,13359,The Dalles High School,39.15%,,47.85%,Y,1009,395
+or,3314003,North Wasco County SD 21,13360,The Dalles Middle School,50.77%,,47.85%,Y,648,329
+or,2314001,Nyssa SD 26,15720,Nyssa Early Head Start Program,100.00%,,70.92%,Y,19,19
+or,2314001,Nyssa SD 26,10800,Nyssa Elementary School,72.88%,,70.92%,Y,542,395
+or,2314001,Nyssa SD 26,10798,Nyssa High School,65.38%,,70.92%,Y,338,221
+or,2314001,Nyssa SD 26,10799,Nyssa Middle School,71.84%,,70.92%,Y,277,199
+or,1015001,Oakland SD,14197,Oakland Elementary School,40.19%,,40.19%,Y,209,84
+or,2015001,Oakridge SD 76,10672,Oakridge Elementary School,56.09%,,51.54%,Y,312,175
+or,2015001,Oakridge SD 76,13799,Oakridge Junior High School,56.25%,,51.54%,Y,80,45
+or,2015001,Oakridge SD 76,15188,Westridge Alternative Education Prog.,40.25%,,51.54%,Y,159,64
+or,2315001,Ontario SD,10804,Aiken Elementary School,62.78%,,66.51%,Y,266,167
+or,2315001,Ontario SD,10803,Alameda Elementary School,72.37%,,66.51%,Y,380,275
+or,2315001,Ontario SD,10805,Cairo Elementary School,69.67%,,66.51%,Y,122,85
+or,2315001,Ontario SD,10806,May Roberts Elementary School,74.41%,,66.51%,Y,383,285
+or,2315001,Ontario SD,10801,Ontario High School,61.68%,,66.51%,Y,715,441
+or,2315001,Ontario SD,10802,Ontario Middle School,65.70%,,66.51%,Y,379,249
+or,2315001,Ontario SD,10807,Pioneer Elementary School,57.84%,,66.51%,Y,102,59
+or,0315002,Oregon City SD 62,15697,Jackson Campus - Alt Ed,47.06%,,46.58%,Y,34,16
+or,0315002,Oregon City SD 62,10288,Oregon City Service Learning Academy,46.46%,,46.58%,Y,127,59
+or,2616002,Parkrose SD 3,10965,Parkrose High School,37.20%,,42.02%,Y,949,353
+or,2616002,Parkrose SD 3,10966,Parkrose Middle School,43.60%,,42.02%,Y,773,337
+or,2616002,Parkrose SD 3,10967,Prescott Elementary School,47.04%,,42.02%,Y,355,167
+or,2616002,Parkrose SD 3,10968,Russell Elementary,38.52%,,42.02%,Y,379,146
+or,2616002,Parkrose SD 3,10969,Sacramento Elementary School,40.07%,,42.02%,Y,302,121
+or,2616002,Parkrose SD 3,10970,Shaver Elementary School,53.44%,,42.02%,Y,305,163
+or,3016001,Pendleton SD 16,11136,McKay Creek Elementary School,26.05%,,40.17%,Y,238,62
+or,3016001,Pendleton SD 16,15606,Pendleton Early Learning Center,58.82%,,40.17%,Y,306,180
+or,3016001,Pendleton SD 16,11133,Pendleton High School,24.62%,,40.17%,Y,784,193
+or,3016001,Pendleton SD 16,11137,Sherwood Heights Elementary School,52.33%,,40.17%,Y,451,236
+or,3016001,Pendleton SD 16,11134,Sunridge Middle School,38.44%,,40.17%,Y,666,256
+or,3016001,Pendleton SD 16,11138,Washington Elementary School,54.20%,,40.17%,Y,393,213
+or,1016002,Phoenix School of Roseburg,11356,Phoenix School,45.78%,,45.78%,Y,166,76
+or,1516001,Phoenix-Talent SD 4,13385,Armadillo Technical Institute,51.19%,,48.48%,Y,84,43
+or,1516001,Phoenix-Talent SD 4,10515,Orchard Hill Elementary School,51.11%,,48.48%,Y,405,207
+or,1516001,Phoenix-Talent SD 4,10516,Phoenix Elementary School,63.64%,,48.48%,Y,374,238
+or,1516001,Phoenix-Talent SD 4,10513,Phoenix High School,41.13%,,48.48%,Y,654,269
+or,1516001,Phoenix-Talent SD 4,10517,Talent Elementary School,43.39%,,48.48%,Y,454,197
+or,1516001,Phoenix-Talent SD 4,10514,Talent Middle School,48.76%,,48.48%,Y,564,275
+or,3016002,Pilot Rock SD 2,11142,Pilot Rock Elementary School,50.76%,,41.10%,Y,132,67
+or,3016002,Pilot Rock SD 2,11141,Pilot Rock High School,33.90%,,41.10%,Y,177,60
+or,0816001,Port Orford-Langlois SD 2CJ,10386,Driftwood Elementary School,49.72%,,45.25%,Y,177,88
+or,0816001,Port Orford-Langlois SD 2CJ,10384,Pacific High School,27.27%,,45.25%,Y,44,12
+or,2616010,Portland OIC,15894,RAHS Lents,63.10%,,64.03%,Y,84,53
+or,2616010,Portland OIC,15630,RAHS New Columbia,69.47%,,64.03%,Y,95,66
+or,2616010,Portland OIC,16328,RAMS (Rosemary Anderson Middle School),76.00%,,64.03%,Y,25,19
+or,2616010,Portland OIC,15528,Rosemary Anderson High School East,57.14%,,64.03%,Y,119,68
+or,2616010,Portland OIC,11437,Rosemary Anderson High School North ,64.89%,,64.03%,Y,94,61
+or,2616011,Portland SD 1J,14872,Alliance High School,28.09%,,40.33%,Y,324,91
+or,2616011,Portland SD 1J,11003,Applegate Elementary School,100.00%,,40.33%,Y,70,70
+or,2616011,Portland SD 1J,11005,Astor Elementary School,25.36%,,40.33%,Y,414,105
+or,2616011,Portland SD 1J,11008,Beach Elementary School,27.92%,,40.33%,Y,437,122
+or,2616011,Portland SD 1J,10982,Beaumont Middle School,23.17%,,40.33%,Y,574,133
+or,2616011,Portland SD 1J,10971,Benson Polytechnic High School,23.73%,,40.33%,Y,1020,242
+or,2616011,Portland SD 1J,11009,Boise-Eliot Elementary School,58.48%,,40.33%,Y,342,200
+or,2616011,Portland SD 1J,11013,Buckman Elementary School,21.51%,,40.33%,Y,423,91
+or,2616011,Portland SD 1J,10995,César Chávez K-8 School,51.73%,,40.33%,Y,549,284
+or,2616011,Portland SD 1J,11015,Chapman Elementary School,27.58%,,40.33%,Y,475,131
+or,2616011,Portland SD 1J,11016,Chief Joseph Elementary School,25.37%,,40.33%,Y,335,85
+or,2616011,Portland SD 1J,16456,Clarendon Early Learning Academy,100.00%,,40.33%,Y,139,139
+or,2616011,Portland SD 1J,16455,DART School,80.00%,,40.33%,Y,10,8
+or,2616011,Portland SD 1J,11034,Dr. Martin Luther King Jr. School,49.55%,,40.33%,Y,337,167
+or,2616011,Portland SD 1J,11022,Faubion Elementary School,48.18%,,40.33%,Y,797,384
+or,2616011,Portland SD 1J,10986,George Middle School,56.75%,,40.33%,Y,437,248
+or,2616011,Portland SD 1J,11025,Grout Elementary School,45.02%,,40.33%,Y,402,181
+or,2616011,Portland SD 1J,16084,Harriet Tubman Middle School,38.59%,,40.33%,Y,412,159
+or,2616011,Portland SD 1J,11026,Hayhurst Elementary School,19.59%,,40.33%,Y,393,77
+or,2616011,Portland SD 1J,11031,James John Elementary School,41.60%,,40.33%,Y,351,146
+or,2616011,Portland SD 1J,10975,Jefferson High School,36.92%,,40.33%,Y,623,230
+or,2616011,Portland SD 1J,11032,Kelly Elementary School,57.77%,,40.33%,Y,611,353
+or,2616011,Portland SD 1J,11036,Lee Elementary School,51.30%,,40.33%,Y,308,158
+or,2616011,Portland SD 1J,10977,Leodis V. McDaniel High School,36.19%,,40.33%,Y,1028,372
+or,2616011,Portland SD 1J,11041,Markham Elementary School,33.03%,,40.33%,Y,433,143
+or,2616011,Portland SD 1J,14092,Ockley Green Middle School,35.36%,,40.33%,Y,478,169
+or,2616011,Portland SD 1J,11044,Peninsula Elementary School,27.63%,,40.33%,Y,257,71
+or,2616011,Portland SD 1J,13801,Pioneer Programs,60.38%,,40.33%,Y,106,64
+or,2616011,Portland SD 1J,16457,Portland International Scholars Academy (PISA),74.07%,,40.33%,Y,27,20
+or,2616011,Portland SD 1J,11047,Rigler Elementary School,50.83%,,40.33%,Y,301,153
+or,2616011,Portland SD 1J,10980,Roosevelt High School,40.17%,,40.33%,Y,1165,468
+or,2616011,Portland SD 1J,13804,Rosa Parks Elementary School,72.18%,,40.33%,Y,284,205
+or,2616011,Portland SD 1J,11048,Rose City Park,20.60%,,40.33%,Y,529,109
+or,2616011,Portland SD 1J,10988,Roseway Heights School,36.72%,,40.33%,Y,610,224
+or,2616011,Portland SD 1J,16074,Sacajawea Head Start,100.00%,,40.33%,Y,121,121
+or,2616011,Portland SD 1J,11050,Scott Elementary School,51.99%,,40.33%,Y,477,248
+or,2616011,Portland SD 1J,11051,Sitton Elementary School,60.82%,,40.33%,Y,416,253
+or,2616011,Portland SD 1J,11056,Vernon Elementary School,31.21%,,40.33%,Y,596,186
+or,2616011,Portland SD 1J,11059,Whitman Elementary School,58.11%,,40.33%,Y,265,154
+or,2616011,Portland SD 1J,11061,Woodlawn Elementary School,45.15%,,40.33%,Y,330,149
+or,2616011,Portland SD 1J,11064,Woodmere Elementary School,47.95%,,40.33%,Y,292,140
+or,2616011,Portland SD 1J,16035,Youth Progress Association,100.00%,,40.33%,Y,8,8
+or,2616011,Portland SD 1J,11004,Arleta Elementary School,29.60%,,40.92%,Y,277,82
+or,2616011,Portland SD 1J,11010,Bridger Elementary School,28.37%,,40.92%,Y,356,101
+or,2616011,Portland SD 1J,11019,Creston Elementary School,39.81%,,40.92%,Y,309,123
+or,2616011,Portland SD 1J,15515,CTC NE,32.47%,,40.92%,Y,77,25
+or,2616011,Portland SD 1J,15514,CTC SE,30.88%,,40.92%,Y,68,21
+or,2616011,Portland SD 1J,14257,Harrison Park School,51.73%,,40.92%,Y,549,284
+or,2616011,Portland SD 1J,10991,Kellogg Middle School,34.40%,,40.92%,Y,689,237
+or,2616011,Portland SD 1J,10992,Lane Middle School,45.20%,,40.92%,Y,354,160
+or,2616011,Portland SD 1J,11037,Lent Elementary School,51.88%,,40.92%,Y,266,138
+or,2616011,Portland SD 1J,11042,Marysville Elementary School,50.76%,,40.92%,Y,262,133
+or,2616011,Portland SD 1J,11057,Vestal Elementary School,44.81%,,40.92%,Y,212,95
+or,1516002,Prospect SD 59,10519,Prospect Charter School,45.11%,,45.11%,Y,235,106
+or,0918002,Redmond SD 2J,10396,John Tuck Elementary School,38.46%,,40.80%,Y,416,160
+or,0918002,Redmond SD 2J,10397,M A Lynch Elementary School,51.54%,,40.80%,Y,357,184
+or,0918002,Redmond SD 2J,15832,Redmond Early Learning Center at Hugh Hartman,38.72%,,40.80%,Y,439,170
+or,0918002,Redmond SD 2J,14743,Sage Elementary School,36.42%,,40.80%,Y,626,228
+or,0918002,Redmond SD 2J,10400,Vern Patrick Elementary School,42.90%,,40.80%,Y,373,160
+or,1018001,Reedsport SD 105,10426,Highland Elementary School,60.98%,,53.25%,Y,328,200
+or,1018001,Reedsport SD 105,10424,Reedsport Community Charter School,45.28%,,53.25%,Y,318,144
+or,2618002,Reynolds SD 7,11078,Davis Elementary School,65.52%,,60.89%,Y,406,266
+or,2618002,Reynolds SD 7,11079,Fairview Elementary School,59.61%,,60.89%,Y,307,183
+or,2618002,Reynolds SD 7,11080,Glenfair Elementary School,74.58%,,60.89%,Y,417,311
+or,2618002,Reynolds SD 7,11081,Hartley Elementary School,62.09%,,60.89%,Y,335,208
+or,2618002,Reynolds SD 7,11074,Hauton B Lee Middle School,60.71%,,60.89%,Y,705,428
+or,2618002,Reynolds SD 7,11082,Margaret Scott Elementary School,58.92%,,60.89%,Y,370,218
+or,2618002,Reynolds SD 7,13214,Reynolds Learning Academy,59.41%,,60.89%,Y,239,142
+or,2618002,Reynolds SD 7,11075,Reynolds Middle School,54.99%,,60.89%,Y,882,485
+or,2618002,Reynolds SD 7,13213,Salish Ponds Elementary School,61.73%,,60.89%,Y,324,200
+or,2618002,Reynolds SD 7,11085,Wilkes Elementary School,57.56%,,60.89%,Y,443,255
+or,2618002,Reynolds SD 7,11077,Alder Elementary School,67.12%,,41.01%,Y,368,247
+or,2618002,Reynolds SD 7,15682,Alder Pre K,57.58%,,41.01%,Y,33,19
+or,2618002,Reynolds SD 7,16021,Community Transitions Program (CTP),46.67%,,41.01%,Y,30,14
+or,2618002,Reynolds SD 7,13032,Multnomah Learning Academy - Elementary,30.28%,,41.01%,Y,284,86
+or,2618002,Reynolds SD 7,15707,Multnomah Learning Academy - Middle,23.44%,,41.01%,Y,256,60
+or,2618002,Reynolds SD 7,13481,Reynolds Arthur Academy,19.48%,,41.01%,Y,154,30
+or,2618002,Reynolds SD 7,11073,Reynolds High School,40.67%,,41.01%,Y,2353,957
+or,2618002,Reynolds SD 7,14801,Rockwood Preparatory Academy,53.67%,,41.01%,Y,313,168
+or,2618002,Reynolds SD 7,11083,Sweetbriar Elementary School,33.08%,,41.01%,Y,263,87
+or,2618002,Reynolds SD 7,11084,Troutdale Elementary School,40.43%,,41.01%,Y,324,131
+or,2618002,Reynolds SD 7,11076,Walt Morey Middle School,39.15%,,41.01%,Y,562,220
+or,2618002,Reynolds SD 7,11086,Woodland Elementary,42.75%,,41.01%,Y,393,168
+or,1018002,Riddle SD 70,10428,Riddle Elementary School,49.73%,,42.86%,Y,183,91
+or,1018002,Riddle SD 70,10427,Riddle High School,34.64%,,42.86%,Y,153,53
+or,1518001,Rogue River SD 35,10520,Rogue River Junior/Senior High,38.85%,,40.98%,Y,314,122
+or,1518001,Rogue River SD 35,16153,South Valley Academy,47.92%,,40.98%,Y,96,46
+or,1518001,Rogue River SD 35,10523,Rogue River Elementary School,58.19%,,58.19%,Y,409,238
+or,2419004,Salem-Keizer SD 24J,10850,Auburn Elementary School,58.52%,,41.09%,Y,569,333
+or,2419004,Salem-Keizer SD 24J,16856,Baker,68.52%,,41.09%,Y,54,37
+or,2419004,Salem-Keizer SD 24J,15154,Battle Creek Elementary School,37.36%,,41.09%,Y,455,170
+or,2419004,Salem-Keizer SD 24J,16854,Bethel Elem,67.65%,,41.09%,Y,34,23
+or,2419004,Salem-Keizer SD 24J,15674,BIC,54.55%,,41.09%,Y,11,6
+or,2419004,Salem-Keizer SD 24J,10853,Brush College Elementary School,23.57%,,41.09%,Y,297,70
+or,2419004,Salem-Keizer SD 24J,10854,Bush Elementary School,64.54%,,41.09%,Y,282,182
+or,2419004,Salem-Keizer SD 24J,10855,Candalaria Elementary School,22.53%,,41.09%,Y,324,73
+or,2419004,Salem-Keizer SD 24J,15153,Cesar E Chavez Elementary,57.41%,,41.09%,Y,587,337
+or,2419004,Salem-Keizer SD 24J,10856,Chapman Hill Elementary School,26.03%,,41.09%,Y,365,95
+or,2419004,Salem-Keizer SD 24J,12791,Claggett Creek Middle School,46.89%,,41.09%,Y,883,414
+or,2419004,Salem-Keizer SD 24J,10857,Clear Lake Elementary School,23.80%,,41.09%,Y,332,79
+or,2419004,Salem-Keizer SD 24J,10841,Crossler Middle School,25.81%,,41.09%,Y,837,216
+or,2419004,Salem-Keizer SD 24J,15673,CTEC,24.87%,,41.09%,Y,563,140
+or,2419004,Salem-Keizer SD 24J,10858,Cummings Elementary School,41.71%,,41.09%,Y,410,171
+or,2419004,Salem-Keizer SD 24J,13679,Downtown Learning Center,56.04%,,41.09%,Y,91,51
+or,2419004,Salem-Keizer SD 24J,10859,Englewood Elementary School,50.31%,,41.09%,Y,324,163
+or,2419004,Salem-Keizer SD 24J,15617,ESCC (East Salem Community Center),100.00%,,41.09%,Y,54,54
+or,2419004,Salem-Keizer SD 24J,10873,Eyre Elementary School,56.92%,,41.09%,Y,585,333
+or,2419004,Salem-Keizer SD 24J,12996,Forest Ridge Elementary School,30.08%,,41.09%,Y,246,74
+or,2419004,Salem-Keizer SD 24J,10861,Four Corners Elementary School,58.84%,,41.09%,Y,362,213
+or,2419004,Salem-Keizer SD 24J,16855,Fruitland Elem,62.50%,,41.09%,Y,40,25
+or,2419004,Salem-Keizer SD 24J,10863,Grant Community School,41.94%,,41.09%,Y,422,177
+or,2419004,Salem-Keizer SD 24J,10864,Gubser Elementary School,30.62%,,41.09%,Y,418,128
+or,2419004,Salem-Keizer SD 24J,12788,Hallman Elementary School,65.12%,,41.09%,Y,367,239
+or,2419004,Salem-Keizer SD 24J,12789,Hammond Elementary School,38.52%,,41.09%,Y,527,203
+or,2419004,Salem-Keizer SD 24J,13116,Harritt Elementary School,45.42%,,41.09%,Y,491,223
+or,2419004,Salem-Keizer SD 24J,10865,Hayesville Elementary School,60.77%,,41.09%,Y,339,206
+or,2419004,Salem-Keizer SD 24J,12866,Highland Elementary School,66.67%,,41.09%,Y,381,254
+or,2419004,Salem-Keizer SD 24J,10868,Hoover Elementary School,64.62%,,41.09%,Y,390,252
+or,2419004,Salem-Keizer SD 24J,10842,Houck Middle School,52.14%,,41.09%,Y,1051,548
+or,2419004,Salem-Keizer SD 24J,10843,Judson Middle School,33.02%,,41.09%,Y,857,283
+or,2419004,Salem-Keizer SD 24J,14997,Kalapuya Elementary School,27.66%,,41.09%,Y,499,138
+or,2419004,Salem-Keizer SD 24J,10869,Keizer Elementary School,44.30%,,41.09%,Y,526,233
+or,2419004,Salem-Keizer SD 24J,10870,Kennedy Elementary School,53.37%,,41.09%,Y,371,198
+or,2419004,Salem-Keizer SD 24J,12787,Lamb Elementary School,56.44%,,41.09%,Y,365,206
+or,2419004,Salem-Keizer SD 24J,12997,Lee Elementary School,43.75%,,41.09%,Y,336,147
+or,2419004,Salem-Keizer SD 24J,10844,Leslie Middle School,40.36%,,41.09%,Y,731,295
+or,2419004,Salem-Keizer SD 24J,10872,Liberty Elementary School,42.42%,,41.09%,Y,495,210
+or,2419004,Salem-Keizer SD 24J,10837,McKay High School,44.71%,,41.09%,Y,2194,981
+or,2419004,Salem-Keizer SD 24J,10874,McKinley Elementary School,37.01%,,41.09%,Y,308,114
+or,2419004,Salem-Keizer SD 24J,10836,McNary High School,30.61%,,41.09%,Y,1934,592
+or,2419004,Salem-Keizer SD 24J,12515,Miller Elementary School,59.14%,,41.09%,Y,394,233
+or,2419004,Salem-Keizer SD 24J,10876,Morningside Elementary School,39.64%,,41.09%,Y,280,111
+or,2419004,Salem-Keizer SD 24J,10878,Myers Elementary School,28.01%,,41.09%,Y,332,93
+or,2419004,Salem-Keizer SD 24J,10838,North Salem High School,48.38%,,41.09%,Y,2003,969
+or,2419004,Salem-Keizer SD 24J,10845,Parrish Middle School,57.08%,,41.09%,Y,664,379
+or,2419004,Salem-Keizer SD 24J,10879,Pringle Elementary School,34.62%,,41.09%,Y,520,180
+or,2419004,Salem-Keizer SD 24J,10880,Richmond Elementary School,65.90%,,41.09%,Y,305,201
+or,2419004,Salem-Keizer SD 24J,13626,Roberts High School,57.28%,,41.09%,Y,103,59
+or,2419004,Salem-Keizer SD 24J,16029,Roberts High School At Chemekata,51.89%,,41.09%,Y,318,165
+or,2419004,Salem-Keizer SD 24J,14834,Roberts Middle School,64.29%,,41.09%,Y,56,36
+or,2419004,Salem-Keizer SD 24J,10882,Salem Heights Elementary School,37.12%,,41.09%,Y,264,98
+or,2419004,Salem-Keizer SD 24J,10883,Schirle Elementary School,24.32%,,41.09%,Y,296,72
+or,2419004,Salem-Keizer SD 24J,10884,Scott Elementary School,58.32%,,41.09%,Y,535,312
+or,2419004,Salem-Keizer SD 24J,16496,Seymour Center,100.00%,,41.09%,Y,20,20
+or,2419004,Salem-Keizer SD 24J,10839,South Salem High School,30.14%,,41.09%,Y,2120,639
+or,2419004,Salem-Keizer SD 24J,10840,Sprague High School,19.67%,,41.09%,Y,1693,333
+or,2419004,Salem-Keizer SD 24J,10846,Stephens Middle School,46.75%,,41.09%,Y,1078,504
+or,2419004,Salem-Keizer SD 24J,14996,Straub Middle School,21.66%,,41.09%,Y,554,120
+or,2419004,Salem-Keizer SD 24J,10885,Sumpter Elementary School,17.58%,,41.09%,Y,495,87
+or,2419004,Salem-Keizer SD 24J,10886,Swegle Elementary School,55.07%,,41.09%,Y,552,304
+or,2419004,Salem-Keizer SD 24J,13830,Valley Inquiry Charter,24.14%,,41.09%,Y,203,49
+or,2419004,Salem-Keizer SD 24J,10847,Waldo Middle School,59.04%,,41.09%,Y,1211,715
+or,2419004,Salem-Keizer SD 24J,10848,Walker Middle School,29.57%,,41.09%,Y,602,178
+or,2419004,Salem-Keizer SD 24J,10887,Washington Elementary School,56.94%,,41.09%,Y,360,205
+or,2419004,Salem-Keizer SD 24J,12790,Weddle Elementary School,61.52%,,41.09%,Y,369,227
+or,2419004,Salem-Keizer SD 24J,12998,West Salem High School,17.78%,,41.09%,Y,1597,284
+or,2419004,Salem-Keizer SD 24J,10849,Whiteaker Middle School,26.87%,,41.09%,Y,670,180
+or,2419004,Salem-Keizer SD 24J,10860,Wright Elementary School,46.57%,,41.09%,Y,408,190
+or,2419004,Salem-Keizer SD 24J,10888,Yoshikai Elementary School,57.14%,,41.09%,Y,483,276
+or,2219001,Santiam Canyon SD 129,10775,Santiam Elementary School,44.92%,,43.01%,Y,256,115
+or,2219001,Santiam Canyon SD 129,10774,Santiam Junior/Senior High School,41.49%,,43.01%,Y,323,134
+or,2619004,Serendipity Center,11442,Serendipity Center,42.98%,,42.98%,Y,114,49
+or,3619001,Sheridan SD 48J,13460,Faulconer-Chapman School,51.17%,,48.89%,Y,469,240
+or,3619001,Sheridan SD 48J,11318,Sheridan High School,43.63%,,48.89%,Y,204,89
+or,2019002,Siuslaw SD 97J,10680,Siuslaw Elementary School,47.87%,,42.25%,Y,610,292
+or,2019002,Siuslaw SD 97J,10678,Siuslaw High School,44.42%,,42.25%,Y,394,175
+or,2019002,Siuslaw SD 97J,10679,Siuslaw Middle School,31.59%,,42.25%,Y,402,127
+or,2019006,South Lane SD 45J,10684,Al Kennedy High School,63.64%,,40.16%,Y,66,42
+or,2019006,South Lane SD 45J,10686,Bohemia Elementary School,48.46%,,40.16%,Y,454,220
+or,2019006,South Lane SD 45J,10683,Cottage Grove High School,27.94%,,40.16%,Y,698,195
+or,2019006,South Lane SD 45J,10688,Dorena School,58.95%,,40.16%,Y,95,56
+or,2019006,South Lane SD 45J,10689,Harrison Elementary School,40.96%,,40.16%,Y,498,204
+or,2019006,South Lane SD 45J,10685,Lincoln Middle School,41.20%,,40.16%,Y,466,192
+or,2019006,South Lane SD 45J,10691,London School,46.91%,,40.16%,Y,81,38
+or,1019001,South Umpqua SD 19,10445,Canyonville School,55.90%,,45.27%,Y,195,109
+or,1019001,South Umpqua SD 19,10442,Coffenberry Middle School,46.28%,,45.27%,Y,309,143
+or,1019001,South Umpqua SD 19,10443,Myrtle Creek Elementary School,50.99%,,45.27%,Y,302,154
+or,1019001,South Umpqua SD 19,10441,South Umpqua High School,29.69%,,45.27%,Y,384,114
+or,1019001,South Umpqua SD 19,10444,Tri City Elementary School,51.51%,,45.27%,Y,299,154
+or,3319001,South Wasco County SD 1,11184,Maupin Elementary School,45.38%,,46.67%,Y,119,54
+or,3319001,South Wasco County SD 1,11183,South Wasco County High School,47.93%,,46.67%,Y,121,58
+or,2019007,Springfield SD 19,14376,Academy of Arts and Academics,39.89%,,40.34%,Y,183,73
+or,2019007,Springfield SD 19,10694,Agnes Stewart Middle School,41.46%,,40.34%,Y,521,216
+or,2019007,Springfield SD 19,10695,Briggs Middle School,42.07%,,40.34%,Y,416,175
+or,2019007,Springfield SD 19,14375,Community Transitions Program (CTP),35.71%,,40.34%,Y,28,10
+or,2019007,Springfield SD 19,10702,Douglas Gardens Elementary School,47.08%,,40.34%,Y,308,145
+or,2019007,Springfield SD 19,14377,Gateways High School,60.87%,,40.34%,Y,46,28
+or,2019007,Springfield SD 19,10705,Guy Lee Elementary School,56.75%,,40.34%,Y,326,185
+or,2019007,Springfield SD 19,10696,Hamlin Middle School,53.86%,,40.34%,Y,583,314
+or,2019007,Springfield SD 19,10706,Maple Elementary School,68.73%,,40.34%,Y,291,200
+or,2019007,Springfield SD 19,10709,Mt Vernon Elementary School,45.66%,,40.34%,Y,403,184
+or,2019007,Springfield SD 19,10710,Ridgeview Elementary School,40.56%,,40.34%,Y,355,144
+or,2019007,Springfield SD 19,10711,Riverbend Elementary School,53.25%,,40.34%,Y,400,213
+or,2019007,Springfield SD 19,10692,Springfield High School,40.29%,,40.34%,Y,1231,496
+or,2019007,Springfield SD 19,10712,Thurston Elementary School,28.64%,,40.34%,Y,426,122
+or,2019007,Springfield SD 19,10693,Thurston High School,26.64%,,40.34%,Y,1186,316
+or,2019007,Springfield SD 19,10698,Thurston Middle School,24.62%,,40.34%,Y,520,128
+or,2019007,Springfield SD 19,10713,Walterville Elementary School,27.21%,,40.34%,Y,147,40
+or,2019007,Springfield SD 19,15162,Willamette Leadership Academy,46.08%,,40.34%,Y,204,94
+or,2019007,Springfield SD 19,10714,Yolanda Elementary School,32.16%,,40.34%,Y,342,110
+or,2019007,Springfield SD 19,10701,Centennial Elementary School,57.52%,,57.52%,Y,339,195
+or,2019007,Springfield SD 19,10703,Elizabeth Page Elementary School,58.20%,,58.20%,Y,323,188
+or,2019007,Springfield SD 19,15105,Two Rivers Dos Rios Elementary ,62.04%,,62.04%,Y,382,237
+or,2619013,St. Andrew Nativity School,12796,St Andrew Nativity School,51.22%,,51.22%,Y,82,42
+or,3019001,Stanfield SD 61,11144,Stanfield Elementary School,40.16%,,40.16%,Y,254,102
+or,1719002,Sunny Wolf Charter,14843,Sunny Wolf Charter School,63.64%,,63.64%,Y,99,63
+or,1019003,Sutherlin SD 130,10448,East Sutherlin Primary School,48.39%,,40.08%,Y,310,150
+or,1019003,Sutherlin SD 130,10446,Sutherlin High School,31.50%,,40.08%,Y,327,103
+or,1019003,Sutherlin SD 130,10447,Sutherlin Middle School,36.09%,,40.08%,Y,266,96
+or,1019003,Sutherlin SD 130,10449,West Sutherlin Intermediate,44.44%,,40.08%,Y,297,132
+or,2219004,Sweet Home SD 55,10785,Foster Elementary School,56.18%,,42.37%,Y,340,191
+or,2219004,Sweet Home SD 55,10786,Hawthorne Elementary School,40.17%,,42.37%,Y,361,145
+or,2219004,Sweet Home SD 55,10787,Holley Elementary School,38.00%,,42.37%,Y,150,57
+or,2219004,Sweet Home SD 55,10788,Oak Heights Elementary School,48.87%,,42.37%,Y,266,130
+or,2219004,Sweet Home SD 55,10782,Sweet Home High School,35.95%,,42.37%,Y,662,238
+or,2219004,Sweet Home SD 55,10783,Sweet Home Junior High School,40.29%,,42.37%,Y,350,141
+or,1720001,Three Rivers/Josephine County SD,10537,Applegate Elementary School,65.12%,,47.79%,Y,101,66
+or,1720001,Three Rivers/Josephine County SD,10538,Evergreen Elementary School,42.01%,,47.79%,Y,324,136
+or,1720001,Three Rivers/Josephine County SD,10534,Fleming Middle School,54.57%,,47.79%,Y,369,201
+or,1720001,Three Rivers/Josephine County SD,10539,Fruitdale Elementary School,48.81%,,47.79%,Y,328,160
+or,1720001,Three Rivers/Josephine County SD,10540,Ft Vannoy Elementary School,33.73%,,47.79%,Y,252,85
+or,1720001,Three Rivers/Josephine County SD,10532,Hidden Valley High School,59.55%,,47.79%,Y,581,346
+or,1720001,Three Rivers/Josephine County SD,10533,Illinois Valley High School,44.04%,,47.79%,Y,267,118
+or,1720001,Three Rivers/Josephine County SD,10535,Lincoln Savage Middle School,61.29%,,47.79%,Y,361,221
+or,1720001,Three Rivers/Josephine County SD,10536,Lorna Byrne Middle School,51.02%,,47.79%,Y,341,174
+or,1720001,Three Rivers/Josephine County SD,10542,Madrona Elementary School,45.10%,,47.79%,Y,294,133
+or,1720001,Three Rivers/Josephine County SD,13727,Manzanita Elementary School,35.54%,,47.79%,Y,357,127
+or,1720001,Three Rivers/Josephine County SD,10148,North Valley High School,62.65%,,47.79%,Y,439,275
+or,1720001,Three Rivers/Josephine County SD,16706,Southern Oregon Success Academy,50.00%,,47.79%,Y,166,83
+or,1720001,Three Rivers/Josephine County SD,10546,Williams Elementary School,38.56%,,47.79%,Y,72,28
+or,1720001,Three Rivers/Josephine County SD,16705,Woodland Charter School,38.19%,,47.79%,Y,153,58
+or,2920002,Tillamook SD 9,11111,East Elementary School,38.19%,,40.58%,Y,529,202
+or,2920002,Tillamook SD 9,14088,Wilson River School,63.64%,,40.58%,Y,55,35
+or,2920002,Tillamook SD 9,11112,Liberty Elementary School,42.34%,,42.34%,Y,333,141
+or,2920002,Tillamook SD 9,11113,South Prairie Elementary School,42.19%,,42.19%,Y,320,135
+or,3021002,Umatilla SD 6,11148,Clara Brownell Middle School,46.76%,,48.87%,Y,355,166
+or,3021002,Umatilla SD 6,11149,McNary Heights Elementary School,53.87%,,48.87%,Y,646,348
+or,3021002,Umatilla SD 6,11147,Umatilla High School,42.96%,,48.87%,Y,419,180
+or,3121001,Union SD 5,14207,Union Elementary School,43.17%,,43.17%,Y,183,79
+or,2322001,Vale SD 84,14204,Vale Elementary School,48.80%,,41.09%,Y,416,203
+or,2322001,Vale SD 84,10808,Vale High School,33.46%,,41.09%,Y,254,85
+or,2322001,Vale SD 84,10811,Vale Middle School,41.82%,,41.09%,Y,110,46
+or,2322001,Vale SD 84,10810,Willowcreek Elementary School,24.05%,,41.09%,Y,79,19
+or,3623002,Willamina SD 30J,11326,Willamina Elementary School,50.39%,,48.21%,Y,387,195
+or,3623002,Willamina SD 30J,11323,Willamina Middle/High School,38.08%,,48.21%,Y,239,91
+or,1023001,Winston-Dillard SD 116,13049,Brockway Elementary School,48.95%,,41.46%,Y,382,187
+or,1023001,Winston-Dillard SD 116,15345,Dillard Alternative High School,54.05%,,41.46%,Y,37,20
+or,1023001,Winston-Dillard SD 116,10450,Douglas High School,30.11%,,41.46%,Y,362,109
+or,1023001,Winston-Dillard SD 116,10452,Lookingglass Elementary School,33.68%,,41.46%,Y,190,64
+or,1023001,Winston-Dillard SD 116,10453,McGovern Elementary School,50.63%,,41.46%,Y,237,120
+or,1023001,Winston-Dillard SD 116,10451,Winston Middle School,41.81%,,41.46%,Y,232,97
+or,2423006,Woodburn SD 103,14262,Bridges,33.33%,,45.29%,Y,15,5
+or,2423006,Woodburn SD 103,14006,Chemekata High School,70.00%,,45.29%,Y,10,7
+or,2423006,Woodburn SD 103,10908,French Prairie Middle School,44.46%,,45.29%,Y,641,285
+or,2423006,Woodburn SD 103,10910,Heritage Elementary,45.14%,,45.29%,Y,638,288
+or,2423006,Woodburn SD 103,10911,Lincoln Elementary School,47.66%,,45.29%,Y,619,295
+or,2423006,Woodburn SD 103,10912,Nellie Muir Elementary School,54.32%,,45.29%,Y,440,239
+or,2423006,Woodburn SD 103,10909,Valor Middle School,45.98%,,45.29%,Y,635,292
+or,2423006,Woodburn SD 103,10913,Washington Elementary School,59.40%,,45.29%,Y,463,275
+or,2423006,Woodburn SD 103,13844,Woodburn Arthur Academy,34.46%,,45.29%,Y,148,51
+or,2423006,Woodburn SD 103,10907,Woodburn High,38.52%,,45.29%,Y,1607,619
+or,2423006,Woodburn SD 103,13840,Woodburn Success,62.16%,,45.29%,Y,37,23
+or,1025001,Yoncalla SD 32,10456,Yoncalla Elementary School,49.66%,,42.63%,Y,145,72
+or,1025001,Yoncalla SD 32,10455,Yoncalla High School,33.02%,,42.63%,Y,106,35
+or,3001001,Athena-Weston SD 29J,14206,Athena Elementary,45.33%,,,N,,
+or,2006003,Fern Ridge SD 28J,10656,Veneta Elem,42.63%,,,N,,
+or,2006003,Fern Ridge SD 28J,16192,West Lane Charter School,44.44%,,,N,,
+or,1308001,Harney Co SD 3,10098,Henry L Slater Elementary,50.43%,,,N,,
+or,3210001,Joseph SD 6,11172,Imnaha Elem,50.00%,,,N,,
+or,1912001,Lakeview SD,10573,Fremont/Hay Elem,41.59%,,,N,,
+or,3513001,Mitchell SD 55,11292,Mitchell School,41.46%,,,N,,
+or,0313001,Molalla River SD 35,10239,Molalla Elem,45.66%,,,N,,
+or,2613008,Multnomah ESD,12284,Arata Creek,60.43%,,,N,,
+or,2613008,Multnomah ESD,11915,Helensview,56.78%,,,N,,
+or,0315003,Oregon Trail SD 46,10299,Sandy Grade,40.11%,,,N,,
+or,0419001,Seaside SD 10,10322,Pacific Ridge Elementary,41.61%,,,N,,
+or,0519003,St. Helens SD 502,10344,Lewis & Clark Elem,43.40%,,,N,,
+or,0519003,St. Helens SD 502,10348,Plymouth High School,50.00%,,,N,,
+or,3223001,Wallowa SD 12,14190,Wallowa Elementary,45.83%,,,N,,

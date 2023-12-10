@@ -1,282 +1,248 @@
-state,District Code,District Name,School Code,School Name,individual_isp,proxy_isp,participating_in_cep,claiming_isp,total_enrolled,total_eligible
-sd,0330100,American Horse School,0001,American Horse Elem,70.37%,,75.09%,Y,289,203
-sd,1100100,Andes Central School District 11-1,0001-0,Andes Central Hi Sch,48.21%,,57.49%,Y,59,28
-sd,1100100,Andes Central School District 11-1,0002,Andes Central Elem (Pk05),65.24%,,57.49%,Y,186,121
-sd,1100100,Andes Central School District 11-1,0003,Andes Central Middle Sch (0608),52.31%,,57.49%,Y,42,22
-sd,0900100,Belle Fourche School District 09-1,0001-1,Belle Fourche Hi Sch,16.20%,,,N,,
-sd,0900100,Belle Fourche School District 09-1,0003-0,South Park Elem,22.22%,,,N,,
-sd,0900100,Belle Fourche School District 09-1,0004,N Park Elem,34.19%,,,N,117,40
-sd,0900100,Belle Fourche School District 09-1,0007,Belle Fourche Middle Sch,18.78%,,,N,,
-sd,0900100,Belle Fourche School District 09-1,0009,Alternative School,34.29%,,,N,35,12
-sd,0300100,Bennett County School District 03-1,0001-2,Bennett County High Schoo,85.90%,,56.93%,Y,129,111
-sd,0300100,Bennett County School District 03-1,0006,Bennett County Middle Sch (0608),50.52%,,56.93%,Y,72,36
-sd,0300100,Bennett County School District 03-1,0008,Martin Elementary (Pk05),22.14%,,56.93%,Y,268,59
-sd,4930300,Bishop O'Gorman Catholic Schools (Formerly Sf Catholic School),0001-3,O'Gorman High School,4.39%,,,N,,
-sd,4930300,Bishop O'Gorman Catholic Schools (Formerly Sf Catholic School),0003-1,Christ The King Elem,16.42%,,,N,,
-sd,4930300,Bishop O'Gorman Catholic Schools (Formerly Sf Catholic School),0004-0,St Lambert Elem,39.04%,,,N,187,73
-sd,4930300,Bishop O'Gorman Catholic Schools (Formerly Sf Catholic School),0005,St Mary Elem,1.65%,,,N,,
-sd,4930300,Bishop O'Gorman Catholic Schools (Formerly Sf Catholic School),0006-0,Holy Spirit School,2.15%,,,N,,
-sd,4930300,Bishop O'Gorman Catholic Schools (Formerly Sf Catholic School),0007-0,St. Michael Elem,5.28%,,,N,,
-sd,4930300,Bishop O'Gorman Catholic Schools (Formerly Sf Catholic School),0009-0,St Katherine Drexel,3.63%,,,N,,
-sd,4930300,Bishop O'Gorman Catholic Schools (Formerly Sf Catholic School),0015,O'Gorman Junior High,7.31%,,,N,,
-sd,2200100,Bowdle School District 22-1,0001-4,Bowdle Hi Sch,22.22%,,,N,,
-sd,2200100,Bowdle School District 22-1,0002-0,Bowdle Elem,42.86%,,,N,63,27
-sd,2200100,Bowdle School District 22-1,0003-2,Bowdle Jr Hi,19.05%,,,N,,
-sd,0700100,Chamberlain School District 07-1,0001-5,Chamberlain High School,13.27%,,,N,,
-sd,0700100,Chamberlain School District 07-1,0002-1,Chamberlain Jr Hi (0608),18.72%,,,N,,
-sd,0700100,Chamberlain School District 07-1,0003-3,Chamberlain Elem (Kg05),36.54%,,,N,405,148
-sd,3900100,Chester Area School District 39-1,0001-6,Chester Hi Sch,3.70%,,,N,,
-sd,3900100,Chester Area School District 39-1,0002-2,Chester Elem,6.98%,,,N,,
-sd,3900100,Chester Area School District 39-1,0003-4,Chester Middle Sch,4.71%,,,N,,
-sd,3900100,Chester Area School District 39-1,0006-1,High Plains Alternative Sch,73.33%,,,N,15,11
-sd,2030200,Cheyenne River Bie Schools,0001-7,Cheyenne River Bie High School,53.96%,,56.68%,Y,240,130
-sd,2030200,Cheyenne River Bie Schools,0002-3,Cheyenne River Bie Primary,80.49%,,56.68%,Y,290,233
-sd,2030200,Cheyenne River Bie Schools,0003-5,Eagle Butte Upper Ele,69.14%,,56.68%,Y,357,247
-sd,2030200,Cheyenne River Bie Schools,0006-2,Cheyenne River Bie Jr Hi,65.22%,,56.68%,Y,178,116
-sd,2030200,Cheyenne River Bie Schools,0007-1,E.A.G.L.E Center Hs,68.52%,,56.68%,Y,55,38
-sd,2030200,Cheyenne River Bie Schools,0009-1,E.A.G.L.E Center Ms,55.56%,,56.68%,Y,11,6
-sd,5900300,Colome Consolidated 59-3,0001-8,Colome High School,17.33%,,,N,,
-sd,5900300,Colome Consolidated 59-3,0002-4,Colome Elementary Sch (Pk05),39.18%,,,N,97,38
-sd,5900300,Colome Consolidated 59-3,0003-6,Colome Middle School (0608),22.64%,,,N,,
-sd,5900300,Colome Consolidated 59-3,0005-0,Wood Elementary Sch,80.00%,,,N,10,8
-sd,3530100,Crazy Horse Day School,0001-9,Crazy Horse Hi Sch (0912),61.73%,,68.44%,Y,85,52
-sd,3530100,Crazy Horse Day School,0002-5,Crazy Horse Elem (Kg06),69.18%,,68.44%,Y,157,109
-sd,3530100,Crazy Horse Day School,0004-1,Crazy Horse Ms (0708),59.62%,,68.44%,Y,40,24
-sd,0870200,Crow Creek Sioux Tribe,0009-2,Ccst High School,53.79%,,61.98%,Y,122,66
-sd,0870200,Crow Creek Sioux Tribe,0010,Ccst Jr High School,59.65%,,61.98%,Y,100,60
-sd,0870200,Crow Creek Sioux Tribe,0011,Ccst Elementary School,67.40%,,61.98%,Y,179,121
-sd,0870200,Crow Creek Sioux Tribe,0015-0,Crow Creek Alternative Sc,66.67%,,61.98%,Y,4,3
-sd,5100100,Douglas School District 51-1,0001-10,Douglas Middle Sch,33.13%,,,N,652,216
-sd,5100100,Douglas School District 51-1,0002-6,Vandenberg Elem,33.83%,,,N,473,160
-sd,5100100,Douglas School District 51-1,0003-7,Douglas Hi Sch,27.85%,,,N,,
-sd,5100100,Douglas School District 51-1,0006-3,Patriot Elementary,36.75%,,,N,917,337
-sd,6400200,Dupree School District 64-2,0001-11,Dupree Hi Sch,38.00%,,42.40%,Y,80,30
-sd,6400200,Dupree School District 64-2,0002-7,Dupree Elem,51.79%,,42.40%,Y,224,116
-sd,6400200,Dupree School District 64-2,0004-2,Dupree Jr Hi,36.99%,,42.40%,Y,71,26
-sd,1830100,Enemy Swim Day School,0001-12,Enemy Swim Day School,40.38%,,66.89%,Y,148,60
-sd,4400100,Eureka School District 44-1,0001-13,Eureka Hi Sch (0912),26.19%,,,N,,
-sd,4400100,Eureka School District 44-1,0002-8,Eureka Elem (Pk06),13.33%,,,N,,
-sd,4400100,Eureka School District 44-1,0003-8,Eureka Junior High (0708),31.25%,,,N,16,5
-sd,4600200,Faith School District 46-2,0001-14,Faith Hi Sch,32.35%,,,N,68,22
-sd,4600200,Faith School District 46-2,0002-9,Faith Elem,53.13%,,,N,64,34
-sd,4600200,Faith School District 46-2,0006-4,Faith Jr Hi,46.43%,,,N,28,13
-sd,2600400,Gregory School District 26-4,0001-15,Gregory High School (0912),24.21%,,,N,,
-sd,2600400,Gregory School District 26-4,0002-10,Gregory Elementary (Pk05),32.24%,,,N,183,59
-sd,2600400,Gregory School District 26-4,0004-3,Gregory Jr High (0608),22.83%,,,N,,
-sd,1400200,Henry School District 14-2,0001-16,Henry Hi Sch (0912),8.57%,,,N,,
-sd,1400200,Henry School District 14-2,0002-11,Henry Elem (Pk05),43.66%,,,N,71,31
-sd,1400200,Henry School District 14-2,0003-9,Henry Middle Sch (0608),33.33%,,,N,36,12
-sd,2300200,Hot Springs School District 23-2,0001-17,Hot Springs Hi Sch,29.92%,,,N,,
-sd,2300200,Hot Springs School District 23-2,0002-12,Hot Springs Elem,48.46%,,,N,357,173
-sd,2300200,Hot Springs School District 23-2,0006-5,Hot Springs Middle Sch,34.95%,,,N,186,65
-sd,0200200,Huron School District 02-2,0001-18,Huron High School,28.67%,,,N,,
-sd,0200200,Huron School District 02-2,0002-13,Huron Middle Sch,30.86%,,,N,619,191
-sd,0200200,Huron School District 02-2,0003-10,Buchanan K-1 Center,47.37%,,,N,456,216
-sd,0200200,Huron School District 02-2,0006-6,Madison 2-3 Center,42.19%,,,N,474,200
-sd,0200200,Huron School District 02-2,0008-0,Washington 4-5 Center,45.50%,,,N,444,202
-sd,0200200,Huron School District 02-2,0021,Holy Trinity School (Kg05),16.67%,,,N,,
-sd,0200300,Iroquois School District 02-3,0001-19,Iroquois High School,14.29%,,,N,,
-sd,0200300,Iroquois School District 02-3,0002-14,Iroquois Middle Sch,32.61%,,,N,46,15
-sd,0200300,Iroquois School District 02-3,0004-4,Iroquois Elem,27.72%,,,N,,
-sd,6530700,Isna Wica Owayawa,0001-20,Isna Wica Owayawa,69.26%,,66.89%,Y,210,145
-sd,1530300,Little Eagle School District,0001-21,Little Eagle Grant School,29.59%,,66.89%,Y,76,22
-sd,6530600,Little Wound School System,0001-22,Little Wound Hi Sch (0912),50.63%,,66.89%,Y,305,154
-sd,6530600,Little Wound School System,0002-15,Little Wound Elem (Kg05),65.17%,,66.89%,Y,287,187
-sd,6530600,Little Wound School System,0003-11,Little Wound Middle Sch (0608),68.94%,,66.89%,Y,135,93
-sd,6530600,Little Wound School System,0004-5,Little Wound Alternative Hs (0912),59.68%,,66.89%,Y,47,28
-sd,6530600,Little Wound School System,0005-1,Little Wound Alt Middle School (0608),46.15%,,66.89%,Y,10,5
-sd,4270200,Lower Brule Sioux Tribe,0001-23,Lower Brule Elementary (Kg05),67.30%,,75.56%,Y,156,105
-sd,4270200,Lower Brule Sioux Tribe,0002-16,Lower Brule High School (0912),44.57%,,75.56%,Y,99,44
-sd,4270200,Lower Brule Sioux Tribe,0003-12,Lower Brule Junior High (0608),58.33%,,75.56%,Y,56,33
-sd,1130100,Marty Indian School,0001-24,Marty Elem,76.54%,,62.79%,Y,90,69
-sd,1130100,Marty Indian School,0002-17,Marty Hi Sch,56.44%,,62.79%,Y,102,58
-sd,1130100,Marty Indian School,0003-13,Marty Middle Sch,69.23%,,62.79%,Y,66,46
-sd,4300700,Mccook Central School District 43-7,0001-25,Mccook Central Hi Sch (0912),25.62%,,,N,,
-sd,4300700,Mccook Central School District 43-7,0002-18,Mccook Central Elementary (Pk04),38.31%,,,N,154,59
-sd,4300700,Mccook Central School District 43-7,0003-14,Mccook Central Middle Sch (0508),25.71%,,,N,,
-sd,4300700,Mccook Central School District 43-7,0206,St. Mary'S Elementary,24.32%,,,N,,
-sd,1500100,Mcintosh School District 15-1,0001-26,Mcintosh Hi Sch,24.53%,,,N,,
-sd,1500100,Mcintosh School District 15-1,0002-19,Mcintosh Elem,34.69%,,,N,98,34
-sd,1500100,Mcintosh School District 15-1,0003-15,Mcintosh Jr Hi,8.70%,,,N,,
-sd,1500200,Mclaughlin School District 15-2,0001-27,Mclaughlin Hi Sch,62.33%,,67.17%,Y,151,94
-sd,1500200,Mclaughlin School District 15-2,0002-20,Mclaughlin Elem,69.87%,,67.17%,Y,203,142
-sd,1500200,Mclaughlin School District 15-2,0003-16,Mclaughlin Jr Hi,70.53%,,67.17%,Y,106,75
-sd,4600100,Meade School District 46-1,0001-28,Sturgis Brown High School (0912),11.31%,,,N,,
-sd,4600100,Meade School District 46-1,0002-21,Sturgis Williams Middle School (0608),14.08%,,,N,,
-sd,4600100,Meade School District 46-1,0003-17,Sturgis Elementary (Kg04),23.03%,,,N,,
-sd,4600100,Meade School District 46-1,0004-6,Whitewood Elementary (Pk06),30.53%,,,N,95,29
-sd,4600100,Meade School District 46-1,0005-2,Piedmont Valley Elementary (Kg04),10.24%,,,N,,
-sd,4600100,Meade School District 46-1,0006-7,Sturgis Intermediate School (05),12.15%,,,N,,
-sd,4600100,Meade School District 46-1,0010-0,Stagebarn Middle School (0508),11.24%,,,N,,
-sd,2500400,Milbank School District 25-4,0001-29,Milbank High School (0912),27.62%,,,N,,
-sd,2500400,Milbank School District 25-4,0002-22,Milbank Middle School (0608),36.61%,,,N,254,93
-sd,2500400,Milbank School District 25-4,0003-18,Milbank Elementary (Pk05),37.44%,,,N,438,164
-sd,2500400,Milbank School District 25-4,0004-7,St Lawrence School (Pk06),13.25%,,,N,,
-sd,1700200,Mitchell School District 17-2,0001-30,Mitchell Hi Sch,12.17%,,,N,,
-sd,1700200,Mitchell School District 17-2,0002-23,Mitchell Middle Sch,14.61%,,,N,,
-sd,1700200,Mitchell School District 17-2,0003-19,L B Williams Elem,26.84%,,,N,,
-sd,1700200,Mitchell School District 17-2,0004-8,Gertie Belle Rogers,27.87%,,,N,,
-sd,1700200,Mitchell School District 17-2,0005-3,Longfellow Elem,40.48%,,,N,331,134
-sd,6200600,Mobridge-Pollock School District 62-6,0001-31,Mobridge Hi Sch,41.54%,,,N,195,81
-sd,6200600,Mobridge-Pollock School District 62-6,0002-24,Mobridge Middle Sch,38.19%,,,N,144,55
-sd,6200600,Mobridge-Pollock School District 62-6,0003-20,Freeman Davis Elem,50.89%,,,N,169,86
-sd,6200600,Mobridge-Pollock School District 62-6,0004-9,Upper Elementary,51.11%,,,N,135,69
-sd,0900200,Newell School District 09-2,0001-32,Newell Hi Sch,17.98%,,,N,,
-sd,0900200,Newell School District 09-2,0002-25,Newell Elem,31.30%,,,N,115,36
-sd,0900200,Newell School District 09-2,0004-10,Newell Middle Sch,21.82%,,,N,,
-sd,2300300,Oelrichs School District 23-3,0001-33,Oelrichs Hi Sch (0912),22.22%,,79.56%,Y,58,13
-sd,2300300,Oelrichs School District 23-3,0002-26,Oelrichs Elem,7.32%,,79.56%,Y,44,3
-sd,2300300,Oelrichs School District 23-3,0003-21,Oelrichs Jr High (0608),3.57%,,79.56%,Y,35,1
-sd,6500100,Oglala Lakota County School District 65-1,0001-34,Batesland School,64.33%,,64.00%,Y,199,128
-sd,6500100,Oglala Lakota County School District 65-1,0002-27,Wolf Creek School,68.26%,,64.00%,Y,823,562
-sd,6500100,Oglala Lakota County School District 65-1,0003-22,Rockyford School,68.69%,,64.00%,Y,485,333
-sd,6500100,Oglala Lakota County School District 65-1,0004-11,Red Shirt School,77.59%,,64.00%,Y,114,88
-sd,6500100,Oglala Lakota County School District 65-1,0008-1,Oglala Lakota County Virtual Hs,0.00%,,64.00%,Y,207,0
-sd,6531100,Pine Ridge School,0009-3,Pine Ridge Elementary (Kg05),51.91%,,71.18%,Y,273,142
-sd,6531100,Pine Ridge School,0010-1,Pine Ridge High School (0912),46.80%,,71.18%,Y,329,154
-sd,6530300,Porcupine Contract School,0001-35,Porcupine Elem,68.00%,,68.80%,Y,125,85
-sd,5100400,Rapid City Area School District 51-4,0001-36,General Beadle Elementary (Pk05),73.27%,,45.14%,Y,527,386
-sd,5100400,Rapid City Area School District 51-4,0003-23,Black Hawk Elementary (Kg05),24.29%,,,N,,
-sd,5100400,Rapid City Area School District 51-4,0004-12,Canyon Lake Elementary (Pk05),27.62%,,45.14%,Y,424,117
-sd,5100400,Rapid City Area School District 51-4,0006-8,Grandview Elementary (Kg05),21.11%,,,N,,
-sd,5100400,Rapid City Area School District 51-4,0007-2,Horace Mann Elementary (Kg05),54.61%,,42.71%,Y,317,173
-sd,5100400,Rapid City Area School District 51-4,0008-2,Knollwood Heights Elementary (Kg05),60.59%,,42.71%,Y,434,263
-sd,5100400,Rapid City Area School District 51-4,0010-2,Meadowbrook Elementary (Kg05),11.05%,,,N,,
-sd,5100400,Rapid City Area School District 51-4,0012,Rapid Valley Elementary (Pk05),23.31%,,,N,,
-sd,5100400,Rapid City Area School District 51-4,0013,Valley View Elementary (Kg05),24.96%,,,N,,
-sd,5100400,Rapid City Area School District 51-4,0014,Robbinsdale Elementary (Pk05),44.42%,,42.71%,Y,501,223
-sd,5100400,Rapid City Area School District 51-4,0015-1,South Canyon Elementary (Kg05),22.47%,,,N,,
-sd,5100400,Rapid City Area School District 51-4,0016,South Park Elementary (Kg05),41.18%,,42.71%,Y,313,129
-sd,5100400,Rapid City Area School District 51-4,0017,Woodrow Wilson Elementary (Kg05),29.08%,,,N,,
-sd,5100400,Rapid City Area School District 51-4,0019,Pinedale Elementary (Kg05),7.37%,,,N,,
-sd,5100400,Rapid City Area School District 51-4,0021-0,Corral Drive Elementary (Kg05),2.45%,,,N,,
-sd,5100400,Rapid City Area School District 51-4,0030,East Middle School (0608),17.52%,,,N,,
-sd,5100400,Rapid City Area School District 51-4,0035,North Middle School (0608),54.56%,,42.71%,Y,556,303
-sd,5100400,Rapid City Area School District 51-4,0036,South Middle School (0608),32.51%,,45.14%,Y,664,216
-sd,5100400,Rapid City Area School District 51-4,0037,West Middle School (0608),18.40%,,,N,,
-sd,5100400,Rapid City Area School District 51-4,0038,Southwest Middle School (0608),8.33%,,,N,,
-sd,5100400,Rapid City Area School District 51-4,0041,Central High School (0912),21.54%,,42.71%,Y,1808,389
-sd,5100400,Rapid City Area School District 51-4,0042,Stevens High School (0912),7.57%,,,N,,
-sd,5100400,Rapid City Area School District 51-4,0045,Rapid City High School (0912),32.24%,,,N,304,98
-sd,6530100,Red Cloud Indian School,0001-37,Red Cloud Elem,27.80%,,,N,,
-sd,6530100,Red Cloud Indian School,0002-28,Red Cloud Hi Sch,28.57%,,,N,,
-sd,6530100,Red Cloud Indian School,0003-24,Our Lady Of Lourdes Elem,32.58%,,,N,132,43
-sd,6200500,Selby Area Sch District 62-5,0001-38,Selby Hi Sch (0912),15.25%,,,N,,
-sd,6200500,Selby Area Sch District 62-5,0003-25,Selby Middle Sch (0608),2.78%,,,N,,
-sd,6200500,Selby Area Sch District 62-5,0004-13,Selby Elem (Pk05),33.75%,,,N,80,27
-sd,4900500,Sioux Falls School District 49-5,0001-39,Washington Hi Sch,21.29%,,,N,,
-sd,4900500,Sioux Falls School District 49-5,0002-29,Lincoln Hi Sch,15.96%,,,N,,
-sd,4900500,Sioux Falls School District 49-5,0003-26,Roosevelt Hi Sch,14.16%,,,N,,
-sd,4900500,Sioux Falls School District 49-5,0004-14,Memorial Middle School,10.97%,,,N,,
-sd,4900500,Sioux Falls School District 49-5,0006-9,Edison Middle Sch,18.67%,,,N,,
-sd,4900500,Sioux Falls School District 49-5,0007-3,Patrick Henry Middle Sch,13.15%,,,N,,
-sd,4900500,Sioux Falls School District 49-5,0008-3,Whittier Middle Sch,37.87%,,,N,993,376
-sd,4900500,Sioux Falls School District 49-5,0009-4,George Mcgovern Ms,46.44%,,,N,913,424
-sd,4900500,Sioux Falls School District 49-5,0010-3,Laura B Anderson Elem,47.74%,,,N,310,148
-sd,4900500,Sioux Falls School District 49-5,0011-0,Terry Redlin Elem,48.98%,,59.59%,Y,433,212
-sd,4900500,Sioux Falls School District 49-5,0012-0,Structured Teaching (@ Axtell),47.06%,,59.59%,Y,16,8
-sd,4900500,Sioux Falls School District 49-5,0014-0,Cleveland Elem,45.76%,,,N,483,221
-sd,4900500,Sioux Falls School District 49-5,0015-2,Rosa Parks Elementary,28.45%,,,N,,
-sd,4900500,Sioux Falls School District 49-5,0016-0,Eugene Field Elem,19.31%,,,N,,
-sd,4900500,Sioux Falls School District 49-5,0017-0,R F Pettigrew Elementary,5.34%,,,N,,
-sd,4900500,Sioux Falls School District 49-5,0018,Robert Frost Elem (Pk05),15.84%,,,N,,
-sd,4900500,Sioux Falls School District 49-5,0019-0,Garfield Elem,44.90%,,,N,490,220
-sd,4900500,Sioux Falls School District 49-5,0020,Anne Sullivan Elem,41.78%,,,N,517,216
-sd,4900500,Sioux Falls School District 49-5,0023,John Harris Elem,10.55%,,,N,,
-sd,4900500,Sioux Falls School District 49-5,0026,Discovery Elementary Sch (Pk05),12.26%,,,N,,
-sd,4900500,Sioux Falls School District 49-5,0028,Lowell Elem,56.74%,,59.59%,Y,429,243
-sd,4900500,Sioux Falls School District 49-5,0030-0,New Technology High,15.36%,,,N,,
-sd,4900500,Sioux Falls School District 49-5,0031,Laura Wilder Elem,36.38%,,,N,503,183
-sd,4900500,Sioux Falls School District 49-5,0038-0,Hayward Elem,50.08%,,,N,663,332
-sd,4900500,Sioux Falls School District 49-5,0039,Success Academy,44.44%,,59.59%,Y,13,6
-sd,4900500,Sioux Falls School District 49-5,0042-0,Renberg Elem,30.68%,,,N,176,54
-sd,4900500,Sioux Falls School District 49-5,0043,Elementary Immersion Cntr (Kg05),75.63%,,59.59%,Y,115,87
-sd,4900500,Sioux Falls School District 49-5,0045-0,Flex (@ Axtell Park) (0612),54.76%,,59.59%,Y,32,18
-sd,4900500,Sioux Falls School District 49-5,0047,Odyssey (0608),47.62%,,,N,21,10
-sd,4900500,Sioux Falls School District 49-5,0050,All City Elem,6.71%,,,N,,
-sd,4900500,Sioux Falls School District 49-5,0051,Challenge Center (@ Robert Frost) (0205),3.87%,,,N,,
-sd,4900500,Sioux Falls School District 49-5,0052,Bridges At Horace Mann,55.06%,,59.59%,Y,111,61
-sd,4900500,Sioux Falls School District 49-5,0054,Harvey Dunn Elem,14.85%,,,N,,
-sd,4900500,Sioux Falls School District 49-5,0056,Hawthorne Elem,63.40%,,59.59%,Y,358,227
-sd,4900500,Sioux Falls School District 49-5,0057,John F Kennedy Elem,13.70%,,,N,,
-sd,4900500,Sioux Falls School District 49-5,0058,Oscar Howe Elem,27.06%,,,N,,
-sd,4900500,Sioux Falls School District 49-5,0066,Susan B Anthony Elem,26.92%,,,N,,
-sd,4900500,Sioux Falls School District 49-5,0094,Sonia Sotomayor Elementary,2.85%,,,N,,
-sd,4900500,Sioux Falls School District 49-5,0097,Joe Foss Alt Program,37.10%,,,N,221,82
-sd,4900500,Sioux Falls School District 49-5,0099,Presidents Academy,41.82%,,,N,55,23
-sd,5400200,Sisseton School District 54-2,0001-40,Sisseton High School (0912),31.08%,,,N,251,78
-sd,5400200,Sisseton School District 54-2,0002-30,Sisseton Middle School (0508),39.64%,,,N,222,88
-sd,5400200,Sisseton School District 54-2,0003-27,Westside Elementary (Pk04),41.08%,,,N,482,198
-sd,1500300,Smee School District 15-3,0001-41,Wakpala Hi Sch,71.43%,,66.67%,Y,55,39
-sd,1500300,Smee School District 15-3,0002-31,Wakpala Elem,66.27%,,66.67%,Y,80,53
-sd,1500300,Smee School District 15-3,0003-28,Wakpala Jr Hi,64.15%,,66.67%,Y,51,33
-sd,6630100,St Francis Indian School,0001-42,St Francis Elementary (Kg06),76.02%,,70.12%,Y,246,187
-sd,6630100,St Francis Indian School,0002-32,St Francis High School (0912),65.54%,,70.12%,Y,194,127
-sd,6630100,St Francis Indian School,0003-29,St Francis Junior High (0708),75.81%,,70.12%,Y,129,98
-sd,6430200,Takini School,0001-43,Takini Elem,79.61%,,73.15%,Y,106,84
-sd,6430200,Takini School,0002-33,Takini Hi Sch,71.43%,,73.15%,Y,43,31
-sd,5430200,Tiospa Zina Tribal School,0001-44,Tiospa Zina Elem,52.36%,,43.73%,Y,254,133
-sd,5430200,Tiospa Zina Tribal School,0002-34,Tiospa Zina Hi Sch,34.72%,,43.73%,Y,141,49
-sd,5430200,Tiospa Zina Tribal School,0003-30,Tiospa Zina Mid Sch,46.09%,,43.73%,Y,115,53
-sd,2030300,Tiospaye Topa,0001-45,Tiospaye Topa High School,60.98%,,65.68%,Y,51,31
-sd,2030300,Tiospaye Topa,0002-35,Tiospaye Topa Elementary,68.63%,,65.68%,Y,118,81
-sd,6600100,Todd County School District 66-1,0001-46,Todd Co Hi Sch,60.08%,,67.98%,Y,423,254
-sd,6600100,Todd County School District 66-1,0004-15,Rosebud Elem,75.66%,,67.98%,Y,248,188
-sd,6600100,Todd County School District 66-1,0005-4,He Dog Elem (Kg08),79.53%,,67.98%,Y,158,126
-sd,6600100,Todd County School District 66-1,0007-4,Spring Creek Elem,82.46%,,67.98%,Y,73,60
-sd,6600100,Todd County School District 66-1,0008-4,Klein Elem,14.81%,,67.98%,Y,23,3
-sd,6600100,Todd County School District 66-1,0009-5,Lakeview Elem,41.67%,,67.98%,Y,45,19
-sd,6600100,Todd County School District 66-1,0010-4,Todd Co Middle Sch,69.25%,,67.98%,Y,374,259
-sd,6600100,Todd County School District 66-1,0012-1,Littleburg Elem,78.95%,,67.98%,Y,37,29
-sd,6600100,Todd County School District 66-1,0014-1,O'Kreek Elem,81.25%,,67.98%,Y,40,32
-sd,6600100,Todd County School District 66-1,0016-1,Todd County Elementary,72.90%,,67.98%,Y,557,406
-sd,6600100,Todd County School District 66-1,0017-1,Todd County Achievement High School (0912),72.73%,,67.98%,Y,16,12
-sd,6600100,Todd County School District 66-1,0018-0,Todd County Achievement Middle School (0608),75.00%,,67.98%,Y,24,18
-sd,3300500,Tripp-Delmont School District 33-5,0001-47,Tripp-Delmont Hi Sch,36.67%,,,N,30,11
-sd,3300500,Tripp-Delmont School District 33-5,0002-36,Tripp-Delmont Jh,42.86%,,,N,21,9
-sd,3300500,Tripp-Delmont School District 33-5,0003-31,Tripp Elem,43.30%,,,N,97,42
-sd,1300100,Vermillion School District 13-1,0001-48,Vermillion Hi Sch,22.16%,,,N,,
-sd,1300100,Vermillion School District 13-1,0002-37,Vermillion Middle Sch,23.82%,,,N,,
-sd,1300100,Vermillion School District 13-1,0003-32,Austin Elem,26.24%,,,N,,
-sd,1300100,Vermillion School District 13-1,0004-16,Jolley Elem,30.54%,,,N,370,113
-sd,6000600,Viborg - Hurley School District 60-6,0001-49,Viborg-Hurley Hs,29.47%,,,N,,
-sd,6000600,Viborg - Hurley School District 60-6,0002-38,Viborg-Hurley Elem,33.58%,,,N,134,45
-sd,6000600,Viborg - Hurley School District 60-6,0003-33,Viborg-Hurley Ms,27.93%,,,N,,
-sd,1100400,Wagner Community School District 11-4,0001-50,Wagner Hi Sch (0912),38.17%,,49.64%,Y,186,71
-sd,1100400,Wagner Community School District 11-4,0002-39,Wagner Elem (Kg04),53.16%,,49.64%,Y,380,202
-sd,1100400,Wagner Community School District 11-4,0003-34,Wagner Middle Sch (0508),47.76%,,49.64%,Y,268,128
-sd,1100400,Wagner Community School District 11-4,0004-17,Wagner Primary Sch,50.37%,,49.64%,Y,135,68
-sd,1400400,Watertown School District 14-4,0001-51,Watertown High School (0912),11.09%,,,N,,
-sd,1400400,Watertown School District 14-4,0002-40,Watertown Middle School (0708),15.68%,,,N,,
-sd,1400400,Watertown School District 14-4,0005-5,Lincoln Elementary (Kg04),5.64%,,,N,,
-sd,1400400,Watertown School District 14-4,0006-10,Mckinley Elementary (Pk04),44.21%,,,N,242,107
-sd,1400400,Watertown School District 14-4,0007-5,Mellette Elementary (Kg04),20.91%,,,N,,
-sd,1400400,Watertown School District 14-4,0008-5,Roosevelt Elementary (Pk04),27.91%,,,N,,
-sd,1400400,Watertown School District 14-4,0009-6,Jefferson Elementary (Kg04),11.73%,,,N,,
-sd,1400400,Watertown School District 14-4,0013-0,Watertown Intermediate School (0506),17.78%,,,N,,
-sd,1800300,Waubay School District 18-3,0001-52,Waubay Hi Sch,45.28%,,,N,53,24
-sd,1800300,Waubay School District 18-3,0002-41,Waubay Elem,28.26%,,,N,,
-sd,1800300,Waubay School District 18-3,0003-35,Waubay Ms,37.78%,,,N,45,17
-sd,0100300,White Lake School District 01-3,0001-53,White Lake High School (0912),55.56%,,,N,36,20
-sd,0100300,White Lake School District 01-3,0002-42,White Lake Elementary (Pk05),37.50%,,,N,80,30
-sd,0100300,White Lake School District 01-3,0003-36,White Lake Junior High (0708),47.37%,,,N,19,9
-sd,4700100,White River School District 47-1,0001-54,White River Hi Sch,42.86%,,63.19%,Y,71,30
-sd,4700100,White River School District 47-1,0002-43,White River Elem,52.53%,,63.19%,Y,150,79
-sd,4700100,White River School District 47-1,0004-18,White River Middle Sch,58.04%,,63.19%,Y,96,56
-sd,4700100,White River School District 47-1,0008-6,Norris Elem,86.49%,,63.19%,Y,47,41
-sd,5400700,Wilmot School District 54-7,0001-55,Wilmot High School (0912),19.05%,,,N,,
-sd,5400700,Wilmot School District 54-7,0002-44,Wilmot Elementary (Pk05),25.35%,,,N,,
-sd,5400700,Wilmot School District 54-7,0003-37,Wilmot Middle School (0608),30.30%,,,N,33,10
-sd,5900200,Winner School District 59-2,0001-56,Winner Hi Sch,26.40%,,,N,,
-sd,5900200,Winner School District 59-2,0002-45,Winner Middle Sch,36.05%,,,N,147,53
-sd,5900200,Winner School District 59-2,0004-19,Winner Elementary,44.93%,,,N,345,155
-sd,0200600,Wolsey-Wessington School District 2-6,0001-57,Wolsey Wessington High School (0912),17.82%,,,N,,
-sd,0200600,Wolsey-Wessington School District 2-6,0002-46,Wolsey Wessington Elementary (Pk05),34.81%,,,N,135,47
-sd,0200600,Wolsey-Wessington School District 2-6,0003-38,Wolsey Wessington Middle School (0608),45.05%,,,N,111,50
-sd,6530200,Wounded Knee School System,0001-58,Wounded Knee Elem,76.62%,,80.41%,Y,148,113
-sd,6300300,Yankton School District 63-3,0001-59,Yankton Hi Sch,14.35%,,,N,,
-sd,6300300,Yankton School District 63-3,0002-47,Yankton Jr Hi,21.45%,,,N,,
-sd,6300300,Yankton School District 63-3,0003-39,Beadle Elem,20.98%,,,N,,
-sd,6300300,Yankton School District 63-3,0004-20,Lincoln Elem,23.88%,,,N,,
-sd,6300300,Yankton School District 63-3,0005-6,Stewart Elem,17.36%,,,N,,
-sd,6300300,Yankton School District 63-3,0006-11,Webster Elem,41.30%,,,N,184,76
+state,District Code,District Name,School Code,School Name,individual_isp,proxy_isp,claiming_isp,participating_in_cep,total_enrolled,total_eligible
+sd,0600100,ABERDEEN SCHOOL DISTRICT 06-1,0001,CENTRAL HIGH SCHOOL,17.27%,,,N,,
+sd,0600100,ABERDEEN SCHOOL DISTRICT 06-1,0002,HOLGATE MIDDLE SCHOOL,20.24%,,,N,,
+sd,0600100,ABERDEEN SCHOOL DISTRICT 06-1,0003,SIMMONS MIDDLE SCHOOL,23.37%,,,N,,
+sd,0600100,ABERDEEN SCHOOL DISTRICT 06-1,0005,C C LEE ELEMENTARY,11.99%,,,N,,
+sd,0600100,ABERDEEN SCHOOL DISTRICT 06-1,0007,MIKE MILLER ELEMENTARY (KG),20.32%,,,N,,
+sd,0600100,ABERDEEN SCHOOL DISTRICT 06-1,0008,LINCOLN ELEMENTARY,26.10%,,,N,,
+sd,0600100,ABERDEEN SCHOOL DISTRICT 06-1,0009,MAY OVERBY ELEMENTARY,29.89%,,,N,,
+sd,0600100,ABERDEEN SCHOOL DISTRICT 06-1,0010,SIMMONS ELEMENTARY,25.77%,,,N,,
+sd,0600100,ABERDEEN SCHOOL DISTRICT 06-1,0011,O M TIFFANY ELEMENTARY,34.18%,,,N,316,108
+sd,5800300,AGAR-BLUNT-ONIDA SCHOOL DISTRICT 58-3,0002-0,SULLY BUTTES HIGH SCHOOL (0912),6.35%,,,N,,
+sd,5800300,AGAR-BLUNT-ONIDA SCHOOL DISTRICT 58-3,0003-0,SULLY BUTTES JUNIOR HIGH (0608),15.22%,,,N,,
+sd,5800300,AGAR-BLUNT-ONIDA SCHOOL DISTRICT 58-3,0005-0,BLUNT ELEMENTARY (PK04),42.31%,,,N,26,11
+sd,5800300,AGAR-BLUNT-ONIDA SCHOOL DISTRICT 58-3,0006,ONIDA ELEMENTARY (KG05),9.64%,,,N,,
+sd,0330100,AMERICAN HORSE SCHOOL ,0001-0,AMERICAN HORSE ELEMENTARY,65.63%,,63.73%,Y,193,127
+sd,1100100,ANDES CENTRAL SCHOOL DISTRICT 11-1,0001-1,ANDES CENTRAL HIGH SCHOOL (0912),44.44%,,52.10%,Y,72,32
+sd,1100100,ANDES CENTRAL SCHOOL DISTRICT 11-1,0002-1,ANDES CENTRAL ELEMENTARY (PK05),55.37%,,52.10%,Y,177,98
+sd,1100100,ANDES CENTRAL SCHOOL DISTRICT 11-1,0003-1,ANDES CENTRAL MIDDLE SCHOOL (0608),51.67%,,52.10%,Y,60,31
+sd,0400100,AVON SCHOOL DISTRICT 04-1,0001-2,AVON HIGH SCHOOL (0912),16.87%,,,N,,
+sd,0400100,AVON SCHOOL DISTRICT 04-1,0002-2,AVON ELEMENTARY (KG04),9.32%,,,N,,
+sd,0400100,AVON SCHOOL DISTRICT 04-1,0005-1,AVON MIDDLE SCHOOL (0508),32.26%,,,N,31,10
+sd,0900100,BELLE FOURCHE SCHOOL DISTRICT 09-1,0001-3,BELLE FOURCHE HIGH SCHOOL,12.87%,,,N,,
+sd,0900100,BELLE FOURCHE SCHOOL DISTRICT 09-1,0003-2,SOUTH PARK ELEMENTARY,21.52%,,,N,,
+sd,0900100,BELLE FOURCHE SCHOOL DISTRICT 09-1,0004,NORTH PARK ELEMENTARY,27.91%,,,N,,
+sd,0900100,BELLE FOURCHE SCHOOL DISTRICT 09-1,0007-0,BELLE FOURCHE MIDDLE SCHOOL,17.09%,,,N,,
+sd,0900100,BELLE FOURCHE SCHOOL DISTRICT 09-1,0009-0,ALTERNATIVE SCHOOL,32.65%,,,N,49,16
+sd,0300100,BENNETT COUNTY SCHOOL DISTRICT 03-1,0001-4,BENNETT COUNTY HIGH SCHOOL (0912),36.03%,,51.59%,Y,133,48
+sd,0300100,BENNETT COUNTY SCHOOL DISTRICT 03-1,0003-3,MARTIN ELEMENTARY (PK05),47.35%,,51.59%,Y,109,52
+sd,0300100,BENNETT COUNTY SCHOOL DISTRICT 03-1,0006-0,BENNETT COUNTY MIDDLE SCHOOL (0608),44.95%,,51.59%,Y,260,117
+sd,0700100,CHAMBERLAIN SCHOOL DISTRICT 07-1,0001-5,CHAMBERLAIN HIGH SCHOOL (0912),18.75%,,,N,,
+sd,0700100,CHAMBERLAIN SCHOOL DISTRICT 07-1,0002-3,CHAMBERLAIN JUNIOR HIGH (0608),23.96%,,,N,,
+sd,0700100,CHAMBERLAIN SCHOOL DISTRICT 07-1,0003-4,CHAMBERLAIN ELEMENTARY (KG05),33.17%,,,N,407,135
+sd,2030200,CHEYENNE RIVER BIE SCHOOLS ,0001-6,CHEYENNE RIVER BIE HIGH SCHOOL,49.00%,,57.27%,Y,249,122
+sd,2030200,CHEYENNE RIVER BIE SCHOOLS ,0002-4,CHEYENNE RIVER BIE PRIMARY,75.10%,,57.27%,Y,256,192
+sd,2030200,CHEYENNE RIVER BIE SCHOOLS ,0003-5,EAGLE BUTTE UPPER ELEMENTARY,61.81%,,57.27%,Y,309,191
+sd,2030200,CHEYENNE RIVER BIE SCHOOLS ,0006-1,CHEYENNE RIVER BIE JUNIOR HIGH,56.21%,,57.27%,Y,153,86
+sd,2030200,CHEYENNE RIVER BIE SCHOOLS ,0007-1,E.A.G.L.E CENTER HIGH SCHOOL,42.86%,,57.27%,Y,47,20
+sd,2030200,CHEYENNE RIVER BIE SCHOOLS ,0009-1,E.A.G.L.E CENTER MIDDLE SCHOOL,100.00%,,57.27%,Y,4,4
+sd,5900300,COLOME CONSOLIDATED 59-3,0001-7,COLOME HIGH SCHOOL (0912),22.95%,,,N,,
+sd,5900300,COLOME CONSOLIDATED 59-3,0002-5,COLOME ELEMENTARY (PK05),51.95%,,,N,77,40
+sd,5900300,COLOME CONSOLIDATED 59-3,0003-6,COLOME MIDDLE SCHOOL (0608),36.84%,,,N,38,14
+sd,5900300,COLOME CONSOLIDATED 59-3,0005-2,WOOD ELEMENTARY,100.00%,,,N,5,5
+sd,3530100,CRAZY HORSE DAY SCHOOL,0001-8,CRAZY HORSE HIGH SCHOOL (0912),50.00%,,68.02%,Y,63,32
+sd,3530100,CRAZY HORSE DAY SCHOOL,0002-6,CRAZY HORSE ELEMENTARY (KG06),60.58%,,68.02%,Y,131,79
+sd,3530100,CRAZY HORSE DAY SCHOOL,0004-0,CRAZY HORSE MIDDLE SCHOOL (0708),51.72%,,68.02%,Y,28,14
+sd,0870200,CROW CREEK SIOUX TRIBE,0009-2,CCST HIGH SCHOOL,45.71%,,62.16%,Y,120,55
+sd,0870200,CROW CREEK SIOUX TRIBE,0010-0,CCST JUNIOR HIGH,52.00%,,62.16%,Y,98,51
+sd,0870200,CROW CREEK SIOUX TRIBE,0011-0,CCST ELEMENTARY,56.35%,,62.16%,Y,173,97
+sd,0870200,CROW CREEK SIOUX TRIBE,0015,CCST ALTERNATIVE SCHOOL,94.44%,,62.16%,Y,16,15
+sd,6400200,DUPREE SCHOOL DISTRICT 64-2,0001-9,DUPREE HIGH SCHOOL,28.00%,,42.40%,Y,80,22
+sd,6400200,DUPREE SCHOOL DISTRICT 64-2,0002-7,DUPREE ELEMENTARY,48.62%,,42.40%,Y,224,109
+sd,6400200,DUPREE SCHOOL DISTRICT 64-2,0004-1,DUPREE JUNIOR HIGH,34.48%,,42.40%,Y,71,24
+sd,4920300,EAST DAKOTA EDUCATIONAL COOPERATIVE,0001-10,TEACHWELL ACADEMY HIGH SCHOOL (0912),11.29%,,,N,,
+sd,4920300,EAST DAKOTA EDUCATIONAL COOPERATIVE,0003-7,TEACHWELL THRIVE,0.00%,,,N,,
+sd,4920300,EAST DAKOTA EDUCATIONAL COOPERATIVE,0004-2,TEACHWELL ACADEMY MIDDLE SCHOOL (0608),35.71%,,,N,28,10
+sd,4920300,EAST DAKOTA EDUCATIONAL COOPERATIVE,0009-3,TEACHWELL ELEMENTARY AND INTERMEDIATE (KG05),22.22%,,,N,,
+sd,1830100,ENEMY SWIM DAY SCHOOL,0001-11,ENEMY SWIM DAY SCHOOL,55.63%,,62.86%,Y,140,78
+sd,5030100,FLANDREAU INDIAN SCHOOL,0001-12,FLANDREAU INDIAN HIGH SCHOOL,26.92%,,62.75%,Y,102,27
+sd,2800300,HAMLIN SCHOOL DISTRICT 28-3,0001-13,HAMLIN HIGH SCHOOL,5.48%,,,N,,
+sd,2800300,HAMLIN SCHOOL DISTRICT 28-3,0002-8,HAMLIN MIDDLE SCHOOL,5.24%,,,N,,
+sd,2800300,HAMLIN SCHOOL DISTRICT 28-3,0004-3,HAMLIN ELEMENTARY,8.67%,,,N,,
+sd,2800300,HAMLIN SCHOOL DISTRICT 28-3,0005-3,CO-OP AT HAMLIN,30.00%,,,N,10,3
+sd,1400200,HENRY SCHOOL DISTRICT 14-2,0001-14,HENRY HIGH SCHOOL (0912),7.94%,,,N,,
+sd,1400200,HENRY SCHOOL DISTRICT 14-2,0002-9,HENRY ELEMENTARY (PK05),23.17%,,,N,,
+sd,1400200,HENRY SCHOOL DISTRICT 14-2,0003-8,HENRY MIDDLE SCHOOL (0608),31.71%,,,N,41,13
+sd,0200200,HURON SCHOOL DISTRICT 02-2,0001-15,HURON HIGH SCHOOL,32.49%,,,N,748,243
+sd,0200200,HURON SCHOOL DISTRICT 02-2,0002-10,HURON MIDDLE SCHOOL,37.16%,,,N,689,256
+sd,0200200,HURON SCHOOL DISTRICT 02-2,0003-9,BUCHANAN K-1 CENTER,43.47%,,,N,444,193
+sd,0200200,HURON SCHOOL DISTRICT 02-2,0006-2,MADISON 2-3 CENTER,43.14%,,,N,452,195
+sd,0200200,HURON SCHOOL DISTRICT 02-2,0008-0,WASHINGTON 4-5 CENTER,38.82%,,,N,456,177
+sd,0200200,HURON SCHOOL DISTRICT 02-2,0021,HOLY TRINITY SCHOOL (KG05),17.24%,,,N,,
+sd,6530700,ISNA WICA OWAYAWA,0001-16,ISNA WICA OWAYAWA,65.46%,,70.12%,Y,251,164
+sd,3500200,KADOKA AREA SCHOOL DISTRICT 35-2,0001-17,KADOKA AREA HIGH SCHOOL,8.33%,,,N,,
+sd,3500200,KADOKA AREA SCHOOL DISTRICT 35-2,0002-11,KADOKA ELEMENTARY,30.40%,,,N,125,38
+sd,3500200,KADOKA AREA SCHOOL DISTRICT 35-2,0003-10,KADOKA MIDDLE SCHOOL,15.09%,,,N,,
+sd,3500200,KADOKA AREA SCHOOL DISTRICT 35-2,0009-4,INTERIOR ELEMENTARY,33.33%,,,N,36,12
+sd,3500200,KADOKA AREA SCHOOL DISTRICT 35-2,0011-1,MIDLAND ELEMENTARY,20.00%,,,N,,
+sd,1530300,LITTLE EAGLE SCHOOL DISTRICT,0001-18,LITTLE EAGLE GRANT SCHOOL,90.77%,,89.23%,Y,65,59
+sd,6530600,LITTLE WOUND SCHOOL SYSTEM,0001-19,LITTLE WOUND HIGH SCHOOL (0912),44.68%,,64.12%,Y,188,84
+sd,6530600,LITTLE WOUND SCHOOL SYSTEM,0002-12,LITTLE WOUND ELEMENTARY (KG05),64.58%,,64.12%,Y,269,174
+sd,6530600,LITTLE WOUND SCHOOL SYSTEM,0003-11,LITTLE WOUND MIDDLE SCHOOL (0608),65.55%,,64.12%,Y,118,77
+sd,6530600,LITTLE WOUND SCHOOL SYSTEM,0004-4,LITTLE WOUND ALTERNATIVE HIGH SCHOOL (0912),56.52%,,64.12%,Y,112,63
+sd,6530600,LITTLE WOUND SCHOOL SYSTEM,0005-4,LITTLE WOUND ALTERNATIVE MIDDLE SCHOOL (0608),65.63%,,64.12%,Y,32,21
+sd,4270200,LOWER BRULE SIOUX TRIBE ,0001-20,LOWER BRULE ELEMENTARY,76.72%,,65.59%,Y,115,88
+sd,4270200,LOWER BRULE SIOUX TRIBE ,0002-13,LOWER BRULE HIGH SCHOOL (0912),60.00%,,65.59%,Y,94,56
+sd,4270200,LOWER BRULE SIOUX TRIBE ,0003-12,LOWER BRULE JUNIOR HIGH (0608),52.17%,,65.59%,Y,70,37
+sd,4200100,LYMAN SCHOOL DISTRICT 42-1,0001-21,LYMAN HIGH SCHOOL (0912),12.22%,,,N,,
+sd,4200100,LYMAN SCHOOL DISTRICT 42-1,0002-14,LYMAN MIDDLE SCHOOL (0608),17.39%,,,N,,
+sd,4200100,LYMAN SCHOOL DISTRICT 42-1,0004-5,KENNEBEC ELEMENTARY (PK05),30.26%,,,N,195,59
+sd,1130100,MARTY INDIAN SCHOOL,0001-22,MARTY ELEMENTARY,76.06%,,65.98%,Y,68,52
+sd,1130100,MARTY INDIAN SCHOOL,0002-15,MARTY HIGH SCHOOL,52.50%,,65.98%,Y,75,39
+sd,1130100,MARTY INDIAN SCHOOL,0003-13,MARTY MIDDLE SCHOOL,68.52%,,65.98%,Y,51,35
+sd,1500100,MCINTOSH SCHOOL DISTRICT 15-1,0001-23,MCINTOSH HIGH SCHOOL (0912),43.75%,,50.94%,Y,51,22
+sd,1500100,MCINTOSH SCHOOL DISTRICT 15-1,0002-16,MCINTOSH ELEMENTARY (PK04),76.39%,,50.94%,Y,65,50
+sd,1500100,MCINTOSH SCHOOL DISTRICT 15-1,0003-14,MCINTOSH MIDDLE SCHOOL (0508),40.91%,,50.94%,Y,43,18
+sd,1500200,MCLAUGHLIN SCHOOL DISTRICT 15-2,0001-24,MCLAUGHLIN HIGH SCHOOL,64.90%,,67.71%,Y,151,98
+sd,1500200,MCLAUGHLIN SCHOOL DISTRICT 15-2,0002-17,MCLAUGHLIN ELEMENTARY,66.18%,,67.71%,Y,203,134
+sd,1500200,MCLAUGHLIN SCHOOL DISTRICT 15-2,0003-15,MCLAUGHLIN JUNIOR HIGH,69.23%,,67.71%,Y,106,73
+sd,1700200,MITCHELL SCHOOL DISTRICT 17-2,0001-25,MITCHELL HIGH SCHOOL,11.51%,,,N,,
+sd,1700200,MITCHELL SCHOOL DISTRICT 17-2,0002-18,MITCHELL MIDDLE SCHOOL,18.46%,,,N,,
+sd,1700200,MITCHELL SCHOOL DISTRICT 17-2,0003-16,L B WILLIAMS ELEMENTARY,16.55%,,,N,,
+sd,1700200,MITCHELL SCHOOL DISTRICT 17-2,0004-6,GERTIE BELLE ROGERS ELEMENTARY,21.46%,,,N,,
+sd,1700200,MITCHELL SCHOOL DISTRICT 17-2,0005-5,LONGFELLOW ELEMENTARY,34.46%,,,N,325,112
+sd,6200600,MOBRIDGE-POLLOCK SCHOOL DISTRICT,0001-26,MOBRIDGE HIGH SCHOOL,18.05%,,,N,,
+sd,6200600,MOBRIDGE-POLLOCK SCHOOL DISTRICT,0002-19,MOBRIDGE MIDDLE SCHOOL,20.69%,,,N,,
+sd,6200600,MOBRIDGE-POLLOCK SCHOOL DISTRICT,0003-17,FREEMAN DAVIS ELEMENTARY,31.18%,,,N,186,58
+sd,6200600,MOBRIDGE-POLLOCK SCHOOL DISTRICT,0004-7,MOBRIDGE UPPER ELEMENTARY,25.95%,,,N,,
+sd,2300300,OELRICHS SCHOOL DISTRICT 23-3,0001-27,OELRICHS HIGH SCHOOL,59.65%,,60.17%,Y,52,31
+sd,2300300,OELRICHS SCHOOL DISTRICT 23-3,0002-20,OELRICHS ELEMENTARY,47.83%,,60.17%,Y,45,22
+sd,2300300,OELRICHS SCHOOL DISTRICT 23-3,0003-18,OELRICHS JUNIOR HIGH,85.71%,,60.17%,Y,21,18
+sd,6500100,OGLALA LAKOTA COUNTY SCHOOL DISTRICT ,0001-28,BATESLAND SCHOOL,63.40%,,63.87%,Y,161,102
+sd,6500100,OGLALA LAKOTA COUNTY SCHOOL DISTRICT ,0002-21,WOLF CREEK SCHOOL,64.62%,,63.87%,Y,706,456
+sd,6500100,OGLALA LAKOTA COUNTY SCHOOL DISTRICT ,0003-19,ROCKYFORD SCHOOL,64.18%,,63.87%,Y,450,289
+sd,6500100,OGLALA LAKOTA COUNTY SCHOOL DISTRICT ,0004-8,RED SHIRT SCHOOL,49.46%,,63.87%,Y,86,43
+sd,6500100,OGLALA LAKOTA COUNTY SCHOOL DISTRICT ,0010-1,LAKOTA TECH HIGH SCHOOL,50.14%,,63.87%,Y,331,166
+sd,6500100,OGLALA LAKOTA COUNTY SCHOOL DISTRICT ,0092,OGLALA LAKOTA COUNTY VIRTUAL HIGH SCHOOL,53.72%,,63.87%,Y,115,62
+sd,3230100,PIERRE INDIAN LEARNING CENTER,0001-29,PIERRE INDIAN ELEMENTARY (0105),37.50%,,63.04%,Y,49,18
+sd,3230100,PIERRE INDIAN LEARNING CENTER,0002-22,PIERRE INDIAN MIDDLE SCHOOL (0608),60.87%,,63.04%,Y,43,26
+sd,6531100,PINE RIDGE SCHOOL,0009-5,PINE RIDGE ELEMENTARY (KG05),59.89%,,59.28%,Y,181,108
+sd,6531100,PINE RIDGE SCHOOL,0010-2,PINE RIDGE HIGH SCHOOL (0912),59.63%,,59.28%,Y,104,62
+sd,6531100,PINE RIDGE SCHOOL,0011-2,PINE RIDGE MIDDLE SCHOOL (0608),53.64%,,59.28%,Y,243,130
+sd,6530300,PORCUPINE CONTRACT SCHOOL,0001-30,PORCUPINE ELEMENTARY,68.15%,,68.80%,Y,125,85
+sd,5100400,RAPID CITY AREA SCHOOL DISTRICT 51-4,0001-31,GENERAL BEADLE ELEMENTARY (PK05),0.70%,,56.52%,Y,479,3
+sd,5100400,RAPID CITY AREA SCHOOL DISTRICT 51-4,0003-20,BLACK HAWK ELEMENTARY (KG05),17.03%,,,N,,
+sd,5100400,RAPID CITY AREA SCHOOL DISTRICT 51-4,0004-9,CANYON LAKE ELEMENTARY (PK05),27.48%,,,N,393,108
+sd,5100400,RAPID CITY AREA SCHOOL DISTRICT 51-4,0006-3,GRANDVIEW ELEMENTARY (KG05),20.85%,,,N,,
+sd,5100400,RAPID CITY AREA SCHOOL DISTRICT 51-4,0007-2,HORACE MANN ELEMENTARY (KG05),63.87%,,56.52%,Y,269,172
+sd,5100400,RAPID CITY AREA SCHOOL DISTRICT 51-4,0008-1,KNOLLWOOD HEIGHTS ELEMENTARY (KG05),68.18%,,56.52%,Y,368,251
+sd,5100400,RAPID CITY AREA SCHOOL DISTRICT 51-4,0010-3,MEADOWBROOK ELEMENTARY (KG05),10.45%,,,N,,
+sd,5100400,RAPID CITY AREA SCHOOL DISTRICT 51-4,0012,RAPID VALLEY ELEMENTARY (PK05),23.94%,,,N,,
+sd,5100400,RAPID CITY AREA SCHOOL DISTRICT 51-4,0013,VALLEY VIEW ELEMENTARY (KG05),23.24%,,,N,,
+sd,5100400,RAPID CITY AREA SCHOOL DISTRICT 51-4,0014,ROBBINSDALE ELEMENTARY (PK05),46.78%,,56.52%,Y,391,183
+sd,5100400,RAPID CITY AREA SCHOOL DISTRICT 51-4,0015-0,SOUTH CANYON ELEMENTARY (KG05),16.96%,,,N,,
+sd,5100400,RAPID CITY AREA SCHOOL DISTRICT 51-4,0016,SOUTH PARK ELEMENTARY (KG05),46.18%,,56.52%,Y,288,133
+sd,5100400,RAPID CITY AREA SCHOOL DISTRICT 51-4,0017,WOODROW WILSON ELEMENTARY (KG05),27.03%,,,N,,
+sd,5100400,RAPID CITY AREA SCHOOL DISTRICT 51-4,0019,PINEDALE ELEMENTARY (KG05),5.38%,,,N,,
+sd,5100400,RAPID CITY AREA SCHOOL DISTRICT 51-4,0021-0,CORRAL DRIVE ELEMENTARY (KG05),2.83%,,,N,,
+sd,5100400,RAPID CITY AREA SCHOOL DISTRICT 51-4,0030,EAST MIDDLE SCHOOL (0608),21.48%,,,N,,
+sd,5100400,RAPID CITY AREA SCHOOL DISTRICT 51-4,0035,NORTH MIDDLE SCHOOL (0608),52.34%,,56.52%,Y,489,256
+sd,5100400,RAPID CITY AREA SCHOOL DISTRICT 51-4,0036,SOUTH MIDDLE SCHOOL (0608),28.64%,,,N,604,173
+sd,5100400,RAPID CITY AREA SCHOOL DISTRICT 51-4,0037,WEST MIDDLE SCHOOL (0608),15.28%,,,N,,
+sd,5100400,RAPID CITY AREA SCHOOL DISTRICT 51-4,0038,SOUTHWEST MIDDLE SCHOOL (0608),6.90%,,,N,,
+sd,5100400,RAPID CITY AREA SCHOOL DISTRICT 51-4,0041,CENTRAL HIGH SCHOOL (0912),22.73%,,,N,1764,401
+sd,5100400,RAPID CITY AREA SCHOOL DISTRICT 51-4,0042,STEVENS HIGH SCHOOL (0912),7.27%,,,N,,
+sd,5100400,RAPID CITY AREA SCHOOL DISTRICT 51-4,0045,RAPID CITY HIGH SCHOOL (0912),31.48%,,,N,305,96
+sd,6530100,RED CLOUD INDIAN SCHOOL,0001-32,RED CLOUD ELEMENTARY,24.72%,,,N,,
+sd,6530100,RED CLOUD INDIAN SCHOOL,0002-23,RED CLOUD HIGH SCHOOL,28.07%,,,N,,
+sd,6530100,RED CLOUD INDIAN SCHOOL,0003-21,OUR LADY OF LOURDES ELEMENTARY,32.98%,,,N,94,31
+sd,4900500,SIOUX FALLS SCHOOL DISTRICT 49-5,0001-33,WASHINGTON HIGH SCHOOL,19.46%,,,N,,
+sd,4900500,SIOUX FALLS SCHOOL DISTRICT 49-5,0002-24,LINCOLN HIGH SCHOOL,11.50%,,,N,,
+sd,4900500,SIOUX FALLS SCHOOL DISTRICT 49-5,0003-22,ROOSEVELT HIGH SCHOOL,15.53%,,,N,,
+sd,4900500,SIOUX FALLS SCHOOL DISTRICT 49-5,0004-10,MEMORIAL MIDDLE SCHOOL,11.11%,,,N,,
+sd,4900500,SIOUX FALLS SCHOOL DISTRICT 49-5,0006-4,EDISON MIDDLE SCHOOL,20.13%,,,N,,
+sd,4900500,SIOUX FALLS SCHOOL DISTRICT 49-5,0007-3,PATRICK HENRY MIDDLE SCHOOL,16.72%,,,N,,
+sd,4900500,SIOUX FALLS SCHOOL DISTRICT 49-5,0008-2,WHITTIER MIDDLE SCHOOL,40.36%,,,N,731,295
+sd,4900500,SIOUX FALLS SCHOOL DISTRICT 49-5,0009-6,GEORGE MCGOVERN MIDDLE SCHOOL,34.84%,,,N,729,254
+sd,4900500,SIOUX FALLS SCHOOL DISTRICT 49-5,0010-4,LAURA B ANDERSON ELEMENTARY,41.48%,,,N,364,151
+sd,4900500,SIOUX FALLS SCHOOL DISTRICT 49-5,0011-3,TERRY REDLIN ELEMENTARY,49.79%,,,N,472,235
+sd,4900500,SIOUX FALLS SCHOOL DISTRICT 49-5,0012-0,STRUCTURED TEACHING (@ AXTELL),53.85%,,,N,26,14
+sd,4900500,SIOUX FALLS SCHOOL DISTRICT 49-5,0014-0,CLEVELAND ELEMENTARY,44.97%,,,N,487,219
+sd,4900500,SIOUX FALLS SCHOOL DISTRICT 49-5,0015-1,ROSA PARKS ELEMENTARY,26.55%,,,N,,
+sd,4900500,SIOUX FALLS SCHOOL DISTRICT 49-5,0016-0,EUGENE FIELD ELEMENTARY,18.13%,,,N,,
+sd,4900500,SIOUX FALLS SCHOOL DISTRICT 49-5,0017-0,R F PETTIGREW ELEMENTARY,15.15%,,,N,,
+sd,4900500,SIOUX FALLS SCHOOL DISTRICT 49-5,0018,ROBERT FROST ELEMENTARY (PK05),19.49%,,,N,,
+sd,4900500,SIOUX FALLS SCHOOL DISTRICT 49-5,0019-0,GARFIELD ELEMENTARY,51.06%,,,N,611,312
+sd,4900500,SIOUX FALLS SCHOOL DISTRICT 49-5,0020,ANNE SULLIVAN ELEMENTARY,35.84%,,,N,639,229
+sd,4900500,SIOUX FALLS SCHOOL DISTRICT 49-5,0023,JOHN HARRIS ELEMENTARY,8.45%,,,N,,
+sd,4900500,SIOUX FALLS SCHOOL DISTRICT 49-5,0026,DISCOVERY ELEMENTARY (PK05),10.43%,,,N,,
+sd,4900500,SIOUX FALLS SCHOOL DISTRICT 49-5,0028,LOWELL ELEMENTARY,46.07%,,,N,382,176
+sd,4900500,SIOUX FALLS SCHOOL DISTRICT 49-5,0031,LAURA WILDER ELEMENTARY,35.39%,,,N,469,166
+sd,4900500,SIOUX FALLS SCHOOL DISTRICT 49-5,0038-0,HAYWARD ELEMENTARY,42.31%,,,N,702,297
+sd,4900500,SIOUX FALLS SCHOOL DISTRICT 49-5,0039,SUCCESS ACADEMY,28.57%,,,N,21,6
+sd,4900500,SIOUX FALLS SCHOOL DISTRICT 49-5,0042-0,RENBERG ELEMENTARY,28.57%,,,N,,
+sd,4900500,SIOUX FALLS SCHOOL DISTRICT 49-5,0043,ELEMENTARY IMMERSION CENTER (KG05),48.21%,,,N,56,27
+sd,4900500,SIOUX FALLS SCHOOL DISTRICT 49-5,0045-0,FLEX (@ AXTELL PARK) (0612),52.63%,,,N,38,20
+sd,4900500,SIOUX FALLS SCHOOL DISTRICT 49-5,0047,ODYSSEY (0608),57.14%,,,N,21,12
+sd,4900500,SIOUX FALLS SCHOOL DISTRICT 49-5,0050,ALL CITY ELEMENTARY,5.15%,,,N,,
+sd,4900500,SIOUX FALLS SCHOOL DISTRICT 49-5,0051,CHALLENGE CENTER (@ ROBERT FROST) (0205),3.80%,,,N,,
+sd,4900500,SIOUX FALLS SCHOOL DISTRICT 49-5,0052,BRIDGES AT HORACE MANN,53.45%,,,N,58,31
+sd,4900500,SIOUX FALLS SCHOOL DISTRICT 49-5,0054,HARVEY DUNN ELEMENTARY,23.91%,,,N,,
+sd,4900500,SIOUX FALLS SCHOOL DISTRICT 49-5,0056,HAWTHORNE ELEMENTARY,62.67%,,62.23%,Y,376,236
+sd,4900500,SIOUX FALLS SCHOOL DISTRICT 49-5,0057,JOHN F KENNEDY ELEMENTARY,12.76%,,,N,,
+sd,4900500,SIOUX FALLS SCHOOL DISTRICT 49-5,0058,OSCAR HOWE ELEMENTARY,27.70%,,,N,,
+sd,4900500,SIOUX FALLS SCHOOL DISTRICT 49-5,0066,SUSAN B ANTHONY ELEMENTARY,28.82%,,,N,,
+sd,4900500,SIOUX FALLS SCHOOL DISTRICT 49-5,0067,JEFFERSON HIGH SCHOOL,19.26%,,,N,,
+sd,4900500,SIOUX FALLS SCHOOL DISTRICT 49-5,0068,BEN REIFEL MIDDLE SCHOOL,19.44%,,,N,,
+sd,4900500,SIOUX FALLS SCHOOL DISTRICT 49-5,0094,SONIA SOTOMAYOR ELEMENTARY,5.12%,,,N,,
+sd,4900500,SIOUX FALLS SCHOOL DISTRICT 49-5,0097,Joe Foss Alt Program,41.87%,,,N,203,85
+sd,5400200,SISSETON SCHOOL DISTRICT 54-2,0001-34,SISSETON HIGH SCHOOL (0912),28.30%,,,N,,
+sd,5400200,SISSETON SCHOOL DISTRICT 54-2,0002-25,SISSETON MIDDLE SCHOOL (0508),28.36%,,,N,,
+sd,5400200,SISSETON SCHOOL DISTRICT 54-2,0003-23,WESTSIDE ELEMENTARY (PK04),41.04%,,,N,385,158
+sd,1500300,SMEE SCHOOL DISTRICT 15-3,0001-35,WAKPALA HIGH SCHOOL,66.13%,,66.67%,Y,55,36
+sd,1500300,SMEE SCHOOL DISTRICT 15-3,0002-26,WAKPALA ELEMENTARY,64.47%,,66.67%,Y,80,52
+sd,1500300,SMEE SCHOOL DISTRICT 15-3,0003-24,WAKPALA MIDDLE SCHOOL,65.71%,,66.67%,Y,51,34
+sd,6630100,ST FRANCIS INDIAN SCHOOL,0001-36,ST FRANCIS ELEMENTARY (KG05),74.77%,,70.12%,Y,246,184
+sd,6630100,ST FRANCIS INDIAN SCHOOL,0002-27,ST FRANCIS HIGH SCHOOL (0912),67.24%,,70.12%,Y,194,130
+sd,6630100,ST FRANCIS INDIAN SCHOOL,0003-25,ST FRANCIS JUNIOR HIGH (0608),70.34%,,70.12%,Y,129,91
+sd,6430200,TAKINI SCHOOL,0001-37,TAKINI ELEMENTARY,79.41%,,75.16%,Y,104,83
+sd,6430200,TAKINI SCHOOL,0002-28,TAKINI HIGH SCHOOL,76.47%,,75.16%,Y,53,41
+sd,5430200,TIOSPA ZINA TRIBAL SCHOOL,0001-38,TIOSPA ZINA ELEMENTARY,51.79%,,43.73%,Y,254,132
+sd,5430200,TIOSPA ZINA TRIBAL SCHOOL,0002-29,TIOSPA ZINA HIGH SCHOOL,33.99%,,43.73%,Y,141,48
+sd,5430200,TIOSPA ZINA TRIBAL SCHOOL,0003-26,TIOSPA ZINA MIDDLE SCHOOL,36.47%,,43.73%,Y,115,42
+sd,2030300,TIOSPAYE TOPA,0001-39,TIOSPAYE TOPA HIGH SCHOOL,63.16%,,65.68%,Y,51,32
+sd,2030300,TIOSPAYE TOPA,0002-30,TIOSPAYE TOPA ELEMENTARY,62.14%,,65.68%,Y,118,73
+sd,6600100,TODD COUNTY SCHOOL DISTRICT 66-1,0001-40,TODD COUNTY HIGH SCHOOL,61.83%,,72.07%,Y,392,242
+sd,6600100,TODD COUNTY SCHOOL DISTRICT 66-1,0004-11,ROSEBUD ELEMENTARY,79.18%,,72.07%,Y,291,230
+sd,6600100,TODD COUNTY SCHOOL DISTRICT 66-1,0005-6,HE DOG ELEMENTARY (KG08),87.43%,,72.07%,Y,173,151
+sd,6600100,TODD COUNTY SCHOOL DISTRICT 66-1,0007-4,SPRING CREEK ELEMENTARY,87.76%,,72.07%,Y,47,41
+sd,6600100,TODD COUNTY SCHOOL DISTRICT 66-1,0008-3,KLEIN ELEMENTARY,0.00%,,72.07%,Y,16,0
+sd,6600100,TODD COUNTY SCHOOL DISTRICT 66-1,0009-7,LAKEVIEW ELEMENTARY,30.30%,,72.07%,Y,33,10
+sd,6600100,TODD COUNTY SCHOOL DISTRICT 66-1,0010-5,TODD COUNTY MIDDLE SCHOOL,66.37%,,72.07%,Y,333,221
+sd,6600100,TODD COUNTY SCHOOL DISTRICT 66-1,0012-1,LITTLEBURG ELEMENTARY,81.48%,,72.07%,Y,27,22
+sd,6600100,TODD COUNTY SCHOOL DISTRICT 66-1,0014-1,O'KREEK ELEMENTARY,89.66%,,72.07%,Y,29,26
+sd,6600100,TODD COUNTY SCHOOL DISTRICT 66-1,0016-1,TODD COUNTY ELEMENTARY,76.06%,,72.07%,Y,444,338
+sd,6600100,TODD COUNTY SCHOOL DISTRICT 66-1,0017-1,TODD COUNTY ACHIEVEMENT HIGH SCHOOL (0912),86.67%,,72.07%,Y,15,13
+sd,6600100,TODD COUNTY SCHOOL DISTRICT 66-1,0018-0,TODD COUNTY ACHIEVEMENT MIDDLE SCHOOL (0608),87.50%,,72.07%,Y,8,7
+sd,1100400,WAGNER COMMUNITY SCHOOL DISTRICT 11-4,0001-41,WAGNER HIGH SCHOOL (0912),33.16%,,49.64%,Y,186,62
+sd,1100400,WAGNER COMMUNITY SCHOOL DISTRICT 11-4,0002-31,WAGNER ELEMENTARY (KG04),50.57%,,49.64%,Y,380,192
+sd,1100400,WAGNER COMMUNITY SCHOOL DISTRICT 11-4,0003-27,WAGNER MIDDLE SCHOOL (0508),40.83%,,49.64%,Y,268,109
+sd,1100400,WAGNER COMMUNITY SCHOOL DISTRICT 11-4,0004-12,EARLY LEARNING CENTER (PK),43.12%,,49.64%,Y,135,58
+sd,1400400,WATERTOWN SCHOOL DISTRICT 14-4,0001-42,WATERTOWN HIGH SCHOOL (0912),11.57%,,,N,,
+sd,1400400,WATERTOWN SCHOOL DISTRICT 14-4,0002-32,WATERTOWN MIDDLE SCHOOL (0708),14.99%,,,N,,
+sd,1400400,WATERTOWN SCHOOL DISTRICT 14-4,0005-7,LINCOLN ELEMENTARY (KG04),8.06%,,,N,,
+sd,1400400,WATERTOWN SCHOOL DISTRICT 14-4,0006-5,MCKINLEY ELEMENTARY (PK04),43.97%,,,N,232,102
+sd,1400400,WATERTOWN SCHOOL DISTRICT 14-4,0007-5,MELLETTE ELEMENTARY (KG04),23.47%,,,N,,
+sd,1400400,WATERTOWN SCHOOL DISTRICT 14-4,0008-4,ROOSEVELT ELEMENTARY (PK04),32.63%,,,N,236,77
+sd,1400400,WATERTOWN SCHOOL DISTRICT 14-4,0009-8,JEFFERSON ELEMENTARY (KG04),9.17%,,,N,,
+sd,1400400,WATERTOWN SCHOOL DISTRICT 14-4,0013-0,WATERTOWN INTERMEDIATE SCHOOL (0506),16.61%,,,N,,
+sd,1800300,WAUBAY SCHOOL DISTRICT ,0001-43,WAUBAY HIGH SCHOOL,40.00%,,,N,50,20
+sd,1800300,WAUBAY SCHOOL DISTRICT ,0002-33,WAUBAY ELEMENTARY,28.38%,,,N,,
+sd,1800300,WAUBAY SCHOOL DISTRICT ,0003-28,WAUBAY MIDDLE SCHOOL,33.93%,,,N,56,19
+sd,4700100,WHITE RIVER SCHOOL DISTRICT 47-1,0001-44,WHITE RIVER HIGH SCHOOL,49.07%,,56.25%,Y,108,53
+sd,4700100,WHITE RIVER SCHOOL DISTRICT 47-1,0002-34,WHITE RIVER ELEMENTARY,58.59%,,56.25%,Y,146,86
+sd,4700100,WHITE RIVER SCHOOL DISTRICT 47-1,0004-13,WHITE RIVER MIDDLE SCHOOL,56.32%,,56.25%,Y,86,48
+sd,4700100,WHITE RIVER SCHOOL DISTRICT 47-1,0008-5,NORRIS ELEMENTARY,77.08%,,56.25%,Y,44,34
+sd,5400700,WILMOT SCHOOL DISTRICT 54-7,0001-45,WILMOT HIGH SCHOOL (0912),21.21%,,,N,,
+sd,5400700,WILMOT SCHOOL DISTRICT 54-7,0002-35,WILMOT ELEMENTARY (PK05),28.57%,,,N,,
+sd,5400700,WILMOT SCHOOL DISTRICT 54-7,0003-29,WILMOT MIDDLE SCHOOL (0608),32.61%,,,N,46,15
+sd,5900200,WINNER SCHOOL DISTRICT 59-2,0001-46,WINNER HIGH SCHOOL,12.17%,,,N,,
+sd,5900200,WINNER SCHOOL DISTRICT 59-2,0002-36,WINNER MIDDLE SCHOOL,25.68%,,,N,,
+sd,5900200,WINNER SCHOOL DISTRICT 59-2,0004-14,WINNER ELEMENTARY,33.79%,,,N,364,123
+sd,6530200,WOUNDED KNEE SCHOOL SYSTEM,0001-47,WOUNDED KNEE ELEMENTARY,64.05%,,69.01%,Y,142,91
+sd,6300300,YANKTON SCHOOL DISTRICT 63-3,0001-48,YANKTON HIGH SCHOOL,10.47%,,,N,,
+sd,6300300,YANKTON SCHOOL DISTRICT 63-3,0002-37,YANKTON JUNIOR HIGH,17.70%,,,N,,
+sd,6300300,YANKTON SCHOOL DISTRICT 63-3,0003-30,BEADLE ELEMENTARY,19.08%,,,N,,
+sd,6300300,YANKTON SCHOOL DISTRICT 63-3,0004-15,LINCOLN ELEMENTARY,18.41%,,,N,,
+sd,6300300,YANKTON SCHOOL DISTRICT 63-3,0005-8,STEWART ELEMENTARY,13.97%,,,N,,
+sd,6300300,YANKTON SCHOOL DISTRICT 63-3,0006-6,WEBSTER ELEMENTARY,40.58%,,,N,207,84

@@ -1,16 +1,14 @@
-state,District Code,District Name,School Code,School Name,individual_isp,proxy_isp,participating_in_cep,claiming_isp,total_enrolled,total_eligible
-wy,0101000,Albany County School District #1,0101057,Whiting High School,31.00%,,45.00%,Y,60,19
-wy,0101000,Albany County School District #1,0101005,Centennial Elementary,23.00%,,50.00%,Y,12,3
-wy,0301000,Campbell County School District #1,0301057,Westwood High School,51.14%,,,N,142,73
-wy,0402000,Carbon County School District #2,0402005,Medicine Bow Elementary,23.53%,,44.44%,Y,9,2
-wy,0701000,Fremont County School District # 1,0701056,Pathfinder High School,29.80%,,46.67%,Y,45,13
-wy,0714000,Fremont County School District #14,0714001,Wyoming Indian Elementary,56.50%,,68.39%,Y,310,175
-wy,0714000,Fremont County School District #14,0714050,Wyoming Indian Middle School,54.71%,,62.16%,Y,148,81
-wy,0714000,Fremont County School District #14,0714055,Wyoming Indian High School,38.69%,,45.21%,Y,146,56
-wy,0721000,Fremont County School District #21,0721001,Fort Washakie Elementary ,58.75%,,66.19%,Y,352,207
-wy,0721000,Fremont County School District #21,0721050,Fort Washakie Middle School,57.50%,,57.94%,Y,107,62
-wy,0721000,Fremont County School District #21,0721056,Fort Washakie High School,54.30%,,73.47%,Y,49,27
-wy,1101000,Fremont County School District #25,0725057,Frontier Academy,38.10%,,43.75%,Y,32,12
-wy,0738000,Fremont County School District #38,0738001,Arapahoe School,93.00%,,70.22%,Y,460,428
-wy,0738000,Fremont County School District #38,0738055,Arapahoe Charter High School,48.00%,,41.67%,Y,12,6
-wy,0740001,St. Stephens Indian School,0740001,St. Stephens Indian School,66.42%,,62.79%,Y,301,200
+state,District Code,District Name,School Code,School Name,individual_isp,proxy_isp,claiming_isp,participating_in_cep,total_enrolled,total_eligible
+wy,0101000,Albany County School District #1,0101009,Harmony Elementary,53.85%,,53.85%,Y,26,14
+wy,0101000,Albany County School District #1,0101005,Centennial Elementary,50.00%,,50.00%,Y,12,6
+wy,0402000,Carbon County School District #2,0402005,Medicine Bow Elementary,57.14%,,57.14%,Y,7,4
+wy,0701000,Fremont County School District #1,0701056,Pathfinder High School,46.67%,,46.67%,Y,45,21
+wy,0714000,Fremont County School District #14,0714001,Wyoming Indian Elementary,54.55%,,51.30%,Y,242,132
+wy,0714000,Fremont County School District #14,0714050,Wyoming Indian Middle School,51.61%,,51.30%,Y,155,80
+wy,0714000,Fremont County School District #14,0714055,Wyoming Indian High School,46.63%,,51.30%,Y,178,83
+wy,0721000,Fremont County School District #21,0721001,Fort Washakie Elementary,74.09%,,72.98%,Y,274,203
+wy,0721000,Fremont County School District #21,0721050,Fort Washakie Middle School,74.67%,,72.98%,Y,75,56
+wy,0721000,Fremont County School District #21,0721056,Fort Washakie High School,69.09%,,72.98%,Y,110,76
+wy,0738000,Fremont County School District #38,0738001,Arapahoe Elementary,80.45%,,80.42%,Y,399,321
+wy,0738000,Fremont County School District #38,0738055,Arapahoe Charter High School,80.00%,,80.42%,Y,30,24
+wy,0740001,St. Stephens Indian School,0740001,St Stephens Indian School,62.79%,,62.79%,Y,301,189

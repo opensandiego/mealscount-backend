@@ -1,1195 +1,716 @@
-state,District Code,District Name,School Code,School Name,individual_isp,proxy_isp,participating_in_cep,claiming_isp,total_enrolled,total_eligible
-mo,048-927,Academy For Integrated Ar 6995,6995  ,Academy For Integrated Arts,63.89%,,58.85%,Y,243,155
-mo,001-090,Adair Co. R-I,1050,Adair Co. High,28.28%,,,N,,
-mo,001-090,Adair Co. R-I,4020,Adair Co. Elem.,47.52%,,44.74%,Y,152,72
-mo,115-406,Agape Child Development,4020-0,Agape Academy,87.13%,,73.33%,Y,105,91
-mo,048-909,Allen Village,1980,Allen Village High School,22.73%,,,N,,
-mo,048-909,Allen Village,3930,Allen Village Junior,30.00%,,,N,150,45
-mo,048-909,Allen Village,6905,Allen Village Primary,36.45%,,,N,107,39
-mo,048-909,Allen Village,6915,Allen Village Elementary,27.56%,,,N,,
-mo,075-087,Alton R-Iv,1050-0,Alton High,37.33%,,,N,300,112
-mo,075-087,Alton R-Iv,4020-1,Alton Elem.,43.71%,,,N,421,184
-mo,047-062,Arcadia Valley R-Ii,1050-1,Arcadia Valley High,28.71%,,,N,,
-mo,047-062,Arcadia Valley R-Ii,3000,Arcadia Valley Middle,42.91%,,,N,275,118
-mo,047-062,Arcadia Valley R-Ii,4020-2,Arcadia Valley Elem.,48.79%,,51.99%,Y,352,172
-mo,055-110,Aurora R-Viii,1050-2,Aurora High,28.24%,,,N,,
-mo,055-110,Aurora R-Viii,2050,Robinson Junior High,37.36%,,,N,273,102
-mo,055-110,Aurora R-Viii,4020-3,Pate Early Childhood Ctr.,41.63%,,,N,514,214
-mo,055-110,Aurora R-Viii,4040,Robinson Elementary,40.43%,,,N,277,112
-mo,055-110,Aurora R-Viii,4060,Robinson Intermediate,40.77%,,,N,287,117
-mo,034-124,Ava R-I,1050-3,Ava High,26.10%,,,N,,
-mo,034-124,Ava R-I,3000-0,Ava Middle,41.27%,,,N,424,175
-mo,034-124,Ava R-I,4020-4,Ava Elem.,47.17%,,,N,530,250
-mo,077-101,Bakersfield R-Iv,1050-4,Bakersfield High,33.50%,,,N,206,69
-mo,077-101,Bakersfield R-Iv,4020-5,Bakersfield Elem.,43.64%,,,N,165,72
-mo,103-128,Bell City R-Ii,1050-5,Bell City High,24.78%,,,N,,
-mo,103-128,Bell City R-Ii,4020-6,Bell City Elem.,47.15%,,,N,123,58
-mo,047-064,Belleview R-Iii,4020-7,Belleview Elem.,41.32%,,,N,121,50
-mo,103-135,Bernie R-Xiii,1050-6,Bernie High,27.48%,,,N,,
-mo,103-135,Bernie R-Xiii,4020-8,Bernie Elem.,46.08%,,,N,306,141
-mo,094-076,Bismarck R-V,1050-7,Bismarck High,39.07%,,44.04%,Y,241,94
-mo,094-076,Bismarck R-V,4020-9,Bismarck Elem.,46.48%,,44.04%,Y,204,95
-mo,096-714,Blessed Teresa Of Calcutta Sch,4020-10,Blessed Teresa Of Calcutta Sch,6.64%,,,N,,
-mo,104-045,Blue Eye R-V,1050-8,Blue Eye High,24.40%,,,N,,
-mo,104-045,Blue Eye R-V,3000-1,Blue Eye Middle,34.15%,,,N,164,56
-mo,104-045,Blue Eye R-V,4020-11,Blue Eye Elem.,42.61%,,,N,176,75
-mo,084-001,Bolivar R-I,1050-9,Bolivar High,27.36%,,,N,,
-mo,084-001,Bolivar R-I,3000-2,Bolivar Middle,33.79%,,,N,663,224
-mo,084-001,Bolivar R-I,4020-12,Bolivar Primary,40.91%,,,N,550,225
-mo,084-001,Bolivar R-I,4040-0,Bolivar Intermediate Sch.,38.19%,,,N,576,220
-mo,084-001,Bolivar R-I,7010,Bolivar Severly Handicapped,73.68%,,,N,19,14
-mo,027-061,Boonville R-I,1050-10,Boonville High,23.53%,,,N,,
-mo,027-061,Boonville R-I,3000-3,Laura Speed Elliott Middle,36.89%,,45.13%,Y,412,152
-mo,027-061,Boonville R-I,4020-13,Hannah Cole Primary,49.85%,,45.13%,Y,393,196
-mo,027-061,Boonville R-I,4040-1,David Barton Elem.,39.18%,,45.13%,Y,212,83
-mo,017-124,Bosworth R-V,1050-11,Bosworth High,25.00%,,64.15%,Y,24,6
-mo,017-124,Bosworth R-V,4020-14,Bosworth Elem.,54.84%,,64.15%,Y,29,16
-mo,106-004,Branson R-Iv,1050-12,Branson High,24.87%,,,N,,
-mo,106-004,Branson R-Iv,2050-0,Branson Jr. High,32.83%,,,N,728,239
-mo,106-004,Branson R-Iv,4040-2,Cedar Ridge Elementary,42.71%,,,N,569,243
-mo,106-004,Branson R-Iv,4050,Buchanan Intermediate,32.89%,,,N,523,172
-mo,106-004,Branson R-Iv,4060-0,Cedar Ridge Primary,46.01%,,,N,376,173
-mo,106-004,Branson R-Iv,4070,Buchanan Elementary,40.52%,,,N,659,267
-mo,106-004,Branson R-Iv,4080,Cedar Ridge Intermediate,38.25%,,,N,583,223
-mo,013-054,Breckenridge R-I,1050-13,Breckenridge High,32.00%,,,N,25,8
-mo,013-054,Breckenridge R-I,4020-15,Breckenridge Elem.,70.97%,,,N,31,22
-mo,048-916,Brookside Charter Sch,3950  ,Brookside Charter Middle Schl,45.65%,,57.86%,Y,184,84
-mo,048-916,Brookside Charter Sch,6950,Brookside Charter Elementary,62.45%,,57.86%,Y,490,306
-mo,021-149,Brunswick R-Ii,1050-14,Brunswick High,31.19%,,,N,109,34
-mo,021-149,Brunswick R-Ii,4020-16,Brunswick Elem.,36.00%,,,N,175,63
-mo,058-107,Bucklin R-Ii,1050-15,Bucklin High,40.63%,,,N,64,26
-mo,058-107,Bucklin R-Ii,4020-17,Bucklin Elem.,40.98%,,,N,61,25
-mo,090-077,Bunker R-Iii,1050-16,Bunker High,36.67%,,,N,120,44
-mo,090-077,Bunker R-Iii,4020-18,Bunker Elem.,31.40%,,,N,121,38
-mo,107-155,Cabool R-Iv,1050-17,Cabool High,33.63%,,52.63%,Y,209,70
-mo,107-155,Cabool R-Iv,3000-4,Cabool Middle,43.95%,,56.04%,Y,207,91
-mo,107-155,Cabool R-Iv,4020-19,Cabool Elem.,43.25%,,57.33%,Y,307,133
-mo,041-001,Cainsville R-I,1050-18,Cainsville High,18.18%,,,N,,
-mo,041-001,Cainsville R-I,4020-20,Cainsville Elem.,52.38%,,,N,42,22
-mo,042-117,Calhoun R-Viii,1050-19,Calhoun High,42.00%,,38.10%,Y,47,20
-mo,042-117,Calhoun R-Viii,4020-21,Calhoun Elem.,40.82%,,38.10%,Y,37,15
-mo,061-157,Callao C-8,4020-22,Callao Elem.,36.54%,,,N,52,19
-mo,035-093,Campbell R-Ii,1050-20,Campbell High,37.94%,,,N,253,96
-mo,035-093,Campbell R-Ii,4020-23,Campbell Elem.,55.84%,,,N,308,172
-mo,016-096,Cape Girardeau 63,1050-21,Central High,40.17%,,40.04%,Y,1094,439
-mo,016-096,Cape Girardeau 63,2050-1,Central Jr. High,46.42%,,50.41%,Y,589,273
-mo,016-096,Cape Girardeau 63,4020-24,Alma Schrader Elem.,17.39%,,55.87%,Y,421,73
-mo,016-096,Cape Girardeau 63,4040-3,Franklin Elem.,72.70%,,55.87%,Y,292,212
-mo,016-096,Cape Girardeau 63,4050-0,Blanchard Elem.,55.29%,,55.87%,Y,377,208
-mo,016-096,Cape Girardeau 63,4060-1,Clippard Elem.,50.71%,,55.87%,Y,501,254
-mo,016-096,Cape Girardeau 63,4080-0,Jefferson Elem.,75.49%,,55.87%,Y,274,207
-mo,016-096,Cape Girardeau 63,4090,Central Middle School,47.55%,,50.41%,Y,635,302
-mo,115-915,Carondelet Leadership Aca,6975,Carondelet Leadership Academy71.65%,71.65%,,,N,388,278
-mo,049-142,Carthage R-Ix,7500,Early Childhood And Pat Center,45.45%,,,N,209,95
-mo,049-142,Carthage R-Ix,1050-22,Carthage Sr. High,30.82%,,,N,1421,438
-mo,049-142,Carthage R-Ix,2050-2,Carthage Jr. High,38.43%,,,N,765,294
-mo,049-142,Carthage R-Ix,3000-5,Carthage Intermediate Center,38.52%,,,N,810,312
-mo,049-142,Carthage R-Ix,4020-25,Columbian Elem.,59.11%,,,N,450,266
-mo,049-142,Carthage R-Ix,4030,Steadley Elem.,31.84%,,,N,515,164
-mo,049-142,Carthage R-Ix,4060-2,Fairview Elem.,51.46%,,,N,480,247
-mo,049-142,Carthage R-Ix,4070-0,St Ann'S School,18.31%,,,N,,
-mo,049-142,Carthage R-Ix,5000,Mark Twain Elem.,17.32%,,,N,,
-mo,049-142,Carthage R-Ix,5020,Pleasant Valley Elem.,23.58%,,,N,,
-mo,078-012,Caruthersville 18,1050-23,Caruthersville High,49.26%,,64.75%,Y,296,146
-mo,078-012,Caruthersville 18,3000-6,Caruthersville Middle,61.16%,,64.75%,Y,320,196
-mo,078-012,Caruthersville 18,4060-3,Caruthersville Elem.,68.53%,,64.75%,Y,445,305
-mo,005-123,Cassville R-Iv,1050-24,Cassville High,28.77%,,,N,,
-mo,005-123,Cassville R-Iv,3000-7,Cassville Middle,33.75%,,,N,400,135
-mo,005-123,Cassville R-Iv,4020-26,Eunice Thomas Elem.,37.32%,,,N,493,184
-mo,005-123,Cassville R-Iv,4030-0,Cassville Intermediate,37.32%,,,N,418,156
-mo,048-080,Center 58,1020,Center Alternative,56.82%,,62.06%,Y,74,42
-mo,048-080,Center 58,1050-25,Center Sr. High,35.68%,,,N,611,218
-mo,048-080,Center 58,2100,Center Middle,45.88%,,,N,582,267
-mo,048-080,Center 58,4020-27,Boone Elem.,37.11%,,,N,318,118
-mo,048-080,Center 58,4060-4,Center Elem.,72.04%,,62.06%,Y,355,256
-mo,048-080,Center 58,4070-1,Indian Creek Elem.,42.67%,,62.06%,Y,297,127
-mo,048-080,Center 58,4080-1,Red Bridge Elem.,27.30%,,,N,,
-mo,048-080,Center 58,7500-0,Early Childhood Educ. Ctr.,46.38%,,62.06%,Y,136,63
-mo,090-075,Centerville R-I,4020-28,Centerville Elem.,59.09%,,59.09%,Y,66,39
-mo,094-086,Central R-Iii,1050-26,Central High,51.85%,,,N,596,309
-mo,094-086,Central R-Iii,2050-3,Central Middle,61.85%,,,N,519,321
-mo,094-086,Central R-Iii,4020-29,Central Elem.,59.63%,,,N,540,322
-mo,094-086,Central R-Iii,4060-5,West Elem.,64.84%,,,N,492,319
-mo,100-060,Chaffee R-Ii,1050-27,Chaffee Jr.-Sr. High,22.77%,,,N,,
-mo,100-060,Chaffee R-Ii,4020-30,Chaffee Elem.,38.79%,,49.87%,Y,385,149
-mo,067-061,Charleston R-I,1050-28,Charleston High,64.48%,,69.37%,Y,259,167
-mo,067-061,Charleston R-I,3000-8,Charleston Middle,71.23%,,69.37%,Y,212,151
-mo,067-061,Charleston R-I,4040-4,Warren E. Hearnes Elem.,71.40%,,69.37%,Y,430,307
-mo,051-153,Chilhowee R-Iv,1050-29,Chilhowee High,29.03%,,,N,,
-mo,051-153,Chilhowee R-Iv,4020-31,Chilhowee Elem.,40.22%,,,N,92,37
-mo,048-928,Citizens Of The World Charter,6905-0,Citizens Of The World Charter,38.28%,,,N,290,111
-mo,068-075,Clarksburg C-2,4020-32,Clarksburg Elem.,49.18%,,,N,61,30
-mo,035-097,Clarkton C-4,1050-30,Clarkton High,51.50%,,65.46%,Y,155,80
-mo,035-097,Clarkton C-4,4020-33,Clarkton Elem.,71.35%,,65.46%,Y,186,133
-mo,035-097,Clarkton C-4,9010,Bootheel State School,64.71%,,65.46%,Y,18,12
-mo,111-087,Clearwater R-I,1050-31,Clearwater High,41.13%,,,N,265,109
-mo,111-087,Clearwater R-I,3000-9,Clearwater Middle,47.31%,,,N,279,132
-mo,111-087,Clearwater R-I,4040-5,Clearwater Elem.,54.28%,,,N,409,222
-mo,015-003,Climax Springs R-Iv,1050-32,Climax Springs High,54.21%,,,N,107,58
-mo,015-003,Climax Springs R-Iv,4020-34,Climax Springs Elem.,59.72%,,,N,72,43
-mo,042-124,Clinton,1050-33,Clinton Sr. High,28.37%,,,N,,
-mo,042-124,Clinton,3000-10,Clinton Middle,37.95%,,,N,390,148
-mo,042-124,Clinton,4070-2,Henry Elem.,41.50%,,,N,359,149
-mo,042-124,Clinton,4080-2,Intermediate School,37.47%,,,N,379,142
-mo,042-124,Clinton,7500-1,Early Childhood Ctr,29.60%,,,N,,
-mo,010-093,Columbia 93,4030-1,Alpha Hart Lewis Elementary,51.50%,,58.73%,Y,395,203
-mo,010-093,Columbia 93,3000-11,Ann Hawkins Gentry Middle,9.50%,,,N,,
-mo,010-093,Columbia 93,5050,Beulah Ralph Elementary,13.46%,,,N,,
-mo,010-093,Columbia 93,4040-6,Blue Ridge Elem.,48.80%,,50.93%,Y,432,211
-mo,010-093,Columbia 93,4050-1,Cedar Ridge Elem.,28.08%,,,N,,
-mo,010-093,Columbia 93,7500-2,Center For Early Lrning-North,37.21%,,,N,559,208
-mo,010-093,Columbia 93,1021,Core,50.98%,,59.02%,Y,61,31
-mo,010-093,Columbia 93,1050-34,David Hickman High,17.09%,,,N,,
-mo,010-093,Columbia 93,4055,Derby Ridge Elem.,52.89%,,52.89%,Y,450,238
-mo,010-093,Columbia 93,4070  ,Elliott Battle Elementary Schl,42.05%,,42.05%,Y,478,201
-mo,010-093,Columbia 93,4060-6,Fairview Elem.,20.18%,,,N,,
-mo,010-093,Columbia 93,1020-0,Frederick Douglass High,59.73%,,62.88%,Y,229,137
-mo,010-093,Columbia 93,2050-4,Jefferson Middle School,25.94%,,,N,,
-mo,010-093,Columbia 93,3060,John B. Lange Middle,37.56%,,,N,639,240
-mo,010-093,Columbia 93,5060,John Ridgeway Elem.,5.39%,,,N,,
-mo,010-093,Columbia 93,5010,Mary Paxton Keeley Elementary,19.35%,,,N,,
-mo,010-093,Columbia 93,5025,Midway Heights Elem.,12.40%,,,N,,
-mo,010-093,Columbia 93,5030,Mill Creek Elem.,8.50%,,,N,,
-mo,010-093,Columbia 93,1060,Muriel W. Battle High School,30.48%,,,N,1437,438
-mo,010-093,Columbia 93,5035,New Haven Elem.,40.00%,,45.92%,Y,196,78
-mo,010-093,Columbia 93,2060,Oakland Middle School,44.81%,,,N,549,246
-mo,010-093,Columbia 93,5040,Parkade Elem.,40.52%,,,N,501,203
-mo,010-093,Columbia 93,5020-0,Robert E. Lee Elem.,20.85%,,,N,,
-mo,010-093,Columbia 93,5080,Rock Bridge Elem.,17.49%,,,N,,
-mo,010-093,Columbia 93,1075,Rock Bridge Sr. High,12.41%,,,N,,
-mo,010-093,Columbia 93,6000,Russell Blvd. Elem.,16.25%,,,N,,
-mo,010-093,Columbia 93,6010,Shepard Blvd. Elem.,34.41%,,,N,494,170
-mo,010-093,Columbia 93,3040,Smithton Middle,20.67%,,,N,,
-mo,010-093,Columbia 93,4020-35,Thomas Benton Elem.,57.79%,,60.55%,Y,218,126
-mo,010-093,Columbia 93,6040,Two Mile Prairie Elem.,14.81%,,,N,,
-mo,010-093,Columbia 93,5000-0,Ulysses S. Grant Elem.,23.45%,,,N,,
-mo,010-093,Columbia 93,6020,West Blvd. Elem.,57.84%,,63.24%,Y,321,186
-mo,010-093,Columbia 93,2075,West Middle School,23.94%,,,N,,
-mo,115-906,Confluence Academies,6931,Aspire Academy,81.27%,,91.64%,Y,439,357
-mo,115-906,Confluence Academies,6930,Confluence Academies-Old Nor,85.58%,,91.64%,Y,495,424
-mo,115-906,Confluence Academies,6932,Confluence Academies-South Ct63.16%,63.16%,,91.64%,Y,804,508
-mo,115-906,Confluence Academies,1920,Confluence Preparatory Acade,75.31%,,91.64%,Y,422,318
-mo,115-906,Confluence Academies,3920  ,Grand Center Arts Acad Middle,47.69%,,91.64%,Y,237,113
-mo,115-906,Confluence Academies,1945  ,Grand Center Arts Academy Hig,41.30%,,91.64%,Y,366,151
-mo,027-056,Cooper Co. R-Iv,1050-35,Bunceton High,43.40%,,49.06%,Y,53,23
-mo,027-056,Cooper Co. R-Iv,4020-36,Cooper Co. Elem.,51.06%,,52.11%,Y,71,36
-mo,078-004,Cooter R-Iv,1050-36,Cooter High,47.52%,,,N,141,67
-mo,078-004,Cooter R-Iv,4020-37,Cooter Elem.,40.96%,,,N,83,34
-mo,075-084,Couch R-I,1050-37,Couch High,35.71%,,,N,112,40
-mo,075-084,Couch R-I,4020-38,Couch Elem.,43.81%,,44.76%,Y,105,46
-mo,044-078,Craig R-Iii,1050-38,Craig High,20.69%,,,N,,
-mo,044-078,Craig R-Iii,4020-39,Craig Elem.,45.45%,,,N,33,15
-mo,104-043,Crane R-Iii,1050-39,Crane High,32.43%,,,N,259,84
-mo,104-043,Crane R-Iii,4020-40,Crane Elem.,40.00%,,,N,280,112
-mo,028-101,Crawford Co. R-I,1050-40,Bourbon High,33.85%,,,N,257,87
-mo,028-101,Crawford Co. R-I,3000-12,Bourbon Middle,45.58%,,,N,294,134
-mo,028-101,Crawford Co. R-I,4020-41,Bourbon Elem.,50.12%,,,N,405,203
-mo,028-102,Crawford Co. R-Ii,1050-41,Cuba High,21.83%,,,N,,
-mo,028-102,Crawford Co. R-Ii,3000-13,Cuba Middle,30.70%,,,N,456,140
-mo,028-102,Crawford Co. R-Ii,4020-42,Cuba Elem.,38.19%,,,N,453,173
-mo,048-815,Cristo Rey Kansas City,1050-42,Cristo Rey Kansas City,22.39%,,,N,,
-mo,085-049,Crocker R-Ii,1050-43,Crocker High,26.00%,,,N,,
-mo,085-049,Crocker R-Ii,4020-43,Crocker Elem.,38.68%,,45.45%,Y,264,102
-mo,030-093,Dallas Co. R-I,1050-44,Buffalo High,27.94%,,,N,,
-mo,030-093,Dallas Co. R-I,3000-14,Buffalo Middle,37.94%,,,N,564,214
-mo,030-093,Dallas Co. R-I,4020-44,Mallory Elem.,54.42%,,,N,588,320
-mo,042-119,Davis R-Xii,4020-45,Davis Elem.,23.26%,,,N,,
-mo,048-923,De La Salle Charter School  1970,1970,Delasalle Ed Center,72.83%,,72.83%,Y,92,67
-mo,078-009,Delta C-7,1050-45,Delta C-7 High,41.24%,,,N,97,40
-mo,078-009,Delta C-7,4020-46,Delta C-7 Elem.,48.51%,,,N,101,49
-mo,016-092,Delta R-V,1050-46,Delta High,37.29%,,,N,118,44
-mo,016-092,Delta R-V,4020-47,Delta Elem.,39.81%,,,N,108,43
-mo,033-093,Dent-Phelps R-Iii,4020-48,Dent-Phelps Elem.,33.07%,,,N,251,83
-mo,091-092,Doniphan R-I,1050-47,Doniphan High,38.53%,,55.40%,Y,433,167
-mo,091-092,Doniphan R-I,3000-15,Doniphan Middle,41.24%,,55.40%,Y,360,148
-mo,091-092,Doniphan R-I,4020-49,Doniphan Elem.,81.13%,,55.40%,Y,453,368
-mo,091-092,Doniphan R-I,4040  ,Doniphan Intermediate,47.41%,,55.40%,Y,364,173
-mo,077-103,Dora R-Iii,1050-48,Dora High,33.77%,,,N,154,52
-mo,077-103,Dora R-Iii,4020-50,Dora Elem.,36.05%,,,N,147,53
-mo,050-005,Dunklin R-V,1050-49,Herculaneum High,26.44%,,,N,,
-mo,050-005,Dunklin R-V,3000-16,Senn-Thomas Middle,33.06%,,,N,369,122
-mo,050-005,Dunklin R-V,4040-7,Pevely Elem.,38.48%,,,N,699,269
-mo,050-005,Dunklin R-V,7500-3,Taylor Early Childhood,25.99%,,,N,,
-mo,115-923,Eagle College Prep Endeavor,6996  ,Eagle College Prep-Fox Park,65.00%,,70.38%,Y,130,84
-mo,115-923,Eagle College Prep Endeavor,6995  -0,Eagle College Prep-Tower Grov,51.34%,,70.38%,Y,195,100
-mo,115-923,Eagle College Prep Endeavor,6998  ,Eagle Gravois Park,76.15%,,70.38%,Y,101,77
-mo,115-923,Eagle College Prep Endeavor,6997  ,Eagle Tower Grove East,49.01%,,70.38%,Y,131,64
-mo,018-047,East Carter Co. R-Ii,1050-50,East Carter Co. R-Ii High,30.10%,,,N,206,62
-mo,018-047,East Carter Co. R-Ii,3000-17,East Carter Co. R-Ii Middle,45.45%,,,N,143,65
-mo,018-047,East Carter Co. R-Ii,4020-51,East Carter Co R-Ii Elementary,37.15%,,,N,288,107
-mo,073-099,East Newton Co. R-Vi,1050-51,East Newton High,30.23%,,,N,387,117
-mo,073-099,East Newton Co. R-Vi,4020-52,Granby Elem.,39.71%,,,N,544,216
-mo,073-099,East Newton Co. R-Vi,4040-8,Triway Elem.,48.16%,,,N,380,183
-mo,067-055,East Prairie R-Ii,4060-7,A. J. Martin Elem.,40.40%,,,N,354,143
-mo,067-055,East Prairie R-Ii,1050-52,East Prairie High,26.00%,,41.59%,Y,307,80
-mo,067-055,East Prairie R-Ii,2050-5,East Prairie Jr. High,44.31%,,,N,167,74
-mo,067-055,East Prairie R-Ii,4040-9,R. A. Doyle Elem.,50.16%,,,N,309,155
-mo,067-055,East Prairie R-Ii,4020  ,East Prairie Elem,,,41.59%,Y,413,
-mo,067-055,East Prairie R-Ii,3000  ,East Prairie Middle,,,41.59%,Y,350,
-mo,020-002,El Dorado Springs R-Ii,1050-53,El Dorado Springs High,24.70%,,,N,,
-mo,020-002,El Dorado Springs R-Ii,3000-18,El Dorado Springs Middle,34.45%,,,N,299,103
-mo,020-002,El Dorado Springs R-Ii,4040-10,El Dorado Springs Elem.,54.40%,,54.40%,Y,568,309
-mo,066-102,Eldon R-I,1050-54,Eldon High,26.85%,,,N,,
-mo,066-102,Eldon R-I,3000-19,Eldon Middle,33.55%,,,N,301,101
-mo,066-102,Eldon R-I,4020-53,South Elem.,39.81%,,,N,638,254
-mo,066-102,Eldon R-I,4040-11,Eldon Upper Elem.,39.83%,,,N,462,184
-mo,066-102,Eldon R-I,9055,Dogwood Hills State School,21.43%,,,N,,
-mo,057-002,Elsberry R-Ii,1050-55,Elsberry High,28.95%,,,N,,
-mo,057-002,Elsberry R-Ii,3000-20,Ida Cannon Middle,29.15%,,,N,,
-mo,057-002,Elsberry R-Ii,4020-54,Clarence Cannon Elem.,37.92%,,,N,356,135
-mo,101-107,Eminence R-I,1050-56,Eminence High,41.48%,,51.06%,Y,136,56
-mo,101-107,Eminence R-I,4020-55,Eminence Elem.,47.02%,,51.06%,Y,146,69
-mo,029-003,Everton R-Iii,1050-57,Everton High,36.84%,,41.82%,Y,76,28
-mo,029-003,Everton R-Iii,4020-56,Everton Elem.,38.52%,,41.82%,Y,89,34
-mo,048-924,Ewing Marion Kauffman School,1910,Ewing Marion Kauffman High,33.79%,,,N,290,98
-mo,048-924,Ewing Marion Kauffman School,3930-0,Ewing Marion Kauffman Middle School,46.33%,,,N,762,353
-mo,024-089,Excelsior Springs 40,1075-0,Excelsior Springs High,19.36%,,,N,,
-mo,024-089,Excelsior Springs 40,3000-21,Excelsior Springs Middle,26.63%,,,N,,
-mo,024-089,Excelsior Springs 40,4020-57,Elkhorn Elem.,29.13%,,,N,,
-mo,024-089,Excelsior Springs 40,4040-12,Lewis Elem.,60.67%,,,N,445,270
-mo,024-089,Excelsior Springs 40,4080-3,Westview Elem.,25.38%,,,N,,
-mo,005-122,Exeter R-Vi,1050-58,Exeter High,29.09%,,,N,,
-mo,005-122,Exeter R-Vi,4020-58,Exeter Elem.,36.87%,,,N,198,73
-mo,084-002,Fair Play R-Ii,1010,Exceptional Pupil Coop,47.83%,,,N,69,33
-mo,084-002,Fair Play R-Ii,4020-59,Fair Play Elem.,55.77%,,48.75%,Y,160,89
-mo,084-002,Fair Play R-Ii,1050-59,Fair Play High,48.03%,,48.75%,Y,140,67
-mo,084-002,Fair Play R-Ii,7500  ,Little Stingers Preschool,31.58%,,48.75%,Y,20,6
-mo,046-140,Fairview R-Xi,4020-60,Fairview Elem.,49.90%,,,N,505,252
-mo,096-089,Ferguson-Florissant R-Ii,4010,Airport Elem.,74.67%,,,N,225,168
-mo,096-089,Ferguson-Florissant R-Ii,3000-22,Berkeley Middle,68.95%,,,N,306,211
-mo,096-089,Ferguson-Florissant R-Ii,4030  ,Berkeley Elem,,,64.57%,Y,582,
-mo,096-089,Ferguson-Florissant R-Ii,4020-61,Bermuda Elem.,65.40%,,64.57%,Y,269,176
-mo,096-089,Ferguson-Florissant R-Ii,4040-13,Central Elem.,78.44%,,64.57%,Y,220,173
-mo,096-089,Ferguson-Florissant R-Ii,4060-8,Combs Elem.,54.64%,,64.57%,Y,297,162
-mo,096-089,Ferguson-Florissant R-Ii,4100,Cool Valley Elem.,74.49%,,,N,196,146
-mo,096-089,Ferguson-Florissant R-Ii,4080-4,Commons Lane Elem.,51.73%,,64.57%,Y,387,200
-mo,096-089,Ferguson-Florissant R-Ii,1080  ,Cool Valley Innovation School,,,64.57%,Y,60,
-mo,096-089,Ferguson-Florissant R-Ii,3030,Cross Keys Middle,49.63%,,64.57%,Y,708,351
-mo,096-089,Ferguson-Florissant R-Ii,1021-0,Gifted Program Center,24.42%,,,N,172,42
-mo,096-089,Ferguson-Florissant R-Ii,4140,Duchesne Elem.,50.20%,,64.57%,Y,269,135
-mo,096-089,Ferguson-Florissant R-Ii,3050,Ferguson Middle,63.01%,,64.57%,Y,566,357
-mo,096-089,Ferguson-Florissant R-Ii,4160,Griffith Elem.,70.96%,,64.57%,Y,329,233
-mo,096-089,Ferguson-Florissant R-Ii,4180,Halls Ferry Elem.,47.84%,,64.57%,Y,358,171
-mo,096-089,Ferguson-Florissant R-Ii,4190,Holman Elem.,56.13%,,64.57%,Y,225,126
-mo,096-089,Ferguson-Florissant R-Ii,4210,Johnson Wabash 6Th Grade,75.13%,,64.57%,Y,375,282
-mo,096-089,Ferguson-Florissant R-Ii,4200,Lee Hamilton Elem.,53.80%,,64.57%,Y,334,180
-mo,096-089,Ferguson-Florissant R-Ii,1050-60,Mccluer High,58.17%,,64.57%,Y,996,579
-mo,096-089,Ferguson-Florissant R-Ii,1070,Mccluer North High,41.05%,,64.57%,Y,1381,567
-mo,096-089,Ferguson-Florissant R-Ii,4240,Parker Road Elem.,51.20%,,64.57%,Y,427,219
-mo,096-089,Ferguson-Florissant R-Ii,7500-4,Restoration Center,63.73%,,64.57%,Y,189,120
-mo,096-089,Ferguson-Florissant R-Ii,4280,Vogt Elem.,55.46%,,,N,238,132
-mo,096-089,Ferguson-Florissant R-Ii,4260,Robinwood Elem.,56.92%,,64.57%,Y,372,212
-mo,096-089,Ferguson-Florissant R-Ii,1060-0,Steam High,73.57%,,64.57%,Y,474,349
-mo,096-089,Ferguson-Florissant R-Ii,4320,Walnut Grove Elem.,71.20%,,64.57%,Y,507,361
-mo,096-089,Ferguson-Florissant R-Ii,4340,Wedgwood 6Th Grade,47.99%,,64.57%,Y,483,232
-mo,096-089,Ferguson-Florissant R-Ii,3010  ,Steam Academy For Middle Schl,,,64.57%,Y,170,
-mo,106-003,Forsyth R-Iii,1050-61,Forsyth High,27.08%,,,N,,
-mo,106-003,Forsyth R-Iii,3000-23,Forsyth Middle,39.75%,,,N,317,126
-mo,106-003,Forsyth R-Iii,4020-62,Forsyth Elem.,43.90%,,,N,451,198
-mo,048-066,Fort Osage R-I,1050-62,Fort Osage High,24.11%,,,N,,
-mo,048-066,Fort Osage R-I,3000-24,Osage Trail Middle,28.95%,,,N,,
-mo,048-066,Fort Osage R-I,4020-63,Blue Hills Elem.,25.78%,,,N,,
-mo,048-066,Fort Osage R-I,4040-14,Buckner Elem.,30.99%,,,N,355,110
-mo,048-066,Fort Osage R-I,4060-9,Cler-Mont Elem.,32.20%,,,N,382,123
-mo,048-066,Fort Osage R-I,4080-5,Elm Grove Elem.,51.04%,,,N,335,171
-mo,048-066,Fort Osage R-I,4110,Fire Prairie Middle,33.12%,,,N,918,304
-mo,048-066,Fort Osage R-I,4130,Indian Trails Elem.,41.88%,,,N,425,178
-mo,062-072,Fredericktown R-I,1050-63,Fredericktown High,36.27%,,,N,557,202
-mo,062-072,Fredericktown R-I,3000-25,Fredericktown Middle,43.54%,,,N,441,192
-mo,062-072,Fredericktown R-I,4020-64,Fredericktown Elem.,50.85%,,,N,413,210
-mo,062-072,Fredericktown R-I,4080-6,Fredericktown Intermediate,36.82%,,,N,478,176
-mo,062-072,Fredericktown R-I,8001,Fredericktown Off-Site School,100.00%,,,N,74,74
-mo,048-922,Frontier School Of Innova,1920-0,Frontier Schl Of Excellence-U,52.75%,,,N,182,96
-mo,048-922,Frontier School Of Innova,1985,Frontier Stem High School,46.30%,,,N,324,150
-mo,048-922,Frontier School Of Innova,3935,Frontier Schl Of Innovation-M,49.49%,,,N,293,145
-mo,048-922,Frontier School Of Innova,3940,Frontier Schl Of Excellence-M,42.71%,,,N,96,41
-mo,048-922,Frontier School Of Innova,6975-0,Frontier School Of Innovation,48.38%,,,N,649,314
-mo,014-129,Fulton 58,1050-64,Fulton Sr. High,21.23%,,,N,,
-mo,014-129,Fulton 58,3000-26,Fulton Middle,34.40%,,,N,561,193
-mo,014-129,Fulton 58,4010-0,Bartley Elem.,31.84%,,,N,267,85
-mo,014-129,Fulton 58,4020-65,Bush Elem.,36.62%,,,N,355,130
-mo,014-129,Fulton 58,4080-7,Mcintire Elem.,42.75%,,,N,393,168
-mo,077-102,Gainesville R-V,1050-65,Gainesville High,34.39%,,,N,285,98
-mo,077-102,Gainesville R-V,4020-66,Gainesville Elem.,34.96%,,,N,369,129
-mo,104-042,Galena R-Ii,1050-66,Galena High,34.56%,,,N,217,75
-mo,104-042,Galena R-Ii,4020-67,Galena-Abesville Elem.,40.15%,,,N,274,110
-mo,053-112,Gasconade C-4,4020-68,Gasconade Elem.,37.14%,,,N,70,26
-mo,037-039,Gasconade Co. R-I,1050-67,Hermann High,27.16%,,,N,,
-mo,037-039,Gasconade Co. R-I,3000-27,Hermann Middle,26.32%,,,N,,
-mo,037-039,Gasconade Co. R-I,4060-10,Hermann Elem.,42.22%,,,N,315,133
-mo,048-905,Genesis School Inc                1945,1945,Genesis School Inc,70.83%,,78.47%,Y,288,204
-mo,072-073,Gideon 37,1050-68,Gideon High,33.00%,,41.96%,Y,100,33
-mo,072-073,Gideon 37,4020-69,Gideon Elem.,47.74%,,41.96%,Y,155,74
-mo,097-127,Gilliam C-4                                               4020,4020-70,Gilliam Elem.,40.48%,,,N,42,17
-mo,046-135,Glenwood R-Viii,4020-71,Glenwood Elem.,22.71%,,,N,,
-mo,006-103,Golden City R-Iii,1050-69,Golden City High,36.78%,,,N,87,32
-mo,006-103,Golden City R-Iii,4020-72,Golden City Elem.,32.26%,,,N,93,30
-mo,048-913,Gordon Parks Elem.              6935,6935,Gordon Parks Elem,77.71%,,82.82%,Y,163,127
-mo,048-074,Grandview C-4,1020-1,Grandview Alternative Sch.,76.40%,,,N,89,68
-mo,048-074,Grandview C-4,1050-70,Grandview Sr. High,33.75%,,,N,1117,377
-mo,048-074,Grandview C-4,2100-0,Grandview Middle,37.92%,,,N,596,226
-mo,048-074,Grandview C-4,4020-73,Belvidere Elem.,44.69%,,,N,320,143
-mo,048-074,Grandview C-4,4040-15,Butcher-Greene Elem.,58.22%,,,N,383,223
-mo,048-074,Grandview C-4,4080-8,Conn-West Elem.,52.85%,,,N,386,204
-mo,048-074,Grandview C-4,5000-1,High Grove Early Childhood Center,61.78%,,,N,191,118
-mo,048-074,Grandview C-4,5020-1,Martin City Elem.,40.66%,,,N,723,294
-mo,048-074,Grandview C-4,5040-0,Meadowmere Elem.,30.77%,,,N,429,132
-mo,050-002,Grandview R-Ii,1050-71,Grandview High,28.23%,,,N,,
-mo,050-002,Grandview R-Ii,3000-28,Grandview Middle,22.01%,,,N,,
-mo,050-002,Grandview R-Ii,4020-74,Grandview Elem.,65.99%,,,N,147,97
-mo,033-092,Green Forest R-Ii,4020-75,Green Forest Elem.,40.00%,,,N,190,76
-mo,029-004,Greenfield R-Iv,1050-72,Greenfield High,28.92%,,,N,,
-mo,029-004,Greenfield R-Iv,4020-76,Greenfield Elem.,32.26%,,,N,217,70
-mo,111-086,Greenville R-Ii,1050-73,Greenville High,28.21%,,,N,,
-mo,111-086,Greenville R-Ii,2050-6,Greenville Jr High,35.00%,,,N,120,42
-mo,111-086,Greenville R-Ii,4010-1,Greenville Elem.,40.15%,,,N,391,157
-mo,111-086,Greenville R-Ii,4020-77,Williamsville Elem.,47.76%,,,N,67,32
-mo,040-100,Grundy Co R-V,1050-74,Grundy Co. High,23.81%,,,N,,
-mo,040-100,Grundy Co R-V,4020-78,Grundy Co. Elem.,47.37%,,,N,57,27
-mo,048-902,Guadalupe Centers Schools,1925,Guadalupe Centers High School,23.64%,,,N,,
-mo,048-902,Guadalupe Centers Schools,3925,Guadalupe Centers Middle,40.88%,,,N,274,112
-mo,048-902,Guadalupe Centers Schools,6905-1,Guadalupe Centers Elementary,34.26%,,,N,613,210
-mo,096-103,Hancock Place,1050-75,Hancock Sr. High,46.75%,,60.12%,Y,417,195
-mo,096-103,Hancock Place,3000-29,Hancock Place Middle,51.35%,,60.12%,Y,342,176
-mo,096-103,Hancock Place,4020-79,Hancock Place Elem.,65.02%,,60.12%,Y,708,460
-mo,064-075,Hannibal 60,1050-76,Hannibal Sr. High,28.77%,,,N,,
-mo,064-075,Hannibal 60,3000-30,Hannibal Middle,39.62%,,,N,848,336
-mo,064-075,Hannibal 60,4020-80,A. D. Stowell Elem.,48.24%,,,N,255,123
-mo,064-075,Hannibal 60,4060-11,Eugene Field Elem.,68.98%,,,N,216,149
-mo,064-075,Hannibal 60,4080-9,Mark Twain Elem.,36.89%,,,N,347,128
-mo,064-075,Hannibal 60,4090-0,Oakwood Elem.,25.83%,,,N,,
-mo,064-075,Hannibal 60,5010-0,Veterans Elem.,42.77%,,,N,636,272
-mo,114-113,Hartville R-Ii,1050-77,Hartville High,32.43%,,,N,333,108
-mo,114-113,Hartville R-Ii,4020-81,Grovespring Elem.,56.96%,,,N,79,45
-mo,114-113,Hartville R-Ii,4040-16,Hartville Elem.,41.73%,,,N,254,106
-mo,115-925,Hawthorn Leadership Schl,1905  ,Hawthorn High,59.26%,,64.13%,Y,30,18
-mo,115-925,Hawthorn Leadership Schl,3910  ,Hawthorn Middle,56.91%,,64.13%,Y,154,88
-mo,078-002,Hayti R-Ii,1050-78,Hayti High,66.67%,,74.56%,Y,220,147
-mo,078-002,Hayti R-Ii,4040-17,Mathis Elem.,80.26%,,74.56%,Y,394,316
-mo,078-002,Hayti R-Ii,8001  ,Oakview Learning Center,28.57%,,74.56%,Y,7,2
-mo,096-088,Hazelwood,1020-2,Elem. Special Programs Dept.,28.57%,,,N,,
-mo,096-088,Hazelwood,1050-79,Hazelwood Central High,30.81%,,,N,1772,546
-mo,096-088,Hazelwood,1060-1,Hazelwood East High,48.85%,,,N,997,487
-mo,096-088,Hazelwood,1075-1,Hazelwood West High,29.73%,,,N,,
-mo,096-088,Hazelwood,2050-7,Northwest Middle,38.66%,,,N,833,322
-mo,096-088,Hazelwood,2070,Central Middle,42.26%,,,N,795,336
-mo,096-088,Hazelwood,2100-1,East Middle,39.88%,,75.66%,Y,133,53
-mo,096-088,Hazelwood,2130,North Middle,35.03%,,,N,805,282
-mo,096-088,Hazelwood,2150,West Middle,15.11%,,,N,,
-mo,096-088,Hazelwood,2170,Southeast Middle,52.70%,,75.66%,Y,596,314
-mo,096-088,Hazelwood,4020-82,Keeven Elem.,50.41%,,75.66%,Y,393,198
-mo,096-088,Hazelwood,4040-18,Barrington Elem.,30.13%,,,N,395,119
-mo,096-088,Hazelwood,4060-12,Brown Elem.,45.06%,,,N,324,146
-mo,096-088,Hazelwood,4080-10,Lawson Elem.,37.38%,,,N,404,151
-mo,096-088,Hazelwood,4100-0,Cold Water Elem.,39.64%,,,N,439,174
-mo,096-088,Hazelwood,4140-0,Garrett Elem.,33.09%,,,N,547,181
-mo,096-088,Hazelwood,4150,Grannemann Elem.,50.80%,,75.66%,Y,401,204
-mo,096-088,Hazelwood,4160-0,Jury Elem.,38.75%,,75.66%,Y,409,158
-mo,096-088,Hazelwood,4170,Jamestown Elem.,40.06%,,,N,357,143
-mo,096-088,Hazelwood,4180-0,Larimore Elem.,54.40%,,75.66%,Y,383,208
-mo,096-088,Hazelwood,4200-0,Lusher Elem.,45.03%,,,N,433,195
-mo,096-088,Hazelwood,4210-0,Mccurdy Elem.,48.50%,,,N,466,226
-mo,096-088,Hazelwood,4220,Mcnair Elem.,42.04%,,,N,383,161
-mo,096-088,Hazelwood,4240-0,Russell Elem.,28.74%,,,N,,
-mo,096-088,Hazelwood,4250,Townsend Elem.,47.15%,,,N,369,174
-mo,096-088,Hazelwood,4260-0,Twillman Elem.,46.46%,,75.66%,Y,383,178
-mo,096-088,Hazelwood,4280-0,Walker Elem.,37.34%,,,N,383,143
-mo,096-088,Hazelwood,4300,Jana Elem.,36.18%,,,N,340,123
-mo,096-088,Hazelwood,4320-0,Armstrong Elem.,60.49%,,,N,453,274
-mo,096-088,Hazelwood,4340-0,Arrowpoint Elem.,49.69%,,75.66%,Y,535,266
-mo,096-088,Hazelwood,7500-5,Central Early Childhood Center,19.63%,,,N,,
-mo,096-088,Hazelwood,7510,East Early Childhood Center,17.16%,,,N,,
-mo,096-088,Hazelwood,7520,West Early Childhood Center,16.34%,,,N,,
-mo,042-111,Henry Co. R-I,1050-80,Windsor High,42.42%,,,N,297,126
-mo,042-111,Henry Co. R-I,4020-83,Windsor Elem.,54.23%,,,N,378,205
-mo,043-004,Hermitage R-Iv,1050-81,Hermitage High,31.34%,,,N,67,21
-mo,043-004,Hermitage R-Iv,3000-31,Hermitage Middle,42.11%,,,N,57,24
-mo,043-004,Hermitage R-Iv,4020-84,Hermitage Elem.,50.00%,,,N,124,62
-mo,048-072,Hickman Mills C-1,4010-2,Compass Elementary,49.56%,,66.35%,Y,389,193
-mo,048-072,Hickman Mills C-1,4015,Dobbs Elem.,66.85%,,66.35%,Y,384,257
-mo,048-072,Hickman Mills C-1,7500-6,Early Childhood Ctr,51.27%,,66.35%,Y,236,121
-mo,048-072,Hickman Mills C-1,4055  ,Ervin Early Learning Center,62.02%,,66.35%,Y,707,438
-mo,048-072,Hickman Mills C-1,1060-2,Hickman Mills Freshman Center,58.20%,,,N,323,188
-mo,048-072,Hickman Mills C-1,4050-2,Ingels Elem.,69.13%,,66.35%,Y,331,229
-mo,048-072,Hickman Mills C-1,4020-85,Johnson Elem.,68.90%,,,N,328,226
-mo,048-072,Hickman Mills C-1,1050-82,Ruskin High,48.39%,,66.35%,Y,1135,549
-mo,048-072,Hickman Mills C-1,4045,Santa Fe Elem.,41.55%,,66.35%,Y,378,157
-mo,048-072,Hickman Mills C-1,3050-0,Smith-Hale Middle,58.79%,,66.35%,Y,1181,694
-mo,048-072,Hickman Mills C-1,4025,Symington Elem.,78.70%,,,N,324,255
-mo,048-072,Hickman Mills C-1,4030-2,Truman Elem.,66.83%,,66.35%,Y,326,218
-mo,048-072,Hickman Mills C-1,4035,Warford Elem.,57.93%,,66.35%,Y,384,222
-mo,068-071,High Point R-Iii,4020-86,High Point Elem.,13.64%,,,N,,
-mo,048-904,Hogan Preparatory Academ,3945  ,Hogan Preparatory Acad Middl,89.76%,,73.18%,Y,254,228
-mo,048-904,Hogan Preparatory Academ,6910  ,Hogan Preparatory Academy El,83.06%,,73.18%,Y,307,255
-mo,048-904,Hogan Preparatory Academ,1935,Hogan Preparatory Academy- H,53.06%,,73.18%,Y,360,191
-mo,035-094,Holcomb R-Iii,1050-83,Holcomb High,50.71%,,51.79%,Y,211,107
-mo,035-094,Holcomb R-Iii,4020-87,Holcomb Elem.,52.58%,,51.79%,Y,291,153
-mo,051-152,Holden R-Iii,1050-84,Holden High,20.35%,,,N,,
-mo,051-152,Holden R-Iii,3000-32,Holden Middle,25.67%,,,N,,
-mo,051-152,Holden R-Iii,4040-19,Holden Elementary,28.60%,,,N,,
-mo,106-005,Hollister R-V,1050-85,Hollister High,30.77%,,,N,481,148
-mo,106-005,Hollister R-V,3000-33,Hollister Middle,37.46%,,,N,291,109
-mo,106-005,Hollister R-V,4010-3,Hollister Early Childhood Ctr,45.00%,,,N,280,126
-mo,106-005,Hollister R-V,4020-88,Hollister Elem.,40.65%,,,N,369,150
-mo,048-925,Hope Leadership Academy    6985,6985  ,Hope Leadership Academy,84.69%,,84.69%,Y,98,83
-mo,107-152,Houston R-I,1050-86,Houston High,26.38%,,,N,,
-mo,107-152,Houston R-I,3000-34,Houston Middle,31.72%,,,N,227,72
-mo,107-152,Houston R-I,4020-89,Houston Elementary,34.15%,,,N,448,153
-mo,084-004,Humansville R-Iv,1050-87,Humansville High,40.86%,,57.30%,Y,84,34
-mo,084-004,Humansville R-Iv,3000-35,Humansville Middle,46.99%,,57.30%,Y,82,39
-mo,084-004,Humansville R-Iv,4020-90,Humansville Elem.,47.46%,,57.30%,Y,190,90
-mo,104-041,Hurley R-I,1050-88,Hurley High,37.37%,,,N,99,37
-mo,104-041,Hurley R-I,4020-91,Hurley Elem.,35.71%,,,N,112,40
-mo,048-077,Independence 30,1021-1,Independence Academy,51.82%,,,N,247,128
-mo,048-077,Independence 30,1050-89,Truman High,19.45%,,,N,,
-mo,048-077,Independence 30,1075-2,William Chrisman High,32.77%,,,N,1309,429
-mo,048-077,Independence 30,1090,Van Horn High,41.86%,,,N,958,401
-mo,048-077,Independence 30,3000-36,Bingham Seventh Grade Ctr.,40.63%,,,N,790,321
-mo,048-077,Independence 30,3050-1,Bridger Eighth Grade Ctr.,37.90%,,,N,818,310
-mo,048-077,Independence 30,3060-0,Clifford H. Nowlin Middle,47.13%,,,N,906,427
-mo,048-077,Independence 30,3070,Pioneer Ridge Sixth Grade Ctr.,24.88%,,,N,,
-mo,048-077,Independence 30,4040-20,Thomas Hart Benton Elem.,55.46%,,,N,449,249
-mo,048-077,Independence 30,4060-13,Blackburn Elem.,24.37%,,,N,,
-mo,048-077,Independence 30,4080-11,Bryant Elem.,41.25%,,,N,240,99
-mo,048-077,Independence 30,4100-1,Fairmount Elem.,54.31%,,,N,313,170
-mo,048-077,Independence 30,5010-1,Glendale Elem.,42.65%,,,N,483,206
-mo,048-077,Independence 30,5040-1,John W. Luff Elem.,33.42%,,,N,398,133
-mo,048-077,Independence 30,5070,Mill Creek Elem.,50.89%,,,N,281,143
-mo,048-077,Independence 30,5100,North Rock Creek/Korte Elem.,51.53%,,,N,588,303
-mo,048-077,Independence 30,6020-0,Ott Elem.,45.82%,,,N,467,214
-mo,048-077,Independence 30,6030,Procter Elem.,46.75%,,,N,231,108
-mo,048-077,Independence 30,6040-0,Randall Elem.,67.67%,,,N,266,180
-mo,048-077,Independence 30,6050,Santa Fe Trail Elem.,44.08%,,,N,456,201
-mo,048-077,Independence 30,6060,William Southern Elem.,43.89%,,,N,483,212
-mo,048-077,Independence 30,6070,Spring Branch Elem.,31.73%,,,N,271,86
-mo,048-077,Independence 30,6080,Sugar Creek Elem.,53.50%,,,N,200,107
-mo,048-077,Independence 30,6090,Sycamore Hills Elem.,31.18%,,,N,526,164
-mo,048-077,Independence 30,6100,Three Trails Elem.,44.05%,,,N,420,185
-mo,048-077,Independence 30,6120,Little Blue Elementary,24.62%,,,N,,
-mo,048-077,Independence 30,6130,Abraham Mallinson Elementary,56.95%,,,N,367,209
-mo,048-077,Independence 30,7500-7,Hanthorn Sch.,71.13%,,,N,291,207
-mo,048-077,Independence 30,7510-0,Sunshine Center,65.07%,,,N,146,95
-mo,047-065,Iron Co. C-4,1050-90,Viburnum High,,,48.29%,Y,206,
-mo,047-065,Iron Co. C-4,4050-3,Viburnum Elem.,,,48.29%,Y,144,
-mo,049-137,Jasper Co. R-V,1050-91,Jasper High,21.36%,,,N,,
-mo,049-137,Jasper Co. R-V,4020-92,Jasper Co. Elem.,30.80%,,,N,250,77
-mo,026-006,Jefferson City,1050-92,Jefferson City High,20.84%,,,N,,
-mo,026-006,Jefferson City,1055,Simonsen Ninth Grade Ctr.,32.30%,,,N,836,270
-mo,026-006,Jefferson City,3000-37,Lewis And Clark Middle,34.14%,,,N,949,324
-mo,026-006,Jefferson City,3020,Thomas Jefferson Middle,32.31%,,,N,1074,347
-mo,026-006,Jefferson City,4020-93,Belair Elem.,30.40%,,,N,421,128
-mo,026-006,Jefferson City,4025-0,Callaway Hills Elem.,38.93%,,60.50%,Y,299,116
-mo,026-006,Jefferson City,4030-3,Cedar Hill Elem.,24.87%,,,N,,
-mo,026-006,Jefferson City,4040-21,East Elem.,55.13%,,60.50%,Y,393,217
-mo,026-006,Jefferson City,4050-4,Clarence Lawson Elem.,34.88%,,,N,473,165
-mo,026-006,Jefferson City,4060-14,Moreau Heights Elem.,46.82%,,,N,346,162
-mo,026-006,Jefferson City,4070-3,North Elem.,23.53%,,,N,,
-mo,026-006,Jefferson City,4080-12,South Elem.,54.49%,,60.50%,Y,303,165
-mo,026-006,Jefferson City,5010-2,Pioneer Trail Elementary,28.26%,,,N,,
-mo,026-006,Jefferson City,5020-2,Thorpe J. Gordon Elem.,58.59%,,60.50%,Y,296,173
-mo,026-006,Jefferson City,5040-2,West Elem.,41.12%,,,N,321,132
-mo,026-006,Jefferson City,7500-8,Southwest Early Childhood Ctr,35.13%,,,N,279,98
-mo,026-006,Jefferson City,9003,H Kenneth Kirchner St Sch,37.50%,,,N,24,9
-mo,096-104,Jennings,1050-93,Jennings High,60.63%,,54.45%,Y,696,422
-mo,096-104,Jennings,2050-8,Jennings Jr. High,61.88%,,64.40%,Y,382,236
-mo,096-104,Jennings,4020-94,Fairview Primary,79.55%,,68.79%,Y,298,237
-mo,096-104,Jennings,4030-4,Fairview Intermediate,76.36%,,65.64%,Y,163,124
-mo,096-104,Jennings,4040-22,Northview Elem.,71.31%,,71.35%,Y,576,411
-mo,096-104,Jennings,4060-15,Woodland Elem.,81.75%,,71.11%,Y,270,221
-mo,096-104,Jennings,4070-4,Kenneth C. Hanrahan,77.29%,,63.35%,Y,191,148
-mo,049-148,Joplin Schools,1050-94,Joplin High,29.70%,,,N,,
-mo,049-148,Joplin Schools,3000-38,North Middle,45.69%,,,N,580,265
-mo,049-148,Joplin Schools,3030-0,South Middle School,31.88%,,,N,552,176
-mo,049-148,Joplin Schools,3050-2,East Middle School,36.54%,,,N,583,213
-mo,049-148,Joplin Schools,4030-5,Cecil Floyd Elem.,47.06%,,,N,527,248
-mo,049-148,Joplin Schools,4040-23,Columbia Elem.,39.62%,,,N,212,84
-mo,049-148,Joplin Schools,4060-16,Soaring Heights,39.32%,,,N,440,173
-mo,049-148,Joplin Schools,4100-2,Eastmorland Elem.,44.61%,,,N,269,120
-mo,049-148,Joplin Schools,4170-0,Irving Elem.,43.03%,,,N,502,216
-mo,049-148,Joplin Schools,4180-1,Jefferson Elem.,46.43%,,,N,224,104
-mo,049-148,Joplin Schools,4200-1,Kelsey Norman Elem.,33.66%,,,N,306,103
-mo,049-148,Joplin Schools,4260-1,Mckinley Elem.,65.80%,,,N,348,229
-mo,049-148,Joplin Schools,4300-0,Royal Heights Elem.,35.94%,,,N,217,78
-mo,049-148,Joplin Schools,4320-1,Stapleton Elem.,32.13%,,,N,389,125
-mo,049-148,Joplin Schools,4360,West Central Elem.,65.78%,,,N,225,148
-mo,049-148,Joplin Schools,7500-9,Joplin Early Childhood Center,4.15%,,,N,,
-mo,046-137,Junction Hill C-12,4020-95,Junction Hill Elem.,38.16%,,,N,228,87
-mo,048-078,Kansas City 33,5670  ,Ac Prep Elementary,68.30%,,70.88%,Y,438,299
-mo,048-078,Kansas City 33,1670,African Centered College Prepa,74.23%,,70.88%,Y,506,376
-mo,048-078,Kansas City 33,5440,B. Banneker Elem.,82.84%,,70.88%,Y,427,354
-mo,048-078,Kansas City 33,5780,Border Star Elementary,37.60%,,70.88%,Y,366,138
-mo,048-078,Kansas City 33,1130,C. R. Anderson Alternative,73.61%,,70.88%,Y,106,78
-mo,048-078,Kansas City 33,1200,Central Academy Of Excellence,85.30%,,70.88%,Y,442,377
-mo,048-078,Kansas City 33,3090  ,Central Middle School,89.51%,,70.88%,Y,455,407
-mo,048-078,Kansas City 33,1580,East High School,65.50%,,70.88%,Y,1068,700
-mo,048-078,Kansas City 33,4450,Faxon Elementary,81.41%,,70.88%,Y,286,233
-mo,048-078,Kansas City 33,4350,Foreign Language Academy,56.41%,,70.88%,Y,693,391
-mo,048-078,Kansas City 33,4460,Garfield Elem.,79.15%,,70.88%,Y,456,361
-mo,048-078,Kansas City 33,5020-3,George Melcher Elem.,97.12%,,70.88%,Y,361,351
-mo,048-078,Kansas City 33,4500,Gladstone Elem.,72.14%,,70.88%,Y,454,328
-mo,048-078,Kansas City 33,4270,Hale Cook Elem.,47.04%,,70.88%,Y,323,152
-mo,048-078,Kansas City 33,5450,Holliday Montessori,60.84%,,70.88%,Y,338,206
-mo,048-078,Kansas City 33,4700,James Elem.,81.02%,,70.88%,Y,279,226
-mo,048-078,Kansas City 33,4580,John T. Hartman Elem.,77.63%,,70.88%,Y,347,269
-mo,048-078,Kansas City 33,6960,Kansas City Neighborhood Acad,81.36%,,,N,220,179
-mo,048-078,Kansas City 33,1220,Lincoln College Prep.,23.25%,,70.88%,Y,831,193
-mo,048-078,Kansas City 33,4880,Longfellow Elementary,82.16%,,70.88%,Y,221,182
-mo,048-078,Kansas City 33,4750,M.L. King Elementary,95.42%,,70.88%,Y,374,357
-mo,048-078,Kansas City 33,1340,Northeast High,70.71%,,70.88%,Y,589,416
-mo,048-078,Kansas City 33,3100,Northeast Middle,72.22%,,70.88%,Y,765,552
-mo,048-078,Kansas City 33,1400,Paseo Acad. Of Performing Arts,55.15%,,70.88%,Y,501,276
-mo,048-078,Kansas City 33,5660,Phyllis Wheatley Elem.,75.00%,,70.88%,Y,444,333
-mo,048-078,Kansas City 33,5240,Pitcher Elem.,77.20%,,70.88%,Y,300,232
-mo,048-078,Kansas City 33,5630,Primitivo Garcia Elem.,82.01%,,70.88%,Y,314,258
-mo,048-078,Kansas City 33,5250,Richardson Elem.,95.13%,,70.88%,Y,266,253
-mo,048-078,Kansas City 33,4330,Rogers Elementary,75.93%,,70.88%,Y,582,442
-mo,048-078,Kansas City 33,5500,Swinney Elem,56.68%,,70.88%,Y,378,214
-mo,048-078,Kansas City 33,4310,Trailwoods Elementary,60.44%,,70.88%,Y,357,216
-mo,048-078,Kansas City 33,5580,Troost Elem.,94.02%,,70.88%,Y,339,319
-mo,048-078,Kansas City 33,5200,Wendell Phillips Elementary,86.17%,,70.88%,Y,283,244
-mo,048-078,Kansas City 33,5700,Whittier Elem.,72.52%,,70.88%,Y,451,327
-mo,048-078,Kansas City 33,4760,Wm. A. Knotts Elem. Magnet,33.80%,,70.88%,Y,71,24
-mo,048-078,Kansas City 33,5740,Woodland Elem.,89.25%,,70.88%,Y,271,242
-mo,048-078,Kansas City 33,3050  ,Lincoln College Academy Middle,,,70.88%,Y,403,
-mo,048-929,Kansas City Girls Prep Academy,3945  -0,Kansas City Girls Prep Academy,,,51.39%,Y,72,
-mo,048-912,Kc International Academy   6930,6930-0,Kc International - Wallace,89.44%,,93.62%,Y,658,589
-mo,035-102,Kennett 39,1050-95,Kennett High,39.88%,,54.48%,Y,505,201
-mo,035-102,Kennett 39,3000-39,Kennett Middle,54.57%,,54.48%,Y,447,244
-mo,035-102,Kennett 39,4040-24,H. Byron Masterson Elem.,62.60%,,54.48%,Y,416,260
-mo,035-102,Kennett 39,4080-13,South Elem.,54.14%,,54.48%,Y,475,257
-mo,013-062,Kingston 42,4020-96,Kingston Elem.,45.00%,,45.00%,Y,40,18
-mo,110-014,Kingston K-14,1050-96,Kingston High,45.50%,,52.65%,Y,215,98
-mo,110-014,Kingston K-14,3000-40,Kingston Middle,54.64%,,52.65%,Y,189,103
-mo,110-014,Kingston K-14,4020-97,Kingston Primary,55.40%,,52.65%,Y,212,117
-mo,110-014,Kingston K-14,4040-25,Kingston Elementary,56.54%,,52.65%,Y,195,110
-mo,115-914,Kipp St Louis,6970,Kipp Inspire Academy,75.60%,,75.41%,Y,377,285
-mo,115-914,Kipp St Louis,1905  -0,Kipp St. Louis High,69.65%,,75.41%,Y,201,140
-mo,115-914,Kipp St Louis,6973  ,Kipp Triumph Academy,72.35%,,75.41%,Y,387,280
-mo,115-914,Kipp St Louis,6971  ,Kipp Victory Academy,78.06%,,75.41%,Y,515,402
-mo,115-914,Kipp St Louis,6972  ,Kipp Wisdom Academy,77.71%,,75.41%,Y,489,380
-mo,115-914,Kipp St Louis,6974  ,Kipp Wonder Academy,,,75.41%,Y,44,
-mo,048-918,Kipp: Endeavor Academy,3920,Kipp: Endeavor Academy,56.82%,,62.62%,Y,535,304
-mo,080-118,La Monte R-Iv,1050-97,La Monte High,17.73%,,,N,,
-mo,080-118,La Monte R-Iv,4020-98,La Monte Elem.,25.24%,,,N,,
-mo,115-928,La Salle Charter School,3910  -0,La Salle Charter School,58.39%,,58.39%,Y,137,80
-mo,053-114,Laclede Co. C-5,4020-99,Joel E. Barber Elem.,46.08%,,50.95%,Y,420,194
-mo,093-123,Lakeland R-Iii,1050-98,Lakeland High,25.95%,,,N,,
-mo,093-123,Lakeland R-Iii,4020-100,Lakeland Elem.,41.28%,,,N,218,90
-mo,085-045,Laquey R-V,1050-99,Laquey R-V High,35.80%,,,N,162,58
-mo,085-045,Laquey R-V,3000-41,Laquey R-V Middle,45.00%,,,N,160,72
-mo,085-045,Laquey R-V,4020-101,Laquey R-V Elem.,37.61%,,,N,335,126
-mo,085-045,Laquey R-V,8001-0,Laquey Head Start,100.00%,,,N,12,12
-mo,053-113,Lebanon R-Iii,1020-3,Lebanon Alternative Educ. Ctr.,57.58%,,,N,33,19
-mo,053-113,Lebanon R-Iii,1050-100,Lebanon Sr. High,23.20%,,,N,,
-mo,053-113,Lebanon R-Iii,2050-9,Lebanon Middle School,27.61%,,,N,,
-mo,053-113,Lebanon R-Iii,4020-102,Joe D. Esther Elem.,36.55%,,,N,892,326
-mo,053-113,Lebanon R-Iii,4060-17,Maplecrest Elem.,34.26%,,,N,610,209
-mo,053-113,Lebanon R-Iii,4080-14,Boswell Elem.,29.26%,,,N,,
-mo,048-910,Lee A. Tolbert Com. Academ 6920,6920,Lee A. Tolbert Com. Academy,81.25%,,64.32%,Y,482,392
-mo,042-118,Leesville R-Ix,4020-103,Leesville Elem.,36.05%,,59.41%,Y,101,36
-mo,090-078,Lesterville R-Iv,1030,Lesterville Ranch Campus,67.31%,,,N,52,35
-mo,090-078,Lesterville R-Iv,1050-101,Lesterville High,29.03%,,,N,,
-mo,090-078,Lesterville R-Iv,4020-104,Lesterville Elem.,33.02%,,,N,106,35
-mo,006-101,Liberal R-Ii,1050-102,Liberal High,23.70%,,,N,,
-mo,006-101,Liberal R-Ii,3000-42,Liberal Middle,27.37%,,,N,,
-mo,006-101,Liberal R-Ii,4020-105,Liberal Elem.,30.54%,,,N,167,51
-mo,107-154,Licking R-Viii,1050-103,Licking High,26.27%,,40.05%,Y,421,111
-mo,107-154,Licking R-Viii,4020-106,Licking Elem.,44.37%,,40.05%,Y,428,190
-mo,115-902,Lift For Life Academy,1935  ,Lift For Life Academy High Sch,62.85%,,70.55%,Y,344,216
-mo,115-902,Lift For Life Academy,3910,Lift For Life Academy,74.14%,,70.55%,Y,274,203
-mo,115-902,Lift For Life Academy,6905  ,Lift For Life Academy Elem.,,,81.20%,Y,117,
-mo,008-106,Lincoln R-Ii,1050-104,Lincoln High,40.57%,,43.71%,Y,229,93
-mo,008-106,Lincoln R-Ii,4020-107,Lincoln Elem.,50.77%,,43.71%,Y,272,138
-mo,029-001,Lockwood R-I,1050-105,Lockwood High,17.82%,,,N,,
-mo,029-001,Lockwood R-I,3000-43,Lockwood Middle School,31.51%,,,N,73,23
-mo,029-001,Lockwood R-I,4020-108,Lockwood Elem.,35.66%,,,N,143,51
-mo,036-133,Lonedell R-Xiv,4020-109,Lonedell Elem.,35.90%,,,N,312,112
-mo,082-108,Louisiana R-Ii,1050-106,Louisiana High,23.19%,,,N,,
-mo,082-108,Louisiana R-Ii,3000-44,Louisiana Middle,33.53%,,,N,167,56
-mo,082-108,Louisiana R-Ii,4040-26,Louisiana Elem.,40.68%,,,N,354,144
-mo,115-645,Loyola Academy,3010,Loyola Academy,58.18%,,,N,55,32
-mo,077-104,Lutie R-Vi,1050-107,Lutie High,46.99%,,54.05%,Y,68,32
-mo,077-104,Lutie R-Vi,4020-110,Lutie Elem.,44.83%,,54.05%,Y,80,36
-mo,015-004,Macks Creek R-V,1050-108,Macks Creek High,32.17%,,41.27%,Y,137,44
-mo,015-004,Macks Creek R-V,4020-111,Macks Creek Elem.,45.18%,,41.27%,Y,195,88
-mo,035-092,Malden R-I,1050-109,Malden High,27.48%,,55.03%,Y,393,108
-mo,035-092,Malden R-I,4020-112,Malden Elem.,90.64%,,55.03%,Y,601,545
-mo,097-119,Malta Bend R-V,1050-110,Malta Bend High,63.16%,,0.00%,Y,N/A,
-mo,097-119,Malta Bend R-V,4020-113,Malta Bend Elem.,58.33%,,0.00%,Y,N/A,
-mo,114-116,Manes R-V,4020-114,Manes Elem.,39.34%,,,N,61,24
-mo,114-115,Mansfield R-Iv,1050-111,Mansfield High,42.19%,,,N,384,162
-mo,114-115,Mansfield R-Iv,4020-115,Wilder Elem.,51.87%,,,N,268,139
-mo,115-620,Marian Middle School,3000-45,Marian Middle School,36.76%,,,N,68,25
-mo,063-067,Maries Co. R-Ii,1050-112,Belle High,23.68%,,,N,,
-mo,063-067,Maries Co. R-Ii,3000-46,Maries Co. Middle,41.73%,,47.96%,Y,266,111
-mo,063-067,Maries Co. R-Ii,4020-116,Belle Elem.,54.62%,,47.96%,Y,249,136
-mo,084-005,Marion C. Early R-V,1050-113,Marion C. Early High,29.04%,,,N,,
-mo,084-005,Marion C. Early R-V,4020-117,Marion C. Early Elem.,33.47%,,,N,251,84
-mo,055-106,Marionville R-Ix,1050-114,Marionville High,26.37%,,,N,,
-mo,055-106,Marionville R-Ix,3000-47,Marionville Middle,35.00%,,,N,160,56
-mo,055-106,Marionville R-Ix,4020-118,Marionville Elem.,39.80%,,,N,407,162
-mo,062-070,Marquand-Zion R-Vi,1050-115,Marquand-Zion High,37.70%,,51.33%,Y,64,24
-mo,062-070,Marquand-Zion R-Vi,4020-119,Marquand Elem.,56.41%,,51.33%,Y,86,49
-mo,097-129,Marshal,7500-10,Prairie View,42.42%,,,N,132,56
-mo,097-129,Marshal,1050-116,Marshall Sr. High,26.43%,,,N,,
-mo,097-129,Marshal,3000-48,Bueker Middle,35.86%,,,N,739,265
-mo,097-129,Marshal,4020-120,Benton Elem.,41.98%,,,N,243,102
-mo,097-129,Marshal,4060-18,Eastwood Elem.,43.28%,,,N,238,103
-mo,097-129,Marshal,4080-15,Northwest Elem.,39.33%,,,N,239,94
-mo,097-129,Marshal,5000-2,Southeast Elem.,38.30%,,,N,235,90
-mo,097-129,Marshal,9056,Prairie View State School,71.43%,,,N,7,5
-mo,060-077,Mcdonald Co. R-I,1050-117,Mcdonald County High,28.88%,,,N,,
-mo,060-077,Mcdonald Co. R-I,3000-49,Anderson Middle,33.08%,,,N,263,87
-mo,060-077,Mcdonald Co. R-I,4020-121,Anderson Elem.,35.63%,,,N,536,191
-mo,060-077,Mcdonald Co. R-I,4040-27,Noel Elem.,51.11%,,,N,405,207
-mo,060-077,Mcdonald Co. R-I,4050-5,Noel Primary,50.60%,,,N,249,126
-mo,060-077,Mcdonald Co. R-I,4060-19,Pineville Elem.,37.69%,,,N,199,75
-mo,060-077,Mcdonald Co. R-I,4070-5,Pineville Primary,36.08%,,,N,97,35
-mo,060-077,Mcdonald Co. R-I,4080-16,Rocky Comfort Elem.,38.54%,,,N,192,74
-mo,060-077,Mcdonald Co. R-I,5000-3,Southwest City Elem.,40.52%,,,N,348,141
-mo,060-077,Mcdonald Co. R-I,5020-4,White Rock Elem.,37.32%,,,N,410,153
-mo,009-077,Meadow Heights R-Ii,1050-118,Meadow Heights High,27.41%,,,N,,
-mo,009-077,Meadow Heights R-Ii,3000-50,Meadow Heights Middle School,30.22%,,,N,139,42
-mo,009-077,Meadow Heights R-Ii,4020-122,Meadow Heights Elem.,39.60%,,,N,250,99
-mo,004-110,Mexico 59,1050-119,Mexico High,26.09%,,,N,,
-mo,004-110,Mexico 59,2050-10,Mexico Middle,38.58%,,42.44%,Y,509,196
-mo,004-110,Mexico 59,4020-123,Eugene Field Elem.,51.16%,,42.44%,Y,427,218
-mo,004-110,Mexico 59,4060-20,Hawthorne Elem.,37.92%,,42.44%,Y,453,172
-mo,004-110,Mexico 59,4080-17,Mcmillan Elem.,40.80%,,42.44%,Y,204,83
-mo,097-116,Miami R-I                                                  4020,4020-124,Miami Elem.,37.84%,,,N,74,28
-mo,069-104,Middle Grove C-1,4020-125,Middle Grove Elem.,42.86%,,,N,28,12
-mo,105-124,Milan C-2,1050-120,Milan High,33.33%,,,N,294,98
-mo,105-124,Milan C-2,4020-126,Milan Elem.,35.80%,,,N,352,126
-mo,055-104,Miller R-Ii,1050-121,Miller High,20.16%,,,N,,
-mo,055-104,Miller R-Ii,4020-127,Central Elem.,36.12%,,,N,299,108
-mo,024-091,Missouri City 56,4020-128,Missouri City Elem.,21.74%,,,N,,
-mo,088-081,Moberly,1020-4,North Central Regional,79.55%,,,N,44,35
-mo,088-081,Moberly,1050-122,Moberly Sr. High,28.41%,,,N,,
-mo,088-081,Moberly,3000-51,Moberly Middle,39.92%,,,N,516,206
-mo,088-081,Moberly,4020-129,Gratz Brown Elem.,46.59%,,,N,513,239
-mo,088-081,Moberly,4060-21,North Park Elem.,46.89%,,,N,241,113
-mo,088-081,Moberly,4080-18,South Park Elem.,52.94%,,,N,374,198
-mo,005-128,Monett R-I,1050-123,Monett High,21.94%,,,N,,
-mo,005-128,Monett R-I,3000-52,Monett Middle,31.47%,,,N,394,124
-mo,005-128,Monett R-I,4000,Central Park Elem.,40.50%,,,N,358,145
-mo,005-128,Monett R-I,4020-130,Monett Elem.,36.47%,,,N,595,217
-mo,005-128,Monett R-I,4040-28,Monett Intermediate,30.65%,,,N,372,114
-mo,005-128,Monett R-I,9034,Oakview State School,20.00%,,,N,,
-mo,069-106,Monroe City R-I,1050-124,Monroe City R-I High,19.01%,,,N,,
-mo,069-106,Monroe City R-I,3000-53,Monroe City Middle,32.51%,,,N,203,66
-mo,069-106,Monroe City R-I,4040-29,Monroe City Elem.,41.11%,,,N,270,111
-mo,070-093,Montgomery Co. R-Ii,1050-125,Montgomery Co. High,23.18%,,,N,,
-mo,070-093,Montgomery Co. R-Ii,3000-54,Montgomery Co. Middle,30.99%,,,N,284,88
-mo,070-093,Montgomery Co. R-Ii,4040-30,Jonesburg Elem.,43.24%,,,N,185,80
-mo,070-093,Montgomery Co. R-Ii,4060-22,Montgomery City Elem.,33.74%,,,N,329,111
-mo,071-091,Morgan Co. R-I,1050-126,Morgan Co. R-I High,47.44%,,50.49%,Y,279,132
-mo,071-091,Morgan Co. R-I,4020-131,Morgan Co. R-I Elem.,47.90%,,50.49%,Y,430,206
-mo,071-092,Morgan Co. R-Ii,1050-127,Morgan Co. High,32.00%,,,N,350,112
-mo,071-092,Morgan Co. R-Ii,3000-55,Morgan Co. Middle,36.64%,,,N,333,122
-mo,071-092,Morgan Co. R-Ii,4020-132,Morgan Co. Elem.,40.66%,,,N,610,248
-mo,071-092,Morgan Co. R-Ii,4040-31,Morgan Co. South Elem.,46.48%,,,N,71,33
-mo,115-402,Most Holy Trinity School,4020-133,Holy Trinity,41.73%,,,N,127,53
-mo,114-114,Mountain Grove R-Iii,1050-128,Mountain Grove High,28.21%,,,N,,
-mo,114-114,Mountain Grove R-Iii,3000-56,Mountain Grove Middle,37.56%,,,N,434,163
-mo,114-114,Mountain Grove R-Iii,4020-134,Mountain Grove Elem.,39.58%,,,N,528,209
-mo,114-114,Mountain Grove R-Iii,9030,Skyview State School,100.00%,,,N,11,11
-mo,046-130,Mountain View-Birch Tree R,4010-4,Birch Tree Elem.,56.22%,,52.14%,Y,176,99
-mo,046-130,Mountain View-Birch Tree R,4020-135,Mountain View Elem.,45.16%,,52.14%,Y,503,227
-mo,046-130,Mountain View-Birch Tree R,1050-129,Liberty Sr. High,31.94%,,,N,335,107
-mo,046-130,Mountain View-Birch Tree R,3000-57,Liberty Middle,44.01%,,,N,284,125
-mo,091-091,Naylor R-Ii,1050-130,Naylor High,37.31%,,,N,193,72
-mo,091-091,Naylor R-Ii,4020-136,Naylor Elem.,47.93%,,,N,217,104
-mo,012-108,Neelyville R-Iv,1050-131,Neelyville High,32.51%,,,N,243,79
-mo,012-108,Neelyville R-Iv,4040-32,Hillview Elem.,48.96%,,,N,192,94
-mo,012-108,Neelyville R-Iv,4060-23,Neelyville Elem.,41.62%,,,N,197,82
-mo,016-097,Nell Holcomb R-Iv,4020-137,Nell Holcomb Elem.,35.77%,,,N,274,98
-mo,108-142,Nevada R-V,1050-132,Nevada High,26.15%,,,N,,
-mo,108-142,Nevada R-V,3000-58,Nevada Middle,31.83%,,,N,578,184
-mo,108-142,Nevada R-V,4020-138,Benton Elem.,37.06%,,,N,170,63
-mo,108-142,Nevada R-V,4040-33,Bryan Elem.,40.71%,,,N,452,184
-mo,108-142,Nevada R-V,4080-19,Truman Elem.,35.73%,,,N,529,189
-mo,108-142,Nevada R-V,9066,Cedar Ridge State School,14.29%,,,N,,
-mo,045-076,New Franklin R-I,1050-133,New Franklin Middle-High,24.38%,,,N,,
-mo,045-076,New Franklin R-I,4020-139,New Franklin Elem.,23.08%,,,N,,
-mo,036-138,New Haven,1050-134,New Haven High,13.71%,,,N,,
-mo,036-138,New Haven,3000-59,New Haven Middle,26.76%,,,N,,
-mo,036-138,New Haven,4020-140,New Haven Elem.,25.00%,,,N,,
-mo,072-074,New Madrid Co. R-I,1060-3,Central High,47.38%,,56.65%,Y,363,172
-mo,072-074,New Madrid Co. R-I,3000-60,Central Middle,54.19%,,56.65%,Y,310,168
-mo,072-074,New Madrid Co. R-I,4100-3,Lilbourn Elem.,76.32%,,56.65%,Y,304,232
-mo,072-074,New Madrid Co. R-I,4120,Matthews Elem.,59.18%,,56.65%,Y,147,87
-mo,072-074,New Madrid Co. R-I,4140-1,New Madrid Elem.,47.81%,,56.65%,Y,251,120
-mo,013-057,New York R-Iv,4020-141,New York Elem.,28.57%,,,N,,
-mo,081-095,Newburg R-Ii,1050-135,Newburg High,34.33%,,,N,201,69
-mo,081-095,Newburg R-Ii,4020-142,Newburg Elem.,34.39%,,,N,221,76
-mo,112-099,Niangua R-V,1050-136,Niangua High,25.97%,,,N,,
-mo,112-099,Niangua R-V,3000-61,Niangua Middle School,40.85%,,,N,71,29
-mo,112-099,Niangua R-V,4020-143,Niangua Elem.,43.16%,,,N,190,82
-mo,096-109,Normandy,4010  ,Barack Obama Elementary Scho,80.45%,,71.08%,Y,389,313
-mo,096-109,Normandy,4180-2,Casa Center For Academics And Soci,59.26%,,71.08%,Y,94,56
-mo,096-109,Normandy,4100-4,Jefferson Elem.,70.68%,,71.08%,Y,307,217
-mo,096-109,Normandy,4145,Lucas Crossing Elementary Com,79.23%,,71.08%,Y,680,539
-mo,096-109,Normandy,5020-5,Normandy Early Learning Cent,79.47%,,71.08%,Y,427,339
-mo,096-109,Normandy,1050-137,Normandy High,82.35%,,71.08%,Y,529,436
-mo,096-109,Normandy,3000-62,Normandy Middle,73.80%,,,N,416,307
-mo,096-109,Normandy,4160-1,Washington Elem.,77.37%,,71.08%,Y,342,265
-mo,096-109,Normandy,4090  ,Belnor Elementary,,,71.08%,Y,354,
-mo,014-126,North Callaway Co. R-I,1050-138,North Callaway High,22.92%,,,N,,
-mo,014-126,North Callaway Co. R-I,4020-144,Auxvasse Elem.,38.99%,,,N,318,124
-mo,014-126,North Callaway Co. R-I,4040-34,Hatton-Mccredie Elem.,30.54%,,,N,298,91
-mo,014-126,North Callaway Co. R-I,4060-24,Williamsburg Elem.,39.86%,,,N,143,57
-mo,031-118,North Daviess R-Iii,1050-139,North Daviess High,42.86%,,63.86%,Y,32,14
-mo,031-118,North Daviess R-Iii,4020-145,North Daviess Elem.,62.86%,,63.86%,Y,51,32
-mo,078-001,North Pemiscot Co. R-I,1050-140,North Pemiscot Sr. High,46.34%,,45.00%,Y,129,60
-mo,078-001,North Pemiscot Co. R-I,4020-146,Ross Elem.,50.00%,,45.00%,Y,91,46
-mo,115-913,North Side Community Sch,6965,North Side Community School   57.47%,57.47%,,62.97%,Y,316,182
-mo,115-913,North Side Community Sch,6970  ,North Side Community-Grand C 75.34%,75.34%,,62.97%,Y,N/A,
-mo,094-083,North St. Francois Co. R-I,1050-141,North Co. Sr. High,52.78%,,,N,900,475
-mo,094-083,North St. Francois Co. R-I,3000-63,North Co. Middle,61.78%,,,N,437,270
-mo,094-083,North St. Francois Co. R-I,4020-147,North County Primary,67.72%,,,N,731,495
-mo,094-083,North St. Francois Co. R-I,4030-6,Intermediate Sch.,62.75%,,,N,494,310
-mo,094-083,North St. Francois Co. R-I,4040-35,North County Parkside Elem.,62.32%,,,N,422,263
-mo,033-094,North Wood R-Iv,4020-148,North Wood Elem.,58.88%,,,N,214,126
-mo,114-112,Norwood R-I,1050-142,Norwood High,39.77%,,,N,171,68
-mo,114-112,Norwood R-I,4020-149,Norwood Elem.,40.29%,,,N,206,83
-mo,048-423,Nova Center,4020-150,Nova Center,75.00%,,,N,24,18
-mo,048-070,Oak Grove R-Vi,1050-143,Oak Grove High,7.69%,,,N,,
-mo,048-070,Oak Grove R-Vi,3000-64,Oak Grove Middle,15.61%,,,N,,
-mo,048-070,Oak Grove R-Vi,4020-151,Oak Grove Elem.,16.45%,,,N,,
-mo,048-070,Oak Grove R-Vi,4040-36,Oak Grove Primary,22.32%,,,N,,
-mo,033-091,Oak Hill R-I,4020-152,Oak Hill Elem.,40.74%,,,N,135,55
-mo,075-086,Oregon-Howell R-Iii,1050-144,Koshkonong High,42.27%,,,N,97,41
-mo,075-086,Oregon-Howell R-Iii,4020-153,Koshkonong Elem.,47.13%,,,N,157,74
-mo,076-081,Osage Co. R-I,1050-145,Chamois High,19.51%,,,N,,
-mo,076-081,Osage Co. R-I,4020-154,Osage Co. Elem.,31.18%,,,N,93,29
-mo,093-124,Osceola,4020-155,Osceola Elem.,44.27%,,,N,262,116
-mo,096-431,Our Lady Of Guadalupe Sch                   4020,4020-156,Our Lady Of Guadalup,72.25%,,,N,191,138
-mo,083-005,Park Hill,1020-5,Lead Innovation Studio,11.43%,,,N,,
-mo,083-005,Park Hill,1050-146,Park Hill High,10.00%,,,N,,
-mo,083-005,Park Hill,1080,Park Hill South High,7.95%,,,N,,
-mo,083-005,Park Hill,3000-65,Lakeview Middle,11.71%,,,N,,
-mo,083-005,Park Hill,3030-1,Congress Middle,13.13%,,,N,,
-mo,083-005,Park Hill,3050-3,Plaza Middle,15.60%,,,N,,
-mo,083-005,Park Hill,4020-157,Thomas B. Chinn Elem.,19.92%,,,N,,
-mo,083-005,Park Hill,4040-37,Graden Elem.,11.44%,,,N,,
-mo,083-005,Park Hill,4060-25,Line Creek Elem.,17.09%,,,N,,
-mo,083-005,Park Hill,4080-20,Alfred L. Renner Elem.,15.12%,,,N,,
-mo,083-005,Park Hill,5000-4,Southeast Elem.,19.33%,,,N,,
-mo,083-005,Park Hill,5020-6,Union Chapel Elem.,7.08%,,,N,,
-mo,083-005,Park Hill,5040-3,English Landing Elem.,14.12%,,,N,,
-mo,083-005,Park Hill,5060-0,Prairie Point Elem.,10.00%,,,N,,
-mo,083-005,Park Hill,5080-0,Hawthorn Elem.,10.05%,,,N,,
-mo,083-005,Park Hill,5090,Tiffany Ridge Elementary Schl,12.11%,,,N,,
-mo,083-005,Park Hill,6000-0,Park Hill Day Sch.,17.24%,,,N,,
-mo,083-005,Park Hill,7500-11,Park Hill Early Chldhood Ctr,23.89%,,,N,,
-mo,048-921,Pathway Academy                 6970,6970-0,Pathway Academy Elementary,62.13%,,,N,169,105
-mo,078-003,Pemiscot Co. R-Iii,4020-158,Floyd E. Hamlett Elem.,32.87%,,,N,143,47
-mo,080-122,Pettis Co. R-Xii,4020-159,Pettis Co. Elem.,45.77%,,52.63%,Y,152,70
-mo,081-097,Phelps Co. R-Iii,4020-160,Phelps Co. Elem.,35.26%,,,N,173,61
-mo,055-105,Pierce City R-Vi,1050-147,Pierce City High,27.83%,,,N,,
-mo,055-105,Pierce City R-Vi,3000-66,Pierce City Middle,34.42%,,,N,215,74
-mo,055-105,Pierce City R-Vi,4020-161,Central Elem.,35.92%,,,N,284,102
-mo,034-122,Plainview R-Viii,4020-162,Plainview Elem.,35.35%,,,N,99,35
-mo,084-006,Pleasant Hope R-Vi,1050-148,Pleasant Hope High,25.88%,,,N,,
-mo,084-006,Pleasant Hope R-Vi,3000-67,Pleasant Hope Middle,29.66%,,,N,,
-mo,084-006,Pleasant Hope R-Vi,4020-163,Pleasant Hope Elem.,39.91%,,,N,233,93
-mo,012-109,Poplar Bluff R-I,1050-149,Poplar Bluff High,32.97%,,,N,1298,428
-mo,012-109,Poplar Bluff R-I,2050-11,Poplar Bluff Jr. High,43.96%,,,N,762,335
-mo,012-109,Poplar Bluff R-I,4020-164,Eugene Field Elem.,69.49%,,56.80%,Y,332,231
-mo,012-109,Poplar Bluff R-I,4040-38,Poplar Bluff 5Th & 6Th Ctr.,46.60%,,,N,1146,534
-mo,012-109,Poplar Bluff R-I,4080-21,Lake Road Elem.,66.39%,,56.80%,Y,184,122
-mo,012-109,Poplar Bluff R-I,5020-7,Mark Twain Kindergarten Ctr.,58.18%,,56.80%,Y,386,225
-mo,012-109,Poplar Bluff R-I,5040-4,Oak Grove Elem.,35.67%,,56.80%,Y,327,117
-mo,012-109,Poplar Bluff R-I,5060-1,O'Neal Elem.,46.72%,,56.80%,Y,362,169
-mo,012-109,Poplar Bluff R-I,7500-12,Kinyon Early Childhood Ctr.,21.52%,,56.80%,Y,48,10
-mo,072-068,Portageville,1050-150,Portageville High,40.05%,,,N,377,151
-mo,072-068,Portageville,4020-165,Portageville Elem.,55.62%,,59.07%,Y,364,202
-mo,110-029,Potosi R-Iii,4040-39,Trojan Intermediate,44.53%,,45.19%,Y,515,229
-mo,110-029,Potosi R-Iii,1050-151,Potosi High,36.01%,,45.19%,Y,649,234
-mo,110-029,Potosi R-Iii,4080-22,Potosi Elem.,45.74%,,45.19%,Y,675,309
-mo,110-029,Potosi R-Iii,3000-68,John A. Evans Middle,46.55%,,45.19%,Y,338,157
-mo,110-029,Potosi R-Iii,9024,Citadel State School,,,45.19%,Y,7,
-mo,027-057,Prairie Home R-V,1050-152,Prairie Home High,42.47%,,,N,73,31
-mo,027-057,Prairie Home R-V,4020-166,Prairie Home Elem.,53.66%,,,N,82,44
-mo,115-903,Premier Charter School,6915-0,St. Louis Charter Sch.,34.62%,,,N,930,322
-mo,103-130,Puxico R-Viii,1050-153,Puxico High,32.55%,,,N,212,69
-mo,103-130,Puxico R-Viii,2050-12,Puxico Jr High,43.11%,,,N,167,72
-mo,103-130,Puxico R-Viii,4020-167,Puxico Elem.,41.53%,,,N,366,152
-mo,107-158,Raymondville R-Vii,4020-168,Raymondville Elem.,47.02%,,,N,151,71
-mo,048-073,Raytown C-2,1020-6,Raytown Education Ctr.,50.41%,,,N,121,61
-mo,048-073,Raytown C-2,1050-154,Raytown Sr. High,28.50%,,,N,,
-mo,048-073,Raytown C-2,1075-3,Raytown South Sr. High,35.73%,,,N,1083,387
-mo,048-073,Raytown C-2,1100,Herndon Career Ctr.,5.56%,,,N,,
-mo,048-073,Raytown C-2,3000-69,Raytown Middle,38.18%,,,N,833,318
-mo,048-073,Raytown C-2,3010-0,South Middle,45.76%,,,N,566,259
-mo,048-073,Raytown C-2,3020-0,Raytown Central Middle,34.68%,,,N,594,206
-mo,048-073,Raytown C-2,4020-169,Blue Ridge Elem.,42.51%,,,N,581,247
-mo,048-073,Raytown C-2,4060-26,Eastwood Hills Elem.,57.06%,,,N,361,206
-mo,048-073,Raytown C-2,4070-6,Fleetridge Elem.,36.01%,,,N,336,121
-mo,048-073,Raytown C-2,4080-23,Laurel Hills Elem.,42.64%,,,N,394,168
-mo,048-073,Raytown C-2,4090-1,Little Blue Elementary,38.74%,,,N,413,160
-mo,048-073,Raytown C-2,5000-5,Norfleet Elem.,34.58%,,,N,373,129
-mo,048-073,Raytown C-2,5040-5,Robinson Elem.,31.75%,,,N,378,120
-mo,048-073,Raytown C-2,5060-2,Southwood Elem.,42.22%,,,N,360,152
-mo,048-073,Raytown C-2,5080-1,Spring Valley Elem.,49.65%,,,N,427,212
-mo,048-073,Raytown C-2,6000-1,Westridge Elem.,49.11%,,,N,338,166
-mo,048-073,Raytown C-2,6010-0,Northwood Sch.,47.50%,,,N,40,19
-mo,048-073,Raytown C-2,7510-1,Three Trails Preschool,46.61%,,,N,251,117
-mo,104-044,Reeds Spring R-Iv,1020-7,New Horizons Alternative,45.00%,,,N,20,9
-mo,104-044,Reeds Spring R-Iv,1050-155,Reeds Spring High,26.19%,,,N,,
-mo,104-044,Reeds Spring R-Iv,3000-70,Reeds Spring Middle,31.65%,,,N,278,88
-mo,104-044,Reeds Spring R-Iv,4020-170,Reeds Spring Primary,36.90%,,,N,271,100
-mo,104-044,Reeds Spring R-Iv,4030-7,Reeds Spring Elem.,40.55%,,,N,402,163
-mo,104-044,Reeds Spring R-Iv,4040-40,Reeds Spring Intermediate,41.50%,,,N,253,105
-mo,007-124,Rich Hill R-Iv,1050-156,Rich Hill High,29.53%,,,N,,
-mo,007-124,Rich Hill R-Iv,4020-171,Rich Hill Elem.,32.53%,,,N,166,54
-mo,046-132,Richards R-V,4020-172,Richards Elem.,42.32%,,,N,397,168
-mo,103-127,Richland R-I,1050-157,Richland High,25.38%,,,N,,
-mo,103-127,Richland R-I,4040-41,Richland Elem.,43.50%,,,N,177,77
-mo,085-044,Richland R-Iv,1050-158,Richland High,27.82%,,,N,,
-mo,085-044,Richland R-Iv,4020-173,Richland Elem.,41.98%,,50.17%,Y,303,127
-mo,110-030,Richwoods R-Vii,4020-174,Richwoods Elem.,81.87%,,60.00%,Y,190,156
-mo,041-005,Ridgeway R-V,1050-159,Ridgeway High,37.50%,,,N,32,12
-mo,041-005,Ridgeway R-V,4020-175,Ridgeway Elem.,45.83%,,,N,48,22
-mo,091-095,Ripley Co. R-Iii,4020-176,Ripley Co. Elem.,44.16%,,43.90%,Y,82,36
-mo,091-093,Ripley Co. R-Iv,4040-42,Ripley Co. Elem.,53.45%,,,N,116,62
-mo,072-066,Risco R-Ii,1050-160,Risco High,36.36%,,,N,88,32
-mo,072-066,Risco R-Ii,4020-177,Risco Elem.,47.06%,,,N,119,56
-mo,096-110,Ritenour,1050-161,Ritenour Sr. High,37.87%,,46.55%,Y,1752,663
-mo,096-110,Ritenour,3000-71,Hoech Middle,40.63%,,46.55%,Y,725,295
-mo,096-110,Ritenour,3050-4,Ritenour Middle,46.71%,,46.55%,Y,611,285
-mo,096-110,Ritenour,4020-178,Buder Elem.,43.90%,,46.55%,Y,508,223
-mo,096-110,Ritenour,4100-5,Iveland Elem.,45.93%,,46.55%,Y,512,235
-mo,096-110,Ritenour,4120-0,Kratz Elem.,56.16%,,46.55%,Y,533,299
-mo,096-110,Ritenour,4140-2,Marion Elem.,47.51%,,46.55%,Y,494,235
-mo,096-110,Ritenour,4160-2,Marvin Elem.,46.74%,,46.55%,Y,554,259
-mo,096-110,Ritenour,4220-0,Wyland Elem.,36.96%,,46.55%,Y,535,198
-mo,096-110,Ritenour,7500-13,Early Childhood Ctr.,24.59%,,,N,,
-mo,115-499,River Roads Lutheran Sch,4020-179,River Roads Elem,57.89%,,,N,76,44
-mo,096-111,Riverview Gardens,1050-162,Riverview Gardens Sr. High,71.39%,,79.51%,Y,1108,791
-mo,096-111,Riverview Gardens,3000-72,R. G. Central Middle,79.32%,,79.51%,Y,763,605
-mo,096-111,Riverview Gardens,4020-180,Danforth Elem.,80.00%,,79.51%,Y,295,236
-mo,096-111,Riverview Gardens,4040-43,Westview Middle,77.65%,,79.51%,Y,632,491
-mo,096-111,Riverview Gardens,4050-6,Gibson Elem.,79.24%,,79.51%,Y,498,395
-mo,096-111,Riverview Gardens,4060-27,Glasgow Elem.,86.15%,,79.51%,Y,315,271
-mo,096-111,Riverview Gardens,4080-24,Highland Elem.,88.02%,,79.51%,Y,315,277
-mo,096-111,Riverview Gardens,5000-6,Lemasters Elem.,80.75%,,79.51%,Y,314,254
-mo,096-111,Riverview Gardens,5020-8,Lewis And Clark Elem.,92.95%,,79.51%,Y,143,133
-mo,096-111,Riverview Gardens,5040-6,Meadows Elem.,84.99%,,79.51%,Y,361,307
-mo,096-111,Riverview Gardens,6020-1,Koch Elem.,83.58%,,79.51%,Y,322,269
-mo,096-111,Riverview Gardens,6040-1,Moline Elem.,83.54%,,79.51%,Y,366,306
-mo,096-111,Riverview Gardens,7530,Early Childhood Nort,74.45%,,79.51%,Y,248,185
-mo,093-121,Roscoe C-1,4020-181,Roscoe Elem.,68.33%,,,N,60,41
-mo,033-090,Salem R-80,1050-163,Salem Sr. High,24.91%,,41.12%,Y,554,138
-mo,033-090,Salem R-80,2050-13,Salem Middle School,42.15%,,41.12%,Y,225,95
-mo,033-090,Salem R-80,4020-182,Wm. H. Lynch Elem.,43.25%,,41.12%,Y,263,114
-mo,033-090,Salem R-80,4040-44,Salem Upper Elem.,48.71%,,41.12%,Y,327,159
-mo,033-090,Salem R-80,9061,Ozark Hills State School,18.18%,,,N,,
-mo,049-140,Sarcoxie R-Ii,1050-164,Sarcoxie High,30.59%,,,N,438,134
-mo,049-140,Sarcoxie R-Ii,4020-183,Wildwood Elem.,36.65%,,,N,322,118
-mo,100-059,Scott City R-I,1050-165,Scott City High,26.05%,,,N,,
-mo,100-059,Scott City R-I,3000-73,Scott City Middle,35.04%,,,N,254,89
-mo,100-059,Scott City R-I,4020-184,Scott City Elem.,41.67%,,,N,336,140
-mo,100-062,Scott Co. Central,1050-166,Scott Co. Central High,39.55%,,57.95%,Y,129,51
-mo,100-062,Scott Co. Central,4020-185,Scott Co. Central Elem.,59.29%,,57.95%,Y,173,103
-mo,048-915,Scuola Vita Nuova                                  6945,6945,Scuola Vita Nuova,53.21%,,,N,280,149
-mo,080-125,Sedalia 200,1020-8,Whittier Alternative High Sch,71.28%,,,N,94,67
-mo,080-125,Sedalia 200,1050-167,Smith Cotton High,32.90%,,,N,1237,407
-mo,080-125,Sedalia 200,2000,Smith Cotton Junior High Schl,43.80%,,,N,1169,512
-mo,080-125,Sedalia 200,3000-74,Sedalia Middle,43.01%,,,N,386,166
-mo,080-125,Sedalia 200,4020-186,Heber Hunt Elem.,58.76%,,,N,451,265
-mo,080-125,Sedalia 200,4030-8,Parkview Elem.,49.69%,,,N,481,239
-mo,080-125,Sedalia 200,4040-45,Horace Mann Elem.,54.68%,,,N,278,152
-mo,080-125,Sedalia 200,4050-7,Skyline Elem.,28.86%,,,N,,
-mo,080-125,Sedalia 200,5020-9,Washington Elem.,58.96%,,,N,251,148
-mo,080-125,Sedalia 200,7500-14,Early Childhood Ctr.,50.90%,,,N,222,113
-mo,035-098,Senath-Hornersville C-8,1050-168,Senath-Hornersville Sr. High,37.69%,,57.87%,Y,210,79
-mo,035-098,Senath-Hornersville C-8,3000-75,Hornersville Middle,46.12%,,57.87%,Y,220,101
-mo,035-098,Senath-Hornersville C-8,4010-5,Senath Elem.,55.03%,,57.87%,Y,313,172
-mo,042-113,Shawnee R-Iii,4020-187,Shawnee Elem.,18.60%,,,N,,
-mo,108-144,Sheldon R-Viii,1050-169,Sheldon High,26.51%,,,N,,
-mo,108-144,Sheldon R-Viii,4020-188,Sheldon Elem.,49.47%,,,N,95,47
-mo,005-127,Shell Knob 78,4020-189,Shell Knob Elem.,52.45%,,52.45%,Y,143,75
-mo,100-063,Sikeston R-6,1020-9,Bailey Alternate School,72.09%,,51.66%,Y,86,62
-mo,100-063,Sikeston R-6,1050-170,Sikeston Sr. High,35.55%,,51.66%,Y,813,289
-mo,100-063,Sikeston R-6,2050-14,Sikeston Jr. High,41.41%,,51.66%,Y,495,205
-mo,100-063,Sikeston R-6,3050-5,Sikeston Middle,57.81%,,51.66%,Y,557,322
-mo,100-063,Sikeston R-6,4020-190,Sikeston Kindergarten Ctr.,55.58%,,51.66%,Y,403,224
-mo,100-063,Sikeston R-6,4040-46,Lee Hunter Elem.,55.25%,,51.66%,Y,400,221
-mo,100-063,Sikeston R-6,4050-8,Matthews Elem.,70.16%,,51.66%,Y,315,221
-mo,100-063,Sikeston R-6,4070-7,Southeast Elem.,64.86%,,51.66%,Y,313,203
-mo,034-121,Skyline R-Ii,4020-191,Skyline Elem.,47.78%,,,N,90,43
-mo,097-130,Slater,1050-171,Slater High,38.14%,,47.97%,Y,125,48
-mo,097-130,Slater,4020-192,Alexander Elem.,40.00%,,47.97%,Y,244,98
-mo,047-060,South Iron Co. R-I,1050-172,South Iron High,24.17%,,,N,,
-mo,047-060,South Iron Co. R-I,4020-193,South Iron Elem.,44.77%,,,N,172,77
-mo,078-005,South Pemiscot Co. R-V,1050-173,South Pemiscot High,38.68%,,46.91%,Y,254,98
-mo,078-005,South Pemiscot Co. R-V,4020-194,East Elementary,51.65%,,46.91%,Y,275,142
-mo,078-005,South Pemiscot Co. R-V,4020-195,Central Elementary,,,46.91%,Y,275,
-mo,090-076,Southern Reynolds Co. R-Ii,1050-174,Southern High,32.33%,,,N,266,86
-mo,090-076,Southern Reynolds Co. R-Ii,4020-196,Southern Elem.,38.72%,,,N,235,91
-mo,035-099,Southland C-9,1050-175,Southland High,45.45%,,55.92%,Y,99,45
-mo,035-099,Southland C-9,4020-197,Southland Elem.,63.01%,,55.92%,Y,146,92
-mo,005-121,Southwest R-V,1050-176,Southwest High,34.98%,,,N,203,71
-mo,005-121,Southwest R-V,3000-76,Southwest Middle,36.12%,,,N,263,95
-mo,005-121,Southwest R-V,4020-198,Southwest Elem.,42.48%,,,N,306,130
-mo,096-119,Special School Dst. St. Louis,1059,Hiram Neuwoehner,20.63%,,,N,,
-mo,096-119,Special School Dst. St. Louis,1069,Southview,18.63%,,,N,,
-mo,096-119,Special School Dst. St. Louis,1089,Northview,51.11%,,41.02%,Y,180,92
-mo,096-119,Special School Dst. St. Louis,1100-0,North County Technical,37.61%,,41.02%,Y,763,287
-mo,096-119,Special School Dst. St. Louis,1150,South County Technical,15.15%,,,N,,
-mo,096-119,Special School Dst. St. Louis,4029,Ackerman Sch.,55.36%,,58.20%,Y,189,105
-mo,096-119,Special School Dst. St. Louis,4069,Litzsinger,46.72%,,41.02%,Y,137,64
-mo,040-101,Spickard R-Ii,4020-199,Spickard Elem.,36.00%,,50.00%,Y,20,7
-mo,039-141,Springfield R-Xii,1020-10,Study Alternative High,69.37%,,,N,222,154
-mo,039-141,Springfield R-Xii,1050-177,Central High,32.79%,,,N,1708,560
-mo,039-141,Springfield R-Xii,1075-4,Glendale High,15.51%,,,N,,
-mo,039-141,Springfield R-Xii,1080-0,Hillcrest High,37.26%,,,N,977,364
-mo,039-141,Springfield R-Xii,1085,Kickapoo High,10.50%,,,N,,
-mo,039-141,Springfield R-Xii,1095,Parkview High,34.45%,,,N,1289,444
-mo,039-141,Springfield R-Xii,3000-77,Carver Middle,33.38%,,,N,737,246
-mo,039-141,Springfield R-Xii,3020-1,Cherokee Middle,11.13%,,,N,,
-mo,039-141,Springfield R-Xii,3040-0,Hickory Hills Middle,31.09%,,,N,505,157
-mo,039-141,Springfield R-Xii,3060-1,Jarrett Middle,43.94%,,,N,487,214
-mo,039-141,Springfield R-Xii,3080,Pershing Middle,24.21%,,,N,,
-mo,039-141,Springfield R-Xii,3100-0,Pipkin Middle,56.01%,,,N,557,312
-mo,039-141,Springfield R-Xii,3120,Pleasant View Middle,26.93%,,,N,,
-mo,039-141,Springfield R-Xii,3140,Reed Middle,51.01%,,,N,690,352
-mo,039-141,Springfield R-Xii,3160,Westport Middle,64.62%,,,N,455,294
-mo,039-141,Springfield R-Xii,4040-47,Bingham Elem.,56.40%,,,N,383,216
-mo,039-141,Springfield R-Xii,4060-28,Bissett Elem.,59.92%,,,N,257,154
-mo,039-141,Springfield R-Xii,4080-25,Bowerman Elem.,68.86%,,,N,228,157
-mo,039-141,Springfield R-Xii,4100-6,Boyd Elem.,63.80%,,,N,163,104
-mo,039-141,Springfield R-Xii,4120-1,Campbell Elem.,55.56%,,,N,180,100
-mo,039-141,Springfield R-Xii,4140-3,Cowden Elem.,38.73%,,,N,284,110
-mo,039-141,Springfield R-Xii,4150-0,David Harrison Elementary,16.31%,,,N,,
-mo,039-141,Springfield R-Xii,4160-3,Delaware Elem.,42.36%,,,N,229,97
-mo,039-141,Springfield R-Xii,4240-1,Field Elem.,13.65%,,,N,,
-mo,039-141,Springfield R-Xii,4260-2,Fremont Elem.,57.54%,,,N,391,225
-mo,039-141,Springfield R-Xii,4270-0,Gray Elem.,10.63%,,,N,,
-mo,039-141,Springfield R-Xii,4280-1,Hickory Hills Elem.,12.26%,,,N,,
-mo,039-141,Springfield R-Xii,4300-1,Holland Elem.,41.73%,,,N,278,116
-mo,039-141,Springfield R-Xii,4320-2,Horace Mann Elem.,25.00%,,,N,,
-mo,039-141,Springfield R-Xii,4330-0,Jeffries Elem.,39.07%,,,N,471,184
-mo,039-141,Springfield R-Xii,4340-1,Walt Disney Elem.,16.75%,,,N,,
-mo,039-141,Springfield R-Xii,4360-0,Mark Twain Elem.,44.15%,,,N,410,181
-mo,039-141,Springfield R-Xii,4380,Mcbride Elem.,12.09%,,,N,,
-mo,039-141,Springfield R-Xii,4400,Mcgregor Elem.,68.33%,,,N,341,233
-mo,039-141,Springfield R-Xii,4460-0,Pershing Elem.,32.37%,,,N,207,67
-mo,039-141,Springfield R-Xii,4500-0,Pittman Elem.,44.20%,,,N,276,122
-mo,039-141,Springfield R-Xii,4510,Pleasant View Elem.,31.47%,,,N,197,62
-mo,039-141,Springfield R-Xii,4520,Portland Elem.,56.14%,,,N,228,128
-mo,039-141,Springfield R-Xii,4560,Robberson Elem.,62.91%,,,N,213,134
-mo,039-141,Springfield R-Xii,4580-0,Rountree Elem.,36.12%,,,N,263,95
-mo,039-141,Springfield R-Xii,4600,Sequiota Elem.,17.01%,,,N,,
-mo,039-141,Springfield R-Xii,4640,Sherwood Elem.,31.26%,,,N,515,161
-mo,039-141,Springfield R-Xii,4680,Sunshine Elem.,27.57%,,,N,,
-mo,039-141,Springfield R-Xii,4710,Truman Elem.,26.16%,,,N,,
-mo,039-141,Springfield R-Xii,4720,Watkins Elem.,50.75%,,,N,268,136
-mo,039-141,Springfield R-Xii,4740,Weaver Elem.,71.81%,,,N,259,186
-mo,039-141,Springfield R-Xii,4760-0,Weller Elem.,56.93%,,,N,339,193
-mo,039-141,Springfield R-Xii,4780,Westport Elem.,68.69%,,,N,412,283
-mo,039-141,Springfield R-Xii,4800,Wilder Elem.,33.49%,,,N,427,143
-mo,039-141,Springfield R-Xii,4820,Williams Elem.,70.57%,,,N,316,223
-mo,039-141,Springfield R-Xii,4830,Wilson'S Creek 5-6 Interim Ctr,11.60%,,,N,,
-mo,039-141,Springfield R-Xii,4840,York Elem.,65.02%,,,N,243,158
-mo,039-141,Springfield R-Xii,7500-15,Shady Dell Early Childhood Ctr,50.00%,,,N,196,98
-mo,039-141,Springfield R-Xii,7510-2,Early Childhood Center,43.59%,,,N,234,102
-mo,068-400,St Andrew School,4020-200,St Andrew School,10.81%,,,N,,
-mo,115-401,St Cecilia School,4020-201,St Cecilia School,34.13%,,,N,167,57
-mo,036-402,St Francis Borgia Schools,4020-202,St Francis Borgia El,8.20%,,,N,,
-mo,011-082,St Joseph,1050-178,Benton High,29.20%,,,N,,
-mo,011-082,St Joseph,3010-1,Bode Middle,27.14%,,,N,,
-mo,011-082,St Joseph,4070  -0,Carden Park Elem,62.29%,,50.81%,Y,614,382
-mo,011-082,St Joseph,1075-5,Central High,22.57%,,,N,,
-mo,011-082,St Joseph,4040-48,Edison Elem.,66.09%,,50.81%,Y,367,243
-mo,011-082,St Joseph,4060-29,Ellison Elem.,23.65%,,,N,,
-mo,011-082,St Joseph,4100-7,Field Elem.,22.56%,,,N,,
-mo,011-082,St Joseph,4140-4,G. M. Colemen Elem.,48.37%,,50.81%,Y,362,175
-mo,011-082,St Joseph,3050-6,Harry S. Truman Middle,43.43%,,50.81%,Y,468,203
-mo,011-082,St Joseph,4180-3,Hosea Elem.,54.34%,,50.81%,Y,485,264
-mo,011-082,St Joseph,4220-1,Hyde Elem.,42.33%,,50.81%,Y,361,153
-mo,011-082,St Joseph,1080-1,Lafayette High,43.15%,,50.81%,Y,678,293
-mo,011-082,St Joseph,4260-3,Lindbergh Elem.,61.93%,,50.81%,Y,511,316
-mo,011-082,St Joseph,4280-2,Mark Twain Elem.,54.13%,,50.81%,Y,342,185
-mo,011-082,St Joseph,4080-26,Oak Grove Elem,17.96%,,,N,,
-mo,011-082,St Joseph,4390,Parkway Elem.,42.78%,,50.81%,Y,398,170
-mo,011-082,St Joseph,4400-0,Pershing Elem.,30.87%,,,N,298,92
-mo,011-082,St Joseph,4420,Pickett Elem.,35.86%,,50.81%,Y,299,107
-mo,011-082,St Joseph,3000-78,Robidoux Middle,49.44%,,50.81%,Y,436,216
-mo,011-082,St Joseph,6000-2,Sjsd Alternative Resource Ctr,63.64%,,50.81%,Y,156,99
-mo,011-082,St Joseph,4460-1,Skaith Elem.,35.13%,,,N,427,150
-mo,011-082,St Joseph,3020-2,Spring Garden Middle,42.50%,,50.81%,Y,520,221
-mo,115-663,St Louis Catholic Academy,4020-203,St Louis Catholic Academy,90.91%,,,N,132,120
-mo,115-501,St Lukes Lutheran School,4020-204,St Lukes Lutheran,41.67%,,,N,24,10
-mo,096-549,St Pauls Lutheran School,4020-205,St Pauls Lutheran,8.00%,,,N,,
-mo,096-549,St Pauls Lutheran School,4030-9,St Paul'S Lutheran Sou Campus,5.00%,,,N,,
-mo,081-094,St. James R-I,1050-179,St. James High,26.43%,,,N,,
-mo,081-094,St. James R-I,3000-79,St. James Middle,34.17%,,,N,436,149
-mo,081-094,St. James R-I,4020-206,Lucy Wortham James Elem.,36.84%,,,N,809,298
-mo,115-115,St. Louis City,4990  ,Acad Of Envt Sci/Math @ Carver,79.29%,,63.66%,Y,174,138
-mo,115-115,St. Louis City,3250  ,Acad Of Envt Sci/Math Middle,73.38%,,63.66%,Y,331,243
-mo,115-115,St. Louis City,4000-0,Adams Elem.,74.22%,,63.66%,Y,227,168
-mo,115-115,St. Louis City,4250-0,Ames Visual/Perf. Arts,74.83%,,63.66%,Y,225,168
-mo,115-115,St. Louis City,4060-30,Ashland Elem. And Br.,85.71%,,63.66%,Y,215,184
-mo,115-115,St. Louis City,1250,Beaumont High,84.31%,,63.66%,Y,6,5
-mo,115-115,St. Louis City,4400-1,Bertha Knox Gilkey Pamoja Aca,79.89%,,63.66%,Y,323,258
-mo,115-115,St. Louis City,4180-4,Bryan Hill Elem.,83.85%,,63.66%,Y,175,147
-mo,115-115,St. Louis City,4200-2,Buder Elem.,53.89%,,63.66%,Y,389,210
-mo,115-115,St. Louis City,3050-7,Busch/Academic-Athletic Acad.,51.11%,,63.66%,Y,410,210
-mo,115-115,St. Louis City,1500,Carnahan School Of The Future,58.50%,,63.66%,Y,299,175
-mo,115-115,St. Louis City,3070-0,Carr Lane Vpa Middle,76.52%,,63.66%,Y,470,360
-mo,115-115,St. Louis City,1860,Central Visual/Perf. Arts High,53.37%,,63.66%,Y,398,212
-mo,115-115,St. Louis City,4360-1,Clay Elem.,85.96%,,63.66%,Y,129,111
-mo,115-115,St. Louis City,1440,Cleveland Njrotc Academy,58.73%,,63.66%,Y,235,138
-mo,115-115,St. Louis City,1100-1,Clyde C Miller Academy,68.43%,,63.66%,Y,481,329
-mo,115-115,St. Louis City,4420-0,Columbia Elem. Comm. Ed. Ctr.,80.74%,,63.66%,Y,226,182
-mo,115-115,St. Louis City,1222,Community Access Job Training,51.24%,,63.66%,Y,117,60
-mo,115-115,St. Louis City,3390,Compton-Drew Ilc Middle,60.68%,,63.66%,Y,501,304
-mo,115-115,St. Louis City,4470,Dewey Sch.-Internat'L. Studies,59.29%,,63.66%,Y,420,249
-mo,115-115,St. Louis City,4480,Dunbar And Br.,82.47%,,63.66%,Y,158,130
-mo,115-115,St. Louis City,5610,Earl Nance Sr. Elem.,77.90%,,63.66%,Y,314,245
-mo,115-115,St. Louis City,1024  ,Educ Therap Support At Madiso,80.68%,,63.66%,Y,115,93
-mo,115-115,St. Louis City,5520  ,Elias Michael Elem.,54.69%,,63.66%,Y,67,37
-mo,115-115,St. Louis City,3140-0,Fanning Middle Community Ed.,80.10%,,63.66%,Y,195,156
-mo,115-115,St. Louis City,4580-1,Farragut Elem.,81.69%,,63.66%,Y,173,141
-mo,115-115,St. Louis City,4630,Ford-Ford Br. Elem. Comm. Ed.,88.42%,,63.66%,Y,169,149
-mo,115-115,St. Louis City,4660,Froebel Elem.,84.21%,,63.66%,Y,199,168
-mo,115-115,St. Louis City,4730  ,Gateway Elem.,68.88%,,63.66%,Y,560,386
-mo,115-115,St. Louis City,1220-0,Gateway High,52.51%,,63.66%,Y,921,484
-mo,115-115,St. Louis City,3230,Gateway Middle,66.32%,,63.66%,Y,536,355
-mo,115-115,St. Louis City,4780-0,Hamilton Elem. Community Ed.,76.28%,,63.66%,Y,333,254
-mo,115-115,St. Louis City,4880-0,Henry Elem.,82.62%,,63.66%,Y,271,224
-mo,115-115,St. Louis City,4900,Herzog Elem.,81.82%,,63.66%,Y,232,190
-mo,115-115,St. Louis City,4890,Hickey Elem.,81.15%,,63.66%,Y,218,177
-mo,115-115,St. Louis City,4920,Hodgen Elem.,82.00%,,63.66%,Y,222,182
-mo,115-115,St. Louis City,4960,Humboldt Academy Of Higher Le,64.64%,,63.66%,Y,164,106
-mo,115-115,St. Louis City,3020-3,Ica @ Blewett,86.27%,,63.66%,Y,136,117
-mo,115-115,St. Louis City,5020-10,Jefferson Elem.,85.48%,,63.66%,Y,154,132
-mo,115-115,St. Louis City,5030-0,Kennard/Classical Jr. Acad.,5.99%,,63.66%,Y,322,19
-mo,115-115,St. Louis City,5060-3,Laclede Elem.,86.93%,,63.66%,Y,185,161
-mo,115-115,St. Louis City,5100-0,Lexington Elem.,79.84%,,63.66%,Y,331,264
-mo,115-115,St. Louis City,3260,Long Middle Community Ed. Ctr,71.32%,,63.66%,Y,260,185
-mo,115-115,St. Louis City,5180,Lyon Academy - Basic Instr.,74.83%,,63.66%,Y,312,233
-mo,115-115,St. Louis City,5240-0,Mallinckrodt A.B.I. Elem.,4.66%,,63.66%,Y,328,15
-mo,115-115,St. Louis City,5260,Mann Elem.,46.00%,,63.66%,Y,306,141
-mo,115-115,St. Louis City,5340,Mason Elem.,43.69%,,63.66%,Y,475,208
-mo,115-115,St. Louis City,1570,Mckinley Classical Leadership A,26.25%,,63.66%,Y,634,166
-mo,115-115,St. Louis City,5500-0,Meramec Elem.,81.02%,,63.66%,Y,224,181
-mo,115-115,St. Louis City,1560,Metro High,19.29%,,63.66%,Y,367,71
-mo,115-115,St. Louis City,5560,Monroe Elem.,81.47%,,63.66%,Y,243,198
-mo,115-115,St. Louis City,5590,Mullanphy Botanical Gardens,61.06%,,63.66%,Y,451,275
-mo,115-115,St. Louis City,4970  ,Nahed Chapman New American,54.76%,,63.66%,Y,214,117
-mo,115-115,St. Louis City,5600,Oak Hill Elem.,64.82%,,63.66%,Y,222,144
-mo,115-115,St. Louis City,5620,Peabody Elem.,88.42%,,63.66%,Y,176,156
-mo,115-115,St. Louis City,1680,Roosevelt High,67.63%,,63.66%,Y,368,249
-mo,115-115,St. Louis City,5780-0,Shaw Visual/Perf. Arts Ctr.,67.37%,,63.66%,Y,384,259
-mo,115-115,St. Louis City,5800,Shenandoah Elem.,76.62%,,63.66%,Y,181,139
-mo,115-115,St. Louis City,5860,Sigel Elem. Comm. Ed. Ctr.,79.18%,,63.66%,Y,202,160
-mo,115-115,St. Louis City,1730,Soldan International Studies,63.58%,,63.66%,Y,487,310
-mo,115-115,St. Louis City,1510  ,St. Louis Med/Bio Science High,29.53%,,63.66%,Y,287,85
-mo,115-115,St. Louis City,5930,Stix Early Childhood Ctr.,45.96%,,63.66%,Y,509,234
-mo,115-115,St. Louis City,1800,Sumner High,76.45%,,63.66%,Y,193,148
-mo,115-115,St. Louis City,1540,Transportation And Law,76.34%,,63.66%,Y,190,145
-mo,115-115,St. Louis City,1830,Vashon High,79.10%,,63.66%,Y,480,380
-mo,115-115,St. Louis City,5960,Walbridge Elem. Community Ed.,86.10%,,63.66%,Y,197,170
-mo,115-115,St. Louis City,6010-1,Washington Montessori,68.36%,,63.66%,Y,323,221
-mo,115-115,St. Louis City,6030-0,Wilkinson Early Childhood Ctr.,31.77%,,63.66%,Y,319,101
-mo,115-115,St. Louis City,5970,Woerner Elem.,60.64%,,63.66%,Y,422,256
-mo,115-115,St. Louis City,6120-0,Woodward Elem.,74.18%,,63.66%,Y,269,200
-mo,115-115,St. Louis City,2080,Yeatman-Liddell Prep Jr High,84.49%,,63.66%,Y,348,294
-mo,115-920,St. Louis College Prep,1910-0,St Louis College Prep High           73.86%,73.86%,,,N,176,130
-mo,115-920,St. Louis College Prep,3925-0,St Louis College Prep Middle       64.89%,64.89%,,,N,94,61
-mo,115-912,St. Louis Lang Immersion Sch,6960-0,St. Louis Lang Immersion Papin                              51.97%,51.97%,,,N,229,119
-mo,115-912,St. Louis Lang Immersion Sch,6961,St. Louis Lang Immersion Marine                            41.31%,41.31%,,,N,305,126
-mo,095-059,Ste. Genevieve Co. R-Ii,1050-180,Ste. Genevieve Sr. High,20.28%,,,N,,
-mo,095-059,Ste. Genevieve Co. R-Ii,2050-15,Ste. Genevieve Middle,23.47%,,,N,,
-mo,095-059,Ste. Genevieve Co. R-Ii,4020-207,Bloomsdale Elem.,39.30%,,,N,313,123
-mo,095-059,Ste. Genevieve Co. R-Ii,4040-49,Ste. Genevieve Elem.,39.89%,,,N,539,215
-mo,028-103,Steelville R-Iii,1050-181,Steelville High,41.45%,,,N,275,114
-mo,028-103,Steelville R-Iii,3000-80,Steelville Middle,46.73%,,,N,321,150
-mo,028-103,Steelville R-Iii,4020-208,Steelville Elem.,48.03%,,,N,406,195
-mo,015-001,Stoutland R-Ii,1050-182,Stoutland High,32.08%,,,N,212,68
-mo,015-001,Stoutland R-Ii,4020-209,Stoutland Elem.,38.94%,,,N,226,88
-mo,019-140,Strasburg C-3,4020-210,Strasburg Elem.,20.97%,,,N,,
-mo,010-090,Sturgeon R-V,1050-183,Sturgeon High,19.55%,,,N,,
-mo,010-090,Sturgeon R-V,3000-81,Sturgeon Middle,29.69%,,,N,,
-mo,010-090,Sturgeon R-V,4020-211,Sturgeon Elem.,38.89%,,,N,180,70
-mo,107-151,Success R-Vi,4020-212,Success Elem.,41.03%,,41.03%,Y,117,48
-mo,036-137,Sullivan C-2,1050-184,Sullivan Sr. High,21.79%,,,N,,
-mo,036-137,Sullivan C-2,3000-82,Sullivan Middle,34.76%,,,N,466,162
-mo,036-137,Sullivan C-2,4020-213,Sullivan Elem.,34.97%,,,N,429,150
-mo,036-137,Sullivan C-2,4040-50,Sullivan Primary,41.94%,,,N,558,234
-mo,107-153,Summersville R-Ii,1050-185,Summersville High,31.02%,,,N,187,58
-mo,107-153,Summersville R-Ii,4020-214,Summersville Elem.,35.86%,,,N,251,90
-mo,085-043,Swedeborg R-Iii,4020-215,Swedeborg Elem.,21.28%,,,N,,
-mo,075-085,Thayer R-Ii,1050-186,Thayer Sr. High,33.43%,,,N,335,112
-mo,075-085,Thayer R-Ii,4020-216,Thayer Elem.,48.52%,,,N,305,148
-mo,115-930,The Arch Community Schoo 6905,6905  -0,The Arch Community School,84.09%,,89.09%,Y,55,46
-mo,096-712,The Freedom School             4020,4020  -0,The Freedom School,63.11%,,62.63%,Y,99,62
-mo,077-100,Thornfield R-I,4020-217,Thornfield Elem.,23.91%,,,N,,
-mo,040-107,Trenton R-Ix,1050-187,Trenton Sr. High,26.52%,,,N,,
-mo,040-107,Trenton R-Ix,3000-83,Trenton Middle School,37.54%,,,N,341,128
-mo,040-107,Trenton R-Ix,4060-31,Rissler Elem.,34.44%,,,N,392,135
-mo,012-110,Twin Rivers R-X,1050-188,Twin Rivers High,32.77%,,52.89%,Y,254,83
-mo,012-110,Twin Rivers R-X,3000  -0,Qulin Middle,43.94%,,52.89%,Y,132,58
-mo,012-110,Twin Rivers R-X,4040-51,Fisk Elem.,46.05%,,52.89%,Y,371,171
-mo,012-110,Twin Rivers R-X,4060-32,Qulin Elem.,49.68%,,52.89%,Y,126,63
-mo,048-901,University Academy,1915,University Academy,30.77%,,,N,208,64
-mo,048-901,University Academy,3925-1,University Academy Middle,33.19%,,,N,238,79
-mo,048-901,University Academy,6965-0,University Academy Lower Schl,35.00%,,,N,640,224
-mo,096-112,University City,1050-189,University City Sr. High,48.30%,,44.92%,Y,737,356
-mo,096-112,University City,2000-0,Brittany Woods,54.47%,,58.37%,Y,571,311
-mo,096-112,University City,4060-33,Barbara Jordan Elem.,66.38%,,58.37%,Y,354,235
-mo,096-112,University City,4100-8,Flynn Park Elem.,36.81%,,44.92%,Y,307,113
-mo,096-112,University City,4140-5,Jackson Park Elem.,48.04%,,58.37%,Y,306,147
-mo,096-112,University City,4200-3,Pershing Elem.,69.23%,,58.37%,Y,299,207
-mo,096-112,University City,7500-16,Julia Goldstein Early Child.,53.28%,,58.37%,Y,137,73
-mo,110-031,Valley R-Vi,1050-190,Valley High,30.15%,,,N,199,60
-mo,110-031,Valley R-Vi,4040-52,Caledonia Elem.,31.98%,,,N,197,63
-mo,018-050,Van Buren R-I,1050-191,Van Buren High,26.17%,,,N,,
-mo,018-050,Van Buren R-I,4020-218,Van Buren Elem.,40.53%,,,N,264,107
-mo,004-109,Van-Far R-I,1050-192,Van-Far Jr/Sr High,46.27%,,,N,268,124
-mo,004-109,Van-Far R-I,4020-219,Van-Far Elem.,60.60%,,,N,368,223
-mo,055-111,Verona R-Vii,1050-193,Verona High,31.22%,,,N,189,59
-mo,055-111,Verona R-Vii,4020-220,Verona Elem.,49.51%,,,N,204,101
-mo,109-003,Warren Co. R-Iii,1050-194,Warrenton High,26.31%,,,N,,
-mo,109-003,Warren Co. R-Iii,2050-16,Black Hawk Middle,32.45%,,,N,758,246
-mo,109-003,Warren Co. R-Iii,4020-221,Daniel Boone Elem.,37.18%,,,N,425,158
-mo,109-003,Warren Co. R-Iii,4040-53,Rebecca Boone Elem.,39.56%,,,N,498,197
-mo,109-003,Warren Co. R-Iii,4060-34,Warrior Ridge Elem,31.36%,,,N,574,180
-mo,008-107,Warsaw R-Ix,1050-195,Warsaw High,29.86%,,46.84%,Y,360,107
-mo,008-107,Warsaw R-Ix,3000-84,John Boise Middle,38.32%,,46.84%,Y,289,111
-mo,008-107,Warsaw R-Ix,4020-222,North Elem.,41.12%,,46.84%,Y,364,150
-mo,008-107,Warsaw R-Ix,4040-54,South Elem.,45.25%,,46.84%,Y,270,122
-mo,008-107,Warsaw R-Ix,4060-35,Ruth Mercer Elementary,48.89%,,,N,135,66
-mo,070-092,Wellsville Middletown R-I,1050-196,Wellsville High,23.27%,,,N,,
-mo,070-092,Wellsville Middletown R-I,4040-55,Wellsville Elem.,39.58%,,,N,192,76
-mo,046-134,West Plains R-Vii,1050-197,West Plains Sr. High,33.07%,,,N,1031,341
-mo,046-134,West Plains R-Vii,3000-85,West Plains Middle,43.73%,,,N,590,258
-mo,046-134,West Plains R-Vii,4030-10,West Plains Elem.,59.84%,,,N,767,459
-mo,046-134,West Plains R-Vii,5000-7,South Fork Elem.,40.44%,,,N,183,74
-mo,094-087,West St. Francois Co. R-Iv,1050-198,West County High,34.29%,,,N,280,96
-mo,094-087,West St. Francois Co. R-Iv,3000-86,West County Middle,40.17%,,,N,234,94
-mo,094-087,West St. Francois Co. R-Iv,4020-223,West County Elem.,58.74%,,,N,429,252
-mo,094-087,West St. Francois Co. R-Iv,8001-1,Rocky Creek Youth Ranch Boys,100.00%,,,N,23,23
-mo,088-080,Westran R-I,1050-199,Westran High,18.97%,,,N,,
-mo,088-080,Westran R-I,3000-87,Westran Middle,26.61%,,,N,,
-mo,088-080,Westran R-I,4020-224,Westran Elem.,37.31%,,,N,268,100
-mo,073-105,Westview C-6,4020-225,Westview Elem.,38.68%,,,N,106,41
-mo,043-002,Wheatland R-Ii,1050-200,Wheatland High,30.37%,,,N,135,41
-mo,043-002,Wheatland R-Ii,4020-226,Wheatland Elem.,42.20%,,,N,173,73
-mo,005-120,Wheaton R-Iii,1050-201,Wheaton High,32.26%,,,N,186,60
-mo,005-120,Wheaton R-Iii,4020-227,Wheaton Elem.,40.70%,,,N,258,105
-mo,046-131,Willow Springs R-Iv,1050-202,Willow Springs High,32.66%,,,N,395,129
-mo,046-131,Willow Springs R-Iv,3000-88,Willow Springs Middle,46.52%,,,N,402,187
-mo,046-131,Willow Springs R-Iv,4040-56,Willow Springs Elem.,50.54%,,,N,465,235
-mo,101-105,Winona R-Iii,1050-203,Winona High,29.75%,,,N,,
-mo,101-105,Winona R-Iii,4020-228,Winona Elem.,43.08%,,,N,325,140
-mo,031-117,Winston R-Vi,1050-204,Winston High,16.28%,,,N,,
-mo,031-117,Winston R-Vi,4020-229,Winston Elem.,22.73%,,,N,,
-mo,009-080,Woodland R-Iv,1050-205,Woodland High,28.81%,,,N,,
-mo,009-080,Woodland R-Iv,3000-89,Woodland Middle,44.92%,,,N,256,115
-mo,009-080,Woodland R-Iv,4040-57,Woodland Elem.,48.71%,,,N,349,170
-mo,009-079,Zalma R-V,1050-206,Zalma High,35.54%,,47.95%,Y,112,40
-mo,009-079,Zalma R-V,4020-230,Zalma Elem.,47.54%,,47.95%,Y,107,51
+state,District Code,District Name,School Code,School Name,individual_isp,proxy_isp,claiming_isp,participating_in_cep,total_enrolled,total_eligible
+mo,048-927,ACADEMY FOR INTEGRAT,6995  ,ACADEMY FOR INTEGRATED ARTS,58.85%,,69.05%,Y,252,148
+mo,001-090,ADAIR CO. R-I,4020,ADAIR CO. ELEM.,44.74%,,40.34%,Y,119,53
+mo,001-090,ADAIR CO. R-I,1050,ADAIR CO. HIGH,31.37%,,,N,102,32
+mo,103-129,ADVANCE R-IV,4020-0,ADVANCE ELEM.,31.40%,,,N,242,76
+mo,115-406,AGAPE CHILD DEVELOPM,4020-1,AGAPE ACADEMY,73.33%,,73.33%,Y,105,77
+mo,047-062,ARCADIA VALLEY R-II,4020-2,ARCADIA VALLEY ELEM.,51.99%,,50.29%,Y,416,216
+mo,047-062,ARCADIA VALLEY R-II,3000,ARCADIA VALLEY MIDDLE,38.10%,,50.29%,Y,274,104
+mo,115-933,ATLAS PUBLIC SCHOOLS,6905  ,ATLAS ELEMENTARY,,,90.16%,Y,122,
+mo,034-124,AVA R-I,3000-0,AVA MIDDLE,42.30%,,,N,409,173
+mo,034-124,AVA R-I,4020-3,AVA ELEM.,41.07%,,,N,543,223
+mo,077-101,BAKERSFIELD R-IV,1050-0,BAKERSFIELD HIGH,31.75%,,,N,211,67
+mo,077-101,BAKERSFIELD R-IV,4020-4,BAKERSFIELD ELEM.,37.29%,,,N,177,66
+mo,103-135,BERNIE R-XIII,4020-5,BERNIE ELEM.,44.41%,,,N,322,143
+mo,094-076,BISMARCK R-V,1050-1,BISMARCK HIGH,41.91%,,44.04%,Y,241,101
+mo,094-076,BISMARCK R-V,4020-6,BISMARCK ELEM.,46.57%,,44.04%,Y,204,95
+mo,104-045,BLUE EYE R-V,4020-7,BLUE EYE ELEM.,41.71%,,,N,187,78
+mo,104-045,BLUE EYE R-V,3000-1,BLUE EYE MIDDLE,32.67%,,,N,150,49
+mo,027-061,BOONVILLE R-I,4020-8,HANNAH COLE PRIMARY,43.00%,,45.13%,Y,393,169
+mo,027-061,BOONVILLE R-I,4040,DAVID BARTON ELEM.,68.40%,,45.13%,Y,212,145
+mo,027-061,BOONVILLE R-I,3000-2,LAURA SPEED ELLIOTT MIDDLE,35.19%,,45.13%,Y,412,145
+mo,017-124,BOSWORTH R-V,1050-2,BOSWORTH HIGH,54.17%,,45.00%,Y,18,10
+mo,017-124,BOSWORTH R-V,4020-9,BOSWORTH ELEM.,72.41%,,45.00%,Y,22,16
+mo,048-916,BROOKSIDE CHARTER SCH,3950  ,BROOKSIDE CHARTER MIDDLE SCHL,65.53%,,60.43%,Y,258,169
+mo,048-916,BROOKSIDE CHARTER SCH,6950,BROOKSIDE CHARTER ELEMENTARY,51.06%,,60.43%,Y,634,324
+mo,021-149,BRUNSWICK R-II,4020-10,BRUNSWICK ELEM.,32.58%,,,N,178,58
+mo,107-155,CABOOL R-IV,3000-3,CABOOL MIDDLE,56.04%,,41.18%,Y,228,128
+mo,107-155,CABOOL R-IV,4020-11,CABOOL ELEM.,57.33%,,41.18%,Y,357,205
+mo,107-155,CABOOL R-IV,1050-3,CABOOL HIGH,52.63%,,41.18%,Y,192,101
+mo,042-117,CALHOUN R-VIII,1050-4,CALHOUN HIGH,40.43%,,,N,47,19
+mo,042-117,CALHOUN R-VIII,4020-12,CALHOUN ELEM.,35.14%,,,N,37,13
+mo,061-157,CALLAO C-8,4020-13,CALLAO ELEM.,44.44%,,,N,54,24
+mo,035-093,CAMPBELL R-II,1050-5,CAMPBELL HIGH,40.94%,,,N,254,104
+mo,035-093,CAMPBELL R-II,4020-14,CAMPBELL ELEM.,50.67%,,,N,300,152
+mo,016-096,CAPE GIRARDEAU 63,2050,CENTRAL JR. HIGH,47.35%,,40.72%,Y,601,285
+mo,016-096,CAPE GIRARDEAU 63,4040-0,FRANKLIN ELEM.,69.76%,,60.90%,Y,261,182
+mo,016-096,CAPE GIRARDEAU 63,4050,BLANCHARD ELEM.,59.43%,,40.72%,Y,334,198
+mo,016-096,CAPE GIRARDEAU 63,4060,CLIPPARD ELEM.,50.40%,,40.72%,Y,517,261
+mo,016-096,CAPE GIRARDEAU 63,4080,JEFFERSON ELEM.,78.57%,,60.90%,Y,382,300
+mo,016-096,CAPE GIRARDEAU 63,4090,CENTRAL MIDDLE SCHOOL,51.42%,,60.90%,Y,582,299
+mo,016-096,CAPE GIRARDEAU 63,1050-6,CENTRAL HIGH,38.02%,,40.72%,Y,1269,482
+mo,016-096,CAPE GIRARDEAU 63,4020-15,ALMA SCHRADER ELEM.,26.26%,,40.72%,Y,366,96
+mo,115-915,CARONDELET LEADERSHIP,6975,CARONDELET LEADERSHIP ACADEMY,,,,N,,
+mo,049-142,CARTHAGE R-IX,4020-16,COLUMBIAN ELEM.,49.59%,,,N,492,244
+mo,049-142,CARTHAGE R-IX,2050-0,CARTHAGE JR. HIGH,36.07%,,,N,793,286
+mo,049-142,CARTHAGE R-IX,3000-4,Carthage Intermediate Center,34.52%,,,N,817,282
+mo,049-142,CARTHAGE R-IX,4060-0,FAIRVIEW ELEM.,37.88%,,,N,520,197
+mo,049-142,CARTHAGE R-IX,5000,MARK TWAIN ELEM.,34.29%,,,N,280,96
+mo,049-142,CARTHAGE R-IX,7500,EARLY CHILDHOOD AND PAT CENTER,33.48%,,,N,221,74
+mo,078-012,CARUTHERSVILLE 18,1050-7,CARUTHERSVILLE HIGH,52.07%,,65.71%,Y,243,127
+mo,078-012,CARUTHERSVILLE 18,3000-5,CARUTHERSVILLE MIDDLE,68.07%,,65.71%,Y,204,139
+mo,078-012,CARUTHERSVILLE 18,4060-1,CARUTHERSVILLE ELEM.,71.40%,,65.71%,Y,489,349
+mo,005-123,CASSVILLE R-IV,3000-6,CASSVILLE MIDDLE,31.34%,,,N,418,131
+mo,005-123,CASSVILLE R-IV,4020-17,EUNICE THOMAS ELEM.,37.22%,,,N,497,185
+mo,005-123,CASSVILLE R-IV,4030,CASSVILLE INTERMEDIATE,31.54%,,,N,428,135
+mo,048-080,CENTER 58,1020,CENTER ALTERNATIVE,73.68%,,61.00%,Y,76,56
+mo,048-080,CENTER 58,4060-2,CENTER ELEM.,74.08%,,61.00%,Y,355,263
+mo,048-080,CENTER 58,4070,INDIAN CREEK ELEM.,45.45%,,61.00%,Y,297,135
+mo,048-080,CENTER 58,7500-0,EARLY CHILDHOOD EDUC. CTR.,53.68%,,61.00%,Y,136,73
+mo,090-075,CENTERVILLE R-I,4020-18,CENTERVILLE ELEM.,49.18%,,59.09%,Y,66,32
+mo,094-086,CENTRAL R-III,4020-19,CENTRAL ELEM.,41.34%,,,N,554,229
+mo,094-086,CENTRAL R-III,2050-1,CENTRAL MIDDLE,37.31%,,,N,528,197
+mo,094-086,CENTRAL R-III,4060-3,WEST ELEM.,37.95%,,,N,469,178
+mo,100-060,CHAFFEE R-II,4020-20,CHAFFEE ELEM.,39.37%,,53.18%,Y,314,124
+mo,067-061,CHARLESTON R-I,1050-8,CHARLESTON HIGH,57.41%,,98.72%,Y,250,144
+mo,067-061,CHARLESTON R-I,3000-7,CHARLESTON MIDDLE,66.49%,,98.72%,Y,148,98
+mo,067-061,CHARLESTON R-I,4040-1,WARREN E. HEARNES ELEM.,70.50%,,98.72%,Y,384,271
+mo,048-928,CITIZENS OF THE WORLD,3905,MIDDLE SCHOOL CAMPUS,41.67%,,,N,48,20
+mo,048-928,CITIZENS OF THE WORLD,6905,CITIZENS OF THE WORLD CHARTER,32.43%,,,N,367,119
+mo,035-097,CLARKTON C-4,1050-9,CLARKTON HIGH,54.14%,,58.15%,Y,126,68
+mo,035-097,CLARKTON C-4,4020-21,CLARKTON ELEM.,55.29%,,58.15%,Y,178,98
+mo,035-097,CLARKTON C-4,9010,BOOTHEEL STATE SCHOOL,63.64%,,58.15%,Y,21,13
+mo,111-087,CLEARWATER R-I,3000-8,CLEARWATER MIDDLE,43.02%,,,N,265,114
+mo,111-087,CLEARWATER R-I,4040-2,CLEARWATER ELEM.,50.88%,,,N,399,203
+mo,111-087,CLEARWATER R-I,1050-10,CLEARWATER HIGH,34.96%,,,N,266,93
+mo,010-093,COLUMBIA 93,1020-0,FREDERICK DOUGLASS HIGH,58.41%,,49.15%,Y,251,147
+mo,010-093,COLUMBIA 93,1021,CORE,59.02%,,,N,61,36
+mo,010-093,COLUMBIA 93,4020-22,THOMAS BENTON ELEM.,51.89%,,49.15%,Y,224,116
+mo,010-093,COLUMBIA 93,4030-0,ALPHA HART LEWIS ELEMENTARY,58.52%,,49.15%,Y,583,341
+mo,010-093,COLUMBIA 93,4040-3,BLUE RIDGE ELEM.,44.28%,,,N,463,205
+mo,010-093,COLUMBIA 93,4055,DERBY RIDGE ELEM.,48.54%,,,N,445,216
+mo,010-093,COLUMBIA 93,4070-0,ELLIOTT BATTLE ELEMENTARY SCHL,41.78%,,,N,426,178
+mo,010-093,COLUMBIA 93,5035,NEW HAVEN ELEM.,40.63%,,,N,288,117
+mo,010-093,COLUMBIA 93,6020,WEST BLVD. ELEM.,59.03%,,49.15%,Y,350,207
+mo,010-093,COLUMBIA 93,2060,OAKLAND MIDDLE SCHOOL,41.98%,,,N,605,254
+mo,010-093,COLUMBIA 93,1060,MURIEL W. BATTLE HIGH SCHOOL,30.74%,,,N,1493,459
+mo,010-093,COLUMBIA 93,3060,JOHN B. LANGE MIDDLE,36.62%,,,N,609,223
+mo,010-093,COLUMBIA 93,5040,PARKADE ELEM.,35.05%,,,N,485,170
+mo,010-093,COLUMBIA 93,6010,SHEPARD BLVD. ELEM.,36.21%,,,N,522,189
+mo,010-093,COLUMBIA 93,7500-1,CENTER FOR EARLY LRNING-NORTH,37.34%,,,N,533,199
+mo,115-906,CONFLUENCE ACADEMIES,6931,ASPIRE ACADEMY,97.27%,,69.22%,Y,116,113
+mo,115-906,CONFLUENCE ACADEMIES,6930,CONFLUENCE ACADEMIES-OLD NORTH,95.76%,,69.22%,Y,646,619
+mo,115-906,CONFLUENCE ACADEMIES,6932,CONFLUENCE ACADEMIES-SOUTH CTY,89.68%,,69.22%,Y,770,691
+mo,115-906,CONFLUENCE ACADEMIES,1920,CONFLUENCE PREPARATORY ACADEMY,91.94%,,69.22%,Y,398,366
+mo,115-906,CONFLUENCE ACADEMIES,3920  ,GRAND CENTER ARTS ACAD MIDDLE,89.03%,,69.22%,Y,178,158
+mo,115-906,CONFLUENCE ACADEMIES,1945  ,GRAND CENTER ARTS ACADEMY HIGH,84.97%,,69.22%,Y,387,329
+mo,027-056,COOPER CO. R-IV,1050-11,BUNCETON HIGH,49.06%,,48.15%,Y,43,21
+mo,027-056,COOPER CO. R-IV,4020-23,COOPER CO. ELEM.,52.11%,,48.15%,Y,65,34
+mo,075-084,COUCH R-I,4020-24,COUCH ELEM.,44.76%,,,N,105,47
+mo,075-084,COUCH R-I,1050-12,COUCH HIGH,31.25%,,,N,112,35
+mo,044-078,CRAIG R-III,4020-25,CRAIG ELEM.,59.38%,,,N,32,19
+mo,044-078,CRAIG R-III,1050-13,CRAIG HIGH,35.29%,,,N,17,6
+mo,028-101,CRAWFORD CO. R-I,4020-26,BOURBON ELEM.,70.59%,,,N,204,144
+mo,028-101,CRAWFORD CO. R-I,3000-9,BOURBON MIDDLE,37.11%,,,N,291,108
+mo,028-102,CRAWFORD CO. R-II,4020-27,CUBA ELEM.,33.04%,,,N,448,148
+mo,085-049,CROCKER R-II,4020-28,CROCKER ELEM.,45.45%,,50.60%,Y,251,114
+mo,085-049,CROCKER R-II,1050-14,CROCKER HIGH,33.33%,,,N,270,90
+mo,030-093,DALLAS CO. R-I,4020-29,MALLORY ELEM.,42.30%,,,N,591,250
+mo,030-093,DALLAS CO. R-I,1050-15,BUFFALO HIGH,30.28%,,,N,492,149
+mo,030-093,DALLAS CO. R-I,3000-10,BUFFALO MIDDLE,38.12%,,,N,564,215
+mo,048-923,DE LA SALLE CHARTER SC,1970,DELASALLE ED CENTER,39.84%,,72.83%,Y,92,37
+mo,078-009,DELTA C-7,4020-30,DELTA C-7 ELEM.,34.78%,,,N,92,32
+mo,050-014,DESOTO 73,4010,ATHENA ELEM.,33.78%,,,N,524,177
+mo,050-014,DESOTO 73,4020-31,VINELAND ELEM.,31.25%,,,N,768,240
+mo,050-014,DESOTO 73,7500-2,EARLY CHILDHOOD CTR.,38.00%,,,N,150,57
+mo,091-092,DONIPHAN R-I,4020-32,DONIPHAN ELEM.,87.86%,,60.24%,Y,400,351
+mo,091-092,DONIPHAN R-I,1050-16,DONIPHAN HIGH,37.18%,,60.24%,Y,415,154
+mo,091-092,DONIPHAN R-I,4040  ,DONIPHAN INTERMEDIATE,48.35%,,60.24%,Y,346,167
+mo,091-092,DONIPHAN R-I,3000-11,DONIPHAN MIDDLE,43.61%,,60.24%,Y,353,154
+mo,115-923,EAGLE COLLEGE PREP END,6996  ,EAGLE COLLEGE PREP-FOX PARK,67.84%,,64.84%,Y,210,142
+mo,115-923,EAGLE COLLEGE PREP END,6995  -0,EAGLE COLLEGE PREP-TOWER GROVE,50.00%,,64.84%,Y,261,130
+mo,115-923,EAGLE COLLEGE PREP END,6998  ,EAGLE GRAVOIS PARK,71.22%,,64.84%,Y,192,137
+mo,115-923,EAGLE COLLEGE PREP END,6997  ,EAGLE TOWER GROVE EAST,60.36%,,64.84%,Y,193,116
+mo,073-099,EAST NEWTON CO. R-VI,1050-17,EAST NEWTON HIGH,53.44%,,,N,378,202
+mo,073-099,EAST NEWTON CO. R-VI,4020-33,GRANBY ELEM.,59.48%,,,N,580,345
+mo,073-099,EAST NEWTON CO. R-VI,4040-4,TRIWAY ELEM.,63.81%,,,N,409,261
+mo,067-055,EAST PRAIRIE R-II,4060-4,A. J. MARTIN ELEM.,,,,N,,
+mo,067-055,EAST PRAIRIE R-II,4020  ,EAST PRAIRIE ELEM,,,41.59%,Y,413,
+mo,067-055,EAST PRAIRIE R-II,1050-18,EAST PRAIRIE HIGH,36.16%,,41.59%,Y,307,111
+mo,067-055,EAST PRAIRIE R-II,2050-2,EAST PRAIRIE JR. HIGH,40.86%,,,N,350,143
+mo,067-055,EAST PRAIRIE R-II,3000  ,EAST PRAIRIE MIDDLE,,,41.59%,Y,350,
+mo,067-055,EAST PRAIRIE R-II,4040-5,R. A. DOYLE ELEM.,100.00%,,,N,191,191
+mo,020-002,EL DORADO SPRINGS R-II,4040-6,EL DORADO SPRINGS ELEM.,44.19%,,44.19%,Y,534,236
+mo,020-002,EL DORADO SPRINGS R-II,1050-19,EL DORADO SPRINGS HIGH,30.99%,,,N,342,106
+mo,020-002,EL DORADO SPRINGS R-II,3000-12,EL DORADO SPRINGS MIDDLE,35.53%,,,N,304,108
+mo,101-107,EMINENCE R-I,1050-20,EMINENCE HIGH,44.12%,,44.41%,Y,135,60
+mo,101-107,EMINENCE R-I,4020-34,EMINENCE ELEM.,57.53%,,44.41%,Y,151,87
+mo,029-003,EVERTON R-III,1050-21,EVERTON HIGH,42.11%,,44.24%,Y,76,32
+mo,029-003,EVERTON R-III,4020-35,EVERTON ELEM.,46.07%,,44.24%,Y,89,41
+mo,048-924,EWING MARION KAUFFM,3930,EWING MARION KAUFFMAN MIDDLE SCHOO,33.72%,,,N,780,263
+mo,024-089,EXCELSIOR SPRINGS 40,4040-7,LEWIS ELEM.,40.19%,,,N,423,170
+mo,024-089,EXCELSIOR SPRINGS 40,7500-3,EXCELSIOR SPRINGS EAR CHLD CTR,37.41%,,,N,147,55
+mo,084-002,FAIR PLAY R-II,1050-22,FAIR PLAY HIGH,47.86%,,50.76%,Y,152,73
+mo,084-002,FAIR PLAY R-II,4020-36,FAIR PLAY ELEM.,49.38%,,50.76%,Y,156,77
+mo,084-002,FAIR PLAY R-II,7500  ,LITTLE STINGERS PRESCHOOL,50.00%,,50.76%,Y,19,10
+mo,045-077,FAYETTE R-III,4040-8,LAURENCE J. DALY ELEM.,37.59%,,,N,282,106
+mo,096-089,FERGUSON-FLORISSANT R,4030  ,BERKELEY ELEM,70.62%,,64.31%,Y,388,274
+mo,096-089,FERGUSON-FLORISSANT R,4020-37,BERMUDA ELEM.,48.20%,,64.31%,Y,248,120
+mo,096-089,FERGUSON-FLORISSANT R,4040-9,CENTRAL ELEM.,51.14%,,64.31%,Y,272,139
+mo,096-089,FERGUSON-FLORISSANT R,4060-5,COMBS ELEM.,65.57%,,64.31%,Y,322,211
+mo,096-089,FERGUSON-FLORISSANT R,4080-0,COMMONS LANE ELEM.,46.23%,,64.31%,Y,410,190
+mo,096-089,FERGUSON-FLORISSANT R,1080  ,COOL VALLEY INNOVATION SCHOOL,31.67%,,64.31%,Y,132,42
+mo,096-089,FERGUSON-FLORISSANT R,3030,CROSS KEYS MIDDLE,57.16%,,64.31%,Y,706,404
+mo,096-089,FERGUSON-FLORISSANT R,4140,DUCHESNE ELEM.,47.92%,,64.31%,Y,365,175
+mo,096-089,FERGUSON-FLORISSANT R,3050,FERGUSON MIDDLE,67.79%,,64.31%,Y,629,426
+mo,096-089,FERGUSON-FLORISSANT R,4160,GRIFFITH ELEM.,71.13%,,64.31%,Y,349,248
+mo,096-089,FERGUSON-FLORISSANT R,4180,HALLS FERRY ELEM.,54.31%,,64.31%,Y,417,226
+mo,096-089,FERGUSON-FLORISSANT R,4190,HOLMAN ELEM.,41.44%,,64.31%,Y,266,110
+mo,096-089,FERGUSON-FLORISSANT R,4210,JOHNSON WABASH 6th GRADE,75.78%,,64.31%,Y,298,226
+mo,096-089,FERGUSON-FLORISSANT R,4200,LEE HAMILTON ELEM.,67.71%,,64.31%,Y,312,211
+mo,096-089,FERGUSON-FLORISSANT R,1050-23,MCCLUER HIGH,92.45%,,64.31%,Y,1016,939
+mo,096-089,FERGUSON-FLORISSANT R,1070,MCCLUER NORTH HIGH,82.38%,,64.31%,Y,993,818
+mo,096-089,FERGUSON-FLORISSANT R,4240,PARKER ROAD ELEM.,40.78%,,64.31%,Y,448,183
+mo,096-089,FERGUSON-FLORISSANT R,7500-4,RESTORATION CENTER,49.32%,,64.31%,Y,334,165
+mo,096-089,FERGUSON-FLORISSANT R,4260,ROBINWOOD ELEM.,70.56%,,64.31%,Y,339,239
+mo,096-089,FERGUSON-FLORISSANT R,3010  ,STEAM ACADEMY FOR MIDDLE SCHL,40.59%,,64.31%,Y,239,97
+mo,096-089,FERGUSON-FLORISSANT R,1060-0,STEAM HIGH,64.00%,,64.31%,Y,396,253
+mo,096-089,FERGUSON-FLORISSANT R,4320,WALNUT GROVE ELEM.,40.07%,,64.31%,Y,398,159
+mo,096-089,FERGUSON-FLORISSANT R,4340,WEDGWOOD 6th GRADE,68.31%,,64.31%,Y,303,207
+mo,048-922,FRONTIER SCHOOL OF IN,1920  ,FRONTIER SCHL OF EXCELLENCE-U,,,59.52%,Y,179,
+mo,048-922,FRONTIER SCHOOL OF IN,1985,FRONTIER STEM HIGH SCHOOL,,,,N,,
+mo,048-922,FRONTIER SCHOOL OF IN,3935,FRONTIER SCHL OF INNOVATION-M,,,,N,,
+mo,048-922,FRONTIER SCHOOL OF IN,3940  ,FRONTIER SCHL OF EXCELLENCE-M,,,59.52%,Y,115,
+mo,048-922,FRONTIER SCHOOL OF IN,6975-0,FRONTIER SCHOOL OF INNOVATION,,,,N,,
+mo,014-129,FULTON 58,4020-38,BUSH ELEM.,31.94%,,,N,382,122
+mo,014-129,FULTON 58,4080-1,MCINTIRE ELEM.,38.32%,,,N,381,146
+mo,077-102,GAINESVILLE R-V,7500-5,GAINESVILLE PRESCHOOL,42.11%,,,N,38,16
+mo,077-102,GAINESVILLE R-V,1050-24,GAINESVILLE HIGH,34.95%,,,N,289,101
+mo,077-102,GAINESVILLE R-V,4020-39,GAINESVILLE ELEM.,35.65%,,,N,345,123
+mo,104-042,GALENA R-II,4020-40,GALENA-ABESVILLE ELEM.,40.08%,,,N,257,103
+mo,104-042,GALENA R-II,1050-25,GALENA HIGH,33.74%,,,N,243,82
+mo,053-112,GASCONADE C-4,4020-41,GASCONADE ELEM.,46.05%,,,N,76,35
+mo,048-905,GENESIS SCHOOL INC,1945,GENESIS SCHOOL INC,89.96%,,77.03%,Y,209,188
+mo,072-073,GIDEON 37,4020-42,GIDEON ELEM.,44.93%,,41.96%,Y,155,70
+mo,072-073,GIDEON 37,1050-26,GIDEON HIGH,32.08%,,41.96%,Y,100,32
+mo,006-103,GOLDEN CITY R-III,4020-43,GOLDEN CITY ELEM.,41.84%,,,N,98,41
+mo,006-103,GOLDEN CITY R-III,1050-27,GOLDEN CITY HIGH,32.11%,,,N,109,35
+mo,048-913,GORDON PARKS ELEM.,6935,GORDON PARKS ELEM,59.76%,,50.83%,Y,120,72
+mo,048-074,GRANDVIEW C-4,1020-1,GRANDVIEW ALTERNATIVE SCH.,64.21%,,,N,95,61
+mo,048-074,GRANDVIEW C-4,4040-10,BUTCHER-GREENE ELEM.,59.78%,,,N,363,217
+mo,048-074,GRANDVIEW C-4,4080-2,CONN-WEST ELEM.,52.88%,,,N,382,202
+mo,048-074,GRANDVIEW C-4,5000-0,HIGH GROVE EARLY CHILDHOOD CENTER,61.81%,,,N,199,123
+mo,048-074,GRANDVIEW C-4,5020,MARTIN CITY ELEM.,40.49%,,,N,778,315
+mo,048-074,GRANDVIEW C-4,1050-28,GRANDVIEW SR. HIGH,33.00%,,,N,1088,359
+mo,048-074,GRANDVIEW C-4,2100,GRANDVIEW MIDDLE,36.56%,,,N,599,219
+mo,048-074,GRANDVIEW C-4,4020-44,BELVIDERE ELEM.,34.75%,,,N,305,106
+mo,048-074,GRANDVIEW C-4,5040-0,MEADOWMERE ELEM.,34.53%,,,N,417,144
+mo,050-002,GRANDVIEW R-II,3000-13,GRANDVIEW MIDDLE,33.99%,,,N,153,52
+mo,050-002,GRANDVIEW R-II,4020-45,GRANDVIEW ELEM.,37.45%,,,N,267,100
+mo,029-004,GREENFIELD R-IV,4020-46,GREENFIELD ELEM.,41.15%,,,N,209,86
+mo,040-100,GRUNDY CO R-V,4020-47,GRUNDY CO. ELEM.,46.27%,,,N,67,31
+mo,048-902,GUADALUPE CENTERS SC,3925,GUADALUPE CENTERS MIDDLE,30.28%,,,N,327,99
+mo,096-103,HANCOCK PLACE,4020-48,HANCOCK PLACE ELEM.,57.49%,,56.56%,Y,669,385
+mo,096-103,HANCOCK PLACE,1050-29,HANCOCK SR. HIGH,,,56.56%,Y,400,
+mo,096-103,HANCOCK PLACE,3000-14,HANCOCK PLACE MIDDLE,,,56.56%,Y,333,
+mo,064-075,HANNIBAL 60,4060-6,EUGENE FIELD ELEM.,75.81%,,,N,215,163
+mo,064-075,HANNIBAL 60,7500-6,EARLY CHILDHOOD CENTER,48.06%,,,N,206,99
+mo,064-075,HANNIBAL 60,3000-15,HANNIBAL MIDDLE,37.95%,,,N,867,329
+mo,064-075,HANNIBAL 60,4020-49,A. D. STOWELL ELEM.,39.84%,,,N,246,98
+mo,064-075,HANNIBAL 60,4080-3,MARK TWAIN ELEM.,33.98%,,,N,359,122
+mo,064-075,HANNIBAL 60,5010,VETERANS ELEM.,36.69%,,,N,447,164
+mo,114-113,HARTVILLE R-II,4020-50,GROVESPRING ELEM.,57.83%,,,N,83,48
+mo,114-113,HARTVILLE R-II,4040-11,HARTVILLE ELEM.,41.92%,,,N,260,109
+mo,114-113,HARTVILLE R-II,1050-30,HARTVILLE HIGH,35.63%,,,N,334,119
+mo,115-925,HAWTHORN LEADERSHIP,1905  ,HAWTHORN HIGH,52.50%,,69.90%,Y,52,27
+mo,115-925,HAWTHORN LEADERSHIP,3910  ,HAWTHORN MIDDLE,56.67%,,69.90%,Y,51,29
+mo,078-002,HAYTI R-II,1050-31,HAYTI HIGH,66.36%,,70.23%,Y,280,186
+mo,078-002,HAYTI R-II,4040-12,MATHIS ELEM.,78.68%,,70.23%,Y,399,314
+mo,078-002,HAYTI R-II,8001  ,OAKVIEW LEARNING CENTER,100.00%,,70.23%,Y,23,23
+mo,096-088,HAZELWOOD,2100-0,EAST MIDDLE,66.48%,,68.89%,Y,231,154
+mo,096-088,HAZELWOOD,2170,SOUTHEAST MIDDLE,70.15%,,68.89%,Y,553,388
+mo,096-088,HAZELWOOD,4020-51,KEEVEN ELEM.,59.83%,,68.89%,Y,304,182
+mo,096-088,HAZELWOOD,4150,GRANNEMANN ELEM.,69.11%,,68.89%,Y,373,258
+mo,096-088,HAZELWOOD,4160-0,JURY ELEM.,49.66%,,68.89%,Y,419,208
+mo,096-088,HAZELWOOD,4180-0,LARIMORE ELEM.,72.30%,,68.89%,Y,384,278
+mo,096-088,HAZELWOOD,4260-0,TWILLMAN ELEM.,90.82%,,68.89%,Y,350,318
+mo,096-088,HAZELWOOD,4340-0,ARROWPOINT ELEM.,68.78%,,68.89%,Y,346,238
+mo,096-088,HAZELWOOD,1050-32,HAZELWOOD CENTRAL HIGH,42.91%,,,N,1720,738
+mo,096-088,HAZELWOOD,1060-1,HAZELWOOD EAST HIGH,68.07%,,,N,996,678
+mo,096-088,HAZELWOOD,1075,HAZELWOOD WEST HIGH,40.39%,,,N,2065,834
+mo,096-088,HAZELWOOD,2050-3,NORTHWEST MIDDLE,51.71%,,,N,820,424
+mo,096-088,HAZELWOOD,2070,CENTRAL MIDDLE,57.87%,,,N,781,452
+mo,096-088,HAZELWOOD,2130,NORTH MIDDLE,41.50%,,,N,841,349
+mo,096-088,HAZELWOOD,2150,WEST MIDDLE,41.33%,,,N,842,348
+mo,096-088,HAZELWOOD,4060-7,BROWN ELEM.,43.18%,,,N,352,152
+mo,096-088,HAZELWOOD,4100,COLD WATER ELEM.,44.81%,,,N,395,177
+mo,096-088,HAZELWOOD,4170,JAMESTOWN ELEM.,47.95%,,,N,317,152
+mo,096-088,HAZELWOOD,4200-0,LUSHER ELEM.,46.01%,,,N,376,173
+mo,096-088,HAZELWOOD,4210-0,MCCURDY ELEM.,46.67%,,,N,420,196
+mo,096-088,HAZELWOOD,4220,MCNAIR ELEM.,44.42%,,,N,412,183
+mo,096-088,HAZELWOOD,4250,TOWNSEND ELEM.,52.96%,,,N,355,188
+mo,096-088,HAZELWOOD,4280,WALKER ELEM.,46.48%,,,N,454,211
+mo,096-088,HAZELWOOD,4300,JANA ELEM.,43.33%,,,N,450,195
+mo,096-088,HAZELWOOD,4320-0,ARMSTRONG ELEM.,53.79%,,,N,422,227
+mo,096-088,HAZELWOOD,4040-13,BARRINGTON ELEM.,34.26%,,,N,470,161
+mo,096-088,HAZELWOOD,4080-4,LAWSON ELEM.,37.43%,,,N,382,143
+mo,043-004,HERMITAGE R-IV,1050-33,HERMITAGE HIGH,58.21%,,54.90%,Y,81,47
+mo,043-004,HERMITAGE R-IV,3000-16,HERMITAGE MIDDLE,58.18%,,54.90%,Y,48,28
+mo,043-004,HERMITAGE R-IV,4020-52,HERMITAGE ELEM.,52.86%,,54.90%,Y,157,83
+mo,048-072,HICKMAN MILLS C-1,4010-0,COMPASS ELEMENTARY,68.89%,,66.35%,Y,389,268
+mo,048-072,HICKMAN MILLS C-1,4015,DOBBS ELEM.,63.28%,,66.35%,Y,384,243
+mo,048-072,HICKMAN MILLS C-1,7500-7,EARLY CHILDHOOD CTR,62.71%,,66.35%,Y,236,148
+mo,048-072,HICKMAN MILLS C-1,4055  ,ERVIN EARLY LEARNING CENTER,69.73%,,66.35%,Y,707,493
+mo,048-072,HICKMAN MILLS C-1,4050-0,INGELS ELEM.,81.87%,,66.35%,Y,331,271
+mo,048-072,HICKMAN MILLS C-1,1050-34,RUSKIN HIGH,56.83%,,66.35%,Y,1135,645
+mo,048-072,HICKMAN MILLS C-1,4045,SANTA FE ELEM.,72.75%,,66.35%,Y,378,275
+mo,048-072,HICKMAN MILLS C-1,3050-0,SMITH-HALE MIDDLE,68.50%,,66.35%,Y,1181,809
+mo,048-072,HICKMAN MILLS C-1,4030-1,TRUMAN ELEM.,61.35%,,66.35%,Y,326,200
+mo,048-072,HICKMAN MILLS C-1,4035,WARFORD ELEM.,69.01%,,66.35%,Y,384,265
+mo,048-072,HICKMAN MILLS C-1,3030  ,HICKMAN MILLS 6TH GRADE CENTER,,,66.35%,Y,0,
+mo,048-904,HOGAN PREPARATORY AC,3945  ,HOGAN PREPARATORY ACAD MIDDLE,57.52%,,51.60%,Y,233,134
+mo,048-904,HOGAN PREPARATORY AC,6910  ,HOGAN PREPARATORY ACADEMY ELEM,70.21%,,51.60%,Y,385,270
+mo,048-904,HOGAN PREPARATORY AC,1935,HOGAN PREPARATORY ACADEMY- HIGH SCH,43.85%,,51.60%,Y,384,168
+mo,035-094,HOLCOMB R-III,4020-53,HOLCOMB ELEM.,31.25%,,51.79%,Y,291,91
+mo,035-094,HOLCOMB R-III,1050-35,HOLCOMB HIGH,29.02%,,51.79%,Y,211,61
+mo,106-005,HOLLISTER R-V,3000-17,HOLLISTER MIDDLE,37.41%,,,N,286,107
+mo,106-005,HOLLISTER R-V,4010-1,HOLLISTER EARLY CHILDHOOD CTR,39.61%,,,N,255,101
+mo,106-005,HOLLISTER R-V,4020-54,HOLLISTER ELEM.,38.93%,,,N,393,153
+mo,048-925,HOPE LEADERSHIP ACADE,6985  ,HOPE LEADERSHIP ACADEMY,76.79%,,84.69%,Y,98,75
+mo,107-152,HOUSTON R-I,4020-55,HOUSTON ELEMENTARY,46.57%,,,N,335,156
+mo,084-004,HUMANSVILLE R-IV,1050-36,HUMANSVILLE HIGH,46.43%,,63.08%,Y,88,41
+mo,084-004,HUMANSVILLE R-IV,3000-18,HUMANSVILLE MIDDLE,57.32%,,63.08%,Y,87,50
+mo,084-004,HUMANSVILLE R-IV,4020-56,HUMANSVILLE ELEM.,62.11%,,63.08%,Y,169,105
+mo,048-077,INDEPENDENCE 30,1021-0,INDEPENDENCE ACADEMY,51.96%,,,N,331,172
+mo,048-077,INDEPENDENCE 30,3060-0,CLIFFORD H. NOWLIN MIDDLE,44.67%,,,N,853,381
+mo,048-077,INDEPENDENCE 30,4040-14,THOMAS HART BENTON ELEM.,52.23%,,,N,448,234
+mo,048-077,INDEPENDENCE 30,4100-0,FAIRMOUNT ELEM.,46.00%,,,N,300,138
+mo,048-077,INDEPENDENCE 30,5070,MILL CREEK ELEM.,44.00%,,,N,275,121
+mo,048-077,INDEPENDENCE 30,5100,NORTH ROCK CREEK/KORTE ELEM.,48.12%,,,N,478,230
+mo,048-077,INDEPENDENCE 30,6030,PROCTER ELEM.,42.92%,,,N,233,100
+mo,048-077,INDEPENDENCE 30,6040,RANDALL ELEM.,62.28%,,,N,289,180
+mo,048-077,INDEPENDENCE 30,6050,SANTA FE TRAIL ELEM.,41.21%,,,N,381,157
+mo,048-077,INDEPENDENCE 30,6080,SUGAR CREEK ELEM.,43.06%,,,N,144,62
+mo,048-077,INDEPENDENCE 30,6100,THREE TRAILS ELEM.,44.79%,,,N,317,142
+mo,048-077,INDEPENDENCE 30,6130,ABRAHAM MALLINSON ELEMENTARY,48.47%,,,N,326,158
+mo,048-077,INDEPENDENCE 30,7500-8,HANTHORN SCH.,47.92%,,,N,265,127
+mo,048-077,INDEPENDENCE 30,7510,SUNSHINE CENTER,65.38%,,,N,156,102
+mo,048-077,INDEPENDENCE 30,1090,VAN HORN HIGH,34.96%,,,N,961,336
+mo,048-077,INDEPENDENCE 30,3000-19,BINGHAM SEVENTH GRADE CTR.,39.09%,,,N,811,317
+mo,048-077,INDEPENDENCE 30,3050-1,BRIDGER EIGHTH GRADE CTR.,34.96%,,,N,801,280
+mo,048-077,INDEPENDENCE 30,4080-5,BRYANT ELEM.,33.60%,,,N,247,83
+mo,048-077,INDEPENDENCE 30,4090-0,CASSELL PARK ELEMENTARY,38.18%,,,N,351,134
+mo,048-077,INDEPENDENCE 30,5010-0,GLENDALE ELEM.,34.12%,,,N,422,144
+mo,048-077,INDEPENDENCE 30,5040-1,JOHN W. LUFF ELEM.,32.10%,,,N,405,130
+mo,048-077,INDEPENDENCE 30,6020-0,OTT ELEM.,37.02%,,,N,470,174
+mo,048-077,INDEPENDENCE 30,6060,WILLIAM SOUTHERN ELEM.,37.72%,,,N,464,175
+mo,048-077,INDEPENDENCE 30,6070,SPRING BRANCH ELEM.,31.99%,,,N,297,95
+mo,048-077,INDEPENDENCE 30,6120,LITTLE BLUE ELEMENTARY,30.96%,,,N,323,100
+mo,047-065,IRON CO. C-4,1050-37,VIBURNUM HIGH,41.26%,,,N,206,85
+mo,047-065,IRON CO. C-4,4050-1,VIBURNUM ELEM.,58.33%,,,N,144,84
+mo,026-006,JEFFERSON CITY,5020-0,THORPE J. GORDON ELEM.,51.62%,,58.92%,Y,298,154
+mo,026-006,JEFFERSON CITY,4040-15,EAST ELEM.,53.72%,,58.92%,Y,264,142
+mo,026-006,JEFFERSON CITY,4080-6,SOUTH ELEM.,51.82%,,58.92%,Y,268,139
+mo,026-006,JEFFERSON CITY,4025,CALLAWAY HILLS ELEM.,38.31%,,,N,261,100
+mo,026-006,JEFFERSON CITY,4060-8,MOREAU HEIGHTS ELEM.,39.21%,,,N,329,129
+mo,026-006,JEFFERSON CITY,5040-2,WEST ELEM.,37.31%,,,N,335,125
+mo,026-006,JEFFERSON CITY,7500-9,SOUTHWEST EARLY CHILDHOOD CTR,34.29%,,,N,280,96
+mo,096-104,JENNINGS,1050-38,JENNINGS HIGH,62.32%,,63.63%,Y,705,439
+mo,096-104,JENNINGS,2050-4,JENNINGS JR. HIGH,67.09%,,63.63%,Y,402,270
+mo,096-104,JENNINGS,4020-57,FAIRVIEW PRIMARY,84.19%,,63.63%,Y,235,198
+mo,096-104,JENNINGS,4030-2,FAIRVIEW INTERMEDIATE,76.88%,,63.63%,Y,138,106
+mo,096-104,JENNINGS,4040-16,NORTHVIEW ELEM.,72.20%,,63.63%,Y,561,405
+mo,096-104,JENNINGS,4060-9,WOODLAND ELEM.,80.75%,,63.63%,Y,257,208
+mo,096-104,JENNINGS,4070-1,KENNETH C. HANRAHAN,73.81%,,63.63%,Y,193,142
+mo,046-137,JUNCTION HILL C-12,4020-58,JUNCTION HILL ELEM.,36.45%,,,N,214,78
+mo,048-078,KANSAS CITY 33,5670  ,AC PREP ELEMENTARY,79.45%,,58.23%,Y,397,315
+mo,048-078,KANSAS CITY 33,1670,AFRICAN CENTERED COLLEGE PREPARATORY,90.32%,,58.23%,Y,463,418
+mo,048-078,KANSAS CITY 33,5440,B. BANNEKER ELEM.,97.66%,,58.23%,Y,392,383
+mo,048-078,KANSAS CITY 33,5780,BORDER STAR ELEMENTARY,25.96%,,58.23%,Y,316,82
+mo,048-078,KANSAS CITY 33,1130,C. R. ANDERSON ALTERNATIVE,83.96%,,58.23%,Y,70,59
+mo,048-078,KANSAS CITY 33,1200,CENTRAL ACADEMY OF EXCELLENCE,92.53%,,58.23%,Y,525,486
+mo,048-078,KANSAS CITY 33,3090  ,CENTRAL MIDDLE SCHOOL,94.95%,,58.23%,Y,417,396
+mo,048-078,KANSAS CITY 33,1580,EAST HIGH SCHOOL,71.82%,,58.23%,Y,1112,799
+mo,048-078,KANSAS CITY 33,4450,FAXON ELEMENTARY,95.80%,,58.23%,Y,306,293
+mo,048-078,KANSAS CITY 33,4350,FOREIGN LANGUAGE ACADEMY,37.09%,,58.23%,Y,660,245
+mo,048-078,KANSAS CITY 33,4460,GARFIELD ELEM.,84.65%,,58.23%,Y,463,392
+mo,048-078,KANSAS CITY 33,5020-1,GEORGE MELCHER ELEM.,94.74%,,58.23%,Y,312,296
+mo,048-078,KANSAS CITY 33,4500,GLADSTONE ELEM.,68.28%,,58.23%,Y,398,272
+mo,048-078,KANSAS CITY 33,4270,HALE COOK ELEM.,31.89%,,58.23%,Y,264,84
+mo,048-078,KANSAS CITY 33,5450,HOLLIDAY MONTESSORI,51.48%,,58.23%,Y,353,182
+mo,048-078,KANSAS CITY 33,4700,JAMES ELEM.,62.37%,,58.23%,Y,229,143
+mo,048-078,KANSAS CITY 33,4580,JOHN T. HARTMAN ELEM.,91.35%,,58.23%,Y,303,277
+mo,048-078,KANSAS CITY 33,3050  ,LINCOLN COLLEGE ACADEMY MIDDLE,31.51%,,58.23%,Y,556,175
+mo,048-078,KANSAS CITY 33,1220,LINCOLN COLLEGE PREP.,23.10%,,58.23%,Y,973,225
+mo,048-078,KANSAS CITY 33,4880,LONGFELLOW ELEMENTARY,87.33%,,58.23%,Y,222,194
+mo,048-078,KANSAS CITY 33,4750,M.L. KING ELEMENTARY,95.45%,,58.23%,Y,591,564
+mo,048-078,KANSAS CITY 33,1340,NORTHEAST HIGH,77.59%,,58.23%,Y,642,498
+mo,048-078,KANSAS CITY 33,3100,NORTHEAST MIDDLE,83.40%,,58.23%,Y,656,547
+mo,048-078,KANSAS CITY 33,1400,PASEO ACAD. OF PERFORMING ARTS,56.09%,,58.23%,Y,642,360
+mo,048-078,KANSAS CITY 33,5660,PHYLLIS WHEATLEY ELEM.,84.01%,,58.23%,Y,393,330
+mo,048-078,KANSAS CITY 33,5240,PITCHER ELEM.,78.33%,,58.23%,Y,281,220
+mo,048-078,KANSAS CITY 33,5630,PRIMITIVO GARCIA ELEM.,84.39%,,58.23%,Y,327,276
+mo,048-078,KANSAS CITY 33,5250,RICHARDSON ELEM.,94.36%,,58.23%,Y,200,189
+mo,048-078,KANSAS CITY 33,4330,ROGERS ELEMENTARY,80.41%,,58.23%,Y,508,408
+mo,048-078,KANSAS CITY 33,5500,SWINNEY ELEM,46.56%,,58.23%,Y,417,194
+mo,048-078,KANSAS CITY 33,4310,TRAILWOODS ELEMENTARY,50.14%,,58.23%,Y,351,176
+mo,048-078,KANSAS CITY 33,5580,TROOST ELEM.,87.61%,,58.23%,Y,254,223
+mo,048-078,KANSAS CITY 33,5200,WENDELL PHILLIPS ELEMENTARY,90.11%,,58.23%,Y,315,284
+mo,048-078,KANSAS CITY 33,5700,WHITTIER ELEM.,73.61%,,58.23%,Y,375,276
+mo,048-078,KANSAS CITY 33,4760,WM. A. KNOTTS ELEM. MAGNET,78.87%,,58.23%,Y,55,43
+mo,048-078,KANSAS CITY 33,5740,WOODLAND ELEM.,77.12%,,58.23%,Y,113,87
+mo,048-929,KANSAS CITY GIRLS PREP,3945  -0,KANSAS CITY GIRLS PREP ACADEMY,51.39%,,51.95%,Y,154,79
+mo,048-912,KC INTERNATIONAL ACAD,6930-0,KC INTERNATIONAL - WALLACE,93.62%,,77.55%,Y,677,634
+mo,035-102,KENNETT 39,1050-39,KENNETT HIGH,42.18%,,52.35%,Y,505,213
+mo,035-102,KENNETT 39,3000-20,KENNETT MIDDLE,54.36%,,52.35%,Y,447,243
+mo,035-102,KENNETT 39,4040-17,H. BYRON MASTERSON ELEM.,68.03%,,52.35%,Y,554,377
+mo,035-102,KENNETT 39,4080-7,SOUTH ELEM.,55.79%,,52.35%,Y,448,250
+mo,013-062,KINGSTON 42,4020-59,KINGSTON ELEM.,12.12%,,45.00%,Y,40,5
+mo,110-014,KINGSTON K-14,3000-21,KINGSTON MIDDLE,48.08%,,44.55%,Y,182,88
+mo,110-014,KINGSTON K-14,4020-60,KINGSTON PRIMARY,43.89%,,44.55%,Y,215,94
+mo,110-014,KINGSTON K-14,4040-18,KINGSTON ELEMENTARY,42.78%,,44.55%,Y,176,75
+mo,110-014,KINGSTON K-14,1050-40,KINGSTON HIGH,39.27%,,44.55%,Y,253,99
+mo,115-914,KIPP ST LOUIS,6970,KIPP INSPIRE ACADEMY,74.88%,,75.41%,Y,377,282
+mo,115-914,KIPP ST LOUIS,1905  -0,KIPP ST. LOUIS HIGH,65.35%,,75.41%,Y,201,131
+mo,115-914,KIPP ST LOUIS,6973  ,KIPP TRIUMPH ACADEMY,69.47%,,75.41%,Y,387,269
+mo,115-914,KIPP ST LOUIS,6971  ,KIPP VICTORY ACADEMY,78.02%,,75.41%,Y,515,402
+mo,115-914,KIPP ST LOUIS,6972  ,KIPP WISDOM ACADEMY,79.32%,,75.41%,Y,489,388
+mo,115-914,KIPP ST LOUIS,6974  ,KIPP WONDER ACADEMY,75.47%,,75.41%,Y,44,33
+mo,048-918,KIPP: ENDEAVOR ACADEM,3920,KIPP: ENDEAVOR ACADEMY,9.56%,,47.81%,Y,565,54
+mo,048-918,KIPP: ENDEAVOR ACADEM,1050  ,KIPP KC LEGACY HIGH SCHOOL,,,47.81%,Y,98,
+mo,115-928,LA SALLE CHARTER SCHO,3910,LA SALLE CHARTER SCHOOL,52.80%,,,N,125,66
+mo,053-114,LACLEDE CO. C-5,4020-61,JOEL E. BARBER ELEM.,42.16%,,,N,453,191
+mo,085-045,LAQUEY R-V,3000-22,LAQUEY R-V MIDDLE,42.67%,,,N,150,64
+mo,085-045,LAQUEY R-V,4020-62,LAQUEY R-V ELEM.,43.61%,,,N,305,133
+mo,048-910,LEE A. TOLBERT COM. AC,6920,LEE A. TOLBERT COM. ACADEMY,64.32%,,,N,482,310
+mo,042-118,LEESVILLE R-IX,4020-63,LEESVILLE ELEM.,59.41%,,59.41%,Y,101,60
+mo,090-078,LESTERVILLE R-IV,1030,LESTERVILLE RANCH CAMPUS,100.00%,,,N,47,47
+mo,090-078,LESTERVILLE R-IV,4020-64,LESTERVILLE ELEM.,33.33%,,,N,105,35
+mo,107-154,LICKING R-VIII,4020-65,LICKING ELEM.,59.58%,,40.05%,Y,428,255
+mo,107-154,LICKING R-VIII,1050-41,LICKING HIGH,,,40.05%,Y,421,
+mo,115-902,LIFT FOR LIFE ACADEMY,3910-0,LIFT FOR LIFE ACADEMY,62.11%,,58.92%,Y,242,150
+mo,115-902,LIFT FOR LIFE ACADEMY,6905  -0,LIFT FOR LIFE ACADEMY ELEM.,81.20%,,58.92%,Y,389,316
+mo,115-902,LIFT FOR LIFE ACADEMY,1935  ,LIFT FOR LIFE ACADEMY HIGH SCH,59.48%,,58.92%,Y,389,231
+mo,008-106,LINCOLN R-II,1050-42,LINCOLN HIGH,40.17%,,,N,229,92
+mo,008-106,LINCOLN R-II,4020-66,LINCOLN ELEM.,46.69%,,44.44%,Y,270,126
+mo,036-133,LONEDELL R-XIV,4020-67,LONEDELL ELEM.,33.76%,,,N,311,105
+mo,082-108,LOUISIANA R-II,3000-23,LOUISIANA MIDDLE,34.59%,,,N,159,55
+mo,082-108,LOUISIANA R-II,4040-19,LOUISIANA ELEM.,39.17%,,,N,360,141
+mo,115-645,LOYOLA ACADEMY,3010,LOYOLA ACADEMY,45.90%,,,N,61,28
+mo,077-104,LUTIE R-VI,1050-43,LUTIE HIGH,40.00%,,61.86%,Y,78,31
+mo,077-104,LUTIE R-VI,4020-68,LUTIE ELEM.,52.17%,,61.86%,Y,40,21
+mo,015-004,MACKS CREEK R-V,4020-69,MACKS CREEK ELEM.,43.33%,,,N,180,78
+mo,015-004,MACKS CREEK R-V,1050-44,MACKS CREEK HIGH,36.99%,,,N,146,54
+mo,035-092,MALDEN R-I,1050-45,MALDEN HIGH,44.02%,,42.24%,Y,444,195
+mo,035-092,MALDEN R-I,4020-70,MALDEN ELEM.,59.72%,,42.24%,Y,484,289
+mo,097-119,MALTA BEND R-V,1050-46,MALTA BEND HIGH,76.19%,,52.38%,Y,36,27
+mo,097-119,MALTA BEND R-V,4020-71,MALTA BEND ELEM.,52.63%,,52.38%,Y,27,14
+mo,063-067,MARIES CO. R-II,3000-24,MARIES CO. MIDDLE,,,47.96%,Y,266,
+mo,063-067,MARIES CO. R-II,4020-72,BELLE ELEM.,,,47.96%,Y,249,
+mo,062-070,MARQUAND-ZION R-VI,1050-47,MARQUAND-ZION HIGH,53.97%,,49.61%,Y,67,36
+mo,062-070,MARQUAND-ZION R-VI,4020-73,MARQUAND ELEM.,46.55%,,49.61%,Y,60,28
+mo,097-129,MARSHALL,4020-74,BENTON ELEM.,42.34%,,,N,248,105
+mo,097-129,MARSHALL,4080-8,NORTHWEST ELEM.,43.03%,,,N,244,105
+mo,097-129,MARSHALL,7500-10,PRAIRIE VIEW,40.63%,,,N,128,52
+mo,097-129,MARSHALL,3000-25,BUEKER MIDDLE,37.25%,,,N,765,285
+mo,097-129,MARSHALL,4060-10,EASTWOOD ELEM.,38.43%,,,N,242,93
+mo,097-129,MARSHALL,5000-1,SOUTHEAST ELEM.,30.77%,,,N,247,76
+mo,060-077,MCDONALD CO. R-I,4040-20,NOEL ELEM.,43.03%,,,N,402,173
+mo,060-077,MCDONALD CO. R-I,4050-2,NOEL PRIMARY,41.77%,,,N,249,104
+mo,060-077,MCDONALD CO. R-I,3000-26,ANDERSON MIDDLE,32.95%,,,N,264,87
+mo,060-077,MCDONALD CO. R-I,4020-75,ANDERSON ELEM.,37.59%,,,N,532,200
+mo,060-077,MCDONALD CO. R-I,4060-11,PINEVILLE ELEM.,34.81%,,,N,181,63
+mo,060-077,MCDONALD CO. R-I,4070-2,PINEVILLE PRIMARY,34.00%,,,N,100,34
+mo,060-077,MCDONALD CO. R-I,5000-2,SOUTHWEST CITY ELEM.,38.90%,,,N,347,135
+mo,060-077,MCDONALD CO. R-I,5020-2,WHITE ROCK ELEM.,37.82%,,,N,394,149
+mo,009-077,MEADOW HEIGHTS R-II,3000-27,MEADOW HEIGHTS MIDDLE SCHOOL,40.82%,,,N,147,60
+mo,009-077,MEADOW HEIGHTS R-II,4020-76,MEADOW HEIGHTS ELEM.,42.68%,,,N,239,102
+mo,009-077,MEADOW HEIGHTS R-II,1050-48,MEADOW HEIGHTS HIGH,31.30%,,,N,131,41
+mo,004-110,MEXICO 59,4020-77,EUGENE FIELD ELEM.,43.39%,,48.52%,Y,372,161
+mo,004-110,MEXICO 59,4080-9,MCMILLAN ELEM.,44.33%,,48.52%,Y,353,156
+mo,004-110,MEXICO 59,2050-5,MEXICO MIDDLE,37.59%,,48.52%,Y,536,201
+mo,004-110,MEXICO 59,4060-12,HAWTHORNE ELEM.,37.14%,,48.52%,Y,431,160
+mo,088-081,MOBERLY,1020-2,NORTH CENTRAL REGIONAL,75.68%,,,N,37,28
+mo,088-081,MOBERLY,4020-78,GRATZ BROWN ELEM.,41.88%,,,N,499,209
+mo,088-081,MOBERLY,4060-13,NORTH PARK ELEM.,50.22%,,,N,227,114
+mo,088-081,MOBERLY,4080-10,SOUTH PARK ELEM.,47.41%,,,N,367,174
+mo,088-081,MOBERLY,3000-28,MOBERLY MIDDLE,36.61%,,,N,489,179
+mo,070-093,MONTGOMERY CO. R-II,3000-29,MONTGOMERY CO. MIDDLE,40.91%,,,N,286,117
+mo,070-093,MONTGOMERY CO. R-II,4040-21,JONESBURG ELEM.,43.86%,,,N,171,75
+mo,070-093,MONTGOMERY CO. R-II,4060-14,MONTGOMERY CITY ELEM.,45.79%,,,N,321,147
+mo,070-093,MONTGOMERY CO. R-II,1050-49,MONTGOMERY CO. HIGH,32.32%,,,N,362,117
+mo,071-091,MORGAN CO. R-I,4020-79,MORGAN CO. R-I ELEM.,53.11%,,55.87%,Y,418,222
+mo,071-091,MORGAN CO. R-I,1050-50,MORGAN CO. R-I HIGH,38.44%,,55.87%,Y,332,128
+mo,071-092,MORGAN CO. R-II,4020-80,MORGAN CO. ELEM.,41.54%,,,N,597,248
+mo,071-092,MORGAN CO. R-II,4040-22,MORGAN CO. SOUTH ELEM.,40.98%,,,N,61,25
+mo,071-092,MORGAN CO. R-II,1050-51,MORGAN CO. HIGH,30.50%,,,N,377,115
+mo,071-092,MORGAN CO. R-II,3000-30,MORGAN CO. MIDDLE,34.40%,,,N,343,118
+mo,115-402,MOST HOLY TRINITY SCHO,4020-81,HOLY TRINITY,,,,N,,
+mo,114-114,MOUNTAIN GROVE R-III,1050-52,MOUNTAIN GROVE HIGH,52.85%,,,N,386,204
+mo,114-114,MOUNTAIN GROVE R-III,3000-31,MOUNTAIN GROVE MIDDLE,59.05%,,,N,464,274
+mo,114-114,MOUNTAIN GROVE R-III,4020-82,MOUNTAIN GROVE ELEM.,63.81%,,,N,525,335
+mo,114-114,MOUNTAIN GROVE R-III,9030,SKYVIEW STATE SCHOOL,100.00%,,,N,10,10
+mo,046-130,MOUNTAIN VIEW-BIRCH,4010-2,BIRCH TREE ELEM.,58.52%,,40.46%,Y,210,123
+mo,046-130,MOUNTAIN VIEW-BIRCH,4020-83,MOUNTAIN VIEW ELEM.,41.26%,,40.46%,Y,445,184
+mo,046-130,MOUNTAIN VIEW-BIRCH,1050-53,LIBERTY SR. HIGH,37.03%,,,N,343,127
+mo,046-130,MOUNTAIN VIEW-BIRCH,3000-32,LIBERTY MIDDLE,39.79%,,,N,289,115
+mo,012-108,NEELYVILLE R-IV,4040-23,HILLVIEW ELEM.,43.68%,,,N,190,83
+mo,012-108,NEELYVILLE R-IV,4060-15,NEELYVILLE ELEM.,38.73%,,,N,173,67
+mo,108-142,NEVADA R-V,4040-24,BRYAN ELEM.,41.76%,,,N,340,142
+mo,108-142,NEVADA R-V,4020-84,BENTON ELEM.,37.58%,,,N,165,62
+mo,108-142,NEVADA R-V,4080-11,TRUMAN ELEM.,38.72%,,,N,514,199
+mo,108-142,NEVADA R-V,9066,CEDAR RIDGE STATE SCHOOL,38.46%,,,N,13,5
+mo,072-074,NEW MADRID CO. R-I,1060-2,CENTRAL HIGH,44.57%,,57.59%,Y,373,166
+mo,072-074,NEW MADRID CO. R-I,3000-33,CENTRAL MIDDLE,53.09%,,57.59%,Y,295,157
+mo,072-074,NEW MADRID CO. R-I,4100-1,LILBOURN ELEM.,68.02%,,57.59%,Y,237,161
+mo,072-074,NEW MADRID CO. R-I,4120,MATTHEWS ELEM.,60.40%,,57.59%,Y,151,91
+mo,072-074,NEW MADRID CO. R-I,4140-0,NEW MADRID ELEM.,50.71%,,57.59%,Y,255,129
+mo,081-095,NEWBURG R-II,4020-85,NEWBURG ELEM.,40.09%,,,N,212,85
+mo,081-095,NEWBURG R-II,1050-54,NEWBURG HIGH,37.69%,,,N,199,75
+mo,096-109,NORMANDY,4010  ,BARACK OBAMA ELEMENTARY SCHOOL,65.55%,,64.23%,Y,417,273
+mo,096-109,NORMANDY,4090  ,BELNOR ELEMENTARY,78.53%,,64.23%,Y,190,149
+mo,096-109,NORMANDY,4180-1,CASA Center for Academics and Social Advan,51.06%,,,N,94,48
+mo,096-109,NORMANDY,4100-2,JEFFERSON ELEM.,69.38%,,64.23%,Y,315,219
+mo,096-109,NORMANDY,4145,LUCAS CROSSING ELEMENTARY COMP,80.88%,,64.23%,Y,652,527
+mo,096-109,NORMANDY,5020-3,NORMANDY EARLY LEARNING CENTER,71.19%,,64.23%,Y,357,254
+mo,096-109,NORMANDY,1050-55,NORMANDY HIGH,64.46%,,64.23%,Y,594,383
+mo,096-109,NORMANDY,4160-1,WASHINGTON ELEM.,67.25%,,64.23%,Y,349,235
+mo,014-126,NORTH CALLAWAY CO. R-,4020-86,AUXVASSE ELEM.,35.29%,,,N,289,102
+mo,031-118,NORTH DAVIESS R-III,1050-56,NORTH DAVIESS HIGH,42.86%,,53.23%,Y,31,13
+mo,031-118,NORTH DAVIESS R-III,4020-87,NORTH DAVIESS ELEM.,56.67%,,53.23%,Y,31,18
+mo,078-001,NORTH PEMISCOT CO. R-I,1050-57,NORTH PEMISCOT SR. HIGH,40.31%,,45.00%,Y,129,52
+mo,078-001,NORTH PEMISCOT CO. R-I,4020-88,ROSS ELEM.,51.65%,,45.00%,Y,91,47
+mo,115-913,NORTH SIDE COMMUNITY,6965,NORTH SIDE COMMUNITY SCHOOL,54.23%,,77.52%,Y,316,171
+mo,115-913,NORTH SIDE COMMUNITY,6970  ,NORTH SIDE COMMUNITY-GRAND CTR,65.63%,,77.52%,Y,151,99
+mo,094-083,NORTH ST. FRANCOIS CO.,3000-34,NORTH CO. MIDDLE,31.68%,,,N,464,147
+mo,094-083,NORTH ST. FRANCOIS CO.,4020-89,NORTH COUNTY PRIMARY,38.14%,,,N,700,267
+mo,094-083,NORTH ST. FRANCOIS CO.,4030-3,INTERMEDIATE SCH.,36.27%,,,N,466,169
+mo,094-083,NORTH ST. FRANCOIS CO.,4040-25,NORTH COUNTY PARKSIDE ELEM.,35.70%,,,N,395,141
+mo,114-112,NORWOOD R-I,1050-58,NORWOOD HIGH,37.43%,,,N,179,67
+mo,114-112,NORWOOD R-I,4020-90,NORWOOD ELEM.,36.73%,,,N,196,72
+mo,075-086,OREGON-HOWELL R-III,1050-59,KOSHKONONG HIGH,41.86%,,,N,86,36
+mo,075-086,OREGON-HOWELL R-III,4020-91,KOSHKONONG ELEM.,50.00%,,,N,156,78
+mo,031-116,PATTONSBURG R-II,4020-92,PATTONSBURG ELEM.,39.36%,,,N,94,37
+mo,078-003,PEMISCOT CO. R-III,4020-93,FLOYD E. HAMLETT ELEM.,,,42.75%,Y,131,
+mo,080-122,PETTIS CO. R-XII,4020-94,PETTIS CO. ELEM.,52.63%,,45.77%,Y,142,75
+mo,034-122,PLAINVIEW R-VIII,4020-95,PLAINVIEW ELEM.,31.58%,,,N,95,30
+mo,084-006,PLEASANT HOPE R-VI,4020-96,PLEASANT HOPE ELEM.,38.26%,,,N,230,88
+mo,012-109,POPLAR BLUFF R-I,2050-6,POPLAR BLUFF JR. HIGH,41.51%,,,N,807,335
+mo,012-109,POPLAR BLUFF R-I,4040-26,POPLAR BLUFF 5TH & 6TH CTR.,47.21%,,,N,1095,517
+mo,012-109,POPLAR BLUFF R-I,1050-60,POPLAR BLUFF HIGH,37.24%,,,N,1348,502
+mo,012-109,POPLAR BLUFF R-I,4020-97,EUGENE FIELD ELEM.,69.71%,,49.92%,Y,277,193
+mo,012-109,POPLAR BLUFF R-I,4080-12,LAKE ROAD ELEM.,57.33%,,49.92%,Y,350,201
+mo,012-109,POPLAR BLUFF R-I,5020-4,MARK TWAIN KINDERGARTEN CTR.,49.45%,,49.92%,Y,364,180
+mo,012-109,POPLAR BLUFF R-I,7500-11,KINYON EARLY CHILDHOOD CTR.,45.51%,,49.92%,Y,313,142
+mo,012-109,POPLAR BLUFF R-I,5060,O'NEAL ELEM.,39.75%,,49.92%,Y,339,135
+mo,012-109,POPLAR BLUFF R-I,5040-3,OAK GROVE ELEM.,29.28%,,49.92%,Y,294,86
+mo,072-068,PORTAGEVILLE,1050-61,PORTAGEVILLE HIGH,40.16%,,,N,371,149
+mo,072-068,PORTAGEVILLE,4020-98,PORTAGEVILLE ELEM.,57.55%,,51.91%,Y,314,181
+mo,110-029,POTOSI R-III,3000-35,JOHN A. EVANS MIDDLE,44.73%,,41.67%,Y,342,153
+mo,110-029,POTOSI R-III,4080-13,POTOSI ELEM.,44.00%,,41.67%,Y,670,295
+mo,110-029,POTOSI R-III,1050-62,POTOSI HIGH,36.58%,,41.67%,Y,613,224
+mo,110-029,POTOSI R-III,4040-27,TROJAN INTERMEDIATE,42.34%,,41.67%,Y,422,179
+mo,110-029,POTOSI R-III,9024,CITADEL STATE SCHOOL,,,41.67%,Y,5,
+mo,027-057,PRAIRIE HOME R-V,1050-63,PRAIRIE HOME HIGH,34.78%,,,N,69,24
+mo,027-057,PRAIRIE HOME R-V,4020-99,PRAIRIE HOME ELEM.,35.62%,,,N,73,26
+mo,115-903,Premier Charter School,6915,ST. LOUIS CHARTER SCH.,32.18%,,,N,979,315
+mo,103-130,PUXICO R-VIII,2050-7,PUXICO JR HIGH,35.37%,,,N,164,58
+mo,103-130,PUXICO R-VIII,4020-100,PUXICO ELEM.,35.84%,,,N,385,138
+mo,104-044,REEDS SPRING R-IV,1020-3,NEW HORIZONS ALTERNATIVE,55.00%,,,N,20,11
+mo,104-044,REEDS SPRING R-IV,4020-101,REEDS SPRING PRIMARY,45.29%,,,N,276,125
+mo,104-044,REEDS SPRING R-IV,4030-4,REEDS SPRING ELEM.,47.37%,,,N,361,171
+mo,104-044,REEDS SPRING R-IV,3000-36,REEDS SPRING MIDDLE,39.29%,,,N,280,110
+mo,104-044,REEDS SPRING R-IV,4040-28,REEDS SPRING INTERMEDIATE,39.07%,,,N,279,109
+mo,007-124,RICH HILL R-IV,4020-102,RICH HILL ELEM.,30.81%,,,N,172,53
+mo,103-127,RICHLAND R-I,4040-29,RICHLAND ELEM.,33.91%,,,N,174,59
+mo,085-044,RICHLAND R-IV,4020-103,RICHLAND ELEM.,50.17%,,50.17%,Y,303,152
+mo,110-030,RICHWOODS R-VII,4020-104,RICHWOODS ELEM.,49.70%,,62.16%,Y,148,74
+mo,091-095,RIPLEY CO. R-III,4020-105,RIPLEY CO. ELEM.,56.12%,,48.74%,Y,119,67
+mo,091-093,RIPLEY CO. R-IV,4040-30,RIPLEY CO. ELEM.,48.74%,,,N,119,58
+mo,096-110,RITENOUR,1050-64,RITENOUR SR. HIGH,46.57%,,45.40%,Y,1529,712
+mo,096-110,RITENOUR,3000-37,HOECH MIDDLE,48.10%,,45.40%,Y,860,414
+mo,096-110,RITENOUR,4120-0,KRATZ ELEM.,43.49%,,45.40%,Y,525,228
+mo,096-110,RITENOUR,4140-1,MARION ELEM.,45.75%,,45.40%,Y,503,230
+mo,096-110,RITENOUR,4160-2,MARVIN ELEM.,40.32%,,45.40%,Y,515,208
+mo,096-110,RITENOUR,3050-2,RITENOUR MIDDLE,39.45%,,45.40%,Y,712,281
+mo,096-110,RITENOUR,4020-106,BUDER ELEM.,35.48%,,45.40%,Y,396,141
+mo,096-110,RITENOUR,4100-3,IVELAND ELEM.,39.34%,,45.40%,Y,433,170
+mo,096-110,RITENOUR,4220-0,WYLAND ELEM.,34.93%,,45.40%,Y,476,166
+mo,096-110,RITENOUR,7500-12,EARLY CHILDHOOD CTR.,36.80%,,45.40%,Y,198,73
+mo,096-111,RIVERVIEW GARDENS,1050-65,RIVERVIEW GARDENS SR. HIGH,71.66%,,75.35%,Y,1053,755
+mo,096-111,RIVERVIEW GARDENS,3000-38,R. G. CENTRAL MIDDLE,80.87%,,75.35%,Y,726,587
+mo,096-111,RIVERVIEW GARDENS,4020-107,DANFORTH ELEM.,81.02%,,75.35%,Y,251,203
+mo,096-111,RIVERVIEW GARDENS,4040-31,WESTVIEW MIDDLE,76.42%,,75.35%,Y,557,426
+mo,096-111,RIVERVIEW GARDENS,4050-3,GIBSON ELEM.,81.12%,,75.35%,Y,455,369
+mo,096-111,RIVERVIEW GARDENS,4060-16,GLASGOW ELEM.,81.27%,,75.35%,Y,278,226
+mo,096-111,RIVERVIEW GARDENS,4080-14,HIGHLAND ELEM.,88.57%,,75.35%,Y,309,274
+mo,096-111,RIVERVIEW GARDENS,5000-3,LEMASTERS ELEM.,78.98%,,75.35%,Y,281,222
+mo,096-111,RIVERVIEW GARDENS,5020-5,LEWIS AND CLARK ELEM.,85.31%,,75.35%,Y,145,124
+mo,096-111,RIVERVIEW GARDENS,5040-4,MEADOWS ELEM.,84.76%,,75.35%,Y,336,285
+mo,096-111,RIVERVIEW GARDENS,6020-1,KOCH ELEM.,86.34%,,75.35%,Y,264,228
+mo,096-111,RIVERVIEW GARDENS,6040-0,MOLINE ELEM.,81.97%,,75.35%,Y,301,247
+mo,096-111,RIVERVIEW GARDENS,7530,EARLY CHILDHOOD NORT,76.61%,,75.35%,Y,200,153
+mo,033-090,SALEM R-80,4040-32,SALEM UPPER ELEM.,46.53%,,41.55%,Y,328,153
+mo,033-090,SALEM R-80,9061,OZARK HILLS STATE SCHOOL,50.00%,,41.55%,Y,10,5
+mo,033-090,SALEM R-80,2050-8,SALEM MIDDLE SCHOOL,35.62%,,41.55%,Y,257,92
+mo,033-090,SALEM R-80,4020-108,WM. H. LYNCH ELEM.,39.81%,,41.55%,Y,281,112
+mo,033-090,SALEM R-80,1050-66,SALEM SR. HIGH,24.50%,,,N,547,134
+mo,100-062,SCOTT CO. CENTRAL,4020-109,SCOTT CO. CENTRAL ELEM.,41.56%,,65.22%,Y,138,57
+mo,100-062,SCOTT CO. CENTRAL,1050-67,SCOTT CO. CENTRAL HIGH,36.44%,,45.26%,Y,137,50
+mo,035-098,SENATH-HORNERSVILLE C,3000-39,HORNERSVILLE MIDDLE,50.00%,,45.36%,Y,216,108
+mo,035-098,SENATH-HORNERSVILLE C,4010-3,SENATH ELEM.,49.52%,,45.36%,Y,290,144
+mo,035-098,SENATH-HORNERSVILLE C,1050-68,SENATH-HORNERSVILLE SR. HIGH,35.45%,,45.36%,Y,195,69
+mo,005-127,SHELL KNOB 78,4020-110,SHELL KNOB ELEM.,42.76%,,52.45%,Y,143,61
+mo,100-063,SIKESTON R-6,1020-4,BAILEY ALTERNATE SCHOOL,69.83%,,51.66%,Y,86,60
+mo,100-063,SIKESTON R-6,2050-9,SIKESTON JR. HIGH,42.33%,,51.66%,Y,495,210
+mo,100-063,SIKESTON R-6,3050-3,SIKESTON MIDDLE,50.56%,,51.66%,Y,557,282
+mo,100-063,SIKESTON R-6,4020-111,SIKESTON KINDERGARTEN CTR.,56.28%,,51.66%,Y,403,227
+mo,100-063,SIKESTON R-6,4040-33,LEE HUNTER ELEM.,51.96%,,51.66%,Y,400,208
+mo,100-063,SIKESTON R-6,4050-4,MATTHEWS ELEM.,49.87%,,51.66%,Y,315,157
+mo,100-063,SIKESTON R-6,4070-3,SOUTHEAST ELEM.,52.38%,,51.66%,Y,313,164
+mo,100-063,SIKESTON R-6,1050-69,SIKESTON SR. HIGH,33.87%,,51.66%,Y,813,275
+mo,034-121,SKYLINE R-II,4020-112,SKYLINE ELEM.,48.98%,,,N,98,48
+mo,097-130,SLATER,4020-113,ALEXANDER ELEM.,46.72%,,55.89%,Y,230,107
+mo,097-130,SLATER,1050-70,SLATER HIGH,50.40%,,55.89%,Y,135,68
+mo,047-060,SOUTH IRON CO. R-I,4020-114,SOUTH IRON ELEM.,39.20%,,,N,176,69
+mo,078-005,SOUTH PEMISCOT CO. R-V,4020-115,CENTRAL ELEMENTARY,49.09%,,46.91%,Y,275,135
+mo,078-005,SOUTH PEMISCOT CO. R-V,4040-34,EAST ELEMENTARY,58.82%,,46.91%,Y,102,60
+mo,078-005,SOUTH PEMISCOT CO. R-V,1050-71,SOUTH PEMISCOT HIGH,39.76%,,46.91%,Y,254,101
+mo,035-099,SOUTHLAND C-9,4020-116,SOUTHLAND ELEM.,75.41%,,80.42%,Y,131,99
+mo,035-099,SOUTHLAND C-9,1050-72,SOUTHLAND HIGH,33.33%,,80.42%,Y,155,52
+mo,005-121,SOUTHWEST R-V,4020-117,SOUTHWEST ELEM.,45.00%,,,N,360,162
+mo,005-121,SOUTHWEST R-V,3000-40,SOUTHWEST MIDDLE,39.78%,,,N,269,107
+mo,096-119,SPECIAL SCHOOL DST. ST.,1089,NORTHVIEW,50.91%,,42.67%,Y,157,80
+mo,096-119,SPECIAL SCHOOL DST. ST.,4029,ACKERMAN SCH.,58.20%,,42.67%,Y,157,91
+mo,096-119,SPECIAL SCHOOL DST. ST.,4069,LITZSINGER,48.39%,,42.67%,Y,107,52
+mo,096-119,SPECIAL SCHOOL DST. ST.,1100,NORTH COUNTY TECHNICAL,36.04%,,42.67%,Y,664,239
+mo,040-101,SPICKARD R-II,4020-118,SPICKARD ELEM.,37.04%,,,N,27,10
+mo,011-082,ST JOSEPH,1050-73,BENTON HIGH,31.44%,,,N,652,205
+mo,011-082,ST JOSEPH,4070  ,CARDEN PARK ELEM,66.78%,,50.81%,Y,614,410
+mo,011-082,ST JOSEPH,4040-35,EDISON ELEM.,63.49%,,50.81%,Y,367,233
+mo,011-082,ST JOSEPH,4140-2,G. M. COLEMEN ELEM.,48.90%,,50.81%,Y,362,177
+mo,011-082,ST JOSEPH,3050-4,HARRY S. TRUMAN MIDDLE,46.15%,,50.81%,Y,468,216
+mo,011-082,ST JOSEPH,4180-2,HOSEA ELEM.,53.40%,,50.81%,Y,485,259
+mo,011-082,ST JOSEPH,4220-1,HYDE ELEM.,40.44%,,50.81%,Y,361,146
+mo,011-082,ST JOSEPH,1080,LAFAYETTE HIGH,,,50.81%,Y,678,
+mo,011-082,ST JOSEPH,4260-1,LINDBERGH ELEM.,59.69%,,50.81%,Y,511,305
+mo,011-082,ST JOSEPH,4280-0,MARK TWAIN ELEM.,54.97%,,50.81%,Y,342,188
+mo,011-082,ST JOSEPH,4390,PARKWAY ELEM.,43.97%,,50.81%,Y,398,175
+mo,011-082,ST JOSEPH,4400,PERSHING ELEM.,31.79%,,,N,280,89
+mo,011-082,ST JOSEPH,4420,PICKETT ELEM.,41.14%,,50.81%,Y,299,123
+mo,011-082,ST JOSEPH,3000-41,ROBIDOUX MIDDLE,51.61%,,50.81%,Y,436,225
+mo,011-082,ST JOSEPH,6000,SJSD ALTERNATIVE RESOURCE CTR,62.82%,,50.81%,Y,156,98
+mo,011-082,ST JOSEPH,4460-0,SKAITH ELEM.,36.83%,,,N,391,144
+mo,011-082,ST JOSEPH,3020,SPRING GARDEN MIDDLE,40.19%,,50.81%,Y,520,209
+mo,115-663,ST LOUIS CATHOLIC ACAD,4020-119,ST LOUIS CATHOLIC ACADEMY,85.60%,,60.34%,Y,179,153
+mo,081-094,ST. JAMES R-I,4020-120,LUCY WORTHAM JAMES ELEM.,33.83%,,,N,798,270
+mo,115-115,ST. LOUIS CITY,4990  ,ACAD OF ENVT SCI/MATH @ CARVER,85.06%,,63.88%,Y,124,105
+mo,115-115,ST. LOUIS CITY,3250  ,ACAD OF ENVT SCI/MATH MIDDLE,76.13%,,63.88%,Y,201,153
+mo,115-115,ST. LOUIS CITY,4000,ADAMS ELEM.,74.01%,,63.88%,Y,174,129
+mo,115-115,ST. LOUIS CITY,4250-0,AMES VISUAL/PERF. ARTS,79.11%,,63.88%,Y,179,142
+mo,115-115,ST. LOUIS CITY,4060-17,ASHLAND ELEM. AND BR.,87.44%,,63.88%,Y,211,184
+mo,115-115,ST. LOUIS CITY,1250,BEAUMONT HIGH,83.33%,,63.88%,Y,237,197
+mo,115-115,ST. LOUIS CITY,4400-0,BERTHA KNOX GILKEY PAMOJA ACAD @ COL,73.99%,,63.88%,Y,311,230
+mo,115-115,ST. LOUIS CITY,4180-3,BRYAN HILL ELEM.,78.29%,,63.88%,Y,152,119
+mo,115-115,ST. LOUIS CITY,4200-1,BUDER ELEM.,49.10%,,63.88%,Y,376,185
+mo,115-115,ST. LOUIS CITY,3050-5,BUSCH/ACADEMIC-ATHLETIC ACAD.,55.85%,,63.88%,Y,370,207
+mo,115-115,ST. LOUIS CITY,1500,CARNAHAN SCHOOL OF THE FUTURE,59.53%,,63.88%,Y,144,86
+mo,115-115,ST. LOUIS CITY,3070,CARR LANE VPA MIDDLE,77.66%,,63.88%,Y,454,353
+mo,115-115,ST. LOUIS CITY,1860,CENTRAL VISUAL/PERF. ARTS HIGH,54.52%,,63.88%,Y,301,164
+mo,115-115,ST. LOUIS CITY,4360,CLAY ELEM.,80.62%,,,N,129,104
+mo,115-115,ST. LOUIS CITY,1440,CLEVELAND NJROTC ACADEMY,59.57%,,,N,235,140
+mo,115-115,ST. LOUIS CITY,1100-0,CLYDE C MILLER ACADEMY,69.85%,,63.88%,Y,429,300
+mo,115-115,ST. LOUIS CITY,4420-0,COLUMBIA ELEM. COMM. ED. CTR.,76.11%,,63.88%,Y,184,140
+mo,115-115,ST. LOUIS CITY,1222,COMMUNITY ACCESS JOB TRAINING,56.41%,,63.88%,Y,71,40
+mo,115-115,ST. LOUIS CITY,3390,COMPTON-DREW ILC MIDDLE,64.07%,,63.88%,Y,472,302
+mo,115-115,ST. LOUIS CITY,4470,DEWEY SCH.-INTERNAT'L. STUDIES,60.24%,,63.88%,Y,406,245
+mo,115-115,ST. LOUIS CITY,4480,DUNBAR AND BR.,84.81%,,,N,158,134
+mo,115-115,ST. LOUIS CITY,5610,EARL NANCE SR. ELEM.,72.93%,,63.88%,Y,335,244
+mo,115-115,ST. LOUIS CITY,1024  ,EDUC THERAP SUPPORT AT MADISON,80.00%,,63.88%,Y,83,66
+mo,115-115,ST. LOUIS CITY,5520  ,ELIAS MICHAEL ELEM.,55.22%,,63.88%,Y,50,28
+mo,115-115,ST. LOUIS CITY,3140,FANNING MIDDLE COMMUNITY ED.,80.51%,,,N,195,157
+mo,115-115,ST. LOUIS CITY,4580-0,FARRAGUT ELEM.,80.35%,,,N,173,139
+mo,115-115,ST. LOUIS CITY,4630,FORD-FORD BR. ELEM. COMM. ED.,88.76%,,,N,169,150
+mo,115-115,ST. LOUIS CITY,4660,FROEBEL ELEM.,82.41%,,63.88%,Y,170,140
+mo,115-115,ST. LOUIS CITY,4730  ,GATEWAY ELEM.,70.89%,,63.88%,Y,558,396
+mo,115-115,ST. LOUIS CITY,1220-0,GATEWAY HIGH,54.29%,,63.88%,Y,674,366
+mo,115-115,ST. LOUIS CITY,3230,GATEWAY MIDDLE,73.88%,,63.88%,Y,530,392
+mo,115-115,ST. LOUIS CITY,4780,HAMILTON ELEM. COMMUNITY ED.,72.97%,,63.88%,Y,265,193
+mo,115-115,ST. LOUIS CITY,4880-0,HENRY ELEM.,81.55%,,63.88%,Y,216,176
+mo,115-115,ST. LOUIS CITY,4900,HERZOG ELEM.,74.57%,,63.88%,Y,234,174
+mo,115-115,ST. LOUIS CITY,4890,HICKEY ELEM.,78.90%,,63.88%,Y,236,186
+mo,115-115,ST. LOUIS CITY,4920,HODGEN ELEM.,79.73%,,63.88%,Y,206,164
+mo,115-115,ST. LOUIS CITY,4960,HUMBOLDT ACADEMY OF HIGHER LEARNIN,68.90%,,63.88%,Y,156,107
+mo,115-115,ST. LOUIS CITY,3020-0,ICA @ BLEWETT,79.41%,,63.88%,Y,76,60
+mo,115-115,ST. LOUIS CITY,5020-6,JEFFERSON ELEM.,85.06%,,63.88%,Y,124,105
+mo,115-115,ST. LOUIS CITY,5030,KENNARD/CLASSICAL JR. ACAD.,8.70%,,63.88%,Y,255,22
+mo,115-115,ST. LOUIS CITY,5060-0,LACLEDE ELEM.,86.49%,,63.88%,Y,224,194
+mo,115-115,ST. LOUIS CITY,5100-0,LEXINGTON ELEM.,77.04%,,63.88%,Y,277,213
+mo,115-115,ST. LOUIS CITY,3260,LONG MIDDLE COMMUNITY ED. CTR.,63.46%,,63.88%,Y,292,185
+mo,115-115,ST. LOUIS CITY,5180,LYON ACADEMY - BASIC INSTR.,71.47%,,63.88%,Y,302,216
+mo,115-115,ST. LOUIS CITY,5240-0,MALLINCKRODT A.B.I. ELEM.,5.49%,,63.88%,Y,277,15
+mo,115-115,ST. LOUIS CITY,5260,MANN ELEM.,52.94%,,63.88%,Y,273,145
+mo,115-115,ST. LOUIS CITY,5340,MASON ELEM.,41.05%,,63.88%,Y,387,159
+mo,115-115,ST. LOUIS CITY,1570,MCKINLEY CLASSICAL LEADERSHIP ACAD.,24.76%,,63.88%,Y,495,123
+mo,115-115,ST. LOUIS CITY,5500-0,MERAMEC ELEM.,79.46%,,63.88%,Y,200,159
+mo,115-115,ST. LOUIS CITY,1560,METRO HIGH,19.35%,,63.88%,Y,265,51
+mo,115-115,ST. LOUIS CITY,5560,MONROE ELEM.,76.95%,,63.88%,Y,211,162
+mo,115-115,ST. LOUIS CITY,5590,MULLANPHY BOTANICAL GARDENS,68.29%,,63.88%,Y,463,316
+mo,115-115,ST. LOUIS CITY,4970  ,NAHED CHAPMAN NEW AMERICAN ACA,44.86%,,63.88%,Y,294,132
+mo,115-115,ST. LOUIS CITY,5600,OAK HILL ELEM.,62.16%,,63.88%,Y,232,144
+mo,115-115,ST. LOUIS CITY,5620,PEABODY ELEM.,88.64%,,63.88%,Y,140,124
+mo,115-115,ST. LOUIS CITY,1680,ROOSEVELT HIGH,70.11%,,63.88%,Y,320,224
+mo,115-115,ST. LOUIS CITY,5780-0,SHAW VISUAL/PERF. ARTS CTR.,73.18%,,63.88%,Y,327,239
+mo,115-115,ST. LOUIS CITY,5800,SHENANDOAH ELEM.,72.38%,,63.88%,Y,147,106
+mo,115-115,ST. LOUIS CITY,5860,SIGEL ELEM. COMM. ED. CTR.,74.26%,,63.88%,Y,196,146
+mo,115-115,ST. LOUIS CITY,1730,SOLDAN INTERNATIONAL STUDIES,67.15%,,63.88%,Y,398,267
+mo,115-115,ST. LOUIS CITY,1510  ,ST. LOUIS MED/BIO SCIENCE HIGH,26.13%,,63.88%,Y,242,63
+mo,115-115,ST. LOUIS CITY,5930,STIX EARLY CHILDHOOD CTR.,47.94%,,63.88%,Y,478,229
+mo,115-115,ST. LOUIS CITY,1800,SUMNER HIGH,76.68%,,63.88%,Y,175,134
+mo,115-115,ST. LOUIS CITY,1540,TRANSPORTATION AND LAW,73.68%,,,N,190,140
+mo,115-115,ST. LOUIS CITY,1830,VASHON HIGH,72.92%,,63.88%,Y,457,333
+mo,115-115,ST. LOUIS CITY,5960,WALBRIDGE ELEM. COMMUNITY ED.,79.70%,,63.88%,Y,146,116
+mo,115-115,ST. LOUIS CITY,6010-0,WASHINGTON MONTESSORI,72.14%,,63.88%,Y,289,208
+mo,115-115,ST. LOUIS CITY,6030-0,WILKINSON EARLY CHILDHOOD CTR.,30.72%,,63.88%,Y,281,86
+mo,115-115,ST. LOUIS CITY,5970,WOERNER ELEM.,58.06%,,63.88%,Y,371,215
+mo,115-115,ST. LOUIS CITY,6120-0,WOODWARD ELEM.,72.12%,,63.88%,Y,236,170
+mo,115-115,ST. LOUIS CITY,2080,YEATMAN-LIDDELL PREP JR HIGH,81.03%,,63.88%,Y,311,252
+mo,015-001,STOUTLAND R-II,4020-121,STOUTLAND ELEM.,44.39%,,,N,223,99
+mo,015-001,STOUTLAND R-II,1050-74,STOUTLAND HIGH,35.15%,,,N,202,71
+mo,010-090,STURGEON R-V,4020-122,STURGEON ELEM.,44.36%,,,N,133,59
+mo,107-151,SUCCESS R-VI,4020-123,SUCCESS ELEM.,35.00%,,41.03%,Y,117,41
+mo,036-137,SULLIVAN C-2,4020-124,SULLIVAN ELEM.,32.02%,,,N,456,146
+mo,036-137,SULLIVAN C-2,4040-36,SULLIVAN PRIMARY,31.68%,,,N,546,173
+mo,107-153,SUMMERSVILLE R-II,4020-125,SUMMERSVILLE ELEM.,36.94%,,,N,222,82
+mo,115-930,THE ARCH COMMUNITY S,6905-0,THE ARCH COMMUNITY SCHOOL,86.92%,,,N,107,93
+mo,096-712,THE FREEDOM SCHOOL,4020-126,THE FREEDOM SCHOOL,62.63%,,,N,99,62
+mo,096-901,THE LEADERSHIP SCHOOL,6905  -1,THE LEADERSHIP SCHOOL,,,47.13%,Y,87,
+mo,012-110,TWIN RIVERS R-X,3000-42,QULIN MIDDLE,53.03%,,,N,132,70
+mo,012-110,TWIN RIVERS R-X,4040-37,FISK ELEM.,59.30%,,,N,371,220
+mo,012-110,TWIN RIVERS R-X,4060-18,QULIN ELEM.,63.49%,,,N,126,80
+mo,012-110,TWIN RIVERS R-X,1050-75,TWIN RIVERS HIGH,38.19%,,,N,254,97
+mo,048-901,UNIVERSITY ACADEMY,1915,UNIVERSITY ACADEMY,,,42.03%,Y,226,
+mo,048-901,UNIVERSITY ACADEMY,3925-0,UNIVERSITY ACADEMY MIDDLE,,,42.03%,Y,266,
+mo,048-901,UNIVERSITY ACADEMY,6965-0,UNIVERSITY ACADEMY LOWER SCHL,,,42.03%,Y,581,
+mo,096-112,UNIVERSITY CITY,1050-76,UNIVERSITY CITY SR. HIGH,55.87%,,44.92%,Y,737,412
+mo,096-112,UNIVERSITY CITY,2000,BRITTANY WOODS,63.88%,,58.37%,Y,571,365
+mo,096-112,UNIVERSITY CITY,4060-19,BARBARA JORDAN ELEM.,71.07%,,58.37%,Y,354,252
+mo,096-112,UNIVERSITY CITY,4100-4,FLYNN PARK ELEM.,40.88%,,44.92%,Y,307,126
+mo,096-112,UNIVERSITY CITY,4140-3,JACKSON PARK ELEM.,60.28%,,58.37%,Y,306,184
+mo,096-112,UNIVERSITY CITY,4200-2,PERSHING ELEM.,74.62%,,58.37%,Y,299,223
+mo,096-112,UNIVERSITY CITY,7500-13,JULIA GOLDSTEIN EARLY CHILD.,36.05%,,58.37%,Y,137,49
+mo,055-111,VERONA R-VII,4020-127,VERONA ELEM.,32.16%,,,N,199,64
+mo,109-003,WARREN CO. R-III,4040-38,REBECCA BOONE ELEM.,42.40%,,,N,434,184
+mo,109-003,WARREN CO. R-III,4020-128,DANIEL BOONE ELEM.,38.96%,,,N,385,150
+mo,109-003,WARREN CO. R-III,4060-20,WARRIOR RIDGE ELEM,31.89%,,,N,533,170
+mo,008-107,WARSAW R-IX,3000-43,JOHN BOISE MIDDLE,47.06%,,46.84%,Y,289,136
+mo,008-107,WARSAW R-IX,4020-129,NORTH ELEM.,48.63%,,46.84%,Y,364,177
+mo,008-107,WARSAW R-IX,4040-39,SOUTH ELEM.,55.56%,,46.84%,Y,270,150
+mo,008-107,WARSAW R-IX,1050-77,WARSAW HIGH,38.33%,,46.84%,Y,360,138
+mo,046-134,WEST PLAINS R-VII,4030-5,WEST PLAINS ELEM.,43.38%,,,N,740,321
+mo,046-134,WEST PLAINS R-VII,3000-44,WEST PLAINS MIDDLE,33.43%,,,N,661,221
+mo,046-134,WEST PLAINS R-VII,5000-4,SOUTH FORK ELEM.,30.36%,,,N,168,51
+mo,094-087,WEST ST. FRANCOIS CO. R,8001,ROCKY CREEK YOUTH RANCH BOYS,100.00%,,,N,24,24
+mo,094-087,WEST ST. FRANCOIS CO. R,3000-45,WEST COUNTY MIDDLE,30.25%,,,N,238,72
+mo,094-087,WEST ST. FRANCOIS CO. R,4020-130,WEST COUNTY ELEM.,38.71%,,,N,403,156
+mo,005-120,WHEATON R-III,1050-78,WHEATON HIGH,30.56%,,,N,180,55
+mo,005-120,WHEATON R-III,4020-131,WHEATON ELEM.,37.97%,,,N,237,90
+mo,046-131,WILLOW SPRINGS R-IV,1050-79,WILLOW SPRINGS HIGH,50.90%,,,N,389,198
+mo,046-131,WILLOW SPRINGS R-IV,3000-46,WILLOW SPRINGS MIDDLE,57.68%,,,N,397,229
+mo,046-131,WILLOW SPRINGS R-IV,4040-40,WILLOW SPRINGS ELEM.,100.00%,,,N,324,324
+mo,101-105,WINONA R-III,4020-132,WINONA ELEM.,54.81%,,,N,343,188
+mo,101-105,WINONA R-III,1050-80,WINONA HIGH,37.30%,,,N,126,47
+mo,009-080,WOODLAND R-IV,3000-47,WOODLAND MIDDLE,44.98%,,,N,289,130
+mo,009-080,WOODLAND R-IV,4040-41,WOODLAND ELEM.,46.92%,,,N,341,160
+mo,009-079,ZALMA R-V,1050-81,ZALMA HIGH,41.96%,,47.95%,Y,112,47
+mo,009-079,ZALMA R-V,4020-133,ZALMA ELEM.,54.21%,,47.95%,Y,107,58

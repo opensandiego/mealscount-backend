@@ -1,0 +1,214 @@
+state,District Code,District Name,School Code,School Name,individual_isp,proxy_isp,claiming_isp,participating_in_cep,total_enrolled,total_eligible
+District of Columbia,155,Achievement Preparatory Academy PCS,217,Achievement Preparatory Academy PCS - Wahler Place Middle School,83.42%,,,N,187,156
+District of Columbia,155,Achievement Preparatory Academy PCS,10319,Achievement Preparatory Academy-Elementary School,,,62.50%,Y,198,
+District of Columbia,103,Apple Tree Early Learning Public Charter School,1137,Oklahoma Ave. Campus,61.64%,,60.48%,Y,72,44
+District of Columbia,103,Apple Tree Early Learning Public Charter School,141,AppleTree Institute - Southwest,51.35%,,60.48%,Y,74,38
+District of Columbia,103,Apple Tree Early Learning Public Charter School,140,Columbia Heights Campus,67.65%,,60.48%,Y,102,69
+District of Columbia,103,Apple Tree Early Learning Public Charter School,1069,Parklands Campus - Southeast,78.95%,,60.48%,Y,95,75
+District of Columbia,103,Apple Tree Early Learning Public Charter School,3072,Douglass Knoll Campus - Southeast,93.75%,,60.48%,Y,48,45
+District of Columbia,103,Apple Tree Early Learning Public Charter School,3073,AppleTree Institute - Lincoln Park,16.07%,,,N,56,9
+District of Columbia,107,Bridges PCS,142,Bridges Public Charter School,40.42%,,41.34%,Y,390,158
+District of Columbia,334,Capital Village Public Charter School,1145,Capital Village Public Charter School,43.37%,,52.08%,Y,109,47
+District of Columbia,123,Cedar Tree Academy PCS,188,CEDAR TREE ACADEMY PUBLIC CHARTER SCHOOL,74.35%,,62.50%,Y,431,320
+District of Columbia,156,Center City PCS,1108,Center City PCS - Trinidad Campus,65.19%,,47.86%,Y,222,145
+District of Columbia,156,Center City PCS,1103,Center City PCS - Brightwood Campus,27.45%,,47.86%,Y,256,70
+District of Columbia,156,Center City PCS,1106,Center City PCS - Petworth Campus,33.19%,,47.86%,Y,255,85
+District of Columbia,156,Center City PCS,1105,Center City PCS - Congress Heights Campus,52.81%,,47.86%,Y,256,135
+District of Columbia,156,Center City PCS,1104,Center City PCS - Capitol Hill Campus,64.89%,,47.86%,Y,256,166
+District of Columbia,156,Center City PCS,1107,Center City PCS - Shaw Campus,50.50%,,47.86%,Y,220,111
+District of Columbia,109,Cesar Chavez PCS,109,Cesar Chavez PCS for Public Policy - Parkside High School,67.92%,,62.50%,Y,232,158
+District of Columbia,109,Cesar Chavez PCS,10315,Parkside Middle School,,,62.50%,Y,170,
+District of Columbia,115,DC Preparatory Academy PCS,218,DC Prep Benning Middle Campus,55.02%,,55.69%,Y,319,176
+District of Columbia,115,DC Preparatory Academy PCS,276,DC Prep Anacostia Elementary Campus,68.41%,,55.69%,Y,453,310
+District of Columbia,115,DC Preparatory Academy PCS,130,DC Prep Edgewood Elementary Campus,48.36%,,55.69%,Y,453,219
+District of Columbia,115,DC Preparatory Academy PCS,1151,Anacostia Middle Campus,65.38%,,55.69%,Y,213,139
+District of Columbia,115,DC Preparatory Academy PCS,196,DC Prep Edgewood Middle Campus,39.09%,,55.69%,Y,319,125
+District of Columbia,115,DC Preparatory Academy PCS,1110,DC Prep Benning Elementary Campus,60.89%,,55.69%,Y,453,276
+District of Columbia,001,DC Public Schools (DCPS),202,Aiton Elementary School,75.38%,,60.51%,Y,210,158
+District of Columbia,001,DC Public Schools (DCPS),203,Amidon-Bowen Elementary School,60.06%,,60.51%,Y,339,204
+District of Columbia,001,DC Public Schools (DCPS),450,Anacostia High School,75.76%,,60.51%,Y,332,252
+District of Columbia,001,DC Public Schools (DCPS),452,Ballou High School,74.85%,,60.51%,Y,680,509
+District of Columbia,001,DC Public Schools (DCPS),462,Ballou STAY High School,69.70%,,60.51%,Y,332,231
+District of Columbia,001,DC Public Schools (DCPS),204,Bancroft Elementary School,18.33%,,60.51%,Y,713,131
+District of Columbia,001,DC Public Schools (DCPS),204-0,Bard High School Early College,46.28%,,45.32%,Y,372,172
+District of Columbia,001,DC Public Schools (DCPS),1058,Barnard Elementary School,42.37%,,60.51%,Y,636,269
+District of Columbia,001,DC Public Schools (DCPS),205,Beers Elementary School,58.29%,,60.51%,Y,394,230
+District of Columbia,001,DC Public Schools (DCPS),402,Benjamin Banneker High School,24.34%,,,N,534,130
+District of Columbia,001,DC Public Schools (DCPS),212,Brent Elementary School,4.68%,,,N,427,20
+District of Columbia,001,DC Public Schools (DCPS),206,Brightwood Education Campus,35.63%,,45.32%,Y,627,223
+District of Columbia,001,DC Public Schools (DCPS),402-0,Brookland Middle School,57.62%,,60.51%,Y,371,214
+District of Columbia,001,DC Public Schools (DCPS),212-0,Browne Education Campus,69.40%,,60.51%,Y,458,318
+District of Columbia,001,DC Public Schools (DCPS),213,Bruce-Monroe Elementary School @ Park View,29.05%,,60.51%,Y,454,132
+District of Columbia,001,DC Public Schools (DCPS),347,Bunker Hill Elementary School,50.25%,,60.51%,Y,208,105
+District of Columbia,001,DC Public Schools (DCPS),404,Burroughs Elementary School,41.57%,,60.51%,Y,284,118
+District of Columbia,001,DC Public Schools (DCPS),296,Burrville Elementary School,71.32%,,60.51%,Y,269,192
+District of Columbia,001,DC Public Schools (DCPS),219,C.W. Harris Elementary School,78.13%,,60.51%,Y,270,211
+District of Columbia,001,DC Public Schools (DCPS),360,Capitol Hill Montessori School @ Logan,21.84%,,,N,380,83
+District of Columbia,001,DC Public Schools (DCPS),220,Cardozo Education Campus,44.26%,,60.51%,Y,676,299
+District of Columbia,001,DC Public Schools (DCPS),221,Cleveland Elementary School,47.21%,,60.51%,Y,297,140
+District of Columbia,001,DC Public Schools (DCPS),247,Columbia Heights Education Campus,39.86%,,45.32%,Y,1582,631
+District of Columbia,001,DC Public Schools (DCPS),360-0,Coolidge High School,48.82%,,60.51%,Y,788,385
+District of Columbia,001,DC Public Schools (DCPS),405,Deal Middle School,9.37%,,,N,1409,132
+District of Columbia,001,DC Public Schools (DCPS),454,Dorothy I. Height Elementary School,46.84%,,60.51%,Y,425,199
+District of Columbia,001,DC Public Schools (DCPS),224,Drew Elementary School,78.82%,,60.51%,Y,216,170
+District of Columbia,001,DC Public Schools (DCPS),471,Duke Ellington School of the Arts,19.96%,,,N,566,113
+District of Columbia,001,DC Public Schools (DCPS),442,Dunbar High School,61.42%,,60.51%,Y,774,475
+District of Columbia,001,DC Public Schools (DCPS),455,Eastern High School,62.22%,,60.51%,Y,787,490
+District of Columbia,001,DC Public Schools (DCPS),232,Eaton Elementary School,9.88%,,,N,425,42
+District of Columbia,001,DC Public Schools (DCPS),405-0,Eliot-Hine Middle School,56.62%,,60.51%,Y,339,192
+District of Columbia,001,DC Public Schools (DCPS),349,Excel Academy,80.94%,,60.51%,Y,407,329
+District of Columbia,001,DC Public Schools (DCPS),231,Garfield Elementary School,86.43%,,60.51%,Y,258,223
+District of Columbia,001,DC Public Schools (DCPS),471-0,Garrison Elementary School,32.93%,,60.51%,Y,345,114
+District of Columbia,001,DC Public Schools (DCPS),467,H.D. Cooke Elementary School,50.39%,,60.51%,Y,410,207
+District of Columbia,001,DC Public Schools (DCPS),457,H.D. Woodson High School,65.93%,,,N,499,329
+District of Columbia,001,DC Public Schools (DCPS),246,Hardy Middle School,11.67%,,,N,540,63
+District of Columbia,001,DC Public Schools (DCPS),232-0,Hart Middle School,80.28%,,60.51%,Y,466,374
+District of Columbia,001,DC Public Schools (DCPS),258,Hearst Elementary School,11.57%,,,N,337,39
+District of Columbia,001,DC Public Schools (DCPS),407,Hendley Elementary School,91.16%,,60.51%,Y,344,314
+District of Columbia,001,DC Public Schools (DCPS),318,Houston Elementary School,66.92%,,60.51%,Y,274,183
+District of Columbia,001,DC Public Schools (DCPS),252,Hyde-Addison Elementary School,11.05%,,,N,371,41
+District of Columbia,001,DC Public Schools (DCPS),238,Ida B Wells Middle School ,52.00%,,45.32%,Y,579,301
+District of Columbia,001,DC Public Schools (DCPS),227,J.O. Wilson Elementary School,56.84%,,60.51%,Y,441,251
+District of Columbia,001,DC Public Schools (DCPS),254,Janney Elementary School,1.04%,,,N,672,7
+District of Columbia,001,DC Public Schools (DCPS),464,Jefferson Middle School Academy,51.33%,,60.51%,Y,385,198
+District of Columbia,001,DC Public Schools (DCPS),336,John Lewis Elementary School,30.43%,,,N,391,119
+District of Columbia,001,DC Public Schools (DCPS),246-0,Johnson Middle School,82.06%,,60.51%,Y,350,287
+District of Columbia,001,DC Public Schools (DCPS),413,Kelly Miller Middle School,75.36%,,60.51%,Y,429,323
+District of Columbia,001,DC Public Schools (DCPS),258-0,Ketcham Elementary School,83.11%,,60.51%,Y,306,254
+District of Columbia,001,DC Public Schools (DCPS),272,Key Elementary School,1.55%,,,N,322,5
+District of Columbia,001,DC Public Schools (DCPS),249,Kimball Elementary School @ Davis,83.25%,,60.51%,Y,404,336
+District of Columbia,001,DC Public Schools (DCPS),251,King Elementary School,86.12%,,60.51%,Y,259,223
+District of Columbia,001,DC Public Schools (DCPS),252-0,Kramer Middle School,80.36%,,60.51%,Y,292,235
+District of Columbia,001,DC Public Schools (DCPS),261,Lafayette Elementary School,2.43%,,,N,863,21
+District of Columbia,001,DC Public Schools (DCPS),1071,Langdon Elementary School,56.43%,,60.51%,Y,353,199
+District of Columbia,001,DC Public Schools (DCPS),339,Langley Elementary School,54.80%,,60.51%,Y,361,198
+District of Columbia,001,DC Public Schools (DCPS),254-0,LaSalle-Backus Education Campus,51.50%,,60.51%,Y,276,142
+District of Columbia,001,DC Public Schools (DCPS),433,Lawrence E. Boone Elementary School,77.46%,,60.51%,Y,435,337
+District of Columbia,001,DC Public Schools (DCPS),336-0,Leckie Education Campus,60.00%,,60.51%,Y,453,272
+District of Columbia,001,DC Public Schools (DCPS),271,Ludlow-Taylor Elementary School,16.89%,,,N,438,74
+District of Columbia,001,DC Public Schools (DCPS),416,Luke C. Moore High School,70.62%,,45.32%,Y,357,252
+District of Columbia,001,DC Public Schools (DCPS),421,MacFarland Middle School,39.12%,,60.51%,Y,674,264
+District of Columbia,001,DC Public Schools (DCPS),257,Malcolm X Elementary School @ Green,83.18%,,60.51%,Y,225,187
+District of Columbia,001,DC Public Schools (DCPS),273,Mann Elementary School,1.64%,,,N,366,6
+District of Columbia,001,DC Public Schools (DCPS),284,Marie Reed Elementary School,26.15%,,60.51%,Y,473,124
+District of Columbia,001,DC Public Schools (DCPS),274,Maury Elementary School,9.96%,,,N,522,52
+District of Columbia,001,DC Public Schools (DCPS),272-0,McKinley Middle School,62.36%,,45.32%,Y,291,181
+District of Columbia,001,DC Public Schools (DCPS),259,McKinley Technology High School,27.96%,,,N,683,191
+District of Columbia,001,DC Public Schools (DCPS),1165,Military Road Early Learning Center,32.31%,,36.00%,Y,66,21
+District of Columbia,001,DC Public Schools (DCPS),344,Miner Elementary School,64.32%,,60.51%,Y,377,242
+District of Columbia,001,DC Public Schools (DCPS),417,Moten Elementary School,91.19%,,60.51%,Y,229,209
+District of Columbia,001,DC Public Schools (DCPS),287,Murch Elementary School,8.35%,,,N,635,53
+District of Columbia,001,DC Public Schools (DCPS),261-0,Nalle Elementary School,67.99%,,60.51%,Y,281,191
+District of Columbia,001,DC Public Schools (DCPS),262,Noyes Elementary School,72.27%,,60.51%,Y,250,181
+District of Columbia,001,DC Public Schools (DCPS),370,Oyster-Adams Bilingual School,7.10%,,,N,747,53
+District of Columbia,001,DC Public Schools (DCPS),264,Patterson Elementary School,89.40%,,60.51%,Y,270,241
+District of Columbia,001,DC Public Schools (DCPS),291,Payne Elementary School,32.21%,,60.51%,Y,328,106
+District of Columbia,001,DC Public Schools (DCPS),301,Peabody Elementary School (Capitol Hill Cluster),7.11%,,,N,211,15
+District of Columbia,001,DC Public Schools (DCPS),266,"Phelps Architecture, Construction and Engineering High School",48.71%,,60.51%,Y,328,160
+District of Columbia,001,DC Public Schools (DCPS),271-0,Plummer Elementary School,68.75%,,60.51%,Y,221,152
+District of Columbia,001,DC Public Schools (DCPS),884,Powell Elementary School,32.79%,,60.51%,Y,486,159
+District of Columbia,001,DC Public Schools (DCPS),420,Randle Highlands Elementary School,60.42%,,60.51%,Y,288,174
+District of Columbia,001,DC Public Schools (DCPS),308,Raymond Education Campus,50.13%,,45.32%,Y,367,184
+District of Columbia,001,DC Public Schools (DCPS),273-0,River Terrace Education Campus,52.63%,,60.51%,Y,133,70
+District of Columbia,001,DC Public Schools (DCPS),284-0,Ron Brown College Preparatory High School,44.22%,,60.51%,Y,178,79
+District of Columbia,001,DC Public Schools (DCPS),274-0,Roosevelt High School,50.36%,,45.32%,Y,969,488
+District of Columbia,001,DC Public Schools (DCPS),435,Roosevelt STAY High School,54.14%,,60.51%,Y,776,420
+District of Columbia,001,DC Public Schools (DCPS),305,Ross Elementary School,5.56%,,,N,162,9
+District of Columbia,001,DC Public Schools (DCPS),458,Savoy Elementary School,86.35%,,60.51%,Y,248,214
+District of Columbia,001,DC Public Schools (DCPS),409,School Without Walls @ Francis-Stevens,22.75%,,,N,119,27
+District of Columbia,001,DC Public Schools (DCPS),466,School Without Walls High School,3.20%,,,N,19,1
+District of Columbia,001,DC Public Schools (DCPS),175,School-Within-School @ Goding,9.06%,,,N,29,3
+District of Columbia,001,DC Public Schools (DCPS),1165-0,Seaton Elementary School,37.99%,,60.51%,Y,357,136
+District of Columbia,001,DC Public Schools (DCPS),313,Shepherd Elementary School,8.87%,,,N,372,33
+District of Columbia,001,DC Public Schools (DCPS),280,Simon Elementary School,70.21%,,60.51%,Y,217,152
+District of Columbia,001,DC Public Schools (DCPS),285,Smothers Elementary School,74.63%,,60.51%,Y,204,152
+District of Columbia,001,DC Public Schools (DCPS),287-0,Sousa Middle School,75.30%,,60.51%,Y,221,166
+District of Columbia,001,DC Public Schools (DCPS),288,Stanton Elementary School,89.75%,,60.51%,Y,342,307
+District of Columbia,001,DC Public Schools (DCPS),321,Stoddert Elementary School,5.58%,,,N,412,23
+District of Columbia,001,DC Public Schools (DCPS),428,Stuart-Hobson Middle School (Capitol Hill Cluster),35.50%,,36.00%,Y,470,167
+District of Columbia,001,DC Public Schools (DCPS),292,Takoma Education Campus,44.53%,,60.51%,Y,441,196
+District of Columbia,001,DC Public Schools (DCPS),1142,Thaddeus Stevens Early Learning Center,21.13%,,,N,71,15
+District of Columbia,001,DC Public Schools (DCPS),294,Thomas Elementary School,80.07%,,60.51%,Y,288,231
+District of Columbia,001,DC Public Schools (DCPS),295,Thomson Elementary School,37.64%,,60.51%,Y,261,98
+District of Columbia,001,DC Public Schools (DCPS),301-0,Truesdell Education Campus,40.04%,,60.51%,Y,447,179
+District of Columbia,001,DC Public Schools (DCPS),478,Tubman Elementary School,53.78%,,60.51%,Y,556,299
+District of Columbia,001,DC Public Schools (DCPS),299,Turner Elementary School,83.23%,,60.51%,Y,495,412
+District of Columbia,001,DC Public Schools (DCPS),300,Tyler Elementary School,37.80%,,60.51%,Y,517,195
+District of Columbia,001,DC Public Schools (DCPS),331,Van Ness Elementary School,37.36%,,36.00%,Y,412,154
+District of Columbia,001,DC Public Schools (DCPS),302,Walker-Jones Education Campus,81.20%,,60.51%,Y,373,303
+District of Columbia,001,DC Public Schools (DCPS),333,Watkins Elementary School (Capitol Hill Cluster),19.95%,,,N,416,83
+District of Columbia,001,DC Public Schools (DCPS),459,Wheatley Education Campus,71.88%,,60.51%,Y,335,241
+District of Columbia,001,DC Public Schools (DCPS),456,Whittier Education Campus,49.29%,,45.32%,Y,385,190
+District of Columbia,001,DC Public Schools (DCPS),463,Woodrow Wilson High School,11.57%,,60.51%,Y,448,52
+District of Columbia,001,DC Public Schools (DCPS),8988,West Education Campus,,,60.51%,Y,406,
+District of Columbia,170,DC Scholars PCS,3070,DC Scholars Public Charter School,64.31%,,62.50%,Y,542,349
+District of Columbia,317,Digital Pioneers Academy PCS,1212,Digital Pioneers Academy Public Charter School,71.82%,,62.50%,Y,360,259
+District of Columbia,317,Digital Pioneers Academy PCS,13544,Wahler Campus ,,,62.50%,Y,240,
+District of Columbia,6098,DuPont Park Adventist School,6098,DuPont Park Adventist School,43.43%,,45.00%,Y,101,44
+District of Columbia,117,Eagle Academy PCS,1125,Eagle Academy PCS - Capitol Riverfront,54.13%,,62.50%,Y,128,69
+District of Columbia,117,Eagle Academy PCS,195,Eagle Academy PCS - Congress Heights,75.89%,,62.50%,Y,328,249
+District of Columbia,118,Early Childhood Academy PCS,138,Early Childhood Academy PCS,72.97%,,62.50%,Y,250,182
+District of Columbia,116,EL Haynes Public Charter School ,1206,Kansas Avenue Elem. Campus,36.81%,,41.78%,Y,358,132
+District of Columbia,116,EL Haynes Public Charter School ,146,Georgia Avenue Middle Campus,43.63%,,41.78%,Y,393,171
+District of Columbia,116,EL Haynes Public Charter School ,1138,Kansas Avenue High School Campus,40.83%,,41.78%,Y,478,195
+District of Columbia,120,Friendship PCS,10521,Armstrong,,,62.50%,Y,493,
+District of Columbia,120,Friendship PCS,8655,Blow Pierce Junior Academy,,,62.50%,Y,543,
+District of Columbia,120,Friendship PCS,8663,Chamberlain,,,62.50%,Y,629,
+District of Columbia,120,Friendship PCS,13418,Global Citizens,,,62.50%,Y,106,
+District of Columbia,120,Friendship PCS,12224,Ideal,,,62.50%,Y,369,
+District of Columbia,120,Friendship PCS,8667,Southeast,,,62.50%,Y,699,
+District of Columbia,120,Friendship PCS,9422,Tech Prep,,,62.50%,Y,317,
+District of Columbia,120,Friendship PCS,8659,Woodridge,,,62.50%,Y,477,
+District of Columbia,120,Friendship PCS,8665,Woodson Collegiate,,,62.50%,Y,615,
+District of Columbia,340,Girls Global Academy Public Charter School,1160,Girls Global Academy PCS,49.65%,,49.25%,Y,160,79
+District of Columbia,180,Harmony DC PCS,245,Harmony DC PCS - School of Excellence,75.19%,,62.50%,Y,140,105
+District of Columbia,121,Hope Community PCS,114,Hope Community PCS - Tolson,69.06%,,62.50%,Y,193,133
+District of Columbia,124,Howard University Middle School of Mathematics and Science PCS,115,Howard University Middle School of Mathematics and Science PCS,58.55%,,58.55%,Y,295,173
+District of Columbia,345,I Dream PCS,1147,I Dream Public Charter School,68.25%,,62.50%,Y,90,61
+District of Columbia,126,IDEA PCS,163,IDEA Public Charter School,64.94%,,62.50%,Y,300,195
+District of Columbia,173,Ingenuity Prep PCS,200,Ingenuity Prep Public Charter School,72.38%,,62.50%,Y,803,581
+District of Columbia,186,Kingsman Academy Public Charter School,267,Kingsman Academy,76.81%,,62.50%,Y,260,200
+District of Columbia,129,KIPP DC PCS,116,KIPP DC - AIM Academy PCS,63.57%,,60.85%,Y,701,446
+District of Columbia,129,KIPP DC PCS,236,KIPP DC - Arts and Technology Academy PCS,56.41%,,60.85%,Y,350,197
+District of Columbia,129,KIPP DC PCS,1123,KIPP DC - College Preparatory PCS,50.42%,,60.85%,Y,830,418
+District of Columbia,129,KIPP DC PCS,209,KIPP DC - Connect Academy PCS,66.30%,,60.85%,Y,320,212
+District of Columbia,129,KIPP DC PCS,1122,KIPP DC - Discover Academy PCS,72.28%,,60.85%,Y,350,253
+District of Columbia,129,KIPP DC PCS,1129,KIPP DC - Grow Academy PCS,59.78%,,60.85%,Y,330,197
+District of Columbia,129,KIPP DC PCS,3071,KIPP DC - Heights Academy PCS,69.98%,,60.85%,Y,475,332
+District of Columbia,129,KIPP DC PCS,1085,KIPP DC - Honor Academy PCS,71.86%,,60.85%,Y,330,237
+District of Columbia,129,KIPP DC PCS,1185,KIPP DC - Inspire Academy PCS,73.33%,,,N,75,55
+District of Columbia,129,KIPP DC PCS,189,KIPP DC - KEY Academy PCS,52.67%,,60.85%,Y,400,211
+District of Columbia,129,KIPP DC PCS,190,KIPP DC - Lead Academy PCS,55.71%,,60.85%,Y,430,240
+District of Columbia,129,KIPP DC PCS,132,KIPP DC - LEAP Academy PCS,56.99%,,60.85%,Y,250,142
+District of Columbia,129,KIPP DC PCS,1086,KIPP DC - Legacy College Preparatory PCS,73.28%,,60.85%,Y,430,315
+District of Columbia,129,KIPP DC PCS,242,KIPP DC - Northeast Academy PCS,56.97%,,60.85%,Y,345,197
+District of Columbia,129,KIPP DC PCS,1177,KIPP DC - Pride Academy PCS,68.52%,,60.85%,Y,180,123
+District of Columbia,129,KIPP DC PCS,1121,KIPP DC - Promise Academy PCS,60.27%,,60.85%,Y,630,380
+District of Columbia,129,KIPP DC PCS,237,KIPP DC - Quest Academy PCS,65.87%,,60.85%,Y,425,280
+District of Columbia,129,KIPP DC PCS,214,KIPP DC - Spring Academy PCS,60.54%,,60.85%,Y,435,263
+District of Columbia,129,KIPP DC PCS,243,KIPP DC - Valor Academy PCS,65.43%,,60.85%,Y,342,224
+District of Columbia,129,KIPP DC PCS,121,KIPP DC - WILL Academy PCS,47.69%,,60.85%,Y,342,163
+District of Columbia,172,LAYC Career Academy PCS,104,LAYC Career Academy,38.04%,,52.59%,Y,91,35
+District of Columbia,132,Mary McLeod Bethune PCS,135,Brookland,54.77%,,54.77%,Y,240,131
+District of Columbia,132,Mary McLeod Bethune PCS,10534,Crestwood,,,54.77%,Y,81,
+District of Columbia,133,Maya Angelou PCS,101,Maya Angelou PCS - High School,76.26%,,,N,155,118
+District of Columbia,135,Meridian PCS,165,Meridian PCS ES campus,55.59%,,55.86%,Y,446,248
+District of Columbia,135,Meridian PCS,13339,Meridian PCS Middle School,,,55.86%,Y,183,
+District of Columbia,184,Monument Academy Public Charter School,260,Monument Academy Public Charter School,67.71%,,62.50%,Y,91,62
+District of Columbia,138,Paul Public Charter School,222,Paul Public Charter School,44.70%,,46.46%,Y,741,331
+District of Columbia,125,Perry Street Prep PCS,161,Perry Street Preparatory Public Charter School,55.51%,,55.51%,Y,459,255
+District of Columbia,167,Richard Wright PCS for Journalism and Media Arts,3067,Richard Wright PCS for Journalism and Media Arts,56.38%,,57.14%,Y,325,183
+District of Columbia,191,Rocketship Rise Academy PCS,1016,Rocketship Legacy Prep,69.41%,,62.50%,Y,654,454
+District of Columbia,191,Rocketship Rise Academy PCS,286,Rocketship Rise Academy,83.47%,,62.50%,Y,631,527
+District of Columbia,191,Rocketship Rise Academy PCS,1150,Rocketship Infinity Community Prep,58.80%,,62.50%,Y,216,127
+District of Columbia,140,Roots PCS,173,Roots Public Charter School-Kennedy Street,70.97%,,62.50%,Y,80,57
+District of Columbia,140,Roots PCS,9803,Roots Public Charter School-North Capitol Street,,,62.50%,Y,35,
+District of Columbia,142,Seed Public Charter School ,174,"The SEED Public Charter School of Washington, D.C.",65.92%,,62.50%,Y,300,198
+District of Columbia,350,Social Justice School Inc.,1148,Social Justice PCS,60.19%,,62.50%,Y,123,74
+District of Columbia,314,Statesmen College Preparatory Academy for Boys,1037,Statesmen College Preparatory ,58.65%,,58.65%,Y,302,177
+District of Columbia,188,The Children's Guild Public Charter School,255,The Children's Guild DC PCS,80.28%,,62.50%,Y,299,240
+District of Columbia,146,Thurgood Marshall Academy PCHS,191,Thurgood Marshall Academy,56.27%,,56.27%,Y,342,192
+District of Columbia,185,Washington Global Public Charter School,263,Washington Global Public Charter School,68.27%,,62.50%,Y,240,164
+District of Columbia,194,Washington Leadership Academy PCS,264-0,Washington Leadership Academy,46.63%,,46.63%,Y,390,182
+District of Columbia,6100,Washington School for Girls,60095,The VIEW Campus,47.62%,,43.88%,Y,50,24
+District of Columbia,6100,Washington School for Girls,60119,THEARC Campus,31.43%,,43.88%,Y,60,19

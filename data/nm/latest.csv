@@ -1,873 +1,702 @@
-state,District Code,District Name,School Code,School Name,individual_isp,proxy_isp,participating_in_cep,claiming_isp,total_enrolled,total_eligible
-nm,601000,Alamo Navajo School,601001,Alamo Day School,74.47%,,74.33%,Y,235,175
-nm,601000,Alamo Navajo School,601996,Alamo Navajo Early Childhood,73.85%,,74.33%,Y,65,48
-nm,046000,Alamogordo Public Schools,046004,Academy Del Sol Alt.,52.60%,,50.43%,Y,154,81
-nm,046000,Alamogordo Public Schools,046015,Alamogordo High,30.84%,,,N,1365,421
-nm,046000,Alamogordo Public Schools,046028,Buena Vista Elementary,43.04%,,50.43%,Y,237,102
-nm,046000,Alamogordo Public Schools,046033,Chaparral Middle,45.19%,,50.43%,Y,624,282
-nm,046000,Alamogordo Public Schools,046144,Desert Star Elementary,53.24%,,50.43%,Y,494,263
-nm,046000,Alamogordo Public Schools,046057,High Rolls Mountain Park Elementary,16.00%,,,N,,
-nm,046000,Alamogordo Public Schools,046058,Holloman Elementary,1.07%,,,N,,
-nm,046000,Alamogordo Public Schools,046037,Holloman Middle,1.58%,,,N,,
-nm,046000,Alamogordo Public Schools,046072,La Luz Elementary,51.98%,,50.43%,Y,252,131
-nm,046000,Alamogordo Public Schools,046003,Mountain View Middle,46.14%,,50.43%,Y,544,251
-nm,046000,Alamogordo Public Schools,046114,North Elementary,58.52%,,50.43%,Y,254,149
-nm,046000,Alamogordo Public Schools,046150,Sierra Elementary,40.29%,,50.43%,Y,350,141
-nm,046000,Alamogordo Public Schools,046056,Sunset Hills Elementary,57.59%,,50.43%,Y,415,239
-nm,046000,Alamogordo Public Schools,046181,Yucca Elementary,49.72%,,50.43%,Y,356,177
-nm,528000,Albuquerque Bilingual Academy,528001,La Promesa Early Learning,47.77%,,57.49%,Y,367,175
-nm,001000,Albuquerque Public Schools,001321,A. Montoya Elementary,34.82%,,,N,494,172
-nm,574000,Albuquerque Collegiate Charter School,575001,Albuquerque Collegiate Charter School,47.30%,,48.57%,Y,35,17
-nm,001000,Albuquerque Public Schools,001749,Ace Leadership High School - Local,55.64%,,53.56%,Y,295,164
-nm,001000,Albuquerque Public Schools,001206,Adobe Acres Elementary,57.52%,,62.50%,Y,606,349
-nm,001000,Albuquerque Public Schools,001207,Alameda Elementary,56.18%,,50.13%,Y,270,152
-nm,001000,Albuquerque Public Schools,001590,Albuquerque High,32.63%,,,N,1716,560
-nm,001000,Albuquerque Public Schools,001210,Alamosa Elementary,66.37%,,62.50%,Y,541,359
-nm,001000,Albuquerque Public Schools,001116,Alice King Community School,21.44%,,,N,,
-nm,001000,Albuquerque Public Schools,001016,Albuquerque Talent Development Secondary,38.96%,,46.75%,Y,169,66
-nm,001000,Albuquerque Public Schools,001213,Alvarado Elementary,43.83%,,50.13%,Y,310,136
-nm,001000,Albuquerque Public Schools,001214,Apache Elementary,70.83%,,62.50%,Y,356,252
-nm,001000,Albuquerque Public Schools,001329,Arroyo Del Oso Elementary,33.68%,,,N,380,128
-nm,001000,Albuquerque Public Schools,001215,Armijo Elementary,63.73%,,62.50%,Y,428,273
-nm,001000,Albuquerque Public Schools,001576,Atrisco Heritage Academy Hs,37.33%,,,N,2226,831
-nm,001000,Albuquerque Public Schools,001222,Bandelier Elementary,28.23%,,,N,,
-nm,001000,Albuquerque Public Schools,001216,Atrisco Elementary,68.77%,,62.50%,Y,327,225
-nm,001000,Albuquerque Public Schools,001225,Barcelona Elementary,63.04%,,62.50%,Y,405,255
-nm,001000,Albuquerque Public Schools,001228,Bel-Air Elementary,67.24%,,55.22%,Y,286,192
-nm,001000,Albuquerque Public Schools,001229,Bellehaven Elementary,56.48%,,55.22%,Y,346,195
-nm,001000,Albuquerque Public Schools,001295,Chamiza Elementary,28.77%,,,N,,
-nm,001000,Albuquerque Public Schools,001339,Carlos Rey Elementary,56.35%,,62.50%,Y,688,388
-nm,001000,Albuquerque Public Schools,001234,Chaparral Elementary,51.67%,,62.50%,Y,863,446
-nm,001000,Albuquerque Public Schools,001580,Cibola High,21.85%,,,N,,
-nm,001000,Albuquerque Public Schools,001236,Chelwood Elementary,59.01%,,62.50%,Y,541,319
-nm,001000,Albuquerque Public Schools,001407,Cleveland Middle,42.58%,,50.13%,Y,625,266
-nm,001000,Albuquerque Public Schools,001591,College And Career High School,20.55%,,,N,,
-nm,001000,Albuquerque Public Schools,001237,Cochiti Elementary,63.39%,,55.22%,Y,310,197
-nm,001000,Albuquerque Public Schools,001240,Collet Park Elementary,51.73%,,55.22%,Y,382,198
-nm,001000,Albuquerque Public Schools,001243,Coronado Elementary,15.28%,,,N,,
-nm,001000,Albuquerque Public Schools,001351,Corrales Elementary,20.00%,,,N,,
-nm,001000,Albuquerque Public Schools,001028,Corrales International,17.37%,,,N,,
-nm,001000,Albuquerque Public Schools,001241,Comanche Elementary,45.38%,,50.13%,Y,360,163
-nm,001000,Albuquerque Public Schools,001203,Dennis Chavez Elementary,13.44%,,,N,,
-nm,001000,Albuquerque Public Schools,001430,Desert Ridge Middle,11.63%,,,N,,
-nm,001000,Albuquerque Public Schools,001514,Del Norte High,45.31%,,50.13%,Y,987,447
-nm,001000,Albuquerque Public Schools,001350,Double Eagle Elementary,5.47%,,,N,,
-nm,001000,Albuquerque Public Schools,001244,Dolores Gonzales Elementary,53.22%,,62.50%,Y,421,224
-nm,001000,Albuquerque Public Schools,001593,Early College Academy,13.27%,,,N,,
-nm,001000,Albuquerque Public Schools,001249,Duranes Elementary,71.33%,,62.50%,Y,229,163
-nm,001000,Albuquerque Public Schools,001252,East San Jose Elementary,56.66%,,62.50%,Y,546,309
-nm,001000,Albuquerque Public Schools,001219,Edmund G Ross Elementary,46.86%,,62.50%,Y,485,227
-nm,001000,Albuquerque Public Schools,001480,Eisenhower Middle,14.50%,,,N,,
-nm,001000,Albuquerque Public Schools,001515,Eldorado High,17.47%,,,N,,
-nm,001000,Albuquerque Public Schools,001262,Edward Gonzales Elementary,54.33%,,62.50%,Y,636,346
-nm,001000,Albuquerque Public Schools,001255,Emerson Elementary,69.25%,,62.50%,Y,509,352
-nm,001000,Albuquerque Public Schools,001450,Ernie Pyle Middle,60.63%,,50.13%,Y,590,358
-nm,001000,Albuquerque Public Schools,001261,Eugene Field Elementary,61.31%,,55.22%,Y,193,118
-nm,001000,Albuquerque Public Schools,001596,Freedom High,45.77%,,55.22%,Y,135,62
-nm,001000,Albuquerque Public Schools,001410,Garfield Middle,53.70%,,50.13%,Y,377,202
-nm,001000,Albuquerque Public Schools,001328,Georgia O'Keeffe Elementary,11.06%,,,N,,
-nm,001000,Albuquerque Public Schools,001496,George Sanchez,46.19%,,62.50%,Y,1402,648
-nm,001000,Albuquerque Public Schools,001230,Gov Bent Elementary,58.66%,,62.50%,Y,473,277
-nm,001000,Albuquerque Public Schools,001413,Grant Middle,51.00%,,50.13%,Y,472,241
-nm,001000,Albuquerque Public Schools,001267,Griegos Elementary,44.05%,,50.13%,Y,310,137
-nm,001000,Albuquerque Public Schools,001415,Harrison Middle,58.48%,,50.13%,Y,411,240
-nm,001000,Albuquerque Public Schools,001270,Hawthorne Elementary,64.75%,,62.50%,Y,507,328
-nm,001000,Albuquerque Public Schools,001416,Hayes Middle,66.67%,,62.50%,Y,395,263
-nm,001000,Albuquerque Public Schools,001752,Health Leadership High School - Local,51.23%,,45.40%,Y,174,89
-nm,001000,Albuquerque Public Schools,001395,Helen Cordero Primary,52.17%,,62.50%,Y,633,330
-nm,001000,Albuquerque Public Schools,001611,Highland Autism Center,37.23%,,62.50%,Y,22,8
-nm,001000,Albuquerque Public Schools,001520,Highland High,51.14%,,62.50%,Y,1190,609
-nm,001000,Albuquerque Public Schools,001418,Hoover Middle,37.69%,,,N,520,196
-nm,001000,Albuquerque Public Schools,001221,Hubert H Humphrey Elementary,8.70%,,,N,,
-nm,001000,Albuquerque Public Schools,001273,Hodgin Elementary,70.32%,,62.50%,Y,569,400
-nm,001000,Albuquerque Public Schools,001781,International School At Mesa Del Sol - Local,37.46%,,,N,339,127
-nm,001000,Albuquerque Public Schools,001276,Inez Elementary,45.53%,,50.13%,Y,363,165
-nm,001000,Albuquerque Public Schools,001490,James Monroe Middle,30.59%,,,N,1033,316
-nm,001000,Albuquerque Public Schools,001420,Jackson Middle,46.18%,,50.13%,Y,511,236
-nm,001000,Albuquerque Public Schools,001425,Jefferson Middle,34.29%,,,N,770,264
-nm,001000,Albuquerque Public Schools,001258,Janet Kahn School Of Integrated Arts,67.14%,,62.50%,Y,476,320
-nm,001000,Albuquerque Public Schools,001445,Jimmy Carter Middle,55.79%,,62.50%,Y,1158,646
-nm,001000,Albuquerque Public Schools,001217,John Baker Elementary,27.69%,,,N,,
-nm,001000,Albuquerque Public Schools,001405,John Adams Middle,63.44%,,62.50%,Y,581,369
-nm,001000,Albuquerque Public Schools,001427,Kennedy Middle,61.85%,,62.50%,Y,467,289
-nm,001000,Albuquerque Public Schools,001279,Kirtland Elementary,64.84%,,62.50%,Y,291,189
-nm,001000,Albuquerque Public Schools,001485,L.B. Johnson Middle,32.65%,,,N,735,240
-nm,001000,Albuquerque Public Schools,001525,La Cueva High,9.63%,,,N,,
-nm,001000,Albuquerque Public Schools,001231,Kit Carson Elementary,67.89%,,62.50%,Y,474,322
-nm,001000,Albuquerque Public Schools,001282,La Luz Elementary,56.44%,,55.22%,Y,173,98
-nm,001000,Albuquerque Public Schools,001285,La Mesa Elementary,68.41%,,62.50%,Y,614,420
-nm,001000,Albuquerque Public Schools,001288,Lavaland Elementary,69.26%,,62.50%,Y,625,433
-nm,001000,Albuquerque Public Schools,001373,Lew Wallace Elementary,58.57%,,55.22%,Y,206,121
-nm,001000,Albuquerque Public Schools,001291,Longfellow Elementary,51.95%,,62.50%,Y,315,164
-nm,001000,Albuquerque Public Schools,001297,Los Padillas Elementary,57.28%,,62.50%,Y,222,127
-nm,001000,Albuquerque Public Schools,001017,Los Puentes Charter,69.83%,,51.65%,Y,155,108
-nm,001000,Albuquerque Public Schools,001336,Los Ranchos Elementary,54.85%,,55.22%,Y,286,157
-nm,001000,Albuquerque Public Schools,001300,Lowell Elementary,75.54%,,62.50%,Y,283,214
-nm,001000,Albuquerque Public Schools,001435,Madison Middle,29.67%,,,N,,
-nm,001000,Albuquerque Public Schools,001530,Manzano High,37.71%,,,N,1387,523
-nm,001000,Albuquerque Public Schools,001303,Macarthur Elementary,53.71%,,55.22%,Y,248,133
-nm,001000,Albuquerque Public Schools,001365,Marie M Hughes Elementary,39.26%,,,N,484,190
-nm,001000,Albuquerque Public Schools,001260,Manzano Mesa Elementary,41.45%,,55.22%,Y,714,296
-nm,001000,Albuquerque Public Schools,001364,Mark Twain Elementary,55.00%,,62.50%,Y,378,208
-nm,001000,Albuquerque Public Schools,001250,Maryann Binford Elementary,52.83%,,62.50%,Y,790,417
-nm,001000,Albuquerque Public Schools,001305,Matheson Park Elementary,50.21%,,55.22%,Y,236,118
-nm,001000,Albuquerque Public Schools,001307,Mc Collum Elementary,58.38%,,62.50%,Y,446,260
-nm,001000,Albuquerque Public Schools,001440,Mc Kinley Middle,61.98%,,55.22%,Y,440,273
-nm,001000,Albuquerque Public Schools,001309,Mission Avenue Elementary,58.36%,,62.50%,Y,392,229
-nm,001000,Albuquerque Public Schools,001312,Monte Vista Elementary,26.30%,,,N,,
-nm,001000,Albuquerque Public Schools,001310,Mitchell Elementary,53.20%,,55.22%,Y,348,185
-nm,001000,Albuquerque Public Schools,001098,Mountain Mahogany Community School,33.85%,,,N,192,65
-nm,001000,Albuquerque Public Schools,001315,Montezuma Elementary,57.99%,,55.22%,Y,418,242
-nm,001000,Albuquerque Public Schools,001324,Mountain View Elementary,63.04%,,62.50%,Y,289,182
-nm,001000,Albuquerque Public Schools,001006,Native American Comm Academy,43.31%,,51.65%,Y,454,197
-nm,001000,Albuquerque Public Schools,001327,Navajo Elementary,53.38%,,62.50%,Y,580,310
-nm,001000,Albuquerque Public Schools,001768,New Mexico International School - Local,12.31%,,,N,,
-nm,001000,Albuquerque Public Schools,001549,New Futures School,71.23%,,55.22%,Y,83,59
-nm,001000,Albuquerque Public Schools,001516,Nex Gen Academy,17.47%,,,N,,
-nm,001000,Albuquerque Public Schools,001268,North Star Elementary,6.81%,,,N,,
-nm,001000,Albuquerque Public Schools,001227,Onate Elementary,25.00%,,,N,,
-nm,001000,Albuquerque Public Schools,001332,Osuna Elementary,24.66%,,,N,,
-nm,001000,Albuquerque Public Schools,001973,New Mexico School For The Deaf,30.20%,,57.14%,Y,7,2
-nm,001000,Albuquerque Public Schools,001275,Painted Sky Elementary,55.25%,,62.50%,Y,1121,619
-nm,001000,Albuquerque Public Schools,001317,Petroglyph Elementary,35.07%,,,N,710,249
-nm,001000,Albuquerque Public Schools,001333,Pajarito Elementary,56.52%,,62.50%,Y,477,270
-nm,001000,Albuquerque Public Schools,001448,Polk Middle,60.06%,,62.50%,Y,340,204
-nm,001000,Albuquerque Public Schools,001330,Reginald Chavez Elementary,73.60%,,62.50%,Y,309,227
-nm,001000,Albuquerque Public Schools,001540,Rio Grande High,46.21%,,62.50%,Y,1442,666
-nm,001000,Albuquerque Public Schools,001452,Roosevelt Middle,27.36%,,,N,,
-nm,001000,Albuquerque Public Schools,001051,Robert F. Kennedy Charter,61.60%,,59.51%,Y,326,201
-nm,001000,Albuquerque Public Schools,001360,S. Y. Jackson Elementary,15.06%,,,N,,
-nm,001000,Albuquerque Public Schools,001345,San Antonito Elementary,18.70%,,,N,,
-nm,001000,Albuquerque Public Schools,001348,Sandia Base Elementary,15.81%,,,N,,
-nm,001000,Albuquerque Public Schools,001550,Sandia High,25.13%,,,N,,
-nm,001000,Albuquerque Public Schools,001392,Rudolfo Anaya Elementary,50.34%,,62.50%,Y,675,340
-nm,001000,Albuquerque Public Schools,001265,Seven-Bar Elementary,36.26%,,,N,637,231
-nm,001000,Albuquerque Public Schools,001597,School On Wheels,53.75%,,55.22%,Y,80,43
-nm,001000,Albuquerque Public Schools,001356,Sierra Vista Elementary,37.23%,,,N,607,226
-nm,001000,Albuquerque Public Schools,001750,Siembra Leadership High School,56.52%,,51.65%,Y,119,67
-nm,001000,Albuquerque Public Schools,001393,Sunset View Elementary,26.72%,,,N,,
-nm,001000,Albuquerque Public Schools,001357,Sombra Del Monte Elementary,46.25%,,50.13%,Y,308,142
-nm,001000,Albuquerque Public Schools,001280,Susie R. Marmon Elementary,57.90%,,62.50%,Y,757,438
-nm,001000,Albuquerque Public Schools,001455,Taft Middle,47.22%,,50.13%,Y,363,171
-nm,001000,Albuquerque Public Schools,001457,Taylor Middle,47.08%,,50.13%,Y,370,174
-nm,001000,Albuquerque Public Schools,001389,Tierra Antigua Elementary,16.12%,,,N,,
-nm,001000,Albuquerque Public Schools,001753,Technology Leadership High School,54.47%,,54.86%,Y,257,140
-nm,001000,Albuquerque Public Schools,001492,Tony Hillerman Middle School,21.32%,,,N,,
-nm,001001,Albuquerque Public Schools,001497,Tres Volcanes,36.84%,,,N,893,329
-nm,001000,Albuquerque Public Schools,001363,Tomasita Elementary,65.47%,,62.50%,Y,361,236
-nm,001000,Albuquerque Public Schools,001027,Twenty-First Century,25.99%,,,N,,
-nm,001000,Albuquerque Public Schools,001475,Truman Middle,51.34%,,62.50%,Y,1113,571
-nm,001000,Albuquerque Public Schools,001560,Valley High,40.39%,,,N,1035,418
-nm,001000,Albuquerque Public Schools,001370,Valle Vista Elementary,56.10%,,62.50%,Y,557,312
-nm,001000,Albuquerque Public Schools,001264,Ventana Ranch Elementary,27.78%,,,N,,
-nm,001000,Albuquerque Public Schools,001460,Van Buren Middle,64.31%,,62.50%,Y,558,359
-nm,001000,Albuquerque Public Schools,001575,Volcano Vista High,18.32%,,,N,,
-nm,001000,Albuquerque Public Schools,001840,Vision Quest Alt Middle,52.17%,,55.22%,Y,40,21
-nm,001000,Albuquerque Public Schools,001465,Washington Middle,58.71%,,62.50%,Y,453,266
-nm,001000,Albuquerque Public Schools,001570,West Mesa High,43.61%,,62.50%,Y,1521,663
-nm,001000,Albuquerque Public Schools,001376,Wherry Elementary,70.05%,,62.50%,Y,419,294
-nm,001000,Albuquerque Public Schools,001379,Whittier Elementary,76.01%,,62.50%,Y,348,265
-nm,001000,Albuquerque Public Schools,001385,Zia Elementary,34.66%,,,N,277,96
-nm,001000,Albuquerque Public Schools,001470,Wilson Middle,60.38%,,50.13%,Y,438,264
-nm,516000,Albuquerque School Of Excellence,516001,Abq School Of Excellence,38.90%,,,N,653,254
-nm,517000,Albuquerque Sign Language Academy,517001,Albuquerque Sign Language Academy,37.86%,,,N,103,39
-nm,532000,Aldo Leopold Charter,532001,Aldo Leopold Charter School,37.65%,,,N,170,64
-nm,001000,Albuquerque Public Schools,001388,Zuni Elementary,47.56%,,50.13%,Y,334,159
-nm,511000,Alma D'Arte Charter School,511001,Alma D'Arte Charter,46.15%,,49.23%,Y,130,60
-nm,525000,Amy Biehl Charter High School,525001,Amy Biehl Charter High School,26.01%,,,N,,
-nm,076006,Anansi Charter School,076006,Anansi Charter School,28.57%,,,N,,
-nm,030000,Animas Public Schools,030017,Animas 7-12 School,18.42%,,,N,,
-nm,030000,Animas Public Schools,030016,Animas Elementary,38.10%,,,N,63,24
-nm,030000,Animas Public Schools,030020,Animas Middle,13.64%,,,N,,
-nm,022000,Artesia Public Schools,022014,Artesia High,21.66%,,,N,,
-nm,022000,Artesia Public Schools,022187,Artesia Park Junior High,25.09%,,,N,,
-nm,022000,Artesia Public Schools,022189,Artesia Zia Intermediate,34.04%,,,N,611,208
-nm,022000,Artesia Public Schools,022032,Central Elementary,49.07%,,,N,161,79
-nm,022000,Artesia Public Schools,022054,Grand Heights Early Childhood,36.48%,,,N,381,139
-nm,022000,Artesia Public Schools,022056,Hermosa Elementary,33.88%,,,N,304,103
-nm,022000,Artesia Public Schools,022128,Penasco Elementary,0.00%,,,N,,
-nm,022000,Artesia Public Schools,022139,Roselawn Elementary,59.38%,,,N,192,114
-nm,022000,Artesia Public Schools,022001,Yeso Elementary,27.29%,,,N,,
-nm,022000,Artesia Public Schools,022183,Yucca Elementary,36.45%,,,N,332,121
-nm,064000,Aztec Municipal Schools,064018,Aztec High,30.44%,,,N,726,221
-nm,064000,Aztec Municipal Schools,064017,C.V. Koogler Middle,41.42%,,,N,635,263
-nm,575000,Altura Preparatory School,575001-0,Altura Preparatory School,36.36%,,62.90%,Y,62,23
-nm,064000,Aztec Municipal Schools,064136,Lydia Rippey Elementary,46.31%,,57.83%,Y,434,201
-nm,064000,Aztec Municipal Schools,064001,Mosaic Academy Charter,37.78%,,,N,180,68
-nm,064000,Aztec Municipal Schools,064099,Mccoy Avenue Elementary,47.72%,,57.83%,Y,475,227
-nm,064000,Aztec Municipal Schools,064123,Park Avenue Elementary,40.92%,,57.83%,Y,457,187
-nm,064000,Aztec Municipal Schools,064002,Vista Nueva High,47.30%,,57.83%,Y,52,25
-nm,603000,Baca/Dloay Azhi Community School,603000,Baca Dlo'Ay Azhi Community School,69.51%,,69.51%,Y,305,212
-nm,604000,Beclabito Day School,604004,Beclabito Day School,62.75%,,62.75%,Y,51,32
-nm,087000,Belen Consolidated Schools,087006,Belen Family School Elementary,16.87%,,52.53%,Y,108,18
-nm,087000,Belen Consolidated Schools,087026,Belen High,37.47%,,52.53%,Y,988,370
-nm,087000,Belen Consolidated Schools,087001,Belen Infinity High,62.96%,,52.53%,Y,106,67
-nm,087000,Belen Consolidated Schools,087025,Belen Middle,47.72%,,52.53%,Y,510,243
-nm,087000,Belen Consolidated Schools,087034,Central Elementary,69.06%,,52.53%,Y,212,146
-nm,087000,Belen Consolidated Schools,087080,Dennis Chavez Elementary,61.36%,,52.53%,Y,339,208
-nm,087000,Belen Consolidated Schools,087066,Gil Sanchez Elementary,55.02%,,52.53%,Y,287,158
-nm,087000,Belen Consolidated Schools,087068,Jaramillo Elementary,66.10%,,52.53%,Y,359,237
-nm,087000,Belen Consolidated Schools,087038,La Merced Elementary,52.62%,,52.53%,Y,485,255
-nm,087000,Belen Consolidated Schools,087003,La Promesa Elementary,57.50%,,52.53%,Y,207,119
-nm,087000,Belen Consolidated Schools,087045,Rio Grande Elementary,53.11%,,52.53%,Y,326,173
-nm,061000,Bernalillo Public Schools,061016,Algodones Elementary,72.02%,,56.76%,Y,167,120
-nm,061000,Bernalillo Public Schools,061136,Bernalillo Elementary,60.06%,,56.76%,Y,356,214
-nm,061000,Bernalillo Public Schools,061027,Bernalillo High,50.99%,,56.76%,Y,754,384
-nm,061000,Bernalillo Public Schools,061026,Bernalillo Middle,56.88%,,56.76%,Y,473,269
-nm,061000,Bernalillo Public Schools,061020,Cochiti Elementary,54.30%,,56.76%,Y,186,101
-nm,061000,Bernalillo Public Schools,061024,Cochiti Middle,51.32%,,56.76%,Y,76,39
-nm,061000,Bernalillo Public Schools,061127,Placitas Elementary,23.53%,,56.76%,Y,135,32
-nm,061000,Bernalillo Public Schools,061151,Santo Domingo Elementary,74.71%,,56.76%,Y,267,199
-nm,061000,Bernalillo Public Schools,061028,Santo Domingo Middle,67.78%,,56.76%,Y,90,61
-nm,061000,Bernalillo Public Schools,061140,Wd Carroll Elementary,54.11%,,56.76%,Y,470,254
-nm,066000,Bloomfield Schools,066025,Blanco Elementary,42.08%,,53.55%,Y,240,101
-nm,066000,Bloomfield Schools,066030,Bloomfield Early Childhood Center,55.76%,,53.55%,Y,230,128
-nm,066000,Bloomfield Schools,066026,Bloomfield High,43.61%,,53.55%,Y,800,349
-nm,066000,Bloomfield Schools,066033,Central Primary,58.12%,,53.55%,Y,629,366
-nm,066000,Bloomfield Schools,066001,Charlie Y. Brown Alt,58.51%,,53.55%,Y,98,57
-nm,066000,Bloomfield Schools,066095,Mesa Alta Jr High,53.69%,,53.55%,Y,409,220
-nm,066000,Bloomfield Schools,066125,Naaba Ani Elementary,56.06%,,53.55%,Y,537,301
-nm,609000,Borrego Pass School - Dibe Yazhi Habltin Olta,609000,Borrego Pass School - Dibe Yazhi Habltin Olta,79.17%,,79.17%,Y,144,114
-nm,040000,Capitan Municipal Schools,040033,Capitan Elementary,41.15%,,,N,209,86
-nm,040000,Capitan Municipal Schools,040001,Capitan Headstart,100.00%,,,N,13,13
-nm,040000,Capitan Municipal Schools,040034,Capitan High,27.98%,,,N,,
-nm,040000,Capitan Municipal Schools,040036,Capitan Middle,30.65%,,,N,124,38
-nm,020000,Carlsbad Municipal Schools,020034,Carlsbad High,23.66%,,,N,,
-nm,020000,Carlsbad Municipal Schools,020032,Carlsbad Intermediate School,28.89%,,,N,,
-nm,020000,Carlsbad Municipal Schools,020018,Carlsbad Sixth Grade Academy,29.14%,,,N,,
-nm,020000,Carlsbad Municipal Schools,020038,Craft Elementary,52.88%,,,N,208,110
-nm,020000,Carlsbad Municipal Schools,020160,Desert Willow Elementary,36.56%,,,N,744,272
-nm,020000,Carlsbad Municipal Schools,020047,Early Childhood Education Center,40.03%,,,N,612,245
-nm,020000,Carlsbad Municipal Schools,020035,Early College High School,10.19%,,,N,,
-nm,020001,Carlsbad Municipal Schools,020162,Edison Elementary,36.72%,,,N,128,47
-nm,020002,Carlsbad Municipal Schools,020058,Hillcrest Preschool,24.66%,,,N,,
-nm,020000,Carlsbad Municipal Schools,020144,Joe Stanley Smith Elementary,45.45%,,,N,352,160
-nm,020000,Carlsbad Municipal Schools,020100,Monterrey Elementary,30.97%,,,N,352,109
-nm,020000,Carlsbad Municipal Schools,020161,Ocotillo Elementary,26.31%,,,N,,
-nm,020000,Carlsbad Municipal Schools,020158,Sunset Elementary,18.43%,,,N,,
-nm,605000,Bread Springs Day School,605005,Bread Springs Day School,72.03%,,72.03%,Y,118,85
-nm,037000,Carrizozo Municipal Schools,037035,Carrizozo Elementary,44.23%,,43.66%,Y,46,20
-nm,037000,Carrizozo Municipal Schools,037036,Carrizozo High,32.08%,,43.66%,Y,40,13
-nm,037000,Carrizozo Municipal Schools,037157,Carrizozo Middle,52.94%,,43.66%,Y,56,30
-nm,067000,Central Consolidated Schools,067025,Career Prep Alternative,59.85%,,55.26%,Y,136,81
-nm,067000,Central Consolidated Schools,067026,Eva B. Stokely Elementary,60.08%,,55.26%,Y,386,232
-nm,067000,Central Consolidated Schools,067060,Judy Nelson Elementary,46.28%,,55.26%,Y,600,278
-nm,067000,Central Consolidated Schools,067035,Kirtland Central High,42.11%,,55.26%,Y,758,319
-nm,067000,Central Consolidated Schools,067038,Kirtland Elementary/Pre-K Early,43.64%,,55.26%,Y,711,310
-nm,067000,Central Consolidated Schools,067034,Kirtland Middle,46.10%,,55.26%,Y,438,202
-nm,067000,Central Consolidated Schools,067110,Mesa Elementary,62.50%,,55.26%,Y,317,198
-nm,067000,Central Consolidated Schools,067114,Naschitti Elementary,71.11%,,55.26%,Y,111,79
-nm,067000,Central Consolidated Schools,067116,Newcomb Elementary,68.31%,,55.26%,Y,292,199
-nm,067000,Central Consolidated Schools,067130,Newcomb Middle/High,60.38%,,55.26%,Y,394,238
-nm,067000,Central Consolidated Schools,067152,Nizhoni Elementary,74.73%,,55.26%,Y,459,343
-nm,067000,Central Consolidated Schools,067075,Ojo Amarillo Elementary,75.26%,,55.26%,Y,462,348
-nm,067000,Central Consolidated Schools,067039,Shiprock High,41.55%,,55.26%,Y,644,268
-nm,067000,Central Consolidated Schools,067160,Tse Bit Ai Middle,59.07%,,55.26%,Y,466,275
-nm,512000,Cesar Chavez Community  School,512001,Cesar Chavez Community School,61.34%,,68.75%,Y,208,128
-nm,053000,Chama Valley Independent Schools,053036,Chama Elementary,51.06%,,43.28%,Y,90,46
-nm,053000,Chama Valley Independent Schools,053165,Escalante Middle/High School,26.62%,,,N,,
-nm,053000,Chama Valley Independent Schools,053042,Chama Middle,36.59%,,43.28%,Y,33,12
-nm,053000,Chama Valley Independent Schools,053064,Tierra Amarilla Elementary,36.07%,,43.28%,Y,115,41
-nm,606000,Chichiltah Jones Ranch Community School,606006,Chi-Chil Tah,66.67%,,66.67%,Y,111,74
-nm,607000,Chooshgai Community School,607007,Chooshgai,64.79%,,64.79%,Y,213,138
-nm,507000,Cien Aguas International  School,507001,Cien Aguas International,23.53%,,,N,,
-nm,008000,Cimarron Municipal Schools,008033,Cimarron Elementary,45.76%,,,N,59,27
-nm,008000,Cimarron Municipal Schools,008034,Cimarron High,27.03%,,,N,,
-nm,008000,Cimarron Municipal Schools,008036,Cimarron Middle,36.73%,,,N,49,18
-nm,008000,Cimarron Municipal Schools,008047,Eagle Nest Elementary,32.29%,,,N,96,31
-nm,008000,Cimarron Municipal Schools,008048,Eagle Nest Middle,26.14%,,,N,,
-nm,084000,Clayton Municipal Schools,084037,Alvis Elementary,51.34%,,,N,187,96
-nm,084000,Clayton Municipal Schools,084039,Clayton High,22.76%,,,N,,
-nm,084000,Clayton Municipal Schools,084038,Clayton Junior High,37.50%,,,N,72,27
-nm,084000,Clayton Municipal Schools,084045,Kiser Elementary,50.00%,,,N,64,32
-nm,048000,Cloudcroft Municipal Schools,048038,Cloudcroft Elementary,29.21%,,,N,,
-nm,048000,Cloudcroft Municipal Schools,048039,Cloudcroft High,24.29%,,,N,,
-nm,048000,Cloudcroft Municipal Schools,048042,Cloudcroft Middle,32.04%,,,N,103,33
-nm,001018,Christine Duncans Heritage Academy,001118,Christine Duncans Heritage Academy,55.63%,,57.10%,Y,345,192
-nm,012000,Clovis Municipal Schools,012040,Barry Elementary,21.01%,,,N,,
-nm,012000,Clovis Municipal Schools,012042,Arts Academy At Bella Vista,73.28%,,53.56%,Y,363,266
-nm,012000,Clovis Municipal Schools,012036,Clovis High,32.52%,,,N,1442,469
-nm,012000,Clovis Municipal Schools,012068,Cameo Elementary,72.55%,,53.56%,Y,306,222
-nm,012000,Clovis Municipal Schools,012056,Clovis Hs Freshman Academy,40.64%,,53.56%,Y,534,217
-nm,012001,Clovis Municipal Schools,012081,Cms Iacademy At Lincoln Jackson,38.53%,,53.56%,Y,109,42
-nm,012000,Clovis Municipal Schools,012058,Highland Elementary,56.35%,,53.56%,Y,323,182
-nm,012000,Clovis Municipal Schools,012066,James Bickley Elementary,65.93%,,53.56%,Y,361,238
-nm,012000,Clovis Municipal Schools,012072,La Casita Elementary,48.74%,,53.56%,Y,277,135
-nm,012000,Clovis Municipal Schools,012084,Lockwood Elementary,54.18%,,53.56%,Y,371,201
-nm,012000,Clovis Municipal Schools,012003,Los Ninos Early Intervention,44.54%,,53.56%,Y,119,53
-nm,012000,Clovis Municipal Schools,012095,Mesa Elementary,18.74%,,,N,,
-nm,012000,Clovis Municipal Schools,012091,Marshall Middle,55.92%,,53.56%,Y,642,359
-nm,012000,Clovis Municipal Schools,012122,Parkview Elementary,55.97%,,53.56%,Y,461,258
-nm,012000,Clovis Municipal Schools,012145,Sandia Elementary,51.39%,,53.56%,Y,395,203
-nm,012000,Clovis Municipal Schools,012156,W D Gattis Middle School,38.79%,,53.56%,Y,531,206
-nm,012000,Clovis Municipal Schools,012155,Zia Elementary,19.20%,,,N,,
-nm,012000,Clovis Municipal Schools,012098,Yucca Middle,40.90%,,53.56%,Y,643,263
-nm,024000,Cobre Consolidated Schools District,024023,Bayard Elementary,61.04%,,51.99%,Y,233,142
-nm,024000,Cobre Consolidated Schools District,024033,Central Elementary,52.71%,,51.99%,Y,258,136
-nm,024000,Cobre Consolidated Schools District,024036,Cobre High,37.58%,,51.99%,Y,307,115
-nm,024000,Cobre Consolidated Schools District,024059,Hurley Elementary,63.40%,,51.99%,Y,152,96
-nm,024000,Cobre Consolidated Schools District,024143,San Lorenzo Elementary,42.35%,,51.99%,Y,87,37
-nm,541000,Coral Community Charter,541001,Coral Community Charter,25.20%,,,N,,
-nm,038000,Corona Municipal Schools,038038,Corona Elementary,38.24%,,,N,34,13
-nm,038000,Corona Municipal Schools,038039,Corona High,20.69%,,,N,,
-nm,024000,Cobre Consolidated Schools District,024132,Snell Middle,56.63%,,51.99%,Y,167,95
-nm,634000,Crownpoint Community School Tiistioozibiolta,634000,T'Iists'Oozi Bi'O'Lt Crownpoint Community School,61.86%,,61.86%,Y,430,266
-nm,608000,Crystal Boarding School,608008,Crystal Boarding School,51.43%,,51.43%,Y,105,54
-nm,062000,Cuba Independent Schools,062037,Cuba Elementary,82.96%,,70.58%,Y,223,185
-nm,062000,Cuba Independent Schools,062038,Cuba High,62.07%,,70.58%,Y,232,144
-nm,099000,Cyfd - Juvenile Justice,099004,Aztec Youth Academy,22.73%,,,N,,
-nm,099000,Cyfd - Juvenile Justice,099006,Camino Nuevo,27.27%,,,N,,
-nm,099000,Cyfd - Juvenile Justice,099003,Foot Hills High School,44.44%,,,N,36,16
-nm,062000,Cuba Independent Schools,062075,Cuba Middle,67.54%,,70.58%,Y,114,77
-nm,562000,Deap,562001,Deap,56.41%,,71.05%,Y,38,21
-nm,042000,Deming Public Schools,042005,Bataan Elementary,56.77%,,68.07%,Y,506,287
-nm,042000,Deming Public Schools,042024,Bell Elementary,65.35%,,68.07%,Y,252,165
-nm,042000,Deming Public Schools,042028,Chaparral Elementary,58.16%,,69.76%,Y,388,226
-nm,042000,Deming Public Schools,042036,Columbus Elementary,44.34%,,69.76%,Y,533,236
-nm,042000,Deming Public Schools,042006,Deming Cesar Chavez,54.14%,,69.76%,Y,87,47
-nm,042000,Deming Public Schools,042044,Deming High,44.05%,,69.76%,Y,1258,554
-nm,042000,Deming Public Schools,042025,Deming Intermediate,52.54%,,69.76%,Y,454,239
-nm,042000,Deming Public Schools,042010,Early College High School,36.90%,,69.76%,Y,84,31
-nm,042000,Deming Public Schools,042096,Memorial Elementary,53.87%,,69.76%,Y,363,196
-nm,042000,Deming Public Schools,042045,Mimbres Valley High School,64.56%,,69.76%,Y,68,44
-nm,042000,Deming Public Schools,042001,My Little School,57.73%,,69.76%,Y,95,55
-nm,042000,Deming Public Schools,042007,Red Mountain Middle,53.46%,,69.76%,Y,782,418
-nm,085000,Des Moines Municipal Schools,085044,Des Moines Elementary,22.45%,,,N,,
-nm,085000,Des Moines Municipal Schools,085045,Des Moines High,9.30%,,,N,,
-nm,042000,Deming Public Schools,042008,Ruben S. Torres Elementary,70.02%,,69.76%,Y,431,302
-nm,006000,Dexter Consolidated Schools,006043,Dexter Elementary,44.47%,,49.01%,Y,435,193
-nm,006000,Dexter Consolidated Schools,006045,Dexter High,36.13%,,49.01%,Y,297,107
-nm,060000,Dora Consolidated Schools,060044,Dora Elementary,32.84%,,,N,134,44
-nm,060000,Dora Consolidated Schools,060045,Dora High,19.09%,,,N,,
-nm,006000,Dexter Consolidated Schools,006048,Dexter Middle,38.18%,,49.01%,Y,227,87
-nm,559001,Dream Dine,559001,Dream Dine,55.00%,,68.75%,Y,16,9
-nm,054000,Dulce Independent Schools,054044,Dulce Elementary,53.49%,,53.41%,Y,301,161
-nm,054000,Dulce Independent Schools,054045,Dulce Jr-Sr High,52.41%,,53.41%,Y,169,89
-nm,054000,Dulce Independent Schools,054050,Dulce Middle,52.63%,,53.41%,Y,116,61
-nm,611000,Dzilth Na O Dith Hle Community School,611011,Dzilth-Na-O-Dith-Hle Community School,56.41%,,72.29%,Y,166,94
-nm,058000,Elida Municipal Schools,058047,Elida Elementary,35.64%,,,N,101,36
-nm,058000,Elida Municipal Schools,058048,Elida High,32.81%,,,N,64,21
-nm,001069,El Camino Real Academy,001069,El Camino Real Academy,51.23%,,63.21%,Y,299,153
-nm,055000,Espanola Public Schools,055005,Abiquiu Elementary,57.14%,,56.35%,Y,103,59
-nm,055000,Espanola Public Schools,055015,Alcalde Elementary,53.62%,,56.35%,Y,209,112
-nm,055000,Espanola Public Schools,055019,Carlos F. Vigil Middle,52.89%,,56.35%,Y,461,244
-nm,055000,Espanola Public Schools,055039,Chimayo Elementary,60.42%,,56.35%,Y,133,80
-nm,055000,Espanola Public Schools,055042,Dixon Elementary,31.75%,,56.35%,Y,63,20
-nm,055000,Espanola Public Schools,055050,Espanola Valley High,43.08%,,56.35%,Y,812,350
-nm,055000,Espanola Public Schools,055053,Eutimio Salazar Elementary,64.97%,,56.35%,Y,367,238
-nm,055000,Espanola Public Schools,055059,Hernandez Elementary,73.33%,,56.35%,Y,75,55
-nm,055000,Espanola Public Schools,055048,James Rodriguez Elementary,53.20%,,56.35%,Y,340,181
-nm,055000,Espanola Public Schools,055142,Los Ninos Elementary,63.89%,,56.35%,Y,111,71
-nm,055000,Espanola Public Schools,055144,San Juan Elementary,50.40%,,56.35%,Y,231,116
-nm,055000,Espanola Public Schools,055145,Tony Quintana Elementary,66.81%,,56.35%,Y,230,154
-nm,055000,Espanola Public Schools,055169,Velarde Elementary,61.40%,,56.35%,Y,54,33
-nm,080000,Estancia Municipal Schools,080050,Estancia High,40.86%,,53.81%,Y,179,73
-nm,080000,Estancia Municipal Schools,080172,Estancia Middle,59.34%,,53.81%,Y,88,52
-nm,080000,Estancia Municipal Schools,080169,Lower Elementary,56.97%,,53.81%,Y,142,81
-nm,080000,Estancia Municipal Schools,080001,Upper Elementary,57.46%,,53.81%,Y,122,70
-nm,032000,Eunice Municipal Schools,032049,Caton Middle,27.75%,,,N,,
-nm,032000,Eunice Municipal Schools,032050,Eunice High,22.12%,,,N,,
-nm,032000,Eunice Municipal Schools,032048,Mettie Jordan Elementary,27.63%,,,N,,
-nm,557000,Explore Academy Charter School,557001,Explore Academy Charter School,14.54%,,,N,,
-nm,080000,Estancia Municipal Schools,080185,Vanstone Elementary,65.79%,,53.81%,Y,34,22
-nm,065000,Farmington Municipal Schools,065015,Animas Elementary,64.48%,,59.25%,Y,411,265
-nm,065000,Farmington Municipal Schools,065017,Apache Elementary,68.83%,,59.25%,Y,462,318
-nm,065000,Farmington Municipal Schools,065037,Country Club Elementary,25.35%,,,N,,
-nm,065000,Farmington Municipal Schools,065019,Bluffview Elementary,59.01%,,59.25%,Y,383,226
-nm,065000,Farmington Municipal Schools,065053,Farmington High,35.45%,,,N,1402,497
-nm,065000,Farmington Municipal Schools,065055,Farmington Preschool Academy East,43.60%,,,N,172,75
-nm,065000,Farmington Municipal Schools,065056,Farmington Preschool Academy West,45.45%,,,N,165,75
-nm,065000,Farmington Municipal Schools,065059,Heights Middle School,34.48%,,,N,757,261
-nm,065000,Farmington Municipal Schools,065058,Hermosa Middle School,39.83%,,,N,703,280
-nm,065000,Farmington Municipal Schools,065073,Ladera Del Norte Elementary,31.03%,,,N,551,171
-nm,065000,Farmington Municipal Schools,065038,Esperanza Elementary,48.49%,,59.25%,Y,530,257
-nm,065000,Farmington Municipal Schools,065095,Mccormick Elementary,65.44%,,59.25%,Y,408,267
-nm,065000,Farmington Municipal Schools,065106,Mesa Verde Elementary,37.47%,,,N,483,181
-nm,065000,Farmington Municipal Schools,065108,Mesa View Middle School,46.03%,,,N,541,249
-nm,065000,Farmington Municipal Schools,065118,Northeast Elementary,42.58%,,,N,566,241
-nm,065000,Farmington Municipal Schools,065006,Piedra Vista High,31.41%,,,N,1388,436
-nm,065000,Farmington Municipal Schools,065100,Mckinley Elementary,50.57%,,59.25%,Y,526,266
-nm,065001,Farmington Municipal Schools,065180,San Juan College High School,14.39%,,,N,,
-nm,065000,Farmington Municipal Schools,065162,Tibbetts Middle School,44.03%,,,N,720,317
-nm,059000,Floyd Municipal Schools,058053,Floyd Elementary,45.79%,,,N,107,49
-nm,059001,Floyd Municipal Schools,058054,Floyd High,25.49%,,,N,,
-nm,059002,Floyd Municipal Schools,058001,Floyd Middle,39.29%,,,N,56,22
-nm,065000,Farmington Municipal Schools,065148,Rocinante High,49.81%,,59.25%,Y,259,129
-nm,016000,Fort Sumner Municipal Schools,016051,Fort Sumner Elementary,52.05%,,46.79%,Y,167,87
-nm,016000,Fort Sumner Municipal Schools,016052,Fort Sumner High,38.75%,,46.79%,Y,84,33
-nm,016000,Fort Sumner Municipal Schools,016060,Fort Sumner Middle,31.37%,,46.79%,Y,61,19
-nm,019000,Gadsden Independent Schools,019018,Alta Vista Early College High School,43.48%,,58.31%,Y,183,80
-nm,019000,Gadsden Independent Schools,019016,Anthony Elementary,68.59%,,58.31%,Y,558,383
-nm,019000,Gadsden Independent Schools,019020,Berino Elementary,69.64%,,58.31%,Y,412,287
-nm,019000,Gadsden Independent Schools,019030,Chaparral Elementary,64.01%,,58.31%,Y,555,355
-nm,019000,Gadsden Independent Schools,019003,Chaparral High,52.66%,,58.31%,Y,1048,552
-nm,019000,Gadsden Independent Schools,019032,Chaparral Middle,61.41%,,58.31%,Y,599,368
-nm,019000,Gadsden Independent Schools,019040,Desert Trail Elementary,65.18%,,58.31%,Y,552,360
-nm,019000,Gadsden Independent Schools,019035,Desert View Elementary,75.68%,,58.31%,Y,444,336
-nm,019000,Gadsden Independent Schools,019017,Gadsden Elementary,56.39%,,58.31%,Y,622,351
-nm,019000,Gadsden Independent Schools,019054,Gadsden High,49.51%,,58.31%,Y,1420,703
-nm,019000,Gadsden Independent Schools,019052,Gadsden Middle,54.16%,,58.31%,Y,779,422
-nm,019000,Gadsden Independent Schools,019076,La Union Elementary,42.86%,,58.31%,Y,320,137
-nm,019000,Gadsden Independent Schools,019086,Loma Linda Elementary,63.35%,,58.31%,Y,322,204
-nm,019000,Gadsden Independent Schools,019104,Mesquite Elementary,60.20%,,58.31%,Y,306,184
-nm,019000,Gadsden Independent Schools,019120,North Valley Elementary,50.84%,,58.31%,Y,299,152
-nm,019000,Gadsden Independent Schools,019140,Riverside Elementary,67.77%,,58.31%,Y,547,371
-nm,019000,Gadsden Independent Schools,019008,Santa Teresa Elementary,38.65%,,58.31%,Y,532,206
-nm,019000,Gadsden Independent Schools,019200,Santa Teresa High,45.02%,,58.31%,Y,1277,575
-nm,019000,Gadsden Independent Schools,019175,Santa Teresa Middle,54.25%,,58.31%,Y,648,352
-nm,019000,Gadsden Independent Schools,019013,Sunland Park Elementary,64.98%,,58.31%,Y,257,167
-nm,019000,Gadsden Independent Schools,019009,Sunrise Elementary,67.52%,,58.31%,Y,390,263
-nm,019000,Gadsden Independent Schools,019001,Vado Elementary,60.30%,,58.31%,Y,507,306
-nm,019001,Gadsden Independent Schools,019025,Yucca Heights Elementary,69.72%,,58.31%,Y,583,406
-nm,043000,Gallup Mckinley County Schools,043034,Catherine A. Miller Elementary,72.03%,,59.07%,Y,309,223
-nm,043000,Gallup Mckinley County Schools,043030,Chee Dodge Elementary,72.69%,,59.07%,Y,255,185
-nm,043000,Gallup Mckinley County Schools,043003,Chief Manuelito Middle,58.48%,,59.07%,Y,572,335
-nm,043000,Gallup Mckinley County Schools,043038,Crownpoint Elementary,69.54%,,59.07%,Y,330,229
-nm,043000,Gallup Mckinley County Schools,043039,Crownpoint High,56.33%,,59.07%,Y,298,168
-nm,043000,Gallup Mckinley County Schools,043088,Crownpoint Middle,62.66%,,59.07%,Y,161,101
-nm,043000,Gallup Mckinley County Schools,043160,David Skeet Elementary,78.64%,,59.07%,Y,206,162
-nm,043000,Gallup Mckinley County Schools,043174,Del Norte Elementary,68.58%,,59.07%,Y,520,357
-nm,043000,Gallup Mckinley County Schools,043016,Gallup Central Alternative,62.98%,,59.07%,Y,171,108
-nm,043000,Gallup Mckinley County Schools,043055,Gallup High,48.56%,,59.07%,Y,833,405
-nm,043000,Gallup Mckinley County Schools,043054,Gallup Middle,45.83%,,59.07%,Y,454,208
-nm,043000,Gallup Mckinley County Schools,043062,Indian Hills Elementary,45.72%,,59.07%,Y,297,136
-nm,043000,Gallup Mckinley County Schools,043066,Jefferson Elementary,53.67%,,59.07%,Y,592,318
-nm,043000,Gallup Mckinley County Schools,043190,John F. Kennedy Middle,56.95%,,59.07%,Y,657,374
-nm,043000,Gallup Mckinley County Schools,043077,Lincoln Elementary,53.28%,,59.07%,Y,378,201
-nm,043000,Gallup Mckinley County Schools,043073,Miyamura High School,43.15%,,59.07%,Y,1187,512
-nm,043000,Gallup Mckinley County Schools,043079,Navajo Elementary,67.60%,,59.07%,Y,287,194
-nm,043000,Gallup Mckinley County Schools,043100,Navajo Middle School,65.29%,,59.07%,Y,123,80
-nm,043000,Gallup Mckinley County Schools,043075,Navajo Pine High,57.58%,,59.07%,Y,131,75
-nm,043000,Gallup Mckinley County Schools,043132,Ramah Elementary,61.05%,,59.07%,Y,187,114
-nm,043000,Gallup Mckinley County Schools,043130,Ramah High School,49.43%,,59.07%,Y,173,86
-nm,043000,Gallup Mckinley County Schools,043138,Rocky View Elementary,73.24%,,59.07%,Y,N/A,
-nm,043000,Gallup Mckinley County Schools,043134,Red Rock Elementary,34.97%,,59.07%,Y,325,114
-nm,043000,Gallup Mckinley County Schools,043152,Stagecoach Elementary,67.37%,,59.07%,Y,286,193
-nm,043000,Gallup Mckinley County Schools,043162,Thoreau Elementary,70.55%,,59.07%,Y,298,210
-nm,043000,Gallup Mckinley County Schools,043145,Thoreau High,55.91%,,59.07%,Y,377,211
-nm,043000,Gallup Mckinley County Schools,043155,Thoreau Middle,70.54%,,59.07%,Y,235,166
-nm,043000,Gallup Mckinley County Schools,043091,Tobe Turpen Elementary,64.90%,,59.07%,Y,395,256
-nm,043000,Gallup Mckinley County Schools,043164,Tohatchi Elementary,56.89%,,59.07%,Y,230,131
-nm,043000,Gallup Mckinley County Schools,043064,Tohatchi High,54.76%,,59.07%,Y,292,160
-nm,043000,Gallup Mckinley County Schools,043120,Tohatchi Middle,59.90%,,59.07%,Y,204,122
-nm,043000,Gallup Mckinley County Schools,043089,Tse'Yi'Gai High,72.73%,,59.07%,Y,87,63
-nm,043000,Gallup Mckinley County Schools,043170,Twin Lakes Elementary,73.30%,,59.07%,Y,203,149
-nm,514000,Gilbert Sena Charter High School,514001,Gilbert L Sena Charter Hs,61.05%,,61.05%,Y,172,105
-nm,015000,Grady Municipal Schools,015057,Grady High,31.25%,,,N,48,15
-nm,015000,Grady Municipal Schools,015055,Grady Elementary,34.74%,,44.04%,Y,86,30
-nm,015000,Grady Municipal Schools,015056,Grady Middle,40.48%,,44.04%,Y,23,9
-nm,088000,Grants Cibola County Schools,088915,Bluewater Elementary,44.57%,,54.10%,Y,102,45
-nm,088000,Grants Cibola County Schools,088038,Cubero Elementary,56.08%,,54.10%,Y,273,153
-nm,088000,Grants Cibola County Schools,088055,Grants High,42.04%,,54.10%,Y,797,335
-nm,088000,Grants Cibola County Schools,088057,Laguna-Acoma High,50.00%,,54.10%,Y,218,109
-nm,088000,Grants Cibola County Schools,088058,Laguna-Acoma Middle,59.18%,,54.10%,Y,49,29
-nm,088000,Grants Cibola County Schools,088056,Los Alamitos Middle,50.00%,,54.10%,Y,462,231
-nm,088000,Grants Cibola County Schools,088099,Mesa View Elementary,60.04%,,54.10%,Y,468,281
-nm,088000,Grants Cibola County Schools,088104,Milan Elementary,54.37%,,54.10%,Y,459,250
-nm,088000,Grants Cibola County Schools,088106,Mount Taylor Elementary,60.70%,,54.10%,Y,536,325
-nm,088000,Grants Cibola County Schools,088152,San Rafael Elementary,65.52%,,54.10%,Y,73,48
-nm,088000,Grants Cibola County Schools,088155,Seboyeta Elementary,58.82%,,54.10%,Y,49,29
-nm,005000,Hagerman Municipal Schools,005054,Hagerman Elementary,34.90%,,,N,192,67
-nm,005000,Hagerman Municipal Schools,005055,Hagerman High,23.97%,,,N,,
-nm,005000,Hagerman Municipal Schools,005056,Hagerman Middle,27.55%,,,N,,
-nm,631000,Haak'U Community Academy,631031,Haak'U Community Academy,62.00%,,62.00%,Y,100,62
-nm,018000,Hatch Valley Public Schools,018053,Garfield Elementary,58.93%,,64.00%,Y,140,83
-nm,018000,Hatch Valley Public Schools,018057,Hatch Valley Elementary,63.83%,,64.00%,Y,227,145
-nm,018000,Hatch Valley Public Schools,018058,Hatch Valley High,50.69%,,64.00%,Y,377,191
-nm,018000,Hatch Valley Public Schools,018050,Hatch Valley Middle,60.88%,,64.00%,Y,301,183
-nm,018000,Hatch Valley Public Schools,018003,Hatch Valley Sh Program Pre-K,100.00%,,64.00%,Y,88,88
-nm,033000,Hobbs Municipal Schools,033172,B.T. Washington Elementary,52.56%,,,N,234,123
-nm,033000,Hobbs Municipal Schools,033028,Broadmoor Elementary,43.08%,,,N,390,168
-nm,033000,Hobbs Municipal Schools,033030,College Lane Elementary,28.13%,,,N,,
-nm,033000,Hobbs Municipal Schools,033032,Coronado Elementary,40.82%,,,N,441,180
-nm,033000,Hobbs Municipal Schools,033046,Edison Elementary,45.76%,,,N,295,135
-nm,033000,Hobbs Municipal Schools,033008,Heizer Middle School,35.90%,,,N,663,238
-nm,033000,Hobbs Municipal Schools,033057,Highland Middle School,34.66%,,,N,952,330
-nm,033000,Hobbs Municipal Schools,033055,Hobbs Freshman High,32.40%,,,N,750,243
-nm,033000,Hobbs Municipal Schools,033058,Hobbs High,24.92%,,,N,,
-nm,033000,Hobbs Municipal Schools,033059,Houston Middle School,29.93%,,,N,,
-nm,033000,Hobbs Municipal Schools,033066,Jefferson Elementary,40.21%,,,N,388,156
-nm,033000,Hobbs Municipal Schools,033072,Mills Elementary,33.67%,,,N,401,135
-nm,033000,Hobbs Municipal Schools,033177,Murray Elementary,48.86%,,,N,526,257
-nm,033000,Hobbs Municipal Schools,033144,Sanger Elementary,29.95%,,,N,,
-nm,033000,Hobbs Municipal Schools,033156,Southern Heights Elementary,41.90%,,,N,432,181
-nm,033000,Hobbs Municipal Schools,033075,Stone Elementary,24.27%,,,N,,
-nm,033000,Hobbs Municipal Schools,033164,Taylor Elementary,43.02%,,,N,430,185
-nm,033000,Hobbs Municipal Schools,033176,Will Rogers Elementary,38.20%,,,N,377,144
-nm,018000,Hatch Valley Public Schools,018001,Rio Grande Elementary,59.57%,,64.00%,Y,217,129
-nm,039000,Hondo Valley Public Schools,039059,Hondo Elementary,53.52%,,63.24%,Y,64,34
-nm,503000,Horizon Academy West,503022,Horizon Academy West,23.88%,,,N,,
-nm,050000,House Municipal Schools,050059,House Elementary,6.67%,,,N,,
-nm,050000,House Municipal Schools,050060,House High,36.36%,,,N,22,8
-nm,050000,House Municipal Schools,050058,House Junior High,11.11%,,,N,,
-nm,573000,Hozho Academy,573001,Hozho Academy,37.92%,,,N,298,113
-nm,039000,Hondo Valley Public Schools,039060,Hondo High,48.65%,,63.24%,Y,72,35
-nm,535000,J Paul Taylor Academy,535001,J Paul Taylor Academy,24.00%,,,N,,
-nm,034000,Jal Public Schools,034064,Jal Elementary,29.20%,,,N,,
-nm,034000,Jal Public Schools,034066,Jal High,20.00%,,,N,,
-nm,034000,Jal Public Schools,034060,Jal Jr High,26.19%,,,N,,
-nm,020001,Carlsbad Municipal Schools,020001,Jefferson Montessori,16.39%,,,N,,
-nm,612000,Isleta Elementary School,612012,Isleta Elementary,42.15%,,42.15%,Y,121,51
-nm,613000,Jemez Day School,613013,Jemez Day School,64.33%,,64.29%,Y,154,99
-nm,056000,Jemez Mountain Public Schools,056038,Coronado High,37.78%,,63.46%,Y,45,17
-nm,056000,Jemez Mountain Public Schools,056060,Coronado Middle,37.04%,,63.46%,Y,27,10
-nm,056000,Jemez Mountain Public Schools,056054,Gallina Elementary,58.18%,,63.46%,Y,55,32
-nm,056000,Jemez Mountain Public Schools,056087,Lybrook Elementary,88.89%,,63.46%,Y,81,72
-nm,063000,Jemez Valley Public Schools,063145,Jemez Valley Elementary,55.00%,,56.77%,Y,117,64
-nm,063000,Jemez Valley Public Schools,063166,Jemez Valley High,46.38%,,56.77%,Y,63,29
-nm,063000,Jemez Valley Public Schools,063170,Jemez Valley Middle,51.76%,,56.77%,Y,86,45
-nm,615000,Kawaika Laguna Schools,614014,Laguna Elementary School,57.85%,,55.90%,Y,223,129
-nm,615000,Kawaika Laguna Schools,615015,Laguna Middle School,51.52%,,55.90%,Y,99,51
-nm,629000,Khapo Community School,629029,Khapo Community School,63.19%,,63.19%,Y,144,91
-nm,001061,La Academia De Esperanza,001061,La Academia De Esperanza,49.56%,,53.30%,Y,212,105
-nm,560000,La Academia Dolores Huerta,560001,La Academia Dolores Huerta,64.63%,,62.71%,Y,118,76
-nm,546000,La Tierra Montessori School For Arts & Science,546001,La Tierra Montessori School,59.02%,,63.93%,Y,61,36
-nm,007000,Lake Arthur Municipal Schools,007073,Lake Arthur Elementary,38.89%,,,N,54,21
-nm,007000,Lake Arthur Municipal Schools,007075,Lake Arthur High,18.92%,,,N,,
-nm,007000,Lake Arthur Municipal Schools,007077,Lake Arthur Middle,31.25%,,,N,16,5
-nm,616000,Lake Valley Navajo School,616016,Lake Valley Navajo,73.33%,,73.33%,Y,15,11
-nm,017000,Las Cruces Public Schools,017010,Alameda Elementary,65.15%,,53.22%,Y,400,261
-nm,017000,Las Cruces Public Schools,017172,Booker T. Washington,75.14%,,53.22%,Y,352,264
-nm,017000,Las Cruces Public Schools,017002,Camino Real Middle,28.38%,,53.22%,Y,977,277
-nm,017000,Las Cruces Public Schools,017018,Centennial High School,32.49%,,,N,1576,512
-nm,017000,Las Cruces Public Schools,017034,Central Elementary,65.50%,,53.22%,Y,199,130
-nm,017000,Las Cruces Public Schools,017006,Cesar Chavez Elementary,66.67%,,53.22%,Y,542,361
-nm,017000,Las Cruces Public Schools,017009,Columbia Elementary,64.10%,,53.22%,Y,376,241
-nm,017000,Las Cruces Public Schools,017036,Conlee Elementary,76.21%,,53.22%,Y,442,337
-nm,017000,Las Cruces Public Schools,017045,Desert Hills Elementary,29.83%,,53.22%,Y,704,210
-nm,017000,Las Cruces Public Schools,017048,Dona Ana Elementary,56.38%,,53.22%,Y,375,211
-nm,017000,Las Cruces Public Schools,017016,Early College High School,25.60%,,,N,,
-nm,017000,Las Cruces Public Schools,017044,East Picacho Elementary,48.39%,,53.22%,Y,532,257
-nm,017000,Las Cruces Public Schools,017051,Fairacres Elementary,50.11%,,53.22%,Y,454,227
-nm,017000,Las Cruces Public Schools,017059,Hermosa Heights Elementary,67.57%,,53.22%,Y,415,280
-nm,017000,Las Cruces Public Schools,017053,Highland Elementary,37.05%,,53.22%,Y,836,310
-nm,017000,Las Cruces Public Schools,017055,Hillrise Elementary,59.66%,,53.22%,Y,518,309
-nm,017000,Las Cruces Public Schools,017061,Jornada Elementary,46.90%,,53.22%,Y,549,257
-nm,017000,Las Cruces Public Schools,017075,Las Cruces High,40.96%,,,N,1714,702
-nm,017000,Las Cruces Public Schools,017065,Loma Heights Elementary,70.76%,,53.22%,Y,497,352
-nm,017000,Las Cruces Public Schools,017086,Lynn Middle,66.83%,,53.22%,Y,644,430
-nm,017000,Las Cruces Public Schools,017093,Mac Arthur Elementary,72.70%,,53.22%,Y,386,281
-nm,017000,Las Cruces Public Schools,017100,Mayfield High,38.59%,,,N,1363,526
-nm,017000,Las Cruces Public Schools,017015,Mesa Middle,54.28%,,53.22%,Y,744,404
-nm,017000,Las Cruces Public Schools,017097,Mesilla Elementary,52.37%,,53.22%,Y,320,168
-nm,017000,Las Cruces Public Schools,017110,Mesilla Park Elementary,60.29%,,53.22%,Y,410,247
-nm,017000,Las Cruces Public Schools,017017,Mesilla Valley Alternative Middle School,35.79%,,53.22%,Y,94,34
-nm,017000,Las Cruces Public Schools,017014,Monte Vista Elementary,38.60%,,53.22%,Y,660,255
-nm,017000,Las Cruces Public Schools,017130,Onate High,37.09%,,,N,1642,609
-nm,017000,Las Cruces Public Schools,017035,Picacho Middle,54.05%,,53.22%,Y,807,436
-nm,017000,Las Cruces Public Schools,017012,Rio Grande Preparatory Institute,54.19%,,53.22%,Y,207,112
-nm,017000,Las Cruces Public Schools,017144,Sierra Middle,49.78%,,53.22%,Y,893,445
-nm,017000,Las Cruces Public Schools,017007,Sonoma Elementary,33.73%,,53.22%,Y,752,254
-nm,017000,Las Cruces Public Schools,017140,Sunrise Elementary,63.66%,,53.22%,Y,381,243
-nm,017000,Las Cruces Public Schools,017145,Tombaugh Elementary,52.52%,,53.22%,Y,637,335
-nm,017000,Las Cruces Public Schools,017150,University Hills Elementary,67.71%,,53.22%,Y,419,284
-nm,017000,Las Cruces Public Schools,017166,Valley View Elementary,74.17%,,53.22%,Y,387,287
-nm,017000,Las Cruces Public Schools,017170,Vista Middle,45.84%,,53.22%,Y,690,316
-nm,017000,Las Cruces Public Schools,017177,White Sands Elementary,9.06%,,53.22%,Y,300,27
-nm,017000,Las Cruces Public Schools,017184,Zia Middle,50.00%,,53.22%,Y,733,366
-nm,017013,Las Montanas High School,017013,Las Montanas Charter,74.58%,,69.09%,Y,165,123
-nm,069000,Las Vegas City Public Schools,069003,Early Childhood Center,64.49%,,51.70%,Y,167,108
-nm,069000,Las Vegas City Public Schools,069037,Los Ninos Elementary,58.68%,,51.70%,Y,317,186
-nm,069000,Las Vegas City Public Schools,069031,Memorial Middle,45.41%,,51.70%,Y,218,99
-nm,069000,Las Vegas City Public Schools,069150,Mike Sena Elementary,52.94%,,51.70%,Y,51,27
-nm,069000,Las Vegas City Public Schools,069136,Robertson High,38.36%,,51.70%,Y,309,119
-nm,069000,Las Vegas City Public Schools,069054,Sierra Vista Elementary,51.46%,,51.70%,Y,437,225
-nm,056003,Lindrith Area Heritage School,056003,Lindrith Area Heritage School,33.33%,,,N,6,2
-nm,051000,Logan Municipal Schools,051080,Logan Elementary,37.72%,,,N,114,43
-nm,051000,Logan Municipal Schools,051081,Logan High,15.29%,,,N,,
-nm,051000,Logan Municipal Schools,051082,Logan Middle,27.14%,,,N,,
-nm,029000,Lordsburg Municipal Schools,029034,Central Elementary,63.04%,,62.17%,Y,64,40
-nm,029000,Lordsburg Municipal Schools,029060,Dugan-Tarango Middle,54.69%,,62.17%,Y,69,38
-nm,029000,Lordsburg Municipal Schools,029082,Lordsburg High,42.31%,,62.17%,Y,114,48
-nm,029000,Lordsburg Municipal Schools,029174,R.V.Traylor Elementary,63.27%,,62.17%,Y,242,153
-nm,086000,Los Lunas Public Schools,086150,Ann Parish Elementary,64.61%,,60.26%,Y,451,291
-nm,086000,Los Lunas Public Schools,086028,Bosque Farms Elementary,32.60%,,,N,543,177
-nm,086000,Los Lunas Public Schools,086009,Century Alt High,52.69%,,60.26%,Y,158,83
-nm,086000,Los Lunas Public Schools,086003,Desert View Elementary,60.05%,,60.26%,Y,437,262
-nm,086000,Los Lunas Public Schools,086080,Katherine Gallegos Elementary,31.35%,,,N,689,216
-nm,086000,Los Lunas Public Schools,086082,Los Lunas Elementary,55.74%,,60.26%,Y,555,309
-nm,086000,Los Lunas Public Schools,086018,Los Lunas Family School,44.44%,,,N,9,4
-nm,086000,Los Lunas Public Schools,086085,Los Lunas High,33.38%,,,N,1360,454
-nm,086000,Los Lunas Public Schools,086084,Los Lunas Middle,39.70%,,,N,854,339
-nm,086000,Los Lunas Public Schools,086122,Peralta Elementary,41.10%,,60.26%,Y,363,149
-nm,086000,Los Lunas Public Schools,086083,Raymond Gabaldon Elementary,59.80%,,60.26%,Y,436,261
-nm,086000,Los Lunas Public Schools,086160,Sundance Elementary,31.42%,,,N,576,181
-nm,086000,Los Lunas Public Schools,086180,Tome Elementary,54.65%,,60.26%,Y,460,251
-nm,086000,Los Lunas Public Schools,086002,Valencia Elementary,48.69%,,60.26%,Y,406,198
-nm,086000,Los Lunas Public Schools,086017,Valencia High,36.89%,,,N,927,342
-nm,086000,Los Lunas Public Schools,086025,Valencia Middle,44.92%,,,N,472,212
-nm,021000,Loving Municipal Schools,021085,Loving Elementary,31.07%,,44.99%,Y,272,85
-nm,021000,Loving Municipal Schools,021086,Loving High,25.00%,,44.99%,Y,173,43
-nm,021000,Loving Municipal Schools,021088,Loving Middle,32.92%,,44.99%,Y,124,41
-nm,031000,Lovington Municipal Schools,031123,Ben Alexander Elementary,36.59%,,,N,246,90
-nm,031000,Lovington Municipal Schools,031068,Jefferson Elementary,36.60%,,,N,265,97
-nm,031000,Lovington Municipal Schools,031076,Lea Elementary,39.27%,,,N,275,108
-nm,031000,Lovington Municipal Schools,031078,Llano Elementary,37.86%,,,N,449,170
-nm,031000,Lovington Municipal Schools,031080,Lovington 6Th Grade Academy,32.14%,,,N,336,108
-nm,031000,Lovington Municipal Schools,000083,Lovington Freshman Academy,24.92%,,,N,,
-nm,031000,Lovington Municipal Schools,031081,Lovington High,17.40%,,,N,,
-nm,031000,Lovington Municipal Schools,031004,New Hope Alternative High,36.00%,,,N,100,36
-nm,031000,Lovington Municipal Schools,031082,Taylor Middle,28.18%,,,N,,
-nm,031000,Lovington Municipal Schools,031181,Yarbro Elementary,30.62%,,,N,565,173
-nm,075000,Magdalena Municipal Schools,075133,Magdalena Elementary,58.17%,,56.07%,Y,153,89
-nm,075000,Magdalena Municipal Schools,075095,Magdalena High,48.45%,,56.07%,Y,97,47
-nm,075000,Magdalena Municipal Schools,075100,Magdalena Middle,60.56%,,56.07%,Y,71,43
-nm,617000,Mariano Lake Community School,617017,Mariano Lake,78.57%,,78.57%,Y,140,110
-nm,001039,Mark Armijo Academy Charter School,001039,Mark Armijo Academy,56.85%,,57.36%,Y,197,112
-nm,011000,Maxwell Municipal Schools,011100,Maxwell Elementary,44.78%,,52.73%,Y,62,28
-nm,011000,Maxwell Municipal Schools,011105,Maxwell High,45.10%,,52.73%,Y,24,11
-nm,011000,Maxwell Municipal Schools,011108,Maxwell Middle,52.17%,,52.73%,Y,24,13
-nm,547000,Mccurdy Charter School,547001,Mccurdy Charter School,32.24%,,,N,549,177
-nm,501000,Media Arts Collaborative Charter School,501001,Media Arts Charter,37.85%,,,N,214,81
-nm,014000,Melrose Public Schools,014094,Melrose Elementary,28.98%,,,N,,
-nm,014000,Melrose Public Schools,014095,Melrose High,14.93%,,,N,,
-nm,014000,Melrose Public Schools,014093,Melrose Junior,18.87%,,,N,,
-nm,078000,Mesa Vista Consolidated Schools,078047,El Rito Elementary,41.03%,,53.28%,Y,69,28
-nm,078000,Mesa Vista Consolidated Schools,078119,Mesa Vista High,45.35%,,53.28%,Y,87,39
-nm,078000,Mesa Vista Consolidated Schools,078125,Mesa Vista Middle,50.00%,,53.28%,Y,43,22
-nm,078000,Mesa Vista Consolidated Schools,078118,Ojo Caliente Elementary,52.17%,,53.28%,Y,45,23
-nm,618000,Mescalero Apache School,618018,Mescalero Apache,63.52%,,63.52%,Y,625,397
-nm,578000,Middle College High School ,578001,Middle College High School ,22.50%,,,N,,
-nm,542000,Mission Achievement And Success,542001,Mission Achievement And Success 1.0,44.39%,,48.91%,Y,1010,448
-nm,542000,Mission Achievement And Success,542002,Mission Achievement And Success 2.0,52.30%,,60.20%,Y,98,51
-nm,564000,Monte Del Sol Charter School,564001,Monte Del Sol Charter,31.39%,,,N,360,113
-nm,044000,Mora Independent Schools,044059,Holman Elementary,57.58%,,55.60%,Y,36,21
-nm,044000,Mora Independent Schools,044001,Lazaro Larry Garcia,42.19%,,55.60%,Y,75,32
-nm,044000,Mora Independent Schools,044104,Mora Elementary,56.15%,,55.60%,Y,172,97
-nm,044000,Mora Independent Schools,044002,Mora Headstart,100.00%,,55.60%,Y,56,56
-nm,044000,Mora Independent Schools,044105,Mora High,40.16%,,55.60%,Y,125,50
-nm,081000,Moriarty-Edgewood School District,081003,Edgewood Middle,36.00%,,,N,325,117
-nm,081000,Moriarty-Edgewood School District,081100,Moriarty Elementary,61.23%,,58.72%,Y,420,257
-nm,081000,Moriarty-Edgewood School District,081101,Moriarty High,35.60%,,,N,677,241
-nm,081000,Moriarty-Edgewood School District,081102,Moriarty Middle,50.76%,,58.72%,Y,285,145
-nm,081000,Moriarty-Edgewood School District,081151,Mountainview Complex,45.12%,,,N,82,37
-nm,081000,Moriarty-Edgewood School District,081001,Route 66 Elementary,47.04%,,,N,304,143
-nm,081000,Moriarty-Edgewood School District,081120,South Mountain Elementary,37.03%,,,N,316,117
-nm,028000,Mosquero Municipal Schools,028100,Mosquero Elementary,21.28%,,,N,,
-nm,028000,Mosquero Municipal Schools,028101,Mosquero High,36.36%,,,N,44,16
-nm,082000,Mountainair Public Schools,082105,Mountainair Elementary,58.10%,,71.56%,Y,99,58
-nm,082000,Mountainair Public Schools,082107,Mountainair High,62.86%,,71.56%,Y,80,50
-nm,082000,Mountainair Public Schools,082106,Mountainair Jr High,68.63%,,71.56%,Y,46,32
-nm,619000,Na'Neelzhiin Ji Olta,619019,Na'Neelzhiin Ji Olta,75.32%,,75.32%,Y,77,58
-nm,620000,Navajo Preparatory School Inc,620020,Navajo Preparatory,17.39%,,,N,,
-nm,621000,Nenahnezad Community School,621021,Nenahnezad Community School,63.78%,,63.78%,Y,185,118
-nm,549000,New America School - Las Cruces,549001,New America School - Las Cruces,54.30%,,70.00%,Y,120,65
-nm,093000,New Mexico School For The Deaf,093150,Nm School For The Deaf,33.79%,,49.15%,Y,118,40
-nm,504000,North Valley Academy,504001,North Valley Academy,39.40%,,,N,500,197
-nm,623000,Ohkay Owingeh Community School,623023,Ohkay Owingeh,63.75%,,63.75%,Y,80,51
-nm,622000,Ojo Encino Day School,622022,Ojo Encino Day School,74.84%,,74.84%,Y,155,116
-nm,070000,Pecos Independent Schools,070173,Pecos Elementary,50.59%,,49.68%,Y,323,163
-nm,070000,Pecos Independent Schools,070124,Pecos High,42.51%,,49.68%,Y,172,73
-nm,070000,Pecos Independent Schools,070150,Pecos Middle,42.66%,,49.68%,Y,133,57
-nm,077000,Penasco Independent Schools,077121,Penasco Elementary,53.00%,,52.59%,Y,205,109
-nm,077000,Penasco Independent Schools,077123,Penasco High,47.12%,,52.59%,Y,103,49
-nm,077000,Penasco Independent Schools,077128,Penasco Middle,44.23%,,52.59%,Y,59,26
-nm,624000,Pine Hills Ramah Navajo School Board,624024,Pine Hill School,65.35%,,65.35%,Y,254,166
-nm,072000,Pojoaque Valley Public Schools,072123,Pablo Roybal Elementary,44.96%,,,N,516,232
-nm,072000,Pojoaque Valley Public Schools,072124,Pojoaque High,25.37%,,,N,,
-nm,072000,Pojoaque Valley Public Schools,072128,Pojoaque Intermediate,45.00%,,,N,260,117
-nm,072000,Pojoaque Valley Public Schools,072125,Pojoaque Middle,33.63%,,,N,342,115
-nm,072000,Pojoaque Valley Public Schools,072132,Sixth Grade Academy,37.33%,,,N,150,56
-nm,057000,Portales Municipal Schools,057028,Brown Early Childhood Center,47.25%,,,N,345,163
-nm,057000,Portales Municipal Schools,057032,James Elementary,49.52%,,,N,416,206
-nm,057000,Portales Municipal Schools,057155,Lindsey-Steiner Elementary,45.73%,,,N,433,198
-nm,057000,Portales Municipal Schools,057124,Portales High,33.64%,,,N,761,256
-nm,057000,Portales Municipal Schools,057123,Portales Jr High,44.13%,,,N,426,188
-nm,057000,Portales Municipal Schools,057160,Valencia Elementary,46.98%,,,N,364,171
-nm,001047,Public Academy For Performing Arts,001047,Public Academy For Performing Arts,21.85%,,,N,,
-nm,625000,Pueblo Pintado School,625025,Pueblo Pintado Community,75.45%,,75.45%,Y,220,166
-nm,003000,Quemado Independent Schools,003045,Datil Elementary,50.00%,,,N,18,9
-nm,003000,Quemado Independent Schools,003129,Quemado Elementary,40.00%,,,N,60,24
-nm,003000,Quemado Independent Schools,003130,Quemado High,40.45%,,,N,89,36
-nm,079000,Questa Independent Schools,079001,Alta Vista Elementary,58.06%,,55.59%,Y,160,93
-nm,079000,Questa Independent Schools,079003,Alta Vista Intermediate,49.25%,,,N,67,33
-nm,079000,Questa Independent Schools,079129,Questa High,43.75%,,55.59%,Y,79,35
-nm,079000,Questa Independent Schools,079130,Questa Jr High,44.44%,,55.59%,Y,47,21
-nm,079000,Questa Independent Schools,079039,Rio Costilla Sw Learning Academy,71.43%,,,N,28,20
-nm,577000,Raices Del Saber Xinachtli Community School,577001,Raices Del Saber Xinachtli Community,60.00%,,61.29%,Y,31,19
-nm,009000,Raton Public Schools,009001,Colfax County Headstart,100.00%,,52.47%,Y,46,46
-nm,009000,Raton Public Schools,009080,Longfellow Elementary,54.66%,,52.47%,Y,245,134
-nm,009000,Raton Public Schools,009136,Raton High,42.78%,,52.47%,Y,379,162
-nm,009000,Raton Public Schools,009135,Raton Intermediate,50.68%,,52.47%,Y,302,153
-nm,539000,Red River Valley Charter School,539001,Red River Valley Charter School,49.44%,,50.56%,Y,89,44
-nm,002000,Reserve Public Schools,002135,Reserve Elementary,28.36%,,40.16%,Y,57,16
-nm,002000,Reserve Public Schools,002136,Reserve High,10.53%,,40.16%,Y,70,7
-nm,083000,Rio Rancho Public Schools,083021,Cielo Azul Elementary,31.68%,,,N,748,237
-nm,083000,Rio Rancho Public Schools,083050,Colinas Del Norte Elementary,43.19%,,,N,690,298
-nm,083000,Rio Rancho Public Schools,083001,Eagle Ridge Middle,37.15%,,,N,934,347
-nm,083000,Rio Rancho Public Schools,083100,Enchanted Hills Elementary,23.53%,,,N,,
-nm,083000,Rio Rancho Public Schools,083372,Ernest Stapleton Elementary,26.61%,,,N,,
-nm,083000,Rio Rancho Public Schools,083013,Independence High School,38.97%,,,N,195,76
-nm,083000,Rio Rancho Public Schools,083481,Lincoln Middle,27.49%,,,N,,
-nm,083000,Rio Rancho Public Schools,083012,Maggie Cordova Elementary School,26.72%,,,N,,
-nm,083000,Rio Rancho Public Schools,083375,Martin King Jr Elementary,25.67%,,,N,,
-nm,083000,Rio Rancho Public Schools,083105,Mountain View Middle,23.73%,,,N,,
-nm,083000,Rio Rancho Public Schools,083319,Puesta Del Sol Elementary,43.92%,,,N,699,307
-nm,083000,Rio Rancho Public Schools,083018,Rio Rancho Cyber Academy,18.01%,,,N,,
-nm,083000,Rio Rancho Public Schools,083340,Rio Rancho Elementary,42.44%,,,N,615,261
-nm,083000,Rio Rancho Public Schools,083006,Rio Rancho High,20.86%,,,N,,
-nm,083000,Rio Rancho Public Schools,083016,Rio Rancho Middle School,29.93%,,,N,,
-nm,083000,Rio Rancho Public Schools,083020,Sandia Vista Elementary,22.98%,,,N,,
-nm,083001,Rio Rancho Public Schools,083017,Shining Stars Preschool,27.33%,,,N,,
-nm,083000,Rio Rancho Public Schools,083011,V Sue Cleveland High,19.42%,,,N,,
-nm,083000,Rio Rancho Public Schools,083015,Vista Grande Elementary,30.19%,,,N,689,208
-nm,004000,Roswell Independent Schools,004024,Berrendo Elementary,31.81%,,52.64%,Y,396,126
-nm,004000,Roswell Independent Schools,004025,Berrendo Middle,31.40%,,52.64%,Y,668,210
-nm,004000,Roswell Independent Schools,004041,Del Norte Elementary,44.30%,,52.64%,Y,541,240
-nm,004000,Roswell Independent Schools,004133,Early College High School,22.70%,,52.64%,Y,111,25
-nm,004000,Roswell Independent Schools,004044,East Grand Plains Elementary,37.67%,,52.64%,Y,308,116
-nm,004000,Roswell Independent Schools,004050,El Capitan Elementary,51.10%,,52.64%,Y,422,216
-nm,004000,Roswell Independent Schools,004130,Goddard High,30.77%,,,N,1079,332
-nm,004000,Roswell Independent Schools,004042,Mesa Middle,58.21%,,52.64%,Y,459,267
-nm,004000,Roswell Independent Schools,004095,Military Hgts Elementary,33.80%,,52.64%,Y,489,165
-nm,004000,Roswell Independent Schools,004100,Missouri Ave Elementary,61.36%,,52.64%,Y,380,233
-nm,004000,Roswell Independent Schools,004105,Monterrey Elementary,58.71%,,52.64%,Y,538,316
-nm,004000,Roswell Independent Schools,004036,Mountain View Middle,52.66%,,52.64%,Y,502,264
-nm,004000,Roswell Independent Schools,004052,Nancy Lopez Elementary,66.25%,,52.64%,Y,256,170
-nm,004000,Roswell Independent Schools,004122,Parkview Early Literacy Center,55.37%,,52.64%,Y,257,142
-nm,004000,Roswell Independent Schools,004126,Pecos Elementary,58.26%,,52.64%,Y,389,227
-nm,004000,Roswell Independent Schools,004135,Roswell High,40.28%,,,N,1358,547
-nm,004000,Roswell Independent Schools,004009,Sidney Gutierrez Middle,8.96%,,52.64%,Y,66,6
-nm,004000,Roswell Independent Schools,004125,Sierra Middle,45.83%,,52.64%,Y,681,312
-nm,004000,Roswell Independent Schools,004120,Sunset Elementary,65.92%,,52.64%,Y,325,214
-nm,004000,Roswell Independent Schools,004132,University High,44.96%,,52.64%,Y,130,58
-nm,004000,Roswell Independent Schools,004161,Valley View Elementary,51.82%,,52.64%,Y,564,292
-nm,004000,Roswell Independent Schools,004175,Washington Ave Elementary,54.69%,,52.64%,Y,447,244
-nm,027000,Roy Municipal Schools,027135,Roy Elementary,32.50%,,,N,40,13
-nm,027000,Roy Municipal Schools,027136,Roy High,23.53%,,,N,,
-nm,036000,Ruidoso Municipal Schools,036001,Gavilon Canyon - Headstart,100.00%,,57.49%,Y,95,95
-nm,036000,Ruidoso Municipal Schools,036139,Ruidoso High,37.30%,,41.20%,Y,568,212
-nm,036000,Ruidoso Municipal Schools,036130,Ruidoso Middle,45.40%,,50.00%,Y,472,214
-nm,036000,Ruidoso Municipal Schools,036145,Sierra Vista Primary,51.53%,,57.49%,Y,525,271
-nm,036000,Ruidoso Municipal Schools,036160,White Mountain Elementary,47.19%,,57.49%,Y,462,218
-nm,089141,Saint Anthony Zuni Indian School,089141,Saint Anthony Zuni Indian School,45.71%,,45.71%,Y,140,64
-nm,054148,Saint Francis Of Assisi-Lumberton,054148,St Francis School,,,51.43%,Y,70,
-nm,063004,San Diego Riverside School,063004,San Diego Riverside,61.36%,,66.30%,Y,92,56
-nm,626000,San Felipe Pueblo Elementary School,626026,San Felipe Elementary School,76.81%,,76.81%,Y,263,202
-nm,052000,San Jon Municipal Schools,052144,San Jon Elementary,46.48%,,,N,71,33
-nm,052000,San Jon Municipal Schools,052145,San Jon High,25.00%,,,N,,
-nm,052000,San Jon Municipal Schools,052001,San Jon Middle School,19.23%,,,N,,
-nm,563000,Sandoval Academy Of Bilingual Education,563001,Sandoval Academy Of Bilingual Education,36.76%,,,N,185,68
-nm,627000,San Ildefonso Day School,627027,San Ildefonso Day School,70.00%,,70.00%,Y,10,7
-nm,628000,Sanostee Day School,628028,Sanostee Day School,64.71%,,78.26%,Y,17,11
-nm,071000,Santa Fe Public Schools,071008,Acequia Madre Elementary,16.67%,,,N,,
-nm,071000,Santa Fe Public Schools,071141,Amy Biehl Community School At Rancho Viejo,34.38%,,,N,445,153
-nm,630000,Santa Fe Indian School,630030,Santa Fe Indian School,59.49%,,59.49%,Y,669,398
-nm,071000,Santa Fe Public Schools,071033,Atalaya Elementary,17.73%,,,N,,
-nm,071000,Santa Fe Public Schools,071020,Capital High,35.04%,,,N,1404,492
-nm,071000,Santa Fe Public Schools,071022,Carlos Gilbert Elementary,18.93%,,,N,,
-nm,071000,Santa Fe Public Schools,071054,Aspen Community Magnet School,55.15%,,59.33%,Y,435,240
-nm,071000,Santa Fe Public Schools,071146,Chaparral Elementary,38.83%,,,N,273,106
-nm,071000,Santa Fe Public Schools,071099,E.J. Martinez Elementary,50.57%,,,N,265,134
-nm,071000,Santa Fe Public Schools,071005,Cesar Chavez Elementary,55.74%,,59.33%,Y,442,246
-nm,071000,Santa Fe Public Schools,071166,Early College Opportunity,41.07%,,55.73%,Y,154,63
-nm,071000,Santa Fe Public Schools,071110,Edward Ortiz Middle,46.83%,,59.33%,Y,588,275
-nm,071000,Santa Fe Public Schools,071135,El Dorado Community School,21.76%,,,N,,
-nm,071000,Santa Fe Public Schools,071011,El Camino Real Academy Community,48.39%,,59.33%,Y,886,429
-nm,071000,Santa Fe Public Schools,071057,Gonzales Elementary,42.07%,,,N,416,175
-nm,071000,Santa Fe Public Schools,071145,Francis X. Nava Elementary,57.49%,,55.73%,Y,221,127
-nm,071000,Santa Fe Public Schools,071173,Mandela International Magnet School,14.68%,,,N,,
-nm,071000,Santa Fe Public Schools,071189,Milagro Middle,44.91%,,,N,501,225
-nm,071000,Santa Fe Public Schools,071070,Kearny Elementary,52.47%,,59.33%,Y,481,252
-nm,071000,Santa Fe Public Schools,071170,Nina Otero Community School,44.64%,,59.33%,Y,789,352
-nm,071000,Santa Fe Public Schools,071100,Pinon Elementary,35.95%,,,N,573,206
-nm,071000,Santa Fe Public Schools,071023,Ramirez Thomas Elementary,46.42%,,,N,489,227
-nm,071000,Santa Fe Public Schools,071168,Nye Early Childhood Center,40.72%,,59.33%,Y,203,83
-nm,071000,Santa Fe Public Schools,071165,Santa Fe High,30.83%,,,N,1596,492
-nm,071000,Santa Fe Public Schools,071143,Salazar Elementary,60.35%,,59.33%,Y,283,171
-nm,071000,Santa Fe Public Schools,071130,Sweeney Elementary,49.50%,,59.33%,Y,492,244
-nm,071000,Santa Fe Public Schools,071176,Wood-Gormley Elementary,13.27%,,,N,,
-nm,071000,Santa Fe Public Schools,071160,Tesuque Elementary,47.57%,,59.33%,Y,112,53
-nm,025000,Santa Rosa Consolidated Schools,025020,Anton Chico Middle,64.71%,,50.64%,Y,34,22
-nm,025000,Santa Rosa Consolidated Schools,025015,Rita A. Marquez Elementary,51.67%,,50.64%,Y,61,32
-nm,025000,Santa Rosa Consolidated Schools,025144,Santa Rosa Elementary,52.36%,,50.64%,Y,234,123
-nm,025000,Santa Rosa Consolidated Schools,025146,Santa Rosa High,37.79%,,50.64%,Y,171,65
-nm,025000,Santa Rosa Consolidated Schools,025150,Santa Rosa Middle,50.39%,,50.64%,Y,126,63
-nm,097000,Sequoyah Adolescent Treatment Center,097867,Sequoyah,47.06%,,,N,17,8
-nm,505000,School Of Dreams,505001,School Of Dreams Academy,49.89%,,51.80%,Y,473,236
-nm,641000,Shiprock Associated Schools Inc,641041,Shiprock Northwest High School,54.09%,,54.09%,Y,464,251
-nm,023000,Silver Consolidated Schools,023034,Cliff High,30.77%,,,N,104,32
-nm,023000,Silver Consolidated Schools,023037,Cliff Elementary,34.07%,,49.18%,Y,123,42
-nm,023000,Silver Consolidated Schools,023123,G.W.Stout Elementary,48.28%,,49.18%,Y,380,183
-nm,023000,Silver Consolidated Schools,023157,Harrison Schmitt Elementary,53.85%,,49.18%,Y,467,251
-nm,023000,Silver Consolidated Schools,023115,Jose Barrios Elementary,39.15%,,49.18%,Y,244,96
-nm,023000,Silver Consolidated Schools,023152,Silver High,32.50%,,,N,597,194
-nm,023000,Silver Consolidated Schools,023145,La Plata Middle,42.82%,,49.18%,Y,583,250
-nm,023001,Silver Consolidated Schools,023012,Silver Scholars Academy,53.16%,,55.26%,Y,76,40
-nm,023000,Silver Consolidated Schools,023155,Sixth Street Elementary,49.33%,,49.18%,Y,147,73
-nm,568001,Six Directions Indigenous School,568001,Six Directions Indigenous School,47.37%,,55.26%,Y,69,33
-nm,074000,Socorro Consolidated Schools,074003,Cottonwood Valley Charter,25.88%,,54.21%,Y,170,44
-nm,074000,Socorro Consolidated Schools,074079,Midway Elementary,50.49%,,54.21%,Y,108,55
-nm,074000,Socorro Consolidated Schools,074001,Parkview Elementary,67.93%,,54.21%,Y,491,334
-nm,074000,Socorro Consolidated Schools,074155,R. Sarracino Middle,56.88%,,54.21%,Y,353,201
-nm,074000,Socorro Consolidated Schools,074144,San Antonio Elementary,43.75%,,54.21%,Y,76,33
-nm,074000,Socorro Consolidated Schools,074160,Socorro High,41.76%,,54.21%,Y,431,180
-nm,001025,South Valley Academy Charter School,001025,South Valley Academy Charter School,38.92%,,,N,609,237
-nm,515000,South Valley Preparatory School,515001,South Valley Prep,42.20%,,,N,173,73
-nm,576000,Solare Collegiate Charter School,576001,Solare Collegiate Charter School,41.79%,,55.40%,Y,139,58
-nm,010000,Springer Municipal Schools,010056,Forrester Elementary,60.00%,,83.75%,Y,45,27
-nm,010000,Springer Municipal Schools,010150,Springer High,41.82%,,83.75%,Y,64,27
-nm,010000,Springer Municipal Schools,010058,Wilferth Elementary,50.00%,,83.75%,Y,51,26
-nm,521000,Taos Integrated School For The Arts,521001,Taos Integrated School Of Arts,43.10%,,,N,174,75
-nm,632000,Taos Day School,632032,Taos Day School,57.14%,,57.14%,Y,98,56
-nm,076005,Taos Municipal Charter,076005,Taos Charter,22.75%,,,N,,
-nm,555000,Taos International School,555001,Taos International School,59.49%,,61.39%,Y,158,94
-nm,076000,Taos Municipal Schools,076004,Arroyo Del Norte Elementary,61.24%,,62.63%,Y,113,69
-nm,076000,Taos Municipal Schools,076010,Chrysalis Alternative,58.33%,,62.63%,Y,3,2
-nm,076000,Taos Municipal Schools,076175,Enos Garcia Elementary,61.09%,,62.63%,Y,501,306
-nm,076000,Taos Municipal Schools,076133,Ranchos De Taos Elementary,55.96%,,62.63%,Y,305,171
-nm,076000,Taos Municipal Schools,076011,Taos Cyber Magnet,44.44%,,62.63%,Y,20,9
-nm,076000,Taos Municipal Schools,076165,Taos High,34.47%,,43.27%,Y,760,262
-nm,035000,Tatum Municipal Schools,035162,Tatum Elementary,29.51%,,,N,,
-nm,035000,Tatum Municipal Schools,035163,Tatum High,15.38%,,,N,,
-nm,035000,Tatum Municipal Schools,035090,Tatum Jr High,22.41%,,,N,,
-nm,076000,Taos Municipal Schools,076164,Taos Middle,49.58%,,43.27%,Y,458,227
-nm,013000,Texico Municipal Schools,013161,Texico Elementary,23.14%,,,N,,
-nm,013000,Texico Municipal Schools,013162,Texico High,21.12%,,,N,,
-nm,013000,Texico Municipal Schools,013163,Texico Middle,21.92%,,,N,,
-nm,506000,The New America School,506001,The New America School,48.70%,,,N,230,112
-nm,076001,Taos Municipal Schools,076012,Vista Grande High School,48.81%,,62.11%,Y,95,46
-nm,633000,Te Tsu Geh Oweenge Day School,633033,Te Se Geh Oweenge,61.82%,,61.82%,Y,55,34
-nm,518000,Tierra Adentro,518001,Tierra Adentro,42.50%,,42.50%,Y,280,119
-nm,636000,To Hajiilee Community School,636036,To'Hajiilee'He Community School,71.84%,,71.84%,Y,348,250
-nm,635000,Tohaali Community School,635035,Tohaali Community School,71.32%,,71.32%,Y,136,97
-nm,073000,Truth Or Consequences Municipal Schools,073016,Arrey Elementary,63.55%,,60.89%,Y,93,59
-nm,073000,Truth Or Consequences Municipal Schools,073058,Hot Springs High,48.02%,,60.89%,Y,346,166
-nm,073000,Truth Or Consequences Municipal Schools,073060,Sierra Elementary,57.67%,,60.89%,Y,185,107
-nm,073000,Truth Or Consequences Municipal Schools,073162,T Or C Elementary,62.90%,,60.89%,Y,365,230
-nm,073000,Truth Or Consequences Municipal Schools,073063,T Or C Middle,53.28%,,60.89%,Y,292,156
-nm,637000,Tse Ii Ahi Community School,637037,Tse'Ii'Ahi' Community School,63.95%,,63.95%,Y,86,55
-nm,638000,Tsiya Day School,638038,T'Siya Day School,63.83%,,63.83%,Y,47,30
-nm,049000,Tucumcari Public Schools,049053,Tucumcari Elementary,64.08%,,59.81%,Y,476,305
-nm,049000,Tucumcari Public Schools,049164,Tucumcari High,50.00%,,59.81%,Y,246,123
-nm,049000,Tucumcari Public Schools,049163,Tucumcari Middle,58.37%,,59.81%,Y,221,129
-nm,047000,Tularosa Municipal Schools,047163,Tularosa Elementary,61.84%,,54.48%,Y,228,141
-nm,047000,Tularosa Municipal Schools,047165,Tularosa High,38.53%,,54.48%,Y,218,84
-nm,566000,Turquoise Trail Charter School,566001,Turquoise Trail Charter School,35.16%,,,N,620,218
-nm,047000,Tularosa Municipal Schools,047160,Tularosa Intermediate,57.36%,,54.48%,Y,265,152
-nm,047000,Tularosa Municipal Schools,047164,Tularosa Middle,47.97%,,54.48%,Y,148,71
-nm,026000,Vaughn Municipal Schools,026168,Vaughn Elementary,80.65%,,69.64%,Y,31,25
-nm,026000,Vaughn Municipal Schools,026169,Vaughn High,56.00%,,69.64%,Y,25,14
-nm,045000,Wagon Mound Public Schools,045172,Wagon Mound Elementary,74.51%,,68.92%,Y,51,38
-nm,045000,Wagon Mound Public Schools,045173,Wagon Mound High,56.52%,,68.92%,Y,23,13
-nm,552000,Walatowa Charter High,552001,Walatowa Charter High,37.50%,,47.83%,Y,46,17
-nm,068000,West Las Vegas Public Schools,068112,Don Cecilio Martinez Elementary,67.05%,,60.50%,Y,201,135
-nm,068000,West Las Vegas Public Schools,068003,Family Partnership,55.17%,,60.50%,Y,11,6
-nm,068000,West Las Vegas Public Schools,068012,Luis E. Armijo Elementary,62.61%,,60.50%,Y,225,141
-nm,068000,West Las Vegas Public Schools,068992,Luna Pre School,50.00%,,60.50%,Y,15,8
-nm,068000,West Las Vegas Public Schools,068004,Rio Gallinas School,63.38%,,60.50%,Y,91,58
-nm,068000,West Las Vegas Public Schools,068125,Tony Serna Jr. Elementary,67.39%,,60.50%,Y,89,60
-nm,068000,West Las Vegas Public Schools,068157,Union Elementary,62.37%,,60.50%,Y,82,51
-nm,068000,West Las Vegas Public Schools,068050,Valley Elementary,61.33%,,60.50%,Y,76,47
-nm,068000,West Las Vegas Public Schools,068068,Valley Middle,70.37%,,60.50%,Y,30,21
-nm,068000,West Las Vegas Public Schools,068001,West Las Vegas Head Start,100.00%,,60.50%,Y,83,83
-nm,068000,West Las Vegas Public Schools,068173,West Las Vegas High School,50.38%,,60.50%,Y,428,216
-nm,068000,West Las Vegas Public Schools,068172,West Las Vegas Middle School,54.37%,,60.50%,Y,269,146
-nm,545000,William W &  Josephine Dorn Charter  Community School,545001,William W & Josephine Dorn Charter Community Sch,54.72%,,67.86%,Y,56,31
-nm,639000,Wingate Elementary School,639039,Wingate Elementary,68.36%,,68.36%,Y,572,391
-nm,640000,Wingate High School,640040,Wingate High School,53.35%,,53.35%,Y,418,223
-nm,089000,Zuni Public Schools,089025,Shiwi Ts’Ana Elementary,65.96%,,62.82%,Y,611,403
-nm,089000,Zuni Public Schools,089192,Twin Buttes High,64.52%,,62.82%,Y,271,175
-nm,089000,Zuni Public Schools,089190,Zuni High,47.30%,,62.82%,Y,296,140
-nm,089000,Zuni Public Schools,089195,Zuni Middle,66.79%,,62.82%,Y,62,41
-nm,046000,Alamogordo Public Schools,046182,Stepping Stones Preschool,,,50.43%,Y,139,
+state,District Code,District Name,School Code,School Name,individual_isp,proxy_isp,claiming_isp,participating_in_cep,total_enrolled,total_eligible
+nm,601000,ALAMO NAVAJO SCHOOL,601001,ALAMO NAVAJO COMMUNITY SCHOOL,78.65%,,78.65%,Y,332,261
+nm,046000,ALAMOGORDO PUBLIC SCHOOLS,046004,ACADEMY DEL SOL ALT.,42.86%,,48.48%,Y,30,13
+nm,046000,ALAMOGORDO PUBLIC SCHOOLS,046015,ALAMOGORDO HIGH,35.27%,,52.57%,Y,1562,551
+nm,046000,ALAMOGORDO PUBLIC SCHOOLS,046028,BUENA VISTA ELEMENTARY,42.71%,,48.48%,Y,205,88
+nm,046000,ALAMOGORDO PUBLIC SCHOOLS,046033,CHAPARRAL MIDDLE,47.85%,,52.57%,Y,607,290
+nm,046000,ALAMOGORDO PUBLIC SCHOOLS,046144,DESERT STAR ELEMENTARY,55.30%,,52.57%,Y,484,268
+nm,046000,ALAMOGORDO PUBLIC SCHOOLS,046057,HIGH ROLLS MOUNTAIN PARK ELEMENTARY,60.87%,,60.87%,Y,24,15
+nm,046000,ALAMOGORDO PUBLIC SCHOOLS,046072,LA LUZ ELEMENTARY,56.62%,,52.57%,Y,212,120
+nm,046000,ALAMOGORDO PUBLIC SCHOOLS,046003,MOUNTAIN VIEW MIDDLE,50.39%,,52.57%,Y,519,262
+nm,046000,ALAMOGORDO PUBLIC SCHOOLS,046114,NORTH ELEMENTARY,70.43%,,52.57%,Y,187,132
+nm,046000,ALAMOGORDO PUBLIC SCHOOLS,046150,SIERRA ELEMENTARY,40.00%,,48.48%,Y,309,124
+nm,046000,ALAMOGORDO PUBLIC SCHOOLS,046182,STEPPING STONES PRESCHOOL,57.50%,,48.48%,Y,114,66
+nm,046000,ALAMOGORDO PUBLIC SCHOOLS,046056,SUNSET HILLS ELEMENTARY,54.05%,,52.57%,Y,413,223
+nm,046000,ALAMOGORDO PUBLIC SCHOOLS,046181,YUCCA ELEMENTARY,59.54%,,48.48%,Y,261,155
+nm,528000,ALBUQUERQUE BILINGUAL ACADEMY,528001,ALBUQUERQUE BILINGUAL ACADEMY,47.35%,,47.35%,Y,373,177
+nm,574000,ALBUQUERQUE COLLEGIATE CHARTER SCHOOL,574001,ALBUQUERQUE COLLEGIATE CHARTER SCHOOL,54.42%,,48.57%,Y,153,83
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001749,ACE LEADERSHIP HIGH SCHOOL (APS),57.82%,,58.33%,Y,186,108
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001206,ADOBE ACRES ELEMENTARY,60.50%,,52.61%,Y,316,191
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001207,ALAMEDA ELEMENTARY,54.42%,,63.43%,Y,211,115
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001210,ALAMOSA ELEMENTARY,72.73%,,63.43%,Y,383,279
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001213,ALVARADO ELEMENTARY,31.87%,,52.61%,Y,280,89
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001214,APACHE ELEMENTARY,71.92%,,63.43%,Y,300,216
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001215,ARMIJO ELEMENTARY,68.20%,,63.43%,Y,270,184
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001329,ARROYO DEL OSO ELEMENTARY,45.66%,,52.61%,Y,313,143
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001216,ATRISCO ELEMENTARY,66.24%,,63.43%,Y,233,154
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001576,ATRISCO HERITAGE ACADEMY HS,41.25%,,41.71%,Y,2152,888
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001225,BARCELONA ELEMENTARY,62.11%,,63.43%,Y,260,161
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001228,BEL AIR ELEMENTARY,63.97%,,63.43%,Y,261,167
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001229,BELLEHAVEN ELEMENTARY,54.62%,,52.61%,Y,245,134
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001339,CARLOS REY ELEMENTARY,52.28%,,63.43%,Y,523,273
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001234,CHAPARRAL ELEMENTARY,53.77%,,63.43%,Y,561,302
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001236,CHELWOOD ELEMENTARY,65.47%,,63.43%,Y,383,251
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001407,CLEVELAND MIDDLE,46.17%,,52.61%,Y,584,270
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001237,COCHITI ELEMENTARY,59.91%,,63.43%,Y,212,127
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001240,COLLET PARK ELEMENTARY,50.58%,,52.61%,Y,343,173
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001241,COMANCHE ELEMENTARY,45.67%,,52.61%,Y,335,153
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001514,DEL NORTE HIGH,51.95%,,52.61%,Y,1071,556
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001244,DOLORES GONZALES ELEMENTARY,57.05%,,52.61%,Y,306,175
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001249,DURANES ELEMENTARY,62.61%,,63.43%,Y,115,72
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001252,EAST SAN JOSE ELEMENTARY,58.24%,,52.61%,Y,349,203
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001219,EDMUND G ROSS ELEMENTARY,51.94%,,63.43%,Y,400,208
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001262,EDWARD GONZALES ELEMENTARY,55.47%,,63.43%,Y,374,207
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001255,EMERSON ELEMENTARY,75.27%,,63.43%,Y,363,273
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001450,ERNIE PYLE MIDDLE,59.43%,,63.43%,Y,491,292
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001261,EUGENE FIELD ELEMENTARY,66.67%,,63.43%,Y,153,102
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001596,FREEDOM HIGH,50.00%,,63.43%,Y,100,50
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001410,GARFIELD MIDDLE,57.99%,,52.61%,Y,330,191
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001496,GEORGE I SANCHEZ,49.35%,,63.43%,Y,1154,569
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001707,GILBERT L SENA CHARTER HS,66.41%,,66.41%,Y,108,72
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001230,GOV BENT ELEMENTARY,63.82%,,63.43%,Y,329,210
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001413,GRANT MIDDLE,51.67%,,52.61%,Y,396,205
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001267,GRIEGOS ELEMENTARY,43.21%,,52.61%,Y,243,105
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001415,HARRISON MIDDLE,63.25%,,63.43%,Y,401,254
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001270,HAWTHORNE ELEMENTARY,66.57%,,63.43%,Y,330,220
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001416,HAYES MIDDLE,63.86%,,63.43%,Y,332,212
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001752,HEALTH LEADERSHIP HIGH SCHOOL (Local),53.28%,,54.11%,Y,232,124
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001395,HELEN CORDERO PRIMARY,58.71%,,63.43%,Y,443,260
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001520,HIGHLAND HIGH,53.74%,,52.61%,Y,1197,643
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001273,HODGIN ELEMENTARY,71.76%,,63.43%,Y,414,297
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001418,HOOVER MIDDLE,39.07%,,52.61%,Y,417,163
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001276,INEZ ELEMENTARY,56.09%,,52.61%,Y,305,171
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001420,JACKSON MIDDLE,53.21%,,52.61%,Y,437,233
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001258,JANET KAHN FINE ARTS ACADEMY,66.46%,,63.43%,Y,341,227
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001445,JIMMY CARTER MIDDLE,55.45%,,52.61%,Y,612,339
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001405,JOHN ADAMS MIDDLE,61.30%,,63.43%,Y,473,290
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001427,KENNEDY MIDDLE,65.55%,,63.43%,Y,364,239
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001279,KIRTLAND ELEMENTARY,72.49%,,63.43%,Y,168,122
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001231,KIT CARSON ELEMENTARY,63.76%,,63.43%,Y,349,223
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001282,LA LUZ ELEMENTARY,69.35%,,63.43%,Y,127,88
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001285,LA MESA ELEMENTARY,63.48%,,63.43%,Y,411,261
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001288,LAVALAND ELEMENTARY,72.93%,,63.43%,Y,401,292
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001373,LEW WALLACE ELEMENTARY,54.45%,,52.61%,Y,196,107
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001291,LONGFELLOW ELEMENTARY,48.39%,,52.61%,Y,182,88
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001297,LOS PADILLAS ELEMENTARY,57.79%,,63.43%,Y,241,139
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001017,LOS PUENTES CHARTER,73.97%,,56.25%,Y,114,84
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001336,LOS RANCHOS ELEMENTARY,55.79%,,52.61%,Y,236,132
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001300,LOWELL ELEMENTARY,79.01%,,63.43%,Y,248,196
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001303,MACARTHUR ELEMENTARY,54.15%,,52.61%,Y,191,103
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001530,MANZANO HIGH,47.41%,,47.41%,Y,1393,660
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001260,MANZANO MESA ELEMENTARY,44.28%,,52.61%,Y,543,240
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001364,MARK TWAIN ELEMENTARY,55.88%,,63.43%,Y,259,145
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001250,MARYANN BINFORD ELEMENTARY,55.71%,,52.61%,Y,506,282
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001305,MATHESON PARK ELEMENTARY,56.84%,,52.61%,Y,196,111
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001307,MCCOLLUM ELEMENTARY,56.58%,,52.61%,Y,267,151
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001440,MCKINLEY MIDDLE,67.18%,,63.43%,Y,521,350
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001309,MISSION AVENUE ELEMENTARY,63.56%,,63.43%,Y,342,217
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001310,MITCHELL ELEMENTARY,49.31%,,63.51%,Y,294,145
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001315,MONTEZUMA ELEMENTARY,60.88%,,52.61%,Y,325,198
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001324,MOUNTAIN VIEW ELEMENTARY,64.31%,,52.61%,Y,263,169
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001006,NATIVE AMERICAN COMMUNITY ACADEMY,42.98%,,56.25%,Y,479,206
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001327,NAVAJO ELEMENTARY,48.09%,,63.43%,Y,371,178
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001549,NEW FUTURES HIGH SCHOOL,76.19%,,52.61%,Y,69,53
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001275,PAINTED SKY ELEMENTARY,58.54%,,63.43%,Y,600,351
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001333,PAJARITO ELEMENTARY,53.85%,,63.43%,Y,336,181
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001448,POLK MIDDLE,68.38%,,52.61%,Y,281,192
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001330,REGINALD CHAVEZ ELEMENTARY,75.38%,,63.43%,Y,194,146
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001540,RIO GRANDE HIGH,51.32%,,63.43%,Y,1633,838
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001051,ROBERT F. KENNEDY CHARTER,63.64%,,63.64%,Y,355,226
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001392,RUDOLFO ANAYA ELEMENTARY,53.34%,,63.43%,Y,647,345
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001597,SCHOOL ON WHEELS HIGH SCHOOL,54.35%,,63.43%,Y,89,48
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001750,SIEMBRA LEADERSHIP HIGH SCHOOL,60.34%,,56.25%,Y,236,142
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001356,SIERRA VISTA ELEMENTARY,45.61%,,52.61%,Y,470,214
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001357,SOMBRA DEL MONTE ELEMENTARY,47.78%,,63.43%,Y,271,129
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001280,SUSIE RAYOS MARMON ELEMENTARY,65.82%,,63.43%,Y,535,352
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001455,TAFT MIDDLE,49.67%,,52.61%,Y,298,148
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001457,TAYLOR MIDDLE,48.52%,,52.61%,Y,346,168
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001753,TECHNOLOGY LEADERSHIP HIGH SCHOOL,51.52%,,56.58%,Y,302,156
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001016,THE ALB TALENT DEVELOPMENT CHARTER,53.98%,,53.98%,Y,109,59
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001363,TOMASITA ELEMENTARY,67.03%,,63.43%,Y,267,179
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001475,TRUMAN MIDDLE,54.08%,,63.43%,Y,811,439
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001370,VALLE VISTA ELEMENTARY,59.89%,,63.43%,Y,335,201
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001560,VALLEY HIGH,38.48%,,52.61%,Y,1056,406
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001460,VAN BUREN MIDDLE,57.55%,,63.43%,Y,422,243
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001709,VOZ COLLEGIATE PREPARATORY CHARTER SCHOOL,67.50%,,67.50%,Y,40,27
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001465,WASHINGTON MIDDLE,58.71%,,63.43%,Y,392,230
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001570,WEST MESA HIGH,47.84%,,52.61%,Y,1998,956
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001376,WHERRY ELEMENTARY,69.10%,,63.43%,Y,303,209
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001379,WHITTIER ELEMENTARY,72.99%,,63.43%,Y,258,188
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001470,WILSON MIDDLE,64.02%,,63.43%,Y,394,252
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001388,ZUNI ELEMENTARY,55.10%,,52.61%,Y,235,129
+nm,517000,ALBUQUERQUE SIGN LANGUAGE ACADEMY,517001,ABQ SIGN LANGUAGE ACADEMY,43.22%,,43.22%,Y,113,49
+nm,511000,ALMA D'ARTE CHARTER SCHOOL,511001,ALMA D'ARTE CHARTER,43.59%,,49.23%,Y,118,51
+nm,064000,AZTEC MUNICIPAL SCHOOLS,064018,AZTEC HIGH,36.77%,,40.36%,Y,687,253
+nm,064000,AZTEC MUNICIPAL SCHOOLS,064017,C.V. KOOGLER MIDDLE,41.67%,,40.36%,Y,557,232
+nm,064000,AZTEC MUNICIPAL SCHOOLS,064136,LYDIA RIPPEY ELEMENTARY,49.86%,,47.93%,Y,358,178
+nm,064000,AZTEC MUNICIPAL SCHOOLS,064099,MCCOY AVENUE ELEMENTARY,47.12%,,47.93%,Y,394,186
+nm,064000,AZTEC MUNICIPAL SCHOOLS,064001,MOSAIC ACADEMY CHARTER,44.94%,,40.36%,Y,180,81
+nm,064000,AZTEC MUNICIPAL SCHOOLS,064123,PARK AVENUE ELEMENTARY,46.73%,,47.93%,Y,321,150
+nm,064000,AZTEC MUNICIPAL SCHOOLS,064002,VISTA NUEVA HIGH,52.17%,,40.36%,Y,66,34
+nm,603000,BACA/DLOAY AZHI COMMUNITY SCHOOL,603003,BACA-DLO'AY AZHI COMMUNITY SCHOOL,81.36%,,81.36%,Y,236,192
+nm,604000,BECLABITO DAY SCHOOL,604004,BECLABITO DAY SCHOOL,60.38%,,62.75%,Y,58,35
+nm,087000,BELEN CONSOLIDATED SCHOOLS,087026,BELEN HIGH,38.49%,,52.15%,Y,1010,389
+nm,087000,BELEN CONSOLIDATED SCHOOLS,087001,BELEN INFINITY HIGH,70.41%,,52.15%,Y,105,74
+nm,087000,BELEN CONSOLIDATED SCHOOLS,087025,BELEN MIDDLE,54.23%,,52.15%,Y,572,310
+nm,087000,BELEN CONSOLIDATED SCHOOLS,087034,CENTRAL ELEMENTARY,68.09%,,52.15%,Y,194,132
+nm,087000,BELEN CONSOLIDATED SCHOOLS,087080,DENNIS CHAVEZ ELEMENTARY,60.51%,,52.15%,Y,265,160
+nm,087000,BELEN CONSOLIDATED SCHOOLS,087066,GIL SANCHEZ ELEMENTARY,50.38%,,52.15%,Y,247,124
+nm,087000,BELEN CONSOLIDATED SCHOOLS,087038,LA MERCED ELEMENTARY,56.75%,,52.15%,Y,397,225
+nm,087000,BELEN CONSOLIDATED SCHOOLS,087003,LA PROMESA ELEMENTARY,64.67%,,52.15%,Y,162,105
+nm,087000,BELEN CONSOLIDATED SCHOOLS,087045,RIO GRANDE ELEMENTARY,63.86%,,52.15%,Y,276,176
+nm,087000,BELEN CONSOLIDATED SCHOOLS,087006,THE FAMILY SCHOOL,29.36%,,52.15%,Y,99,29
+nm,061000,BERNALILLO PUBLIC SCHOOLS,061016,ALGODONES ELEMENTARY,71.05%,,58.56%,Y,139,99
+nm,061000,BERNALILLO PUBLIC SCHOOLS,061136,BERNALILLO ELEMENTARY,57.41%,,58.56%,Y,278,160
+nm,061000,BERNALILLO PUBLIC SCHOOLS,061027,BERNALILLO HIGH,53.41%,,58.56%,Y,821,438
+nm,061000,BERNALILLO PUBLIC SCHOOLS,061026,BERNALILLO MIDDLE,60.18%,,58.56%,Y,465,280
+nm,061000,BERNALILLO PUBLIC SCHOOLS,061020,COCHITI ELEMENTARY,56.61%,,58.56%,Y,172,97
+nm,061000,BERNALILLO PUBLIC SCHOOLS,061024,COCHITI MIDDLE,58.95%,,58.56%,Y,99,58
+nm,061000,BERNALILLO PUBLIC SCHOOLS,061127,PLACITAS ELEMENTARY,29.91%,,58.56%,Y,126,38
+nm,061000,BERNALILLO PUBLIC SCHOOLS,061151,SANTO DOMINGO ELEMENTARY,75.81%,,58.56%,Y,261,198
+nm,061000,BERNALILLO PUBLIC SCHOOLS,061028,SANTO DOMINGO MIDDLE,75.31%,,58.56%,Y,81,61
+nm,061000,BERNALILLO PUBLIC SCHOOLS,061140,WD CARROLL ELEMENTARY,58.11%,,58.56%,Y,267,155
+nm,066000,BLOOMFIELD SCHOOLS,066025,BLANCO ELEMENTARY,47.37%,,58.57%,Y,163,77
+nm,066000,BLOOMFIELD SCHOOLS,066030,BLOOMFIELD EARLY CHILDHOOD CENTER,62.67%,,58.57%,Y,287,180
+nm,066000,BLOOMFIELD SCHOOLS,066026,BLOOMFIELD HIGH,50.78%,,58.57%,Y,732,372
+nm,066000,BLOOMFIELD SCHOOLS,066033,CENTRAL PRIMARY,63.12%,,58.57%,Y,439,277
+nm,066000,BLOOMFIELD SCHOOLS,066001,CHARLIE Y. BROWN ALT,62.24%,,58.57%,Y,93,58
+nm,066000,BLOOMFIELD SCHOOLS,066095,MESA ALTA JR HIGH,56.97%,,58.57%,Y,424,242
+nm,066000,BLOOMFIELD SCHOOLS,066125,NAABA ANI ELEMENTARY,62.33%,,58.57%,Y,430,268
+nm,609000,BORREGO PASS SCHOOL - DIBE YAZHI HABLTIN OLTA,609009,BORREGO PASS SCHOOL - DIBE YAZHI HABLTIN OLTA,82.05%,,82.05%,Y,79,65
+nm,605000,BREAD SPRINGS DAY SCHOOL,605005,BREAD SPRINGS DAY SCHOOL,76.47%,,76.47%,Y,67,51
+nm,037000,CARRIZOZO MUNICIPAL SCHOOLS,037035,CARRIZOZO ELEMENTARY,45.61%,,43.66%,Y,62,28
+nm,037000,CARRIZOZO MUNICIPAL SCHOOLS,037036,CARRIZOZO HIGH,44.19%,,43.66%,Y,43,19
+nm,037000,CARRIZOZO MUNICIPAL SCHOOLS,037157,CARRIZOZO MIDDLE,54.05%,,43.66%,Y,41,22
+nm,067000,CENTRAL CONSOLIDATED SCHOOLS,067025,CAREER PREP ALTERNATIVE,63.24%,,58.81%,Y,125,79
+nm,067000,CENTRAL CONSOLIDATED SCHOOLS,067026,EVA B STOKELY ELEMENTARY,66.34%,,58.81%,Y,194,129
+nm,067000,CENTRAL CONSOLIDATED SCHOOLS,067060,JUDY NELSON ELEMENTARY,48.45%,,58.81%,Y,485,235
+nm,067000,CENTRAL CONSOLIDATED SCHOOLS,067035,KIRTLAND CENTRAL HIGH,46.13%,,58.81%,Y,750,346
+nm,067000,CENTRAL CONSOLIDATED SCHOOLS,067038,KIRTLAND ELEMENTARY,52.02%,,58.81%,Y,365,190
+nm,067000,CENTRAL CONSOLIDATED SCHOOLS,067034,KIRTLAND MIDDLE,56.01%,,58.81%,Y,436,244
+nm,067000,CENTRAL CONSOLIDATED SCHOOLS,067024,KIRTLAND PREK,52.78%,,58.81%,Y,65,34
+nm,067000,CENTRAL CONSOLIDATED SCHOOLS,067110,MESA ELEMENTARY,63.21%,,58.81%,Y,257,162
+nm,067000,CENTRAL CONSOLIDATED SCHOOLS,067114,NASCHITTI ELEMENTARY,76.25%,,58.81%,Y,80,61
+nm,067000,CENTRAL CONSOLIDATED SCHOOLS,067116,NEWCOMB ELEMENTARY,72.09%,,58.81%,Y,174,125
+nm,067000,CENTRAL CONSOLIDATED SCHOOLS,067130,NEWCOMB HIGH,65.81%,,58.81%,Y,268,176
+nm,067000,CENTRAL CONSOLIDATED SCHOOLS,067126,NEWCOMB MIDDLE,63.01%,,58.81%,Y,172,108
+nm,067000,CENTRAL CONSOLIDATED SCHOOLS,067152,NIZHONI ELEMENTARY,73.94%,,58.81%,Y,298,220
+nm,067000,CENTRAL CONSOLIDATED SCHOOLS,067075,OJO AMARILLO ELEMENTARY,74.09%,,58.81%,Y,296,219
+nm,067000,CENTRAL CONSOLIDATED SCHOOLS,067039,SHIPROCK HIGH,53.30%,,58.81%,Y,581,310
+nm,067000,CENTRAL CONSOLIDATED SCHOOLS,067160,TSE'BIT'AI MIDDLE,63.66%,,58.81%,Y,406,258
+nm,053000,CHAMA VALLEY INDEPENDENT SCHOOLS,053036,CHAMA ELEMENTARY,49.44%,,40.50%,Y,85,42
+nm,053000,CHAMA VALLEY INDEPENDENT SCHOOLS,053042,CHAMA MIDDLE,41.86%,,40.50%,Y,35,15
+nm,053000,CHAMA VALLEY INDEPENDENT SCHOOLS,053064,TIERRA AMARILLA ELEMENTARY,32.73%,,40.50%,Y,112,37
+nm,606000,CHICHILTAH JONES RANCH COMMUNITY SCHOOL,606006,CHI CHIL'TAH,66.67%,,66.67%,Y,81,54
+nm,607000,CHOOSHGAI COMMUNITY SCHOOL,607007,CH'OOSHGAI,70.73%,,70.73%,Y,209,148
+nm,001018,CHRISTINE DUNCANS HERITAGE ACADEMY,001118,CHRISTINE DUNCAN HERITAGE ACADEMY (Local),52.11%,,52.11%,Y,398,207
+nm,012000,CLOVIS MUNICIPAL SCHOOLS,012042,ARTS ACADEMY AT BELLA VISTA,70.61%,,50.77%,Y,323,228
+nm,012000,CLOVIS MUNICIPAL SCHOOLS,012040,BARRY ELEMENTARY,19.83%,,50.77%,Y,361,72
+nm,012000,CLOVIS MUNICIPAL SCHOOLS,012068,CAMEO ELEMENTARY,68.51%,,41.27%,Y,279,191
+nm,012000,CLOVIS MUNICIPAL SCHOOLS,012036,CLOVIS HIGH,37.29%,,41.27%,Y,1630,608
+nm,012000,CLOVIS MUNICIPAL SCHOOLS,012056,CLOVIS HS FRESHMAN ACADEMY,46.96%,,50.77%,Y,557,262
+nm,012000,CLOVIS MUNICIPAL SCHOOLS,012081,CMS IACADEMY AT LINCOLN JACKSON,57.21%,,50.77%,Y,203,116
+nm,012000,CLOVIS MUNICIPAL SCHOOLS,012058,HIGHLAND ELEMENTARY,49.81%,,50.77%,Y,258,129
+nm,012000,CLOVIS MUNICIPAL SCHOOLS,012066,JAMES BICKLEY ELEMENTARY,66.01%,,50.77%,Y,309,204
+nm,012000,CLOVIS MUNICIPAL SCHOOLS,012072,LA CASITA ELEMENTARY,43.37%,,41.27%,Y,253,110
+nm,012000,CLOVIS MUNICIPAL SCHOOLS,012084,LOCKWOOD ELEMENTARY,68.65%,,50.77%,Y,304,209
+nm,012000,CLOVIS MUNICIPAL SCHOOLS,012003,LOS NINOS,35.42%,,41.27%,Y,123,44
+nm,012000,CLOVIS MUNICIPAL SCHOOLS,012091,MARSHALL MIDDLE,53.63%,,50.77%,Y,542,291
+nm,012000,CLOVIS MUNICIPAL SCHOOLS,012095,MESA ELEMENTARY,22.54%,,41.27%,Y,414,93
+nm,012000,CLOVIS MUNICIPAL SCHOOLS,012122,PARKVIEW ELEMENTARY,61.17%,,41.27%,Y,389,238
+nm,012000,CLOVIS MUNICIPAL SCHOOLS,012145,SANDIA ELEMENTARY,57.96%,,41.27%,Y,336,195
+nm,012000,CLOVIS MUNICIPAL SCHOOLS,012156,W D GATTIS MIDDLE SCHOOL,43.69%,,50.77%,Y,630,275
+nm,012000,CLOVIS MUNICIPAL SCHOOLS,012098,YUCCA MIDDLE,47.17%,,50.77%,Y,549,259
+nm,012000,CLOVIS MUNICIPAL SCHOOLS,012155,ZIA ELEMENTARY,24.04%,,41.27%,Y,389,94
+nm,024000,COBRE CONSOLIDATED SCHOOLS DISTRICT,024023,BAYARD ELEMENTARY,63.04%,,51.99%,Y,179,113
+nm,024000,COBRE CONSOLIDATED SCHOOLS DISTRICT,024033,CENTRAL ELEMENTARY,60.00%,,51.99%,Y,161,97
+nm,024000,COBRE CONSOLIDATED SCHOOLS DISTRICT,024036,COBRE HIGH,50.87%,,51.99%,Y,296,151
+nm,024000,COBRE CONSOLIDATED SCHOOLS DISTRICT,024059,HURLEY ELEMENTARY,64.46%,,51.99%,Y,126,81
+nm,024000,COBRE CONSOLIDATED SCHOOLS DISTRICT,024143,SAN LORENZO ELEMENTARY,63.16%,,51.99%,Y,76,48
+nm,024000,COBRE CONSOLIDATED SCHOOLS DISTRICT,024132,SNELL MIDDLE,56.36%,,51.99%,Y,241,136
+nm,634000,CROWNPOINT COMMUNITY SCHOOL TIISTIOOZIBIOLTA,634034,T'IIS TS'OZI BI'OLTA' (CROWNPOINT COMMUNITY),62.36%,,62.36%,Y,261,163
+nm,608000,CRYSTAL BOARDING SCHOOL,608008,CRYSTAL BOARDING SCHOOL,72.50%,,58.00%,Y,40,29
+nm,062000,CUBA INDEPENDENT SCHOOLS,062037,CUBA ELEMENTARY,81.40%,,70.58%,Y,268,218
+nm,062000,CUBA INDEPENDENT SCHOOLS,062038,CUBA HIGH,69.11%,,70.58%,Y,265,183
+nm,062000,CUBA INDEPENDENT SCHOOLS,062075,CUBA MIDDLE,77.27%,,70.58%,Y,134,104
+nm,562000,DEAP,562001,DEAP,54.17%,,71.05%,Y,47,25
+nm,042000,DEMING PUBLIC SCHOOLS,042005,BATAAN ELEMENTARY,61.34%,,58.92%,Y,534,328
+nm,042000,DEMING PUBLIC SCHOOLS,042024,BELL ELEMENTARY,68.02%,,58.92%,Y,247,168
+nm,042000,DEMING PUBLIC SCHOOLS,042028,CHAPARRAL ELEMENTARY,59.17%,,58.92%,Y,387,229
+nm,042000,DEMING PUBLIC SCHOOLS,042036,COLUMBUS ELEMENTARY,55.53%,,58.92%,Y,488,271
+nm,042000,DEMING PUBLIC SCHOOLS,042006,DEMING CESAR CHAVEZ,61.04%,,58.92%,Y,141,86
+nm,042000,DEMING PUBLIC SCHOOLS,042044,DEMING HIGH,52.31%,,58.92%,Y,1301,681
+nm,042000,DEMING PUBLIC SCHOOLS,042025,DEMING INTERMEDIATE,57.26%,,58.92%,Y,372,213
+nm,042000,DEMING PUBLIC SCHOOLS,042010,EARLY COLLEGE HIGH SCHOOL (DEMING),45.14%,,58.92%,Y,150,68
+nm,042000,DEMING PUBLIC SCHOOLS,042096,MEMORIAL ELEMENTARY,64.67%,,58.92%,Y,315,204
+nm,042000,DEMING PUBLIC SCHOOLS,042045,MIMBRES VALLEY HIGH SCHOOL,67.39%,,58.92%,Y,60,40
+nm,042000,DEMING PUBLIC SCHOOLS,042001,MY LITTLE SCHOOL,67.03%,,58.92%,Y,67,45
+nm,042000,DEMING PUBLIC SCHOOLS,042007,RED MOUNTAIN MIDDLE,56.55%,,58.92%,Y,887,502
+nm,042000,DEMING PUBLIC SCHOOLS,042008,RUBEN S. TORRES ELEMENTARY,76.25%,,58.92%,Y,403,307
+nm,006000,DEXTER CONSOLIDATED SCHOOLS,006043,DEXTER ELEMENTARY,51.71%,,47.22%,Y,343,177
+nm,006000,DEXTER CONSOLIDATED SCHOOLS,006045,DEXTER HIGH,41.90%,,47.22%,Y,255,107
+nm,006000,DEXTER CONSOLIDATED SCHOOLS,006048,DEXTER MIDDLE,46.03%,,47.22%,Y,196,90
+nm,067109,DREAM DINE,067109,DREAM DINE (Local),65.96%,,68.75%,Y,44,29
+nm,054000,DULCE INDEPENDENT SCHOOLS,054044,DULCE ELEMENTARY,57.74%,,53.41%,Y,253,146
+nm,054000,DULCE INDEPENDENT SCHOOLS,054045,DULCE HIGH,43.53%,,53.41%,Y,169,74
+nm,054000,DULCE INDEPENDENT SCHOOLS,054050,DULCE MIDDLE,54.17%,,53.41%,Y,122,66
+nm,611000,DZILTH NA O DITH HLE COMMUNITY SCHOOL,611011,DZILTH NA O DITH HLE COMM SCHOOL,76.82%,,76.82%,Y,154,118
+nm,001069,EL CAMINO REAL ACADEMY,001069,EL CAMINO REAL ACADEMY (Local),53.55%,,53.55%,Y,297,159
+nm,055000,ESPANOLA PUBLIC SCHOOLS,055005,ABIQUIU ELEMENTARY,54.12%,,56.35%,Y,91,49
+nm,055000,ESPANOLA PUBLIC SCHOOLS,055015,ALCALDE ELEMENTARY,62.73%,,56.35%,Y,162,102
+nm,055000,ESPANOLA PUBLIC SCHOOLS,055019,CARLOS F. VIGIL MIDDLE,54.82%,,56.35%,Y,474,260
+nm,055000,ESPANOLA PUBLIC SCHOOLS,055039,CHIMAYO ELEMENTARY,64.00%,,56.35%,Y,128,82
+nm,055000,ESPANOLA PUBLIC SCHOOLS,055042,DIXON ELEMENTARY,44.00%,,56.35%,Y,50,22
+nm,055000,ESPANOLA PUBLIC SCHOOLS,055050,ESPANOLA VALLEY HIGH,46.66%,,56.35%,Y,858,400
+nm,055000,ESPANOLA PUBLIC SCHOOLS,055053,EUTIMIO SALAZAR ELEMENTARY,61.42%,,56.35%,Y,323,198
+nm,055000,ESPANOLA PUBLIC SCHOOLS,055059,HERNANDEZ ELEMENTARY,68.06%,,56.35%,Y,71,48
+nm,055000,ESPANOLA PUBLIC SCHOOLS,055048,JAMES RODRIGUEZ ELEMENTARY,57.30%,,56.35%,Y,264,151
+nm,055000,ESPANOLA PUBLIC SCHOOLS,055142,LOS NINOS ELEMENTARY,62.03%,,56.35%,Y,81,50
+nm,055000,ESPANOLA PUBLIC SCHOOLS,055144,SAN JUAN ELEMENTARY,51.15%,,56.35%,Y,219,112
+nm,055000,ESPANOLA PUBLIC SCHOOLS,055145,TONY QUINTANA ELEMENTARY,67.82%,,56.35%,Y,214,145
+nm,055000,ESPANOLA PUBLIC SCHOOLS,055169,VELARDE ELEMENTARY,62.26%,,56.35%,Y,53,33
+nm,080000,ESTANCIA MUNICIPAL SCHOOLS,080050,ESTANCIA HIGH,46.55%,,53.81%,Y,174,81
+nm,080000,ESTANCIA MUNICIPAL SCHOOLS,080172,ESTANCIA MIDDLE,51.14%,,53.81%,Y,84,43
+nm,080000,ESTANCIA MUNICIPAL SCHOOLS,080169,LOWER ELEMENTARY,48.18%,,53.81%,Y,114,55
+nm,080000,ESTANCIA MUNICIPAL SCHOOLS,080001,UPPER ELEMENTARY,51.88%,,53.81%,Y,135,70
+nm,080000,ESTANCIA MUNICIPAL SCHOOLS,080185,VANSTONE ELEMENTARY,58.97%,,53.81%,Y,40,24
+nm,065000,FARMINGTON MUNICIPAL SCHOOLS,065015,ANIMAS ELEMENTARY,68.65%,,58.16%,Y,375,257
+nm,065000,FARMINGTON MUNICIPAL SCHOOLS,065017,APACHE ELEMENTARY,69.16%,,58.16%,Y,457,316
+nm,065000,FARMINGTON MUNICIPAL SCHOOLS,065019,BLUFFVIEW ELEMENTARY,60.44%,,58.16%,Y,370,224
+nm,065000,FARMINGTON MUNICIPAL SCHOOLS,065038,ESPERANZA ELEMENTARY,57.54%,,58.16%,Y,470,270
+nm,065000,FARMINGTON MUNICIPAL SCHOOLS,065055,FARMINGTON PRESCHOOL ACADEMY EAST,52.50%,,58.16%,Y,62,33
+nm,065000,FARMINGTON MUNICIPAL SCHOOLS,065056,FARMINGTON PRESCHOOL ACADEMY WEST,52.23%,,58.16%,Y,153,80
+nm,065000,FARMINGTON MUNICIPAL SCHOOLS,065095,MCCORMICK ELEMENTARY,69.06%,,58.16%,Y,417,288
+nm,065000,FARMINGTON MUNICIPAL SCHOOLS,065100,MCKINLEY ELEMENTARY,55.65%,,58.16%,Y,480,267
+nm,065000,FARMINGTON MUNICIPAL SCHOOLS,065108,MESA VIEW MIDDLE SCHOOL,48.36%,,58.16%,Y,582,281
+nm,065000,FARMINGTON MUNICIPAL SCHOOLS,065118,NORTHEAST ELEMENTARY,51.61%,,58.16%,Y,497,257
+nm,065000,FARMINGTON MUNICIPAL SCHOOLS,065148,ROCINANTE HIGH,49.25%,,58.16%,Y,212,104
+nm,065000,FARMINGTON MUNICIPAL SCHOOLS,065162,TIBBETTS MIDDLE SCHOOL,57.05%,,58.16%,Y,719,410
+nm,016000,FORT SUMNER MUNICIPAL SCHOOLS,016051,FORT SUMNER ELEMENTARY,52.00%,,46.79%,Y,120,62
+nm,016000,FORT SUMNER MUNICIPAL SCHOOLS,016052,FORT SUMNER HIGH,22.67%,,46.79%,Y,74,17
+nm,016000,FORT SUMNER MUNICIPAL SCHOOLS,016060,FORT SUMNER MIDDLE,42.03%,,46.79%,Y,66,28
+nm,019000,GADSDEN INDEPENDENT SCHOOLS,019018,ALTA VISTA EARLY COLLEGE HIGH SCHOOL,43.13%,,60.77%,Y,211,91
+nm,019000,GADSDEN INDEPENDENT SCHOOLS,019016,ANTHONY ELEMENTARY,75.07%,,60.77%,Y,348,261
+nm,019000,GADSDEN INDEPENDENT SCHOOLS,019060,ANTHONY ON-TRACK PREK CENTER,68.55%,,60.77%,Y,112,77
+nm,019000,GADSDEN INDEPENDENT SCHOOLS,019020,BERINO ELEMENTARY,75.14%,,60.77%,Y,355,267
+nm,019000,GADSDEN INDEPENDENT SCHOOLS,019030,CHAPARRAL ELEMENTARY,63.88%,,60.77%,Y,432,276
+nm,019000,GADSDEN INDEPENDENT SCHOOLS,019003,CHAPARRAL HIGH,58.55%,,60.77%,Y,1017,595
+nm,019000,GADSDEN INDEPENDENT SCHOOLS,019032,CHAPARRAL MIDDLE,62.10%,,60.77%,Y,625,388
+nm,019000,GADSDEN INDEPENDENT SCHOOLS,019061,CHAPARRAL ON-TRACK PREK CENTER,69.18%,,60.77%,Y,128,89
+nm,019000,GADSDEN INDEPENDENT SCHOOLS,019007,DESERT PRIDE ACADEMY,68.67%,,60.77%,Y,253,174
+nm,019000,GADSDEN INDEPENDENT SCHOOLS,019040,DESERT TRAIL ELEMENTARY,68.82%,,60.77%,Y,413,284
+nm,019000,GADSDEN INDEPENDENT SCHOOLS,019035,DESERT VIEW ELEMENTARY,73.57%,,60.77%,Y,401,295
+nm,019000,GADSDEN INDEPENDENT SCHOOLS,019062,GADSDEN ADMIN COMPLEX PREK CENTER,57.92%,,60.77%,Y,173,100
+nm,019000,GADSDEN INDEPENDENT SCHOOLS,019017,GADSDEN ELEMENTARY,62.95%,,60.77%,Y,423,266
+nm,019000,GADSDEN INDEPENDENT SCHOOLS,019054,GADSDEN HIGH,53.42%,,60.77%,Y,1334,713
+nm,019000,GADSDEN INDEPENDENT SCHOOLS,019052,GADSDEN MIDDLE,61.14%,,60.77%,Y,712,435
+nm,019000,GADSDEN INDEPENDENT SCHOOLS,019063,LA MESA ON TRACK PREK CENTER,60.47%,,60.77%,Y,77,47
+nm,019000,GADSDEN INDEPENDENT SCHOOLS,019076,LA UNION ELEMENTARY,49.29%,,60.77%,Y,347,171
+nm,019000,GADSDEN INDEPENDENT SCHOOLS,019086,LOMA LINDA ELEMENTARY,63.93%,,60.77%,Y,309,198
+nm,019000,GADSDEN INDEPENDENT SCHOOLS,019104,MESQUITE ELEMENTARY,60.77%,,60.77%,Y,255,155
+nm,019000,GADSDEN INDEPENDENT SCHOOLS,019120,NORTH VALLEY ELEMENTARY,54.01%,,60.77%,Y,269,145
+nm,019000,GADSDEN INDEPENDENT SCHOOLS,019140,RIVERSIDE ELEMENTARY,68.60%,,60.77%,Y,475,326
+nm,019000,GADSDEN INDEPENDENT SCHOOLS,019008,SANTA TERESA ELEMENTARY,46.87%,,60.77%,Y,492,231
+nm,019000,GADSDEN INDEPENDENT SCHOOLS,019200,SANTA TERESA HIGH,50.70%,,60.77%,Y,1219,618
+nm,019000,GADSDEN INDEPENDENT SCHOOLS,019175,SANTA TERESA MIDDLE,57.62%,,60.77%,Y,605,349
+nm,019000,GADSDEN INDEPENDENT SCHOOLS,019013,SUNLAND PARK ELEMENTARY,68.11%,,60.77%,Y,245,167
+nm,019000,GADSDEN INDEPENDENT SCHOOLS,019009,SUNRISE ELEMENTARY,71.50%,,60.77%,Y,387,277
+nm,019000,GADSDEN INDEPENDENT SCHOOLS,019001,VADO ELEMENTARY,67.43%,,60.77%,Y,358,241
+nm,019000,GADSDEN INDEPENDENT SCHOOLS,019025,YUCCA HEIGHTS ELEMENTARY,66.77%,,60.77%,Y,645,431
+nm,043000,GALLUP MCKINLEY COUNTY SCHOOLS,043034,CATHERINE A. MILLER ELEMENTARY,73.85%,,59.07%,Y,355,262
+nm,043000,GALLUP MCKINLEY COUNTY SCHOOLS,043030,CHEE DODGE ELEMENTARY,69.32%,,59.07%,Y,248,172
+nm,043000,GALLUP MCKINLEY COUNTY SCHOOLS,043003,CHIEF MANUELITO MIDDLE,61.75%,,59.07%,Y,651,402
+nm,043000,GALLUP MCKINLEY COUNTY SCHOOLS,043038,CROWNPOINT ELEMENTARY,67.84%,,59.07%,Y,337,229
+nm,043000,GALLUP MCKINLEY COUNTY SCHOOLS,043039,CROWNPOINT HIGH,57.56%,,59.07%,Y,320,184
+nm,043000,GALLUP MCKINLEY COUNTY SCHOOLS,043088,CROWNPOINT MIDDLE,62.89%,,59.07%,Y,182,114
+nm,043000,GALLUP MCKINLEY COUNTY SCHOOLS,043160,DAVID SKEET ELEMENTARY,79.01%,,59.07%,Y,257,203
+nm,043000,GALLUP MCKINLEY COUNTY SCHOOLS,043174,DEL NORTE ELEMENTARY,74.19%,,59.07%,Y,492,365
+nm,043000,GALLUP MCKINLEY COUNTY SCHOOLS,043016,GALLUP CENTRAL ALTERNATIVE,57.45%,,59.07%,Y,167,96
+nm,043000,GALLUP MCKINLEY COUNTY SCHOOLS,043055,GALLUP HIGH,53.54%,,59.07%,Y,935,501
+nm,043000,GALLUP MCKINLEY COUNTY SCHOOLS,043054,GALLUP MIDDLE,53.39%,,59.07%,Y,446,238
+nm,043000,GALLUP MCKINLEY COUNTY SCHOOLS,043062,INDIAN HILLS ELEMENTARY,55.48%,,59.07%,Y,287,159
+nm,043000,GALLUP MCKINLEY COUNTY SCHOOLS,043066,JEFFERSON ELEMENTARY,67.22%,,59.07%,Y,549,369
+nm,043000,GALLUP MCKINLEY COUNTY SCHOOLS,043190,JOHN F. KENNEDY MIDDLE,58.73%,,59.07%,Y,715,420
+nm,043000,GALLUP MCKINLEY COUNTY SCHOOLS,043077,LINCOLN ELEMENTARY,57.49%,,59.07%,Y,359,206
+nm,043000,GALLUP MCKINLEY COUNTY SCHOOLS,043073,MIYAMURA HIGH SCHOOL,49.32%,,59.07%,Y,1351,666
+nm,043000,GALLUP MCKINLEY COUNTY SCHOOLS,043079,NAVAJO ELEMENTARY,74.09%,,59.07%,Y,342,253
+nm,043000,GALLUP MCKINLEY COUNTY SCHOOLS,043100,NAVAJO MIDDLE SCHOOL,64.50%,,59.07%,Y,151,97
+nm,043000,GALLUP MCKINLEY COUNTY SCHOOLS,043075,NAVAJO PINE HIGH,58.29%,,59.07%,Y,182,106
+nm,043000,GALLUP MCKINLEY COUNTY SCHOOLS,043132,RAMAH ELEMENTARY,59.38%,,59.07%,Y,221,131
+nm,043000,GALLUP MCKINLEY COUNTY SCHOOLS,043130,RAMAH HIGH,50.85%,,59.07%,Y,219,111
+nm,043000,GALLUP MCKINLEY COUNTY SCHOOLS,043134,RED ROCK ELEMENTARY,39.68%,,59.07%,Y,328,130
+nm,043000,GALLUP MCKINLEY COUNTY SCHOOLS,043152,STAGECOACH ELEMENTARY,69.97%,,59.07%,Y,349,244
+nm,043000,GALLUP MCKINLEY COUNTY SCHOOLS,043162,THOREAU ELEMENTARY,72.10%,,59.07%,Y,415,299
+nm,043000,GALLUP MCKINLEY COUNTY SCHOOLS,043145,THOREAU HIGH,61.65%,,59.07%,Y,419,258
+nm,043000,GALLUP MCKINLEY COUNTY SCHOOLS,043155,THOREAU MIDDLE,71.63%,,59.07%,Y,261,187
+nm,043000,GALLUP MCKINLEY COUNTY SCHOOLS,043091,TOBE TURPEN ELEMENTARY,63.41%,,59.07%,Y,409,259
+nm,043000,GALLUP MCKINLEY COUNTY SCHOOLS,043164,TOHATCHI ELEMENTARY,57.71%,,59.07%,Y,235,136
+nm,043000,GALLUP MCKINLEY COUNTY SCHOOLS,043064,TOHATCHI HIGH,56.93%,,59.07%,Y,319,182
+nm,043000,GALLUP MCKINLEY COUNTY SCHOOLS,043120,TOHATCHI MIDDLE,61.67%,,59.07%,Y,220,136
+nm,043000,GALLUP MCKINLEY COUNTY SCHOOLS,043089,TSE'YI'GAI HIGH,78.67%,,59.07%,Y,83,65
+nm,043000,GALLUP MCKINLEY COUNTY SCHOOLS,043170,TWIN LAKES ELEMENTARY,73.11%,,59.07%,Y,239,175
+nm,015000,GRADY MUNICIPAL SCHOOLS,015057,GRADY HIGH,30.77%,,41.74%,Y,41,13
+nm,015000,GRADY MUNICIPAL SCHOOLS,015056,GRADY MIDDLE SCHOOL,29.17%,,41.74%,Y,51,15
+nm,088000,GRANTS CIBOLA COUNTY SCHOOLS,088915,BLUEWATER ELEMENTARY,51.39%,,55.79%,Y,73,38
+nm,088000,GRANTS CIBOLA COUNTY SCHOOLS,088038,CUBERO ELEMENTARY,61.58%,,55.79%,Y,193,119
+nm,088000,GRANTS CIBOLA COUNTY SCHOOLS,088060,EARLY COLLEGE HIGH SCHOOL (GRANTS),13.33%,,55.79%,Y,37,5
+nm,088000,GRANTS CIBOLA COUNTY SCHOOLS,088055,GRANTS HIGH,48.15%,,55.79%,Y,823,396
+nm,088000,GRANTS CIBOLA COUNTY SCHOOLS,088057,LAGUNA-ACOMA HIGH,54.70%,,55.79%,Y,181,99
+nm,088000,GRANTS CIBOLA COUNTY SCHOOLS,088058,LAGUNA-ACOMA MIDDLE,51.28%,,55.79%,Y,37,19
+nm,088000,GRANTS CIBOLA COUNTY SCHOOLS,088056,LOS ALAMITOS MIDDLE,54.65%,,55.79%,Y,452,247
+nm,088000,GRANTS CIBOLA COUNTY SCHOOLS,088099,MESA VIEW ELEMENTARY,61.74%,,55.79%,Y,449,277
+nm,088000,GRANTS CIBOLA COUNTY SCHOOLS,088104,MILAN ELEMENTARY,57.60%,,55.79%,Y,444,256
+nm,088000,GRANTS CIBOLA COUNTY SCHOOLS,088106,MOUNT TAYLOR ELEMENTARY,63.57%,,55.79%,Y,409,260
+nm,088000,GRANTS CIBOLA COUNTY SCHOOLS,088152,SAN RAFAEL ELEMENTARY,62.96%,,55.79%,Y,53,33
+nm,088000,GRANTS CIBOLA COUNTY SCHOOLS,088155,SEBOYETA ELEMENTARY,66.67%,,55.79%,Y,27,18
+nm,631000,HAAK'U COMMUNITY ACADEMY,631031,HAAK'U COMMUNITY ACADEMY,56.11%,,62.00%,Y,180,101
+nm,005000,HAGERMAN MUNICIPAL SCHOOLS,005054,HAGERMAN ELEMENTARY,41.42%,,43.41%,Y,171,71
+nm,005000,HAGERMAN MUNICIPAL SCHOOLS,005056,HAGERMAN MIDDLE,47.19%,,43.41%,Y,86,41
+nm,018000,HATCH VALLEY PUBLIC SCHOOLS,018053,GARFIELD ELEMENTARY,49.48%,,58.91%,Y,97,48
+nm,018000,HATCH VALLEY PUBLIC SCHOOLS,018057,HATCH VALLEY ELEMENTARY,65.03%,,58.91%,Y,185,120
+nm,018000,HATCH VALLEY PUBLIC SCHOOLS,018058,HATCH VALLEY HIGH,55.44%,,58.91%,Y,380,211
+nm,018000,HATCH VALLEY PUBLIC SCHOOLS,018050,HATCH VALLEY MIDDLE,59.79%,,58.91%,Y,287,172
+nm,018000,HATCH VALLEY PUBLIC SCHOOLS,018001,RIO GRANDE ELEMENTARY,62.26%,,58.91%,Y,263,164
+nm,033000,HOBBS MUNICIPAL SCHOOLS,033172,BOOKER T. WASHINGTON ELEMENTARY,53.03%,,42.13%,Y,193,102
+nm,033000,HOBBS MUNICIPAL SCHOOLS,033028,BROADMOOR ELEMENTARY,52.98%,,42.13%,Y,340,180
+nm,033000,HOBBS MUNICIPAL SCHOOLS,033030,COLLEGE LANE ELEMENTARY,39.15%,,42.13%,Y,489,191
+nm,033000,HOBBS MUNICIPAL SCHOOLS,033032,CORONADO ELEMENTARY,46.88%,,42.13%,Y,358,168
+nm,033000,HOBBS MUNICIPAL SCHOOLS,033046,EDISON ELEMENTARY,53.81%,,42.13%,Y,221,119
+nm,033000,HOBBS MUNICIPAL SCHOOLS,033008,HEIZER MIDDLE SCHOOL,47.68%,,42.13%,Y,629,300
+nm,033000,HOBBS MUNICIPAL SCHOOLS,033057,HIGHLAND MIDDLE SCHOOL,41.61%,,42.13%,Y,827,344
+nm,033000,HOBBS MUNICIPAL SCHOOLS,033055,HOBBS FRESHMAN HIGH,38.01%,,42.13%,Y,820,312
+nm,033000,HOBBS MUNICIPAL SCHOOLS,033058,HOBBS HIGH,35.96%,,42.13%,Y,2109,758
+nm,033000,HOBBS MUNICIPAL SCHOOLS,033059,HOUSTON MIDDLE SCHOOL,35.98%,,42.13%,Y,853,307
+nm,033000,HOBBS MUNICIPAL SCHOOLS,033066,JEFFERSON ELEMENTARY,50.30%,,42.13%,Y,337,170
+nm,033000,HOBBS MUNICIPAL SCHOOLS,033072,MILLS ELEMENTARY,40.47%,,42.13%,Y,375,152
+nm,033000,HOBBS MUNICIPAL SCHOOLS,033177,MURRAY ELEMENTARY,56.17%,,42.13%,Y,430,242
+nm,033000,HOBBS MUNICIPAL SCHOOLS,033144,SANGER ELEMENTARY,34.43%,,42.13%,Y,355,122
+nm,033000,HOBBS MUNICIPAL SCHOOLS,033156,SOUTHERN HEIGHTS ELEMENTARY,47.43%,,42.13%,Y,366,174
+nm,033000,HOBBS MUNICIPAL SCHOOLS,033075,STONE ELEMENTARY,36.18%,,42.13%,Y,335,121
+nm,033000,HOBBS MUNICIPAL SCHOOLS,033164,TAYLOR ELEMENTARY,47.43%,,42.13%,Y,405,192
+nm,033000,HOBBS MUNICIPAL SCHOOLS,033176,WILL ROGERS ELEMENTARY,48.00%,,42.13%,Y,330,158
+nm,039000,HONDO VALLEY PUBLIC SCHOOLS,039059,HONDO ELEMENTARY,60.61%,,60.87%,Y,62,38
+nm,039000,HONDO VALLEY PUBLIC SCHOOLS,039060,HONDO HIGH,57.53%,,60.87%,Y,73,42
+nm,573000,Hozho Academy,573001,Hozho Academy,43.76%,,43.76%,Y,497,217
+nm,612000,ISLETA ELEMENTARY SCHOOL,612012,ISLETA ELEMENTARY,54.44%,,54.44%,Y,83,45
+nm,613000,JEMEZ DAY SCHOOL,613013,JEMEZ DAY SCHOOL,50.00%,,64.29%,Y,138,69
+nm,056000,JEMEZ MOUNTAIN PUBLIC SCHOOLS,056038,CORONADO HIGH,35.90%,,63.46%,Y,41,15
+nm,056000,JEMEZ MOUNTAIN PUBLIC SCHOOLS,056060,CORONADO MIDDLE,41.38%,,63.46%,Y,31,13
+nm,056000,JEMEZ MOUNTAIN PUBLIC SCHOOLS,056054,GALLINA ELEMENTARY,50.00%,,63.46%,Y,42,21
+nm,056000,JEMEZ MOUNTAIN PUBLIC SCHOOLS,056087,LYBROOK ELEMENTARY,86.57%,,63.46%,Y,67,58
+nm,063000,JEMEZ VALLEY PUBLIC SCHOOLS,063145,JEMEZ VALLEY ELEMENTARY,58.99%,,54.93%,Y,140,83
+nm,063000,JEMEZ VALLEY PUBLIC SCHOOLS,063166,JEMEZ VALLEY HIGH,45.65%,,54.93%,Y,93,42
+nm,063000,JEMEZ VALLEY PUBLIC SCHOOLS,063170,JEMEZ VALLEY MIDDLE,58.90%,,54.93%,Y,75,44
+nm,615000,KAWAIKA LAGUNA SCHOOLS,614014,LAGUNA ELEMENTARY SCHOOL (Local),85.58%,,61.17%,Y,104,89
+nm,615000,KAWAIKA LAGUNA SCHOOLS,615015,LAGUNA MIDDLE SCHOOL,36.27%,,61.17%,Y,102,37
+nm,629000,KHAPO COMMUNITY SCHOOL,629029,KHA'P'O COMMUNITY SCHOOL,45.71%,,45.71%,Y,107,49
+nm,001061,LA ACADEMIA DE ESPERANZA,001061,LA ACADEMIA DE ESPERANZA (Local),55.56%,,53.30%,Y,230,128
+nm,560000,LA ACADEMIA DOLORES HUERTA,560001,LA ACADEMIA DOLORES HUERTA,60.87%,,62.71%,Y,66,40
+nm,546000,LA TIERRA MONTESSORI SCHOOL FOR ARTS & SCIENCE,546001,LA TIERRA MONTESSORI SCHOOL,56.79%,,63.93%,Y,83,47
+nm,007000,LAKE ARTHUR MUNICIPAL SCHOOLS,007073,LAKE ARTHUR ELEMENTARY,52.54%,,50.38%,Y,59,31
+nm,007000,LAKE ARTHUR MUNICIPAL SCHOOLS,007075,LAKE ARTHUR HIGH,44.74%,,50.38%,Y,35,16
+nm,007000,LAKE ARTHUR MUNICIPAL SCHOOLS,007077,LAKE ARTHUR MIDDLE,52.94%,,50.38%,Y,31,16
+nm,616000,LAKE VALLEY NAVAJO SCHOOL,616016,LAKE VALLEY NAVAJO,80.00%,,80.00%,Y,32,26
+nm,017000,LAS CRUCES PUBLIC SCHOOLS,017010,ALAMEDA ELEMENTARY,69.81%,,54.13%,Y,355,248
+nm,017000,LAS CRUCES PUBLIC SCHOOLS,017019,ARROWHEAD PARK MEDICAL ACADEMY,28.07%,,54.13%,Y,232,65
+nm,017000,LAS CRUCES PUBLIC SCHOOLS,017172,BOOKER T. WASHINGTON,75.31%,,54.13%,Y,320,241
+nm,017000,LAS CRUCES PUBLIC SCHOOLS,017002,CAMINO REAL MIDDLE,33.30%,,40.66%,Y,983,327
+nm,017000,LAS CRUCES PUBLIC SCHOOLS,017018,CENTENNIAL HIGH SCHOOL,35.58%,,40.66%,Y,1642,584
+nm,017000,LAS CRUCES PUBLIC SCHOOLS,017034,CENTRAL ELEMENTARY,66.29%,,54.13%,Y,177,117
+nm,017000,LAS CRUCES PUBLIC SCHOOLS,017006,CESAR CHAVEZ ELEMENTARY,67.54%,,54.13%,Y,486,328
+nm,017000,LAS CRUCES PUBLIC SCHOOLS,017009,COLUMBIA ELEMENTARY,62.77%,,54.13%,Y,246,154
+nm,017000,LAS CRUCES PUBLIC SCHOOLS,017036,CONLEE ELEMENTARY,76.23%,,54.13%,Y,439,335
+nm,017000,LAS CRUCES PUBLIC SCHOOLS,017045,DESERT HILLS ELEMENTARY,36.04%,,54.13%,Y,581,209
+nm,017000,LAS CRUCES PUBLIC SCHOOLS,017048,DONA ANA ELEMENTARY,57.18%,,54.13%,Y,370,212
+nm,017000,LAS CRUCES PUBLIC SCHOOLS,017016,EARLY COLLEGE HIGH SCHOOL (LAS CRUCES),30.37%,,54.13%,Y,327,99
+nm,017000,LAS CRUCES PUBLIC SCHOOLS,017044,EAST PICACHO ELEMENTARY,45.91%,,54.13%,Y,473,217
+nm,017000,LAS CRUCES PUBLIC SCHOOLS,017051,FAIRACRES ELEMENTARY,52.13%,,54.13%,Y,443,231
+nm,017000,LAS CRUCES PUBLIC SCHOOLS,017059,HERMOSA HEIGHTS ELEMENTARY,71.11%,,54.13%,Y,388,276
+nm,017000,LAS CRUCES PUBLIC SCHOOLS,017053,HIGHLAND ELEMENTARY,42.73%,,54.13%,Y,776,332
+nm,017000,LAS CRUCES PUBLIC SCHOOLS,017055,HILLRISE ELEMENTARY,57.45%,,54.13%,Y,467,268
+nm,017000,LAS CRUCES PUBLIC SCHOOLS,017061,JORNADA ELEMENTARY,52.09%,,54.13%,Y,561,292
+nm,017000,LAS CRUCES PUBLIC SCHOOLS,017075,LAS CRUCES HIGH,47.15%,,40.66%,Y,1771,835
+nm,017000,LAS CRUCES PUBLIC SCHOOLS,017065,LOMA HEIGHTS ELEMENTARY,70.12%,,54.13%,Y,476,334
+nm,017000,LAS CRUCES PUBLIC SCHOOLS,017086,LYNN MIDDLE,66.55%,,54.13%,Y,575,383
+nm,017000,LAS CRUCES PUBLIC SCHOOLS,017093,MAC ARTHUR ELEMENTARY,72.52%,,54.13%,Y,340,247
+nm,017000,LAS CRUCES PUBLIC SCHOOLS,017100,MAYFIELD HIGH,43.76%,,40.66%,Y,1467,642
+nm,017000,LAS CRUCES PUBLIC SCHOOLS,017015,MESA MIDDLE,50.44%,,54.13%,Y,800,404
+nm,017000,LAS CRUCES PUBLIC SCHOOLS,017097,MESILLA ELEMENTARY,51.82%,,54.13%,Y,273,141
+nm,017000,LAS CRUCES PUBLIC SCHOOLS,017110,MESILLA PARK ELEMENTARY,63.23%,,54.13%,Y,363,230
+nm,017000,LAS CRUCES PUBLIC SCHOOLS,017017,MESILLA VALLEY LEADERSHIP ACADEMY,30.53%,,54.13%,Y,88,27
+nm,017000,LAS CRUCES PUBLIC SCHOOLS,017014,MONTE VISTA ELEMENTARY,41.13%,,54.13%,Y,678,279
+nm,017000,LAS CRUCES PUBLIC SCHOOLS,017130,ORGAN MOUNTAIN HIGH SCHOOL,40.44%,,40.66%,Y,1874,758
+nm,017000,LAS CRUCES PUBLIC SCHOOLS,017035,PICACHO MIDDLE,54.75%,,54.13%,Y,767,420
+nm,017000,LAS CRUCES PUBLIC SCHOOLS,017012,RIO GRANDE PREPARATORY INSTITUTE,65.50%,,54.13%,Y,146,96
+nm,017000,LAS CRUCES PUBLIC SCHOOLS,017144,SIERRA MIDDLE,51.89%,,54.13%,Y,838,435
+nm,017000,LAS CRUCES PUBLIC SCHOOLS,017007,SONOMA ELEMENTARY,37.12%,,54.13%,Y,741,275
+nm,017000,LAS CRUCES PUBLIC SCHOOLS,017140,SUNRISE ELEMENTARY,63.86%,,54.13%,Y,363,232
+nm,017000,LAS CRUCES PUBLIC SCHOOLS,017145,TOMBAUGH ELEMENTARY,50.59%,,54.13%,Y,593,300
+nm,017000,LAS CRUCES PUBLIC SCHOOLS,017150,UNIVERSITY HILLS ELEMENTARY,68.22%,,54.13%,Y,360,246
+nm,017000,LAS CRUCES PUBLIC SCHOOLS,017166,VALLEY VIEW ELEMENTARY,75.42%,,54.13%,Y,377,284
+nm,017000,LAS CRUCES PUBLIC SCHOOLS,017170,VISTA MIDDLE,51.68%,,54.13%,Y,643,332
+nm,017000,LAS CRUCES PUBLIC SCHOOLS,017177,WHITE SANDS ELEMENTARY,7.82%,,54.13%,Y,300,23
+nm,017000,LAS CRUCES PUBLIC SCHOOLS,017184,ZIA MIDDLE,52.97%,,54.13%,Y,672,356
+nm,567000,LAS MONTANAS CHARTER,567001,LAS MONTANAS CHARTER,75.14%,,69.09%,Y,167,125
+nm,069000,LAS VEGAS CITY PUBLIC SCHOOLS,069037,LOS NINOS ELEMENTARY,55.79%,,51.70%,Y,332,185
+nm,069000,LAS VEGAS CITY PUBLIC SCHOOLS,069003,LVCS EARLY CHILDHOOD,65.52%,,51.70%,Y,1209,792
+nm,069000,LAS VEGAS CITY PUBLIC SCHOOLS,069031,MEMORIAL MIDDLE,45.60%,,51.70%,Y,179,82
+nm,069000,LAS VEGAS CITY PUBLIC SCHOOLS,069150,MIKE SENA ELEMENTARY,69.39%,,51.70%,Y,48,33
+nm,069000,LAS VEGAS CITY PUBLIC SCHOOLS,069136,ROBERTSON HIGH,36.91%,,51.70%,Y,405,149
+nm,069000,LAS VEGAS CITY PUBLIC SCHOOLS,069054,SIERRA VISTA ELEMENTARY,54.80%,,51.70%,Y,245,134
+nm,029000,LORDSBURG MUNICIPAL SCHOOLS,029034,CENTRAL ELEMENTARY,66.67%,,62.17%,Y,56,37
+nm,029000,LORDSBURG MUNICIPAL SCHOOLS,029060,DUGAN-TARANGO MIDDLE,55.95%,,62.17%,Y,87,49
+nm,029000,LORDSBURG MUNICIPAL SCHOOLS,029082,LORDSBURG HIGH,49.60%,,62.17%,Y,126,62
+nm,029000,LORDSBURG MUNICIPAL SCHOOLS,029174,R.V.TRAYLOR ELEMENTARY,69.23%,,62.17%,Y,184,127
+nm,086000,LOS LUNAS PUBLIC SCHOOLS,086150,ANN PARISH ELEMENTARY,63.99%,,43.49%,Y,387,248
+nm,086000,LOS LUNAS PUBLIC SCHOOLS,086028,BOSQUE FARMS ELEMENTARY,33.76%,,43.49%,Y,469,158
+nm,086000,LOS LUNAS PUBLIC SCHOOLS,086009,CENTURY ALT HIGH,56.25%,,43.49%,Y,106,60
+nm,086000,LOS LUNAS PUBLIC SCHOOLS,086003,DESERT VIEW ELEMENTARY,60.77%,,43.49%,Y,391,238
+nm,086000,LOS LUNAS PUBLIC SCHOOLS,086080,KATHERINE GALLEGOS ELEMENTARY,30.74%,,43.49%,Y,623,192
+nm,086000,LOS LUNAS PUBLIC SCHOOLS,086082,LOS LUNAS ELEMENTARY,57.84%,,43.49%,Y,401,232
+nm,086000,LOS LUNAS PUBLIC SCHOOLS,086018,LOS LUNAS FAMILY SCHOOL,47.56%,,43.49%,Y,225,107
+nm,086000,LOS LUNAS PUBLIC SCHOOLS,086085,LOS LUNAS HIGH,34.26%,,43.49%,Y,1606,550
+nm,086000,LOS LUNAS PUBLIC SCHOOLS,086084,LOS LUNAS MIDDLE,43.78%,,43.49%,Y,797,349
+nm,086000,LOS LUNAS PUBLIC SCHOOLS,086122,PERALTA ELEMENTARY,38.27%,,43.49%,Y,237,91
+nm,086000,LOS LUNAS PUBLIC SCHOOLS,086083,RAYMOND GABALDON ELEMENTARY,59.09%,,43.49%,Y,354,209
+nm,086000,LOS LUNAS PUBLIC SCHOOLS,086160,SUNDANCE ELEMENTARY,34.18%,,43.49%,Y,509,174
+nm,086000,LOS LUNAS PUBLIC SCHOOLS,086180,TOME ELEMENTARY,53.80%,,43.49%,Y,333,179
+nm,086000,LOS LUNAS PUBLIC SCHOOLS,086002,VALENCIA ELEMENTARY,55.06%,,43.49%,Y,366,202
+nm,086000,LOS LUNAS PUBLIC SCHOOLS,086017,VALENCIA HIGH,38.93%,,43.49%,Y,907,353
+nm,086000,LOS LUNAS PUBLIC SCHOOLS,086025,VALENCIA MIDDLE,44.31%,,43.49%,Y,492,218
+nm,021000,LOVING MUNICIPAL SCHOOLS,021085,LOVING ELEMENTARY,39.21%,,41.04%,Y,285,112
+nm,021000,LOVING MUNICIPAL SCHOOLS,021086,LOVING HIGH,32.77%,,41.04%,Y,183,60
+nm,021000,LOVING MUNICIPAL SCHOOLS,021088,LOVING MIDDLE,39.38%,,41.04%,Y,155,61
+nm,075000,MAGDALENA MUNICIPAL SCHOOLS,075133,MAGDALENA ELEMENTARY,56.41%,,56.07%,Y,120,68
+nm,075000,MAGDALENA MUNICIPAL SCHOOLS,075095,MAGDALENA HIGH,50.57%,,56.07%,Y,90,46
+nm,075000,MAGDALENA MUNICIPAL SCHOOLS,075100,MAGDALENA MIDDLE,49.30%,,56.07%,Y,70,35
+nm,617000,MARIANO LAKE COMMUNITY SCHOOL,617017,MARIANO LAKE,84.17%,,84.17%,Y,120,101
+nm,001039,MARK ARMIJO ACADEMY CHARTER SCHOOL,001039,MARK ARMIJO ACADEMY (Local),52.50%,,57.36%,Y,199,104
+nm,011000,MAXWELL MUNICIPAL SCHOOLS,011100,MAXWELL ELEMENTARY,42.31%,,44.52%,Y,51,22
+nm,011000,MAXWELL MUNICIPAL SCHOOLS,011105,MAXWELL HIGH,42.22%,,44.52%,Y,48,20
+nm,011000,MAXWELL MUNICIPAL SCHOOLS,011108,MAXWELL MIDDLE,38.89%,,44.52%,Y,20,8
+nm,078000,MESA VISTA CONSOLIDATED SCHOOLS,078047,EL RITO ELEMENTARY,64.29%,,53.28%,Y,61,39
+nm,078000,MESA VISTA CONSOLIDATED SCHOOLS,078119,MESA VISTA HIGH,38.78%,,53.28%,Y,101,39
+nm,078000,MESA VISTA CONSOLIDATED SCHOOLS,078125,MESA VISTA MIDDLE,56.67%,,53.28%,Y,32,18
+nm,078000,MESA VISTA CONSOLIDATED SCHOOLS,078118,OJO CALIENTE ELEMENTARY,47.92%,,53.28%,Y,49,23
+nm,618000,MESCALERO APACHE SCHOOL,618018,MESCALERO APACHE,62.76%,,62.76%,Y,700,439
+nm,542000,MISSION ACHIEVEMENT AND SUCCESS,542001,MISSION ACHIEVEMENT AND SUCCESS 1.0,50.13%,,48.91%,Y,1162,583
+nm,542000,MISSION ACHIEVEMENT AND SUCCESS,542002,MISSION ACHIEVEMENT AND SUCCESS 2.0,52.15%,,60.20%,Y,893,466
+nm,044000,MORA INDEPENDENT SCHOOLS,044883,CIMARRON EARLY HEAD START ,100.00%,,62.98%,Y,,
+nm,044000,MORA INDEPENDENT SCHOOLS,044059,HOLMAN ELEMENTARY,56.14%,,62.98%,Y,56,31
+nm,044000,MORA INDEPENDENT SCHOOLS,044001,LAZARO LARRY GARCIA MIDDLE,60.98%,,62.98%,Y,80,49
+nm,044000,MORA INDEPENDENT SCHOOLS,044002,MORA EARLY HEAD START & HEAD START,100.00%,,62.98%,Y,31,31
+nm,044000,MORA INDEPENDENT SCHOOLS,044104,MORA ELEMENTARY,59.71%,,62.98%,Y,144,86
+nm,044000,MORA INDEPENDENT SCHOOLS,044105,MORA HIGH,41.79%,,62.98%,Y,130,54
+nm,044000,MORA INDEPENDENT SCHOOLS,044882,RATON EARLY HEAD START & HEAD START (MORA),100.00%,,62.98%,Y,31,31
+nm,044000,MORA INDEPENDENT SCHOOLS,044881,SPRINGER EARLY HEAD START,100.00%,,62.98%,Y,15,15
+nm,044000,MORA INDEPENDENT SCHOOLS,044880,SPRINGER HEAD START,100.00%,,62.98%,Y,15,15
+nm,081000,MORIARTY-EDGEWOOD SCHOOL DISTRICT,081003,EDGEWOOD MIDDLE,35.22%,,43.64%,Y,305,107
+nm,081000,MORIARTY-EDGEWOOD SCHOOL DISTRICT,081151,MESD EARLY CHILDHOOD CENTER,50.67%,,43.64%,Y,71,36
+nm,081000,MORIARTY-EDGEWOOD SCHOOL DISTRICT,081100,MORIARTY ELEMENTARY,63.51%,,48.39%,Y,369,234
+nm,081000,MORIARTY-EDGEWOOD SCHOOL DISTRICT,081101,MORIARTY HIGH,40.74%,,40.74%,Y,687,280
+nm,081000,MORIARTY-EDGEWOOD SCHOOL DISTRICT,081102,MORIARTY MIDDLE,51.84%,,43.64%,Y,240,124
+nm,081000,MORIARTY-EDGEWOOD SCHOOL DISTRICT,081001,ROUTE 66 ELEMENTARY,50.83%,,50.83%,Y,303,154
+nm,081000,MORIARTY-EDGEWOOD SCHOOL DISTRICT,081120,SOUTH MOUNTAIN ELEMENTARY,30.57%,,48.39%,Y,312,95
+nm,082000,MOUNTAINAIR PUBLIC SCHOOLS,082105,MOUNTAINAIR ELEMENTARY,57.73%,,60.21%,Y,100,58
+nm,082000,MOUNTAINAIR PUBLIC SCHOOLS,082107,MOUNTAINAIR HIGH,61.11%,,60.21%,Y,71,43
+nm,082000,MOUNTAINAIR PUBLIC SCHOOLS,082106,MOUNTAINAIR JR HIGH,45.10%,,60.21%,Y,51,23
+nm,619000,NA'NEELZHIIN JI OLTA,619019,NA'NEELZHIIN JI'OLTA,81.12%,,81.12%,Y,143,116
+nm,621000,NENAHNEZAD COMMUNITY SCHOOL,621021,NENAHNEZAD COMMUNITY SCHOOL,69.09%,,69.09%,Y,112,77
+nm,549000,NEW AMERICA SCHOOL - LAS CRUCES,549001,NEW AMERICA SCHOOL - LAS CRUCES,64.10%,,64.10%,Y,174,112
+nm,093000,NEW MEXICO SCHOOL FOR THE DEAF,093150,NM SCHOOL FOR THE DEAF,41.55%,,43.36%,Y,142,59
+nm,623000,OHKAY OWINGEH COMMUNITY SCHOOL,623023,OKHAY OWINGEH,42.55%,,42.55%,Y,88,37
+nm,622000,OJO ENCINO DAY SCHOOL,622022,OJO ENCINO DAY SCHOOL,85.42%,,85.42%,Y,129,110
+nm,070000,PECOS INDEPENDENT SCHOOLS,070173,PECOS ELEMENTARY,51.80%,,48.99%,Y,219,113
+nm,070000,PECOS INDEPENDENT SCHOOLS,070124,PECOS HIGH,43.27%,,48.99%,Y,177,77
+nm,070000,PECOS INDEPENDENT SCHOOLS,070150,PECOS MIDDLE,52.43%,,48.99%,Y,109,57
+nm,077000,PENASCO INDEPENDENT SCHOOLS,077121,PENASCO ELEMENTARY,54.55%,,49.37%,Y,189,103
+nm,077000,PENASCO INDEPENDENT SCHOOLS,077123,PENASCO HIGH,43.16%,,49.37%,Y,97,42
+nm,077000,PENASCO INDEPENDENT SCHOOLS,077128,PENASCO MIDDLE,46.38%,,49.37%,Y,44,20
+nm,624000,PINE HILLS RAMAH NAVAJO SCHOOL BOARD,624024,PINE HILL SCHOOL,71.98%,,71.98%,Y,330,238
+nm,057000,PORTALES MUNICIPAL SCHOOLS,057028,BROWN EARLY CHILDHOOD CENTER,53.06%,,52.31%,Y,333,177
+nm,057000,PORTALES MUNICIPAL SCHOOLS,057032,JAMES ELEMENTARY,50.56%,,52.31%,Y,350,177
+nm,057000,PORTALES MUNICIPAL SCHOOLS,057155,LINDSEY-STEINER ELEMENTARY,46.87%,,48.23%,Y,334,157
+nm,057000,PORTALES MUNICIPAL SCHOOLS,057124,PORTALES HIGH,41.75%,,41.75%,Y,828,346
+nm,057000,PORTALES MUNICIPAL SCHOOLS,057123,PORTALES JR HIGH,49.30%,,48.23%,Y,435,214
+nm,057000,PORTALES MUNICIPAL SCHOOLS,057160,VALENCIA ELEMENTARY,53.30%,,52.31%,Y,379,202
+nm,625000,PUEBLO PINTADO SCHOOL,625025,PUEBLO PINTADO COMMUNITY,66.34%,,66.34%,Y,108,72
+nm,079000,QUESTA INDEPENDENT SCHOOLS,079001,ALTA VISTA ELEMENTARY,54.46%,,44.52%,Y,97,53
+nm,079000,QUESTA INDEPENDENT SCHOOLS,079003,ALTA VISTA INTERMEDIATE,45.76%,,44.52%,Y,59,27
+nm,079000,QUESTA INDEPENDENT SCHOOLS,079129,QUESTA HIGH,35.23%,,44.52%,Y,88,31
+nm,079000,QUESTA INDEPENDENT SCHOOLS,079130,QUESTA JR HIGH,39.62%,,44.52%,Y,53,21
+nm,577000,RAICES DEL SABER XINACHTLI COMMUNITY SCHOOL,577001,RAICES DEL SABER XINACHTLI COMMUNITY,60.47%,,61.29%,Y,93,56
+nm,009000,RATON PUBLIC SCHOOLS,009080,LONGFELLOW ELEMENTARY,55.64%,,52.90%,Y,254,141
+nm,009000,RATON PUBLIC SCHOOLS,009136,RATON HIGH,45.73%,,52.90%,Y,363,166
+nm,009000,RATON PUBLIC SCHOOLS,009135,RATON INTERMEDIATE,55.02%,,52.90%,Y,226,124
+nm,539000,RED RIVER VALLEY CHARTER SCHOOL,539001,RED RIVER VALLEY CHARTER SCHOOL,48.65%,,50.56%,Y,71,35
+nm,083000,RIO RANCHO PUBLIC SCHOOLS,083050,COLINAS DEL NORTE ELEMENTARY,46.29%,,43.25%,Y,601,278
+nm,083000,RIO RANCHO PUBLIC SCHOOLS,083001,EAGLE RIDGE MIDDLE,38.94%,,43.25%,Y,865,337
+nm,083000,RIO RANCHO PUBLIC SCHOOLS,083013,INDEPENDENCE HIGH SCHOOL,45.59%,,43.25%,Y,210,96
+nm,083000,RIO RANCHO PUBLIC SCHOOLS,083012,MAGGIE CORDOVA ELEMENTARY SCHOOL,38.12%,,43.25%,Y,653,249
+nm,083000,RIO RANCHO PUBLIC SCHOOLS,083319,PUESTA DEL SOL ELEMENTARY,48.56%,,43.25%,Y,631,306
+nm,083000,RIO RANCHO PUBLIC SCHOOLS,083340,RIO RANCHO ELEMENTARY,45.95%,,43.25%,Y,520,239
+nm,004000,ROSWELL INDEPENDENT SCHOOLS,004024,BERRENDO ELEMENTARY,36.90%,,42.95%,Y,339,125
+nm,004000,ROSWELL INDEPENDENT SCHOOLS,004025,BERRENDO MIDDLE,37.79%,,53.71%,Y,700,265
+nm,004000,ROSWELL INDEPENDENT SCHOOLS,004041,DEL NORTE ELEMENTARY,53.36%,,53.71%,Y,481,257
+nm,004000,ROSWELL INDEPENDENT SCHOOLS,004133,EARLY COLLEGE HIGH SCHOOL (ROSWELL),25.32%,,42.95%,Y,163,41
+nm,004000,ROSWELL INDEPENDENT SCHOOLS,004044,EAST GRAND PLAINS ELEMENTARY,51.72%,,53.71%,Y,218,113
+nm,004000,ROSWELL INDEPENDENT SCHOOLS,004050,EL CAPITAN ELEMENTARY,60.10%,,53.71%,Y,389,234
+nm,004000,ROSWELL INDEPENDENT SCHOOLS,004130,GODDARD HIGH,33.67%,,42.95%,Y,1133,381
+nm,004000,ROSWELL INDEPENDENT SCHOOLS,004042,MESA MIDDLE,65.32%,,42.95%,Y,445,291
+nm,004000,ROSWELL INDEPENDENT SCHOOLS,004095,MILITARY HEIGHTS ELEMENTARY,42.93%,,53.71%,Y,369,158
+nm,004000,ROSWELL INDEPENDENT SCHOOLS,004100,MISSOURI AVE ELEMENTARY,64.10%,,53.71%,Y,311,199
+nm,004000,ROSWELL INDEPENDENT SCHOOLS,004105,MONTERREY ELEMENTARY,58.68%,,53.71%,Y,422,248
+nm,004000,ROSWELL INDEPENDENT SCHOOLS,004036,MOUNTAIN VIEW MIDDLE,52.79%,,53.71%,Y,522,276
+nm,004000,ROSWELL INDEPENDENT SCHOOLS,004052,NANCY LOPEZ ELEMENTARY,68.42%,,53.71%,Y,225,154
+nm,004000,ROSWELL INDEPENDENT SCHOOLS,004122,PARKVIEW EARLY LITERACY CENTER,66.07%,,53.71%,Y,250,165
+nm,004000,ROSWELL INDEPENDENT SCHOOLS,004126,PECOS ELEMENTARY,62.28%,,53.71%,Y,283,176
+nm,004000,ROSWELL INDEPENDENT SCHOOLS,004135,ROSWELL HIGH,44.43%,,42.95%,Y,1439,639
+nm,004000,ROSWELL INDEPENDENT SCHOOLS,004009,SIDNEY GUTIERREZ MIDDLE,12.82%,,53.71%,Y,196,25
+nm,004000,ROSWELL INDEPENDENT SCHOOLS,004125,SIERRA MIDDLE,53.44%,,53.71%,Y,657,351
+nm,004000,ROSWELL INDEPENDENT SCHOOLS,004120,SUNSET ELEMENTARY,65.38%,,53.71%,Y,257,168
+nm,004000,ROSWELL INDEPENDENT SCHOOLS,004132,UNIVERSITY HIGH,57.50%,,42.95%,Y,206,118
+nm,004000,ROSWELL INDEPENDENT SCHOOLS,004161,VALLEY VIEW ELEMENTARY,59.09%,,53.71%,Y,486,287
+nm,004000,ROSWELL INDEPENDENT SCHOOLS,004175,WASHINGTON AVE ELEMENTARY,58.17%,,53.71%,Y,363,211
+nm,036000,RUIDOSO MUNICIPAL SCHOOLS,036139,RUIDOSO HIGH,39.08%,,41.20%,Y,550,215
+nm,036000,RUIDOSO MUNICIPAL SCHOOLS,036130,RUIDOSO MIDDLE,47.90%,,50.00%,Y,434,208
+nm,036000,RUIDOSO MUNICIPAL SCHOOLS,036145,SIERRA VISTA PRIMARY,57.29%,,57.49%,Y,471,270
+nm,036000,RUIDOSO MUNICIPAL SCHOOLS,036160,WHITE MOUNTAIN ELEMENTARY,54.10%,,57.49%,Y,375,203
+nm,089141,SAINT ANTHONY ZUNI INDIAN SCHOOL,089141,SAINT ANTHONY ZUNI INDIAN SCHOOL (Local),15.91%,,45.71%,Y,136,22
+nm,054148,SAINT FRANCIS OF ASSISI-LUMBERTON,054148,SAINT FRANCIS SCHOOL (Local),25.86%,,51.43%,Y,55,14
+nm,088151,SAINT JOSEPH MISSION SCHOOL,088151,ST JOSEPH MISSION SCHOOL (Local),44.44%,,44.44%,Y,36,16
+nm,063004,SAN DIEGO RIVERSIDE SCHOOL,063004,SAN DIEGO RIVERSIDE (Local),69.09%,,69.09%,Y,53,37
+nm,626000,SAN FELIPE PUEBLO ELEMENTARY SCHOOL,626026,SAN FELIPE ELEMENTARY SCHOOL,69.92%,,69.92%,Y,261,182
+nm,627000,SAN ILDEFONSO DAY SCHOOL,627027,SAN ILDEFONSO DAY SCHOOL,45.16%,,70.00%,Y,31,14
+nm,052000,SAN JON MUNICIPAL SCHOOLS,052144,SAN JON ELEMENTARY,51.47%,,42.02%,Y,60,31
+nm,052000,SAN JON MUNICIPAL SCHOOLS,052145,SAN JON HIGH,25.00%,,42.02%,Y,20,5
+nm,052000,SAN JON MUNICIPAL SCHOOLS,052001,SAN JON MIDDLE SCHOOL,32.26%,,42.02%,Y,30,10
+nm,628000,SANOSTEE DAY SCHOOL,628028,SANOSTEE DAY SCHOOL,61.76%,,61.76%,Y,35,22
+nm,630000,SANTA FE INDIAN SCHOOL,630030,SANTA FE INDIAN SCHOOL,40.76%,,59.49%,Y,674,275
+nm,071000,SANTA FE PUBLIC SCHOOLS,071054,ASPEN COMMUNITY SCHOOL,56.93%,,50.79%,Y,347,198
+nm,071000,SANTA FE PUBLIC SCHOOLS,071005,CESAR CHAVEZ ELEMENTARY,59.17%,,50.79%,Y,355,210
+nm,071000,SANTA FE PUBLIC SCHOOLS,071146,CHAPARRAL ELEMENTARY,41.59%,,50.79%,Y,214,89
+nm,071000,SANTA FE PUBLIC SCHOOLS,071012,DESERT SAGE ACADEMY,53.36%,,50.79%,Y,336,179
+nm,071000,SANTA FE PUBLIC SCHOOLS,071099,E.J. MARTINEZ ELEMENTARY,45.64%,,50.79%,Y,201,92
+nm,071000,SANTA FE PUBLIC SCHOOLS,071166,EARLY COLLEGE OPPORTUNITIES,44.35%,,50.79%,Y,119,53
+nm,071000,SANTA FE PUBLIC SCHOOLS,071110,EDWARD ORTIZ MIDDLE,50.63%,,50.79%,Y,491,249
+nm,071000,SANTA FE PUBLIC SCHOOLS,071011,EL CAMINO REAL ACADEMY COMMUNITY (SFPS),49.87%,,50.79%,Y,748,373
+nm,071000,SANTA FE PUBLIC SCHOOLS,071145,FRANCIS X. NAVA ELEMENTARY,48.02%,,50.79%,Y,173,83
+nm,071000,SANTA FE PUBLIC SCHOOLS,071057,GONZALES ELEMENTARY,44.91%,,50.79%,Y,348,156
+nm,071000,SANTA FE PUBLIC SCHOOLS,071070,KEARNY ELEMENTARY,57.23%,,50.79%,Y,340,195
+nm,071000,SANTA FE PUBLIC SCHOOLS,071189,MILAGRO MIDDLE,50.12%,,50.79%,Y,418,210
+nm,071000,SANTA FE PUBLIC SCHOOLS,071170,NINA OTERO COMMUNITY SCHOOL,45.91%,,50.79%,Y,678,311
+nm,071000,SANTA FE PUBLIC SCHOOLS,071168,NYE EARLY CHILDHOOD,38.18%,,50.79%,Y,152,58
+nm,071000,SANTA FE PUBLIC SCHOOLS,071130,R.M. SWEENEY ELEMENTARY,53.35%,,50.79%,Y,307,164
+nm,071000,SANTA FE PUBLIC SCHOOLS,071023,RAMIREZ THOMAS ELEMENTARY,51.50%,,50.79%,Y,443,228
+nm,071000,SANTA FE PUBLIC SCHOOLS,071143,SALAZAR ELEMENTARY,65.70%,,50.79%,Y,207,136
+nm,071000,SANTA FE PUBLIC SCHOOLS,071160,TESUQUE ELEMENTARY,50.00%,,50.79%,Y,69,34
+nm,025000,SANTA ROSA CONSOLIDATED SCHOOLS,025020,ANTON CHICO MIDDLE,51.43%,,50.64%,Y,36,19
+nm,025000,SANTA ROSA CONSOLIDATED SCHOOLS,025015,RITA A. MARQUEZ ELEMENTARY,59.02%,,50.64%,Y,64,38
+nm,025000,SANTA ROSA CONSOLIDATED SCHOOLS,025144,SANTA ROSA ELEMENTARY,50.00%,,50.64%,Y,202,101
+nm,025000,SANTA ROSA CONSOLIDATED SCHOOLS,025146,SANTA ROSA HIGH,46.49%,,50.64%,Y,188,87
+nm,025000,SANTA ROSA CONSOLIDATED SCHOOLS,025150,SANTA ROSA MIDDLE,48.74%,,50.64%,Y,118,58
+nm,505000,SCHOOL OF DREAMS,505001,SCHOOL OF DREAMS ACADEMY,46.36%,,51.80%,Y,552,256
+nm,641000,SHIPROCK ASSOCIATED SCHOOLS INC,641041,SHIPROCK NORTHWEST HIGH SCHOOL,50.99%,,54.09%,Y,202,103
+nm,023000,SILVER CONSOLIDATED SCHOOLS,023037,CLIFF ELEMENTARY,39.84%,,51.72%,Y,125,50
+nm,023000,SILVER CONSOLIDATED SCHOOLS,023034,CLIFF HIGH,27.37%,,46.61%,Y,96,26
+nm,023000,SILVER CONSOLIDATED SCHOOLS,023123,G.W.STOUT ELEMENTARY,55.42%,,51.72%,Y,338,187
+nm,023000,SILVER CONSOLIDATED SCHOOLS,023157,HARRISON SCHMITT ELEMENTARY,56.94%,,51.72%,Y,354,202
+nm,023000,SILVER CONSOLIDATED SCHOOLS,023115,JOSE BARRIOS ELEMENTARY,47.89%,,51.72%,Y,205,98
+nm,023000,SILVER CONSOLIDATED SCHOOLS,023145,LA PLATA MIDDLE,48.16%,,51.72%,Y,346,167
+nm,023000,SILVER CONSOLIDATED SCHOOLS,023152,SILVER HIGH,41.91%,,41.91%,Y,631,264
+nm,023000,SILVER CONSOLIDATED SCHOOLS,023012,SILVER SCHOLARS ACADEMY,60.71%,,51.72%,Y,48,29
+nm,023000,SILVER CONSOLIDATED SCHOOLS,023155,SIXTH STREET ELEMENTARY,58.33%,,46.61%,Y,163,95
+nm,568000,SIX DIRECTIONS INDIGENOUS SCHOOL,568001,SIX DIRECTIONS INDIGENOUS SCHOOL,56.34%,,65.22%,Y,64,36
+nm,074000,SOCORRO CONSOLIDATED SCHOOLS,074003,COTTONWOOD VALLEY CHARTER,31.18%,,54.21%,Y,170,53
+nm,074000,SOCORRO CONSOLIDATED SCHOOLS,074079,MIDWAY ELEMENTARY,50.59%,,54.21%,Y,87,44
+nm,074000,SOCORRO CONSOLIDATED SCHOOLS,074001,PARKVIEW ELEMENTARY,66.67%,,54.21%,Y,359,239
+nm,074000,SOCORRO CONSOLIDATED SCHOOLS,074155,R. SARRACINO MIDDLE,59.30%,,54.21%,Y,271,161
+nm,074000,SOCORRO CONSOLIDATED SCHOOLS,074144,SAN ANTONIO ELEMENTARY,44.16%,,54.21%,Y,88,39
+nm,074000,SOCORRO CONSOLIDATED SCHOOLS,074160,SOCORRO HIGH,45.89%,,54.21%,Y,499,229
+nm,576000,SOLARE COLLEGIATE CHARTER SCHOOL,576001,SOLARE COLLEGIATE CHARTER SCHOOL,52.35%,,55.40%,Y,297,155
+nm,515000,SOUTH VALLEY PREPARATORY SCHOOL,515001,SOUTH VALLEY PREP,54.49%,,54.49%,Y,174,95
+nm,010000,SPRINGER MUNICIPAL SCHOOLS,010056,FORRESTER ELEMENTARY,50.00%,,83.75%,Y,30,15
+nm,010000,SPRINGER MUNICIPAL SCHOOLS,010150,SPRINGER HIGH,36.00%,,83.75%,Y,49,18
+nm,010000,SPRINGER MUNICIPAL SCHOOLS,010058,WILFERTH ELEMENTARY,34.21%,,83.75%,Y,38,13
+nm,632000,TAOS DAY SCHOOL,632032,TAOS DAY SCHOOL,60.23%,,60.23%,Y,90,54
+nm,521000,TAOS INTEGRATED SCHOOL FOR THE ARTS,521001,TAOS INTEGRATED SCHOOL OF ARTS,46.23%,,45.51%,Y,193,89
+nm,555000,TAOS INTERNATIONAL CHARTER SCHOOL,555001,TAOS INTERNATIONAL SCHOOL,55.43%,,61.39%,Y,186,103
+nm,076000,TAOS MUNICIPAL SCHOOLS,076004,ARROYO DEL NORTE ELEMENTARY,54.46%,,62.63%,Y,103,56
+nm,076000,TAOS MUNICIPAL SCHOOLS,076010,CHRYSALIS ALTERNATIVE,,,62.63%,Y,11,
+nm,076000,TAOS MUNICIPAL SCHOOLS,076175,ENOS GARCIA ELEMENTARY,62.66%,,62.63%,Y,390,244
+nm,076000,TAOS MUNICIPAL SCHOOLS,076133,RANCHOS DE TAOS ELEMENTARY,61.07%,,62.63%,Y,260,159
+nm,076000,TAOS MUNICIPAL SCHOOLS,076011,TAOS CYBER MAGNET,43.75%,,62.63%,Y,16,7
+nm,076000,TAOS MUNICIPAL SCHOOLS,076165,TAOS HIGH,37.55%,,43.27%,Y,736,276
+nm,076000,TAOS MUNICIPAL SCHOOLS,076164,TAOS MIDDLE,55.78%,,43.27%,Y,395,220
+nm,633000,TE TSU GEH OWEENGE DAY SCHOOL,633033,TE SE GEH OWEENGE,53.85%,,61.82%,Y,41,22
+nm,001708,THE NEW AMERICA SCHOOL,001708,NEW AMERICA SCHOOL (Local)(ABQ),49.73%,,49.73%,Y,210,104
+nm,518000,TIERRA ADENTRO,518001,TIERRA ADENTRO,32.19%,,42.50%,Y,221,71
+nm,636000,TO HAJIILEE COMMUNITY SCHOOL,636036,TO'HAJIILEE'HE COMMUNITY SCHOOL,74.02%,,74.02%,Y,280,207
+nm,635000,TOHAALI COMMUNITY SCHOOL,635035,TOHAALI COMMUNITY SCHOOL,77.78%,,77.78%,Y,90,70
+nm,073000,TRUTH OR CONSEQUENCES MUNICIPAL SCHOOLS,073016,ARREY ELEMENTARY,62.89%,,60.89%,Y,93,58
+nm,073000,TRUTH OR CONSEQUENCES MUNICIPAL SCHOOLS,073058,HOT SPRINGS HIGH,53.26%,,60.89%,Y,361,192
+nm,073000,TRUTH OR CONSEQUENCES MUNICIPAL SCHOOLS,073060,SIERRA ELEMENTARY,65.28%,,60.89%,Y,136,89
+nm,073000,TRUTH OR CONSEQUENCES MUNICIPAL SCHOOLS,073162,T OR C ELEMENTARY,65.87%,,60.89%,Y,366,241
+nm,073000,TRUTH OR CONSEQUENCES MUNICIPAL SCHOOLS,073063,T OR C MIDDLE,55.59%,,60.89%,Y,298,166
+nm,637000,TSE II AHI COMMUNITY SCHOOL,637037,TSE'II'AHI' COMMUNITY SCHOOL,56.34%,,56.34%,Y,71,40
+nm,638000,TSIYA DAY SCHOOL,638038,T'siya Day School,42.50%,,100.00%,Y,38,16
+nm,049000,TUCUMCARI PUBLIC SCHOOLS,049053,TUCUMCARI ELEMENTARY,66.74%,,61.58%,Y,439,293
+nm,049000,TUCUMCARI PUBLIC SCHOOLS,049164,TUCUMCARI HIGH,48.12%,,61.58%,Y,244,117
+nm,049000,TUCUMCARI PUBLIC SCHOOLS,049163,TUCUMCARI MIDDLE,66.18%,,61.58%,Y,208,138
+nm,047000,TULAROSA MUNICIPAL SCHOOLS,047163,TULAROSA ELEMENTARY,61.21%,,54.48%,Y,209,128
+nm,047000,TULAROSA MUNICIPAL SCHOOLS,047165,TULAROSA HIGH,43.70%,,54.48%,Y,226,99
+nm,047000,TULAROSA MUNICIPAL SCHOOLS,047160,TULAROSA INTERMEDIATE,58.37%,,54.48%,Y,240,140
+nm,047000,TULAROSA MUNICIPAL SCHOOLS,047164,TULAROSA MIDDLE,55.40%,,54.48%,Y,134,74
+nm,026000,VAUGHN MUNICIPAL SCHOOLS,026168,VAUGHN ELEMENTARY,71.88%,,69.64%,Y,34,24
+nm,026000,VAUGHN MUNICIPAL SCHOOLS,026169,VAUGHN HIGH,36.36%,,69.64%,Y,23,8
+nm,585000,VISTA GRANDE HIGH SCHOOL,585001,VISTA GRANDE HIGH SCHOOL (Local),59.52%,,62.11%,Y,84,50
+nm,045000,WAGON MOUND PUBLIC SCHOOLS,045172,WAGON MOUND ELEMENTARY,70.73%,,68.92%,Y,43,30
+nm,045000,WAGON MOUND PUBLIC SCHOOLS,045173,WAGON MOUND HIGH,59.46%,,68.92%,Y,37,22
+nm,552000,WALATOWA CHARTER HIGH,552001,WALATOWA CHARTER HIGH,60.98%,,47.83%,Y,39,24
+nm,068000,WEST LAS VEGAS PUBLIC SCHOOLS,068112,DON CECILIO MARTINEZ ELEMENTARY,66.32%,,60.65%,Y,195,129
+nm,068000,WEST LAS VEGAS PUBLIC SCHOOLS,068012,LUIS E. ARMIJO ELEMENTARY,65.37%,,60.65%,Y,205,134
+nm,068000,WEST LAS VEGAS PUBLIC SCHOOLS,068004,RIO GALLINAS SCHOOL,65.00%,,60.65%,Y,81,53
+nm,068000,WEST LAS VEGAS PUBLIC SCHOOLS,068125,TONY SERNA JR. ELEMENTARY,63.46%,,60.65%,Y,111,70
+nm,068000,WEST LAS VEGAS PUBLIC SCHOOLS,068157,UNION ELEMENTARY,62.82%,,60.65%,Y,77,48
+nm,068000,WEST LAS VEGAS PUBLIC SCHOOLS,068050,VALLEY ELEMENTARY,64.86%,,60.65%,Y,67,43
+nm,068000,WEST LAS VEGAS PUBLIC SCHOOLS,068068,VALLEY MIDDLE,50.00%,,60.65%,Y,20,10
+nm,068000,WEST LAS VEGAS PUBLIC SCHOOLS,068442,WEST LAS VEGAS HEAD START (Tony Serna Site),100.00%,,60.65%,Y,38,38
+nm,068000,WEST LAS VEGAS PUBLIC SCHOOLS,068173,WEST LAS VEGAS HIGH SCHOOL,49.61%,,60.65%,Y,421,209
+nm,068000,WEST LAS VEGAS PUBLIC SCHOOLS,068172,WEST LAS VEGAS MIDDLE SCHOOL,59.54%,,60.65%,Y,320,191
+nm,068000,WEST LAS VEGAS PUBLIC SCHOOLS,068003,WLV FAMILY PARTNERSHIP,65.52%,,60.65%,Y,33,22
+nm,001782,WILLIAM W AND JOSEPHINE DORN COMMUNITY SCHOOL,001782,WILLIAM W JOSEPHINE DORN CHARTER (Local),50.91%,,50.91%,Y,61,31
+nm,639000,WINGATE ELEMENTARY SCHOOL,639039,WINGATE ELEMENTARY,66.19%,,66.19%,Y,335,222
+nm,640000,WINGATE HIGH SCHOOL,640040,WINGATE HIGH SCHOOL,59.48%,,59.48%,Y,319,190
+nm,089000,ZUNI PUBLIC SCHOOLS,089166,SHIWI TS'ANA ELEMENTARY,65.58%,,62.82%,Y,486,319
+nm,089000,ZUNI PUBLIC SCHOOLS,089192,TWIN BUTTES CYBER ACADEMY,62.50%,,62.82%,Y,60,38
+nm,089000,ZUNI PUBLIC SCHOOLS,089190,ZUNI HIGH,57.63%,,62.82%,Y,337,194
+nm,089000,ZUNI PUBLIC SCHOOLS,089195,ZUNI MIDDLE,64.57%,,62.82%,Y,269,174
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001030,GORDON BERNELL CHARTER,47.43%,,,N,164,78
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001365,MARIE M HUGHES ELEMENTARY,42.78%,,,N,386,165
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001781,INTERNATIONAL SCHOOL AT MESA DEL SOL (Local),40.45%,,,N,317,128
+nm,001000,ALBUQUERQUE PUBLIC SCHOOLS,001321,A. MONTOYA ELEMENTARY,40.10%,,,N,416,167
+nm,030000,ANIMAS PUBLIC SCHOOLS,030016,ANIMAS ELEMENTARY,44.62%,,,N,61,27
+nm,022000,ARTESIA PUBLIC SCHOOLS,022139,ROSELAWN ELEMENTARY,59.90%,,,N,193,116
+nm,022000,ARTESIA PUBLIC SCHOOLS,022032,CENTRAL ELEMENTARY,50.75%,,,N,130,66
+nm,022000,ARTESIA PUBLIC SCHOOLS,022183,YUCCA ELEMENTARY,40.72%,,,N,350,143
+nm,020000,CARLSBAD MUNICIPAL SCHOOLS,020163,COTTONWOOD ELEMENTARY,54.13%,,,N,712,385
+nm,020000,CARLSBAD MUNICIPAL SCHOOLS,020047,EARLY CHILDHOOD EDUCATION CENTER,43.06%,,,N,476,205
+nm,020000,CARLSBAD MUNICIPAL SCHOOLS,020018,CARLSBAD SIXTH GRADE ACADEMY (ALTA VISTA CAMPUS),42.86%,,,N,453,194
+nm,008000,CIMARRON MUNICIPAL SCHOOLS,008033,CIMARRON ELEMENTARY,44.00%,,,N,56,25
+nm,084000,CLAYTON MUNICIPAL SCHOOLS,084038,CLAYTON JUNIOR HIGH,50.00%,,,N,54,27
+nm,084000,CLAYTON MUNICIPAL SCHOOLS,084037,ALVIS ELEMENTARY,49.65%,,,N,147,73
+nm,084000,CLAYTON MUNICIPAL SCHOOLS,084045,KISER ELEMENTARY,46.30%,,,N,57,26
+nm,065000,FARMINGTON MUNICIPAL SCHOOLS,065058,HERMOSA MIDDLE SCHOOL,42.86%,,,N,666,285
+nm,065000,FARMINGTON MUNICIPAL SCHOOLS,065053,FARMINGTON HIGH,40.33%,,,N,1740,702
+nm,059000,FLOYD MUNICIPAL SCHOOLS,059053,FLOYD ELEMENTARY,54.08%,,,N,95,51
+nm,059000,FLOYD MUNICIPAL SCHOOLS,059001,FLOYD MIDDLE,49.37%,,,N,80,39
+nm,050000,HOUSE MUNICIPAL SCHOOLS,050059,HOUSE ELEMENTARY,44.83%,,,N,36,16
+nm,051000,LOGAN MUNICIPAL SCHOOLS,051082,LOGAN MIDDLE,45.76%,,,N,58,27
+nm,031000,LOVINGTON MUNICIPAL SCHOOLS,031181,YARBRO ELEMENTARY,47.74%,,,N,449,214
+nm,031000,LOVINGTON MUNICIPAL SCHOOLS,031004,NEW HOPE ALTERNATIVE HIGH,45.71%,,,N,138,63
+nm,031000,LOVINGTON MUNICIPAL SCHOOLS,031123,BEN ALEXANDER ELEMENTARY,45.05%,,,N,223,100
+nm,031000,LOVINGTON MUNICIPAL SCHOOLS,031076,LEA ELEMENTARY,44.76%,,,N,251,112
+nm,031000,LOVINGTON MUNICIPAL SCHOOLS,031078,LLANO ELEMENTARY,44.12%,,,N,324,143
+nm,031000,LOVINGTON MUNICIPAL SCHOOLS,031068,JEFFERSON ELEMENTARY,41.67%,,,N,238,99
+nm,504000,NORTH VALLEY ACADEMY,504001,NORTH VALLEY ACADEMY,40.52%,,,N,439,178
+nm,072000,POJOAQUE VALLEY PUBLIC SCHOOLS,072123,PABLO ROYBAL ELEMENTARY,44.14%,,,N,441,195
+nm,072000,POJOAQUE VALLEY PUBLIC SCHOOLS,072125,POJOAQUE MIDDLE,43.75%,,,N,319,140
+nm,003000,QUEMADO INDEPENDENT SCHOOLS,003129,QUEMADO ELEMENTARY,43.06%,,,N,71,31
+nm,003000,QUEMADO INDEPENDENT SCHOOLS,003130,QUEMADO HIGH,42.42%,,,N,73,31
+nm,002000,RESERVE PUBLIC SCHOOLS,002135,RESERVE ELEMENTARY,43.10%,,,N,62,27
+nm,071000,SANTA FE PUBLIC SCHOOLS,071020,CAPITAL HIGH,41.63%,,,N,1454,605

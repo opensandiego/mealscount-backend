@@ -1,257 +1,269 @@
-state,District Code,District Name,School Code,School Name,individual_isp,proxy_isp,participating_in_cep,claiming_isp,total_enrolled,total_eligible
-de,9605,Academia Antonia Alonso -  9605000000,4045,Academia Antonia Alonso,56.42%,,56.42%,Y,592,334
-de,85,Academy of Dover - 958500000,0584,Academy of Dover,66.04%,,66.04%,Y,268,177
-de,29,Appoquinimink -9529000190,0010,Silver  Lake Elementary School ,35.63%,,,N,609,217
-de,29,Appoquinimink -9529000190,0011,Cedar Lane Elementary School ,13.36%,,,N,,
-de,29,Appoquinimink -9529000190,0013,Appoquinimink Preschool,30.23%,,,N,344,104
-de,29,Appoquinimink -9529000190,0014,Townsend Elementary School ,22.10%,,,N,,
-de,29,Appoquinimink -9529000190,0016,Louis L. Redding Middle School ,28.21%,,,N,,
-de,29,Appoquinimink -9529000190,0017,Everett Meredith Middle School ,24.87%,,,N,,
-de,29,Appoquinimink -9529000190,0018,Middletown High School ,19.00%,,,N,,
-de,29,Appoquinimink -9529000190,0020,Olive B. Loss Elementary School,10.42%,,,N,,
-de,29,Appoquinimink -9529000190,0021,Brick Mill Elementary School ,36.28%,,,N,419,152
-de,29,Appoquinimink -9529000190,0022,Cedar Lane Early Childhood Center,13.21%,,,N,,
-de,29,Appoquinimink -9529000190,0023,Alfred G. Waters Middle School,12.17%,,,N,,
-de,29,Appoquinimink -9529000190,0024,Appoquinimink High School,18.26%,,,N,,
-de,29,Appoquinimink -9529000190,0027,Townsend Early Childhood Center,26.53%,,,N,,
-de,29,Appoquinimink -9529000190,0029,Bunker Hill Elementary,24.67%,,,N,,
-de,29,Appoquinimink -9529000190,11692,Old State Elementary School,14.67%,,,N,,
-de,29,Appoquinimink -9529000190,11693,Spring Meadow Early Childhood Center,22.96%,,,N,,
-de,29,Appoquinimink -9529000190,20192900,Lorewood Grove Elementary School,18.71%,,,N,,
-de,31,Brandywine - 9531000170,0190,Brandywine High School,43.89%,,49.79%,Y,720,316
-de,31,Brandywine - 9531000170,0112,Carcroft Elementary,47.71%,,49.79%,Y,503,240
-de,31,Brandywine - 9531000170,0510,Charles W. Bush School,100.00%,,49.79%,Y,349,349
-de,31,Brandywine - 9531000170,0151,Claymont Elementary,46.59%,,49.79%,Y,865,403
-de,31,Brandywine - 9531000170,0194,Concord High School ,24.13%,,,N,,
-de,31,Brandywine - 9531000170,0156,David Harlan Elementary,70.41%,,49.79%,Y,338,238
-de,31,Brandywine - 9531000170,1062229,ECAP Brandywine,100.00%,,49.79%,Y,53,53
-de,31,Brandywine - 9531000170,0124,Forwood Elementary,27.67%,,,N,,
-de,31,Brandywine - 9531000170,0110,Hanby Elementary,25.95%,,,N,,
-de,31,Brandywine - 9531000170,0128,Lancashire Elementary,24.76%,,,N,,
-de,31,Brandywine - 9531000170,0130,Lombardy Elementary,32.47%,,,N,502,163
-de,31,Brandywine - 9531000170,0132,Maple Lane Elementary,46.77%,,49.79%,Y,449,210
-de,31,Brandywine - 9531000170,0176,Mount Pleasant Elementary,45.84%,,,N,733,336
-de,31,Brandywine - 9531000170,0196,Mount Pleasant High School,34.37%,,49.79%,Y,733,252
-de,31,Brandywine - 9531000170,1700,Pierre S. duPont Middle School,41.66%,,49.79%,Y,905,377
-de,31,Brandywine - 9531000170,0178,Springer Middle School ,31.27%,,,N,873,273
-de,31,Brandywine - 9531000170,0180,Talley Middle School,40.40%,,49.79%,Y,797,322
-de,10,Caesar Rodney - 9510000040,0610,Allen Frear Elementary School ,27.97%,,,N,,
-de,10,Caesar Rodney - 9510000040,0611,J. Ralph McIlvaine Early Childhood Center ,37.64%,,,N,526,198
-de,10,Caesar Rodney - 9510000040,0612,Major George S. Welch Elementary School ,6.23%,,,N,,
-de,10,Caesar Rodney - 9510000040,0615,Kent Elementary Intensive Learning Center ,46.51%,,,N,43,20
-de,10,Caesar Rodney - 9510000040,0616,Nellie Hughes Stokes Elementary School ,39.51%,,,N,486,192
-de,10,Caesar Rodney - 9510000040,0618,Star Hill Elementary School ,29.77%,,,N,,
-de,10,Caesar Rodney - 9510000040,0620,W.B. Simpson Elementary School ,30.68%,,,N,616,189
-de,10,Caesar Rodney - 9510000040,0621,F. Niel Postlehwait Middle School ,26.00%,,,N,,
-de,10,Caesar Rodney - 9510000040,0622,W. Reily Brown Elementary School ,41.87%,,,N,621,260
-de,10,Caesar Rodney - 9510000040,0625,Fred Fifer Middle School ,35.67%,,,N,914,326
-de,10,Caesar Rodney - 9510000040,0626,Caesar Rodney High School ,24.42%,,,N,,
-de,10,Caesar Rodney - 9510000040,0628,Dover Air Force Base Middle School ,4.85%,,,N,,
-de,10,Caesar Rodney - 9510000040,0630,John S. Charlton School ,23.72%,,,N,,
-de,74,Campus Community Charter School-9574000000,0573,Campus Community Charter School ,45.86%,,,N,423,194
-de,17,Cape Henlopen - 9517000020,0710,H.O. Brittingham Elementary School ,33.84%,,,N,461,156
-de,17,Cape Henlopen - 9517000020,0712,Richard A. Shields Elementary School ,26.09%,,,N,,
-de,17,Cape Henlopen - 9517000020,0718,Love Creek Elementary,23.48%,,,N,,
-de,17,Cape Henlopen - 9517000020,0720,Mariner Middle School ,30.11%,,,N,651,196
-de,17,Cape Henlopen - 9517000020,0721,Milton Elementary School ,35.70%,,,N,437,156
-de,17,Cape Henlopen - 9517000020,0722,Rehoboth Elementary School ,34.03%,,,N,529,180
-de,17,Cape Henlopen - 9517000020,0724,Beacon Middle School ,24.59%,,,N,,
-de,17,Cape Henlopen - 9517000020,0725,Lewes School,20.38%,,,N,,
-de,17,Cape Henlopen - 9517000020,0726,Cape Henlopen High School,21.81%,,,N,,
-de,13,Capital - 9513000020,0636,Booker T. Washington Elementary,65.23%,,59.82%,Y,394,257
-de,13,Capital - 9513000020,0644,Central Middle,56.70%,,59.82%,Y,1007,571
-de,13,Capital - 9513000020,0648,Dover High,47.17%,,59.82%,Y,1872,883
-de,13,Capital - 9513000020,0632,East Dover Elementary,66.45%,,59.82%,Y,462,307
-de,13,Capital - 9513000020,0638,Fairview Elementary,73.97%,,59.82%,Y,292,216
-de,13,Capital - 9513000020,0640,Hartly Elementary,44.08%,,59.82%,Y,338,149
-de,13,Capital - 9513000020,0650,Kent County Community School,59.55%,,59.82%,Y,89,53
-de,13,Capital - 9513000020,0655,Kent Secondary Intensive Learning Center,95.33%,,59.82%,Y,107,102
-de,13,Capital - 9513000020,0635,North Dover Elementary,65.08%,,59.82%,Y,378,246
-de,13,Capital - 9513000020,01234,Parkway Central Academy,96.34%,,96.34%,Y,82,79
-de,13,Capital - 9513000020,0634,South Dover Elementary,66.21%,,59.82%,Y,583,386
-de,13,Capital - 9513000020,0642,Towne Point Elementary,77.99%,,59.82%,Y,318,248
-de,13,Capital - 9513000020,0646,William Henry Middle,67.29%,,59.82%,Y,1012,681
-de,80,Charter School of New Castle- 9580000000,0579,Charter School of New Castle,49.33%,,49.33%,Y,748,369
-de,33,Christina - 9533000040,0314,Albert H. Jones Elementary,43.94%,,57.90%,Y,418,184
-de,33,Christina - 9533000040,0350,Bancroft Elementary,80.41%,,57.90%,Y,616,495
-de,33,Christina - 9533000040,0352,Bayard Middle,76.30%,,57.90%,Y,609,465
-de,33,Christina - 9533000040,0310,Brookside Elementary,47.71%,,57.90%,Y,361,172
-de,33,Christina - 9533000040,0390,Christiana High,27.98%,,,N,,
-de,33,Christina - 9533000040,11516,Christina Early Ed Center,15.21%,,57.90%,Y,201,31
-de,33,Christina - 9533000040,0538,Delaware Autism Program ,18.02%,,,N,,
-de,33,Christina - 9533000040,0540,Delaware School for the Deaf (DSD),28.69%,,,N,,
-de,33,Christina - 9533000040,0537,Douglas Alternative,73.33%,,57.90%,Y,169,124
-de,33,Christina - 9533000040,0334,Etta J. Wilson Elementary,33.96%,,57.90%,Y,396,134
-de,33,Christina - 9533000040,0372,Gauger Cobbs Middle,38.96%,,57.90%,Y,1068,416
-de,33,Christina - 9533000040,0374,George V. Kirk Middle,35.85%,,,N,781,280
-de,33,Christina - 9533000040,0392,Glasgow High,39.36%,,,N,846,333
-de,33,Christina - 9533000040,0339,Henry M. Brader Elementary,42.54%,,,N,449,191
-de,33,Christina - 9533000040,0330,Jennie E. Smith Elementary,38.68%,,,N,486,188
-de,33,Christina - 9533000040,0318,John R. Downes Elementary,35.56%,,,N,478,170
-de,33,Christina - 9533000040,0326,Joseph M. McVey Elementary,43.42%,,57.90%,Y,404,175
-de,33,Christina - 9533000040,0322,May B. Leasure Elementary,46.15%,,57.90%,Y,507,234
-de,33,Christina - 9533000040,0512,NETWORKS,25.86%,,,N,,
-de,33,Christina - 9533000040,0394,Newark High School ,38.22%,,,N,1146,438
-de,33,Christina - 9533000040,0327,Oberle Elementary,45.91%,,57.90%,Y,726,333
-de,33,Christina - 9533000040,1710446514,Parkway Academy North,62.00%,,62.00%,Y,100,62
-de,33,Christina - 9533000040,0324,R. Elisabeth Maclary Elementary,34.57%,,57.90%,Y,397,137
-de,33,Christina - 9533000040,0320,Robert S. Gallaher Elementary,34.76%,,,N,515,179
-de,33,Christina - 9533000040,0354,Sarah Pyle Academy,38.61%,,,N,158,61
-de,33,Christina - 9533000040,0376,Shue-Medill Middle,34.16%,,,N,925,316
-de,33,Christina - 9533000040,0362,Stubbs Elementary,71.91%,,57.90%,Y,553,398
-de,33,Christina - 9533000040,0312,Thurgood Marshall Elementary,17.02%,,,N,,
-de,33,Christina - 9533000040,0332,West Park Place Elementary,28.78%,,,N,,
-de,33,Christina - 9533000040,0321,William B. Keene Elementary,37.87%,,,N,536,203
-de,34,Colonial - 9534000030,0476,Calvin R. McCullough Middle,55.00%,,43.75%,Y,780,429
-de,34,Colonial - 9534000030,0410,Carrie Downie Elementary,53.90%,,53.90%,Y,397,214
-de,34,Colonial - 9534000030,0412,Castle Hills Elementary,51.26%,,51.26%,Y,636,326
-de,34,Colonial - 9534000030,0450a,Colwyck Elementary School,100.00%,,100.00%,Y,156,156
-de,34,Colonial - 9534000030,0474,George Read Middle,41.08%,,41.08%,Y,779,320
-de,34,Colonial - 9534000030,0470,Gunning Bedford Middle,29.72%,,41.04%,Y,1080,321
-de,34,Colonial - 9534000030,0456,Harry O. Eisenberg Elementary,66.39%,,41.04%,Y,482,320
-de,34,Colonial - 9534000030,11524,John G. Leach,41.88%,,43.75%,Y,117,49
-de,34,Colonial - 9534000030,0422,Kathleen H. Wilbur Elementary,36.71%,,43.75%,Y,1215,446
-de,34,Colonial - 9534000030,0432,New Castle Elementary,55.63%,,55.63%,Y,586,326
-de,34,Colonial - 9534000030,0418,Pleasantville Elementary,46.15%,,46.15%,Y,429,198
-de,34,Colonial - 9534000030,20193400,Positive Change,63.64%,,63.64%,Y,22,14
-de,34,Colonial - 9534000030,0427,Southern Elementary,39.56%,,43.40%,Y,867,343
-de,34,Colonial - 9534000030,0472,The Wallin School,51.08%,,40.92%,Y,139,71
-de,34,Colonial - 9534000030,0490,William Penn High,40.24%,,40.92%,Y,2070,833
-de,34,Colonial - 9534000030,0420,Wilmington Manor Elementary,54.22%,,43.40%,Y,308,167
-de,33411,Community Education Building PS #5 LLC-0000218582,082,Kuumba Academy Charter School,66.21%,,63.16%,Y,701,464
-de,33411,Community Education Building PS #5 LLC-0000218582,20193341,Freire Charter School,48.67%,,51.94%,Y,310,151
-de,33411,Community Education Building PS #5 LLC-0000218582,4075,Great Oaks Charter School,71.15%,,63.16%,Y,431,307
-de,19,DAPI - 0000024778,08021,"DAPI, NCC",85.71%,,69.77%,Y,14,12
-de,19,DAPI - 0000024778,08022,"DAPI, KENT",69.23%,,69.77%,Y,13,9
-de,19,DAPI - 0000024778,08023,"DAPI, SUSSEX",56.25%,,69.77%,Y,16,9
-de,37,Delmar - 9537000020,0730,Delmar High School,19.73%,,,N,,
-de,909,Department of Correction-3804200000,9910,Howard R. Young Correctional Institution,0.00%,,,N,,
-de,909,Department of Correction-3804200000,9912,Morris Community Correctional Center,0.00%,,,N,,
-de,909,Department of Correction-3804200000,9920,Baylor Women's Correctional Institution,0.00%,,,N,,
-de,909,Department of Correction-3804200000,9922,Plummer Center,0.00%,,,N,,
-de,909,Department of Correction-3804200000,9947,Sussex Correctional Institute,0.00%,,,N,,
-de,909,Department of Correction-3804200000,9948,Sussex Release and Violation Center,0.00%,,,N,,
-de,909,Department of Correction-3804200000,9977,James T. Vaughn Correctional Center,0.00%,,,N,,
-de,909,Department of Correction-3804200000,9979,Central Violations of Probation,0.00%,,,N,,
-de,908,Division of Youth Rehabilitative Services--3705500000,0959,Ferris School for Boys,0.00%,,,N,,
-de,908,Division of Youth Rehabilitative Services--3705500000,0961,Stevenson House,0.00%,,,N,,
-de,908,Division of Youth Rehabilitative Services--3705500000,0963,New Castle County Detention Center,0.00%,,,N,,
-de,908,Division of Youth Rehabilitative Services--3705500000,0965,Snowden Cottage,0.00%,,,N,,
-de,908,Division of Youth Rehabilitative Services--3705500000,0967,Grace Cottage,0.00%,,,N,,
-de,908,Division of Youth Rehabilitative Services--3705500000,0969,MOWLDS Cottage,0.00%,,,N,,
-de,9604,Early College High School at DSU--9604000000,4040,Early College High School at Delaware State University,32.32%,,,N,396,128
-de,72,East Side Charter   9572000000,0571,East Side Charter,84.98%,,84.98%,Y,426,362
-de,903,Elizabeth W. Murphey School - 0000024328,0450,Bradford Cottage,0.00%,,,N,,
-de,903,Elizabeth W. Murphey School - 0000024328,0460,Florence Cottage,0.00%,,,N,,
-de,903,Elizabeth W. Murphey School - 0000024328,0471,Sanford Cottage,0.00%,,,N,,
-de,903,Elizabeth W. Murphey School - 0000024328,0480,Elizabeth Cottage,0.00%,,,N,,
-de,9607,First State Military Academy-9607000100,4055,First State Military Academy,21.43%,,,N,,
-de,9606,First State Montessori Academy--9606000000,4050,First State Montessori Academy,13.52%,,,N,,
-de,9612,Freire Charter School--9640000000,4080,Freire Charter School,0.00%,,,N,,
-de,5642,Harvest Christian Academy-0000034518,20204518,Harvest - New Castle  K-12,2.56%,,,N,,
-de,5642,Harvest Christian Academy-0000034518,5642,Harvest Christian Academy,32.00%,,,N,25,8
-de,36,Indian River - 9536000020,0689,G.W. Carver Education Center,26.25%,,,N,,
-de,36,Indian River - 9536000020,0690,Long Neck Elementary School ,42.74%,,,N,702,300
-de,36,Indian River - 9536000020,0692,North Georgetown Elementary School ,30.52%,,,N,924,282
-de,36,Indian River - 9536000020,0732,Clayton Elementary,36.25%,,,N,560,203
-de,36,Indian River - 9536000020,0736,Lord Baltimore Elementary School ,18.95%,,,N,,
-de,36,Indian River - 9536000020,0738,East Millsboro Elementary School ,29.61%,,,N,,
-de,36,Indian River - 9536000020,0740,Phillip C. Showell Elementary School ,32.06%,,,N,315,101
-de,36,Indian River - 9536000020,0741S,Millsboro Middle School,31.37%,,,N,765,240
-de,36,Indian River - 9536000020,0742,Selbyville Middle School ,24.54%,,,N,,
-de,36,Indian River - 9536000020,0743,Georgetown Middle School,34.65%,,,N,1905,660
-de,36,Indian River - 9536000020,0746,Indian River High School ,18.63%,,,N,,
-de,36,Indian River - 9536000020,0748,Sussex Central Senior High School ,25.62%,,,N,,
-de,36,Indian River - 9536000020,0749,Southern Delaware School of the Arts ,13.73%,,,N,,
-de,36,Indian River - 9536000020,0750,Howard T. Ennis School ,28.28%,,,N,,
-de,12,Kingswood Academy--0000024327,501,Kingswood Academy,71.23%,,71.23%,Y,73,52
-de,15,Lake Forest - 9515000130,0669,Lake Forest Central Elementary,45.05%,,42.71%,Y,657,296
-de,15,Lake Forest - 9515000130,0658,Lake Forest East Elementary,45.72%,,42.71%,Y,304,139
-de,15,Lake Forest - 9515000130,0665,Lake Forest High School,36.47%,,42.71%,Y,883,322
-de,15,Lake Forest - 9515000130,0660,Lake Forest North Elementary,38.88%,,42.71%,Y,499,194
-de,15,Lake Forest - 9515000130,0662,Lake Forest South Elementary,54.24%,,42.71%,Y,448,243
-de,15,Lake Forest - 9515000130,0664,W.T. Chipman,42.48%,,42.71%,Y,911,387
-de,69,Las Americas ASPIRA Academy - 9569000000,568,Las Americas ASPIRA Academy,26.62%,,,N,,
-de,16,Laurel - 9516000030,0752,North Laurel Elementary,55.87%,,52.27%,Y,247,138
-de,16,Laurel - 9516000030,0754,Laurel Middle,50.31%,,52.27%,Y,636,320
-de,16,Laurel - 9516000030,07560,Laurel High,45.05%,,52.27%,Y,586,264
-de,16,Laurel - 9516000030,160783,Laurel Elementary,56.52%,,52.27%,Y,1081,611
-de,18,Milford - 9518000090,0668,Benjamin Banneker Elementary,51.55%,,47.48%,Y,549,283
-de,18,Milford - 9518000090,0670,Evelyn I. Morris Early Childhood School,49.33%,,47.48%,Y,448,221
-de,18,Milford - 9518000090,0672,Lulu M. Ross Elementary,47.50%,,47.48%,Y,659,313
-de,18,Milford - 9518000090,10072,Milford Academy,48.34%,,47.48%,Y,993,480
-de,18,Milford - 9518000090,0678,Milford High,40.22%,,47.48%,Y,1114,448
-de,18,Milford - 9518000090,11435,Mispillion Elementary,54.83%,,47.48%,Y,569,312
-de,88,MOT Charter School - 9588000000,0587,MOT Charter School ,2.62%,,,N,,
-de,88,MOT Charter School - 9588000000,0587a,MOT Charter High School,9.35%,,,N,,
-de,38,New Castle County VoTech - 9538000100,0026,Howard High School of Technology ,44.61%,,,N,825,368
-de,38,New Castle County VoTech - 9538000100,0044,St. Georges Technical High School,12.35%,,,N,,
-de,38,New Castle County VoTech - 9538000100,0066,Paul M. Hodgson Votech High School ,27.21%,,,N,,
-de,38,New Castle County VoTech - 9538000100,0080,Delcastle Technical High School,26.81%,,,N,,
-de,89,Newark Charter School - 0000028713,1062235,Newark Charter Jr./Sr. High School,6.32%,,,N,,
-de,89,Newark Charter School - 0000028713,588,Newark Charter School,10.99%,,,N,,
-de,86,Odyssey Charter School - 0000006329,1143315,Odyssey Charter - K-2 Elementary School,16.76%,,,N,,
-de,86,Odyssey Charter School - 0000006329,1710446350,Odyssey Charter High School,26.08%,,,N,,
-de,86,Odyssey Charter School - 0000006329,585,Odyssey Charter School - Middle School,21.38%,,,N,,
-de,39,Polytech - 9539000030,0652,Polytech High School ,19.02%,,,N,,
-de,71,Positive Outcomes - 9571000000,570,Positive Outcomes Charter School,39.50%,,,N,119,47
-de,87,Providence Creek Academy - 9587000000,9982,Providence Creek Academy,18.25%,,,N,,
-de,32,Red Clay Consolidated - 9532000020,0292,Alexis I. duPont High,42.34%,,52.95%,Y,803,340
-de,32,Red Clay Consolidated - 9532000020,0274,Alexis I. duPont Middle,53.85%,,52.95%,Y,464,250
-de,32,Red Clay Consolidated - 9532000020,0264,Anna P. Mote Elementary,55.97%,,52.95%,Y,427,239
-de,32,Red Clay Consolidated - 9532000020,0252,Austin D. Baltz Elementary,55.56%,,52.95%,Y,540,300
-de,32,Red Clay Consolidated - 9532000020,0261,Brandywine Springs School,16.21%,,,N,,
-de,32,Red Clay Consolidated - 9532000020,0286,Cab Calloway School of the Arts ,10.81%,,,N,,
-de,32,Red Clay Consolidated - 9532000020,20193200,Central School,100.00%,,52.95%,Y,129,129
-de,32,Red Clay Consolidated - 9532000020,0295,Charter School of Wilmington,4.46%,,,N,,
-de,32,Red Clay Consolidated - 9532000020,0284,Conrad Schools of Science,16.14%,,,N,,
-de,32,Red Clay Consolidated - 9532000020,0248,Evan G. Shortlidge Academy,82.85%,,52.95%,Y,344,285
-de,32,Red Clay Consolidated - 9532000020,0240,Forest Oak Elementary,42.38%,,52.95%,Y,538,228
-de,32,Red Clay Consolidated - 9532000020,90210,Gateway Lab,46.51%,,45.93%,Y,172,80
-de,32,Red Clay Consolidated - 9532000020,0276,H.B. duPont Middle,27.12%,,52.95%,Y,776,210
-de,32,Red Clay Consolidated - 9532000020,0242,Heritage Elementary,19.52%,,,N,,
-de,32,Red Clay Consolidated - 9532000020,0244,Highlands Elementary,74.27%,,52.95%,Y,307,228
-de,32,Red Clay Consolidated - 9532000020,0290,John Dickinson High,36.48%,,52.95%,Y,921,336
-de,32,Red Clay Consolidated - 9532000020,0250,Linden Hill Elementary,12.36%,,,N,,
-de,32,Red Clay Consolidated - 9532000020,0256,Marbrook Elementary,42.64%,,52.95%,Y,469,200
-de,32,Red Clay Consolidated - 9532000020,0516,Meadowood Program,29.17%,,52.95%,Y,48,14
-de,32,Red Clay Consolidated - 9532000020,0270,North Star Elementary,4.42%,,,N,,
-de,32,Red Clay Consolidated - 9532000020,0254,Richardson Park Elementary,58.41%,,52.95%,Y,690,403
-de,32,Red Clay Consolidated - 9532000020,0260,Richey Elementary,43.57%,,52.95%,Y,381,166
-de,32,Red Clay Consolidated - 9532000020,0280,Skyline Middle,55.28%,,52.95%,Y,625,346
-de,32,Red Clay Consolidated - 9532000020,0282,Stanton Middle,54.21%,,52.95%,Y,724,392
-de,32,Red Clay Consolidated - 9532000020,575,Thomas Edison Charter,78.74%,,52.95%,Y,715,563
-de,32,Red Clay Consolidated - 9532000020,0294,Thomas McKean High,43.59%,,52.95%,Y,998,435
-de,32,Red Clay Consolidated - 9532000020,1710446690,Urban Promise School,1.54%,,,N,65,1
-de,32,Red Clay Consolidated - 9532000020,0266,Warner Elementary,79.32%,,52.95%,Y,498,395
-de,32,Red Clay Consolidated - 9532000020,1710446162,William F. Cooke Elementary,15.35%,,,N,,
-de,32,Red Clay Consolidated - 9532000020,0246,William Lewis Elementary,75.12%,,52.95%,Y,434,326
-de,23,Seaford  -  9523000070,0759,Seaford Central Elementary,51.13%,,53.43%,Y,442,226
-de,23,Seaford  -  9523000070,0761,Blades Elementary,62.05%,,53.43%,Y,448,278
-de,23,Seaford  -  9523000070,0762,Frederick Douglass Elementary,64.69%,,53.43%,Y,490,317
-de,23,Seaford  -  9523000070,0764,Seaford Middle,52.20%,,53.43%,Y,818,427
-de,23,Seaford  -  9523000070,0766,Seaford High,43.77%,,53.43%,Y,843,369
-de,23,Seaford  -  9523000070,1062238,ECAP Seaford,100.00%,,53.43%,Y,40,40
-de,23,Seaford  -  9523000070,1710446307,West Seaford Elementary,50.74%,,53.43%,Y,406,206
-de,919,Silver Lake Treatment Consortium--3704400000,0495,Middletown Residential Treatment Center,0.00%,,,N,,
-de,919,Silver Lake Treatment Consortium--3704400000,0497,Odessa House Residential Treatment Center,0.00%,,,N,,
-de,919,Silver Lake Treatment Consortium--3704400000,9987,Silver Lake Treatment Center,0.00%,,,N,,
-de,24,Smyrna - 9524000040,0680,Clayton Elementary School ,27.42%,,,N,,
-de,24,Smyrna - 9524000040,0681,Smyrna Sunnyside Elementary,28.47%,,,N,,
-de,24,Smyrna - 9524000040,0682,Smyrna Elementary School ,32.62%,,,N,420,137
-de,24,Smyrna - 9524000040,0684,North Smyrna Elementary,42.07%,,42.07%,Y,416,175
-de,24,Smyrna - 9524000040,0685,Smyrna Middle School ,26.10%,,,N,,
-de,24,Smyrna - 9524000040,0686,John Bassett Moore Intermediate School,32.48%,,,N,702,228
-de,24,Smyrna - 9524000040,0688,Smyrna High School ,22.10%,,,N,,
-de,24,Smyrna - 9524000040,11696,Clayton Intermediate School,24.12%,,,N,,
-de,77,Sussex Academy of Arts & Sciences - 9577000000,0576,Sussex Academy of Arts & Sciences Charter School ,8.13%,,,N,,
-de,40,Sussex Technical - 9540000030,0770,Sussex Technicial High School ,20.77%,,,N,,
-de,7031,Tarbiyah Islamic School of Delaware  - 0000327041,5729,Tarbiyah School,46.94%,,59.59%,Y,146,69
-de,910,Terry Children's Psychiatric Center-3704400000,0101,Terry Children's Psychiatric Center,0.00%,,,N,,
-de,33360,The Islamic Academy of Delaware - 0000109581,11590,ISLAMIC ACADEMY OF DELAWARE,6.25%,,,N,,
-de,35,Woodbridge - 9535000070,0779,Phillis Wheatley Elementary,49.75%,,50.37%,Y,611,304
-de,35,Woodbridge - 9535000070,0780,Woodbridge High,45.09%,,50.37%,Y,692,312
-de,35,Woodbridge - 9535000070,0781,S.C.O.P.E. North,70.45%,,50.37%,Y,44,31
-de,35,Woodbridge - 9535000070,0782,S.C.O.P.E. South,52.78%,,50.37%,Y,36,19
-de,35,Woodbridge - 9535000070,7750,Woodbridge Middle,51.13%,,50.37%,Y,618,316
-de,35,Woodbridge - 9535000070,7760,Woodbridge Early Childhood Education Center,54.11%,,50.37%,Y,693,375
+state,District Code,District Name,School Code,School Name,individual_isp,proxy_isp,claiming_isp,participating_in_cep,total_enrolled,total_eligible
+de,13,Capital SD,0636,Booker T. Washington,62.37%,,50.19%,Y,388,242
+de,13,Capital SD,0644,Central Middle,50.05%,,50.19%,Y,1015,508
+de,29,Appoquinimin,0010,Silver  Lake Elementary School ,11.60%,,,N,,
+de,29,Appoquinimin,0011,Cedar Lane Elementary School ,3.93%,,,N,,
+de,29,Appoquinimin,0013,Appoquinimink Preschool,7.31%,,,N,,
+de,29,Appoquinimin,0014,Townsend Elementary School ,8.06%,,,N,,
+de,29,Appoquinimin,0016,Louis L. Redding Middle School ,12.87%,,,N,,
+de,29,Appoquinimin,0017,Everett Meredith Middle School ,10.20%,,,N,,
+de,29,Appoquinimin,0018,Middletown High School ,6.48%,,,N,,
+de,29,Appoquinimin,0020,Olive B. Loss Elementary School,4.51%,,,N,,
+de,29,Appoquinimin,0021,Brick Mill Elementary School ,9.73%,,,N,,
+de,29,Appoquinimin,0022,Cedar Lane Early Childhood Center,2.82%,,,N,,
+de,29,Appoquinimin,0023,Alfred G. Waters Middle School,4.15%,,,N,,
+de,29,Appoquinimin,0024,Appoquinimink High School,5.51%,,,N,,
+de,29,Appoquinimin,0027,Townsend Early Childhood Center,8.74%,,,N,,
+de,29,Appoquinimin,0029,Bunker Hill Elementary,7.87%,,,N,,
+de,29,Appoquinimin,11692,Old State Elementary School,7.68%,,,N,,
+de,29,Appoquinimin,11693,Spring Meadow Early Childhood Center,5.37%,,,N,,
+de,29,Appoquinimin,20192900,Lorewood Grove Elementary School,8.04%,,,N,,
+de,29,Appoquinimin,20202901,Odessa High School,6.98%,,,N,,
+de,29,Appoquinimin,20212901,Brick Mill Early Childhood Center,12.57%,,,N,,
+de,29,Appoquinimin,20212902,Cantwell's Bridge Middle School,8.06%,,,N,,
+de,31,Brandywine SD,0190,Brandywine High School ,31.47%,,,N,1001,315
+de,31,Brandywine SD,0112,Carcroft Elementary,41.45%,,40.59%,Y,457,189
+de,31,Brandywine SD,0510,Charles W. Bush School ,22.73%,,,N,264,60
+de,31,Brandywine SD,0151,Claymont Elementary,35.36%,,40.59%,Y,868,307
+de,31,Brandywine SD,0194,Concord High,22.72%,,,N,,
+de,31,Brandywine SD,0156,David Harlan Elementary,70.80%,,40.59%,Y,358,253
+de,31,Brandywine SD,1062229,ECAP Brandywine,66.67%,,,N,72,48
+de,31,Brandywine SD,0124,Forwood Elementary,26.63%,,,N,,
+de,31,Brandywine SD,0110,Hanby Elementary,27.27%,,,N,,
+de,31,Brandywine SD,0128,Lancashire Elementary,24.13%,,,N,,
+de,31,Brandywine SD,0130,Lombardy Elementary,30.34%,,,N,445,135
+de,31,Brandywine SD,0132,Maple Lane Elementary,40.82%,,40.59%,Y,388,158
+de,31,Brandywine SD,0176,Mount Pleasant Elementary,35.47%,,40.59%,Y,728,258
+de,31,Brandywine SD,0196,Mount Pleasant High,32.36%,,,N,1162,376
+de,31,Brandywine SD,1700,Pierre S. duPont Middle School,43.91%,,40.59%,Y,926,407
+de,31,Brandywine SD,0178,Springer Middle,27.35%,,,N,,
+de,31,Brandywine SD,0180,Talley Middle,33.92%,,,N,849,288
+de,10,Caesar Rodney SD,0610,Allen Frear Elementary School ,25.62%,,,N,,
+de,10,Caesar Rodney SD,0611,J. Ralph McIlvaine Early Childhood Center ,36.65%,,,N,543,199
+de,10,Caesar Rodney SD,0612,Major George S. Welch Elementary School ,2.93%,,,N,,
+de,13,Capital SD,0648,Dover High,40.41%,,50.19%,Y,1866,754
+de,10,Caesar Rodney SD,0616,Nellie Hughes Stokes Elementary School ,40.85%,,,N,377,154
+de,13,Capital SD,0632,East Dover Elementary,56.82%,,50.19%,Y,447,254
+de,10,Caesar Rodney SD,0620,W.B. Simpson Elementary School ,36.14%,,,N,581,210
+de,10,Caesar Rodney SD,0621,F. Niel Postlehwait Middle School ,34.71%,,,N,628,218
+de,10,Caesar Rodney SD,0622,W. Reily Brown Elementary School ,42.26%,,,N,594,251
+de,10,Caesar Rodney SD,0625,Fred Fifer Middle School ,36.08%,,,N,765,276
+de,10,Caesar Rodney SD,0626,Caesar Rodney High School ,25.77%,,,N,,
+de,10,Caesar Rodney SD,0628,Dover Air Force Base Middle School ,4.71%,,,N,,
+de,10,Caesar Rodney SD,0630,John S. Charlton School ,32.95%,,,N,258,85
+de,10,Caesar Rodney SD,2021001001,Magnolia Middle School,25.67%,,,N,,
+de,10,Caesar Rodney SD,2021001002,David E. Robinson Elementary School,32.57%,,,N,482,157
+de,caesar-rodney-sd,Caesar Rodney SD,,Positive Outcomes Charter School,0.00%,,44.44%,Y,108,0
+de,74,Campus Community Charter Scho,0573,Campus Community Charter School ,67.44%,,,N,390,263
+de,17,Cape Henlopen,0710,H.O. Brittingham Elementary School ,27.68%,,,N,,
+de,17,Cape Henlopen,0712,Lewes Elementary School,22.63%,,,N,,
+de,17,Cape Henlopen,0718,Love Creek Elementary,24.33%,,,N,,
+de,17,Cape Henlopen,0720,Mariner Middle School ,28.53%,,,N,,
+de,17,Cape Henlopen,0721,Milton Elementary School ,23.73%,,,N,,
+de,17,Cape Henlopen,0722,Rehoboth Elementary School ,23.64%,,,N,,
+de,17,Cape Henlopen,0724,Beacon Middle School ,21.70%,,,N,,
+de,17,Cape Henlopen,0725,Sussex Consortium,19.48%,,,N,,
+de,17,Cape Henlopen,0726,Cape Henlopen High School,19.17%,,,N,,
+de,13,Capital SD,0638,Fairview Elementary,57.04%,,50.19%,Y,291,166
+de,13,Capital SD,0640,Hartly Elementary,33.93%,,50.19%,Y,336,114
+de,13,Capital SD,0650,Kent County Community,47.67%,,50.19%,Y,86,41
+de,13,Capital SD,0655,Kent ILC,70.41%,,50.19%,Y,98,69
+de,13,Capital SD,0635,North Dover Elementary,50.00%,,50.19%,Y,374,187
+de,13,Capital SD,0634,South Dover Elementary,54.45%,,50.19%,Y,584,318
+de,13,Capital SD,0642,Towne Point Elementary,68.85%,,50.19%,Y,321,221
+de,13,Capital SD,0646,William Henry Middle,54.14%,,50.19%,Y,1014,549
+de,10,Caesar Rodney SD,0618,Star Hill Elementary School ,50.78%,,,N,193,98
+de,13,Capital SD,01234,Parkway Central Academy,47.73%,,47.73%,Y,44,21
+de,85,Academy of Dover,0584,Academy of Dover,51.98%,,51.98%,Y,354,184
+de,32,Red Clay,0292,Alexis I. duPont High,42.34%,,52.95%,Y,803,340
+de,32,Red Clay,0274,Alexis I. duPont Middle,54.31%,,52.95%,Y,464,252
+de,80,Charter School of New Castle,0579,Charter School of New Castle,49.33%,,49.33%,Y,748,369
+de,33,Christina SD,0314,Albert H. Jones Elementary,38.74%,,40.08%,Y,302,117
+de,33,Christina SD,0350,Bancroft Elementary,76.08%,,40.08%,Y,554,421
+de,33,Christina SD,0352,Bayard Middle School,70.80%,,40.08%,Y,524,371
+de,33,Christina SD,0310,Brookside Elementary,43.77%,,40.08%,Y,309,135
+de,33,Christina SD,0358,Cashmir Pulaski Elementary,0.00%,,40.08%,Y,0,0
+de,33,Christina SD,0390,Christiana High School,26.28%,,40.08%,Y,1174,309
+de,33,Christina SD,11516,Christina Early Education Center,63.06%,,40.08%,Y,157,99
+de,33,Christina SD,0538,Delaware Autism Program,20.54%,,40.08%,Y,124,25
+de,33,Christina SD,0540,Delaware School for the Deaf,33.09%,,40.08%,Y,135,45
+de,33,Christina SD,0537,Douglas Alternative,67.67%,,40.08%,Y,149,101
+de,33,Christina SD,0334,Etta J. Wilson Elementary,32.19%,,40.08%,Y,294,95
+de,33,Christina SD,0372,Gauger-Cobbs Middle School,36.06%,,40.08%,Y,831,300
+de,33,Christina SD,0374,George V. Kirk Middle School,31.88%,,40.08%,Y,702,224
+de,33,Christina SD,0392,Glasgow High School,35.75%,,40.08%,Y,823,294
+de,33,Christina SD,0339,Henry M. Brader Elementary,38.83%,,40.08%,Y,391,152
+de,33,Christina SD,0330,Jennie E. Smith Elementary,36.25%,,40.08%,Y,497,180
+de,33,Christina SD,0318,John R. Downes Elementary,30.67%,,40.08%,Y,455,140
+de,33,Christina SD,0326,Joseph M. McVey Elementary,44.56%,,40.08%,Y,383,171
+de,33,Christina SD,0322,May B. Leasure Elementary,38.75%,,40.08%,Y,371,144
+de,33,Christina SD,0512,NETWORKS,0.00%,,40.08%,Y,0,0
+de,33,Christina SD,0394,Newark High School,34.81%,,40.08%,Y,1070,372
+de,33,Christina SD,0327,Oberle Elementary,38.39%,,40.08%,Y,563,216
+de,33,Christina SD,1710446514,Parkway North,0.00%,,62.00%,Y,100,0
+de,33,Christina SD,0324,R. Elisabeth Maclary Elementary,33.44%,,40.08%,Y,302,101
+de,33,Christina SD,0320,Robert S. Gallaher Elementary,38.20%,,40.08%,Y,460,176
+de,33,Christina SD,0354,Sarah Pyle Academy,28.78%,,40.08%,Y,124,36
+de,33,Christina SD,0376,Shue-Medill Middle School,40.79%,,40.08%,Y,907,370
+de,33,Christina SD,0362,Stubbs Elementary,74.19%,,40.08%,Y,210,156
+de,33,Christina SD,0312,Thurgood Marshall Elementary,18.64%,,40.08%,Y,578,108
+de,33,Christina SD,0332,West Park Place Elementary,22.47%,,40.08%,Y,381,86
+de,33,Christina SD,0321,William B. Keene Elementary,37.18%,,40.08%,Y,505,188
+de,34,Colonial SD,0410,Carrie Downie Elementary,47.49%,,40.39%,Y,344,163
+de,34,Colonial SD,0412,Castle Hills Elementary,47.92%,,40.39%,Y,474,227
+de,34,Colonial SD,0418,Pleasantville Elementary,38.19%,,40.39%,Y,415,158
+de,34,Colonial SD,0420,Wilmington Manor Elementary,44.84%,,40.39%,Y,467,209
+de,34,Colonial SD,0422,Kathleen H. Wilbur Elementary,31.61%,,40.39%,Y,1077,340
+de,34,Colonial SD,0427,Southern Elementary,34.10%,,40.39%,Y,735,251
+de,34,Colonial SD,0432,New Castle Elementary,48.12%,,40.39%,Y,424,204
+de,34,Colonial SD,0450a,Colwyck Elementary,43.59%,,40.39%,Y,190,83
+de,34,Colonial SD,0456,Harry O. Eisenberg Elementary,63.74%,,40.39%,Y,420,268
+de,34,Colonial SD,0470,Gunning Bedford Middle,31.32%,,40.39%,Y,1145,359
+de,34,Colonial SD,0472,The Wallin School,0.00%,,,N,,
+de,34,Colonial SD,0474,George Read Middle,37.54%,,40.39%,Y,682,256
+de,34,Colonial SD,0476,Calvin R. McCullough Middle,50.94%,,40.39%,Y,669,341
+de,34,Colonial SD,0490,William Penn High,30.56%,,31.06%,Y,2270,694
+de,34,Colonial SD,11524,John G. Leach,26.19%,,40.39%,Y,84,22
+de,32,Red Clay,0264,Anna P. Mote Elementary,55.97%,,52.95%,Y,427,239
+de,33411,Community Education Building,2021858201,First State Montessori,10.94%,,,N,,
+de,32,Red Clay,0252,Austin D. Baltz,55.74%,,52.95%,Y,540,301
+de,32,Red Clay,20193200,Central School,100.00%,,52.95%,Y,129,129
+de,32,Red Clay,0248,Evan G. Shortlidge,77.62%,,52.95%,Y,344,267
+de,32,Red Clay,0240,Forest Oak Elementary,41.08%,,52.95%,Y,538,221
+de,32,Red Clay,0276,H.B. duPont Middle,26.55%,,52.95%,Y,776,206
+de,19,"DE Adolescent Program, Inc.",08021,DAPI NCC,64.29%,,47.92%,Y,14,9
+de,19,"DE Adolescent Program, Inc.",08022,DAPI KENT,46.67%,,47.92%,Y,15,7
+de,19,"DE Adolescent Program, Inc.",08023,DAPI SUSSEX,36.84%,,47.92%,Y,19,7
+de,37,Delmar,0730,Delmar High School,15.83%,,,N,,
+de,909,Department of Correcti,9910,Howard R. Young Correctional Institution,0.00%,,,N,,
+de,909,Department of Correcti,9920,Baylor Women's Correctional Institution,0.00%,,,N,,
+de,909,Department of Correcti,9922,Plummer Center,0.00%,,,N,,
+de,909,Department of Correcti,9947,Sussex Correctional Institute,0.00%,,,N,,
+de,909,Department of Correcti,9948,Sussex Release and Violation Center,0.00%,,,N,,
+de,909,Department of Correcti,9977,James T. Vaughn Correctional Center,0.00%,,,N,,
+de,909,Department of Correcti,9979,Community Corrections Treatment Center,0.00%,,,N,,
+de,908,Division of Youth Rehabilitative Service,0959,Ferris School for Boys,0.00%,,,N,,
+de,908,Division of Youth Rehabilitative Service,0961,Stevenson House,0.00%,,,N,,
+de,908,Division of Youth Rehabilitative Service,0963,New Castle County Detention Center,0.00%,,,N,,
+de,908,Division of Youth Rehabilitative Service,0965,Snowden Cottage,0.00%,,,N,,
+de,908,Division of Youth Rehabilitative Service,0967,Grace Cottage,0.00%,,,N,,
+de,908,Division of Youth Rehabilitative Service,0969,MOWLDS Cottage,0.00%,,,N,,
+de,9604,Early College High School at DS,4040,Early College High School at Delaware State University,28.54%,,,N,,
+de,72,East Side Charter,0571,East Side Charter,79.01%,,79.01%,Y,424,335
+de,9607,First State Military Acade,4055,First State Military Academy,17.39%,,,N,,
+de,9606,First State Montessori Academ,4050,First State Montessori Academy,0.00%,,,N,,
+de,5642,Harvest Christian Acade,20204518,Harvest - New Castle  K-12,32.97%,,,N,91,30
+de,5642,Harvest Christian Acade,5642,Harvest Christian Academy - Wilmington,0.00%,,,N,,
+de,36,Indian River,0689,G.W. Carver Education Center,46.15%,,,N,208,96
+de,36,Indian River,0690,Long Neck Elementary School ,36.61%,,,N,702,257
+de,36,Indian River,0692,North Georgetown Elementary School ,28.82%,,,N,,
+de,36,Indian River,0732,Clayton Elementary,32.33%,,,N,498,161
+de,36,Indian River,0734,Georgetown Elementary School ,35.76%,,,N,864,309
+de,36,Indian River,0736,Lord Baltimore Elementary School,16.40%,,,N,,
+de,36,Indian River,0738,East Millsboro Elementary School ,28.42%,,,N,,
+de,36,Indian River,0740,Phillip C. Showell Elementary School ,33.56%,,,N,289,97
+de,36,Indian River,0741,Millsboro Middle School,33.55%,,,N,778,261
+de,36,Indian River,0742,Selbyville Middle School ,27.15%,,,N,,
+de,36,Indian River,0743,Georgetown Middle School,34.53%,,,N,918,317
+de,36,Indian River,0746,Indian River High School ,17.22%,,,N,,
+de,36,Indian River,0748,Sussex Central Senior High School ,35.47%,,,N,1982,703
+de,36,Indian River,0749,Southern Delaware School of the Arts ,10.55%,,,N,,
+de,36,Indian River,0750,Howard T. Ennis School ,49.34%,,,N,229,113
+de,15,Lake Forest SD,0669,Lake Forest Central,45.05%,,42.71%,Y,657,296
+de,15,Lake Forest SD,0658,Lake Forest East Elementary,45.72%,,42.71%,Y,304,139
+de,15,Lake Forest SD,0665,Lake Forest High School,36.47%,,42.71%,Y,883,322
+de,15,Lake Forest SD,0660,Lake Forest North Elementary,38.88%,,42.71%,Y,499,194
+de,15,Lake Forest SD,0662,Lake Forest South Elementary,54.24%,,42.71%,Y,448,243
+de,15,Lake Forest SD,0664,W.T. Chipman,42.48%,,42.71%,Y,911,387
+de,69,Las Americas ASPIRA Academy,2020006902,Las Americas ASPIRA High School,20.22%,,,N,,
+de,69,Las Americas ASPIRA Academy,568,Las Americas ASPIRA Academy SNP,24.07%,,,N,,
+de,16,Laurel SD,0752,North Laurel Elementary,48.31%,,44.59%,Y,236,114
+de,16,Laurel SD,0754,Laurel Middle,42.41%,,44.59%,Y,698,296
+de,16,Laurel SD,07560,Laurel High,41.61%,,44.59%,Y,721,300
+de,16,Laurel SD,160783,Laurel Elementary,47.56%,,44.59%,Y,944,449
+de,18,Milford SD,0668,Benjamin Banneker,51.55%,,47.48%,Y,549,283
+de,18,Milford SD,0670,Evelyn I. Morris,49.33%,,47.48%,Y,448,221
+de,18,Milford SD,0672,Lulu M. Ross,47.50%,,47.48%,Y,659,313
+de,18,Milford SD,10072,Milford Academy,48.34%,,47.48%,Y,993,480
+de,18,Milford SD,0678,Milford High,40.22%,,47.48%,Y,1114,448
+de,18,Milford SD,11435,Mispillion Elementary,54.83%,,47.48%,Y,569,312
+de,88,MOT Charter School,0587,MOT Charter K-8 Academy,3.28%,,,N,,
+de,88,MOT Charter School,0587a,MOT Charter High School,10.94%,,,N,,
+de,38,New Castle County VoTech,0026,Howard High School of Technology ,43.82%,,,N,842,369
+de,38,New Castle County VoTech,0044,St. Georges Technical High School,13.10%,,,N,,
+de,38,New Castle County VoTech,0066,Paul M. Hodgson Votech High School ,25.35%,,,N,,
+de,38,New Castle County VoTech,0080,Delcastle Technical High School,27.72%,,,N,,
+de,89,Newark Charter School,1062235,Newark Charter High School,4.03%,,,N,,
+de,89,Newark Charter School,588,Newark Charter Primary and Intermediate School,8.13%,,,N,,
+de,86,Odyssey Charter School,1143315,Odyssey Charter - K-2 Elementary School,13.18%,,,N,,
+de,86,Odyssey Charter School,1710446350,Odyssey Charter High School,14.95%,,,N,,
+de,86,Odyssey Charter School,2020008604,Odyssey Charter - 3-5 Elementary School,10.82%,,,N,,
+de,86,Odyssey Charter School,585,Odyssey Charter School - Middle School,13.86%,,,N,,
+de,39,Polytech,0652,Polytech High School ,15.71%,,,N,,
+de,71,Positive Outcomes,570,Positive Outcomes Charter School,44.44%,,,N,108,48
+de,87,Providence Creek Academy,9982,Providence Creek Academy,17.97%,,,N,,
+de,32,Red Clay,0290,John Dickinson High,35.61%,,52.95%,Y,921,328
+de,32,Red Clay,0256,Marbrook Elementary,42.64%,,52.95%,Y,469,200
+de,32,Red Clay,0516,Meadowood Program,39.58%,,52.95%,Y,48,19
+de,32,Red Clay,0254,Richardson Park,60.72%,,52.95%,Y,690,419
+de,32,Red Clay,0261,Brandywine Springs School,13.76%,,,N,,
+de,32,Red Clay,0286,Cab Calloway School of the Arts ,8.92%,,,N,,
+de,32,Red Clay,0260,Richey Elementary,41.73%,,52.95%,Y,381,159
+de,32,Red Clay,0295,Charter School of Wilmington,5.16%,,,N,,
+de,32,Red Clay,0284,Conrad Schools of Science,15.17%,,,N,,
+de,32,Red Clay,0280,Skyline Middle,54.24%,,52.95%,Y,625,339
+de,32,Red Clay,0282,Stanton Middle,50.97%,,52.95%,Y,724,369
+de,32,Red Clay,90210,Gateway Lab,45.93%,,45.93%,Y,172,79
+de,32,Red Clay,575,Thomas Edison Charter,76.64%,,52.95%,Y,715,548
+de,32,Red Clay,0242,Heritage Elementary School ,16.70%,,,N,,
+de,32,Red Clay,0244,Highlands Elementary School ,72.96%,,,N,307,224
+de,32,Red Clay,0294,Thomas McKean High,42.59%,,52.95%,Y,998,425
+de,32,Red Clay,0250,Linden Hill Elementary School ,14.90%,,,N,,
+de,32,Red Clay,0266,Warner Elementary,85.94%,,52.95%,Y,498,428
+de,32,Red Clay,0246,William Lewis Elementary,74.19%,,52.95%,Y,434,322
+de,32,Red Clay,0270,North Star Elementary School,4.83%,,,N,,
+de,red-clay,Red Clay,Unknown-0,Joseph E. Johnson Elementary,0.00%,,52.95%,Y,307,0
+de,33411,Community Education Building,20193341,Freire Charter School,44.07%,,54.41%,Y,506,223
+de,33411,Community Education Building,4075,Great Oaks Charter School,56.99%,,54.41%,Y,286,163
+de,33411,Community Education Building,20213341101,High Roads School,16.13%,,54.41%,Y,31,5
+de,33411,Community Education Building,082,Kuumba Academy Charter School,63.59%,,54.41%,Y,618,393
+de,9605,Academia Antonia Alonso,4045,Academia Antonia Alonso,56.25%,,56.25%,Y,592,333
+de,32,Red Clay,1710446690,Urban Promise School,0.00%,,,N,,
+de,10,Caesar Rodney SD,0615,Kent Elementary Intensive Learning Center ,56.41%,,,N,39,22
+de,32,Red Clay,1710446162,William F. Cooke Elementary,12.19%,,,N,,
+de,34,Colonial SD,20193400,Positive Change,56.48%,,,N,108,61
+de,community-education-building,Community Education Building,Unknown-1,Positive Change Academy,0.00%,,56.48%,Y,108,0
+de,23,Seaford SD,0761,Blades Elementary,56.12%,,47.54%,Y,417,234
+de,23,Seaford SD,0762,Frederick Douglass Elementary,54.55%,,47.54%,Y,429,234
+de,23,Seaford SD,0759,Central Elementary,51.03%,,47.54%,Y,389,199
+de,23,Seaford SD,0766,Seaford High,49.23%,,47.54%,Y,833,410
+de,23,Seaford SD,0764,Seaford Middle,53.14%,,47.54%,Y,859,456
+de,23,Seaford SD,1710446307,West Seaford Elementary,60.87%,,47.54%,Y,413,251
+de,919,Silver Lake Treatment Consortiu,0495,Middletown Residential Treatment Center,0.00%,,,N,,
+de,919,Silver Lake Treatment Consortiu,0497,Odessa House Residential Treatment Center,0.00%,,,N,,
+de,919,Silver Lake Treatment Consortiu,9987,Silver Lake Treatment Center,0.00%,,,N,,
+de,24,Smyrna SD,0680,Clayton Elementary School ,21.10%,,,N,,
+de,24,Smyrna SD,11696,Clayton Intermediate School,20.57%,,,N,,
+de,24,Smyrna SD,0686,John Bassett Moore Intermediate School,28.34%,,,N,,
+de,24,Smyrna SD,0684,North Smyrna Elementary,42.07%,,42.07%,Y,416,175
+de,24,Smyrna SD,0682,Smyrna Elementary School ,27.62%,,,N,,
+de,24,Smyrna SD,0688,Smyrna High School ,22.20%,,,N,,
+de,24,Smyrna SD,0685,Smyrna Middle School ,23.07%,,,N,,
+de,24,Smyrna SD,0681,Smyrna Sunnyside Elementary,25.58%,,,N,,
+de,smyrna-sd,Smyrna SD,Unknown-2,Phillis Wheatley Elementary,0.00%,,46.90%,Y,601,0
+de,smyrna-sd,Smyrna SD,Unknown-3,S.C.O.P.E. North,0.00%,,40.26%,Y,30,0
+de,smyrna-sd,Smyrna SD,Unknown-4,S.C.O.P.E. South,0.00%,,46.90%,Y,6,0
+de,smyrna-sd,Smyrna SD,Unknown-5,Woodbridge ECEC,0.00%,,46.90%,Y,668,0
+de,smyrna-sd,Smyrna SD,Unknown-6,Woodbridge High,0.00%,,40.26%,Y,674,0
+de,smyrna-sd,Smyrna SD,Unknown-7,Woodbridge Middle,0.00%,,40.26%,Y,610,0
+de,33472,Sussex Montessori School,20203347,Sussex Montessori School,33.64%,,,N,330,111
+de,40,Sussex Technical,0770,Sussex Technicial High School ,19.73%,,,N,,
+de,7031,Tarbiyah School ,5729,Tarbiyah School,59.59%,,,N,146,87
+de,910,Terry Children's Psychiatric Cent,0101,Terry Children's Psychiatric Center,0.00%,,,N,,
+de,33360,The Islamic Academy of Delaware,11590,ISLAMIC ACADEMY OF DELAWARE,19.08%,,,N,,
+de,35,Woodbridge,0779,Phillis Wheatley Elementary School,45.42%,,,N,601,273
+de,35,Woodbridge,0780,Woodbridge Senior High School ,37.98%,,,N,674,256
+de,35,Woodbridge,0781,S.C.O.P.E. North,73.33%,,,N,30,22
+de,35,Woodbridge,0782,S.C.O.P.E. South,16.67%,,,N,6,1
+de,35,Woodbridge,7750,Woodbridge Middle School,41.15%,,,N,610,251
+de,35,Woodbridge,7760,Woodbridge Early Childhood Education Center,48.50%,,,N,668,324

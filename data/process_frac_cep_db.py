@@ -8,8 +8,8 @@ COL_MAP = [
     "School Name",
     "individual_isp",
     "proxy_isp",
-    "participating_in_cep",
     "claiming_isp",
+    "participating_in_cep",
     "total_enrolled",
 ]
 
@@ -62,12 +62,13 @@ def write_schools(rows):
             school_codes = {} # We need to ensure this is unique!
             district_codes = {}
             for school in states[state]:
-                if school['School Code'] in school_codes:
-                    i = school_codes[school['School Code']]
-                    school_codes[school['School Code']] = i + 1
-                    school['School Code'] = '%s-%i' % (school['School Code'],i)
+                code = school['School Code'] or "Unknown"
+                if code in school_codes:
+                    i = school_codes[code]
+                    school_codes[code] = i + 1
+                    school['School Code'] = '%s-%i' % (code,i)
                 else:
-                    school_codes.setdefault(school['School Code'],0)
+                    school_codes.setdefault(code,0)
 
                 # Also we have to ensure all district names / code pairs are unique
                 # (there are duplicate codes for different names in the source file from frac)

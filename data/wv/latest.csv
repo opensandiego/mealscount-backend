@@ -1,654 +1,604 @@
-state,District Code,District Name,School Code,School Name,individual_isp,proxy_isp,participating_in_cep,claiming_isp,total_enrolled,total_eligible
-wv,50740,Barbour County Schools,2201,Belington Elementary,49.19%,,48.69%,Y,309,152
-wv,50740,Barbour County Schools,2302,Belington Middle School,44.44%,,48.69%,Y,279,124
-wv,50740,Barbour County Schools,2202,Junior Elementary,62.73%,,48.69%,Y,110,69
-wv,50740,Barbour County Schools,2101,Kasson Elementary/Middle School,40.66%,,48.69%,Y,182,74
-wv,50740,Barbour County Schools,2873,Philip Barbour High School Complex,40.86%,,48.69%,Y,629,257
-wv,50740,Barbour County Schools,2204,Philippi Elementary School,59.67%,,48.69%,Y,424,253
-wv,50740,Barbour County Schools,2303,Philippi Middle School,52.55%,,48.69%,Y,314,165
-wv,50741,Berkeley County Schools,4201,Back Creek Valley Elementary School,43.40%,,54.49%,Y,159,69
-wv,50741,Berkeley County Schools,4202,Bedington Elementary School,46.24%,,54.49%,Y,186,86
-wv,50741,Berkeley County Schools,4203,Berkeley Heights Elementary School,65.55%,,54.49%,Y,746,489
-wv,50741,Berkeley County Schools,4204,Bunker Hill Elementary School,42.27%,,54.49%,Y,414,175
-wv,50741,Berkeley County Schools,4205,Burke Street Elementary School,59.05%,,54.49%,Y,337,199
-wv,50741,Berkeley County Schools,4218,Eagle School Intermediate,61.69%,,54.49%,Y,723,446
-wv,50741,Berkeley County Schools,4206,Gerrardstown Elementary School,49.21%,,54.49%,Y,254,125
-wv,50741,Berkeley County Schools,502,Hedgesville Elementary School,43.14%,,,N,656,283
-wv,50741,Berkeley County Schools,303,Hedgesville High School,34.52%,,,N,1237,427
-wv,50741,Berkeley County Schools,302,Hedgesville Middle School,36.22%,,,N,762,276
-wv,50741,Berkeley County Schools,220,Inwood Primary School,35.58%,,,N,163,58
-wv,50741,Berkeley County Schools,210,Marlowe Elementary School,39.02%,,,N,305,119
-wv,50741,Berkeley County Schools,4502,Martinsburg High School,50.25%,,54.49%,Y,1385,696
-wv,50741,Berkeley County Schools,4302,Martinsburg North Middle School,60.86%,,54.49%,Y,700,426
-wv,50741,Berkeley County Schools,4303,Martinsburg South Middle School,55.84%,,54.49%,Y,856,478
-wv,50741,Berkeley County Schools,214,Mill Creek Intermediate School,40.71%,,,N,533,217
-wv,50741,Berkeley County Schools,4220,Mountain Ridge Intermediate,43.34%,,54.49%,Y,586,254
-wv,50741,Berkeley County Schools,306,Mountain Ridge Middle School,39.25%,,,N,614,241
-wv,50741,Berkeley County Schools,503,Musselman High School,33.66%,,,N,1640,552
-wv,50741,Berkeley County Schools,304,Musselman Middle School,41.64%,,,N,706,294
-wv,50741,Berkeley County Schools,4210,Opequon Elementary School,54.34%,,54.49%,Y,449,244
-wv,50741,Berkeley County Schools,4219,Orchard View Intermediate School,57.94%,,54.49%,Y,554,321
-wv,50741,Berkeley County Schools,216,Potomack Intermediate School,36.06%,,,N,843,304
-wv,50741,Berkeley County Schools,4211,Rosemont Elementary School,43.88%,,54.49%,Y,433,190
-wv,50741,Berkeley County Schools,504,Spring Mills High,32.67%,,,N,1350,441
-wv,50741,Berkeley County Schools,305,Spring Mills Middle School,39.91%,,,N,882,352
-wv,50741,Berkeley County Schools,221,Spring Mills Primary,40.75%,,,N,530,216
-wv,50741,Berkeley County Schools,215,Tomahawk Intermediate School,41.50%,,,N,612,254
-wv,50741,Berkeley County Schools,4212,Tuscarora Elementary School,60.06%,,54.49%,Y,358,215
-wv,50741,Berkeley County Schools,213,Valley View Elementary School,45.68%,,,N,405,185
-wv,50741,Berkeley County Schools,4214,Winchester Avenue Elementary School,60.71%,,54.49%,Y,364,221
-wv,50742,Boone County Schools,6201,Ashford-Rumble Elementary,67.15%,,59.47%,Y,199,134
-wv,50742,Boone County Schools,6220,Brookview Elementary,61.42%,,59.47%,Y,439,270
-wv,50742,Boone County Schools,6207,Madison Elementary,56.03%,,59.47%,Y,363,203
-wv,50742,Boone County Schools,6301,Madison Middle School,56.05%,,59.47%,Y,568,318
-wv,50742,Boone County Schools,6212,Ramage Elementary,73.59%,,59.47%,Y,294,216
-wv,50742,Boone County Schools,6501,Scott High School,50.16%,,59.47%,Y,633,318
-wv,50742,Boone County Schools,6219,Sherman Elementary School,59.67%,,59.47%,Y,386,230
-wv,50742,Boone County Schools,6502,Sherman High School,50.13%,,59.47%,Y,625,313
-wv,50742,Boone County Schools,401,Sherman Junior High School,54.93%,,,N,284,156
-wv,50742,Boone County Schools,6215,Van Elementary,66.08%,,59.47%,Y,186,123
-wv,50742,Boone County Schools,6503,Van Junior/Senior High School,47.89%,,59.47%,Y,237,113
-wv,50742,Boone County Schools,6102,Whitesville Elementary School,60.77%,,59.47%,Y,163,99
-wv,50743,Braxton County Schools,8501,Braxton County High School,46.10%,,56.77%,Y,538,248
-wv,50743,Braxton County Schools,8303,Braxton County Middle School,56.33%,,56.77%,Y,403,227
-wv,50743,Braxton County Schools,8101,Burnsville Elementary School,66.15%,,56.77%,Y,130,86
-wv,50743,Braxton County Schools,8201,Davis Elementary School,60.77%,,56.77%,Y,209,127
-wv,50743,Braxton County Schools,8202,Flatwoods Elementary School,53.89%,,56.77%,Y,193,104
-wv,50743,Braxton County Schools,8203,Frametown Elementary School,57.36%,,56.77%,Y,129,74
-wv,50743,Braxton County Schools,8204,Little Birch Elementary School,81.13%,,56.77%,Y,106,86
-wv,50743,Braxton County Schools,8205,Sutton Elementary School,66.14%,,56.77%,Y,189,125
-wv,50744,Brooke County Schools,10502,Brooke High School,37.30%,,41.85%,Y,1059,395
-wv,50744,Brooke County Schools,10210,Brooke Intermediate School North,47.57%,,41.85%,Y,185,88
-wv,50744,Brooke County Schools,10211,Brooke Intermediate School South,41.72%,,41.85%,Y,163,68
-wv,50744,Brooke County Schools,10304,Brooke Middle School,42.29%,,41.85%,Y,863,365
-wv,50744,Brooke County Schools,10208,Brooke Primary School North,51.82%,,41.85%,Y,274,142
-wv,50744,Brooke County Schools,10209,Brooke Primary School South,45.23%,,41.85%,Y,199,90
-wv,50745,Cabell County Schools,12203,Altizer Elementary School,66.40%,,49.98%,Y,247,164
-wv,50745,Cabell County Schools,12301,Barboursville Middle School,37.27%,,49.98%,Y,746,278
-wv,50745,Cabell County Schools,12701,Cabell County Alternative School-502,85.71%,,49.98%,Y,1,1
-wv,50745,Cabell County Schools,12550,Cabell Midland High School,33.30%,,49.98%,Y,1811,603
-wv,50745,Cabell County Schools,12290,Central City Elementary School,85.52%,,49.98%,Y,511,437
-wv,50745,Cabell County Schools,12218,Cox Landing Elementary School,51.87%,,49.98%,Y,214,111
-wv,50745,Cabell County Schools,12221,Culloden Elementary School,39.39%,,49.98%,Y,231,91
-wv,50745,Cabell County Schools,12224,Davis Creek Elementary School,30.98%,,49.98%,Y,255,79
-wv,50745,Cabell County Schools,12227,Explorer Academy,55.93%,,49.98%,Y,531,297
-wv,50745,Cabell County Schools,12236,Guyandotte Elementary School,86.48%,,49.98%,Y,281,243
-wv,50745,Cabell County Schools,12239,Highlawn Elementary School,63.78%,,49.98%,Y,323,206
-wv,50745,Cabell County Schools,12242,Hite Saunders Elementary School,41.85%,,49.98%,Y,227,95
-wv,50745,Cabell County Schools,12311,Huntington East Middle School,66.26%,,49.98%,Y,658,436
-wv,50745,Cabell County Schools,12560,Huntington High School,55.08%,,49.98%,Y,1596,879
-wv,50745,Cabell County Schools,12310,Huntington Middle School,58.47%,,49.98%,Y,614,359
-wv,50745,Cabell County Schools,12251,Martha Elementary School,33.33%,,49.98%,Y,213,71
-wv,50745,Cabell County Schools,12254,Meadows Elementary School,37.76%,,49.98%,Y,294,111
-wv,50745,Cabell County Schools,12263,Milton Elementary School,49.92%,,49.98%,Y,663,331
-wv,50745,Cabell County Schools,12308,Milton Middle School,37.81%,,49.98%,Y,611,231
-wv,50745,Cabell County Schools,12269,Nichols Elementary School,31.66%,,49.98%,Y,259,82
-wv,50745,Cabell County Schools,12272,Ona Elementary School,35.37%,,49.98%,Y,328,116
-wv,50745,Cabell County Schools,12285,Salt Rock Elementary School,47.37%,,49.98%,Y,228,108
-wv,50745,Cabell County Schools,12292,Southside Elementary,43.20%,,49.98%,Y,507,219
-wv,50745,Cabell County Schools,12287,Spring Hill Elementary School,85.00%,,49.98%,Y,440,374
-wv,50745,Cabell County Schools,12291,Village Of Barboursville Elementary,42.78%,,49.98%,Y,762,326
-wv,50745,Cabell County Schools,12502,Crossroads Academy,49.98%,,49.98%,Y,70,35
-wv,50746,Calhoun County Schools,14201,Arnoldsburg School,53.37%,,58.82%,Y,208,111
-wv,50746,Calhoun County Schools,14501,Calhoun Middle/High School,55.72%,,58.82%,Y,542,302
-wv,50746,Calhoun County Schools,14203,Pleasant Hill School,72.77%,,58.82%,Y,202,147
-wv,50747,Clay County Schools,16209,Big Otter Elementary School,59.65%,,58.66%,Y,228,136
-wv,50747,Clay County Schools,16501,Clay County High School,50.62%,,58.66%,Y,486,246
-wv,50747,Clay County Schools,16301,Clay County Middle School,55.83%,,58.66%,Y,412,230
-wv,50747,Clay County Schools,16202,Clay Elementary School,67.89%,,58.66%,Y,380,258
-wv,50747,Clay County Schools,16208,H E White Elementary School,69.64%,,58.66%,Y,112,78
-wv,50747,Clay County Schools,16205,Lizemore Elementary School,59.46%,,58.66%,Y,148,88
-wv,50748,Doddridge County Schools,18211,Doddridge County Elementary School,50.25%,,48.12%,Y,427,215
-wv,50748,Doddridge County Schools,18501,Doddridge County High School,40.26%,,48.12%,Y,341,137
-wv,50748,Doddridge County Schools,18301,Doddridge County Middle School,46.63%,,48.12%,Y,321,150
-wv,50748,Doddridge County Schools,18212,Doddridge County Preschool Center,68.12%,,48.12%,Y,83,57
-wv,50749,Fayette County Schools,20201,Ansted Elementary,53.36%,,55.58%,Y,221,118
-wv,50749,Fayette County Schools,20206,Divide Elementary,47.00%,,55.58%,Y,232,109
-wv,50749,Fayette County Schools,20101,Fayetteville Pk-8,52.91%,,55.58%,Y,579,306
-wv,50749,Fayette County Schools,20211,Gauley Bridge Elementary,48.96%,,55.58%,Y,135,66
-wv,50749,Fayette County Schools,20215,Meadow Bridge Elementary,53.94%,,55.58%,Y,226,122
-wv,50749,Fayette County Schools,20503,Meadow Bridge High,48.11%,,55.58%,Y,212,102
-wv,50749,Fayette County Schools,20504,Midland Trail High,44.86%,,55.58%,Y,582,261
-wv,50749,Fayette County Schools,20226,New River Intermediate,63.69%,,55.58%,Y,757,482
-wv,50749,Fayette County Schools,20227,New River Primary,64.73%,,55.58%,Y,572,370
-wv,50749,Fayette County Schools,20506,Oak Hill High,48.83%,,55.58%,Y,1218,595
-wv,50749,Fayette County Schools,20302,Oak Hill Middle School,59.72%,,55.58%,Y,795,475
-wv,50749,Fayette County Schools,20102,Valley Pk-8,62.38%,,55.58%,Y,718,448
-wv,50750,Gilmer County Schools,22206,Gilmer County Elementary,46.86%,,54.11%,Y,456,214
-wv,50750,Gilmer County Schools,22501,Gilmer County High School,48.21%,,54.11%,Y,346,167
-wv,50751,Grant County Schools,24202,Maysville Elementary School,41.61%,,49.45%,Y,155,64
-wv,50751,Grant County Schools,24203,Petersburg Elementary School,54.25%,,49.45%,Y,649,352
-wv,50751,Grant County Schools,24501,Petersburg High School,43.26%,,49.45%,Y,646,279
-wv,50751,Grant County Schools,24101,Union Educational Complex,56.98%,,49.45%,Y,174,99
-wv,50752,Greenbrier County Schools,26201,Alderson Elementary,67.36%,,51.94%,Y,239,161
-wv,50752,Greenbrier County Schools,26101,Crichton Elementary,70.71%,,51.94%,Y,99,70
-wv,50752,Greenbrier County Schools,26406,Eastern Greenbrier Middle School,47.10%,,51.94%,Y,777,366
-wv,50752,Greenbrier County Schools,26204,Frankford Elementary,47.93%,,51.94%,Y,217,104
-wv,50752,Greenbrier County Schools,26501,Greenbrier East High School,39.02%,,51.94%,Y,1020,398
-wv,50752,Greenbrier County Schools,26502,Greenbrier West High School,53.98%,,51.94%,Y,352,190
-wv,50752,Greenbrier County Schools,26205,Lewisburg Elementary,44.87%,,51.94%,Y,517,232
-wv,50752,Greenbrier County Schools,26102,Rainelle Elementary,69.90%,,51.94%,Y,206,144
-wv,50752,Greenbrier County Schools,26207,Ronceverte Elementary,59.18%,,51.94%,Y,365,216
-wv,50752,Greenbrier County Schools,26103,Rupert Elementary,74.36%,,51.94%,Y,195,145
-wv,50752,Greenbrier County Schools,26104,Smoot Elementary,49.66%,,51.94%,Y,147,73
-wv,50752,Greenbrier County Schools,26407,Western Greenbrier Middle School,62.66%,,51.94%,Y,308,193
-wv,50752,Greenbrier County Schools,26208,White Sulphur Elementary,56.47%,,51.94%,Y,340,192
-wv,50753,Hampshire County Schools,28201,Augusta Elementary School,54.42%,,51.59%,Y,283,154
-wv,50753,Hampshire County Schools,28209,Capon Bridge Elementary School,51.27%,,51.59%,Y,314,161
-wv,50753,Hampshire County Schools,28401,Capon Bridge Middle School,50.34%,,51.59%,Y,292,147
-wv,50753,Hampshire County Schools,28501,Hampshire Senior High School,45.57%,,51.59%,Y,869,396
-wv,50753,Hampshire County Schools,28204,John J. Cornwell,66.20%,,51.59%,Y,71,47
-wv,50753,Hampshire County Schools,28206,Romney Elementary School,60.53%,,51.59%,Y,451,273
-wv,50753,Hampshire County Schools,28402,Romney Middle School,51.89%,,51.59%,Y,370,192
-wv,50753,Hampshire County Schools,28207,Slanesville Elementary School,43.09%,,51.59%,Y,188,81
-wv,50753,Hampshire County Schools,28208,Springfield-Green Spring Elementary,62.71%,,51.59%,Y,118,74
-wv,50754,Hancock County Schools,29210,A. T. Allison Elementary School,48.14%,,45.47%,Y,417,201
-wv,50754,Hancock County Schools,29208,New Manchester Elementary School,37.61%,,45.47%,Y,319,120
-wv,50754,Hancock County Schools,29501,Oak Glen High School,34.57%,,45.47%,Y,532,184
-wv,50754,Hancock County Schools,29303,Oak Glen Middle School,36.96%,,45.47%,Y,546,202
-wv,50754,Hancock County Schools,29502,Weir High School,37.36%,,45.47%,Y,642,240
-wv,50754,Hancock County Schools,29301,Weir Middle School,41.32%,,45.47%,Y,656,271
-wv,50754,Hancock County Schools,29211,Weirton Elementary School,54.11%,,45.47%,Y,983,532
-wv,50755,Hardy County Schools,31204,East Hardy E/M,56.12%,,52.86%,Y,474,266
-wv,50755,Hardy County Schools,31501,East Hardy High,39.52%,,52.86%,Y,210,83
-wv,50755,Hardy County Schools,31202,Moorefield Elem.,66.67%,,52.86%,Y,432,288
-wv,50755,Hardy County Schools,31502,Moorefield High,43.43%,,52.86%,Y,449,195
-wv,50755,Hardy County Schools,31205,Moorefield Interm.,51.91%,,52.86%,Y,341,177
-wv,50755,Hardy County Schools,31301,Moorefield Middle,52.49%,,52.86%,Y,381,200
-wv,50756,Harrison County Schools,33201,Adamston Elementary School,73.31%,,50.71%,Y,266,195
-wv,50756,Harrison County Schools,33231,Big Elm Elementary School,50.07%,,50.71%,Y,749,375
-wv,50756,Harrison County Schools,33501,Bridgeport High School,15.52%,,,N,812,126
-wv,50756,Harrison County Schools,33303,Bridgeport Middle School,23.28%,,,N,653,152
-wv,50756,Harrison County Schools,33208,Johnson Elementary School,21.86%,,,N,709,155
-wv,50756,Harrison County Schools,33502,Liberty High School,41.48%,,50.71%,Y,499,207
-wv,50756,Harrison County Schools,33503,Lincoln High School,40.99%,,50.71%,Y,566,232
-wv,50756,Harrison County Schools,33304,Lincoln Middle School,51.34%,,50.71%,Y,448,230
-wv,50756,Harrison County Schools,33210,Lost Creek Elementary School,49.35%,,50.71%,Y,154,76
-wv,50756,Harrison County Schools,33211,Lumberport Elementary School,56.61%,,50.71%,Y,295,167
-wv,50756,Harrison County Schools,33309,Mountaineer Middle School,51.92%,,50.71%,Y,391,203
-wv,50756,Harrison County Schools,33213,North View Elementary School,57.03%,,50.71%,Y,384,219
-wv,50756,Harrison County Schools,33214,Norwood Elementary School,35.59%,,50.71%,Y,354,126
-wv,50756,Harrison County Schools,33233,Nutter Fort Intermediate School,63.38%,,50.71%,Y,467,296
-wv,50756,Harrison County Schools,33232,Nutter Fort Primary School,66.77%,,50.71%,Y,665,444
-wv,50756,Harrison County Schools,33506,Robert C. Byrd High School,42.71%,,50.71%,Y,679,290
-wv,50756,Harrison County Schools,33234,Salem Elementary,51.32%,,50.71%,Y,228,117
-wv,50756,Harrison County Schools,33220,Simpson Elementary School,25.72%,,,N,486,125
-wv,50756,Harrison County Schools,33505,South Harrison High School,33.02%,,50.71%,Y,321,106
-wv,50756,Harrison County Schools,33308,South Harrison Middle School,38.44%,,50.71%,Y,294,113
-wv,50756,Harrison County Schools,33507,United High School,56.80%,,50.71%,Y,250,142
-wv,50756,Harrison County Schools,33307,Washington Irving Middle School,56.24%,,50.71%,Y,569,320
-wv,50756,Harrison County Schools,33225,West Milford Elementary School,44.70%,,50.71%,Y,472,211
-wv,50756,Harrison County Schools,33226,Wilsonburg Elementary School,57.01%,,50.71%,Y,214,122
-wv,50757,Jackson County Schools,35201,Cottageville Elementary School,55.56%,,46.96%,Y,135,75
-wv,50757,Jackson County Schools,35203,Evans Elementary School,35.58%,,46.96%,Y,163,58
-wv,50757,Jackson County Schools,35204,Fairplain Elementary School,42.54%,,46.96%,Y,181,77
-wv,50757,Jackson County Schools,35205,Gilmore Elementary School,45.45%,,46.96%,Y,209,95
-wv,50757,Jackson County Schools,35207,Henry J Kaiser Elementary School,57.10%,,46.96%,Y,324,185
-wv,50757,Jackson County Schools,35206,Kenna Elementary School,40.98%,,46.96%,Y,266,109
-wv,50757,Jackson County Schools,35208,Ravenswood Grade School,59.64%,,46.96%,Y,280,167
-wv,50757,Jackson County Schools,35501,Ravenswood High School,43.09%,,,N,427,184
-wv,50757,Jackson County Schools,35301,Ravenswood Middle School,47.19%,,46.96%,Y,320,151
-wv,50757,Jackson County Schools,35209,Ripley Elementary School,47.88%,,46.96%,Y,614,294
-wv,50757,Jackson County Schools,35502,Ripley High School,35.89%,,,N,833,299
-wv,50757,Jackson County Schools,35302,Ripley Middle School,41.12%,,46.96%,Y,698,287
-wv,50758,Jefferson County Schools,37201,Blue Ridge Elementary,48.69%,,58.38%,Y,235,114
-wv,50758,Jefferson County Schools,37206,C. W. Shipley Elementary,26.43%,,,N,454,120
-wv,50758,Jefferson County Schools,37401,Charles Town Middle,34.51%,,,N,649,224
-wv,50758,Jefferson County Schools,37210,Driswood Elementary,37.23%,,,N,462,172
-wv,50758,Jefferson County Schools,37402,Harpers Ferry Middle,37.86%,,,N,655,248
-wv,50758,Jefferson County Schools,37501,Jefferson High,31.85%,,,N,1438,458
-wv,50758,Jefferson County Schools,37202,North Jefferson Elementary,55.47%,,58.38%,Y,280,155
-wv,50758,Jefferson County Schools,37203,Page Jackson Elementary,35.35%,,,N,413,146
-wv,50758,Jefferson County Schools,37204,Ranson Elementary,67.18%,,58.38%,Y,375,252
-wv,50758,Jefferson County Schools,37205,Shepherdstown Elementary,31.21%,,,N,423,132
-wv,50758,Jefferson County Schools,37403,Shepherdstown Middle,30.61%,,,N,343,105
-wv,50758,Jefferson County Schools,37207,South Jefferson Elementary,40.61%,,,N,522,212
-wv,50758,Jefferson County Schools,37209,T A Lowery Elementary,46.03%,,58.38%,Y,533,245
-wv,50758,Jefferson County Schools,37502,Washington High,35.22%,,,N,1289,454
-wv,50758,Jefferson County Schools,37404,Wildwood Middle,45.01%,,,N,431,194
-wv,50758,Jefferson County Schools,37208,Wright Denny Intermediate,37.50%,,,N,400,150
-wv,50758,Jefferson County Schools,37211,Blue Ridge Primary,58.38%,,58.38%,Y,235,137
-wv,50759,Kanawha County Schools,39201,Alban Elementary School,54.95%,,54.76%,Y,313,172
-wv,50759,Kanawha County Schools,39202,Alum Creek Elementary School,62.94%,,54.76%,Y,170,107
-wv,50759,Kanawha County Schools,39402,Andrew Jackson Middle School,48.19%,,54.76%,Y,579,279
-wv,50759,Kanawha County Schools,39203,Andrews Heights Elementary School,57.99%,,54.76%,Y,319,185
-wv,50759,Kanawha County Schools,39204,Anne Bailey Elementary School,80.93%,,54.76%,Y,257,208
-wv,50759,Kanawha County Schools,39206,Belle Elementary School,57.99%,,54.76%,Y,288,167
-wv,50759,Kanawha County Schools,39211,Bridge Elementary School,71.59%,,54.76%,Y,88,63
-wv,50759,Kanawha County Schools,39280,Bridgeview Elementary School,66.43%,,54.76%,Y,426,283
-wv,50759,Kanawha County Schools,39513,Capital High School,56.06%,,54.76%,Y,1213,680
-wv,50759,Kanawha County Schools,39213,Cedar Grove Elementary School,70.53%,,54.76%,Y,207,146
-wv,50759,Kanawha County Schools,39403,Cedar Grove Middle School,64.63%,,54.76%,Y,164,106
-wv,50759,Kanawha County Schools,39214,Central Elementary School,53.39%,,54.76%,Y,384,205
-wv,50759,Kanawha County Schools,39215,Chamberlain Elementary School,64.47%,,54.76%,Y,197,127
-wv,50759,Kanawha County Schools,39599,Chandler Academy,78.50%,,54.76%,Y,200,157
-wv,50759,Kanawha County Schools,39218,Chesapeake Elementary School,78.51%,,54.76%,Y,121,95
-wv,50759,Kanawha County Schools,39219,Clendenin Elementary School,60.52%,,54.76%,Y,233,141
-wv,50759,Kanawha County Schools,39220,Cross Lanes Elementary School,49.28%,,54.76%,Y,345,170
-wv,50759,Kanawha County Schools,39406,Du Pont Middle School,60.99%,,54.76%,Y,363,221
-wv,50759,Kanawha County Schools,39283,Dunbar Intermediate Center,66.43%,,54.76%,Y,280,186
-wv,50759,Kanawha County Schools,39405,Dunbar Middle School,66.12%,,54.76%,Y,323,214
-wv,50759,Kanawha County Schools,39222,Dunbar Primary Center,75.26%,,54.76%,Y,287,216
-wv,50759,Kanawha County Schools,39407,East Bank Middle School,68.18%,,54.76%,Y,352,240
-wv,50759,Kanawha County Schools,39285,Edgewood Elementary,70.83%,,54.76%,Y,408,289
-wv,50759,Kanawha County Schools,39279,Elk Elementary Center,56.95%,,54.76%,Y,525,299
-wv,50759,Kanawha County Schools,39408,Elkview Middle School,50.74%,,54.76%,Y,605,307
-wv,50759,Kanawha County Schools,39226,Flinn Elementary School,56.73%,,54.76%,Y,446,253
-wv,50759,Kanawha County Schools,39276,George C. Weimer Elementary School,83.33%,,54.76%,Y,150,125
-wv,50759,Kanawha County Schools,39506,George Washington High School,27.55%,,54.76%,Y,1107,305
-wv,50759,Kanawha County Schools,39231,Grandview Elementary School,82.59%,,54.76%,Y,201,166
-wv,50759,Kanawha County Schools,39409,Hayes Middle School,54.14%,,54.76%,Y,471,255
-wv,50759,Kanawha County Schools,39507,Herbert Hoover High School,42.59%,,54.76%,Y,742,316
-wv,50759,Kanawha County Schools,39234,Holz Elementary School,27.52%,,54.76%,Y,258,71
-wv,50759,Kanawha County Schools,39410,Horace Mann Middle School,55.81%,,54.76%,Y,430,240
-wv,50759,Kanawha County Schools,39401,John Adams Middle School,31.73%,,54.76%,Y,769,244
-wv,50759,Kanawha County Schools,39235,Kanawha City Elementary School,65.69%,,54.76%,Y,274,180
-wv,50759,Kanawha County Schools,39237,Kenna Elementary School,31.01%,,54.76%,Y,158,49
-wv,50759,Kanawha County Schools,39239,Lakewood Elementary School,39.65%,,54.76%,Y,285,113
-wv,50759,Kanawha County Schools,39241,Malden Elementary School,75.96%,,54.76%,Y,183,139
-wv,50759,Kanawha County Schools,39242,Marmet Elementary School,75.00%,,54.76%,Y,136,102
-wv,50759,Kanawha County Schools,39284,Mary C Snow Westside Elementary,92.16%,,54.76%,Y,357,329
-wv,50759,Kanawha County Schools,39243,Mary Ingles Elementary School,65.81%,,54.76%,Y,155,102
-wv,50759,Kanawha County Schools,39413,Mckinley Middle School,62.70%,,54.76%,Y,311,195
-wv,50759,Kanawha County Schools,39244,Midland Trail Elementary School,64.36%,,54.76%,Y,188,121
-wv,50759,Kanawha County Schools,39246,Montrose Elementary School,49.22%,,54.76%,Y,258,127
-wv,50759,Kanawha County Schools,39248,Nitro Elementary School,60.53%,,54.76%,Y,380,230
-wv,50759,Kanawha County Schools,39508,Nitro High School,40.00%,,54.76%,Y,755,302
-wv,50759,Kanawha County Schools,39250,Overbrook Elementary School,35.53%,,54.76%,Y,349,124
-wv,50759,Kanawha County Schools,39282,Piedmont Year-Round Education,81.33%,,54.76%,Y,316,257
-wv,50759,Kanawha County Schools,39253,Pinch Elementary School,42.45%,,54.76%,Y,351,149
-wv,50759,Kanawha County Schools,39254,Point Harmony Elementary School,55.69%,,54.76%,Y,510,284
-wv,50759,Kanawha County Schools,39255,Pratt Elementary School,66.48%,,54.76%,Y,182,121
-wv,50759,Kanawha County Schools,39257,Richmond Elementary School,72.44%,,54.76%,Y,254,184
-wv,50759,Kanawha County Schools,39514,Riverside High School,54.91%,,54.76%,Y,1222,671
-wv,50759,Kanawha County Schools,39260,Ruffner Elementary School,55.97%,,54.76%,Y,268,150
-wv,50759,Kanawha County Schools,39261,Ruthlawn Elementary School,54.02%,,54.76%,Y,261,141
-wv,50759,Kanawha County Schools,39509,Saint Albans High School,45.61%,,54.76%,Y,1013,462
-wv,50759,Kanawha County Schools,39262,Sharon Dawes Elementary School,61.11%,,54.76%,Y,144,88
-wv,50759,Kanawha County Schools,39263,Shoals Elementary School,50.44%,,54.76%,Y,226,114
-wv,50759,Kanawha County Schools,39264,Sissonville Elementary School,59.62%,,54.76%,Y,265,158
-wv,50759,Kanawha County Schools,39510,Sissonville High School,43.59%,,54.76%,Y,585,255
-wv,50759,Kanawha County Schools,39417,Sissonville Middle School,53.45%,,54.76%,Y,580,310
-wv,50759,Kanawha County Schools,39511,South Charleston High School,51.43%,,54.76%,Y,943,485
-wv,50759,Kanawha County Schools,39418,South Charleston Middle School,50.79%,,54.76%,Y,378,192
-wv,50759,Kanawha County Schools,39421,Stonewall Jackson Middle School,82.49%,,54.76%,Y,394,325
-wv,50759,Kanawha County Schools,39275,Weberwood Elementary School,24.11%,,54.76%,Y,253,61
-wv,50759,Kanawha County Schools,39278,William J Raglin Center,82.46%,,54.76%,Y,57,47
-wv,50760,Lewis County Schools,41208,Jane Lew Elementary School,56.27%,,56.84%,Y,311,175
-wv,50760,Lewis County Schools,41202,Leading Creek Elementary,60.98%,,56.84%,Y,164,100
-wv,50760,Lewis County Schools,41501,Lewis County High School,47.20%,,56.84%,Y,661,312
-wv,50760,Lewis County Schools,41207,Peterson-Central Elementary School,67.71%,,56.84%,Y,542,367
-wv,50760,Lewis County Schools,41205,Roanoke Elementary School,64.40%,,56.84%,Y,191,123
-wv,50760,Lewis County Schools,41301,Robert L. Bland Middle School,54.91%,,56.84%,Y,754,414
-wv,50760,Lewis County Schools,41901,St. Patricks,28.57%,,,N,84,24
-wv,50761,Lincoln County Schools,43101,Duval Pk-8,65.90%,,61.24%,Y,507,334
-wv,50761,Lincoln County Schools,43301,Guyan Valley Middle,61.13%,,61.24%,Y,270,165
-wv,50761,Lincoln County Schools,43102,Hamlin Pk-8,52.43%,,61.24%,Y,480,252
-wv,50761,Lincoln County Schools,43103,Harts Pk-8,65.63%,,61.24%,Y,372,244
-wv,50761,Lincoln County Schools,43506,Lincoln County High School,50.46%,,61.24%,Y,827,417
-wv,50761,Lincoln County Schools,43212,Midway Elementary School,53.50%,,61.24%,Y,304,163
-wv,50761,Lincoln County Schools,43214,Ranger Elementary,76.15%,,61.24%,Y,109,83
-wv,50761,Lincoln County Schools,43215,West Hamlin Elementary,65.67%,,61.24%,Y,503,330
-wv,50762,Logan County Schools,45203,Buffalo Elementary School,74.21%,,61.06%,Y,221,164
-wv,50762,Logan County Schools,45229,Chapmanville Intermediate,52.82%,,61.06%,Y,354,187
-wv,50762,Logan County Schools,45405,Chapmanville Middle School,55.11%,,61.06%,Y,577,318
-wv,50762,Logan County Schools,45228,Chapmanville Primary,62.30%,,61.06%,Y,313,195
-wv,50762,Logan County Schools,45501,Chapmanville Regional High School,48.99%,,61.06%,Y,694,340
-wv,50762,Logan County Schools,45209,Holden Central Elementary School,67.76%,,61.06%,Y,152,103
-wv,50762,Logan County Schools,45210,Hugh Dingess Elementary School,75.56%,,61.06%,Y,90,68
-wv,50762,Logan County Schools,45211,Justice Elementary School,57.80%,,61.06%,Y,109,63
-wv,50762,Logan County Schools,45213,Logan Elementary School,72.94%,,61.06%,Y,255,186
-wv,50762,Logan County Schools,45301,Logan Middle School,64.68%,,61.06%,Y,603,390
-wv,50762,Logan County Schools,45502,Logan Senior High School,57.07%,,61.06%,Y,615,351
-wv,50762,Logan County Schools,45227,Man Elementary School,72.94%,,61.06%,Y,218,159
-wv,50762,Logan County Schools,45103,Man Middle School,65.76%,,61.06%,Y,368,242
-wv,50762,Logan County Schools,45503,Man Senior High School,51.54%,,61.06%,Y,390,201
-wv,50762,Logan County Schools,45101,Omar Elementary,75.27%,,61.06%,Y,182,137
-wv,50762,Logan County Schools,45217,South Man Elementary School,69.32%,,61.06%,Y,176,122
-wv,50762,Logan County Schools,45221,Verdunville Elementary School,78.33%,,61.06%,Y,120,94
-wv,50763,Marion County Schools,47101,Barrackville Elementary/Middle School,39.22%,,,N,357,140
-wv,50763,Marion County Schools,47216,Blackshere Elementary School,58.73%,,58.73%,Y,361,212
-wv,50763,Marion County Schools,47205,East Dale Elementary School,42.43%,,,N,469,199
-wv,50763,Marion County Schools,47501,East Fairmont High School,34.67%,,,N,698,242
-wv,50763,Marion County Schools,47402,East Fairmont Middle School,41.87%,,,N,726,304
-wv,50763,Marion County Schools,47206,East Park Elementary School,58.71%,,58.71%,Y,356,209
-wv,50763,Marion County Schools,47502,Fairmont Senior High School,37.63%,,,N,784,295
-wv,50763,Marion County Schools,47207,Fairview Elementary School,54.43%,,54.43%,Y,158,86
-wv,50763,Marion County Schools,47302,Fairview Middle School,45.87%,,,N,218,100
-wv,50763,Marion County Schools,47209,Jayenne Elementary School,54.27%,,54.27%,Y,398,216
-wv,50763,Marion County Schools,47303,Mannington Middle School,54.77%,,54.77%,Y,283,155
-wv,50763,Marion County Schools,47211,Monongah Elementary School,58.33%,,58.33%,Y,312,182
-wv,50763,Marion County Schools,47304,Monongah Middle School,52.23%,,52.23%,Y,224,117
-wv,50763,Marion County Schools,47503,North Marion High School,43.78%,,,N,740,324
-wv,50763,Marion County Schools,47212,Pleasant Valley Elementary School,26.56%,,,N,192,51
-wv,50763,Marion County Schools,47102,Rivesville Elementary/Middle School,52.80%,,52.80%,Y,375,198
-wv,50763,Marion County Schools,47214,Watson Elementary School,63.92%,,62.50%,Y,413,264
-wv,50763,Marion County Schools,47306,West Fairmont Middle School,48.79%,,,N,660,322
-wv,50763,Marion County Schools,47215,White Hall Elementary School,29.27%,,,N,205,60
-wv,50764,Marshall County Schools,48202,Cameron Elementary School,45.72%,,44.91%,Y,269,123
-wv,50764,Marshall County Schools,48501,Cameron High School,36.20%,,44.91%,Y,326,118
-wv,50764,Marshall County Schools,48206,Center Mcmechen Elementary School,64.94%,,44.91%,Y,231,150
-wv,50764,Marshall County Schools,48203,Central Elementary School,66.10%,,44.91%,Y,295,195
-wv,50764,Marshall County Schools,48503,Gateway Achievement Center,61.90%,,44.91%,Y,21,13
-wv,50764,Marshall County Schools,48204,Glen Dale Elementary School,26.18%,,44.91%,Y,233,61
-wv,50764,Marshall County Schools,48213,Hilltop Elementary School,29.14%,,44.91%,Y,405,118
-wv,50764,Marshall County Schools,48502,John Marshall High School,36.05%,,44.91%,Y,1029,371
-wv,50764,Marshall County Schools,48207,Mcninch Primary School,66.82%,,44.91%,Y,437,292
-wv,50764,Marshall County Schools,48401,Moundsville Middle School,55.43%,,44.91%,Y,433,240
-wv,50764,Marshall County Schools,48209,Sand Hill Elementary School,55.74%,,44.91%,Y,61,34
-wv,50764,Marshall County Schools,48402,Sherrard Middle School,37.44%,,44.91%,Y,398,149
-wv,50764,Marshall County Schools,48212,Washington Lands Elementary School,43.17%,,44.91%,Y,315,136
-wv,50765,Mason County Schools,49216,Ashton Elementary School,55.04%,,50.77%,Y,367,202
-wv,50765,Mason County Schools,49201,Beale Elementary School,59.30%,,50.77%,Y,258,153
-wv,50765,Mason County Schools,49501,Hannan High School,58.20%,,50.77%,Y,244,142
-wv,50765,Mason County Schools,49206,Leon Elementary School,67.97%,,50.77%,Y,153,104
-wv,50765,Mason County Schools,49210,New Haven Elementary School,51.79%,,50.77%,Y,504,261
-wv,50765,Mason County Schools,49502,Point Pleasant Junior/Senior High School,41.53%,,50.77%,Y,1086,451
-wv,50765,Mason County Schools,49218,Pt. Pleasant Intermediate,51.15%,,50.77%,Y,348,178
-wv,50765,Mason County Schools,49217,Pt. Pleasant Primary,61.76%,,50.77%,Y,353,218
-wv,50765,Mason County Schools,49213,Roosevelt Elementary School,50.23%,,50.77%,Y,221,111
-wv,50765,Mason County Schools,49503,Wahama High School,43.61%,,50.77%,Y,360,157
-wv,50766,Mcdowell County Schools,60206,Bradshaw Elementary School,65.26%,,62.50%,Y,285,186
-wv,50766,Mcdowell County Schools,60210,Fall River Elementary School,73.29%,,62.50%,Y,161,118
-wv,50766,Mcdowell County Schools,60213,Iaeger Elementary School,68.50%,,62.50%,Y,254,174
-wv,50766,Mcdowell County Schools,60217,Kimball Elementary School,72.10%,,62.50%,Y,233,168
-wv,50766,Mcdowell County Schools,60527,Mount View High School,63.71%,,62.50%,Y,620,395
-wv,50766,Mcdowell County Schools,60520,River View High School,69.04%,,62.50%,Y,436,301
-wv,50766,Mcdowell County Schools,60304,Sandy River Middle School,68.57%,,62.50%,Y,245,168
-wv,50766,Mcdowell County Schools,60223,Southside K-8,77.91%,,62.50%,Y,326,254
-wv,50766,Mcdowell County Schools,60222,Welch Elementary School,67.97%,,62.50%,Y,256,174
-wv,50767,Mercer County Schools,51201,Athens School,40.61%,,57.42%,Y,293,119
-wv,50767,Mercer County Schools,51502,Bluefield High School,59.59%,,57.42%,Y,579,345
-wv,50767,Mercer County Schools,51240,Bluefield Intermediate,72.90%,,57.42%,Y,321,234
-wv,50767,Mercer County Schools,51301,Bluefield Middle School,66.34%,,57.42%,Y,514,341
-wv,50767,Mercer County Schools,51202,Bluewell Elementary School,56.16%,,57.42%,Y,219,123
-wv,50767,Mercer County Schools,51204,Brushfork Elementary School,68.42%,,57.42%,Y,190,130
-wv,50767,Mercer County Schools,51208,Glenwood School,52.06%,,57.42%,Y,680,354
-wv,50767,Mercer County Schools,51210,Lashmeet/Matoaka School,67.43%,,57.42%,Y,218,147
-wv,50767,Mercer County Schools,51212,Melrose Elementary School,45.30%,,57.42%,Y,287,130
-wv,50767,Mercer County Schools,51213,Memorial Elementary,68.13%,,,N,160,109
-wv,50767,Mercer County Schools,51227,Mercer County Early Learning Center,69.78%,,57.42%,Y,417,291
-wv,50767,Mercer County Schools,51214,Mercer Elementary School,57.88%,,57.42%,Y,330,191
-wv,50767,Mercer County Schools,51215,Montcalm Elementary School,71.07%,,57.42%,Y,318,226
-wv,50767,Mercer County Schools,51505,Montcalm High School,59.51%,,57.42%,Y,284,169
-wv,50767,Mercer County Schools,51205,Mountain Valley Elementary School,71.25%,,57.42%,Y,240,171
-wv,50767,Mercer County Schools,51216,Oakvale School,59.12%,,57.42%,Y,181,107
-wv,50767,Mercer County Schools,51509,Pikeview High School,42.61%,,57.42%,Y,643,274
-wv,50767,Mercer County Schools,51302,Pikeview Middle School,49.72%,,57.42%,Y,531,264
-wv,50767,Mercer County Schools,51403,Princeton Middle School,56.31%,,57.42%,Y,515,290
-wv,50767,Mercer County Schools,51245,Princeton Primary,64.20%,,57.42%,Y,528,339
-wv,50767,Mercer County Schools,51507,Princeton Senior High School,45.84%,,57.42%,Y,890,408
-wv,50767,Mercer County Schools,51220,Spanishburg School,51.69%,,57.42%,Y,207,107
-wv,50767,Mercer County Schools,51221,Straley Elementary School,72.73%,,57.42%,Y,143,104
-wv,50767,Mercer County Schools,51222,Sun Valley Elementary School,39.05%,,57.42%,Y,105,41
-wv,50767,Mercer County Schools,51225,Whitethorn Elementary School,84.38%,,,N,128,108
-wv,50767,Mercer County Schools,51246,Bluefield Primary School,57.42%,,57.42%,Y,288,165
-wv,50768,Mineral County Schools,53201,Burlington Primary,44.54%,,41.51%,Y,119,53
-wv,50768,Mineral County Schools,53101,Elk Garden School,49.41%,,41.51%,Y,85,42
-wv,50768,Mineral County Schools,53202,Fort Ashby Primary School,32.46%,,41.51%,Y,191,62
-wv,50768,Mineral County Schools,53203,Fountain Primary School,58.40%,,41.51%,Y,125,73
-wv,50768,Mineral County Schools,53501,Frankfort High School,22.27%,,41.51%,Y,485,108
-wv,50768,Mineral County Schools,53303,Frankfort Intermediate School,35.17%,,41.51%,Y,290,102
-wv,50768,Mineral County Schools,53302,Frankfort Middle School,29.75%,,41.51%,Y,474,141
-wv,50768,Mineral County Schools,53503,Keyser High School,35.63%,,41.51%,Y,668,238
-wv,50768,Mineral County Schools,53103,Keyser Middle School,50.51%,,41.51%,Y,691,349
-wv,50768,Mineral County Schools,53210,Keyser Primary School,63.45%,,41.51%,Y,632,401
-wv,50768,Mineral County Schools,53205,New Creek Primary School,38.81%,,41.51%,Y,134,52
-wv,50768,Mineral County Schools,53208,Wiley Ford Primary School,39.22%,,41.51%,Y,204,80
-wv,50769,Mingo County Schools,54406,Burch Pk-8,65.15%,,62.50%,Y,505,329
-wv,50769,Mingo County Schools,54207,Dingess Elementary School,87.93%,,62.50%,Y,174,153
-wv,50769,Mingo County Schools,54407,Gilbert Pk8,63.01%,,62.50%,Y,511,322
-wv,50769,Mingo County Schools,54223,Kermit Area School (K-8),65.30%,,62.50%,Y,317,207
-wv,50769,Mingo County Schools,54101,Lenore K-8 School,69.39%,,62.50%,Y,490,340
-wv,50769,Mingo County Schools,54403,Matewan Pk-8,72.06%,,62.50%,Y,451,325
-wv,50769,Mingo County Schools,54508,Mingo Central High School,59.65%,,62.50%,Y,684,408
-wv,50769,Mingo County Schools,54507,Tug Valley High School,56.10%,,62.50%,Y,344,193
-wv,50769,Mingo County Schools,54402,Williamson Pk-8 School,69.55%,,62.50%,Y,578,402
-wv,50770,Monongalia County Schools,203,Brookhaven Elementary School,35.16%,,,N,620,218
-wv,50770,Monongalia County Schools,232,Cheat Lake Elementary School,20.75%,,,N,848,176
-wv,50770,Monongalia County Schools,501,Clay-Battelle High School,35.36%,,,N,379,134
-wv,50770,Monongalia County Schools,208,Daybrook Elementary School,30.77%,,,N,143,44
-wv,50770,Monongalia County Schools,242,Eastwood Elementary School,32.34%,,,N,603,195
-wv,50770,Monongalia County Schools,236,Mason-Dixon  Elementary,41.54%,,,N,325,135
-wv,50770,Monongalia County Schools,502-0,Morgantown High School,28.52%,,,N,1823,520
-wv,50770,Monongalia County Schools,301,Mountaineer Middle School,22.89%,,,N,651,149
-wv,50770,Monongalia County Schools,233,Mountainview Elementary School,44.20%,,,N,767,339
-wv,50770,Monongalia County Schools,241,Mylan Park Elementary School,48.31%,,,N,474,229
-wv,50770,Monongalia County Schools,220-0,North Elementary School,34.21%,,,N,725,248
-wv,50770,Monongalia County Schools,204,Ridgedale Elementary School,24.25%,,,N,536,130
-wv,50770,Monongalia County Schools,240,Skyview Elementary School,52.57%,,,N,506,266
-wv,50770,Monongalia County Schools,401-0,South Middle School,35.29%,,,N,785,277
-wv,50770,Monongalia County Schools,226,Suncrest Elementary,32.51%,,,N,526,171
-wv,50770,Monongalia County Schools,402,Suncrest Middle School,31.23%,,,N,506,158
-wv,50770,Monongalia County Schools,503-0,University High School,29.19%,,,N,1295,378
-wv,50770,Monongalia County Schools,302-0,Westwood Middle School,53.30%,,,N,349,186
-wv,50771,Monroe County Schools,57503,James Monroe High School,38.24%,,48.95%,Y,464,177
-wv,50771,Monroe County Schools,57204,Mountain View Elementary & Middle School,54.79%,,48.95%,Y,565,310
-wv,50771,Monroe County Schools,57202,Peterstown Elementary,52.87%,,48.95%,Y,449,237
-wv,50771,Monroe County Schools,57301,Peterstown Middle School,41.56%,,48.95%,Y,283,118
-wv,50772,Morgan County Schools,58501,Berkeley Springs High School,41.40%,,50.02%,Y,628,260
-wv,50772,Morgan County Schools,58204,Paw Paw Elementary School,63.64%,,50.02%,Y,163,104
-wv,50772,Morgan County Schools,58502,Paw Paw High School,57.33%,,,N,75,43
-wv,50772,Morgan County Schools,58205,Pleasant View Elementary School,44.09%,,50.02%,Y,127,56
-wv,50772,Morgan County Schools,58208,Warm Springs Intermediate School,53.79%,,50.02%,Y,383,206
-wv,50772,Morgan County Schools,58301,Warm Springs Middle School,43.16%,,50.02%,Y,431,186
-wv,50772,Morgan County Schools,58207,Widmyer Elementary,61.88%,,50.02%,Y,501,310
-wv,50773,Nicholas County Schools,62202,Birch River Elementary School,60.47%,,55.66%,Y,86,52
-wv,50773,Nicholas County Schools,62204,Cherry River Elementary School,67.84%,,55.66%,Y,199,135
-wv,50773,Nicholas County Schools,62210,Gauley River Elementary School,69.89%,,55.66%,Y,352,246
-wv,50773,Nicholas County Schools,62209,Glade Creek Elementary School,45.63%,,55.66%,Y,160,73
-wv,50773,Nicholas County Schools,62212,Mt Lookout Elementary School,58.82%,,55.66%,Y,136,80
-wv,50773,Nicholas County Schools,62213,Mt Nebo Elementary School,55.81%,,55.66%,Y,86,48
-wv,50773,Nicholas County Schools,62501,Nicholas County High School,44.08%,,55.66%,Y,642,283
-wv,50773,Nicholas County Schools,62220,Panther Creek Elementary School,56.57%,,55.66%,Y,251,142
-wv,50773,Nicholas County Schools,62502,Richwood High School,56.82%,,55.66%,Y,359,204
-wv,50773,Nicholas County Schools,62401,Richwood Middle School,61.94%,,55.66%,Y,247,153
-wv,50773,Nicholas County Schools,62218,Summersville Elementary School,56.74%,,55.66%,Y,581,330
-wv,50773,Nicholas County Schools,62402,Summersville Middle School,50.77%,,55.66%,Y,393,200
-wv,50773,Nicholas County Schools,62219,Zela Elementary School,65.96%,,55.66%,Y,94,62
-wv,50774,Ohio County Schools,64201,Bethlehem Elementary School,18.85%,,45.67%,Y,122,23
-wv,50774,Ohio County Schools,64301,Bridge Street Middle School,45.78%,,45.67%,Y,308,141
-wv,50774,Ohio County Schools,64203,Elm Grove Elementary School,61.30%,,45.67%,Y,354,217
-wv,50774,Ohio County Schools,64205,Madison Elementary School,81.52%,,45.67%,Y,330,269
-wv,50774,Ohio County Schools,64206,Middle Creek Elementary School,45.39%,,45.67%,Y,271,123
-wv,50774,Ohio County Schools,64209,Ritchie Elementary School,77.10%,,45.67%,Y,297,229
-wv,50774,Ohio County Schools,64210,Steenrod Elementary School,24.44%,,45.67%,Y,270,66
-wv,50774,Ohio County Schools,64302,Triadelphia Middle School,36.38%,,45.67%,Y,448,163
-wv,50774,Ohio County Schools,64303,Warwood School,44.59%,,45.67%,Y,536,239
-wv,50774,Ohio County Schools,64212,West Liberty Elementary School,30.09%,,45.67%,Y,113,34
-wv,50774,Ohio County Schools,64304,Wheeling Middle School,62.29%,,45.67%,Y,175,109
-wv,50774,Ohio County Schools,64501,Wheeling Park High School,37.77%,,45.67%,Y,1504,568
-wv,50774,Ohio County Schools,64213,Woodsdale Elementary School,41.26%,,45.67%,Y,492,203
-wv,50775,Pendleton County Schools,66201,Brandywine Elementary School,48.54%,,54.90%,Y,102,50
-wv,50775,Pendleton County Schools,66202,Franklin Elementary School,44.66%,,52.23%,Y,314,140
-wv,50775,Pendleton County Schools,66205,North Fork Elementary School,57.39%,,57.39%,Y,115,66
-wv,50775,Pendleton County Schools,66502,Pendleton County Middle/High School,42.13%,,45.86%,Y,399,168
-wv,50776,Pleasants County Schools,67201,Belmont Elementary School,48.83%,,43.94%,Y,219,107
-wv,50776,Pleasants County Schools,67301,Pleasants County Middle School,43.81%,,43.94%,Y,325,142
-wv,50776,Pleasants County Schools,67202,St. Marys Elementary School,47.92%,,43.94%,Y,241,115
-wv,50776,Pleasants County Schools,67501,St. Marys High School,35.71%,,43.94%,Y,353,126
-wv,50777,Pocahontas County Schools,69102,Green Bank Elementary-Middle School,51.24%,,55.26%,Y,242,124
-wv,50777,Pocahontas County Schools,69101,Hillsboro Elementary School,51.69%,,55.26%,Y,89,46
-wv,50777,Pocahontas County Schools,69202,Marlinton Elementary School,67.10%,,55.26%,Y,231,155
-wv,50777,Pocahontas County Schools,69302,Marlinton Middle School,56.52%,,55.26%,Y,138,78
-wv,50777,Pocahontas County Schools,69501,Pocahontas County High School,49.46%,,55.26%,Y,279,138
-wv,50778,Preston County Schools,70101,Aurora Elementary,37.43%,,45.09%,Y,169,63
-wv,50778,Preston County Schools,70104,Bruceton School,31.23%,,45.09%,Y,617,193
-wv,50778,Preston County Schools,70401,Central Preston Middle School,47.90%,,45.09%,Y,335,160
-wv,50778,Preston County Schools,70203,Fellowsville Elementary,65.00%,,45.09%,Y,74,48
-wv,50778,Preston County Schools,70204,Kingwood Elementary,51.90%,,45.09%,Y,449,233
-wv,50778,Preston County Schools,70507,Preston High School,36.51%,,45.09%,Y,1168,426
-wv,50778,Preston County Schools,70103,Rowlesburg School,60.00%,,45.09%,Y,79,47
-wv,50778,Preston County Schools,70106,South Preston,53.73%,,45.09%,Y,370,199
-wv,50778,Preston County Schools,70105,Terra Alta/East Preston School,58.82%,,45.09%,Y,357,210
-wv,50778,Preston County Schools,70107,West Preston School,46.97%,,45.09%,Y,758,356
-wv,50779,Putnam County Schools,72205,Buffalo Elementary School,50.00%,,56.07%,Y,244,122
-wv,50779,Putnam County Schools,72505,Buffalo High School,35.76%,,,N,344,123
-wv,50779,Putnam County Schools,72210,Confidence Elementary,43.20%,,,N,125,54
-wv,50779,Putnam County Schools,72215,Conner Street Elementary,46.72%,,,N,411,192
-wv,50779,Putnam County Schools,72220,Eastbrook Elementary School,36.76%,,,N,253,93
-wv,50779,Putnam County Schools,72225,George Washington Elementary School,42.26%,,,N,265,112
-wv,50779,Putnam County Schools,72305,George Washington Middle School,40.85%,,,N,306,125
-wv,50779,Putnam County Schools,72230,Hometown Elementary,72.37%,,56.07%,Y,76,55
-wv,50779,Putnam County Schools,72510,Hurricane High School,26.17%,,,N,1280,335
-wv,50779,Putnam County Schools,72310,Hurricane Middle,30.60%,,,N,938,287
-wv,50779,Putnam County Schools,72235,Hurricane Town Elementary,36.24%,,,N,367,133
-wv,50779,Putnam County Schools,72240,Lakeside Elementary,58.65%,,56.07%,Y,237,139
-wv,50779,Putnam County Schools,72280,Mountain View Elementary School,36.64%,,,N,524,192
-wv,50779,Putnam County Schools,72255,Poca Elementary,55.56%,,56.07%,Y,306,170
-wv,50779,Putnam County Schools,72515,Poca High School,45.15%,,,N,485,219
-wv,50779,Putnam County Schools,72315,Poca Middle School,48.21%,,,N,280,135
-wv,50779,Putnam County Schools,72260,Rock Branch Elementary,55.09%,,56.07%,Y,216,119
-wv,50779,Putnam County Schools,72265,Scott Teays Elementary,22.53%,,,N,506,114
-wv,50779,Putnam County Schools,72270,West Teays Elementary,20.70%,,,N,546,113
-wv,50779,Putnam County Schools,72275,Winfield Elementary,36.62%,,,N,598,219
-wv,50779,Putnam County Schools,72520,Winfield High School,21.46%,,,N,783,168
-wv,50779,Putnam County Schools,72320,Winfield Middle School,29.72%,,,N,636,189
-wv,50780,Raleigh County Schools,74234,Beckley Elementary,81.69%,,58.30%,Y,366,299
-wv,50780,Raleigh County Schools,74409,Beckley-Stratton Middle School,65.96%,,,N,661,436
-wv,50780,Raleigh County Schools,74202,Bradley Elementary School,56.64%,,58.30%,Y,422,239
-wv,50780,Raleigh County Schools,74204,Clear Fork District Elementary,68.91%,,58.30%,Y,119,82
-wv,50780,Raleigh County Schools,74205,Coal City Elementary,75.58%,,58.30%,Y,385,291
-wv,50780,Raleigh County Schools,74207,Cranberry-Prosperity Elementary,65.65%,,58.30%,Y,262,172
-wv,50780,Raleigh County Schools,74208,Crescent Elementary,45.05%,,58.30%,Y,384,173
-wv,50780,Raleigh County Schools,74209,Daniels Elementary,45.33%,,58.30%,Y,600,272
-wv,50780,Raleigh County Schools,74211,Fairdale Elementary School,53.33%,,58.30%,Y,465,248
-wv,50780,Raleigh County Schools,74212,Ghent Elementary,48.92%,,58.30%,Y,231,113
-wv,50780,Raleigh County Schools,74213,Hollywood Elementary,38.78%,,58.30%,Y,263,102
-wv,50780,Raleigh County Schools,74502,Independence High School,47.49%,,,N,558,265
-wv,50780,Raleigh County Schools,74408,Independence Middle School,61.00%,,,N,459,280
-wv,50780,Raleigh County Schools,74503,Liberty High School,51.37%,,,N,510,262
-wv,50780,Raleigh County Schools,74217,Mabscott Elementary,80.07%,,58.30%,Y,271,217
-wv,50780,Raleigh County Schools,74232,Marsh Fork Elementary,63.27%,,58.30%,Y,196,124
-wv,50780,Raleigh County Schools,74218,Maxwell Hill Elementary,38.78%,,58.30%,Y,263,102
-wv,50780,Raleigh County Schools,74402,Park Middle School,43.49%,,,N,407,177
-wv,50780,Raleigh County Schools,74220,Ridgeview Elementary School,63.35%,,58.30%,Y,513,325
-wv,50780,Raleigh County Schools,74227,Shady Spring Elementary,46.46%,,58.30%,Y,495,230
-wv,50780,Raleigh County Schools,74505,Shady Spring High,32.84%,,,N,737,242
-wv,50780,Raleigh County Schools,74403,Shady Spring Middle School,40.60%,,,N,665,270
-wv,50780,Raleigh County Schools,74226,Stanaford Elementary School,57.20%,,58.30%,Y,271,155
-wv,50780,Raleigh County Schools,74233,Stratton Elementary,85.25%,,58.30%,Y,244,208
-wv,50780,Raleigh County Schools,74302,Trap Hill Middle School,53.44%,,,N,421,225
-wv,50780,Raleigh County Schools,74506,Woodrow Wilson High School,46.79%,,,N,1229,575
-wv,50781,Randolph County Schools,75201,Beverly Elementary School,65.58%,,52.20%,Y,276,181
-wv,50781,Randolph County Schools,75101,Coalton Elementary School,54.86%,,52.20%,Y,144,79
-wv,50781,Randolph County Schools,75504,Elkins High School,38.20%,,52.20%,Y,801,306
-wv,50781,Randolph County Schools,75401,Elkins Middle School,48.66%,,52.20%,Y,596,290
-wv,50781,Randolph County Schools,75203,Elkins Third Ward Elementary School,64.71%,,52.20%,Y,323,209
-wv,50781,Randolph County Schools,75204,George Ward Elementary School,66.95%,,52.20%,Y,348,233
-wv,50781,Randolph County Schools,75102,Harman Elementary/High School,55.09%,,52.20%,Y,167,92
-wv,50781,Randolph County Schools,75202,Jennings Randolph Elementary School,56.99%,,52.20%,Y,272,155
-wv,50781,Randolph County Schools,75206,Midland Elementary School,53.44%,,52.20%,Y,247,132
-wv,50781,Randolph County Schools,75207,North Elementary School,52.38%,,52.20%,Y,231,121
-wv,50781,Randolph County Schools,75103,Pickens Elementary/High School,48.57%,,52.20%,Y,35,17
-wv,50781,Randolph County Schools,75505,Randolph County Alternative Learning Center,87.50%,,52.20%,Y,8,7
-wv,50781,Randolph County Schools,75503,Tygarts Valley Middle/High School,47.19%,,52.20%,Y,445,210
-wv,50782,Ritchie County Schools,77205,Creed Collins Elementary,59.62%,,62.50%,Y,209,125
-wv,50782,Ritchie County Schools,77204,Harrisville Elementary,62.84%,,62.50%,Y,218,137
-wv,50782,Ritchie County Schools,77501,Ritchie County High School,45.09%,,46.57%,Y,423,191
-wv,50782,Ritchie County Schools,77302,Ritchie County Middle,55.79%,,58.24%,Y,340,190
-wv,50782,Ritchie County Schools,77207,Smithville Elementary,60.61%,,62.50%,Y,121,73
-wv,50783,Roane County Schools,79202,Geary Elementary School,59.09%,,58.30%,Y,279,165
-wv,50783,Roane County Schools,79503,Roane County High,46.91%,,58.30%,Y,609,286
-wv,50783,Roane County Schools,79205,Spencer Elementary School,56.99%,,58.30%,Y,549,313
-wv,50783,Roane County Schools,79301,Spencer Middle School,50.55%,,58.30%,Y,396,200
-wv,50783,Roane County Schools,79206,Walton Elementary/Middle School,46.76%,,58.30%,Y,347,162
-wv,50784,Summers County Schools,81203,Hinton Area Elementary School,72.57%,,62.50%,Y,401,291
-wv,50784,Summers County Schools,81204,Jumping Branch Elementary School,67.96%,,62.50%,Y,103,70
-wv,50784,Summers County Schools,81502,Summers County High School,56.91%,,62.50%,Y,427,243
-wv,50784,Summers County Schools,81301,Summers Middle School,56.23%,,62.50%,Y,345,194
-wv,50784,Summers County Schools,81102,Talcott Elementary School,72.30%,,62.50%,Y,213,154
-wv,50785,Taylor County Schools,83201,Anna Jarvis Elementary School,55.02%,,46.16%,Y,578,318
-wv,50785,Taylor County Schools,83202,Flemington Elementary School,66.89%,,46.16%,Y,148,99
-wv,50785,Taylor County Schools,83502,Grafton High School,40.09%,,46.16%,Y,661,265
-wv,50785,Taylor County Schools,83302,Taylor County Middle School,46.21%,,46.16%,Y,699,323
-wv,50785,Taylor County Schools,83204,West Taylor Elementary School,33.02%,,46.16%,Y,321,106
-wv,50786,Tucker County Schools,84101,Davis Thomas Elementary Middle School,47.89%,,49.72%,Y,212,102
-wv,50786,Tucker County Schools,84501,Tucker County High School,42.61%,,42.61%,Y,291,124
-wv,50786,Tucker County Schools,84103,Tucker Valley Elementary Middle School,46.33%,,49.72%,Y,512,237
-wv,50787,Tyler County Schools,85201,Arthur I Boreman Elementary School,49.53%,,49.53%,Y,319,158
-wv,50787,Tyler County Schools,85202,Sistersville Elementary School,55.02%,,58.33%,Y,276,152
-wv,50787,Tyler County Schools,85503,Tyler Consolidated High School,37.03%,,43.80%,Y,347,128
-wv,50787,Tyler County Schools,85303,Tyler Consolidated Middle School,43.01%,,43.01%,Y,279,120
-wv,50788,Upshur County Schools,87301,B-U Middle School,49.35%,,53.77%,Y,845,417
-wv,50788,Upshur County Schools,87202,Buckhannon Academy Elementary School,66.06%,,53.77%,Y,604,399
-wv,50788,Upshur County Schools,87501,Buckhannon-Upshur High School,48.04%,,53.77%,Y,1047,503
-wv,50788,Upshur County Schools,87205,French Creek Elementary,50.00%,,53.77%,Y,230,115
-wv,50788,Upshur County Schools,87206,Hodgesville Elementary,63.40%,,53.77%,Y,194,123
-wv,50788,Upshur County Schools,87208,Rock Cave Elementary,64.93%,,53.77%,Y,134,87
-wv,50788,Upshur County Schools,87209,Tennerton Elementary,54.13%,,53.77%,Y,351,190
-wv,50788,Upshur County Schools,87211,Union Elementary School,55.52%,,53.77%,Y,335,186
-wv,50788,Upshur County Schools,87210,Washington District Elementary,46.88%,,53.77%,Y,128,60
-wv,50789,Wayne County Schools,89202,Buffalo Elementary School,47.36%,,53.05%,Y,442,209
-wv,50789,Wayne County Schools,89301,Buffalo Middle School,45.56%,,53.05%,Y,270,123
-wv,50789,Wayne County Schools,89217,Ceredo-Kenova Elementary,49.85%,,53.05%,Y,642,320
-wv,50789,Wayne County Schools,89302,Ceredo-Kenova Middle School,49.42%,,53.05%,Y,239,118
-wv,50789,Wayne County Schools,89102,Crum Pk-8,64.16%,,53.05%,Y,285,183
-wv,50789,Wayne County Schools,89207,Dunlow Elementary School,61.36%,,53.05%,Y,86,53
-wv,50789,Wayne County Schools,89216,East Lynn Elementary School,67.36%,,53.05%,Y,157,106
-wv,50789,Wayne County Schools,89101,Fort Gay Pk-8,66.73%,,53.05%,Y,566,378
-wv,50789,Wayne County Schools,89209,Genoa Elementary School,75.36%,,53.05%,Y,65,49
-wv,50789,Wayne County Schools,89210,Kellogg Elementary School,57.70%,,53.05%,Y,441,254
-wv,50789,Wayne County Schools,89212,Lavalette Elementary School,53.72%,,53.05%,Y,227,122
-wv,50789,Wayne County Schools,89213,Prichard Elementary School,49.69%,,53.05%,Y,162,80
-wv,50789,Wayne County Schools,89508,Spring Valley High School,39.49%,,53.05%,Y,1007,398
-wv,50789,Wayne County Schools,89507,Tolsia High School,58.22%,,53.05%,Y,384,224
-wv,50789,Wayne County Schools,89306,Vinson Middle School,43.97%,,53.05%,Y,190,84
-wv,50789,Wayne County Schools,89215,Wayne Elementary School,56.36%,,53.05%,Y,555,313
-wv,50789,Wayne County Schools,89506,Wayne High School,50.00%,,53.05%,Y,614,307
-wv,50789,Wayne County Schools,89305,Wayne Middle School,51.80%,,53.05%,Y,471,244
-wv,50790,Webster County Schools,91202,Glade Elementary School,69.37%,,62.50%,Y,395,274
-wv,50790,Webster County Schools,91203,Hacker Valley School,77.05%,,62.50%,Y,61,47
-wv,50790,Webster County Schools,91501,Webster County High School,63.53%,,62.50%,Y,532,338
-wv,50790,Webster County Schools,91204,Webster Springs Elementary School,68.46%,,62.50%,Y,279,191
-wv,50791,Wetzel County Schools,92501,Hundred High School,48.98%,,47.70%,Y,98,48
-wv,50791,Wetzel County Schools,92201,Long Drain School,69.15%,,60.87%,Y,208,144
-wv,50791,Wetzel County Schools,92502,Magnolia High School,50.25%,,52.04%,Y,394,198
-wv,50791,Wetzel County Schools,92202,New Martinsville School,58.73%,,60.87%,Y,914,537
-wv,50791,Wetzel County Schools,92203,Paden City Elementary School,56.52%,,52.04%,Y,207,117
-wv,50791,Wetzel County Schools,92503,Paden City High School,50.82%,,52.04%,Y,183,93
-wv,50791,Wetzel County Schools,92204,Short Line School,59.01%,,59.01%,Y,383,226
-wv,50791,Wetzel County Schools,92504,Valley High School,46.81%,,47.70%,Y,141,66
-wv,50792,Wirt County Schools,94501,Wirt County High School,46.79%,,54.44%,Y,280,131
-wv,50792,Wirt County Schools,94301,Wirt County Middle School,54.73%,,54.44%,Y,296,162
-wv,50792,Wirt County Schools,94201,Wirt County Primary Center,59.38%,,54.44%,Y,416,247
-wv,50793,Wood County Schools,96201,Blennerhassett Elementary School,47.36%,,49.41%,Y,530,251
-wv,50793,Wood County Schools,96401,Blennerhassett Middle School,46.04%,,49.41%,Y,480,221
-wv,50793,Wood County Schools,96205,Criss Elementary School,49.65%,,49.41%,Y,286,142
-wv,50793,Wood County Schools,96402,Edison Middle School,53.38%,,49.41%,Y,637,340
-wv,50793,Wood County Schools,96206,Emerson Elementary School,56.75%,,49.41%,Y,486,276
-wv,50793,Wood County Schools,96207,Fairplains Elementary School,78.81%,,49.41%,Y,236,186
-wv,50793,Wood County Schools,96237,Franklin Elementary Center,79.37%,,49.41%,Y,286,227
-wv,50793,Wood County Schools,96208,Gihon Elementary School,50.29%,,49.41%,Y,348,175
-wv,50793,Wood County Schools,96209,Greenmont Elementary School,25.85%,,49.41%,Y,236,61
-wv,50793,Wood County Schools,96404,Hamilton Middle School,55.04%,,49.41%,Y,476,262
-wv,50793,Wood County Schools,96405,Jackson Middle School,38.27%,,49.41%,Y,486,186
-wv,50793,Wood County Schools,96211,Jefferson Elementary Center,84.85%,,49.41%,Y,673,571
-wv,50793,Wood County Schools,96212,Kanawha Elementary School,55.73%,,49.41%,Y,314,175
-wv,50793,Wood County Schools,96215,Lubeck Elementary School,36.43%,,49.41%,Y,431,157
-wv,50793,Wood County Schools,96216,Madison Elementary School,56.17%,,49.41%,Y,324,182
-wv,50793,Wood County Schools,96238,Martin Elementary School,64.62%,,49.41%,Y,260,168
-wv,50793,Wood County Schools,96218,Mckinley Elementary School,79.78%,,,N,277,221
-wv,50793,Wood County Schools,96219,Mineral Wells Elementary School,49.18%,,49.41%,Y,547,269
-wv,50793,Wood County Schools,96222,Neale Elementary School,50.58%,,49.41%,Y,429,217
-wv,50793,Wood County Schools,96501,Parkersburg High School,46.27%,,49.41%,Y,1634,756
-wv,50793,Wood County Schools,96502,Parkersburg South High School,41.41%,,49.41%,Y,1437,595
-wv,50793,Wood County Schools,96406,Van Devender Middle School,75.66%,,49.41%,Y,378,286
-wv,50793,Wood County Schools,96231,Vienna Elementary School,41.71%,,49.41%,Y,362,151
-wv,50793,Wood County Schools,96234,Waverly Elementary School,54.07%,,,N,135,73
-wv,50793,Wood County Schools,96235,Williamstown Elementary School,28.18%,,49.41%,Y,763,215
-wv,50793,Wood County Schools,96503,Williamstown High School,27.24%,,49.41%,Y,591,161
-wv,50793,Wood County Schools,96236,Worthington Elementary School,50.00%,,,N,160,80
-wv,50794,Wyoming County Schools,98201,Baileysville Elementary & Middle School,60.58%,,60.35%,Y,343,208
-wv,50794,Wyoming County Schools,98202,Berlin Mckinney Elementary School,59.34%,,60.35%,Y,385,228
-wv,50794,Wyoming County Schools,98204,Glen Fork Elementary & Middle School,42.11%,,60.35%,Y,178,75
-wv,50794,Wyoming County Schools,98206,Herndon Cons Elementary & Middle School,62.36%,,60.35%,Y,189,118
-wv,50794,Wyoming County Schools,98207,Huff Cons Elementary & Middle School,59.70%,,60.35%,Y,289,173
-wv,50794,Wyoming County Schools,98211,Mullens Elementary School,59.65%,,60.35%,Y,241,144
-wv,50794,Wyoming County Schools,98301,Mullens Middle School,56.21%,,60.35%,Y,163,92
-wv,50794,Wyoming County Schools,98302,Oceana Middle School,52.81%,,60.35%,Y,255,135
-wv,50794,Wyoming County Schools,98212,Pineville Elementary School,54.83%,,60.35%,Y,440,241
-wv,50794,Wyoming County Schools,98303,Pineville Middle School,46.91%,,60.35%,Y,244,114
-wv,50794,Wyoming County Schools,98214,Road Branch Elementary & Middle School,58.89%,,60.35%,Y,186,110
-wv,50794,Wyoming County Schools,98508,Westside High School,53.10%,,60.35%,Y,610,324
-wv,50794,Wyoming County Schools,98507,Wyoming County East High School,53.19%,,60.35%,Y,522,278
+state,District Code,District Name,School Code,School Name,individual_isp,proxy_isp,claiming_isp,participating_in_cep,total_enrolled,total_eligible
+wv,50740,BARBOUR CO BD OF EDUCATION,2201,BELINGTON ELEMENTARY,59.17%,,59.17%,Y,289,171
+wv,50740,BARBOUR CO BD OF EDUCATION,2302,BELINGTON MIDDLE SCH,45.11%,,45.11%,Y,266,120
+wv,50740,BARBOUR CO BD OF EDUCATION,2202,JUNIOR ELEMENTARY,52.43%,,52.43%,Y,103,54
+wv,50740,BARBOUR CO BD OF EDUCATION,2101,KASSON ELEM. & MIDDL,46.74%,,46.74%,Y,184,86
+wv,50740,BARBOUR CO BD OF EDUCATION,2501,PHILIP BARBOUR HIGH,43.69%,,43.69%,Y,611,267
+wv,50740,BARBOUR CO BD OF EDUCATION,2204,PHILIPPI ELEMENTARY,58.67%,,58.67%,Y,392,230
+wv,50740,BARBOUR CO BD OF EDUCATION,2303,PHILIPPI MIDDLE SCHO,58.42%,,58.42%,Y,303,177
+wv,50741,BERKELEY CO BD OF EDUCATION,4201,BACK CREEK VALLEY,43.40%,,54.49%,Y,159,69
+wv,50741,BERKELEY CO BD OF EDUCATION,4202,BEDINGTON ELEMENTARY,46.24%,,54.49%,Y,186,86
+wv,50741,BERKELEY CO BD OF EDUCATION,4203,BERKELEY HEIGHTS SCH,65.55%,,54.49%,Y,746,489
+wv,50741,BERKELEY CO BD OF EDUCATION,4204,BUNKER HILL ELEMENTA,42.27%,,54.49%,Y,414,175
+wv,50741,BERKELEY CO BD OF EDUCATION,4205,BURKE STREET ELEM SC,59.05%,,54.49%,Y,337,199
+wv,50741,BERKELEY CO BD OF EDUCATION,4218,EAGLE SCHOOL INTERME,61.69%,,54.49%,Y,723,446
+wv,50741,BERKELEY CO BD OF EDUCATION,4206,GERRARDSTOWN ELEMENT,49.21%,,54.49%,Y,254,125
+wv,50741,BERKELEY CO BD OF EDUCATION,4502,MARTINSBURG HIGH SCH,50.25%,,54.49%,Y,1385,696
+wv,50741,BERKELEY CO BD OF EDUCATION,4303,MARTINSBURG SOUTH MI,55.84%,,54.49%,Y,856,478
+wv,50741,BERKELEY CO BD OF EDUCATION,4302,MARTINSBURG NORTH MI,60.86%,,54.49%,Y,700,426
+wv,50741,BERKELEY CO BD OF EDUCATION,4220,MOUNTAIN RIDGE INTER,43.34%,,54.49%,Y,586,254
+wv,50741,BERKELEY CO BD OF EDUCATION,4210,OPEQUON ELEMENTARY S,54.34%,,54.49%,Y,449,244
+wv,50741,BERKELEY CO BD OF EDUCATION,4219,ORCHARD VIEW INTERME,57.94%,,54.49%,Y,554,321
+wv,50741,BERKELEY CO BD OF EDUCATION,4211,ROSEMONT ELEMENTARY,43.88%,,54.49%,Y,433,190
+wv,50741,BERKELEY CO BD OF EDUCATION,4212,TUSCARORA ELEM SCHOO,60.06%,,54.49%,Y,358,215
+wv,50741,BERKELEY CO BD OF EDUCATION,4214,WINCHESTER AVENUE,60.71%,,54.49%,Y,364,221
+wv,50742,BOONE CO BD OF EDUCATION,6201,ASHFORD-RUMBLE ELEME,72.13%,,59.25%,Y,122,88
+wv,50742,BOONE CO BD OF EDUCATION,6220,BROOKVIEW ELEMENTARY,61.83%,,59.25%,Y,317,196
+wv,50742,BOONE CO BD OF EDUCATION,6207,MADISON ELEMENTARY,56.88%,,59.25%,Y,276,157
+wv,50742,BOONE CO BD OF EDUCATION,6301,MADISON MIDDLE SCHOO,60.71%,,59.25%,Y,420,255
+wv,50742,BOONE CO BD OF EDUCATION,6212,RAMAGE GRADE SCHOOL,71.50%,,59.25%,Y,200,143
+wv,50742,BOONE CO BD OF EDUCATION,6501,SCOTT HIGH SCHOOL,53.07%,,59.25%,Y,554,294
+wv,50742,BOONE CO BD OF EDUCATION,6219,SHERMAN ELEMENTARY,63.37%,,59.25%,Y,243,154
+wv,50742,BOONE CO BD OF EDUCATION,6502,SHERMAN HIGH SCHOOL,53.72%,,59.25%,Y,592,318
+wv,50742,BOONE CO BD OF EDUCATION,6215,VAN ELEMENTARY,70.29%,,59.25%,Y,138,97
+wv,50742,BOONE CO BD OF EDUCATION,6503,VAN JUNIOR SENIOR HI,58.15%,,59.25%,Y,184,107
+wv,50742,BOONE CO BD OF EDUCATION,6102,WHITESVILLE ELEMENTA,55.24%,,59.25%,Y,105,58
+wv,50743,BRAXTON CO BD OF EDUCATION,8501,BRAXTON COUNTY HIGH,47.55%,,57.67%,Y,511,243
+wv,50743,BRAXTON CO BD OF EDUCATION,8303,BRAXTON COUNTY MIDDL,58.08%,,57.67%,Y,396,230
+wv,50743,BRAXTON CO BD OF EDUCATION,8101,BURNSVILLE SCHOOL,64.00%,,57.67%,Y,125,80
+wv,50743,BRAXTON CO BD OF EDUCATION,8201,DAVIS ELEMENTARY,56.90%,,57.67%,Y,174,99
+wv,50743,BRAXTON CO BD OF EDUCATION,8202,FLATWOODS ELEMENTARY,65.56%,,57.67%,Y,180,118
+wv,50743,BRAXTON CO BD OF EDUCATION,8203,FRAMETOWN ELEMENTARY,55.88%,,57.67%,Y,136,76
+wv,50743,BRAXTON CO BD OF EDUCATION,8204,LITTLE BIRCH ELEM.,75.00%,,57.67%,Y,88,66
+wv,50743,BRAXTON CO BD OF EDUCATION,8205,SUTTON ELEMENTARY SC,68.15%,,57.67%,Y,157,107
+wv,50744,BROOKE CO BD OF EDUCATION,10502,BROOKE HIGH SCHOOL,39.00%,,45.31%,Y,1023,399
+wv,50744,BROOKE CO BD OF EDUCATION,10208,BROOKE PRIMARY SCHOOL NORTH,53.10%,,45.31%,Y,258,137
+wv,50744,BROOKE CO BD OF EDUCATION,10209,BROOKE PRIMARY SOUTH,57.14%,,45.31%,Y,203,116
+wv,50744,BROOKE CO BD OF EDUCATION,10210,BROOKE INTERMEDIATE NORTH,50.27%,,45.31%,Y,183,92
+wv,50744,BROOKE CO BD OF EDUCATION,10304,BROOKE MIDDLE SCHOOL,45.62%,,45.31%,Y,765,349
+wv,50744,BROOKE CO BD OF EDUCATION,10211,BROOKE INTERMEDIATE SOUTH,52.34%,,45.31%,Y,128,67
+wv,50745,CABELL CO BD OF EDUCATION,12203,ALTIZER ELEMENTARY,59.17%,,51.54%,Y,240,142
+wv,50745,CABELL CO BD OF EDUCATION,12301,BARBOURSVILLE MIDDLE,38.96%,,51.54%,Y,711,277
+wv,50745,CABELL CO BD OF EDUCATION,12550,CABELL MIDLAND HIGH,34.95%,,51.54%,Y,1734,606
+wv,50745,CABELL CO BD OF EDUCATION,12290,CENTRAL CITY ELEMENT,89.07%,,51.54%,Y,439,391
+wv,50745,CABELL CO BD OF EDUCATION,12218,COX LANDING ELEMENTA,58.10%,,51.54%,Y,210,122
+wv,50745,CABELL CO BD OF EDUCATION,12221,CULLODEN ELEMENTARY,43.64%,,51.54%,Y,220,96
+wv,50745,CABELL CO BD OF EDUCATION,12224,DAVIS CREEK ELEMENTA,39.60%,,51.54%,Y,202,80
+wv,50745,CABELL CO BD OF EDUCATION,12236,GUYANDOTTE ELEMENTAR,79.92%,,51.54%,Y,239,191
+wv,50745,CABELL CO BD OF EDUCATION,12239,HIGHLAWN ELEMENTARY,71.95%,,51.54%,Y,303,218
+wv,50745,CABELL CO BD OF EDUCATION,12242,HITE-SAUNDERS ELEMEN,40.11%,,51.54%,Y,187,75
+wv,50745,CABELL CO BD OF EDUCATION,12560,HUNTINGTON HIGH SCHO,55.31%,,51.54%,Y,1620,896
+wv,50745,CABELL CO BD OF EDUCATION,12310,HUNTINGTON MIDDLE,60.32%,,51.54%,Y,678,409
+wv,50745,CABELL CO BD OF EDUCATION,12251,MARTHA ELEMENTARY,40.39%,,51.54%,Y,203,82
+wv,50745,CABELL CO BD OF EDUCATION,12254,MEADOWS ELEMENTARY,48.40%,,51.54%,Y,250,121
+wv,50745,CABELL CO BD OF EDUCATION,12263,MILTON ELEMENTARY,52.64%,,51.54%,Y,587,309
+wv,50745,CABELL CO BD OF EDUCATION,12308,MILTON MIDDLE SCHOOL,39.59%,,51.54%,Y,581,230
+wv,50745,CABELL CO BD OF EDUCATION,12269,NICHOLS ELEMENTARY,38.03%,,51.54%,Y,234,89
+wv,50745,CABELL CO BD OF EDUCATION,12272,ONA ELEMENTARY,36.24%,,51.54%,Y,287,104
+wv,50745,CABELL CO BD OF EDUCATION,12285,SALT ROCK ELEMENTARY,45.78%,,51.54%,Y,225,103
+wv,50745,CABELL CO BD OF EDUCATION,12292,SOUTHSIDE ELEMENTARY,45.92%,,51.54%,Y,453,208
+wv,50745,CABELL CO BD OF EDUCATION,12287,SPRING HILL ELEMENTA,85.07%,,51.54%,Y,375,319
+wv,50745,CABELL CO BD OF EDUCATION,12291,VILLAGE OF BARBOURSV,38.70%,,51.54%,Y,664,257
+wv,50745,CABELL CO BD OF EDUCATION,12701,CABELL COUNTY CAREER TECHNOLOGY CENTER,100.00%,,51.54%,Y,1,1
+wv,50745,CABELL CO BD OF EDUCATION,12502,CROSSROADS ACADEMY,65.00%,,51.54%,Y,80,52
+wv,50745,CABELL CO BD OF EDUCATION,12311,HUNTINGTON EAST MIDDLE ,69.21%,,51.54%,Y,604,418
+wv,50745,CABELL CO BD OF EDUCATION,12227,EXPLORER ACADAMY,60.94%,,51.54%,Y,448,273
+wv,50746,CALHOUN CO BD OF EDUCATION,14201,ARNOLDSBURG ELEMENTA,59.88%,,62.50%,Y,172,103
+wv,50746,CALHOUN CO BD OF EDUCATION,14501,CALHOUN MIDDLE HIGH,61.03%,,62.50%,Y,503,307
+wv,50746,CALHOUN CO BD OF EDUCATION,14203,PLEASANT HILL SCHOOL,74.72%,,62.50%,Y,178,133
+wv,50747,CLAY CO BD OF EDUCATION,16209,BIG OTTER ELEMENTARY,66.15%,,62.50%,Y,192,127
+wv,50747,CLAY CO BD OF EDUCATION,16202,CLAY ELEMENTARY,75.23%,,62.50%,Y,331,249
+wv,50747,CLAY CO BD OF EDUCATION,16501,CLAY HIGH SCHOOL,60.74%,,62.50%,Y,517,314
+wv,50747,CLAY CO BD OF EDUCATION,16301,CLAY MIDDLE SCHOOL,66.00%,,62.50%,Y,403,266
+wv,50747,CLAY CO BD OF EDUCATION,16208,H.E. WHITE ELEMENTAR,75.61%,,62.50%,Y,82,62
+wv,50747,CLAY CO BD OF EDUCATION,16205,LIZEMORE ELEMENTARY,67.86%,,62.50%,Y,112,76
+wv,50748,DODDRIDGE CO BD OF EDUCATION,18501,DODDRIDGE CO. HIGH S,42.26%,,49.63%,Y,310,131
+wv,50748,DODDRIDGE CO BD OF EDUCATION,18301,DODDRIDGE CO. MIDDLE,51.03%,,49.63%,Y,339,173
+wv,50748,DODDRIDGE CO BD OF EDUCATION,18211,DODDRIDGE CO.ELEMENT,51.91%,,49.63%,Y,366,190
+wv,50748,DODDRIDGE CO BD OF EDUCATION,18212,DODDRIDGE COUNTY PRESCHOOL CENTER,62.34%,,49.63%,Y,77,48
+wv,50749,FAYETTE COUNTY BOARD OF EDUCATION,20201,ANSTED ELEMENTARY SC,55.94%,,56.12%,Y,202,113
+wv,50749,FAYETTE COUNTY BOARD OF EDUCATION,20302,OAK HILL MIDDLE SCHOOL,58.81%,,56.12%,Y,658,387
+wv,50749,FAYETTE COUNTY BOARD OF EDUCATION,20206,DIVIDE ELEM SCHOOL,49.02%,,56.12%,Y,204,100
+wv,50749,FAYETTE COUNTY BOARD OF EDUCATION,20215,MEADOW BRIDGE ELEMEN,57.52%,,56.12%,Y,226,130
+wv,50749,FAYETTE COUNTY BOARD OF EDUCATION,20503,MEADOW BRIDGE HIGH,52.31%,,56.12%,Y,195,102
+wv,50749,FAYETTE COUNTY BOARD OF EDUCATION,20504,MIDLAND TRAIL HIGH S,47.50%,,56.12%,Y,619,294
+wv,50749,FAYETTE COUNTY BOARD OF EDUCATION,20506,OAK HILL HIGH SCHOOL,51.51%,,56.12%,Y,1093,563
+wv,50749,FAYETTE COUNTY BOARD OF EDUCATION,20226,NEW RIVER INTERMEDIATE,62.67%,,56.12%,Y,600,376
+wv,50749,FAYETTE COUNTY BOARD OF EDUCATION,20101,FAYETTEVILLE PRE K-8,52.98%,,56.12%,Y,570,302
+wv,50749,FAYETTE COUNTY BOARD OF EDUCATION,20227,NEW RIVER PRIMARY,63.46%,,56.12%,Y,687,436
+wv,50749,FAYETTE COUNTY BOARD OF EDUCATION,20102,VALLEY PRE K-8,62.23%,,56.12%,Y,548,341
+wv,50750,GILMER CO BD OF EDUCATION,22501,GILMER COUNTY HIGH S,48.38%,,47.81%,Y,432,209
+wv,50750,GILMER CO BD OF EDUCATION,22206,GILMER COUNTY ELEMENTARY,47.11%,,47.81%,Y,346,163
+wv,50751,GRANT CO BD OF EDUCATION,24202,MAYSVILLE ELEMENTARY,50.63%,,50.53%,Y,158,80
+wv,50751,GRANT CO BD OF EDUCATION,24203,PETERSBURG ELEM,52.88%,,50.53%,Y,626,331
+wv,50751,GRANT CO BD OF EDUCATION,24501,PETERSBURG HIGH SCHO,46.84%,,50.53%,Y,617,289
+wv,50751,GRANT CO BD OF EDUCATION,24101,UNION EDUCATIONAL,54.79%,,50.53%,Y,188,103
+wv,50752,GREENBRIER CO BD OF EDUCATION,26201,ALDERSON ELEMENTARY,68.14%,,52.93%,Y,204,139
+wv,50752,GREENBRIER CO BD OF EDUCATION,26101,CRICHTON ELEMENTARY,79.12%,,52.93%,Y,91,72
+wv,50752,GREENBRIER CO BD OF EDUCATION,26406,EASTERN GREENBRIER M,47.58%,,52.93%,Y,784,373
+wv,50752,GREENBRIER CO BD OF EDUCATION,26204,FRANKFORD,49.77%,,52.93%,Y,213,106
+wv,50752,GREENBRIER CO BD OF EDUCATION,26501,GREENBRIER EAST HIGH,40.48%,,52.93%,Y,993,402
+wv,50752,GREENBRIER CO BD OF EDUCATION,26502,GREENBRIER WEST HIGH,60.20%,,52.93%,Y,407,245
+wv,50752,GREENBRIER CO BD OF EDUCATION,26205,LEWISBURG ELEMENTARY,43.84%,,52.93%,Y,495,217
+wv,50752,GREENBRIER CO BD OF EDUCATION,26102,RAINELLE ELEMENTARY,73.68%,,52.93%,Y,209,154
+wv,50752,GREENBRIER CO BD OF EDUCATION,26207,RONCEVERTE ELEMENTAR,56.60%,,52.93%,Y,394,223
+wv,50752,GREENBRIER CO BD OF EDUCATION,26103,RUPERT ELEMENTARY,74.32%,,52.93%,Y,183,136
+wv,50752,GREENBRIER CO BD OF EDUCATION,26104,SMOOT ELEMENTARY,48.00%,,52.93%,Y,150,72
+wv,50752,GREENBRIER CO BD OF EDUCATION,26407,WESTERN GREENBRIER M,64.01%,,52.93%,Y,289,185
+wv,50752,GREENBRIER CO BD OF EDUCATION,26208,WHITE SULPHUR ELEMEN,56.36%,,52.93%,Y,330,186
+wv,50753,HAMPSHIRE CO BD OF EDUCATION,28201,AUGUSTA ELEMEMTARY,48.77%,,50.36%,Y,285,139
+wv,50753,HAMPSHIRE CO BD OF EDUCATION,28209,CAPON BRIDGE ELEMENT,50.00%,,50.36%,Y,302,151
+wv,50753,HAMPSHIRE CO BD OF EDUCATION,28401,CAPON BRIDGE MIDDLE,51.48%,,50.36%,Y,270,139
+wv,50753,HAMPSHIRE CO BD OF EDUCATION,28501,HAMPSHIRE HIGH,44.14%,,50.36%,Y,777,343
+wv,50753,HAMPSHIRE CO BD OF EDUCATION,28206,ROMNEY ELEMENTARY SC,60.38%,,50.36%,Y,472,285
+wv,50753,HAMPSHIRE CO BD OF EDUCATION,28402,ROMNEY MIDDLE SCHOOL,51.34%,,50.36%,Y,372,191
+wv,50753,HAMPSHIRE CO BD OF EDUCATION,28207,SLANESVILLE ELEMENTA,41.62%,,50.36%,Y,197,82
+wv,50753,HAMPSHIRE CO BD OF EDUCATION,28208,SPRINGFIELD GREEN SP,66.67%,,50.36%,Y,105,70
+wv,50754,HANCOCK CO BD OF EDUCATION,29210,A. T. ALLISON ELEMEN,49.07%,,44.16%,Y,322,158
+wv,50754,HANCOCK CO BD OF EDUCATION,29208,NEW MANCHESTER SCHOO,39.25%,,44.16%,Y,265,104
+wv,50754,HANCOCK CO BD OF EDUCATION,29501,OAK GLEN HIGH SCHOOL,37.64%,,44.16%,Y,518,195
+wv,50754,HANCOCK CO BD OF EDUCATION,29303,OAK GLEN MIDDLE SCHO,39.01%,,44.16%,Y,505,197
+wv,50754,HANCOCK CO BD OF EDUCATION,29502,WEIR HIGH SCHOOL,35.40%,,44.16%,Y,596,211
+wv,50754,HANCOCK CO BD OF EDUCATION,29301,WEIR MIDDLE SCHOOL,46.99%,,44.16%,Y,598,281
+wv,50754,HANCOCK CO BD OF EDUCATION,29211,WEIRTON ELEMENTARY,55.01%,,44.16%,Y,849,467
+wv,50755,HARDY CO BD OF EDUCATION,31204,EAST HARDY ELEMENTARY,52.60%,,53.50%,Y,443,233
+wv,50755,HARDY CO BD OF EDUCATION,31501,EAST HARDY HIGH SCHO,40.37%,,53.50%,Y,218,88
+wv,50755,HARDY CO BD OF EDUCATION,31202,MOOREFIELD ELEMENTAR,66.14%,,53.50%,Y,443,293
+wv,50755,HARDY CO BD OF EDUCATION,31502,MOOREFIELD HIGH SCHO,50.45%,,53.50%,Y,448,226
+wv,50755,HARDY CO BD OF EDUCATION,31301,MOOREFIELD MIDDLE SC,50.80%,,53.50%,Y,374,190
+wv,50755,HARDY CO BD OF EDUCATION,31205,MOOREFIELD INTERMEDIATE,53.65%,,53.50%,Y,315,169
+wv,50756,HARRISON CO BD OF EDUCATION,33231,BIG ELM ELEMENTARY S,51.14%,,44.97%,Y,657,336
+wv,50756,HARRISON CO BD OF EDUCATION,33501,BRIDGEPORT HIGH SCHO,17.88%,,44.97%,Y,822,147
+wv,50756,HARRISON CO BD OF EDUCATION,33303,BRIDGEPORT MIDDLE,23.61%,,44.97%,Y,593,140
+wv,50756,HARRISON CO BD OF EDUCATION,33208,JOHNSON ELEMENTARY,21.43%,,44.97%,Y,756,162
+wv,50756,HARRISON CO BD OF EDUCATION,33502,LIBERTY HIGH SCHOOL,49.02%,,44.97%,Y,459,225
+wv,50756,HARRISON CO BD OF EDUCATION,33503,LINCOLN HIGH SCHOOL,47.12%,,44.97%,Y,573,270
+wv,50756,HARRISON CO BD OF EDUCATION,33210,LOST CREEK ELEMENTAR,51.09%,,44.97%,Y,137,70
+wv,50756,HARRISON CO BD OF EDUCATION,33211,LUMBERPORT ELEMENTAR,53.69%,,44.97%,Y,244,131
+wv,50756,HARRISON CO BD OF EDUCATION,33304,LINCOLN MIDDLE SCHOOL,54.31%,,44.97%,Y,418,227
+wv,50756,HARRISON CO BD OF EDUCATION,33309,MOUNTAINEER MIDDLE S,56.93%,,44.97%,Y,397,226
+wv,50756,HARRISON CO BD OF EDUCATION,33213,NORTH VIEW ELEMENTAR,71.99%,,44.97%,Y,307,221
+wv,50756,HARRISON CO BD OF EDUCATION,33214,NORWOOD ELEMENTARY,42.86%,,44.97%,Y,322,138
+wv,50756,HARRISON CO BD OF EDUCATION,33233,NUTTER FORT INTERMED,65.54%,,44.97%,Y,444,291
+wv,50756,HARRISON CO BD OF EDUCATION,33232,NUTTER FORT PRIMARY,64.20%,,44.97%,Y,581,373
+wv,50756,HARRISON CO BD OF EDUCATION,33506,ROBERT C. BYRD,46.35%,,44.97%,Y,727,337
+wv,50756,HARRISON CO BD OF EDUCATION,33234,SALEM ELEMENTARY SCH,49.76%,,44.97%,Y,207,103
+wv,50756,HARRISON CO BD OF EDUCATION,33220,SIMPSON ELEMENTARY,30.75%,,44.97%,Y,452,139
+wv,50756,HARRISON CO BD OF EDUCATION,33505,SOUTH HARRISON HIGH,29.46%,,44.97%,Y,336,99
+wv,50756,HARRISON CO BD OF EDUCATION,33308,SOUTH HARRISON MIDDL,36.84%,,44.97%,Y,285,105
+wv,50756,HARRISON CO BD OF EDUCATION,33307,WASHINGTON IRVING MI,52.86%,,44.97%,Y,524,277
+wv,50756,HARRISON CO BD OF EDUCATION,33225,WEST MILFORD ELEMENT,46.93%,,44.97%,Y,407,191
+wv,50756,HARRISON CO BD OF EDUCATION,33507,UNITED HIGH SCHOOL,73.33%,,44.97%,Y,195,143
+wv,50756,HARRISON CO BD OF EDUCATION,33236,VICTORY ELEMENTARY,64.67%,,44.97%,Y,385,249
+wv,50757,JACKSON CO BD OF EDUCATION,35201,COTTAGEVILLE ELEMENT,57.32%,,46.31%,Y,157,90
+wv,50757,JACKSON CO BD OF EDUCATION,35203,EVANS ELEMENTARY,28.67%,,46.31%,Y,143,41
+wv,50757,JACKSON CO BD OF EDUCATION,35204,FAIRPLAIN ELEMENTARY,62.05%,,46.31%,Y,166,103
+wv,50757,JACKSON CO BD OF EDUCATION,35205,GILMORE ELEMENTARY,44.58%,,46.31%,Y,166,74
+wv,50757,JACKSON CO BD OF EDUCATION,35207,HENRY J. KAISER ELEM,56.01%,,46.31%,Y,291,163
+wv,50757,JACKSON CO BD OF EDUCATION,35206,KENNA ELEMENTARY SCH,41.39%,,46.31%,Y,244,101
+wv,50757,JACKSON CO BD OF EDUCATION,35208,RAVENSWOOD GRADE SCH,57.92%,,46.31%,Y,259,150
+wv,50757,JACKSON CO BD OF EDUCATION,35501,RAVENSWOOD HIGH SCHO,44.83%,,46.31%,Y,406,182
+wv,50757,JACKSON CO BD OF EDUCATION,35301,RAVENSWOOD MIDDLE,54.33%,,46.31%,Y,335,182
+wv,50757,JACKSON CO BD OF EDUCATION,35209,RIPLEY ELEMENTARY SC,49.09%,,46.31%,Y,548,269
+wv,50757,JACKSON CO BD OF EDUCATION,35502,RIPLEY HIGH SCHOOL,37.31%,,46.31%,Y,780,291
+wv,50757,JACKSON CO BD OF EDUCATION,35302,RIPLEY MIDDLE SCHOOL,41.96%,,46.31%,Y,634,266
+wv,50758,JEFFERSON CO BD OF EDUCATION,37201,BLUE RIDGE CAMPUS,46.60%,,47.21%,Y,412,192
+wv,50758,JEFFERSON CO BD OF EDUCATION,37402,HARPERS FERRY MIDDLE,40.37%,,47.21%,Y,587,237
+wv,50758,JEFFERSON CO BD OF EDUCATION,37202,NORTH JEFFERSON ELEM,47.39%,,47.21%,Y,249,118
+wv,50758,JEFFERSON CO BD OF EDUCATION,37204,RANSON ELEMENTARY SC,68.86%,,47.21%,Y,289,199
+wv,50758,JEFFERSON CO BD OF EDUCATION,37209,T.A.LOWERY ELEM. (20,46.59%,,47.21%,Y,586,273
+wv,50758,JEFFERSON CO BD OF EDUCATION,37404,WILDWOOD MIDDLE,50.68%,,47.21%,Y,438,222
+wv,50758,JEFFERSON CO BD OF EDUCATION,37210,DRISWOOD ELEMENTARY,39.20%,,47.21%,Y,398,156
+wv,50759,KANAWHA CO BD OF EDUCATION,39201,ALBAN ELEMENTARY,60.30%,,55.55%,Y,267,161
+wv,50759,KANAWHA CO BD OF EDUCATION,39202,ALUM CREEK,56.40%,,55.55%,Y,172,97
+wv,50759,KANAWHA CO BD OF EDUCATION,39402,ANDREW JACKSON MIDDL,50.94%,,55.55%,Y,583,297
+wv,50759,KANAWHA CO BD OF EDUCATION,39203,ANDREWS HEIGHTS,60.16%,,55.55%,Y,251,151
+wv,50759,KANAWHA CO BD OF EDUCATION,39204,ANNE BAILEY ELEMENTA,87.98%,,55.55%,Y,233,205
+wv,50759,KANAWHA CO BD OF EDUCATION,39206,BELLE,58.14%,,55.55%,Y,301,175
+wv,50759,KANAWHA CO BD OF EDUCATION,39280,BRIDGEVIEW ELEMENTAR,66.91%,,55.55%,Y,405,271
+wv,50759,KANAWHA CO BD OF EDUCATION,39513,CAPITAL HIGH SCHOOL,58.98%,,55.55%,Y,1102,650
+wv,50759,KANAWHA CO BD OF EDUCATION,39213,CEDAR GROVE ELEMENTA,63.43%,,55.55%,Y,175,111
+wv,50759,KANAWHA CO BD OF EDUCATION,39403,CEDAR GROVE MIDDLE,0.00%,,55.55%,Y,0,0
+wv,50759,KANAWHA CO BD OF EDUCATION,39214,CENTRAL ELEMENTARY,55.71%,,55.55%,Y,350,195
+wv,50759,KANAWHA CO BD OF EDUCATION,39215,CHAMBERLAIN ELEMENTA,67.32%,,55.55%,Y,205,138
+wv,50759,KANAWHA CO BD OF EDUCATION,39218,CHESAPEAKE,75.00%,,55.55%,Y,120,90
+wv,50759,KANAWHA CO BD OF EDUCATION,39219,CLENDENIN,62.42%,,55.55%,Y,314,196
+wv,50759,KANAWHA CO BD OF EDUCATION,39220,CROSS LANES ELEMENTA,55.14%,,55.55%,Y,321,177
+wv,50759,KANAWHA CO BD OF EDUCATION,39283,DUNBAR INTERMEDIATE,67.83%,,55.55%,Y,258,175
+wv,50759,KANAWHA CO BD OF EDUCATION,39405,DUNBAR MIDDLE SCHOOL,68.04%,,55.55%,Y,316,215
+wv,50759,KANAWHA CO BD OF EDUCATION,39222,DUNBAR PRIMARY CENTE,75.25%,,55.55%,Y,295,222
+wv,50759,KANAWHA CO BD OF EDUCATION,39406,DUPONT MIDDLE SCHOOL,60.22%,,55.55%,Y,450,271
+wv,50759,KANAWHA CO BD OF EDUCATION,39407,EAST BANK MIDDLE,70.11%,,55.55%,Y,281,197
+wv,50759,KANAWHA CO BD OF EDUCATION,39279,ELK ELEMENTARY CENTE,57.11%,,55.55%,Y,499,285
+wv,50759,KANAWHA CO BD OF EDUCATION,39408,ELKVIEW MIDDLE SCHOO,48.42%,,55.55%,Y,601,291
+wv,50759,KANAWHA CO BD OF EDUCATION,39226,FLINN ELEMENTARY,53.54%,,55.55%,Y,424,227
+wv,50759,KANAWHA CO BD OF EDUCATION,39506,GEORGE WASHINGTON HI,27.11%,,55.55%,Y,1173,318
+wv,50759,KANAWHA CO BD OF EDUCATION,39231,GRANDVIEW ELEMENTARY,76.00%,,55.55%,Y,175,133
+wv,50759,KANAWHA CO BD OF EDUCATION,39409,HAYES MIDDLE SCHOOL,54.35%,,55.55%,Y,460,250
+wv,50759,KANAWHA CO BD OF EDUCATION,39507,HERBERT HOOVER,42.38%,,55.55%,Y,774,328
+wv,50759,KANAWHA CO BD OF EDUCATION,39234,HOLZ,31.76%,,55.55%,Y,296,94
+wv,50759,KANAWHA CO BD OF EDUCATION,39410,HORACE MANN MIDDLE S,60.05%,,55.55%,Y,418,251
+wv,50759,KANAWHA CO BD OF EDUCATION,39401,JOHN ADAMS MIDDLE SC,31.63%,,55.55%,Y,724,229
+wv,50759,KANAWHA CO BD OF EDUCATION,39599,CHANDLER ACADEMY,75.94%,,55.55%,Y,212,161
+wv,50759,KANAWHA CO BD OF EDUCATION,39235,KANAWHA CITY ELEMENT,59.69%,,55.55%,Y,258,154
+wv,50759,KANAWHA CO BD OF EDUCATION,39237,KENNA,29.59%,,55.55%,Y,169,50
+wv,50759,KANAWHA CO BD OF EDUCATION,39239,LAKEWOOD ELEMENTARY,42.81%,,55.55%,Y,292,125
+wv,50759,KANAWHA CO BD OF EDUCATION,39241,MALDEN,72.55%,,55.55%,Y,153,111
+wv,50759,KANAWHA CO BD OF EDUCATION,39242,MARMET,80.91%,,55.55%,Y,110,89
+wv,50759,KANAWHA CO BD OF EDUCATION,39243,MARY INGLES,66.23%,,55.55%,Y,151,100
+wv,50759,KANAWHA CO BD OF EDUCATION,39413,MCKINLEY MIDDLE SCHO,62.50%,,55.55%,Y,312,195
+wv,50759,KANAWHA CO BD OF EDUCATION,39244,MIDLAND TRAIL,60.53%,,55.55%,Y,152,92
+wv,50759,KANAWHA CO BD OF EDUCATION,39246,MONTROSE ELEMENTARY,51.15%,,55.55%,Y,217,111
+wv,50759,KANAWHA CO BD OF EDUCATION,39248,NITRO ELEMENTARY,61.36%,,55.55%,Y,352,216
+wv,50759,KANAWHA CO BD OF EDUCATION,39508,NITRO HIGH SCHOOL,44.16%,,55.55%,Y,788,348
+wv,50759,KANAWHA CO BD OF EDUCATION,39250,OVERBROOK,37.87%,,55.55%,Y,367,139
+wv,50759,KANAWHA CO BD OF EDUCATION,39282,PIEDMONT ELEMENTARY,84.34%,,55.55%,Y,281,237
+wv,50759,KANAWHA CO BD OF EDUCATION,39253,PINCH,43.73%,,55.55%,Y,327,143
+wv,50759,KANAWHA CO BD OF EDUCATION,39254,POINT HARMONY ELEMEN,56.17%,,55.55%,Y,470,264
+wv,50759,KANAWHA CO BD OF EDUCATION,39255,PRATT,66.04%,,55.55%,Y,159,105
+wv,50759,KANAWHA CO BD OF EDUCATION,39257,RICHMOND ELEMENTARY,77.31%,,55.55%,Y,238,184
+wv,50759,KANAWHA CO BD OF EDUCATION,39514,RIVERSIDE,57.25%,,55.55%,Y,1200,687
+wv,50759,KANAWHA CO BD OF EDUCATION,39260,RUFFNER ELEMENTARY,60.15%,,55.55%,Y,266,160
+wv,50759,KANAWHA CO BD OF EDUCATION,39261,RUTHLAWN ELEMENTARY,51.91%,,55.55%,Y,235,122
+wv,50759,KANAWHA CO BD OF EDUCATION,39262,SHARON DAWES,64.18%,,55.55%,Y,134,86
+wv,50759,KANAWHA CO BD OF EDUCATION,39278,WILLIAM J RAGLIN CENTER,90.48%,,55.55%,Y,42,38
+wv,50759,KANAWHA CO BD OF EDUCATION,39263,SHOALS ELEMENTARY,54.38%,,55.55%,Y,217,118
+wv,50759,KANAWHA CO BD OF EDUCATION,39264,SISSONVILLE ELEMENTA,58.17%,,55.55%,Y,251,146
+wv,50759,KANAWHA CO BD OF EDUCATION,39510,SISSONVILLE HIGH SCH,44.86%,,55.55%,Y,593,266
+wv,50759,KANAWHA CO BD OF EDUCATION,39417,SISSONVILLE MIDDLE,54.15%,,55.55%,Y,554,300
+wv,50759,KANAWHA CO BD OF EDUCATION,39511,SOUTH CHARLESTON HIG,53.77%,,55.55%,Y,941,506
+wv,50759,KANAWHA CO BD OF EDUCATION,39418,SOUTH CHARLESTON MID,59.95%,,55.55%,Y,372,223
+wv,50759,KANAWHA CO BD OF EDUCATION,39509,ST. ALBANS HIGH,48.19%,,55.55%,Y,967,466
+wv,50759,KANAWHA CO BD OF EDUCATION,39421,WEST SIDE MIDDLE SCHOOL,79.02%,,55.55%,Y,429,339
+wv,50759,KANAWHA CO BD OF EDUCATION,39275,WEBERWOOD ELEMENTARY,31.05%,,55.55%,Y,277,86
+wv,50759,KANAWHA CO BD OF EDUCATION,39276,WEIMER ELEMENTARY,82.76%,,55.55%,Y,145,120
+wv,50759,KANAWHA CO BD OF EDUCATION,39284,MARY C SNOW WESTSIDE,93.56%,,55.55%,Y,357,334
+wv,50759,KANAWHA CO BD OF EDUCATION,39285,EDGEWOOD ELEMENTARY,73.98%,,55.55%,Y,392,290
+wv,50760,LEWIS CO BD OF EDUCATION,41208,JANE LEW ELEMENTARY,55.19%,,59.85%,Y,270,149
+wv,50760,LEWIS CO BD OF EDUCATION,41501,LEWIS COUNTY HIGH SC,50.79%,,59.85%,Y,697,354
+wv,50760,LEWIS CO BD OF EDUCATION,41207,PETERSON-CENTRAL  EL,69.10%,,59.85%,Y,466,322
+wv,50760,LEWIS CO BD OF EDUCATION,41205,ROANOKE ELEMENTARY S,66.67%,,59.85%,Y,168,112
+wv,50760,LEWIS CO BD OF EDUCATION,41301,ROBERT L BLAND MIDDL,61.03%,,59.85%,Y,716,437
+wv,50760,LEWIS CO BD OF EDUCATION,41202,LEADING CREEK ELEMENTARY,69.12%,,59.85%,Y,136,94
+wv,50761,LINCOLN CO BD OF EDUCATION,43101,DUVAL PREK-8,69.82%,,61.24%,Y,507,354
+wv,50761,LINCOLN CO BD OF EDUCATION,43301,GUYAN VALLEY MIDDLE,67.41%,,61.24%,Y,270,182
+wv,50761,LINCOLN CO BD OF EDUCATION,43102,HAMLIN PK-8,51.25%,,61.24%,Y,480,246
+wv,50761,LINCOLN CO BD OF EDUCATION,43506,LINCOLN COUNTY HIGH,51.39%,,61.24%,Y,827,425
+wv,50761,LINCOLN CO BD OF EDUCATION,43212,MIDWAY ELEMENTARY,57.57%,,61.24%,Y,304,175
+wv,50761,LINCOLN CO BD OF EDUCATION,43214,RANGER ELEMENTARY,80.73%,,61.24%,Y,109,88
+wv,50761,LINCOLN CO BD OF EDUCATION,43215,WEST HAMLIN ELEMENTA,67.00%,,61.24%,Y,503,337
+wv,50761,LINCOLN CO BD OF EDUCATION,43103,HARTS PK-8,69.35%,,61.24%,Y,372,258
+wv,50762,LOGAN CO BD OF EDUCATION,45203,BUFFALO ELEMENTARY,85.13%,,62.50%,Y,195,166
+wv,50762,LOGAN CO BD OF EDUCATION,45405,CHAPMANVILLE MIDDLE,53.22%,,62.50%,Y,543,289
+wv,50762,LOGAN CO BD OF EDUCATION,45501,CHAPMANVILLE REGIONAL,52.72%,,62.50%,Y,698,368
+wv,50762,LOGAN CO BD OF EDUCATION,45209,HOLDEN,75.68%,,62.50%,Y,148,112
+wv,50762,LOGAN CO BD OF EDUCATION,45210,HUGH DINGESS ELEMENT,70.83%,,62.50%,Y,96,68
+wv,50762,LOGAN CO BD OF EDUCATION,45211,JUSTICE ELEMENTARY,72.80%,,62.50%,Y,125,91
+wv,50762,LOGAN CO BD OF EDUCATION,45213,LOGAN ELEMENTARY,69.07%,,62.50%,Y,236,163
+wv,50762,LOGAN CO BD OF EDUCATION,45502,LOGAN HIGH SCHOOL,58.67%,,62.50%,Y,571,335
+wv,50762,LOGAN CO BD OF EDUCATION,45301,LOGAN MIDDLE SCHOOL,67.54%,,62.50%,Y,570,385
+wv,50762,LOGAN CO BD OF EDUCATION,45227,MAN ELEMENTARY,64.22%,,62.50%,Y,218,140
+wv,50762,LOGAN CO BD OF EDUCATION,45503,MAN HIGH SCHOOL,56.87%,,62.50%,Y,364,207
+wv,50762,LOGAN CO BD OF EDUCATION,45103,MAN MIDDLE SCHOOL,69.97%,,62.50%,Y,373,261
+wv,50762,LOGAN CO BD OF EDUCATION,45101,OMAR GRADE,86.36%,,62.50%,Y,154,133
+wv,50762,LOGAN CO BD OF EDUCATION,45217,SOUTH MAN GRADE SCHO,74.34%,,62.50%,Y,152,113
+wv,50762,LOGAN CO BD OF EDUCATION,45221,VERDUNVILLE   ELEMEN,78.26%,,62.50%,Y,115,90
+wv,50762,LOGAN CO BD OF EDUCATION,45228,CHAPMANVILLE PRIMARY SCHOOL,69.31%,,62.50%,Y,290,201
+wv,50762,LOGAN CO BD OF EDUCATION,45229,CHAPMANVILLE INTERMEDIATE SCHOOL,56.11%,,62.50%,Y,303,170
+wv,50763,MARION CO BD OF EDUCATION,47101,BARRACKVILLE ELEM/MI,38.73%,,46.75%,Y,346,134
+wv,50763,MARION CO BD OF EDUCATION,47216,BLACKSHERE ELEMENTAR,62.08%,,46.75%,Y,327,203
+wv,50763,MARION CO BD OF EDUCATION,47205,EAST DALE ELEMENTARY,42.59%,,46.75%,Y,432,184
+wv,50763,MARION CO BD OF EDUCATION,47501,EAST FAIRMONT HIGH S,36.63%,,46.75%,Y,718,263
+wv,50763,MARION CO BD OF EDUCATION,47402,EAST FAIRMONT MIDDLE SCHOOL,41.14%,,46.75%,Y,739,304
+wv,50763,MARION CO BD OF EDUCATION,47206,EAST PARK ELEMENTARY,61.86%,,46.75%,Y,333,206
+wv,50763,MARION CO BD OF EDUCATION,47502,FAIRMONT SENIOR HIGH,38.27%,,46.75%,Y,797,305
+wv,50763,MARION CO BD OF EDUCATION,47207,FAIRVIEW ELEMENTARY,59.42%,,46.75%,Y,138,82
+wv,50763,MARION CO BD OF EDUCATION,47302,FAIRVIEW MIDDLE SCHO,48.21%,,46.75%,Y,195,94
+wv,50763,MARION CO BD OF EDUCATION,47209,JAYENNE,54.06%,,46.75%,Y,357,193
+wv,50763,MARION CO BD OF EDUCATION,47303,MANNINGTON MIDDLE,61.57%,,46.75%,Y,255,157
+wv,50763,MARION CO BD OF EDUCATION,47211,MONONGAH ELEMENTARY,55.94%,,46.75%,Y,286,160
+wv,50763,MARION CO BD OF EDUCATION,47304,MONONGAH MIDDLE,53.07%,,46.75%,Y,228,121
+wv,50763,MARION CO BD OF EDUCATION,47503,NORTH MARION HIGH SC,45.31%,,46.75%,Y,746,338
+wv,50763,MARION CO BD OF EDUCATION,47212,PLEASANT VALLEY,22.47%,,46.75%,Y,178,40
+wv,50763,MARION CO BD OF EDUCATION,47102,RIVESVILLE ELEM./MID,50.99%,,46.75%,Y,355,181
+wv,50763,MARION CO BD OF EDUCATION,47214,WATSON ELEMENTARY,60.72%,,46.75%,Y,387,235
+wv,50763,MARION CO BD OF EDUCATION,47306,WEST FAIRMONT MIDDLE,50.16%,,46.75%,Y,624,313
+wv,50763,MARION CO BD OF EDUCATION,47215,WHITE HALL,28.02%,,46.75%,Y,182,51
+wv,50764,MARSHALL CO BD OF EDUCATION,48202,CAMERON ELEMENTARY,38.93%,,46.42%,Y,244,95
+wv,50764,MARSHALL CO BD OF EDUCATION,48501,CAMERON HIGH SCHOOL,41.03%,,46.42%,Y,312,128
+wv,50764,MARSHALL CO BD OF EDUCATION,48206,CENTER MCMECHEN SCHOOL,63.40%,,46.42%,Y,194,123
+wv,50764,MARSHALL CO BD OF EDUCATION,48203,CENTRAL ELEMENTARY S,65.54%,,46.42%,Y,296,194
+wv,50764,MARSHALL CO BD OF EDUCATION,48204,GLEN DALE ELEMENTARY,33.92%,,46.42%,Y,227,77
+wv,50764,MARSHALL CO BD OF EDUCATION,48502,JOHN MARSHALL HIGH,41.50%,,46.42%,Y,1012,420
+wv,50764,MARSHALL CO BD OF EDUCATION,48207,MCNINCH ELEMENTARY,60.80%,,46.42%,Y,352,214
+wv,50764,MARSHALL CO BD OF EDUCATION,48401,MOUNDSVILLE MIDDLE SCHOOL,56.22%,,46.42%,Y,418,235
+wv,50764,MARSHALL CO BD OF EDUCATION,48209,SAND HILL ELEMENTARY,47.54%,,46.42%,Y,61,29
+wv,50764,MARSHALL CO BD OF EDUCATION,48402,SHERRARD MIDDLE SCHOOL,40.23%,,46.42%,Y,430,173
+wv,50764,MARSHALL CO BD OF EDUCATION,48212,WASHINGTON LANDS ELEMENTARY,49.83%,,46.42%,Y,291,145
+wv,50764,MARSHALL CO BD OF EDUCATION,48213,HILLTOP ELEMENTARY SCHOOL,29.95%,,46.42%,Y,374,112
+wv,50764,MARSHALL CO BD OF EDUCATION,48503,GATEWAY ACHIEVEMENT CENTER,67.39%,,46.42%,Y,46,31
+wv,50765,MASON CO BD OF EDUCATION,49216,ASHTON ELEMENTARY SC,61.05%,,55.39%,Y,344,210
+wv,50765,MASON CO BD OF EDUCATION,49201,BEALE ELEMENTARY SCH,61.35%,,55.39%,Y,251,154
+wv,50765,MASON CO BD OF EDUCATION,49501,HANNAN JR/SR HIGH,61.86%,,55.39%,Y,236,146
+wv,50765,MASON CO BD OF EDUCATION,49206,LEON ELEMENTARY SCHO,69.12%,,55.39%,Y,136,94
+wv,50765,MASON CO BD OF EDUCATION,49210,NEW HAVEN ELEMENTARY,54.41%,,55.39%,Y,454,247
+wv,50765,MASON CO BD OF EDUCATION,49502,POINT PLEASANT HIGH,50.26%,,55.39%,Y,1156,581
+wv,50765,MASON CO BD OF EDUCATION,49218,POINT PLEASANT INTERMEDIATE,56.36%,,55.39%,Y,330,186
+wv,50765,MASON CO BD OF EDUCATION,49217,POINT PLEASANT PRIMARY,63.79%,,55.39%,Y,359,229
+wv,50765,MASON CO BD OF EDUCATION,49213,ROOSEVELT ELEMENTARY,54.64%,,55.39%,Y,194,106
+wv,50765,MASON CO BD OF EDUCATION,49503,WAHAMA JR/SR HIGH,46.06%,,55.39%,Y,393,181
+wv,50766,MCDOWELL CO BD OF EDUCATION,60206,BRADSHAW ELEMENTARY,72.37%,,62.50%,Y,257,186
+wv,50766,MCDOWELL CO BD OF EDUCATION,60210,FALL RIVER ELEMENTAR,75.18%,,62.50%,Y,137,103
+wv,50766,MCDOWELL CO BD OF EDUCATION,60213,IAEGER ELEMENTARY,72.65%,,62.50%,Y,234,170
+wv,50766,MCDOWELL CO BD OF EDUCATION,60217,KIMBALL ELEMENTARY,81.77%,,62.50%,Y,181,148
+wv,50766,MCDOWELL CO BD OF EDUCATION,60527,MOUNT VIEW HIGH,66.55%,,62.50%,Y,571,380
+wv,50766,MCDOWELL CO BD OF EDUCATION,60304,SANDY RIVER MIDDLE,71.01%,,62.50%,Y,238,169
+wv,50766,MCDOWELL CO BD OF EDUCATION,60223,SOUTHSIDE K-8,80.41%,,62.50%,Y,296,238
+wv,50766,MCDOWELL CO BD OF EDUCATION,60222,WELCH ELEMENTARY,72.73%,,62.50%,Y,220,160
+wv,50766,MCDOWELL CO BD OF EDUCATION,60520,RIVER VIEW HIGH SCHOOL,70.65%,,62.50%,Y,402,284
+wv,50767,MERCER CO BD OF EDUCATION,51201,ATHENS SCHOOL,49.80%,,59.11%,Y,247,123
+wv,50767,MERCER CO BD OF EDUCATION,51502,BLUEFIELD HIGH SCHOOL,62.26%,,59.11%,Y,567,353
+wv,50767,MERCER CO BD OF EDUCATION,51240,BLUEFIELD INTERMEDIATE,69.18%,,59.11%,Y,305,211
+wv,50767,MERCER CO BD OF EDUCATION,51301,BLUEFIELD MIDDLE,67.08%,,59.11%,Y,486,326
+wv,50767,MERCER CO BD OF EDUCATION,51202,BLUEWELL ELEMENTARY,55.74%,,59.11%,Y,183,102
+wv,50767,MERCER CO BD OF EDUCATION,51204,BRUSHFORK ELEMENTARY,72.73%,,59.11%,Y,176,128
+wv,50767,MERCER CO BD OF EDUCATION,51205,MOUNTAIN VALLEY ELEMENTARY SCHOOL,72.73%,,59.11%,Y,286,208
+wv,50767,MERCER CO BD OF EDUCATION,51208,GLENWOOD SCHOOL,49.66%,,59.11%,Y,596,296
+wv,50767,MERCER CO BD OF EDUCATION,51210,LASHMEET/MATOAKA SCH,70.39%,,59.11%,Y,179,126
+wv,50767,MERCER CO BD OF EDUCATION,51212,MELROSE ELEMENTARY,44.44%,,59.11%,Y,261,116
+wv,50767,MERCER CO BD OF EDUCATION,51214,MERCER SCHOOL,58.62%,,59.11%,Y,319,187
+wv,50767,MERCER CO BD OF EDUCATION,51215,MONTCALM ELEMENTARY,72.35%,,59.11%,Y,293,212
+wv,50767,MERCER CO BD OF EDUCATION,51505,MONTCALM HIGH SCHOOL,64.21%,,59.11%,Y,271,174
+wv,50767,MERCER CO BD OF EDUCATION,51216,OAKVALE SCHOOL,61.50%,,59.11%,Y,187,115
+wv,50767,MERCER CO BD OF EDUCATION,51509,PIKEVIEW HIGH SCHOOL,42.57%,,59.11%,Y,606,258
+wv,50767,MERCER CO BD OF EDUCATION,51507,PRINCETON HIGH SCHOOL,48.22%,,59.11%,Y,927,447
+wv,50767,MERCER CO BD OF EDUCATION,51403,PRINCETON MIDDLE,59.92%,,59.11%,Y,524,314
+wv,50767,MERCER CO BD OF EDUCATION,51245,PRINCETON PRIMARY,69.60%,,59.11%,Y,454,316
+wv,50767,MERCER CO BD OF EDUCATION,51220,SPANISHBURG SCHOOL,58.06%,,59.11%,Y,186,108
+wv,50767,MERCER CO BD OF EDUCATION,51221,STRALEY SCHOOL,77.70%,,59.11%,Y,139,108
+wv,50767,MERCER CO BD OF EDUCATION,51222,SUN VALLEY SCHOOL,52.04%,,59.11%,Y,98,51
+wv,50767,MERCER CO BD OF EDUCATION,51227,MERCER COUNTY EARLY LEARNING CENTER,68.53%,,59.11%,Y,375,257
+wv,50767,MERCER CO BD OF EDUCATION,51302,PIKEVIEW MIDDLE,48.80%,,59.11%,Y,541,264
+wv,50767,MERCER CO BD OF EDUCATION,51246,BLUEFIELD PRIMARY SCHOOL,74.77%,,59.11%,Y,325,243
+wv,50768,MINERAL CO BD OF EDUCATION,53201,BURLINGTON PRIMARY,47.32%,,42.39%,Y,112,53
+wv,50768,MINERAL CO BD OF EDUCATION,53101,ELK GARDEN PRIMARY/M,46.88%,,42.39%,Y,64,30
+wv,50768,MINERAL CO BD OF EDUCATION,53202,FORT ASHBY PRIMARY,34.04%,,42.39%,Y,188,64
+wv,50768,MINERAL CO BD OF EDUCATION,53203,FOUNTAIN PRIMARY,55.83%,,42.39%,Y,120,67
+wv,50768,MINERAL CO BD OF EDUCATION,53501,FRANKFORT HIGH,25.05%,,42.39%,Y,471,118
+wv,50768,MINERAL CO BD OF EDUCATION,53302,FRANKFORT MIDDLE,28.57%,,42.39%,Y,476,136
+wv,50768,MINERAL CO BD OF EDUCATION,53303,FRANKFORT INTERMEDIATE,33.23%,,42.39%,Y,316,105
+wv,50768,MINERAL CO BD OF EDUCATION,53503,KEYSER HIGH SCHOOL,40.76%,,42.39%,Y,682,278
+wv,50768,MINERAL CO BD OF EDUCATION,53103,KEYSER MIDDLE SCHOOL,50.64%,,42.39%,Y,699,354
+wv,50768,MINERAL CO BD OF EDUCATION,53205,NEW CREEK PRIMARY,37.61%,,42.39%,Y,109,41
+wv,50768,MINERAL CO BD OF EDUCATION,53208,WILEY FORD PRIMARY,40.61%,,42.39%,Y,197,80
+wv,50768,MINERAL CO BD OF EDUCATION,53210,KEYSER PRIMARY SCHOOL,64.20%,,42.39%,Y,595,382
+wv,50769,MINGO CO BD OF EDUCATION,54207,DINGESS ELEMENTARY,89.12%,,62.50%,Y,147,131
+wv,50769,MINGO CO BD OF EDUCATION,54223,KERMIT  K8,66.22%,,62.50%,Y,296,196
+wv,50769,MINGO CO BD OF EDUCATION,54101,LENORE K-8,68.26%,,62.50%,Y,438,299
+wv,50769,MINGO CO BD OF EDUCATION,54507,TUG VALLEY HIGH,60.40%,,62.50%,Y,346,209
+wv,50769,MINGO CO BD OF EDUCATION,54406,BURCH PRE-K - 8,67.75%,,62.50%,Y,462,313
+wv,50769,MINGO CO BD OF EDUCATION,54407,GILBERT PK-8,66.90%,,62.50%,Y,423,283
+wv,50769,MINGO CO BD OF EDUCATION,54403,MATEWAN PK-8,75.45%,,62.50%,Y,444,335
+wv,50769,MINGO CO BD OF EDUCATION,54402,WILLIAMSON PK-8,73.42%,,62.50%,Y,523,384
+wv,50769,MINGO CO BD OF EDUCATION,54508,MINGO CENTRAL COMPREHENSIVE HIGH,62.01%,,62.50%,Y,658,408
+wv,50770,MONONGALIA CO BD OF EDUCATION,56203,BROOKHAVEN SCHOOL,37.79%,,40.53%,Y,598,226
+wv,50770,MONONGALIA CO BD OF EDUCATION,56501,CLAY-BATTELLE HIGH S,37.69%,,40.53%,Y,337,127
+wv,50770,MONONGALIA CO BD OF EDUCATION,56236,MASON-DIXON ELEMENTA,40.38%,,40.53%,Y,317,128
+wv,50770,MONONGALIA CO BD OF EDUCATION,56233,MOUNTAINVIEW ELEMENT,46.08%,,40.53%,Y,727,335
+wv,50770,MONONGALIA CO BD OF EDUCATION,56241,MYLAN PARK ELEMENTAR,43.72%,,40.53%,Y,478,209
+wv,50770,MONONGALIA CO BD OF EDUCATION,56220,NORTH ELEMENTARY,38.90%,,40.53%,Y,635,247
+wv,50770,MONONGALIA CO BD OF EDUCATION,56240,SKYVIEW ELEMENTARY,54.11%,,40.53%,Y,438,237
+wv,50770,MONONGALIA CO BD OF EDUCATION,56401,SOUTH MIDDLE SCHOOL,33.82%,,40.53%,Y,760,257
+wv,50770,MONONGALIA CO BD OF EDUCATION,56402,SUNCREST MIDDLE,35.28%,,40.53%,Y,496,175
+wv,50770,MONONGALIA CO BD OF EDUCATION,56226,SUNCREST ELEMENTARY,33.57%,,40.53%,Y,560,188
+wv,50770,MONONGALIA CO BD OF EDUCATION,56302,WESTWOOD MIDDLE,56.27%,,40.53%,Y,359,202
+wv,50770,MONONGALIA CO BD OF EDUCATION,56242,EASTWOOD ELEMENTARY,37.56%,,40.53%,Y,623,234
+wv,50771,MONROE CO BD OF EDUCATION,57503,JAMES MONROE HIGH SC,44.22%,,51.37%,Y,441,195
+wv,50771,MONROE CO BD OF EDUCATION,57204,MOUNTAINVIEW SCHOOL,53.37%,,51.37%,Y,489,261
+wv,50771,MONROE CO BD OF EDUCATION,57202,PETERSTOWN ELEMENTAR,55.14%,,51.37%,Y,370,204
+wv,50771,MONROE CO BD OF EDUCATION,57301,PETERSTOWN MIDDLE SC,53.95%,,51.37%,Y,304,164
+wv,50772,MORGAN CO BD OF EDUCATION,58501,BERKELEY SPRINGS HIGH,42.81%,,50.47%,Y,626,268
+wv,50772,MORGAN CO BD OF EDUCATION,58204,PAW PAW SCHOOLS,64.71%,,50.47%,Y,153,99
+wv,50772,MORGAN CO BD OF EDUCATION,58205,PLEASANT VIEW ELEMEN,44.44%,,50.47%,Y,117,52
+wv,50772,MORGAN CO BD OF EDUCATION,58208,WARM SPRINGS INTERME,49.09%,,50.47%,Y,385,189
+wv,50772,MORGAN CO BD OF EDUCATION,58301,WARM SPRINGS MIDDLE,51.29%,,50.47%,Y,464,238
+wv,50772,MORGAN CO BD OF EDUCATION,58207,WIDMYER ELEMENTARY,57.84%,,50.47%,Y,472,273
+wv,50773,NICHOLAS CO BD OF EDUCATION,62202,BIRCH RIVER ELEMENTA,70.37%,,56.50%,Y,81,57
+wv,50773,NICHOLAS CO BD OF EDUCATION,62204,CHERRY RIVER ELEMENT,76.19%,,56.50%,Y,168,128
+wv,50773,NICHOLAS CO BD OF EDUCATION,62209,GLADE CREEK ELEMENTA,45.33%,,56.50%,Y,150,68
+wv,50773,NICHOLAS CO BD OF EDUCATION,62212,MT. LOOKOUT ELEMENTA,69.70%,,56.50%,Y,132,92
+wv,50773,NICHOLAS CO BD OF EDUCATION,62213,MT. NEBO ELEMENTARY,45.83%,,56.50%,Y,96,44
+wv,50773,NICHOLAS CO BD OF EDUCATION,62501,NCHS,46.40%,,56.50%,Y,681,316
+wv,50773,NICHOLAS CO BD OF EDUCATION,62220,PANTHER CREEK ELEMEN,55.60%,,56.50%,Y,250,139
+wv,50773,NICHOLAS CO BD OF EDUCATION,62502,RICHWOOD HIGH SCHOOL,59.18%,,56.50%,Y,343,203
+wv,50773,NICHOLAS CO BD OF EDUCATION,62401,RICHWOOD MIDDLE SCHO,61.24%,,56.50%,Y,209,128
+wv,50773,NICHOLAS CO BD OF EDUCATION,62402,S.M.S.,51.17%,,56.50%,Y,555,284
+wv,50773,NICHOLAS CO BD OF EDUCATION,62218,SUMMERSVILLE ELEMENT,58.16%,,56.50%,Y,380,221
+wv,50773,NICHOLAS CO BD OF EDUCATION,62219,ZELA ELEMENTARY,62.65%,,56.50%,Y,83,52
+wv,50773,NICHOLAS CO BD OF EDUCATION,62210,GAULEY RIVER ELEMENTARY,67.72%,,56.50%,Y,316,214
+wv,50774,OHIO CO BD OF EDUCATION,64201,BETHLEHEM ELEMENTARY,31.09%,,48.46%,Y,119,37
+wv,50774,OHIO CO BD OF EDUCATION,64301,BRIDGE STREET MIDDLE,51.56%,,48.46%,Y,289,149
+wv,50774,OHIO CO BD OF EDUCATION,64203,ELM GROVE ELEMENTARY,59.53%,,48.46%,Y,341,203
+wv,50774,OHIO CO BD OF EDUCATION,64205,MADISON ELEMENTARY,78.10%,,48.46%,Y,315,246
+wv,50774,OHIO CO BD OF EDUCATION,64206,MIDDLE CREEK SCHOOL,45.82%,,48.46%,Y,251,115
+wv,50774,OHIO CO BD OF EDUCATION,64209,RITCHIE SCHOOL,80.00%,,48.46%,Y,280,224
+wv,50774,OHIO CO BD OF EDUCATION,64210,STEENROD ELEMENTARY,36.20%,,48.46%,Y,279,101
+wv,50774,OHIO CO BD OF EDUCATION,64302,TRIADELPHIA MIDDLE S,45.90%,,48.46%,Y,390,179
+wv,50774,OHIO CO BD OF EDUCATION,64303,WARWOOD SCHOOL,49.44%,,48.46%,Y,540,267
+wv,50774,OHIO CO BD OF EDUCATION,64212,WEST LIBERTY ELEMENT,25.69%,,48.46%,Y,109,28
+wv,50774,OHIO CO BD OF EDUCATION,64304,WHEELING MIDDLE SCHO,68.37%,,48.46%,Y,196,134
+wv,50774,OHIO CO BD OF EDUCATION,64501,WHEELING PARK HIGH S,39.02%,,48.46%,Y,1494,583
+wv,50774,OHIO CO BD OF EDUCATION,64213,WOODSDALE ELEMENTARY,40.41%,,48.46%,Y,438,177
+wv,50775,PENDLETON CO BD OF EDUCATION,66201,BRANDYWINE ELEMENTAR,54.72%,,48.46%,Y,106,58
+wv,50775,PENDLETON CO BD OF EDUCATION,66202,FRANKLIN ELEMENTARY,42.40%,,48.46%,Y,283,120
+wv,50775,PENDLETON CO BD OF EDUCATION,66205,NORTH FORK ELEMENTAR,58.25%,,48.46%,Y,103,60
+wv,50775,PENDLETON CO BD OF EDUCATION,66502,PENDLETON COUNTY MID/HIGH SCHOOL,48.56%,,48.46%,Y,383,186
+wv,50776,PLEASANTS CO BD OF EDUCATION,67201,BELMONT ELEMENTARY SCHOOL,54.34%,,49.95%,Y,219,119
+wv,50776,PLEASANTS CO BD OF EDUCATION,67301,PCMS,54.30%,,49.95%,Y,302,164
+wv,50776,PLEASANTS CO BD OF EDUCATION,67202,ST MARYS ELEMENTARY,51.75%,,49.95%,Y,228,118
+wv,50776,PLEASANTS CO BD OF EDUCATION,67501,ST. MARYS HIGH SCHOOL,41.61%,,49.95%,Y,322,134
+wv,50777,POCAHONTAS COUNTY BOARD OF EDUCATION,69102,GREEN BANK,52.23%,,55.79%,Y,224,117
+wv,50777,POCAHONTAS COUNTY BOARD OF EDUCATION,69101,HILLSBORO SCHOOL,54.88%,,55.79%,Y,82,45
+wv,50777,POCAHONTAS COUNTY BOARD OF EDUCATION,69202,MARLINTON ELEMENTARY,65.47%,,55.79%,Y,223,146
+wv,50777,POCAHONTAS COUNTY BOARD OF EDUCATION,69302,MARLINTON MIDDLE,63.77%,,55.79%,Y,138,88
+wv,50777,POCAHONTAS COUNTY BOARD OF EDUCATION,69501,POCAHONTAS COUNTY HS,47.08%,,55.79%,Y,274,129
+wv,50778,PRESTON CO BD OF EDUCATION,70101,AURORA SCHOOL,39.55%,,48.46%,Y,177,70
+wv,50778,PRESTON CO BD OF EDUCATION,70104,BRUCETON SCHOOL,36.03%,,48.46%,Y,655,236
+wv,50778,PRESTON CO BD OF EDUCATION,70203,FELLOWSVILLE ELEMENT,64.77%,,48.46%,Y,88,57
+wv,50778,PRESTON CO BD OF EDUCATION,70204,KINGWOOD ELEMENTARY,57.10%,,48.46%,Y,366,209
+wv,50778,PRESTON CO BD OF EDUCATION,70507,PRESTON HIGH SCHOOL,44.81%,,48.46%,Y,1147,514
+wv,50778,PRESTON CO BD OF EDUCATION,70103,ROWLESBURG,68.18%,,48.46%,Y,66,45
+wv,50778,PRESTON CO BD OF EDUCATION,70105,TERRA ALTA/EAST PRES,52.13%,,48.46%,Y,328,171
+wv,50778,PRESTON CO BD OF EDUCATION,70401,CENTRAL PRESTON MIDDLE SCHOOL,53.70%,,48.46%,Y,324,174
+wv,50778,PRESTON CO BD OF EDUCATION,70106,SOUTH PRESTON,62.97%,,48.46%,Y,343,216
+wv,50778,PRESTON CO BD OF EDUCATION,70107,WEST PRESTON SCHOOL,48.65%,,48.46%,Y,666,324
+wv,50779,PUTNAM CO BD OF EDUCATION,72205,BUFFALO ELEMENTARY,48.10%,,54.90%,Y,210,101
+wv,50779,PUTNAM CO BD OF EDUCATION,72210,CONFIDENCE ELEMENTAR,52.68%,,54.90%,Y,112,59
+wv,50779,PUTNAM CO BD OF EDUCATION,72230,HOMETOWN ELEMENTARY,70.15%,,54.90%,Y,67,47
+wv,50779,PUTNAM CO BD OF EDUCATION,72240,LAKESIDE ELEMENTARY,51.34%,,54.90%,Y,187,96
+wv,50779,PUTNAM CO BD OF EDUCATION,72255,POCA ELEMENTARY,57.99%,,54.90%,Y,288,167
+wv,50779,PUTNAM CO BD OF EDUCATION,72315,POCA MIDDLE,54.00%,,54.90%,Y,300,162
+wv,50779,PUTNAM CO BD OF EDUCATION,72260,ROCK BRANCH ELEMENTA,57.94%,,54.90%,Y,233,135
+wv,50780,RALEIGH CO BD OF EDUCATION,74234,BECKLEY ELEMENTARY,81.33%,,60.67%,Y,316,257
+wv,50780,RALEIGH CO BD OF EDUCATION,74202,BRADLEY ELEMENTARY,63.38%,,60.67%,Y,385,244
+wv,50780,RALEIGH CO BD OF EDUCATION,74204,CLEAR FORK DISTRICT,70.21%,,60.67%,Y,94,66
+wv,50780,RALEIGH CO BD OF EDUCATION,74205,COAL CITY ELEMENTARY,77.59%,,60.67%,Y,348,270
+wv,50780,RALEIGH CO BD OF EDUCATION,74207,CRANBERRY-PROSPERITY,62.70%,,60.67%,Y,252,158
+wv,50780,RALEIGH CO BD OF EDUCATION,74208,CRESCENT ELEMENTARY,50.00%,,60.67%,Y,340,170
+wv,50780,RALEIGH CO BD OF EDUCATION,74209,DANIELS ELEMENTARY,48.12%,,60.67%,Y,586,282
+wv,50780,RALEIGH CO BD OF EDUCATION,74211,FAIRDALE ELEMENTARY,52.03%,,60.67%,Y,394,205
+wv,50780,RALEIGH CO BD OF EDUCATION,74212,GHENT ELEMENTARY,51.29%,,60.67%,Y,232,119
+wv,50780,RALEIGH CO BD OF EDUCATION,74213,HOLLYWOOD ELEMENTARY,44.92%,,60.67%,Y,236,106
+wv,50780,RALEIGH CO BD OF EDUCATION,74217,MABSCOTT ELEMENTARY,81.01%,,60.67%,Y,237,192
+wv,50780,RALEIGH CO BD OF EDUCATION,74232,MARSHFORK ELEMENTARY,71.17%,,60.67%,Y,163,116
+wv,50780,RALEIGH CO BD OF EDUCATION,74218,MAXWELL HILL ELEM.,44.39%,,60.67%,Y,214,95
+wv,50780,RALEIGH CO BD OF EDUCATION,74227,SHADY SPRING ELEMENT,46.17%,,60.67%,Y,431,199
+wv,50780,RALEIGH CO BD OF EDUCATION,74226,STANAFORD ELEMENTARY,60.17%,,60.67%,Y,231,139
+wv,50780,RALEIGH CO BD OF EDUCATION,74233,STRATTON ELEMENTARY,87.64%,,60.67%,Y,275,241
+wv,50780,RALEIGH CO BD OF EDUCATION,74220,RIDGEVIEW ELEMENTARY SCHOOL,63.70%,,60.67%,Y,427,272
+wv,50781,RANDOLPH CO BD OF EDUCATION,75201,BEVERLY ELEMENTARY S,70.04%,,54.12%,Y,247,173
+wv,50781,RANDOLPH CO BD OF EDUCATION,75101,COALTON ELEMENTARY S,59.73%,,54.12%,Y,149,89
+wv,50781,RANDOLPH CO BD OF EDUCATION,75504,ELKINS HIGH SCHOOL,42.61%,,54.12%,Y,751,320
+wv,50781,RANDOLPH CO BD OF EDUCATION,75401,ELKINS MIDDLE SCHOOL,46.58%,,54.12%,Y,584,272
+wv,50781,RANDOLPH CO BD OF EDUCATION,75204,GEORGE WARD SCHOOL,67.30%,,54.12%,Y,318,214
+wv,50781,RANDOLPH CO BD OF EDUCATION,75102,HARMAN SCHOOL,54.00%,,54.12%,Y,150,81
+wv,50781,RANDOLPH CO BD OF EDUCATION,75202,JENNINGS RANDOLPH EL,62.83%,,54.12%,Y,226,142
+wv,50781,RANDOLPH CO BD OF EDUCATION,75206,MIDLAND ELEMENTARY,51.66%,,54.12%,Y,211,109
+wv,50781,RANDOLPH CO BD OF EDUCATION,75207,NORTH ELEMENTARY SCH,57.71%,,54.12%,Y,201,116
+wv,50781,RANDOLPH CO BD OF EDUCATION,75103,PICKENS SCHOOL,45.95%,,54.12%,Y,37,17
+wv,50781,RANDOLPH CO BD OF EDUCATION,75505,RANDOLPH CO. ALTERNA,82.35%,,54.12%,Y,17,14
+wv,50781,RANDOLPH CO BD OF EDUCATION,75203,THIRD WARD ELEMENTAR,65.90%,,54.12%,Y,305,201
+wv,50781,RANDOLPH CO BD OF EDUCATION,75503,TYGARTS VALLEY,50.11%,,54.12%,Y,453,227
+wv,50782,RITCHIE CO BD OF EDUCATION,77205,CREED COLLINS ELEMEN,65.00%,,55.67%,Y,220,143
+wv,50782,RITCHIE CO BD OF EDUCATION,77204,HARRISVILLE ELEMENTA,59.80%,,55.67%,Y,204,122
+wv,50782,RITCHIE CO BD OF EDUCATION,77302,RITCHIE COUNTY MIDDL,51.44%,,55.67%,Y,348,179
+wv,50782,RITCHIE CO BD OF EDUCATION,77207,SMITHVILLE ELEMENTAR,58.51%,,55.67%,Y,94,55
+wv,50782,RITCHIE CO BD OF EDUCATION,77501,RITCHIE COUNTY HIGH SCHOOL,51.49%,,55.67%,Y,404,208
+wv,50783,ROANE CO BD OF EDUCATION,79202,GEARY ELEM/MIDDLE,64.38%,,54.67%,Y,219,141
+wv,50783,ROANE CO BD OF EDUCATION,79503,ROANE COUNTY HIGH,47.15%,,54.67%,Y,543,256
+wv,50783,ROANE CO BD OF EDUCATION,79205,SPENCER ELEMENTARY,59.28%,,54.67%,Y,442,262
+wv,50783,ROANE CO BD OF EDUCATION,79301,SPENCER MIDDLE SCHOO,55.79%,,54.67%,Y,337,188
+wv,50783,ROANE CO BD OF EDUCATION,79206,WALTON ELEMENTARY/MI,52.85%,,54.67%,Y,246,130
+wv,50784,SUMMERS CO BD OF EDUCATION,81203,HINTON AREA ELEMENTA,76.52%,,62.50%,Y,362,277
+wv,50784,SUMMERS CO BD OF EDUCATION,81204,JUMPING BRANCH ELEME,61.18%,,62.50%,Y,85,52
+wv,50784,SUMMERS CO BD OF EDUCATION,81102,TALCOTT ELEMENTARY,68.86%,,62.50%,Y,167,115
+wv,50784,SUMMERS CO BD OF EDUCATION,81503,SUMMERS COUNTY COMPREHENSIVE HIGH SCHOOL,60.00%,,62.50%,Y,700,420
+wv,50785,TAYLOR CO BD OF EDUCATION,83201,ANNA JARVIS ELEMENTA,55.02%,,46.16%,Y,578,318
+wv,50785,TAYLOR CO BD OF EDUCATION,83202,FLEMINGTON ELEMENTAR,66.89%,,46.16%,Y,148,99
+wv,50785,TAYLOR CO BD OF EDUCATION,83502,GRAFTON HIGH SCHOOL,40.09%,,46.16%,Y,661,265
+wv,50785,TAYLOR CO BD OF EDUCATION,83302,TAYLOR COUNTY MIDDLE,46.21%,,46.16%,Y,699,323
+wv,50785,TAYLOR CO BD OF EDUCATION,83204,WEST TAYLOR ELEMENTA,33.02%,,46.16%,Y,321,106
+wv,50786,TUCKER CO BD OF EDUCATION,84101,DAVIS THOMAS MIDDLE,41.75%,,44.07%,Y,206,86
+wv,50786,TUCKER CO BD OF EDUCATION,84501,TUCKER COUNTY HIGH S,42.61%,,42.61%,Y,291,124
+wv,50786,TUCKER CO BD OF EDUCATION,84103,TUCKER VALLEY EL MID,45.09%,,44.07%,Y,468,211
+wv,50787,TYLER CO BD OF EDUCATION,85201,ARTHUR I. BOREMAN EL,53.53%,,51.49%,Y,312,167
+wv,50787,TYLER CO BD OF EDUCATION,85202,SISTERSVILLE ELEMENT,55.67%,,51.49%,Y,282,157
+wv,50787,TYLER CO BD OF EDUCATION,85503,TYLER CONSOLIDATED H,43.80%,,43.80%,Y,347,152
+wv,50787,TYLER CO BD OF EDUCATION,85303,TYLER CONSOLIDATED MIDDLE SCHOOL,44.93%,,51.49%,Y,276,124
+wv,50788,UPSHUR COUNTY BOARD OF EDUCATION,87501,B-U HIGH SCHOOL,51.62%,,56.21%,Y,1077,556
+wv,50788,UPSHUR COUNTY BOARD OF EDUCATION,87301,B-U MIDDLE SCHOOL,53.99%,,56.21%,Y,802,433
+wv,50788,UPSHUR COUNTY BOARD OF EDUCATION,87202,BUCKHANNON ACADEMY E,68.54%,,56.21%,Y,553,379
+wv,50788,UPSHUR COUNTY BOARD OF EDUCATION,87205,FRENCH CREEK ELEMENT,56.14%,,56.21%,Y,228,128
+wv,50788,UPSHUR COUNTY BOARD OF EDUCATION,87206,HODGESVILLE ELEMENTA,61.40%,,56.21%,Y,171,105
+wv,50788,UPSHUR COUNTY BOARD OF EDUCATION,87208,ROCK CAVE ELEMENTARY,64.00%,,56.21%,Y,125,80
+wv,50788,UPSHUR COUNTY BOARD OF EDUCATION,87209,TENNERTON ELEMENTARY,49.36%,,56.21%,Y,312,154
+wv,50788,UPSHUR COUNTY BOARD OF EDUCATION,87211,UNION ELEMENTARY SCH,57.19%,,56.21%,Y,292,167
+wv,50788,UPSHUR COUNTY BOARD OF EDUCATION,87210,WASHINGTON DISTRICT,55.37%,,56.21%,Y,121,67
+wv,50789,WAYNE CO BD OF EDUCATION,89202,BUFFALO ELEMENTARY,49.51%,,53.84%,Y,410,203
+wv,50789,WAYNE CO BD OF EDUCATION,89301,BUFFALO MIDDLE SCHOO,49.60%,,53.84%,Y,250,124
+wv,50789,WAYNE CO BD OF EDUCATION,89302,CEREDO-KENOVA MIDDLE,53.01%,,53.84%,Y,266,141
+wv,50789,WAYNE CO BD OF EDUCATION,89207,DUNLOW ELEMENTARY,60.76%,,53.84%,Y,79,48
+wv,50789,WAYNE CO BD OF EDUCATION,89216,EAST  LYNN  ELEMENTA,65.22%,,53.84%,Y,138,90
+wv,50789,WAYNE CO BD OF EDUCATION,89209,GENOA ELEMENTARY,77.61%,,53.84%,Y,67,52
+wv,50789,WAYNE CO BD OF EDUCATION,89210,KELLOGG ELEMENTARY,57.66%,,53.84%,Y,359,207
+wv,50789,WAYNE CO BD OF EDUCATION,89212,LAVALETTE ELEMENTARY,59.82%,,53.84%,Y,224,134
+wv,50789,WAYNE CO BD OF EDUCATION,89213,PRICHARD ELEMENTARY,50.34%,,53.84%,Y,145,73
+wv,50789,WAYNE CO BD OF EDUCATION,89508,SPRING VALLEY HIGH S,43.70%,,53.84%,Y,929,406
+wv,50789,WAYNE CO BD OF EDUCATION,89507,TOLSIA,58.40%,,53.84%,Y,351,205
+wv,50789,WAYNE CO BD OF EDUCATION,89306,VINSON MIDDLE SCHOOL,53.48%,,53.84%,Y,230,123
+wv,50789,WAYNE CO BD OF EDUCATION,89215,WAYNE ELEMENTARY,58.56%,,53.84%,Y,473,277
+wv,50789,WAYNE CO BD OF EDUCATION,89506,WAYNE HIGH SCHOOL,47.16%,,53.84%,Y,581,274
+wv,50789,WAYNE CO BD OF EDUCATION,89305,WAYNE MIDDLE SCHOOL,51.89%,,53.84%,Y,397,206
+wv,50789,WAYNE CO BD OF EDUCATION,89101,FORT GAY PRE K-8,67.05%,,53.84%,Y,519,348
+wv,50789,WAYNE CO BD OF EDUCATION,89102,CRUM PRE K-8,69.00%,,53.84%,Y,229,158
+wv,50789,WAYNE CO BD OF EDUCATION,89217,CEREDO-KENOVA ELEMENTARY,49.29%,,53.84%,Y,637,314
+wv,50790,WEBSTER CO BD OF EDUCATION,91202,GLADE ELEMENTARY,72.04%,,62.50%,Y,372,268
+wv,50790,WEBSTER CO BD OF EDUCATION,91203,HACKER VALLEY GRADE,80.00%,,62.50%,Y,65,52
+wv,50790,WEBSTER CO BD OF EDUCATION,91501,WEBSTER CO. HIGH SCH,64.07%,,62.50%,Y,526,337
+wv,50790,WEBSTER CO BD OF EDUCATION,91204,WEBSTER SPRINGS ELEM,71.49%,,62.50%,Y,235,168
+wv,50791,WETZEL CO BD OF EDUCATION,92501,HUNDRED HIGH SCHOOL,54.84%,,50.62%,Y,93,51
+wv,50791,WETZEL CO BD OF EDUCATION,92201,LONG DRAIN SCHOOL,65.09%,,62.50%,Y,169,110
+wv,50791,WETZEL CO BD OF EDUCATION,92502,MAGNOLIA HIGH SCHOOL,58.12%,,58.01%,Y,382,222
+wv,50791,WETZEL CO BD OF EDUCATION,92202,NEW MARTINSVILLE SCH,61.86%,,62.50%,Y,776,480
+wv,50791,WETZEL CO BD OF EDUCATION,92203,PADEN CITY ELEMENTAR,62.44%,,62.50%,Y,205,128
+wv,50791,WETZEL CO BD OF EDUCATION,92503,PADEN CITY HIGH SCHO,57.76%,,58.01%,Y,161,93
+wv,50791,WETZEL CO BD OF EDUCATION,92204,SHORT LINE SCHOOL,64.64%,,62.50%,Y,362,234
+wv,50791,WETZEL CO BD OF EDUCATION,92504,VALLEY HIGH SCHOOL,47.97%,,50.62%,Y,148,71
+wv,50792,WIRT CO BD OF EDUCATION,94201,WIRT CO PRIMARY CENT,62.30%,,56.67%,Y,374,233
+wv,50792,WIRT CO BD OF EDUCATION,94501,WIRT COUNTY HIGH SCH,52.52%,,56.67%,Y,278,146
+wv,50792,WIRT CO BD OF EDUCATION,94301,WIRT COUNTY MIDDLE S,53.33%,,56.67%,Y,285,152
+wv,50793,WOOD CO BD OF EDUCATION,96401,BLENNERHASSET MIDDLE,51.66%,,48.82%,Y,571,295
+wv,50793,WOOD CO BD OF EDUCATION,96201,BLENNERHASSETT ELEME,45.81%,,48.82%,Y,489,224
+wv,50793,WOOD CO BD OF EDUCATION,96205,CRISS ELEMENTARY,44.44%,,48.82%,Y,252,112
+wv,50793,WOOD CO BD OF EDUCATION,96402,EDISON MIDDLE SCHOOL,58.20%,,57.93%,Y,610,355
+wv,50793,WOOD CO BD OF EDUCATION,96206,EMERSON ELEMENTARY S,59.43%,,57.93%,Y,419,249
+wv,50793,WOOD CO BD OF EDUCATION,96207,FAIRPLAINS ELEMENTAR,82.70%,,57.06%,Y,185,153
+wv,50793,WOOD CO BD OF EDUCATION,96237,FRANKLIN ELEMENTARY,77.01%,,49.87%,Y,261,201
+wv,50793,WOOD CO BD OF EDUCATION,96208,GIHON ELEMENTARY,56.47%,,48.82%,Y,278,157
+wv,50793,WOOD CO BD OF EDUCATION,96209,GREENMONT ELEMENTARY,25.97%,,51.20%,Y,231,60
+wv,50793,WOOD CO BD OF EDUCATION,96404,HAMILTON MIDDLE SCHO,57.65%,,48.82%,Y,425,245
+wv,50793,WOOD CO BD OF EDUCATION,96405,JACKSON MIDDLE SCHOO,40.32%,,57.93%,Y,496,200
+wv,50793,WOOD CO BD OF EDUCATION,96211,JEFFERSON ELEMENTARY,82.03%,,57.06%,Y,612,502
+wv,50793,WOOD CO BD OF EDUCATION,96212,KANAWHA ELEMENTARY,60.66%,,51.20%,Y,272,165
+wv,50793,WOOD CO BD OF EDUCATION,96215,LUBECK ELEMENTARY,39.53%,,57.06%,Y,382,151
+wv,50793,WOOD CO BD OF EDUCATION,96216,MADISON ELEMENTARY,62.59%,,51.20%,Y,286,179
+wv,50793,WOOD CO BD OF EDUCATION,96238,MARTIN ELEMENTARY,68.42%,,49.87%,Y,228,156
+wv,50793,WOOD CO BD OF EDUCATION,96219,MINERAL WELLS ELEMEN,49.17%,,48.82%,Y,539,265
+wv,50793,WOOD CO BD OF EDUCATION,96222,NEALE ELEMENTARY,58.93%,,48.82%,Y,375,221
+wv,50793,WOOD CO BD OF EDUCATION,96501,PARKERSBURG HIGH SCH,47.79%,,48.82%,Y,1607,768
+wv,50793,WOOD CO BD OF EDUCATION,96502,PARKERSBURG SOUTH HI,44.86%,,48.82%,Y,1458,654
+wv,50793,WOOD CO BD OF EDUCATION,96406,VAN DEVENDER MIDDLE,80.75%,,57.93%,Y,348,281
+wv,50793,WOOD CO BD OF EDUCATION,96231,VIENNA ELEMENTARY,43.62%,,48.82%,Y,282,123
+wv,50793,WOOD CO BD OF EDUCATION,96235,WILLIAMSTOWN ELEMENT,34.25%,,57.06%,Y,584,200
+wv,50793,WOOD CO BD OF EDUCATION,96503,WILLIAMSTOWN HIGH SC,32.46%,,49.87%,Y,650,211
+wv,50794,WYOMING CO BD OF EDUCATION,98201,BAILEYSVILLE GRADE S,60.45%,,54.48%,Y,311,188
+wv,50794,WYOMING CO BD OF EDUCATION,98202,BERLIN MCKINNEY GRAD,60.17%,,54.48%,Y,349,210
+wv,50794,WYOMING CO BD OF EDUCATION,98204,GLEN FORK GRADE SCHO,51.52%,,54.48%,Y,165,85
+wv,50794,WYOMING CO BD OF EDUCATION,98206,HERNDON CONSOLIDATED,65.84%,,54.48%,Y,161,106
+wv,50794,WYOMING CO BD OF EDUCATION,98207,HUFF CONSOLIDATED SC,58.68%,,54.48%,Y,242,142
+wv,50794,WYOMING CO BD OF EDUCATION,98211,MULLENS ELEMENTARY S,58.42%,,54.48%,Y,190,111
+wv,50794,WYOMING CO BD OF EDUCATION,98301,MULLENS MIDDLE SCHOO,53.52%,,54.48%,Y,142,76
+wv,50794,WYOMING CO BD OF EDUCATION,98302,OCEANA MIDDLE SCHOOL,52.42%,,54.48%,Y,227,119
+wv,50794,WYOMING CO BD OF EDUCATION,98212,PINEVILLE ELEMENTARY,50.30%,,54.48%,Y,338,170
+wv,50794,WYOMING CO BD OF EDUCATION,98303,PINEVILLE MIDDLE SCH,49.21%,,54.48%,Y,254,125
+wv,50794,WYOMING CO BD OF EDUCATION,98214,ROAD BRANCH GRADE SC,49.70%,,54.48%,Y,165,82
+wv,50794,WYOMING CO BD OF EDUCATION,98508,WESTSIDE HIGH SCHOOL,52.87%,,54.48%,Y,541,286
+wv,50794,WYOMING CO BD OF EDUCATION,98507,WYOMING EAST HIGH,50.11%,,54.48%,Y,445,223
+wv,50741,BERKELEY CO BD OF EDUCATION,207,HEDGESVILLE ELEMENTARY SCHOOL,42.48%,,,N,652,277
+wv,50741,BERKELEY CO BD OF EDUCATION,209,MARLOWE ELEMENTARY ,42.57%,,,N,303,129
+wv,50741,BERKELEY CO BD OF EDUCATION,306,MOUNTAIN RIDGE MIDDLE SCHOOL,42.39%,,,N,637,270
+wv,50741,BERKELEY CO BD OF EDUCATION,304,MUSSLEMAN MIDDLE SCHOOL ,40.29%,,,N,680,274
+wv,50741,BERKELEY CO BD OF EDUCATION,213,VALLEYVIEW ELEMENTARY SCHOOL ,45.12%,,,N,430,194
+wv,50778,PRESTON CO BD OF EDUCATION,215,CONNER STREET ELEMENTARY,46.30%,,,N,365,169
+wv,50778,PRESTON CO BD OF EDUCATION,305,GERORGE WASHINGTON MIDDLE,46.69%,,,N,287,134
+wv,50778,PRESTON CO BD OF EDUCATION,235,HURRICANE TOWN ELEMENTARY ,45.20%,,,N,354,160
+wv,50778,PRESTON CO BD OF EDUCATION,515,POCA HIGH SCHOOL ,46.74%,,,N,445,208
+wv,50778,PRESTON CO BD OF EDUCATION,275,WINFIELD ELEMENTARY ,42.11%,,,N,532,224
+wv,50780,RALEIGH CO BD OF EDUCATION,409,BECKLEY-STRATTON MIDDLE SCHOOL ,64.81%,,,N,648,420
+wv,50780,RALEIGH CO BD OF EDUCATION,502,INDEPENDENCE HIGH SCHOOL ,51.05%,,,N,534,273
+wv,50780,RALEIGH CO BD OF EDUCATION,408,INDEPENDENCE MIDDLE SCHOOL ,60.77%,,,N,469,285
+wv,50780,RALEIGH CO BD OF EDUCATION,503,LIBERTY HIGH SCHOOL ,51.93%,,,N,493,256
+wv,50780,RALEIGH CO BD OF EDUCATION,402,PARK MIDDLE SCHOOL ,44.92%,,,N,374,168
+wv,50780,RALEIGH CO BD OF EDUCATION,403,SHADY SPRING MIDDLE SCHOOL ,44.82%,,,N,589,264
+wv,50780,RALEIGH CO BD OF EDUCATION,302,TRAP HILL MIDDLE SCHOOL ,54.64%,,,N,388,212
+wv,50780,RALEIGH CO BD OF EDUCATION,506,WOODROW WILSON HIGH SCHOOL ,47.15%,,,N,1262,595
