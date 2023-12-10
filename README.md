@@ -86,3 +86,17 @@ Please see the Issues for how to help, and contact the [Open San Diego Team on S
 * https://cfpa.net/ChildNutrition/ChildNutrition_Legislation/LCFF-CEP-Factsheet-2014.pdf
 * https://www.fns.usda.gov/nslp/community-eligibility-provision-resource-center
 * https://www.cde.ca.gov/ds/sd/sd/filescupc.asp  - The CALPADS data file (UPC) used for initial development
+
+# Statewide UI
+
+Experimental
+
+Package for Windows with:
+```
+virtulenv venv
+venv\Scripts\activate
+pip install -r requirements.txt
+pip install pyinstaller
+pyinstaller.exe statewide-ui.spec
+mv dist\statewide-ui.exe C:\where\you\want\it\
+```
