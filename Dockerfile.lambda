@@ -5,13 +5,13 @@
 # docker build -t mealscount-lambda -f Dockerfile.lambda .
 # AWS_ACCESS_KEY_ID=YOURACCESSKEY AWS_SECRET_ACCESS_KEY=YOURSECRETKEY docker run --rm -e AWS_ACCESS_KEY_ID -e AWS_SECRET_ACCESS_KEY mealscount-lambda
 # NOTE: the access key ids will require 
-FROM lambci/lambda:build-python3.8
+FROM public.ecr.aws/lambda/python:3.11
 ENV AWS_DEFAULT_REGION us-west-1
-COPY *.py ./
-COPY strategies ./strategies
-COPY base_requirements.txt .
-COPY lambda_requirements.txt .
-RUN pip3 install -r lambda_requirements.txt --target .
-RUN zip -9yr function.zip .
+COPY *.py ${LAMBDA_TASK_ROOT}
+COPY strategies ${LAMBDA_TASK_ROOT}/strategies
+COPY base_requirements.txt ${LAMBDA_TASK_ROOT}
+COPY lambda_requirements.txt ${LAMBDA_TASK_ROOT}
+RUN pip3 install -r lambda_requirements.txt --target ${LAMBDA_TASK_ROOT} 
 
-CMD aws s3 cp ./function.zip s3://mealscount-results/function.zip && aws lambda update-function-code --function-name mealscount-optimize --s3-bucket mealscount-results --s3-key function.zip 
+CMD ["lambda_function.lambda_handler"]
+#CMD aws s3 cp ./function.zip s3://mealscount-results/function.zip && aws lambda update-function-code --function-name mealscount-optimize --s3-bucket mealscount-results --s3-key function.zip 

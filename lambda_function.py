@@ -2,7 +2,7 @@
 #
 # Use Dockerfile.lambda to package/upload (see the instructions in the Dockerfile)
 # 
-from strategies.base import CEPDistrict,CEPSchool
+from strategies.base import CEPDistrict,CEPSchool,DEFAULT_ISP_THRESHOLD
 from cep_estimatory import add_strategies
 import os,datetime,json,time
 import zipfile
@@ -60,12 +60,9 @@ def lambda_handler(event, context, local_output=False):
     strategies = d_obj.get("strategies_to_run",["Pairs","OneToOne","Exhaustive?evaluate_by=%s"% evaluate_by,"OneGroup","Spread","Binning","NYCMODA?fresh_starts=50&iterations=1000&ngroups=%s&evaluate_by=%s" % (max_groups,evaluate_by),"GreedyLP"])
     add_strategies(
         district,
-        *strategies
+        *strategies,
+        ("isp_threshold" in d_obj) and float(d_obj.get("isp_threshold")) or DEFAULT_ISP_THRESHOLD
     )
-
-    if "isp_threshold" in d_obj:
-        for s in district.strategies:
-            s.isp_threshold = float(d_obj.get("isp_threshold"))
 
     t0 = time.time()
     district.run_strategies()
