@@ -82,25 +82,25 @@ class CEPTestCase(unittest.TestCase,CEPTestMixin):
     def test_rate_determination(self):
         # State, SFA, 60%, Severe Need 
         r = CEPRate("ak",True,"more",True)
-        self.assertEqual(r.paid_lunch_rate,1.03)
-        self.assertEqual(r.free_breakfast_rate,4.21)
+        self.assertEqual(r.paid_lunch_rate,0.68)
+        self.assertEqual(r.free_breakfast_rate,4.39)
         r = CEPRate("ny",True,"less",False)
-        self.assertEqual(r.free_breakfast_rate,2.26)
-        self.assertEqual(r.paid_lunch_rate,0.77)
+        self.assertEqual(r.free_breakfast_rate,2.28)
+        self.assertEqual(r.paid_lunch_rate,0.40)
         r = CEPRate("tx",True,"max",True)
-        self.assertEqual(r.paid_breakfast_rate,0.50)
-        self.assertEqual(r.free_lunch_rate,4.50)
+        self.assertEqual(r.paid_breakfast_rate,0.38)
+        self.assertEqual(r.free_lunch_rate,4.42)
     
     def test_group(self):
         district = self.create_default_districts()
         # Create a singular group to test group metrics
-        g = CEPGroup(district, "High ISP", district.schools[:2])
+        g = CEPGroup(district, "High ISP", district.schools[:2],0.4)
         s1,s2 = g.schools
         self.assertEqual(g.isp, (s1.total_eligible + s2.total_eligible) / (s1.total_enrolled + s2.total_enrolled) )
         self.assertEqual(g.free_rate, 1 ) # We are over 1 for isp * 1.6
         self.assertEqual(g.paid_rate, 0 )
 
-        g2 = CEPGroup(district, "Low ISP", district.schools[2:])
+        g2 = CEPGroup(district, "Low ISP", district.schools[2:],0.4)
         s1,s2 = g2.schools
         self.assertEqual(g2.isp, (s1.total_eligible + s2.total_eligible) / (s1.total_enrolled + s2.total_enrolled) )
         self.assertEqual(g2.free_rate, 0 )

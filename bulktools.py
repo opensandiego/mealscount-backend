@@ -193,7 +193,7 @@ def optimize(districts,strategies,pool,goal="reimbursement",isp_threshold=None,p
   return [pool.apply_async(mp_processor, (d,goal,strategies,isp_threshold)) for d in districts.values()]
  
 def mp_processor(district,goal,strategies,isp_threshold):
-  add_strategies(district,*strategies)
+  add_strategies(district,strategies)
   if(isp_threshold):
     for strategy in district.strategies:
       strategy.isp_threshold = isp_threshold

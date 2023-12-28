@@ -34,7 +34,7 @@ def parse_strategy(strategy):
     klass = STRATEGIES[strategy_param.path]
     return (klass,params,strategy)
 
-def add_strategies(district,*strategies,isp_threshold=DEFAULT_ISP_THRESHOLD):
+def add_strategies(district,strategies,isp_threshold=DEFAULT_ISP_THRESHOLD):
     for s in strategies:
         Klass,params,name = parse_strategy(s) 
         district.strategies.append( Klass(params,name,isp_threshold=isp_threshold) )

@@ -176,7 +176,7 @@ def optimize():
     evaluate_by = d_obj.get("evaluate_by","reimbursement")
     add_strategies(
         district,
-        *[
+        [
             "Pairs",
             "OneToOne",
             "Exhaustive?evaluate_by=%s"%evaluate_by,
@@ -264,7 +264,7 @@ def district(state,code):
     district = get_district(state,code,district_params) 
 
 #    # TODO allow incoming data to specify strategies and strategy parameters 
-#    add_strategies(district,"OneToOne","OneGroup","Exhaustive","Binning")
+#    add_strategies(district,["OneToOne","OneGroup","Exhaustive","Binning"])
 #    district.run_strategies() 
 #    district.evaluate_strategies()
 

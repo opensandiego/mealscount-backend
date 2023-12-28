@@ -14,4 +14,3 @@ COPY lambda_requirements.txt ${LAMBDA_TASK_ROOT}
 RUN pip3 install -r lambda_requirements.txt --target ${LAMBDA_TASK_ROOT} 
 
 CMD ["lambda_function.lambda_handler"]
-#CMD aws s3 cp ./function.zip s3://mealscount-results/function.zip && aws lambda update-function-code --function-name mealscount-optimize --s3-bucket mealscount-results --s3-key function.zip 

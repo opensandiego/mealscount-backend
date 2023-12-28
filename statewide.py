@@ -198,7 +198,7 @@ def optimize(districts,strategies,goal="reimbursement"):
   return [r.get() for r in results]
  
 def mp_processor(district,goal,strategies):
-  add_strategies(district,*strategies)
+  add_strategies(district,strategies)
   district.run_strategies()
   district.evaluate_strategies(evaluate_by=goal)
   schools = []

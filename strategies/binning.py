@@ -22,10 +22,13 @@ class BinCEPStrategy(BaseCEPStrategy):
         the_rest.sort(key = lambda school: school.isp) # lowest isp first, we will be popping the tail
 
         # CONSIDER should we even be looking at isp vs re-calculating aggregate isp?
-        new_isp = lambda x: len(x) \
-                            and sum([s.total_eligible for s in x])/sum([s.total_enrolled for s in x]) \
-                            or 0
-       
+        def new_isp(x): 
+            if len(x):
+                total_enrolled = sum([s.total_enrolled for s in x])
+                total_eligible = sum([s.total_eligible for s in x])
+                if total_enrolled: return total_eligible/total_enrolled
+            return 0
+
         def fill_up(target,threshold): 
             while len(the_rest):
                 target.append(the_rest.pop()) # take the tail
