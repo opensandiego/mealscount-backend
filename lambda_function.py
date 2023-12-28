@@ -34,7 +34,10 @@ def lambda_handler(event, context, local_output=False):
             with zipfile.ZipFile(df) as eventzip:
                 d_obj = json.loads(eventzip.open("data.json").read())
 
+    bucket = os.environ.get("S3_RESULTS_BUCKET","mealscount-results")
     key = d_obj["key"]
+
+    print( "Would output to s3bucket:%s/%s" % (bucket,key))
 
     max_groups = d_obj.get("max_groups",10)
     if max_groups != None: max_groups = int(max_groups)
@@ -90,10 +93,10 @@ def lambda_handler(event, context, local_output=False):
 
         s3_client.put_object( 
             Body = json.dumps(result), 
-            Bucket=os.environ.get("S3_RESULTS_BUCKET","mealscount-results"), 
+            Bucket = bucket, 
             Key=result_key, 
             ContentType="application/json",
-            ACL='public-read',
+            #ACL='public-read',
         )
 
 def test_run(event,n):
@@ -109,7 +112,8 @@ def test_run(event,n):
                 with zipfile.ZipFile(mf,mode='w',compression=zipfile.ZIP_BZIP2) as zf:
                     zf.writestr('data.json', json.dumps(event))
                 event = {"zipped": base64.b64encode(mf.getvalue()) }
-
+        elif "--show-payload" in sys.argv:
+            print("Payload",event)
         return lambda_handler(event,TestContext(),local_output="AWS_ACCESS_KEY_ID" not in os.environ)
 
 if __name__ == "__main__":
