@@ -96,6 +96,7 @@ def lambda_handler(event, context, local_output=False):
             Bucket = bucket, 
             Key=result_key, 
             ContentType="application/json",
+            # we now rely on bucket-wide ACL
             #ACL='public-read',
         )
 
