@@ -44,7 +44,15 @@ def lambda_handler(event, context, local_output=False):
     evaluate_by = d_obj.get("evaluate_by","reimbursement")
 
     schools = d_obj["schools"]
-    district = CEPDistrict(d_obj["name"],d_obj["code"],state=d_obj["state_code"])
+    isp_threshold = ("isp_threshold" in d_obj) and float(d_obj.get("isp_threshold")) or DEFAULT_ISP_THRESHOLD
+    district = CEPDistrict(
+        d_obj["name"],
+        d_obj["code"],
+        state=d_obj["state_code"],
+        sfa_certified=d_obj.get("sfa_certified",True),
+        hhfka_sixty=d_obj.get("hhfka_sixty","more"),
+        isp_threshold=isp_threshold,
+    )
 
     state = d_obj["state_code"]
 
@@ -61,10 +69,12 @@ def lambda_handler(event, context, local_output=False):
         district.add_school(CEPSchool(row))
 
     strategies = d_obj.get("strategies_to_run",["Pairs","OneToOne","Exhaustive?evaluate_by=%s"% evaluate_by,"OneGroup","Spread","Binning","NYCMODA?fresh_starts=50&iterations=1000&ngroups=%s&evaluate_by=%s" % (max_groups,evaluate_by),"GreedyLP"])
+    print("Adding strategies",strategies,"with threshold ",isp_threshold)
+
     add_strategies(
         district,
         strategies,
-        ("isp_threshold" in d_obj) and float(d_obj.get("isp_threshold")) or DEFAULT_ISP_THRESHOLD
+        isp_threshold, 
     )
 
     t0 = time.time()

@@ -74,6 +74,7 @@
             v-bind:reimbursement="reimbursement_index[school.school_code]"
             v-bind:group_numbers="group_numbers"
             v-bind:color="color_for(school)"
+            v-bind:isp_threshold="isp_threshold"
             @recalculate="$emit('recalculate')"
           />
         </tbody>
@@ -109,7 +110,7 @@ import QUESTION from '../../assets/qmark.png'
 import * as chroma from 'chroma-js'
 
 export default {
-  props: ['schools','best_group_index','editMode','reimbursement_index'] ,
+  props: ['schools','best_group_index','editMode','reimbursement_index','isp_threshold'] ,
   data() {
     return {
       image: {qmark: QUESTION},

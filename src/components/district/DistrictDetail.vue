@@ -147,6 +147,7 @@
             v-bind:best_group_index="best_group_index" 
             v-bind:reimbursement_index="reimbursement_index" 
             v-bind:editMode="editMode" 
+            v-bind:isp_threshold="isp_threshold"
             @toggleEdit="toggleEdit" 
             @recalculate="recalculate"
             />
@@ -252,6 +253,9 @@ export default {
         return null;
       }
       return this.district.strategies[this.district.best_index];
+    },
+    isp_threshold() {
+      return this.district.isp_threshold || 0.25;
     },
     best_group_index() {
       if (this.best_strategy == null) {

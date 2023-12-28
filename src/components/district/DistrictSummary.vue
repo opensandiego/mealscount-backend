@@ -88,8 +88,8 @@
               <p>Following a <a target="_blank" href="https://www.fns.usda.gov/cn/cep-final-rule-summary">final rule change</a>, after 10/26/2023 the new minimum ISP is 25% (from 40%). For analysis, this can be run as 40%</p>
               <span v-if="editMode">
                 <select v-model="district.isp_threshold">
-                  <option value="0.25">25%</option>
-                  <option value="0.4">40%</option>
+                  <option :value=0.25>25%</option>
+                  <option :value=0.4>40%</option>
                 </select>
               </span>
             <div>

@@ -282,6 +282,7 @@ class CEPDistrict(object):
             "hhfka_sixty": self.hhfka_sixty,
             "best_strategy": self.best_strategy and self.best_strategy.name or None,
             "est_reimbursement": self.best_strategy and self.best_strategy.reimbursement or 0.0,
+            "isp_threshold": self.isp_threshold,
         }
         if include_schools:
             result["schools"] = [ s.as_dict(self) for s in self._schools]
@@ -362,6 +363,7 @@ class BaseCEPStrategy(ABC):
             "covered_students": self.students_covered,
             "reimbursement": self.reimbursement,
             'basis':  'estimated',
+            'isp_threshold': self.isp_threshold,
             #"This estimate of reimbursement revenue is based off school meal participation rates from a sample"
             #         "of schools current enrolled in CEP.  Your district's revenue will likely be between the high and"
             #         "low estimates but might be out side of this range.  This is especially likely if your district has"

@@ -27,7 +27,7 @@
             {{ ( (school.total_eligible / school.total_enrolled) * 100).toFixed(1) }}%
         </td>
         <td>
-            {{  ((school.total_eligible / school.total_enrolled)>=0.25)?"✔️":""  }}
+            {{  ((school.total_eligible / school.total_enrolled)>=isp_threshold)?"✔️":""  }}
         </td> 
         <td class="text-right">
             <span class="school_reimb">{{ reimbursement|toUSD }}</span>
@@ -45,7 +45,7 @@
 <script>
 
 export default {
-    props: ['school','group','color','reimbursement','group_numbers'],
+    props: ['school','group','color','reimbursement','group_numbers','isp_threshold'],
     computed: {
         rowBgStyle(){ 
             return { backgroundColor: this.color };

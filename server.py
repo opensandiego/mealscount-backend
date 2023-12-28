@@ -144,6 +144,7 @@ def optimize():
     if not d_obj:
         return {"error":"Invalid JSON data, please ensure all data fields are active"}
 
+    isp_threshold = ("isp_threshold" in d_obj) and float(d_obj.get("isp_threshold")) or DEFAULT_ISP_THRESHOLD
     schools = d_obj["schools"]
     state = d_obj["state_code"]
     district = CEPDistrict(
@@ -151,7 +152,8 @@ def optimize():
         d_obj.get("code","DistrictCode"),
         state=state,
         sfa_certified=d_obj.get("sfa_certified",True),
-        hhfka_sixty=d_obj.get("hhfka_sixty","more")
+        hhfka_sixty=d_obj.get("hhfka_sixty","more"),
+        isp_threshold=isp_threshold,
     )
 
     i = 1 
@@ -186,10 +188,8 @@ def optimize():
             "NYCMODA?fresh_starts=100&iterations=2000&ngroups=%s&evaluate_by=%s"%(max_groups,evaluate_by),
             "GreedyLP"
         ],
+        isp_threshold,
     )
-    if "isp_threshold" in d_obj:
-        for s in district.strategies:
-            s.isp_threshold = float(d_obj.get("isp_threshold"))
 
     t0 = time.time()
     district.run_strategies()
