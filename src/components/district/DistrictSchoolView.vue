@@ -47,7 +47,7 @@
              <th v-tooltip 
                 title="Estimated ISP based upon listed numbers of total eligible / total enrolled" scope="col" @click="set_sort('isp')">Estimated School ISP <img v-bind:src="image.qmark"></th>
             <th v-tooltip 
-                title="Indicates whether a given school is eligible for CEP (at or above the 40% ISP threshold) without grouping." 
+                title="Indicates whether a given school is eligible for CEP (at or above the ISP threshold) without grouping." 
                 scope="col">School CEP Eligible <img v-bind:src="image.qmark"></th>
             <th v-tooltip title="Estimated reimbursement per school year" scope="col">Estimated Annual Reimbursement Per School </th>
           </tr>
