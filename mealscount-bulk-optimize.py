@@ -46,6 +46,7 @@ class MealsCountDesktop(object):
       self.write_cfg()
 
   def write_cfg(self):
+    if not hasattr(self,"stateVar"): return
     self.cfg["state"] = self.stateVar.get()
     with open(self.configLocation,'w') as configFile:
       self.config.write(configFile)

@@ -97,6 +97,6 @@ virtulenv venv
 venv\Scripts\activate
 pip install -r requirements.txt
 pip install pyinstaller
-pyinstaller.exe statewide-ui.spec
-mv dist\statewide-ui.exe C:\where\you\want\it\
+pyinstaller.exe mealscount-bulk-optimize.spec
+mv dist\mealscount-bulk-optimize.exe C:\where\you\want\it\
 ```
