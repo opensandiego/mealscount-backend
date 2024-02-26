@@ -1,0 +1,26 @@
+name: MealsCount Bulk Optimizer
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Package Application
+      uses: JackMcKew/pyinstaller-action-windows@main
+      with:
+        path: ./
+        spec: mealscount-bulk-optimize.spec
+
+    - uses: actions/upload-artifact@v2
+      with:
+        name: mealscount-bulk-optimize.exe
+        path: dist/
