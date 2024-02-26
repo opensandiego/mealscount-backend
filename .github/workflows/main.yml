@@ -8,7 +8,7 @@ on:
 
 jobs:
   build:
-
+    name: Create bulk-optimize Windows tool
     runs-on: ubuntu-latest
 
     steps:
@@ -24,3 +24,10 @@ jobs:
       with:
         name: mealscount-bulk-optimize.exe
         path: dist/
+    
+    - name: Upload the artifacts
+      uses: skx/github-action-publish-binaries@master
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        args: 'mealscount-bulk-optimize.exe'
