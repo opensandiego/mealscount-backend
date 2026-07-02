@@ -319,11 +319,11 @@ class BaseCEPStrategy(ABC):
 
     @property
     def free_rate(self):
-        return self.isp * FREE_RATE_MULTIPLIER
+        return isp_to_free_rate(self.isp, self.isp_threshold)
     
     @abstractmethod
     def create_groups(self,district):
-        raise NotImplemented("Override this with the grouping strategy")
+        raise NotImplementedError("Override this with the grouping strategy")
 
     def matches_grouping_of(self,other_strategy):
         ''' Compare districts by looking to see if their grouped school codes are identical'''
